@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard is pregnant**
+**NATO signs $700 million Stinger missile contract as it makes plans to boost arms production**
 
-You can read more about it [here](https://www.salon.com/2024/07/09/gypsy-rose-blanchard-is-pregnant/).
+You can read more about it [here](https://apnews.com/article/nato-missiles-russia-stinger-ukraine-87746dcec5dbf19794c1cf27cd789594).
 
 ## Requirements
 - Python 3.8
