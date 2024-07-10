@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark on pace for WNBA's best rookie playmaking season: Fever star thriving alongside Aliyah Boston**
+**Hundreds of new UK lawmakers are sworn in as Parliament returns after a dramatic election**
 
-You can read more about it [here](https://www.cbssports.com/wnba/news/caitlin-clark-on-pace-for-wnbas-best-rookie-playmaking-season-fever-star-thriving-alongside-aliyah-boston/).
+You can read more about it [here]().
 
 ## Requirements
 - Python 3.8
