@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Hezbollah is trying to counter Israel's high-tech surveillance**
+**Teen dives onto shark and is bitten during lifeguard training camp in Florida**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/pagers-drones-how-hezbollah-aims-counter-israels-high-tech-surveillance-2024-07-09/).
+You can read more about it [here](https://www.cbsnews.com/news/shark-bites-teen-lifeguard-training-camp-florida-volusia-county/).
 
 ## Requirements
 - Python 3.8
