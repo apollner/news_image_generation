@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Inhofe, Oklahoma senator and climate change denier, dies at 89**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/07/09/james-inhofe-climate-change-dead/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
