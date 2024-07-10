@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Google Maps is rolling out speedometer, speed limits on iPhone and CarPlay globally**
+**‘Rust’ shooting: Alec Baldwin’s trial will begin with jury selection**
 
-You can read more about it [here](https://techcrunch.com/2024/07/09/google-maps-is-rolling-out-speedometer-speed-limits-on-iphone-and-carplay-globally/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2FsZWMtYmFsZHdpbi10cmlhbC1zaG9vdGluZy1ydXN0LWhhbHluYS1odXRjaGlucy1hNjczMWUzMjI2ZGYwOTkwZjA0Njk4NDVkZjNjY2RlONIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
