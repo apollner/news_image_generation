@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Halle Berry and Glenn Close Will Star With Kim Kardashian in New TV Show - E! Online**
+**Steph reveals his favorite Klay memory from their iconic partnership**
 
-You can read more about it [here](https://www.eonline.com/news/1404705/halle-berry-and-glenn-close-will-star-with-kim-kardashian-in-new-tv-show).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steph-curry-reveals-favorite-klay-thompson-memory/1753633/).
 
 ## Requirements
 - Python 3.8
