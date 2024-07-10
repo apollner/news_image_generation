@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures edge higher after S&P 500, Nasdaq close at fresh records: Live updates**
+**Nearly 1.9 million CenterPoint power outages in Houston after Beryl landfall**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/08/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/article/beryl-power-outage-centerpoint-19559838.php).
 
 ## Requirements
 - Python 3.8
