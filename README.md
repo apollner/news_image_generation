@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Playwright and director sentenced to six years in prison by Russian court**
+**Trooper Michael Proctor, lead investigator in Karen Read case, suspended without pay**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzA4L3BsYXl3cmlnaHQtZGlyZWN0b3Itc2VudGVuY2VkLXJ1c3NpYS1leHRyZW1pc20v0gEA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/boston/news/trooper-michael-proctor-karen-read-massachusetts-state-police/).
 
 ## Requirements
 - Python 3.8
