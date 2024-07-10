@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gypsy Rose Blanchard is pregnant, expecting first child with Ken Urker: ‘Not planned’**
+**Gypsy Rose Blanchard is pregnant**
 
-You can read more about it [here](https://nypost.com/2024/07/09/entertainment/gypsy-rose-blanchard-pregnant-expecting-baby-with-ken-urker/).
+You can read more about it [here](https://www.salon.com/2024/07/09/gypsy-rose-blanchard-is-pregnant/).
 
 ## Requirements
 - Python 3.8
