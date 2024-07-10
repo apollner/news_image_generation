@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing to plead guilty to fraud over 737 Max crashes**
+**Ukrainian children’s hospital attacked as Russian strikes on cities kill at least 37**
 
-You can read more about it [here](https://www.axios.com/2024/07/08/boeing-guilty-plea-737-max-crashes).
+You can read more about it [here](https://www.cnn.com/2024/07/08/europe/ukraine-russian-strike-childrens-hospital-intl/index.html).
 
 ## Requirements
 - Python 3.8
