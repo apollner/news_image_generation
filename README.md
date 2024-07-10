@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beryl leaves millions of Texans without power as dangerous heat descends on the region**
+**Mysterious radio signals focus of new solar mission**
 
-You can read more about it [here](https://www.cnn.com/2024/07/09/weather/beryl-storm-texas-power-outages-heat/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lmt4YW4uY29tL25ld3Mvc2NpZW5jZS9teXN0ZXJpb3VzLXJhZGlvLXNpZ25hbHMtZm9jdXMtb2YtbmV3LXNvbGFyLW1pc3Npb24v0gFaaHR0cHM6Ly93d3cua3hhbi5jb20vbmV3cy9zY2llbmNlL215c3RlcmlvdXMtcmFkaW8tc2lnbmFscy1mb2N1cy1vZi1uZXctc29sYXItbWlzc2lvbi9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
