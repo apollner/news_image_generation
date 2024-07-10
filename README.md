@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks wobble as S&P 500, Nasdaq try to build on records**
+**Judge decides Alec Baldwin's role as co-producer not relevant to trial over fatal 2021 set shooting**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-fresh-records-with-powell-on-deck-200126824.html).
+You can read more about it [here](https://apnews.com/article/alec-baldwin-trial-rust-shooting-movie-7111ebd9d360a261eade601b5e4ec297).
 
 ## Requirements
 - Python 3.8
