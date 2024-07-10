@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Paredes and Griffin Yow named to U.S. Olympic men's soccer team**
+**Jury in Alec Baldwin Trial Won't Hear Evidence of His Producer Role**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/07/08/us-olympic-mens-soccer-team/).
+You can read more about it [here](https://variety.com/2024/film/news/alec-baldwin-rust-trial-producer-role-excluded-1236062788/).
 
 ## Requirements
 - Python 3.8
