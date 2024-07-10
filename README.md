@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian children’s hospital attacked as Russian strikes on cities kill at least 37**
+**Kevin Paredes and Griffin Yow named to U.S. Olympic men's soccer team**
 
-You can read more about it [here](https://www.cnn.com/2024/07/08/europe/ukraine-russian-strike-childrens-hospital-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/07/08/us-olympic-mens-soccer-team/).
 
 ## Requirements
 - Python 3.8
