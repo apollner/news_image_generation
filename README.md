@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump's New Comments on Potential Vice President Choice**
+**Playwright and director sentenced to six years in prison by Russian court**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9kb25hbGQtdHJ1bXBzLW5ldy1jb21tZW50cy1wb3RlbnRpYWwtdmljZS1wcmVzaWRlbnQtY2hvaWNlLTE5MjI1NzLSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzA4L3BsYXl3cmlnaHQtZGlyZWN0b3Itc2VudGVuY2VkLXJ1c3NpYS1leHRyZW1pc20v0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
