@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen dives onto shark and is bitten during lifeguard training camp in Florida**
+**Ariane-6 first launch: Big rocket prepares to head skyward**
 
-You can read more about it [here](https://www.cbsnews.com/news/shark-bites-teen-lifeguard-training-camp-florida-volusia-county/).
+You can read more about it [here](https://www.bbc.com/news/articles/c19km33k1mpo).
 
 ## Requirements
 - Python 3.8
