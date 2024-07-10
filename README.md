@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariane-6 first launch: Big rocket prepares to head skyward**
+**White House releases letter from Biden's doctor after questions about Parkinson's specialist's White House visits**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c19km33k1mpo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvd2hpdGUtaG91c2UtYnJpZWZpbmcta2FyaW5lLWplYW4tcGllcnJlLWJpZGVuLXBhcmtpbnNvbnMtZG9jdG9yL9IBYWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3doaXRlLWhvdXNlLWJyaWVmaW5nLWthcmluZS1qZWFuLXBpZXJyZS1iaWRlbi1wYXJraW5zb25zLWRvY3Rvci8?oc=5).
 
 ## Requirements
 - Python 3.8
