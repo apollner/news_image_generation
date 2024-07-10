@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge decides Alec Baldwin's role as co-producer not relevant to trial over fatal 2021 set shooting**
+**Boeing to plead guilty to fraud over 737 Max crashes**
 
-You can read more about it [here](https://apnews.com/article/alec-baldwin-trial-rust-shooting-movie-7111ebd9d360a261eade601b5e4ec297).
+You can read more about it [here](https://www.axios.com/2024/07/08/boeing-guilty-plea-737-max-crashes).
 
 ## Requirements
 - Python 3.8
