@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rust’ shooting: Alec Baldwin’s trial will begin with jury selection**
+**Stock futures edge higher after S&P 500, Nasdaq close at fresh records: Live updates**
 
-You can read more about it [here](https://apnews.com/article/alec-baldwin-trial-shooting-rust-halyna-hutchins-a6731e3226df0990f0469845df3ccde8).
+You can read more about it [here](https://www.cnbc.com/2024/07/08/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
