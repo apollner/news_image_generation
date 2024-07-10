@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Cena Announces Retirement From WWE — Watch His Full Speech**
+**Stock market today: Stocks wobble as S&P 500, Nasdaq try to build on records**
 
-You can read more about it [here](https://tvline.com/news/john-cena-wwe-retirement-speech-video-1235278882/).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-eke-out-fresh-records-with-powell-on-deck-200126824.html).
 
 ## Requirements
 - Python 3.8
