@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Google Maps is rolling out speedometer, speed limits on iPhone and CarPlay globally**
+**Fed's Powell says more 'good' inflation data would bolster the case for rate cuts**
 
-You can read more about it [here](https://techcrunch.com/2024/07/09/google-maps-is-rolling-out-speedometer-speed-limits-on-iphone-and-carplay-globally/).
+You can read more about it [here](https://www.foxbusiness.com/economy/feds-powell-says-more-good-inflation-data-would-bolster-case-rate-cuts).
 
 ## Requirements
 - Python 3.8
