@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. marshal shoots teen in carjacking attempt near Sotomayor home, police say**
+**Ex-Browns QB Bernie Kosar diagnosed with Parkinson's disease, also likely needs liver transplant**
 
-You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/07/09/sonia-sotomayor-carjacking-marshal-shooting/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vZXgtYnJvd25zLXFiLWJlcm5pZS1rb3Nhci1kaWFnbm9zZWQtd2l0aC1wYXJraW5zb25zLWRpc2Vhc2UtYWxzby1saWtlbHktbmVlZHMtbGl2ZXItdHJhbnNwbGFudC0wMzU0MjM1NjAuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
