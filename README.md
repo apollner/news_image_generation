@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearby star cluster houses unusually large black hole**
+**Alec Baldwin broke ‘cardinal rules’ of gun safety in ‘Rust’ shooting, prosecutors say in opening of manslaughter trial**
 
-You can read more about it [here](https://arstechnica.com/science/2024/07/nearby-star-cluster-houses-unusually-large-black-hole/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMC91cy9hbGVjLWJhbGR3aW4tcnVzdC1zaG9vdGluZy10cmlhbC9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xMC91cy9hbGVjLWJhbGR3aW4tcnVzdC1zaG9vdGluZy10cmlhbA?oc=5).
 
 ## Requirements
 - Python 3.8
