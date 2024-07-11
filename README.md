@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe’s Long Awaited Ariane 6 Rocket Suffers Anomaly During Its Debut Flight**
+**From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career**
 
-You can read more about it [here](https://gizmodo.com/ariane-6-first-launch-anomaly-2000457850).
+You can read more about it [here](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/).
 
 ## Requirements
 - Python 3.8
