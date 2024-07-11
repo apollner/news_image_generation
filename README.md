@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**America’s New Catholic Priests: Young, Confident and Conservative**
+**Ellen DeGeneres is ‘done’ with fame after Netflix special: ‘This is the last time you’re going to see me’**
 
-You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
+You can read more about it [here](https://nypost.com/2024/07/10/entertainment/ellen-degeneres-says-shes-done-with-fame-after-her-netflix-special-drops/).
 
 ## Requirements
 - Python 3.8
