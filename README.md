@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin broke ‘cardinal rules’ of gun safety in ‘Rust’ shooting, prosecutors say in opening of manslaughter trial**
+**NATO Summit live updates: The latest on the alliance’s 75th anniversary meeting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMC91cy9hbGVjLWJhbGR3aW4tcnVzdC1zaG9vdGluZy10cmlhbC9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xMC91cy9hbGVjLWJhbGR3aW4tcnVzdC1zaG9vdGluZy10cmlhbA?oc=5).
+You can read more about it [here](https://www.cnn.com/politics/live-news/nato-summit/index.html).
 
 ## Requirements
 - Python 3.8
