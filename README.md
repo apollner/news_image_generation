@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasury yields retreat as Fed Chair warns on keeping rates elevated for too long**
+**Live updates: Latest on Houston power outages and Beryl recovery efforts**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/10/treasury-yields-retreat-fed-warns-on-keeping-rates-high-for-too-long.html).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/hurricane-beryl-power-updates-houston-heat-19563819.php).
 
 ## Requirements
 - Python 3.8
