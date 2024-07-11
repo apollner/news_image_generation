@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Copa America 2024 Semifinal Soccer: Livestream Argentina vs. Canada From Anywhere**
+**A ‘preposterous’ defense, prosecutor in Bob Menendez trial concludes**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/copa-america-2024-semifinal-soccer-livestream-argentina-vs-canada-from-anywhere/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/07/09/bob-menendez-corruption-trial-closing-arguments/).
 
 ## Requirements
 - Python 3.8
