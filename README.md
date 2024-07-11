@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO Summit live updates: The latest on the alliance’s 75th anniversary meeting**
+**England vs Netherlands live updates: Simons, Kane score early in wild Euro 2024 semifinal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL25hdG8tc3VtbWl0L2luZGV4Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL3NvY2Nlci9ldXJvcGUvMjAyNC8wNy8xMC9lbmdsYW5kLXZzLW5ldGhlcmxhbmRzLWV1cm8tMjAyNC1zZW1pZmluYWwtc2NvcmUtaGlnaGxpZ2h0cy83NDM0NzI4MDAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
