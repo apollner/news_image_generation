@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than two dozen Gazans killed in Israeli strike**
+**Rays' Franco charged with sexual abuse in DR**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-forces-step-up-military-pressure-gaza-amid-new-ceasefire-bid-2024-07-09/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40530027/tampa-bay-rays-ss-wander-franco-charged-sexual-abuse-sexual-exploitation-minor).
 
 ## Requirements
 - Python 3.8
