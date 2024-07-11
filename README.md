@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Latest on Houston power outages and Beryl recovery efforts**
+**Alec Baldwin's 'Rust' trial begins and 'hyperactive' hurricane season predicted after Beryl: Morning Rundown**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-weather/hurricanes/article/hurricane-beryl-power-updates-houston-heat-19563819.php).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYWxlYy1iYWxkd2luLXJ1c3QtdHJpYWwtaHVycmljYW5lLXNlYXNvbi1iZXJ5bC1tb3JuaW5nLXJ1bmRvd24tcmNuYTE2MTA2ONIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEwNjg?oc=5).
 
 ## Requirements
 - Python 3.8
