@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin trial over fatal ‘Rust’ shooting of cinematographer begins: Live**
+**More than two dozen Gazans killed in Israeli strike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvY3JpbWUvYWxlYy1iYWxkd2luLXRyaWFsLXJ1c3Qtc2hvb3RpbmctdXBkYXRlcy1iMjU3Njg4Ni5odG1s0gEA?oc=5).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-forces-step-up-military-pressure-gaza-amid-new-ceasefire-bid-2024-07-09/).
 
 ## Requirements
 - Python 3.8
