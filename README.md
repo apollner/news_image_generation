@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court orders arrest of Yulia Navalnaya in absentia**
+**NASA completes first mission simulating astronaut life on Mars**
 
-You can read more about it [here](https://www.cnn.com/2024/07/09/europe/yulia-navalnaya-arrest-order-russia-intl/index.html).
+You can read more about it [here](https://www.nbcnews.com/science/space/nasa-completes-first-mission-simulating-astronaut-life-mars-rcna160987).
 
 ## Requirements
 - Python 3.8
