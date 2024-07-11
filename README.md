@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lamine Yamal: Spain beats France to reach Euro 2024 final after historic goal from 16-year-old**
+**Analyst resets Nvidia stock price target in chip-sector overhaul**
 
-You can read more about it [here](https://www.cnn.com/2024/07/09/sport/spain-france-euro-2024-semifinal-lamine-yamal-spt-intl/index.html).
+You can read more about it [here](https://www.thestreet.com/investing/analyst-resets-nvidia-stock-price-target-in-chip-sector-overhaul).
 
 ## Requirements
 - Python 3.8
