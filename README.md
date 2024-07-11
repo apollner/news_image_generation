@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From Facebook to the face of crypto: Inside Anthony Pompliano’s wild career**
+**Election 2024 latest news: Pelosi urges Biden to make a decision; Clooney calls for withdrawal**
 
-You can read more about it [here](https://techcrunch.com/2024/07/10/facebook-to-face-of-crypto-anthony-pompliano-wild-career/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/10/election-2024-campaign-updates/).
 
 ## Requirements
 - Python 3.8
