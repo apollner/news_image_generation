@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices**
+**Samsung’s Galaxy Watch 7 delivers Wear OS 5 and health tracking upgrades from $299**
 
-You can read more about it [here](https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price).
+You can read more about it [here](http://9to5google.com/2024/07/10/samsung-galaxy-watch-7-specs-price-release-date/).
 
 ## Requirements
 - Python 3.8
