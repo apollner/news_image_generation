@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bennet becomes first Democratic senator to publicly warn Biden can’t win 2024 election**
+**U.S. marshal shoots teen in carjacking attempt near Sotomayor home, police say**
 
-You can read more about it [here](https://www.cnn.com/2024/07/09/politics/senate-democrat-michael-bennet-biden-reelection-cnntv/index.html).
+You can read more about it [here](https://www.washingtonpost.com/dc-md-va/2024/07/09/sonia-sotomayor-carjacking-marshal-shooting/).
 
 ## Requirements
 - Python 3.8
