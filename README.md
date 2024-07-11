@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A ‘preposterous’ defense, prosecutor in Bob Menendez trial concludes**
+**NASA completes first mission simulating astronaut life on Mars**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/07/09/bob-menendez-corruption-trial-closing-arguments/).
+You can read more about it [here](https://www.nbcnews.com/science/space/nasa-completes-first-mission-simulating-astronaut-life-mars-rcna160987).
 
 ## Requirements
 - Python 3.8
