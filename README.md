@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Airstrike kills 25 in southern Gaza as Israeli assault on Gaza City shuts down medical facilities**
+**Lamine Yamal: Spain beats France to reach Euro 2024 final after historic goal from 16-year-old**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-09-2024-5c8eb2a36e22fb0ea7666b73e5c0b54c).
+You can read more about it [here](https://www.cnn.com/2024/07/09/sport/spain-france-euro-2024-semifinal-lamine-yamal-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
