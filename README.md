@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to preorder Samsung’s Galaxy Watch 7, Galaxy Watch Ultra, and the Galaxy Ring**
+**Kawhi withdraws from Team USA, out for Paris**
 
-You can read more about it [here](https://www.theverge.com/2024/7/10/24194952/samsung-galaxy-watch-7-ring-ultra-preorder-buy-price-availability-release-date).
+You can read more about it [here](https://www.espn.com/olympics/story/_/id/40533195/kawhi-leonard-withdraws-team-usa-paris-olympics).
 
 ## Requirements
 - Python 3.8
