@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO signs $700 million Stinger missile contract as it makes plans to boost arms production**
+**Copa America 2024 Semifinal Soccer: Livestream Argentina vs. Canada From Anywhere**
 
-You can read more about it [here](https://apnews.com/article/nato-missiles-russia-stinger-ukraine-87746dcec5dbf19794c1cf27cd789594).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/copa-america-2024-semifinal-soccer-livestream-argentina-vs-canada-from-anywhere/).
 
 ## Requirements
 - Python 3.8
