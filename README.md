@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO Summit live updates: The latest on the alliance’s 75th anniversary meeting**
+**America’s New Catholic Priests: Young, Confident and Conservative**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/nato-summit/index.html).
+You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
 
 ## Requirements
 - Python 3.8
