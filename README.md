@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of Samsung workers launch indefinite strike over pay**
+**Gaza airstrike hit as displaced gathered for soccer match, witnesses say**
 
-You can read more about it [here](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-presses-gaza-offensive-hours-after-deadly-airstrike-tent-camp-2024-07-10/).
 
 ## Requirements
 - Python 3.8
