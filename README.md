@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Browns QB Bernie Kosar diagnosed with Parkinson's disease, also likely needs liver transplant**
+**Alec Baldwin trial over fatal ‘Rust’ shooting of cinematographer begins: Live**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vZXgtYnJvd25zLXFiLWJlcm5pZS1rb3Nhci1kaWFnbm9zZWQtd2l0aC1wYXJraW5zb25zLWRpc2Vhc2UtYWxzby1saWtlbHktbmVlZHMtbGl2ZXItdHJhbnNwbGFudC0wMzU0MjM1NjAuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvY3JpbWUvYWxlYy1iYWxkd2luLXRyaWFsLXJ1c3Qtc2hvb3RpbmctdXBkYXRlcy1iMjU3Njg4Ni5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
