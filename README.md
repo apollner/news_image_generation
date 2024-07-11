@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA completes first mission simulating astronaut life on Mars**
+**NATO signs $700 million Stinger missile contract as it makes plans to boost arms production**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/nasa-completes-first-mission-simulating-astronaut-life-mars-rcna160987).
+You can read more about it [here](https://apnews.com/article/nato-missiles-russia-stinger-ukraine-87746dcec5dbf19794c1cf27cd789594).
 
 ## Requirements
 - Python 3.8
