@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres is ‘done’ with fame after Netflix special: ‘This is the last time you’re going to see me’**
+**NASA still expects Boeing's Starliner to return astronauts from ISS, but notes SpaceX backup option**
 
-You can read more about it [here](https://nypost.com/2024/07/10/entertainment/ellen-degeneres-says-shes-done-with-fame-after-her-netflix-special-drops/).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
