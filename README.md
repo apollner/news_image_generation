@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung’s Galaxy Watch 7 delivers Wear OS 5 and health tracking upgrades from $299**
+**Thousands of Samsung workers launch indefinite strike over pay**
 
-You can read more about it [here](http://9to5google.com/2024/07/10/samsung-galaxy-watch-7-specs-price-release-date/).
+You can read more about it [here](https://www.theverge.com/2024/7/10/24195541/samsung-union-launch-indefinite-strike-ai-chips-pay).
 
 ## Requirements
 - Python 3.8
