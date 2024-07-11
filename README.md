@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine will stop Putin, Biden tells NATO in forceful speech**
+**Airstrike kills 25 in southern Gaza as Israeli assault on Gaza City shuts down medical facilities**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-nato-summit-chance-show-voters-allies-he-can-still-lead-2024-07-09/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-07-09-2024-5c8eb2a36e22fb0ea7666b73e5c0b54c).
 
 ## Requirements
 - Python 3.8
