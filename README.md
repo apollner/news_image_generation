@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024 latest news: Pelosi urges Biden to make a decision; Clooney calls for withdrawal**
+**NATO Summit live updates: The latest on the alliance’s 75th anniversary meeting**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/10/election-2024-campaign-updates/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL25hdG8tc3VtbWl0L2luZGV4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
