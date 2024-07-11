@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO signs $700 million Stinger missile contract as it makes plans to boost arms production**
+**Russian court orders arrest of Yulia Navalnaya in absentia**
 
-You can read more about it [here](https://apnews.com/article/nato-missiles-russia-stinger-ukraine-87746dcec5dbf19794c1cf27cd789594).
+You can read more about it [here](https://www.cnn.com/2024/07/09/europe/yulia-navalnaya-arrest-order-russia-intl/index.html).
 
 ## Requirements
 - Python 3.8
