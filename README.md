@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin's 'Rust' trial begins and 'hyperactive' hurricane season predicted after Beryl: Morning Rundown**
+**The Galaxy Z Fold 6 and Flip 6 come with minor updates and higher prices**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYWxlYy1iYWxkd2luLXJ1c3QtdHJpYWwtaHVycmljYW5lLXNlYXNvbi1iZXJ5bC1tb3JuaW5nLXJ1bmRvd24tcmNuYTE2MTA2ONIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjEwNjg?oc=5).
+You can read more about it [here](https://www.theverge.com/2024/7/10/24195165/samsung-galaxy-z-fold-flip-6-screen-battery-price).
 
 ## Requirements
 - Python 3.8
