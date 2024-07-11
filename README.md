@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rays' Franco charged with sexual abuse in DR**
+**Manhunt launched in U.K. for crossbow-armed triple murder suspect**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40530027/tampa-bay-rays-ss-wander-franco-charged-sexual-abuse-sexual-exploitation-minor).
+You can read more about it [here](https://www.nbcnews.com/news/world/manhunt-uk-crossbow-armed-triple-murder-suspect-rcna161074).
 
 ## Requirements
 - Python 3.8
