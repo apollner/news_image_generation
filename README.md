@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza airstrike hit as displaced gathered for soccer match, witnesses say**
+**Michael Bennet becomes first Senate Democrat to say Biden can't beat Trump**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-presses-gaza-offensive-hours-after-deadly-airstrike-tent-camp-2024-07-10/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/michael-bennet-first-senate-democrat-say-biden-cant-beat-trump-rcna161053).
 
 ## Requirements
 - Python 3.8
