@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA completes first mission simulating astronaut life on Mars**
+**Sharon Stone says she was left with 'zero money' after losing $18 million in savings following 2001 stroke**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/nasa-completes-first-mission-simulating-astronaut-life-mars-rcna160987).
+You can read more about it [here](https://pagesix.com/2024/07/09/entertainment/sharon-stone-says-she-was-left-with-zero-money-after-losing-18-million-in-savings-following-2001-stroke/).
 
 ## Requirements
 - Python 3.8
