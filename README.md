@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhunt launched in U.K. for crossbow-armed triple murder suspect**
+**Treasury yields retreat as Fed Chair warns on keeping rates elevated for too long**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/manhunt-uk-crossbow-armed-triple-murder-suspect-rcna161074).
+You can read more about it [here](https://www.cnbc.com/2024/07/10/treasury-yields-retreat-fed-warns-on-keeping-rates-high-for-too-long.html).
 
 ## Requirements
 - Python 3.8
