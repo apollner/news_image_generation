@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kawhi withdraws from Team USA, out for Paris**
+**Galaxy Z Fold & Z Flip 6, Watch Ultra, and new Ring are Samsung’s AI carriers**
 
-You can read more about it [here](https://www.espn.com/olympics/story/_/id/40533195/kawhi-leonard-withdraws-team-usa-paris-olympics).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/07/the-galaxy-z-fold-flip-6-are-not-as-exciting-to-samsung-as-galaxy-ai/).
 
 ## Requirements
 - Python 3.8
