@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**England vs Netherlands live updates: Simons, Kane score early in wild Euro 2024 semifinal**
+**Nearby star cluster houses unusually large black hole**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy51c2F0b2RheS5jb20vc3Rvcnkvc3BvcnRzL3NvY2Nlci9ldXJvcGUvMjAyNC8wNy8xMC9lbmdsYW5kLXZzLW5ldGhlcmxhbmRzLWV1cm8tMjAyNC1zZW1pZmluYWwtc2NvcmUtaGlnaGxpZ2h0cy83NDM0NzI4MDAwNy_SAQA?oc=5).
+You can read more about it [here](https://arstechnica.com/science/2024/07/nearby-star-cluster-houses-unusually-large-black-hole/).
 
 ## Requirements
 - Python 3.8
