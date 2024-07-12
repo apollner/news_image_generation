@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We Had Breakfast With Hawk Tuah Girl, the National Hero We Need**
+**Time might be a mirage created by quantum physics, study suggests**
 
-You can read more about it [here](http://www.rollingstone.com/culture/culture-features/hawk-tuah-girl-haliey-welch-interview-1235057659/).
+You can read more about it [here](https://www.livescience.com/physics-mathematics/quantum-physics/time-might-be-a-mirage-created-by-quantum-physics-study-suggests).
 
 ## Requirements
 - Python 3.8
