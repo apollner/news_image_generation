@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Delta’s Sagging Profit Signals Trouble for Airlines This Summer**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/business/airlines/delta-dal-q2-earnings-report-2024-e025fb71).
 
 ## Requirements
 - Python 3.8
