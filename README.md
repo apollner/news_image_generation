@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New species of dinosaur that lived 125 million years ago identified in England**
+**Costco membership fees are going up for the first time since 2017**
 
-You can read more about it [here](https://www.foxnews.com/lifestyle/new-species-dinosaur-lived-125-million-years-ago-discovered-england).
+You can read more about it [here](https://www.cnn.com/2024/07/10/business/costco-membership-fee-increase/index.html).
 
 ## Requirements
 - Python 3.8
