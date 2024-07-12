@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We’re going to hold them accountable’: Houston Mayor’s buzzkill message for CenterPoint Energy**
+**Netherlands' Ronald Koeman claims soccer is 'destroyed' after controversial Euro 2024 VAR call**
 
-You can read more about it [here](https://www.click2houston.com/news/local/2024/07/10/were-going-to-hold-them-accountable-houston-mayors-buzzkill-message-for-centerpoint-energy/).
+You can read more about it [here](https://nypost.com/2024/07/10/sports/netherlands-ronald-koeman-claims-soccer-is-destroyed-after-controversial-euro-2024-var-call/).
 
 ## Requirements
 - Python 3.8
