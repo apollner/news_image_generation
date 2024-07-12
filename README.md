@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tributes flood in for BBC sport commentator whose wife and daughters were killed in suspected crossbow attack**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/07/11/europe/crossbow-attack-violence-women-bbc-journalist-intl-gbr/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
