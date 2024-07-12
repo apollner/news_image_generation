@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Costco membership fees are going up for the first time since 2017**
+**Team USA camp: Kawhi Leonard decision not surprising; Bam Adebayo still irked about DPOY**
 
-You can read more about it [here](https://www.cnn.com/2024/07/10/business/costco-membership-fee-increase/index.html).
+You can read more about it [here](https://sports.yahoo.com/team-usa-camp-kawhi-leonard-decision-not-surprising-bam-adebayo-still-irked-about-dpoy-185241692.html).
 
 ## Requirements
 - Python 3.8
