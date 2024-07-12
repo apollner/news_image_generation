@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US inflation cools again, potentially paving way for Fed to cut interest rates soon**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/inflation-prices-rates-economy-federal-reserve-biden-8d15ca77433a1ae072a1e63dfc089f24).
 
 ## Requirements
 - Python 3.8
