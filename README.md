@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panel urges more research on women and chronic diseases**
+**Whale pod joins solo rower in the Atlantic, rocking boat and blowing bubbles**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/11/chronic-disease-women-health-nih/).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/07/11/whales-rower-atlantic-ocean-newfoundland/).
 
 ## Requirements
 - Python 3.8
