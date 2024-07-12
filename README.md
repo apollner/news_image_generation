@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia is Top of Mind at NATO summit**
+**New species of dinosaur that lived 125 million years ago identified in England**
 
-You can read more about it [here](https://www.npr.org/2024/07/10/1198912867/russia-is-top-of-mind-at-nato-summit).
+You can read more about it [here](https://www.foxnews.com/lifestyle/new-species-dinosaur-lived-125-million-years-ago-discovered-england).
 
 ## Requirements
 - Python 3.8
