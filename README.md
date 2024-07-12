@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's how to watch Biden's news conference Thursday as he tries to quiet doubts after the debate**
+**Welch becomes first Democratic Senator to call for Biden to step aside**
 
-You can read more about it [here](https://apnews.com/article/how-to-watch-biden-press-conference-a70590e7574fc9680229b6b6289f6a02).
+You can read more about it [here](https://www.axios.com/2024/07/10/peter-welch-biden-democrats-2024).
 
 ## Requirements
 - Python 3.8
