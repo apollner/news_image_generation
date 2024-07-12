@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**40% of cancer cases linked to bad behavior — here are the major culprits**
+**Fed seen nearing rate cuts as inflation eases**
 
-You can read more about it [here](https://nypost.com/2024/07/11/lifestyle/40-of-cancer-cases-linked-to-bad-behavior-smoking-main-culprit/).
+You can read more about it [here](https://www.reuters.com/markets/us/traders-boost-bets-fed-rate-cut-sept-after-cpi-data-2024-07-11/).
 
 ## Requirements
 - Python 3.8
