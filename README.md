@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Every product Samsung unveiled at Unpacked July 2024: Galaxy Z Fold 6, Watch Ultra, Ring, more**
+**Hyatt hotel operator fires employees as D'Vontaye Mitchell death being investigated as homicide**
 
-You can read more about it [here](https://www.zdnet.com/article/every-product-samsung-unveiled-at-unpacked-july-2024-galaxy-z-fold-6-watch-ultra-ring-more/).
+You can read more about it [here](https://www.jsonline.com/story/news/local/milwaukee/2024/07/10/hyatt-says-staff-involved-with-dvontaye-mitchells-death-should-be-fired-and-criminally-charged/74359629007/).
 
 ## Requirements
 - Python 3.8
