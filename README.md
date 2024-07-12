@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netherlands' Ronald Koeman claims soccer is 'destroyed' after controversial Euro 2024 VAR call**
+**Every product Samsung unveiled at Unpacked July 2024: Galaxy Z Fold 6, Watch Ultra, Ring, more**
 
-You can read more about it [here](https://nypost.com/2024/07/10/sports/netherlands-ronald-koeman-claims-soccer-is-destroyed-after-controversial-euro-2024-var-call/).
+You can read more about it [here](https://www.zdnet.com/article/every-product-samsung-unveiled-at-unpacked-july-2024-galaxy-z-fold-6-watch-ultra-ring-more/).
 
 ## Requirements
 - Python 3.8
