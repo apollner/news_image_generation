@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed seen nearing rate cuts as inflation eases**
+**Why U.S. Soccer had no choice but to fire USMNT coach Berhalter**
 
-You can read more about it [here](https://www.reuters.com/markets/us/traders-boost-bets-fed-rate-cut-sept-after-cpi-data-2024-07-11/).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/40536813/us-soccer-cant-miss-next-usmnt-coach-gregg-berhalter-analysis).
 
 ## Requirements
 - Python 3.8
