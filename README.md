@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansas abortion amendment disqualified from ballot**
+**USMNT coaching search: Top candidates to replace Gregg Berhalter**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDI0LzA3LzEwL2Fya2Fuc2FzLWFib3J0aW9uLXBldGl0aW9uLWFtZW5kbWVudC1iYWxsb3TSAQA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/usmnt-coaching-search-top-candidates-to-replace-gregg-berhalter-053550136.html).
 
 ## Requirements
 - Python 3.8
