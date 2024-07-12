@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When will Starliner come home? Boeing and NASA still don't know**
+**Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-no-return-date-from-iss).
+You can read more about it [here](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding).
 
 ## Requirements
 - Python 3.8
