@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: CenterPoint gives updated timeline on remaining 1.1M outages**
+**Skenes throws 7 no-hit IP, K's 11 in Pirates' win**
 
-You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/houston/article/hurricane-beryl-power-updates-houston-heat-19566015.php).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40542474/paul-skenes-pitches-7-no-hit-innings-pirates-blank-brewers).
 
 ## Requirements
 - Python 3.8
