@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US inflation cools again, potentially paving way for Fed to cut interest rates soon**
+**We Had Breakfast With Hawk Tuah Girl, the National Hero We Need**
 
-You can read more about it [here](https://apnews.com/article/inflation-prices-rates-economy-federal-reserve-biden-8d15ca77433a1ae072a1e63dfc089f24).
+You can read more about it [here](http://www.rollingstone.com/culture/culture-features/hawk-tuah-girl-haliey-welch-interview-1235057659/).
 
 ## Requirements
 - Python 3.8
