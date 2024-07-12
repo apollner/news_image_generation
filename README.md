@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A summer surge of COVID infections is hitting the North Bay. Here’s why an expert calls it troubling**
+**Team USA defeats medal contender Canada in first Olympic basketball tune-up**
 
-You can read more about it [here](https://www.pressdemocrat.com/article/news/covid-surge-north-bay/).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/07/11/usa-canada-basketball-exhibition-paris-olympics/74361908007/).
 
 ## Requirements
 - Python 3.8
