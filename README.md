@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crossbow killings suspect found after attack on BBC journalist’s wife and daughters**
+**A summer surge of COVID infections is hitting the North Bay. Here’s why an expert calls it troubling**
 
-You can read more about it [here](https://www.cnn.com/2024/07/10/uk/london-crossbow-killer-search-intl-gbr/index.html).
+You can read more about it [here](https://www.pressdemocrat.com/article/news/covid-surge-north-bay/).
 
 ## Requirements
 - Python 3.8
