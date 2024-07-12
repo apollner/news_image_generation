@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hyatt hotel operator fires employees as D'Vontaye Mitchell death being investigated as homicide**
+**Arkansas abortion amendment disqualified from ballot**
 
-You can read more about it [here](https://www.jsonline.com/story/news/local/milwaukee/2024/07/10/hyatt-says-staff-involved-with-dvontaye-mitchells-death-should-be-fired-and-criminally-charged/74359629007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmF4aW9zLmNvbS9sb2NhbC9udy1hcmthbnNhcy8yMDI0LzA3LzEwL2Fya2Fuc2FzLWFib3J0aW9uLXBldGl0aW9uLWFtZW5kbWVudC1iYWxsb3TSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
