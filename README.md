@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team USA camp: Kawhi Leonard decision not surprising; Bam Adebayo still irked about DPOY**
+**"Last time you’re going to see me": Ellen DeGeneres to "disappear" after Netflix special**
 
-You can read more about it [here](https://sports.yahoo.com/team-usa-camp-kawhi-leonard-decision-not-surprising-bam-adebayo-still-irked-about-dpoy-185241692.html).
+You can read more about it [here](https://www.salon.com/2024/07/10/last-time-youre-going-to-see-me-ellen-degeneres-to-disappear-after-netflix-special/).
 
 ## Requirements
 - Python 3.8
