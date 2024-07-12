@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why U.S. Soccer had no choice but to fire USMNT coach Berhalter**
+**40% of cancer cases linked to bad behavior — here are the major culprits**
 
-You can read more about it [here](https://www.espn.com/soccer/story/_/id/40536813/us-soccer-cant-miss-next-usmnt-coach-gregg-berhalter-analysis).
+You can read more about it [here](https://nypost.com/2024/07/11/lifestyle/40-of-cancer-cases-linked-to-bad-behavior-smoking-main-culprit/).
 
 ## Requirements
 - Python 3.8
