@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hubble Space Telescope finds closest massive black hole to Earth — a cosmic clue frozen in time**
+**Tributes flood in for BBC sport commentator whose wife and daughters were killed in suspected crossbow attack**
 
-You can read more about it [here](https://www.space.com/closest-massive-black-hole-earth-hubble).
+You can read more about it [here](https://www.cnn.com/2024/07/11/europe/crossbow-attack-violence-women-bbc-journalist-intl-gbr/index.html).
 
 ## Requirements
 - Python 3.8
