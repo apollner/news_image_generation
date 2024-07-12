@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia leads Nasdaq and S&P 500 to record high closes**
+**Starliner still doesn’t have a return date as NASA tests overheating thrusters**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-higher-nvidia-other-megacaps-build-gains-2024-07-10/).
+You can read more about it [here](https://arstechnica.com/space/2024/07/starliner-still-doesnt-have-a-return-date-as-nasa-tests-overheating-thrusters/).
 
 ## Requirements
 - Python 3.8
