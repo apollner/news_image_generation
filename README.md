@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shuttered auto plants will become EV factories thanks to $1.7 billion Biden program**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2024/7/11/24195811/biden-ev-factory-retrofit-conversion-grant-funding).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
