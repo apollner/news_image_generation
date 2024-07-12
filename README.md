@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starliner still doesn’t have a return date as NASA tests overheating thrusters**
+**Colorado health officials investigating human case of bubonic plague**
 
-You can read more about it [here](https://arstechnica.com/space/2024/07/starliner-still-doesnt-have-a-return-date-as-nasa-tests-overheating-thrusters/).
+You can read more about it [here](https://www.nbcnews.com/health/health-news/colorado-health-officials-investigating-human-case-bubonic-plague-rcna161272).
 
 ## Requirements
 - Python 3.8
