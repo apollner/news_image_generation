@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT coaching search: Top candidates to replace Gregg Berhalter**
+**When will Starliner come home? Boeing and NASA still don't know**
 
-You can read more about it [here](https://sports.yahoo.com/usmnt-coaching-search-top-candidates-to-replace-gregg-berhalter-053550136.html).
+You can read more about it [here](https://www.space.com/boeing-starliner-no-return-date-from-iss).
 
 ## Requirements
 - Python 3.8
