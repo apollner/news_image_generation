@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA still expects Boeing's Starliner to return astronauts from ISS, but notes SpaceX backup option**
+**Japan's Nikkei smashes past 42,000 mark to all-time high; Asia-Pacific markets climb on tech rally and rate cut hopes**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://www.cnbc.com/2024/07/11/asia-pacific-markets.html).
 
 ## Requirements
 - Python 3.8
