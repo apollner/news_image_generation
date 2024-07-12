@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Nikkei smashes past 42,000 mark to all-time high; Asia-Pacific markets climb on tech rally and rate cut hopes**
+**Nvidia leads Nasdaq and S&P 500 to record high closes**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/11/asia-pacific-markets.html).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-higher-nvidia-other-megacaps-build-gains-2024-07-10/).
 
 ## Requirements
 - Python 3.8
