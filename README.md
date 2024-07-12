@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whale pod joins solo rower in the Atlantic, rocking boat and blowing bubbles**
+**Biden faces big press conference, flubs ‘Putin’ for ‘Zelenskyy’ in praising Ukraine leader**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/07/11/whales-rower-atlantic-ocean-newfoundland/).
+You can read more about it [here](https://apnews.com/article/biden-president-trump-election-2024-democrats-9e1781a17b3313f525ef70f8a00c310a).
 
 ## Requirements
 - Python 3.8
