@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden faces big press conference, flubs ‘Putin’ for ‘Zelenskyy’ in praising Ukraine leader**
+**Live updates: CenterPoint gives updated timeline on remaining 1.1M outages**
 
-You can read more about it [here](https://apnews.com/article/biden-president-trump-election-2024-democrats-9e1781a17b3313f525ef70f8a00c310a).
+You can read more about it [here](https://www.houstonchronicle.com/news/houston-texas/houston/article/hurricane-beryl-power-updates-houston-heat-19566015.php).
 
 ## Requirements
 - Python 3.8
