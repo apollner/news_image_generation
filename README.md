@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Time might be a mirage created by quantum physics, study suggests**
+**‘Miracle baby' found crawling by Louisiana highway after brother, 4, found dead, mom arrested**
 
-You can read more about it [here](https://www.livescience.com/physics-mathematics/quantum-physics/time-might-be-a-mirage-created-by-quantum-physics-study-suggests).
+You can read more about it [here](https://www.nbcdfw.com/news/national-international/baby-crawling-by-highway-louisiana-miracle/3588805/).
 
 ## Requirements
 - Python 3.8
