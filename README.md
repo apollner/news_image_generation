@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Miracle baby' found crawling by Louisiana highway after brother, 4, found dead, mom arrested**
+**Panel urges more research on women and chronic diseases**
 
-You can read more about it [here](https://www.nbcdfw.com/news/national-international/baby-crawling-by-highway-louisiana-miracle/3588805/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/07/11/chronic-disease-women-health-nih/).
 
 ## Requirements
 - Python 3.8
