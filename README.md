@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Reaches Record Trade Surplus, Raising Alarm Abroad**
+**JPMorgan Chase is set to report second-quarter earnings – here's what the Street expects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTIvYnVzaW5lc3MvY2hpbmEtdHJhZGUtc3VycGx1cy1yZWNvcmQuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/07/12/jpmorgan-chase-jpm-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
