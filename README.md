@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses Giuliani’s bankruptcy case, allowing creditors to try to seize his assets**
+**Stop & Shop supermarkets in Johnston, Providence, Raynham on list of closures**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMi9wb2xpdGljcy9qdWRnZS1kaXNtaXNzZXMtZ2l1bGlhbmktYmFua3J1cHRjeS1jYXNlL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzEyL3BvbGl0aWNzL2p1ZGdlLWRpc21pc3Nlcy1naXVsaWFuaS1iYW5rcnVwdGN5LWNhc2U?oc=5).
+You can read more about it [here](https://turnto10.com/news/local/stop-and-shop-supermarkets-johnston-providence-raynham-list-closures-rhode-island-massachusetts-connecticut-new-york-july-12-2024).
 
 ## Requirements
 - Python 3.8
