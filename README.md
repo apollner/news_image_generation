@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mom struck, killed while trying to save her 6-year-old from stolen car**
+**Judge dismisses Giuliani’s bankruptcy case, allowing creditors to try to seize his assets**
 
-You can read more about it [here](https://abcnews.go.com/US/mom-struck-killed-save-6-year-stolen-car/story?id=111885313).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xMi9wb2xpdGljcy9qdWRnZS1kaXNtaXNzZXMtZ2l1bGlhbmktYmFua3J1cHRjeS1jYXNlL2luZGV4Lmh0bWzSAVRodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzEyL3BvbGl0aWNzL2p1ZGdlLWRpc21pc3Nlcy1naXVsaWFuaS1iYW5rcnVwdGN5LWNhc2U?oc=5).
 
 ## Requirements
 - Python 3.8
