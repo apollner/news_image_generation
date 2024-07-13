@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army 'failed in mission' to protect kibbutz from Hamas**
+**For Nicolas Cage, making a serial killer horror movie was a healing experience**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c9x8wjxgz1ko).
+You can read more about it [here](https://apnews.com/article/longlegs-nicolas-cage-interview-40689dc4dd095538fcb5db00ab829108).
 
 ## Requirements
 - Python 3.8
