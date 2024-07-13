@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama, Pelosi privately expressed concerns over Biden**
+**JPMorgan Chase is set to report second-quarter earnings – here's what the Street expects**
 
-You can read more about it [here](https://www.cnn.com/2024/07/11/politics/obama-pelosi-biden-democrats-2024/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/07/12/jpmorgan-chase-jpm-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
