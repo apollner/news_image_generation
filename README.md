@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For Nicolas Cage, making a serial killer horror movie was a healing experience**
+**Stoltenberg bashes China for creeping closer to NATO**
 
-You can read more about it [here](https://apnews.com/article/longlegs-nicolas-cage-interview-40689dc4dd095538fcb5db00ab829108).
+You can read more about it [here](https://www.politico.com/news/2024/07/11/stoltenberg-bashes-china-creeping-closer-nato-00167708).
 
 ## Requirements
 - Python 3.8
