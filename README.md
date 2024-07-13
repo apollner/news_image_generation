@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stoltenberg bashes China for creeping closer to NATO**
+**Exclusive: US and Germany foiled Russian plot to assassinate CEO of arms manufacturer sending weapons to Ukraine**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/11/stoltenberg-bashes-china-creeping-closer-nato-00167708).
+You can read more about it [here](https://www.cnn.com/2024/07/11/politics/us-germany-foiled-russian-assassination-plot/index.html).
 
 ## Requirements
 - Python 3.8
