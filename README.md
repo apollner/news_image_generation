@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb space telescope keeps delivering cosmic surprises**
+**Almost half of cancer deaths in U.S. adults could be prevented, new study finds. A doctor explains how.**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/07/12/james-webb-telescope-nasa-space/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY2FuY2VyLWRlYXRocy1wcmV2ZW50ZWQtbGlmZXN0eWxlLWNoYW5nZXMtc3R1ZHkv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
