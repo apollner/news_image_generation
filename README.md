@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scarlett Johansson Reveals Her Dread Of One ‘SNL Weekend Update’ Tradition**
+**Pioneering UK microchip maker bought by Japanese conglomerate**
 
-You can read more about it [here](http://deadline.com/2024/07/scarlett-johansson-dreads-snl-weekend-update-tradition-1236008192/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3gd1n5kmy5o).
 
 ## Requirements
 - Python 3.8
