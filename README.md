@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cooper Flagg dishes on Boston Celtics film study, vision for Duke's defense and new bond with Kevin Love**
+**Mom struck, killed while trying to save her 6-year-old from stolen car**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/cooper-flagg-dishes-on-boston-celtics-film-study-vision-for-dukes-defense-and-new-bond-with-kevin-love/).
+You can read more about it [here](https://abcnews.go.com/US/mom-struck-killed-save-6-year-stolen-car/story?id=111885313).
 
 ## Requirements
 - Python 3.8
