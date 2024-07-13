@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monte Kiffin dies at 84: Longtime NFL, college coach was mastermind behind 'Tampa 2' defense**
+**Hungary's Viktor Orbán to meet Donald Trump at Mar-a-Lago**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/monte-kiffin-dies-at-84-longtime-nfl-college-coach-was-mastermind-behind-tampa-2-defense/).
+You can read more about it [here](https://www.bbc.com/news/articles/cydvj24m4g4o).
 
 ## Requirements
 - Python 3.8
