@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Tories have lost. Now which voters should they chase?**
+**Obama, Pelosi privately expressed concerns over Biden**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv2g6md2lxvo).
+You can read more about it [here](https://www.cnn.com/2024/07/11/politics/obama-pelosi-biden-democrats-2024/index.html).
 
 ## Requirements
 - Python 3.8
