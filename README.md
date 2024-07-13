@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Skenes throws 7 no-hit IP, K's 11 in Pirates' win**
+**Marathon Oil agrees to record penalty for oil and gas pollution**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40542474/paul-skenes-pitches-7-no-hit-innings-pirates-blank-brewers).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/07/11/marathon-oil-settlement-penalty-epa/).
 
 ## Requirements
 - Python 3.8
