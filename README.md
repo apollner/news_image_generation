@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stop & Shop supermarkets in Johnston, Providence, Raynham on list of closures**
+**Man arrested after 2-year-old daughter dies in hot car in southern Arizona**
 
-You can read more about it [here](https://turnto10.com/news/local/stop-and-shop-supermarkets-johnston-providence-raynham-list-closures-rhode-island-massachusetts-connecticut-new-york-july-12-2024).
+You can read more about it [here](https://www.azfamily.com/2024/07/12/man-arrested-after-2-year-old-daughter-dies-hot-car-southern-arizona/).
 
 ## Requirements
 - Python 3.8
