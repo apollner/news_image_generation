@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden Campaign Quietly Polls a Kamala Harris Presidency**
+**Israeli army 'failed in mission' to protect kibbutz from Hamas**
 
-You can read more about it [here](https://www.thedailybeast.com/northwestern-university-scientists-discover-potential-lupus-cure).
+You can read more about it [here](https://www.bbc.com/news/articles/c9x8wjxgz1ko).
 
 ## Requirements
 - Python 3.8
