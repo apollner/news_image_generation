@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner Could Return To Earth If It Needs To, Just Doesn't Want To Right Now: NASA**
+**Novo Nordisk Gains as Ozempic Found To Lower Dementia Rates**
 
-You can read more about it [here](https://jalopnik.com/boeing-starliner-could-return-to-earth-if-it-needs-to-1851589726).
+You can read more about it [here](https://www.investopedia.com/novo-nordisk-gains-as-ozempic-found-to-lower-dementia-rates-8677083).
 
 ## Requirements
 - Python 3.8
