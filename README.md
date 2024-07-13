@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thanks, Obama: USA Basketball survives rust, roster drama in exhibition win**
+**Trump lawyers invoke immunity ruling in bid to toss hush money verdict**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/olympics/2024/07/11/usa-basketball-canada-barack-obama/).
+You can read more about it [here](https://www.reuters.com/world/us/trump-lawyers-lay-out-case-reversing-hush-money-conviction-2024-07-11/).
 
 ## Requirements
 - Python 3.8
