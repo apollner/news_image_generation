@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested after 2-year-old daughter dies in hot car in southern Arizona**
+**Jon Gruden: Monte Kiffin was a phenomenal teacher and presenter**
 
-You can read more about it [here](https://www.azfamily.com/2024/07/12/man-arrested-after-2-year-old-daughter-dies-hot-car-southern-arizona/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-gruden-monte-kiffin-was-a-phenomenal-teacher-and-presenter).
 
 ## Requirements
 - Python 3.8
