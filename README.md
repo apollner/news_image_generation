@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pioneering UK microchip maker bought by Japanese conglomerate**
+**China Reaches Record Trade Surplus, Raising Alarm Abroad**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3gd1n5kmy5o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTIvYnVzaW5lc3MvY2hpbmEtdHJhZGUtc3VycGx1cy1yZWNvcmQuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
