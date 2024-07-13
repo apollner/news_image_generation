@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 killed in Vermont flooding brought on by Beryl's remnants**
+**Longtime NFL and college coach Monte Kiffin dies at 84**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/hurricane-beryl-remnants-vermont-flooding-deaths/).
+You can read more about it [here](https://www.cnn.com/2024/07/12/sport/monte-kiffin-nfl-coach-dies-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
