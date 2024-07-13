@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX’s unmatched streak of perfection with the Falcon 9 rocket is over**
+**2 killed in Vermont flooding brought on by Beryl's remnants**
 
-You can read more about it [here](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/).
+You can read more about it [here](https://www.cbsnews.com/boston/news/hurricane-beryl-remnants-vermont-flooding-deaths/).
 
 ## Requirements
 - Python 3.8
