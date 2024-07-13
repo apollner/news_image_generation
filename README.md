@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: US and Germany foiled Russian plot to assassinate CEO of arms manufacturer sending weapons to Ukraine**
+**Thanks, Obama: USA Basketball survives rust, roster drama in exhibition win**
 
-You can read more about it [here](https://www.cnn.com/2024/07/11/politics/us-germany-foiled-russian-assassination-plot/index.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/olympics/2024/07/11/usa-basketball-canada-barack-obama/).
 
 ## Requirements
 - Python 3.8
