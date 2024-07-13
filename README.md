@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hear from top House Democrat who put out statement calling on Biden to exit race | CNN Politics**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/07/11/politics/video/jim-himes-biden-statement-source-digvid).
 
 ## Requirements
 - Python 3.8
