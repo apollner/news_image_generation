@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary's Viktor Orbán to meet Donald Trump at Mar-a-Lago**
+**Shelley Duvall, a beguiling face of 1970s film, dies at 75**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cydvj24m4g4o).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/).
 
 ## Requirements
 - Python 3.8
