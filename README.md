@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk Gains as Ozempic Found To Lower Dementia Rates**
+**Cooper Flagg dishes on Boston Celtics film study, vision for Duke's defense and new bond with Kevin Love**
 
-You can read more about it [here](https://www.investopedia.com/novo-nordisk-gains-as-ozempic-found-to-lower-dementia-rates-8677083).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/cooper-flagg-dishes-on-boston-celtics-film-study-vision-for-dukes-defense-and-new-bond-with-kevin-love/).
 
 ## Requirements
 - Python 3.8
