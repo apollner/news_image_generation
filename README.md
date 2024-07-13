@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan Chase is set to report second-quarter earnings – here's what the Street expects**
+**2 killed in Vermont flooding brought on by Beryl's remnants**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/12/jpmorgan-chase-jpm-earnings-q2-2024.html).
+You can read more about it [here](https://www.cbsnews.com/boston/news/hurricane-beryl-remnants-vermont-flooding-deaths/).
 
 ## Requirements
 - Python 3.8
