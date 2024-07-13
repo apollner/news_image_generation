@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Almost half of cancer deaths in U.S. adults could be prevented, new study finds. A doctor explains how.**
+**Captain America: Brave New World sends an Avenger to Washington in new trailer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY2FuY2VyLWRlYXRocy1wcmV2ZW50ZWQtbGlmZXN0eWxlLWNoYW5nZXMtc3R1ZHkv0gEA?oc=5).
+You can read more about it [here](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer).
 
 ## Requirements
 - Python 3.8
