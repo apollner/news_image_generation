@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arduino’s Plug and Make Kit lets your hacking imagination run wild, sans solder**
+**Houston area residents struggle without power and water as excruciating heat continues**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/07/arduinos-plug-and-make-kit-lets-your-hacking-imagination-run-wild-sans-solder/).
+You can read more about it [here](https://www.cnn.com/2024/07/12/weather/houston-texas-power-outages-heat-friday/index.html).
 
 ## Requirements
 - Python 3.8
