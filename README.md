@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lawyers invoke immunity ruling in bid to toss hush money verdict**
+**The Tories have lost. Now which voters should they chase?**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-lawyers-lay-out-case-reversing-hush-money-conviction-2024-07-11/).
+You can read more about it [here](https://www.bbc.com/news/articles/cv2g6md2lxvo).
 
 ## Requirements
 - Python 3.8
