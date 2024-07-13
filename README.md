@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shelley Duvall, a beguiling face of 1970s film, dies at 75**
+**Biden Campaign Quietly Polls a Kamala Harris Presidency**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/).
+You can read more about it [here](https://www.thedailybeast.com/northwestern-university-scientists-discover-potential-lupus-cure).
 
 ## Requirements
 - Python 3.8
