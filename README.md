@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin’s lawyer grills crime scene tech over search for live ammo at his shooting trial**
+**JPMorgan Chase is set to report second-quarter earnings – here's what the Street expects**
 
-You can read more about it [here](https://apnews.com/article/alec-baldwin-rust-shooting-hutchins-86e4265a0c4d8e130b02a1289ae99520).
+You can read more about it [here](https://www.cnbc.com/2024/07/12/jpmorgan-chase-jpm-earnings-q2-2024.html).
 
 ## Requirements
 - Python 3.8
