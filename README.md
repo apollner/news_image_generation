@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Serena Williams Calls Out Harrison Butker In Defense Of Women At 2024 ESPYs: “We Don’t Need You”**
+**Boeing Starliner Could Return To Earth If It Needs To, Just Doesn't Want To Right Now: NASA**
 
-You can read more about it [here](http://deadline.com/2024/07/2024-espy-awards-serena-williams-calls-out-harrison-butker-defense-women-1236008527/).
+You can read more about it [here](https://jalopnik.com/boeing-starliner-could-return-to-earth-if-it-needs-to-1851589726).
 
 ## Requirements
 - Python 3.8
