@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marathon Oil agrees to record penalty for oil and gas pollution**
+**Monte Kiffin dies at 84: Longtime NFL, college coach was mastermind behind 'Tampa 2' defense**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/07/11/marathon-oil-settlement-penalty-epa/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/monte-kiffin-dies-at-84-longtime-nfl-college-coach-was-mastermind-behind-tampa-2-defense/).
 
 ## Requirements
 - Python 3.8
