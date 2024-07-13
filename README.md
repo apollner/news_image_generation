@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 killed in Vermont flooding brought on by Beryl's remnants**
+**Alec Baldwin’s lawyer grills crime scene tech over search for live ammo at his shooting trial**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/hurricane-beryl-remnants-vermont-flooding-deaths/).
+You can read more about it [here](https://apnews.com/article/alec-baldwin-rust-shooting-hutchins-86e4265a0c4d8e130b02a1289ae99520).
 
 ## Requirements
 - Python 3.8
