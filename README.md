@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Almost half of cancer deaths in U.S. adults could be prevented, new study finds. A doctor explains how.**
+**Serena Williams Calls Out Harrison Butker In Defense Of Women At 2024 ESPYs: “We Don’t Need You”**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvY2FuY2VyLWRlYXRocy1wcmV2ZW50ZWQtbGlmZXN0eWxlLWNoYW5nZXMtc3R1ZHkv0gEA?oc=5).
+You can read more about it [here](http://deadline.com/2024/07/2024-espy-awards-serena-williams-calls-out-harrison-butker-defense-women-1236008527/).
 
 ## Requirements
 - Python 3.8
