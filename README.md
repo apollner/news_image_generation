@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pioneering UK microchip maker bought by Japanese conglomerate**
+**SpaceX’s unmatched streak of perfection with the Falcon 9 rocket is over**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3gd1n5kmy5o).
+You can read more about it [here](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/).
 
 ## Requirements
 - Python 3.8
