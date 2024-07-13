@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Captain America: Brave New World sends an Avenger to Washington in new trailer**
+**Arduino’s Plug and Make Kit lets your hacking imagination run wild, sans solder**
 
-You can read more about it [here](https://www.theverge.com/24197093/captain-america-brave-new-world-trailer).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/07/arduinos-plug-and-make-kit-lets-your-hacking-imagination-run-wild-sans-solder/).
 
 ## Requirements
 - Python 3.8
