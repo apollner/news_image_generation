@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency workers uncover dozens of bodies in a Gaza City district after Israeli assault**
+**Netanyahu reverses on key Israeli concession in ceasefire talks**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-tel-al-hawa-hospital-0b0b323dd471bacd18d135cf9e597e0b).
+You can read more about it [here](https://www.cnn.com/2024/07/12/middleeast/israel-netanyahu-ceasefire-talks-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
