@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC fighter Tracy Cortez makes weight by chopping off her hair ahead of fight with Rose Namajunas**
+**HIV diagnoses, patient data released in Florida health department hack**
 
-You can read more about it [here](https://sports.yahoo.com/ufc-fighter-tracy-cortez-makes-weight-by-chopping-off-her-hair-ahead-of-fight-with-rose-namajunas-224623573.html).
+You can read more about it [here](https://www.tampabay.com/news/florida-politics/2024/07/12/florida-hack-health-data-desantis-ransomhub-cybersecurity/).
 
 ## Requirements
 - Python 3.8
