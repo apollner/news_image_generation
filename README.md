@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HIV diagnoses, patient data released in Florida health department hack**
+**Musk donates to group working to elect Trump, Bloomberg reports**
 
-You can read more about it [here](https://www.tampabay.com/news/florida-politics/2024/07/12/florida-hack-health-data-desantis-ransomhub-cybersecurity/).
+You can read more about it [here](https://www.reuters.com/world/us/musk-donates-super-pac-working-elect-trump-bloomberg-reports-2024-07-12/).
 
 ## Requirements
 - Python 3.8
