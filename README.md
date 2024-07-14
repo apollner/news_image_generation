@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk donates to group working to elect Trump, Bloomberg reports**
+**Alec Baldwin weeps in court as judge announces involuntary manslaughter case is dismissed midtrial**
 
-You can read more about it [here](https://www.reuters.com/world/us/musk-donates-super-pac-working-elect-trump-bloomberg-reports-2024-07-12/).
+You can read more about it [here](https://apnews.com/article/alec-baldwin-rust-shooting-hutchins-eb3059c696a9aee5cb86967e27d8f3bb).
 
 ## Requirements
 - Python 3.8
