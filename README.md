@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin weeps in court as judge announces involuntary manslaughter case is dismissed midtrial**
+**Three Colorado poultry workers presumed to have bird flu, officials say**
 
-You can read more about it [here](https://apnews.com/article/alec-baldwin-rust-shooting-hutchins-eb3059c696a9aee5cb86967e27d8f3bb).
+You can read more about it [here](https://www.cnn.com/2024/07/12/health/colorado-bird-flu-cases/index.html).
 
 ## Requirements
 - Python 3.8
