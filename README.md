@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SmackDown recap & reactions: Watch your back**
+**Not tonight: Study explores reasons young adults choose not to drink**
 
-You can read more about it [here](https://www.cagesideseats.com/wwe/2024/7/13/24197615/wwe-smackdown-recap-reactions-july-12-2024-cody-rhodes-the-bloodline-solo-sikoa-randy-orton).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/13/young-adult-drinking-abstain-reasons/).
 
 ## Requirements
 - Python 3.8
