@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smiling Alec Baldwin heads to celebratory dinner after ‘Rust’ involuntary manslaughter charges shockingly tossed**
+**Webb Space Telescope’s latest cosmic shot shows pair of intertwined galaxies glowing in infrared**
 
-You can read more about it [here](https://nypost.com/2024/07/13/us-news/smiling-alec-baldwin-heads-to-dinner-after-rust-charges-tossed/).
+You can read more about it [here](https://nypost.com/2024/07/13/us-news/webb-space-telescopes-latest-cosmic-shot-shows-pair-of-intertwined-galaxies-glowing-in-infrared/).
 
 ## Requirements
 - Python 3.8
