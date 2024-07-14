@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deeply Democratic Milwaukee wrestles with hosting Trump, Republican National Convention**
+**At least 22 killed after school building collapses in Nigeria**
 
-You can read more about it [here](https://apnews.com/article/milwaukee-republican-national-convention-biden-trump-3a6c8b391ff4d0ba54332347c95e767c).
+You can read more about it [here](https://www.aljazeera.com/news/2024/7/12/several-children-killed-after-school-collapse-in-nigeria).
 
 ## Requirements
 - Python 3.8
