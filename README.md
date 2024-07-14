@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It's a mistake,' Zelenskiy says of Biden's Putin mix up**
+**Jalen Brunson contract extension FAQ: How much did Knicks star really leave on table, what move means for NY**
 
-You can read more about it [here](https://www.reuters.com/world/europe/its-mistake-zelenskiy-says-bidens-putin-mix-up-2024-07-13/).
+You can read more about it [here](https://www.cbssports.com/nba/news/jalen-brunson-contract-extension-faq-how-much-did-knicks-star-really-leave-on-table-what-move-means-for-ny/).
 
 ## Requirements
 - Python 3.8
