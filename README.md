@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Rust’ movie set shooting trial: Why the involuntary manslaughter case against actor Alec Baldwin was dismissed**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/07/13/entertainment/alec-baldwin-rust-trial-dismissed/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
