@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Desperate single mom jumps on hood of car to save 6-year-old son from carjacking and is thrown to her death in Ohio**
+**Deeply Democratic Milwaukee wrestles with hosting Trump, Republican National Convention**
 
-You can read more about it [here](https://nypost.com/2024/07/12/us-news/desperate-single-mom-jumps-on-hood-of-car-to-save-6-year-old-son-from-carjacking-and-is-thrown-to-her-death-in-ohio/).
+You can read more about it [here](https://apnews.com/article/milwaukee-republican-national-convention-biden-trump-3a6c8b391ff4d0ba54332347c95e767c).
 
 ## Requirements
 - Python 3.8
