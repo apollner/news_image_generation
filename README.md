@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Biden avoids further gaffes at Detroit rally**
+**SpaceX rocket accident leaves company's Starlink satellites in wrong orbit**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6p2nqp3nzjo).
+You can read more about it [here](https://phys.org/news/2024-07-spacex-rocket-accident-company-starlink.html).
 
 ## Requirements
 - Python 3.8
