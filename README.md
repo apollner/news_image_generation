@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX rocket accident leaves company's Starlink satellites in wrong orbit**
+**Food prices are no longer rising as much — but here's why it might not feel that way**
 
-You can read more about it [here](https://phys.org/news/2024-07-spacex-rocket-accident-company-starlink.html).
+You can read more about it [here](https://www.npr.org/2024/07/12/nx-s1-5037875/inflation-food-prices-grocery-supermarket-wages).
 
 ## Requirements
 - Python 3.8
