@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prime Day Steals Under $10: 22 Unbeatable Bargains at Rock-Bottom Prices**
+**Biden told to drop out in "haywire" meeting with Hispanic Democrats**
 
-You can read more about it [here](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/).
+You can read more about it [here](https://www.axios.com/2024/07/12/biden-mike-levin-hispanic-caucus-meeting).
 
 ## Requirements
 - Python 3.8
