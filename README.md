@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Colorado poultry workers presumed to have bird flu, officials say**
+**Emergency workers uncover dozens of bodies in a Gaza City district after Israeli assault**
 
-You can read more about it [here](https://www.cnn.com/2024/07/12/health/colorado-bird-flu-cases/index.html).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-tel-al-hawa-hospital-0b0b323dd471bacd18d135cf9e597e0b).
 
 ## Requirements
 - Python 3.8
