@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin's Rust manslaughter case dismissed**
+**Utah teen missing in Mexico recovered safely**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx8290qn0n5o).
+You can read more about it [here](https://www.foxla.com/news/utah-teen-missing-mexico-recovered-safely).
 
 ## Requirements
 - Python 3.8
