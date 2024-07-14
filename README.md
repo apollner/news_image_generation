@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 22 killed after school building collapses in Nigeria**
+**Joe Biden avoids further gaffes at Detroit rally**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/7/12/several-children-killed-after-school-collapse-in-nigeria).
+You can read more about it [here](https://www.bbc.com/news/articles/c6p2nqp3nzjo).
 
 ## Requirements
 - Python 3.8
