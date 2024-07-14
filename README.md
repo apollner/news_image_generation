@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb Space Telescope’s latest cosmic shot shows pair of intertwined galaxies glowing in infrared**
+**'It's a mistake,' Zelenskiy says of Biden's Putin mix up**
 
-You can read more about it [here](https://nypost.com/2024/07/13/us-news/webb-space-telescopes-latest-cosmic-shot-shows-pair-of-intertwined-galaxies-glowing-in-infrared/).
+You can read more about it [here](https://www.reuters.com/world/europe/its-mistake-zelenskiy-says-bidens-putin-mix-up-2024-07-13/).
 
 ## Requirements
 - Python 3.8
