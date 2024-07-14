@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Half of cancer deaths could have been prevented through lifestyle changes, says American Cancer Society report**
+**Three Colorado poultry workers are presumed to have bird flu, CDC says**
 
-You can read more about it [here](https://www.foxnews.com/health/half-cancer-deaths-could-have-been-prevented-through-lifestyle-changes-says-american-cancer-society-report).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/07/13/bird-flu-colorado-cases/).
 
 ## Requirements
 - Python 3.8
