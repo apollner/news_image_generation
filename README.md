@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 6: My Day in Paris With Samsung's New Phone**
+**UFC fighter Tracy Cortez makes weight by chopping off her hair ahead of fight with Rose Namajunas**
 
-You can read more about it [here](https://www.youtube.com/watch?v=DEbVNtporbE).
+You can read more about it [here](https://sports.yahoo.com/ufc-fighter-tracy-cortez-makes-weight-by-chopping-off-her-hair-ahead-of-fight-with-rose-namajunas-224623573.html).
 
 ## Requirements
 - Python 3.8
