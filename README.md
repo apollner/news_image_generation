@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Brooklyn migrant shelter residents test positive for measles**
+**Alec Baldwin's Rust manslaughter case dismissed**
 
-You can read more about it [here](https://nypost.com/2024/07/13/us-news/two-brooklyn-migrant-shelter-residents-test-positive-for-measles/).
+You can read more about it [here](https://www.bbc.com/news/articles/cx8290qn0n5o).
 
 ## Requirements
 - Python 3.8
