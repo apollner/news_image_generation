@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York judge throws out Rudy Giuliani’s bankruptcy case**
+**Desperate single mom jumps on hood of car to save 6-year-old son from carjacking and is thrown to her death in Ohio**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/12/rudy-giuliani-bankruptcy/).
+You can read more about it [here](https://nypost.com/2024/07/12/us-news/desperate-single-mom-jumps-on-hood-of-car-to-save-6-year-old-son-from-carjacking-and-is-thrown-to-her-death-in-ohio/).
 
 ## Requirements
 - Python 3.8
