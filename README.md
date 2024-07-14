@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Gruden: Monte Kiffin was a phenomenal teacher and presenter**
+**These are the North Jersey Stop & Shop stores closing this year**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jon-gruden-monte-kiffin-was-a-phenomenal-teacher-and-presenter).
+You can read more about it [here](https://www.northjersey.com/story/news/business/2024/07/12/these-north-jersey-stop-shop-stores-will-close-this-year/74379234007/).
 
 ## Requirements
 - Python 3.8
