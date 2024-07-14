@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 people escape hot, acidic pond after SUV drove into inactive geyser in Yellowstone National Park**
+**New York judge throws out Rudy Giuliani’s bankruptcy case**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/5-people-escape-hot-acidic-pond-after-suv-111899317).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/07/12/rudy-giuliani-bankruptcy/).
 
 ## Requirements
 - Python 3.8
