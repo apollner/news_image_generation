@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Despicable Me 4’ and Nicolas Cage’s ‘Longlegs’ Prosper, ‘Fly Me to the Moon’ Struggles In Liftoff**
+**Two Brooklyn migrant shelter residents test positive for measles**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/despicable-me-4-box-office-longlegs-fly-me-to-the-moon-1235947942/).
+You can read more about it [here](https://nypost.com/2024/07/13/us-news/two-brooklyn-migrant-shelter-residents-test-positive-for-measles/).
 
 ## Requirements
 - Python 3.8
