@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Princess Kate will attend men’s Wimbledon winner, palace says**
+**Half of cancer deaths could have been prevented through lifestyle changes, says American Cancer Society report**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/07/13/princess-kate-wimbledon-final-cancer/).
+You can read more about it [here](https://www.foxnews.com/health/half-cancer-deaths-could-have-been-prevented-through-lifestyle-changes-says-american-cancer-society-report).
 
 ## Requirements
 - Python 3.8
