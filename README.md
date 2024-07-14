@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Navy pilots come home after months of shooting down Houthi missiles and drones**
+**Musk donates to group working to elect Trump, Bloomberg reports**
 
-You can read more about it [here](https://apnews.com/article/navy-eisenhower-strike-group-houthis-462c5543304a17bfad7df9eab55ff63f).
+You can read more about it [here](https://www.reuters.com/world/us/musk-donates-super-pac-working-elect-trump-bloomberg-reports-2024-07-12/).
 
 ## Requirements
 - Python 3.8
