@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Colorado poultry workers are presumed to have bird flu, CDC says**
+**Box Office: ‘Despicable Me 4’ and Nicolas Cage’s ‘Longlegs’ Prosper, ‘Fly Me to the Moon’ Struggles In Liftoff**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/13/bird-flu-colorado-cases/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/despicable-me-4-box-office-longlegs-fly-me-to-the-moon-1235947942/).
 
 ## Requirements
 - Python 3.8
