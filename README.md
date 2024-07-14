@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 24M people watched Biden NATO presser**
+**Desperate single mom jumps on hood of car to save 6-year-old son from carjacking and is thrown to her death in Ohio**
 
-You can read more about it [here](https://www.axios.com/2024/07/12/biden-press-conference-nato-viewers-watched).
+You can read more about it [here](https://nypost.com/2024/07/12/us-news/desperate-single-mom-jumps-on-hood-of-car-to-save-6-year-old-son-from-carjacking-and-is-thrown-to-her-death-in-ohio/).
 
 ## Requirements
 - Python 3.8
