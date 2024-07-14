@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats aren’t confident in Biden’s chances. But they may be stuck with him.**
+**Princess Kate will attend men’s Wimbledon winner, palace says**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/13/democrats-biden-concerns-00167915).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/07/13/princess-kate-wimbledon-final-cancer/).
 
 ## Requirements
 - Python 3.8
