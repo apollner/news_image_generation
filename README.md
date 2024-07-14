@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden told to drop out in "haywire" meeting with Hispanic Democrats**
+**Judge dismisses Alec Baldwin’s ‘Rust’ case, blaming prosecutor conduct**
 
-You can read more about it [here](https://www.axios.com/2024/07/12/biden-mike-levin-hispanic-caucus-meeting).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/2024/07/12/baldwin-trial-dismissed/).
 
 ## Requirements
 - Python 3.8
