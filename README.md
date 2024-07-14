@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge dismisses Alec Baldwin’s ‘Rust’ case, blaming prosecutor conduct**
+**More than 24M people watched Biden NATO presser**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/2024/07/12/baldwin-trial-dismissed/).
+You can read more about it [here](https://www.axios.com/2024/07/12/biden-press-conference-nato-viewers-watched).
 
 ## Requirements
 - Python 3.8
