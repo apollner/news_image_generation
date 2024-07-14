@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Desperate single mom jumps on hood of car to save 6-year-old son from carjacking and is thrown to her death in Ohio**
+**Netanyahu reverses on key Israeli concession in ceasefire talks**
 
-You can read more about it [here](https://nypost.com/2024/07/12/us-news/desperate-single-mom-jumps-on-hood-of-car-to-save-6-year-old-son-from-carjacking-and-is-thrown-to-her-death-in-ohio/).
+You can read more about it [here](https://www.cnn.com/2024/07/12/middleeast/israel-netanyahu-ceasefire-talks-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
