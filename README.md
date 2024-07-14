@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Princess Kate will attend men’s Wimbledon winner, palace says**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/07/13/princess-kate-wimbledon-final-cancer/).
 
 ## Requirements
 - Python 3.8
