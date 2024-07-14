@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson contract extension FAQ: How much did Knicks star really leave on table, what move means for NY**
+**‘Rust’ movie set shooting trial: Why the involuntary manslaughter case against actor Alec Baldwin was dismissed**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/jalen-brunson-contract-extension-faq-how-much-did-knicks-star-really-leave-on-table-what-move-means-for-ny/).
+You can read more about it [here](https://www.cnn.com/2024/07/13/entertainment/alec-baldwin-rust-trial-dismissed/index.html).
 
 ## Requirements
 - Python 3.8
