@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Not tonight: Study explores reasons young adults choose not to drink**
+**Democrats aren’t confident in Biden’s chances. But they may be stuck with him.**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/13/young-adult-drinking-abstain-reasons/).
+You can read more about it [here](https://www.politico.com/news/2024/07/13/democrats-biden-concerns-00167915).
 
 ## Requirements
 - Python 3.8
