@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas-run health ministry says 90 killed in Gaza strike targeting Mohammed Deif**
+**Galaxy Z Flip 6 cover screen supports AI wallpapers, unlike Flip 5 - SamMobile**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cyx0qdkn45eo).
+You can read more about it [here](https://www.sammobile.com/news/galaxy-z-flip-6-cover-screen-ai-wallpapers-one-ui-6-1-1/).
 
 ## Requirements
 - Python 3.8
