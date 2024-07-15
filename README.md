@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Milwaukee’s Democrats conflicted over hosting Trump and Republican National Convention**
+**Hamas denies it has withdrawn from hostage-truce talks after latest Israeli attacks**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/milwaukees-democrats-conflicted-over-hosting-trump-and-republican-national-convention).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3Nlbmlvci1oYW1hcy1vZmZpY2lhbC1zYXlzLWdyb3VwLXdpdGhkcmF3aW5nLWZyb20tZ2F6YS1ob3N0YWdlLXRydWNlLXRhbGtzL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3Nlbmlvci1oYW1hcy1vZmZpY2lhbC1zYXlzLWdyb3VwLXdpdGhkcmF3aW5nLWZyb20tZ2F6YS1ob3N0YWdlLXRydWNlLXRhbGtzL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
