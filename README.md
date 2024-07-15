@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Denver Results: Namajunas vs. Cortez**
+**Treason and espionage cases are rising in Russia since the war in Ukraine began**
 
-You can read more about it [here](https://www.mmafighting.com/2024/7/13/24196497/ufc-denver-results-namajunas-vs-cortez).
+You can read more about it [here](https://apnews.com/article/russia-putin-crackdown-treason-espionage-gershkovich-ee99b15588fc0c3b20ed0e381afe3de3).
 
 ## Requirements
 - Python 3.8
