@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Netflix results, retail sales, and a chip update: What to watch this week**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://finance.yahoo.com/news/netflix-results-retail-sales-and-a-chip-update-what-to-watch-this-week-130036789.html).
 
 ## Requirements
 - Python 3.8
