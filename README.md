@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Prime Day Finds Under $10: Get 22 Great Products at Unbeatable Prices**
+**New Bird Flu Discovery Suggests Cows Are a Threat For Future Pandemics**
 
-You can read more about it [here](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/).
+You can read more about it [here](https://www.sciencealert.com/new-bird-flu-discovery-suggests-cows-are-a-threat-for-future-pandemics).
 
 ## Requirements
 - Python 3.8
