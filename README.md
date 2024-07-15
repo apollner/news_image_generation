@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**40% of cancers found to be preventable with these lifestyle changes**
+**Khloé Kardashian stuns in nude maxi dress with huge slit and bejwelled braid**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/07/12/cancer-prevention-lifestyle-diet-changes-study/74370384007/).
+You can read more about it [here](https://www.cosmopolitan.com/uk/fashion/a61589481/khloe-kardashian-nude-maxi-dress-huge-slit-bejwelled-braid/).
 
 ## Requirements
 - Python 3.8
