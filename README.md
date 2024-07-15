@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon 9 rockets grounded by FAA, putting Space Coast missions on indefinite hold**
+**Gnatalie is the only green-boned dinosaur found on the planet. She will be on display in LA**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/07/12/spacex-falcon-9-rockets-grounded-by-faa-halting-space-coast-liftoffs-in-brevard-county-florida/74382725007/).
+You can read more about it [here](https://apnews.com/article/green-dinosaur-los-angeles-california-natural-history-museum-7b9c0f6e9394345c3a391e68b02dd1a1).
 
 ## Requirements
 - Python 3.8
