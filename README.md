@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 16 Pro Design Upgrade Promises Key Feature Boost, Report Says**
+**Shannen Doherty, a star of ‘90210’ and ‘Charmed,’ dies at 53**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/07/14/apple-iphone-16-pro-design-upgrade-promises-key-feature-boost-report-says-iphone-16-pro-max/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/07/14/shannen-doherty-90210-actress-dead/).
 
 ## Requirements
 - Python 3.8
