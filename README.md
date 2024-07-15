@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk endorses Trump in presidential race, calls him "tough"**
+**Treason and espionage cases are rising in Russia since the war in Ukraine began**
 
-You can read more about it [here](https://www.reuters.com/world/us/elon-musk-says-he-fully-endorses-tough-trump-posts-photo-2024-07-13/).
+You can read more about it [here](https://apnews.com/article/russia-putin-crackdown-treason-espionage-gershkovich-ee99b15588fc0c3b20ed0e381afe3de3).
 
 ## Requirements
 - Python 3.8
