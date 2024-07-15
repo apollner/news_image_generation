@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treason and espionage cases are rising in Russia since the war in Ukraine began**
+**What's worse than thieves hacking into your bank account? When they steal your phone number, too**
 
-You can read more about it [here](https://apnews.com/article/russia-putin-crackdown-treason-espionage-gershkovich-ee99b15588fc0c3b20ed0e381afe3de3).
+You can read more about it [here](https://apnews.com/article/fraud-identity-theft-fcc-wireless-providers-8df930f2983d589c4822bba53eedfc1b).
 
 ## Requirements
 - Python 3.8
