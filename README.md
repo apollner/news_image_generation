@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk endorses Donald Trump shortly after ex-president injured by shots fired at rally**
+**USWNT looked like a completely different team in win against Mexico. That's a good thing.**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/13/elon-musk-endorses-trump-after-shots-were-fired-at-former-president-.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/07/13/uswnt-mexico-emma-hayes/74396527007/).
 
 ## Requirements
 - Python 3.8
