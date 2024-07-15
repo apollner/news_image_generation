@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT looked like a completely different team in win against Mexico. That's a good thing.**
+**Richard Simmons, fitness personality and TV host, dead at 76**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/olympics/2024/07/13/uswnt-mexico-emma-hayes/74396527007/).
+You can read more about it [here](https://www.cnn.com/2024/07/13/entertainment/richard-simmons-death/index.html).
 
 ## Requirements
 - Python 3.8
