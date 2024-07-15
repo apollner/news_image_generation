@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fitness guru Richard Simmons dead at 76**
+**Former Texans, Ravens wide receiver, Super Bowl standout Jacoby Jones died overnight**
 
-You can read more about it [here](https://abcnews.go.com/US/fitness-guru-richard-simmons-dead-76/story?id=111912398).
+You can read more about it [here](https://www.click2houston.com/sports/2024/07/14/former-texans-ravens-wide-receiver-super-bowl-standout-jacoby-jones-died-overnight-at-his-home-in-houston-area/).
 
 ## Requirements
 - Python 3.8
