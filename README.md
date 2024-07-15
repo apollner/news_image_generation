@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Enough!’: Sanders calls on Democrats to stop infighting and back Biden**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/07/13/bernie-sanders-biden-reelection-00167973).
 
 ## Requirements
 - Python 3.8
