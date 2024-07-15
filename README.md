@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arenado hero in nightcap as Cards sweep Cubs in doubleheader**
+**Elon Musk endorses Trump in presidential race, calls him "tough"**
 
-You can read more about it [here](https://www.mlb.com/news/nolan-arenado-cardinals-beat-cubs-in-second-game-of-doubleheader).
+You can read more about it [here](https://www.reuters.com/world/us/elon-musk-says-he-fully-endorses-tough-trump-posts-photo-2024-07-13/).
 
 ## Requirements
 - Python 3.8
