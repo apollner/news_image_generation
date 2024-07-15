@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Enough!’: Sanders calls on Democrats to stop infighting and back Biden**
+**Delta Air Lines adopts new rules for flight attendant uniforms after Palestinian pin flap**
 
-You can read more about it [here](https://www.politico.com/news/2024/07/13/bernie-sanders-biden-reelection-00167973).
+You can read more about it [here](https://apnews.com/article/delta-flight-attendant-palestinian-pin-1f8f4bee3dab6d502446ffa44711acc3).
 
 ## Requirements
 - Python 3.8
