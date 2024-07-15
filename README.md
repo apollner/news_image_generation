@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orioles' Heston Kjerstad on Concussion IL After HBP That Sparked Brawl With Yankees**
+**Arenado hero in nightcap as Cards sweep Cubs in doubleheader**
 
-You can read more about it [here](https://www.si.com/mlb/orioles-heston-kjerstad-concussion-il-clay-holmes-pitch-hit-head-sparked-brawl-yankees).
+You can read more about it [here](https://www.mlb.com/news/nolan-arenado-cardinals-beat-cubs-in-second-game-of-doubleheader).
 
 ## Requirements
 - Python 3.8
