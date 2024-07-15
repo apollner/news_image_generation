@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Longlegs’ Bedevils With Phenomenal $22.6 Million Debut, ‘Fly Me to the Moon’ Struggles to Lift Off With $10 Million**
+**Bengals' franchise-tagged WR Tee Higgins won't have extension by deadline**
 
-You can read more about it [here](https://variety.com/2024/film/news/box-office-longlegs-phenomenal-debut-fly-me-to-the-moon-struggles-despicable-me-4-1236070699/).
+You can read more about it [here](https://www.nfl.com/news/bengals-franchise-tagged-wr-tee-higgins-won-t-reach-extension-by-deadline).
 
 ## Requirements
 - Python 3.8
