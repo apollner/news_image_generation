@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain beats England 2-1 to win record fourth European Championship title**
+**King Charles and Queen Camilla to visit Australia and Samoa**
 
-You can read more about it [here](https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d).
+You can read more about it [here](https://www.cnn.com/2024/07/14/world/king-charles-australia-samoa-visit-intl/index.html).
 
 ## Requirements
 - Python 3.8
