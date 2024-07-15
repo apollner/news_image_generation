@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Khloé Kardashian stuns in nude maxi dress with huge slit and bejwelled braid**
+**SpaceX Falcon 9 rockets grounded by FAA, putting Space Coast missions on indefinite hold**
 
-You can read more about it [here](https://www.cosmopolitan.com/uk/fashion/a61589481/khloe-kardashian-nude-maxi-dress-huge-slit-bejwelled-braid/).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/2024/07/12/spacex-falcon-9-rockets-grounded-by-faa-halting-space-coast-liftoffs-in-brevard-county-florida/74382725007/).
 
 ## Requirements
 - Python 3.8
