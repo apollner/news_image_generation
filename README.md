@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Texans, Ravens wide receiver, Super Bowl standout Jacoby Jones died overnight**
+**Apple iPhone 16 Pro Design Upgrade Promises Key Feature Boost, Report Says**
 
-You can read more about it [here](https://www.click2houston.com/sports/2024/07/14/former-texans-ravens-wide-receiver-super-bowl-standout-jacoby-jones-died-overnight-at-his-home-in-houston-area/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/07/14/apple-iphone-16-pro-design-upgrade-promises-key-feature-boost-report-says-iphone-16-pro-max/).
 
 ## Requirements
 - Python 3.8
