@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gnatalie is the only green-boned dinosaur found on the planet. She will be on display in LA**
+**Fitness guru Richard Simmons dead at 76**
 
-You can read more about it [here](https://apnews.com/article/green-dinosaur-los-angeles-california-natural-history-museum-7b9c0f6e9394345c3a391e68b02dd1a1).
+You can read more about it [here](https://abcnews.go.com/US/fitness-guru-richard-simmons-dead-76/story?id=111912398).
 
 ## Requirements
 - Python 3.8
