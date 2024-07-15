@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Simmons, fitness personality and TV host, dead at 76**
+**Orioles' Heston Kjerstad on Concussion IL After HBP That Sparked Brawl With Yankees**
 
-You can read more about it [here](https://www.cnn.com/2024/07/13/entertainment/richard-simmons-death/index.html).
+You can read more about it [here](https://www.si.com/mlb/orioles-heston-kjerstad-concussion-il-clay-holmes-pitch-hit-head-sparked-brawl-yankees).
 
 ## Requirements
 - Python 3.8
