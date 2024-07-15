@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utah teen missing in Mexico recovered safely**
+**[Removed]**
 
-You can read more about it [here](https://www.foxla.com/news/utah-teen-missing-mexico-recovered-safely).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
