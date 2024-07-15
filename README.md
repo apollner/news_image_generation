@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Prime Day Finds Under $10: Get 22 Great Products at Unbeatable Prices**
+**Elon Musk endorses Donald Trump shortly after ex-president injured by shots fired at rally**
 
-You can read more about it [here](https://www.cnet.com/deals/best-prime-day-deals-under-10-2024-07-13/).
+You can read more about it [here](https://www.cnbc.com/2024/07/13/elon-musk-endorses-trump-after-shots-were-fired-at-former-president-.html).
 
 ## Requirements
 - Python 3.8
