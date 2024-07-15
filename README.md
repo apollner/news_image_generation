@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treason and espionage cases are rising in Russia since the war in Ukraine began**
+**Hamas-run health ministry says 90 killed in Gaza strike targeting Mohammed Deif**
 
-You can read more about it [here](https://apnews.com/article/russia-putin-crackdown-treason-espionage-gershkovich-ee99b15588fc0c3b20ed0e381afe3de3).
+You can read more about it [here](https://www.bbc.com/news/articles/cyx0qdkn45eo).
 
 ## Requirements
 - Python 3.8
