@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Flip 6 cover screen supports AI wallpapers, unlike Flip 5 - SamMobile**
+**Milwaukee’s Democrats conflicted over hosting Trump and Republican National Convention**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-z-flip-6-cover-screen-ai-wallpapers-one-ui-6-1-1/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/milwaukees-democrats-conflicted-over-hosting-trump-and-republican-national-convention).
 
 ## Requirements
 - Python 3.8
