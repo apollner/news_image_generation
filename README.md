@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals' franchise-tagged WR Tee Higgins won't have extension by deadline**
+**[Removed]**
 
-You can read more about it [here](https://www.nfl.com/news/bengals-franchise-tagged-wr-tee-higgins-won-t-reach-extension-by-deadline).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
