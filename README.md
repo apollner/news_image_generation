@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Despicable Me 4’ Rises To $438M WW, ‘Inside Out 2’ Grins With $1.35B, ‘A Quiet Place: Day One’ Tops $200M & ‘Twisters’ Starts Swirling Early Overseas – International Box Office**
+**Spain beats England 2-1 to win record fourth European Championship title**
 
-You can read more about it [here](http://deadline.com/2024/07/despicable-me-4-inside-out-2-quiet-place-twisters-global-international-box-office-1236009799/).
+You can read more about it [here](https://apnews.com/article/spain-england-euro-2024-final-dc46b104e6bf3b94b7d6d70e18f8220d).
 
 ## Requirements
 - Python 3.8
