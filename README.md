@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's worse than thieves hacking into your bank account? When they steal your phone number, too**
+**40% of cancers found to be preventable with these lifestyle changes**
 
-You can read more about it [here](https://apnews.com/article/fraud-identity-theft-fcc-wireless-providers-8df930f2983d589c4822bba53eedfc1b).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/07/12/cancer-prevention-lifestyle-diet-changes-study/74370384007/).
 
 ## Requirements
 - Python 3.8
