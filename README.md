@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas denies it has withdrawn from hostage-truce talks after latest Israeli attacks**
+**Mock draft: MLB Pipeline's final predictions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3Nlbmlvci1oYW1hcy1vZmZpY2lhbC1zYXlzLWdyb3VwLXdpdGhkcmF3aW5nLWZyb20tZ2F6YS1ob3N0YWdlLXRydWNlLXRhbGtzL9IBbWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL3Nlbmlvci1oYW1hcy1vZmZpY2lhbC1zYXlzLWdyb3VwLXdpdGhkcmF3aW5nLWZyb20tZ2F6YS1ob3N0YWdlLXRydWNlLXRhbGtzL2FtcC8?oc=5).
+You can read more about it [here](https://www.mlb.com/news/final-mlb-mock-draft-2024).
 
 ## Requirements
 - Python 3.8
