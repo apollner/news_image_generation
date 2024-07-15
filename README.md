@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mock draft: MLB Pipeline's final predictions**
+**UFC Denver Results: Namajunas vs. Cortez**
 
-You can read more about it [here](https://www.mlb.com/news/final-mlb-mock-draft-2024).
+You can read more about it [here](https://www.mmafighting.com/2024/7/13/24196497/ufc-denver-results-namajunas-vs-cortez).
 
 ## Requirements
 - Python 3.8
