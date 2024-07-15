@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix results, retail sales, and a chip update: What to watch this week**
+**Kate Middleton wears lilac midi dress for surprise Wimbledon appearance with daughter Princess Charlotte, 9**
 
-You can read more about it [here](https://finance.yahoo.com/news/netflix-results-retail-sales-and-a-chip-update-what-to-watch-this-week-130036789.html).
+You can read more about it [here](https://pagesix.com/2024/07/14/style/kate-middleton-wears-lilac-midi-dress-for-surprise-wimbledon-appearance-with-daughter-princess-charlotte-9/).
 
 ## Requirements
 - Python 3.8
