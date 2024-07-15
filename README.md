@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Bird Flu Discovery Suggests Cows Are a Threat For Future Pandemics**
+**Delta Air Lines adopts new rules for flight attendant uniforms after Palestinian pin flap**
 
-You can read more about it [here](https://www.sciencealert.com/new-bird-flu-discovery-suggests-cows-are-a-threat-for-future-pandemics).
+You can read more about it [here](https://apnews.com/article/delta-flight-attendant-palestinian-pin-1f8f4bee3dab6d502446ffa44711acc3).
 
 ## Requirements
 - Python 3.8
