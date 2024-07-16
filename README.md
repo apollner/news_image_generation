@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 MLB Draft Picks: Live Team-by-Team Day 1 Grades and Analysis**
+**Novak Djokovic can’t stop younger, more powerful Carlos Alcaraz at Wimbledon**
 
-You can read more about it [here](https://bleacherreport.com/articles/10128170-2024-mlb-draft-picks-live-team-by-team-day-1-grades-and-analysis).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/07/14/novak-djokovic-carlos-alcaraz-wimbledon/).
 
 ## Requirements
 - Python 3.8
