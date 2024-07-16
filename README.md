@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda election: Paul Kagame seeks fourth term as president**
+**2024 MLB Draft Picks: Live Team-by-Team Day 1 Grades and Analysis**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx02l558wkqo).
+You can read more about it [here](https://bleacherreport.com/articles/10128170-2024-mlb-draft-picks-live-team-by-team-day-1-grades-and-analysis).
 
 ## Requirements
 - Python 3.8
