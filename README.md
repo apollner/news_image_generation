@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joshua Schulman Named CEO of Burberry, Replacing Jonathan Akeroyd**
+**‘Stranger Things 5’ Adds 3 To Cast, Reveals First Look At Final Season With Behind The Scenes Video**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3dkLmNvbS9idXNpbmVzcy1uZXdzL2ZpbmFuY2lhbC9qb3NodWEtc2NodWxtYW4tbmFtZWQtY2VvLWJ1cmJlcnJ5LW1ham9yLXNoYWtldXAtMTIzNjQ5MDk2OS_SAQA?oc=5).
+You can read more about it [here](http://deadline.com/2024/07/stranger-things-season-5-nell-fisher-alex-breaux-jake-connelly-cast-bts-video-1236010110/).
 
 ## Requirements
 - Python 3.8
