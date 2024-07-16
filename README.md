@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump heads to convention as authorities investigate motive, security in assassination attempt**
+**Abbott reprimands CenterPoint and calls for an investigation into the utility’s response to Beryl blackouts**
 
-You can read more about it [here](https://apnews.com/article/trump-rally-assassination-attempt-db24c5bfbbe7d09fa2437c3c836bb434).
+You can read more about it [here](https://www.texastribune.org/2024/07/14/abbott-centerpoint-energy-hurricane-beryl/).
 
 ## Requirements
 - Python 3.8
