@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melting polar ice is changing the way the Earth spins and making days longer, study shows**
+**Mayhem at Copa America gates in Miami prevented ticketed fans from getting into game**
 
-You can read more about it [here](https://www.cnn.com/2024/07/15/climate/polar-ice-melting-day-length-time/index.html).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/mayhem-copa-america-gates-miami-prevented-ticketed-fans-getting-game-rcna161869).
 
 ## Requirements
 - Python 3.8
