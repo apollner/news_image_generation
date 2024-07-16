@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mapped: Another hot COVID summer**
+**Even for Las Vegas, it's too hot**
 
-You can read more about it [here](https://www.axios.com/2024/07/15/covid-summer-surge-spreads).
+You can read more about it [here](https://www.nbcnews.com/science/environment/even-las-vegas-hot-rcna161168).
 
 ## Requirements
 - Python 3.8
