@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even for Las Vegas, it's too hot**
+**About 7 percent of U.S. adults have had long covid, report says**
 
-You can read more about it [here](https://www.nbcnews.com/science/environment/even-las-vegas-hot-rcna161168).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/15/long-covid-united-states-adults/).
 
 ## Requirements
 - Python 3.8
