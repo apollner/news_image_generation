@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The RNC starts today. Here’s what you need to know**
+**Mapped: Another hot COVID summer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xNS9nLXMxLTEwMzA5L3JuYy1yZXB1YmxpY2FuLWNvbnZlbnRpb24tbWlsd2F1a2VlLXRydW1w0gEA?oc=5).
+You can read more about it [here](https://www.axios.com/2024/07/15/covid-summer-surge-spreads).
 
 ## Requirements
 - Python 3.8
