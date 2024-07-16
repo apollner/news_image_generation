@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 22 killed in strike on makeshift mosque in Gaza City camp, hospital official says**
+**After ‘historic backslide’ during pandemic, global childhood immunization rates stall, new data shows**
 
-You can read more about it [here](https://www.cnn.com/2024/07/14/middleeast/israel-strike-mosque-gaza-city-camp-intl-latam/index.html).
+You can read more about it [here](https://www.cnn.com/2024/07/14/health/immunization-rates-report/index.html).
 
 ## Requirements
 - Python 3.8
