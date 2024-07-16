@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After ‘historic backslide’ during pandemic, global childhood immunization rates stall, new data shows**
+**China’s Economic Growth Comes in Worse Than Expected, Adding Pressure on Xi**
 
-You can read more about it [here](https://www.cnn.com/2024/07/14/health/immunization-rates-report/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-07-15/china-growth-weakens-more-than-expected-as-outlook-darkens).
 
 ## Requirements
 - Python 3.8
