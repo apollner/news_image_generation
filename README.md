@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Macy's ends buyout talks with Arkhouse and Brigade after months of negotiations**
+**Moon cave discovered that could one day house humans**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/15/macys-ends-buyout-talks-with-arkhouse-and-brigade-after-months-of-negotiations.html).
+You can read more about it [here](https://www.bbc.com/news/articles/ce784r9njz0o).
 
 ## Requirements
 - Python 3.8
