@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk, other pro-Trump billionaires have helped shape shooting narrative**
+**2024 Republican National Convention begins today on heels of Trump assassination attempt. Here's what to know.**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/07/14/elon-musk-billionaires-trump-shooting-dei-antifa/).
+You can read more about it [here](https://www.cbsnews.com/news/2024-republican-national-convention-what-to-know/).
 
 ## Requirements
 - Python 3.8
