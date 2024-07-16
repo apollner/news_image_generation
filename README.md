@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dismissal draws new scrutiny to Judge Cannon’s handling of Trump case**
+**Colombia's soccer federation president and son among 27 arrested in chaos at Copa America final**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/07/15/judge-cannon-trump-appointee-dismissal/).
+You can read more about it [here](https://apnews.com/article/copa-america-fans-arrests-jesurun-6f45ab26a4aef6a64034215ac12604a7).
 
 ## Requirements
 - Python 3.8
