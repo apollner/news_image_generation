@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If You're Doing This In Your Sleep, It's Time To See A Doctor**
+**Rwanda election: Paul Kagame seeks fourth term as president**
 
-You can read more about it [here](https://www.huffpost.com/entry/sleep-signs-health-problem_l_629f7d88e4b07aa9389e9dcd).
+You can read more about it [here](https://www.bbc.com/news/articles/cx02l558wkqo).
 
 ## Requirements
 - Python 3.8
