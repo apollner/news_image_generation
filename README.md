@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rifle used by Trump rally shooter bought 11 years ago, person familiar says**
+**"Dangerous" heat wave grips East Coast, Central U.S.**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/15/thomas-crooks-trump-assassination-investigation/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE1L2Rhbmdlcm91cy1oZWF0LXdhdmUtZ3JpcHMtZWFzdC1jb2FzdNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
