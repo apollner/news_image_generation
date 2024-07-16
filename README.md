@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Republican National Convention begins today on heels of Trump assassination attempt. Here's what to know.**
+**At least 22 killed in strike on makeshift mosque in Gaza City camp, hospital official says**
 
-You can read more about it [here](https://www.cbsnews.com/news/2024-republican-national-convention-what-to-know/).
+You can read more about it [here](https://www.cnn.com/2024/07/14/middleeast/israel-strike-mosque-gaza-city-camp-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
