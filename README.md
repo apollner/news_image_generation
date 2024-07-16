@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**About 7 percent of U.S. adults have had long covid, report says**
+**Kenyan police say suspected serial killer has confessed to murdering 42 women**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/07/15/long-covid-united-states-adults/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE1L2tlbnlhLXBvbGljZS1kdW1wZWQtYm9kaWVzLWNhc2Utc3VzcGVjdC1jb25mZXNzZWQtdG8tNDItbXVyZGVyc9IBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE1L2tlbnlhLXBvbGljZS1kdW1wZWQtYm9kaWVzLWNhc2Utc3VzcGVjdC1jb25mZXNzZWQtdG8tNDItbXVyZGVycw?oc=5).
 
 ## Requirements
 - Python 3.8
