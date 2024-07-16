@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenyan police say suspected serial killer has confessed to murdering 42 women**
+**2024 MLB Draft: Top 10 players still available on Day 2, including an SEC speedster with power**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE1L2tlbnlhLXBvbGljZS1kdW1wZWQtYm9kaWVzLWNhc2Utc3VzcGVjdC1jb25mZXNzZWQtdG8tNDItbXVyZGVyc9IBdWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE1L2tlbnlhLXBvbGljZS1kdW1wZWQtYm9kaWVzLWNhc2Utc3VzcGVjdC1jb25mZXNzZWQtdG8tNDItbXVyZGVycw?oc=5).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2024-mlb-draft-top-10-players-still-available-on-day-2-including-an-sec-speedster-with-power/).
 
 ## Requirements
 - Python 3.8
