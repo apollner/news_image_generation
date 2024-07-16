@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**July 14, 2024, coverage of the Trump assassination attempt**
+**The RNC starts today. Here’s what you need to know**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-rally-shooting-07-14-24/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xNS9nLXMxLTEwMzA5L3JuYy1yZXB1YmxpY2FuLWNvbnZlbnRpb24tbWlsd2F1a2VlLXRydW1w0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
