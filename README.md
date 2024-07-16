@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abbott reprimands CenterPoint and calls for an investigation into the utility’s response to Beryl blackouts**
+**A would-be assassin targets Trump. What it could mean for America.**
 
-You can read more about it [here](https://www.texastribune.org/2024/07/14/abbott-centerpoint-energy-hurricane-beryl/).
+You can read more about it [here](https://www.npr.org/2024/07/14/1198912902/would-be-assassin-targets-trump).
 
 ## Requirements
 - Python 3.8
