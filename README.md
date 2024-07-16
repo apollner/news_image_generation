@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Dangerous" heat wave grips East Coast, Central U.S.**
+**Dismissal draws new scrutiny to Judge Cannon’s handling of Trump case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzE1L2Rhbmdlcm91cy1oZWF0LXdhdmUtZ3JpcHMtZWFzdC1jb2FzdNIBAA?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/07/15/judge-cannon-trump-appointee-dismissal/).
 
 ## Requirements
 - Python 3.8
