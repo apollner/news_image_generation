@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colombia's soccer federation president and son among 27 arrested in chaos at Copa America final**
+**DJT stock soars after Donald Trump survives assassination attempt**
 
-You can read more about it [here](https://apnews.com/article/copa-america-fans-arrests-jesurun-6f45ab26a4aef6a64034215ac12604a7).
+You can read more about it [here](https://finance.yahoo.com/news/djt-stock-soars-after-donald-trump-survives-assassination-attempt-180135353.html).
 
 ## Requirements
 - Python 3.8
