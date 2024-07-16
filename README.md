@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s NYT ‘Strands’ Hint, Spangram And Answers For Monday, July 15**
+**NASA Researchers End One-year Mars Habitat Mission**
 
-You can read more about it [here](https://www.forbes.com/sites/krisholt/2024/07/14/todays-nyt-strands-hint-spangram-and-answers-for-monday-july-15-give-it-the-ol-college-try/).
+You can read more about it [here](https://learningenglish.voanews.com/a/nasa-researchers-end-one-year-mars-habitat-mission/7694318.html).
 
 ## Requirements
 - Python 3.8
