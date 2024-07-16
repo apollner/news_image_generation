@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Stranger Things 5’ Adds 3 To Cast, Reveals First Look At Final Season With Behind The Scenes Video**
+**Macy's ends buyout talks with Arkhouse and Brigade after months of negotiations**
 
-You can read more about it [here](http://deadline.com/2024/07/stranger-things-season-5-nell-fisher-alex-breaux-jake-connelly-cast-bts-video-1236010110/).
+You can read more about it [here](https://www.cnbc.com/2024/07/15/macys-ends-buyout-talks-with-arkhouse-and-brigade-after-months-of-negotiations.html).
 
 ## Requirements
 - Python 3.8
