@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DJT stock soars after Donald Trump survives assassination attempt**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/djt-stock-soars-after-donald-trump-survives-assassination-attempt-180135353.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
