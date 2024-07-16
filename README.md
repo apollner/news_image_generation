@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Researchers End One-year Mars Habitat Mission**
+**[Removed]**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/nasa-researchers-end-one-year-mars-habitat-mission/7694318.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
