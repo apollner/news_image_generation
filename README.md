@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brutal heat is blasting the East Coast. Here’s a city-by-city forecast.**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93ZWF0aGVyLzIwMjQvMDcvMTUvaGVhdC13YXZlLWZvcmVjYXN0LWNpdGllcy1lYXN0LWNvYXN0L9IBAA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
