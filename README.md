@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayhem at Copa America gates in Miami prevented ticketed fans from getting into game**
+**Rifle used by Trump rally shooter bought 11 years ago, person familiar says**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/mayhem-copa-america-gates-miami-prevented-ticketed-fans-getting-game-rcna161869).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/15/thomas-crooks-trump-assassination-investigation/).
 
 ## Requirements
 - Python 3.8
