@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Copa America final underway after delay: Argentina vs. Colombia live updates**
+**Trump heads to convention as authorities investigate motive, security in assassination attempt**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/soccer/2024/07/14/copa-america-final-argentina-colombia-updates-results/74400034007/).
+You can read more about it [here](https://apnews.com/article/trump-rally-assassination-attempt-db24c5bfbbe7d09fa2437c3c836bb434).
 
 ## Requirements
 - Python 3.8
