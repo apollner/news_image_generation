@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Where to watch 2024 MLB Home Run Derby: TV channel, time, live stream online, odds, new format explained**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/mlb/news/where-to-watch-2024-mlb-home-run-derby-tv-channel-time-live-stream-online-odds-new-format-explained/).
 
 ## Requirements
 - Python 3.8
