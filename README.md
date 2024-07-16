@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novak Djokovic can’t stop younger, more powerful Carlos Alcaraz at Wimbledon**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/07/14/novak-djokovic-carlos-alcaraz-wimbledon/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
