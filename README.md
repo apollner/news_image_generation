@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A would-be assassin targets Trump. What it could mean for America.**
+**If You're Doing This In Your Sleep, It's Time To See A Doctor**
 
-You can read more about it [here](https://www.npr.org/2024/07/14/1198912902/would-be-assassin-targets-trump).
+You can read more about it [here](https://www.huffpost.com/entry/sleep-signs-health-problem_l_629f7d88e4b07aa9389e9dcd).
 
 ## Requirements
 - Python 3.8
