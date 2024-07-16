@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 MLB Draft: Top 10 players still available on Day 2, including an SEC speedster with power**
+**Joshua Schulman Named CEO of Burberry, Replacing Jonathan Akeroyd**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2024-mlb-draft-top-10-players-still-available-on-day-2-including-an-sec-speedster-with-power/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3dkLmNvbS9idXNpbmVzcy1uZXdzL2ZpbmFuY2lhbC9qb3NodWEtc2NodWxtYW4tbmFtZWQtY2VvLWJ1cmJlcnJ5LW1ham9yLXNoYWtldXAtMTIzNjQ5MDk2OS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
