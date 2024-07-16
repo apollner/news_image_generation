@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**James B. Sikking, Actor on ‘Hill Street Blues’ and ‘Doogie Howser,’ Dies at 90**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/james-sikking-dead-hill-street-blues-doogie-howser-1235948489/).
 
 ## Requirements
 - Python 3.8
