@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RNC 2024 Day 1 live updates: Trump expected to make RNC appearance tonight**
+**Holly Marie Combs and more pay tribute to Shannen Doherty after death at 53**
 
-You can read more about it [here](https://abcnews.go.com/Politics/live-updates/republican-national-convention-2024-day-1/?id=111935976).
+You can read more about it [here](https://www.goodmorningamerica.com/culture/story/hollywood-pays-tribute-shannen-doherty-force-nature-111927092).
 
 ## Requirements
 - Python 3.8
