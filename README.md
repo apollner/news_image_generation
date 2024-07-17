@@ -11,7 +11,7 @@ The latest news headline used to generate the image is:
 
 **Takeaways from the first day of the Republican National Convention**
 
-You can read more about it [here](https://www.cnn.com/2024/07/15/politics/takeaways-rnc-day-1/index.html).
+You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
 
 ## Requirements
 - Python 3.8
