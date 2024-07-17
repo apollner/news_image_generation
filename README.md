@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid-19’s back. Should you be worried?**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/07/16/health/summer-covid-rise-wellness/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
