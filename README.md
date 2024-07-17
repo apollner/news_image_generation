@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shannen Doherty’s mom speaks out following ‘beautiful’ daughter’s cancer death at 53**
+**From basement to battlefield: Ukrainian startups create low-cost robots to fight Russia**
 
-You can read more about it [here](https://pagesix.com/2024/07/15/entertainment/shannen-dohertys-mom-speaks-out-following-beautiful-daughters-cancer-death-at-53/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VrcmFpbmUtcnVzc2lhLWRyb25lcy1yb2JvdHMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYjA3ZGU3MTQ2NTllZjg1OWUxNmM1MWQ3Y2RhNDI1NmLSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
