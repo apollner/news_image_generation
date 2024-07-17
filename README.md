@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In NBC interview, Biden says he shouldn't have said "bullseye" when referring to Trump, but says former president is the one engaged in dangerous rhetoric**
+**Rally security failure has Secret Service at odds with its local law enforcement allies**
 
-You can read more about it [here](https://www.cbsnews.com/news/biden-interview-nbc-lester-holt-trump-assassination-attempt-debate-jd-vance/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNi9wb2xpdGljcy9zZWNyZXQtc2VydmljZS10cnVtcC1yYWxseS1ibGFtZS9pbmRleC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
