@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holly Marie Combs and more pay tribute to Shannen Doherty after death at 53**
+**WATCH: Sen. Ron Johnson said he delivered ‘wrong speech’ at RNC due to teleprompter error**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/hollywood-pays-tribute-shannen-doherty-force-nature-111927092).
+You can read more about it [here](https://www.pbs.org/newshour/politics/watch-sen-ron-johnson-said-he-delivered-wrong-speech-at-rnc-due-to-teleprompter-error).
 
 ## Requirements
 - Python 3.8
