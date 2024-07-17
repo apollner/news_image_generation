@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the Trump assassination attempt investigation**
+**French government resigns, ushering in indefinite transition period**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-assassination-shot-07-16-24/index.html).
+You can read more about it [here](https://www.politico.eu/article/french-government-officially-resign-ushering-indefinite-transition-period-france-gabriel-attal-emmanuel-macron/).
 
 ## Requirements
 - Python 3.8
