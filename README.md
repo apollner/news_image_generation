@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden admits Trump 'bullseye' comments a mistake**
+**Earth's Days to Grow at an Unprecedented Rate as Polar Ice Melts**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd1rzde0n4do).
+You can read more about it [here](https://www.sciencealert.com/earths-days-to-grow-at-an-unprecedented-rate-as-polar-ice-melts).
 
 ## Requirements
 - Python 3.8
