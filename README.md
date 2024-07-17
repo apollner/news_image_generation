@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Holly Marie Combs Says There’s a “Hollow in My Chest” After Shannen Doherty’s Death: “My Better Half of 31 Years”**
+**Inside Richard Simmons' Final Days Before Death - E! Online**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/holly-marie-combs-tribute-shannen-doherty-1235949207/).
+You can read more about it [here](https://www.eonline.com/news/1404975/inside-richard-simmons-final-days-before-death).
 
 ## Requirements
 - Python 3.8
