@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens**
+**Israeli strikes across Gaza kill at least 30, Palestinian health officials say**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/16/5-things-to-know-before-the-stock-market-opens-tuesday-july-16.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5yZXV0ZXJzLmNvbS93b3JsZC9taWRkbGUtZWFzdC9pc3JhZWxpLXN0cmlrZXMtYWNyb3NzLWdhemEta2lsbC1sZWFzdC0xMy1wZW9wbGUtcGFsZXN0aW5pYW4taGVhbHRoLW9mZmljaWFscy0yMDI0LTA3LTE2L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
