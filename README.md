@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: Sen. Ron Johnson said he delivered ‘wrong speech’ at RNC due to teleprompter error**
+**Takeaways from the first day of the Republican National Convention**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/watch-sen-ron-johnson-said-he-delivered-wrong-speech-at-rnc-due-to-teleprompter-error).
+You can read more about it [here](https://www.cnn.com/2024/07/15/politics/takeaways-rnc-day-1/index.html).
 
 ## Requirements
 - Python 3.8
