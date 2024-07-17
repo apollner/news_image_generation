@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid Copa América crowd chaos, Colombia soccer chief arrested**
+**Biden admits Trump 'bullseye' comments a mistake**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/07/15/copa-america-crowd-chaos-colombia-soccer-chief-arrested/).
+You can read more about it [here](https://www.bbc.com/news/articles/cd1rzde0n4do).
 
 ## Requirements
 - Python 3.8
