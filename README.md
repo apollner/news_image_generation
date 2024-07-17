@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the first day of the Republican National Convention**
+**ABC Exclusive: Trump rally shooting 'unacceptable,' Secret Service director says**
 
-You can read more about it [here](https://admin.google.com/ServiceNotAllowed).
+You can read more about it [here](https://abcnews.go.com/US/trump-rally-shooting-unacceptable-secret-service-director-abc-exclusive/story?id=111962314).
 
 ## Requirements
 - Python 3.8
