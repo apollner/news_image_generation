@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth's Days to Grow at an Unprecedented Rate as Polar Ice Melts**
+**US men's basketball team builds big lead then holds off Australia for 98-92 win in Olympics tuneup**
 
-You can read more about it [here](https://www.sciencealert.com/earths-days-to-grow-at-an-unprecedented-rate-as-polar-ice-melts).
+You can read more about it [here](https://apnews.com/article/usa-basketball-australia-paris-olympics-c6149a0fcc11f6cf5f31c3c75a040ce4).
 
 ## Requirements
 - Python 3.8
