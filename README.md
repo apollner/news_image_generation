@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Sen. Bob Menendez found guilty on all counts in corruption trial**
+**2024 British Open picks, predictions: Five trends to help determine this year's winner at Royal Troon**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/democratic-sen-bob-menendez-found-guilty-counts-corruption-charges-rcna159955).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-british-open-picks-predictions-five-trends-to-help-determine-this-years-winner-at-royal-troon/).
 
 ## Requirements
 - Python 3.8
