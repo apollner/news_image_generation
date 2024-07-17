@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Apple, Anthropic, and other companies used YouTube videos to train AI**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.theverge.com/2024/7/16/24199636/apple-anthropic-nvidia-salesforce-youtube-videos-training-data-copyright).
 
 ## Requirements
 - Python 3.8
