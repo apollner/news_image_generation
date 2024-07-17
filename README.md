@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where to watch 2024 MLB Home Run Derby: TV channel, time, live stream online, odds, new format explained**
+**Holly Marie Combs Says There’s a “Hollow in My Chest” After Shannen Doherty’s Death: “My Better Half of 31 Years”**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/where-to-watch-2024-mlb-home-run-derby-tv-channel-time-live-stream-online-odds-new-format-explained/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/holly-marie-combs-tribute-shannen-doherty-1235949207/).
 
 ## Requirements
 - Python 3.8
