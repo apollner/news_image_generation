@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French government resigns, stays on for now in caretaker role**
+**Democratic Sen. Bob Menendez found guilty on all counts in corruption trial**
 
-You can read more about it [here](https://www.reuters.com/world/europe/french-left-fights-over-pm-role-with-current-government-set-resign-2024-07-16/).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/democratic-sen-bob-menendez-found-guilty-counts-corruption-charges-rcna159955).
 
 ## Requirements
 - Python 3.8
