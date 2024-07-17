@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From basement to battlefield: Ukrainian startups create low-cost robots to fight Russia**
+**Biden admits Trump 'bullseye' comments a mistake**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VrcmFpbmUtcnVzc2lhLWRyb25lcy1yb2JvdHMtYXJ0aWZpY2lhbC1pbnRlbGxpZ2VuY2UtYjA3ZGU3MTQ2NTllZjg1OWUxNmM1MWQ3Y2RhNDI1NmLSAQA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cd1rzde0n4do).
 
 ## Requirements
 - Python 3.8
