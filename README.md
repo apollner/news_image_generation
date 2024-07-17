@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teoscar Hernández beats Bobby Witt Jr. to win MLB Home Run Derby title in Arlington**
+**Storms with likely tornadoes slap the Chicago area. Thousands lack power, and 1 is dead**
 
-You can read more about it [here](https://sports.yahoo.com/live/teoscar-hernandez-beats-bobby-witt-jr-to-win-mlb-home-run-derby-title-in-arlington-230011020.html).
+You can read more about it [here](https://apnews.com/article/iowa-tornado-des-moines-weather-illinois-949aa0d324988c7920e2c16b2f7a2f60).
 
 ## Requirements
 - Python 3.8
