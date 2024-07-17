@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican convention focuses on immigration a day after a bandaged Trump makes triumphant entrance**
+**In NBC interview, Biden says he shouldn't have said "bullseye" when referring to Trump, but says former president is the one engaged in dangerous rhetoric**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLXJlcHVibGljYW4tbmF0aW9uYWwtY29udmVudGlvbi1pbW1pZ3JhdGlvbi1kODMyZmVkYmJkMGRmMGE0ZmE2OGY5NDE0NzRjMDIwOdIBAA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/biden-interview-nbc-lester-holt-trump-assassination-attempt-debate-jd-vance/).
 
 ## Requirements
 - Python 3.8
