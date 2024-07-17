@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Sen. Bob Menendez found guilty on all counts in corruption trial**
+**Twisters doesn’t mention climate change to avoid saying anything ‘message-oriented’**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/democratic-sen-bob-menendez-found-guilty-counts-corruption-charges-rcna159955).
+You can read more about it [here](https://www.theverge.com/2024/7/16/24199803/twisters-climate-change-tornadoes-lee-isaac-chung).
 
 ## Requirements
 - Python 3.8
