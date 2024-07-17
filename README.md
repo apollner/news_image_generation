@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rally security failure has Secret Service at odds with its local law enforcement allies**
+**Storms with likely tornadoes slap the Chicago area. Thousands lack power, and 1 is dead**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNi9wb2xpdGljcy9zZWNyZXQtc2VydmljZS10cnVtcC1yYWxseS1ibGFtZS9pbmRleC5odG1s0gEA?oc=5).
+You can read more about it [here](https://apnews.com/article/iowa-tornado-des-moines-weather-illinois-949aa0d324988c7920e2c16b2f7a2f60).
 
 ## Requirements
 - Python 3.8
