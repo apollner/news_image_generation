@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**French government resigns, stays on for now in caretaker role**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/europe/french-left-fights-over-pm-role-with-current-government-set-resign-2024-07-16/).
 
 ## Requirements
 - Python 3.8
