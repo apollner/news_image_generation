@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike on central Gaza school reportedly kills 22**
+**The Florida judge who just gave Trump a pass in documents case will now be judged herself**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd1631w5n9vo).
+You can read more about it [here](https://www.usatoday.com/story/opinion/columnist/2024/07/16/trump-classified-document-case-dismissed-aileen-cannon/74411349007/).
 
 ## Requirements
 - Python 3.8
