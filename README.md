@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Florida judge who just gave Trump a pass in documents case will now be judged herself**
+**Musk plans to commit around $45 mln a month to new pro-Trump support committee, WSJ reports**
 
-You can read more about it [here](https://www.usatoday.com/story/opinion/columnist/2024/07/16/trump-classified-document-case-dismissed-aileen-cannon/74411349007/).
+You can read more about it [here](https://www.reuters.com/world/us/musk-plans-commit-around-45-million-month-new-pro-trump-super-pac-wsj-reports-2024-07-16/).
 
 ## Requirements
 - Python 3.8
