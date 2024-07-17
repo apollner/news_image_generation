@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF increasingly certain Deif died in strike, says Hamas fighters in ‘survival mode’**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2lkZi1pbmNyZWFzaW5nbHktY2VydGFpbi1kZWlmLWRpZWQtaW4tc3RyaWtlLXNheXMtaGFtYXMtZmlnaHRlcnMtaW4tc3Vydml2YWwtbW9kZS_SAXRodHRwczovL3d3dy50aW1lc29maXNyYWVsLmNvbS9pZGYtaW5jcmVhc2luZ2x5LWNlcnRhaW4tZGVpZi1kaWVkLWluLXN0cmlrZS1zYXlzLWhhbWFzLWZpZ2h0ZXJzLWluLXN1cnZpdmFsLW1vZGUvYW1wLw?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
