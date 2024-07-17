@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden admits Trump 'bullseye' comments a mistake**
+**Shannen Doherty's doctor reveals her 'sad' final moments before death: 'She wasn't ready to leave'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd1rzde0n4do).
+You can read more about it [here](https://nypost.com/2024/07/16/entertainment/shannen-dohertys-doctor-reveals-her-sad-final-moments-before-death-she-wasnt-ready-to-leave/).
 
 ## Requirements
 - Python 3.8
