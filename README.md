@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US men's basketball team builds big lead then holds off Australia for 98-92 win in Olympics tuneup**
+**Shannen Doherty’s mom speaks out following ‘beautiful’ daughter’s cancer death at 53**
 
-You can read more about it [here](https://apnews.com/article/usa-basketball-australia-paris-olympics-c6149a0fcc11f6cf5f31c3c75a040ce4).
+You can read more about it [here](https://pagesix.com/2024/07/15/entertainment/shannen-dohertys-mom-speaks-out-following-beautiful-daughters-cancer-death-at-53/).
 
 ## Requirements
 - Python 3.8
