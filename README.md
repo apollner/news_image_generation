@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside Richard Simmons' Final Days Before Death - E! Online**
+**Amazon Prime Day Live Blog: 159 Can't-Miss Prime Day Deals We've Found So Far**
 
-You can read more about it [here](https://www.eonline.com/news/1404975/inside-richard-simmons-final-days-before-death).
+You can read more about it [here](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/).
 
 ## Requirements
 - Python 3.8
