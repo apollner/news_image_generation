@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Prime Day Live Blog: 159 Can't-Miss Prime Day Deals We've Found So Far**
+**RNC 2024 Day 1 live updates: Trump expected to make RNC appearance tonight**
 
-You can read more about it [here](https://www.cnet.com/tech/best-prime-day-deals-live-2024-07-15/).
+You can read more about it [here](https://abcnews.go.com/Politics/live-updates/republican-national-convention-2024-day-1/?id=111935976).
 
 ## Requirements
 - Python 3.8
