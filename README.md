@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the Trump assassination attempt investigation**
+**Republican convention focuses on immigration a day after a bandaged Trump makes triumphant entrance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL3RydW1wLWFzc2Fzc2luYXRpb24tc2hvdC0wNy0xNi0yNC9pbmRleC5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLXJlcHVibGljYW4tbmF0aW9uYWwtY29udmVudGlvbi1pbW1pZ3JhdGlvbi1kODMyZmVkYmJkMGRmMGE0ZmE2OGY5NDE0NzRjMDIwOdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
