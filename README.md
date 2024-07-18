@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jack Black's Tenacious D band cancels Australia tour after comments on Trump shooting**
+**Mega Millions winning numbers for July 16 drawing: Jackpot climbs to $226 million**
 
-You can read more about it [here](https://www.reuters.com/world/jack-blacks-tenacious-d-band-cancels-australia-tour-after-comments-trump-2024-07-17/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/07/16/mega-millions-winning-numbers/74433872007/).
 
 ## Requirements
 - Python 3.8
