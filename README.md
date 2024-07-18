@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Hall and estranged husband Josh ‘had issues in the marriage’ before filing for divorce: report**
+**Thai police say cyanide killed 6 foreigners in Bangkok hotel, including suspect**
 
-You can read more about it [here](https://pagesix.com/2024/07/16/entertainment/christina-and-josh-hall-had-issues-in-the-marriage-before-filing-for-divorce-report/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/thai-police-say-cyanide-killed-6-foreigners-bangkok-hotel-2024-07-17/).
 
 ## Requirements
 - Python 3.8
