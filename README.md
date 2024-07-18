@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Democrat Schiff calls on Biden to 'pass the torch'**
+**Elon Musk says SpaceX and X will relocate their headquarters to Texas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeTk0NzNlZHBlZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3k5NDczZWRwZWVvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NwYWNlLzIwMjQvMDcvZWxvbi1tdXNrLXNheXMtc3BhY2V4LWFuZC14LXdpbGwtcmVsb2NhdGUtdGhlaXItaGVhZHF1YXJ0ZXJzLXRvLXRleGFzL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
