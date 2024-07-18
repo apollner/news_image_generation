@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Scandoval Never Stops: Ariana Madix Now Sued By Tom Sandoval Over Explicit ‘Vanderpump Rules’ Video**
+**Special counsel Jack Smith appeals dismissal of Trump classified files case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvc2NhbmRvdmFsLWxhd3N1aXQtYXJpYW5hLW1hZGl4LXRvbS1zYW5kb3ZhbC12YW5kZXJwdW1wLTEyMzYwMTMxOTAv0gFjaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNy9zY2FuZG92YWwtbGF3c3VpdC1hcmlhbmEtbWFkaXgtdG9tLXNhbmRvdmFsLXZhbmRlcnB1bXAtMTIzNjAxMzE5MC9hbXAv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMTcvdHJ1bXAtY2xhc3NpZmllZC1kb2N1bWVudHMtZGlzbWlzc2FsLWFwcGVhbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
