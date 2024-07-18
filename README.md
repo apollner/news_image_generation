@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jack Black's Tenacious D cancels tour after bandmate makes onstage Trump assassination joke**
+**Traces of cyanide found in cups of Vietnamese and Americans found dead in Bangkok hotel, police say**
 
-You can read more about it [here](https://www.axios.com/2024/07/17/jack-black-cancels-tour-trump-assassination).
+You can read more about it [here](https://apnews.com/article/thailand-hotel-death-poisoning-cyanide-795719445377c5be993a792aeba48586).
 
 ## Requirements
 - Python 3.8
