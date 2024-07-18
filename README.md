@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says SpaceX and X will relocate their headquarters to Texas**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NwYWNlLzIwMjQvMDcvZWxvbi1tdXNrLXNheXMtc3BhY2V4LWFuZC14LXdpbGwtcmVsb2NhdGUtdGhlaXItaGVhZHF1YXJ0ZXJzLXRvLXRleGFzL9IBAA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
