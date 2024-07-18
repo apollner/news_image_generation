@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thai police say cyanide killed 6 foreigners in Bangkok hotel, including suspect**
+**Huge Apophis Asteroid on Collision Course With Earth?**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/thai-police-say-cyanide-killed-6-foreigners-bangkok-hotel-2024-07-17/).
+You can read more about it [here](https://greekreporter.com/2024/07/17/huge-apophis-asteroid-on-collision-course-with-earth/).
 
 ## Requirements
 - Python 3.8
