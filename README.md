@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traces of cyanide found in cups of Vietnamese and Americans found dead in Bangkok hotel, police say**
+**Christina Hall and estranged husband Josh ‘had issues in the marriage’ before filing for divorce: report**
 
-You can read more about it [here](https://apnews.com/article/thailand-hotel-death-poisoning-cyanide-795719445377c5be993a792aeba48586).
+You can read more about it [here](https://pagesix.com/2024/07/16/entertainment/christina-and-josh-hall-had-issues-in-the-marriage-before-filing-for-divorce-report/).
 
 ## Requirements
 - Python 3.8
