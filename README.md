@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon ends Gaza pier mission**
+**Elon Musk moving SpaceX headquarters to Texas over new California LGBTQ+ law**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzE3L2dhemEtcGllci1taXNzaW9uLWVuZHMtcGVudGFnb24taXNyYWVsL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNwYWNlLmNvbS9zcGFjZXgtZWxvbi1tdXNrLWNhbGlmb3JuaWEtdGV4YXMtaGVhZHF1YXJ0ZXJzLWxnYnRxLWxlZ2lzbGF0aW9u0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
