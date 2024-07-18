@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meteor may be responsible for loud boom heard in Staten Island, Brooklyn and Queens**
+**Six Colorado workers contracted bird flu, the most human cases in a state**
 
-You can read more about it [here](https://abc7ny.com/post/loud-boom-nj-nyc-noise-staten-island-brooklyn-queens/15062828/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/).
 
 ## Requirements
 - Python 3.8
