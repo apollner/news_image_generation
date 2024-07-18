@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ingrid Andress: Country star admits singing US anthem drunk**
+**The 2024 Primetime Emmy Nominations**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crgl2gw5868o).
+You can read more about it [here](http://www.vulture.com/article/emmy-nominations-2024.html).
 
 ## Requirements
 - Python 3.8
