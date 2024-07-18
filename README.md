@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six Colorado workers contracted bird flu, the most human cases in a state**
+**Russia's Medvedev says Ukraine joining NATO would mean war**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/).
+You can read more about it [here](https://www.reuters.com/world/uk/russias-medvedev-says-ukraine-joining-nato-would-mean-war-2024-07-16/).
 
 ## Requirements
 - Python 3.8
