@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Twisters doesn’t mention climate change to avoid saying anything ‘message-oriented’**
+**The Teamsters president teases the union's 2024 endorsement**
 
-You can read more about it [here](https://www.theverge.com/2024/7/16/24199803/twisters-climate-change-tornadoes-lee-isaac-chung).
+You can read more about it [here](https://www.politico.com/live-updates/2024/07/16/rnc-live-updates-coverage/teamsters-endorsement-watch-00168684).
 
 ## Requirements
 - Python 3.8
