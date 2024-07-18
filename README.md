@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for July 16 drawing: Jackpot climbs to $226 million**
+**Meteor may be responsible for loud boom heard in Staten Island, Brooklyn and Queens**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/07/16/mega-millions-winning-numbers/74433872007/).
+You can read more about it [here](https://abc7ny.com/post/loud-boom-nj-nyc-noise-staten-island-brooklyn-queens/15062828/).
 
 ## Requirements
 - Python 3.8
