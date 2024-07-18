@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climate change is literally making our days longer**
+**The Scandoval Never Stops: Ariana Madix Now Sued By Tom Sandoval Over Explicit ‘Vanderpump Rules’ Video**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnZveC5jb20vY2xpbWF0ZS8zNjEyMTMvY2xpbWF0ZS1jaGFuZ2UtaXMtbGl0ZXJhbGx5LW1ha2luZy1vdXItZGF5cy1sb25nZXLSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvc2NhbmRvdmFsLWxhd3N1aXQtYXJpYW5hLW1hZGl4LXRvbS1zYW5kb3ZhbC12YW5kZXJwdW1wLTEyMzYwMTMxOTAv0gFjaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNy9zY2FuZG92YWwtbGF3c3VpdC1hcmlhbmEtbWFkaXgtdG9tLXNhbmRvdmFsLXZhbmRlcnB1bXAtMTIzNjAxMzE5MC9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
