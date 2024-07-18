@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six Colorado workers contracted bird flu, the most human cases in a state**
+**Jack Black's Tenacious D cancels tour after bandmate makes onstage Trump assassination joke**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/).
+You can read more about it [here](https://www.axios.com/2024/07/17/jack-black-cancels-tour-trump-assassination).
 
 ## Requirements
 - Python 3.8
