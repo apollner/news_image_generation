@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 2024 Primetime Emmy Nominations**
+**Homeland Security inspector general investigates Secret Service handling of security at Trump rally**
 
-You can read more about it [here](http://www.vulture.com/article/emmy-nominations-2024.html).
+You can read more about it [here](https://apnews.com/article/trump-assassination-attempt-inspector-general-secret-service-045449b3e8f3ab7326cb779f416f83fd).
 
 ## Requirements
 - Python 3.8
