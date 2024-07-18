@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six Colorado workers contracted bird flu, the most human cases in a state**
+**Mega Millions winning numbers for July 16 drawing: Jackpot climbs to $226 million**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/16/bird-flu-colorado-poultry-cow/).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/07/16/mega-millions-winning-numbers/74433872007/).
 
 ## Requirements
 - Python 3.8
