@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Updates: Trump rally shooting investigation continues as new details emerge about assassination attempt**
+**Ohtani crushes homer, pulls off unprecedented All-Star feat**
 
-You can read more about it [here](https://www.cbsnews.com/live-updates/trump-rally-shooting-investigation/).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-homers-in-2024-all-star-game).
 
 ## Requirements
 - Python 3.8
