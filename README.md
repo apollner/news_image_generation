@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market News: Dow Set to Open Down**
+**Stock market news today: S&P 500, Nasdaq futures tumble as China curb risk rattles techs**
 
-You can read more about it [here](https://www.barrons.com/livecoverage/stock-market-today-071724).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-news-today-sp-500-nasdaq-futures-tumble-as-china-curb-risk-rattles-techs-102418300.html).
 
 ## Requirements
 - Python 3.8
