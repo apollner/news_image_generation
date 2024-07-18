@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Pentagon ends Gaza pier mission**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb25hbC1zZWN1cml0eS8yMDI0LzA3LzE3L2dhemEtcGllci1taXNzaW9uLWVuZHMtcGVudGFnb24taXNyYWVsL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
