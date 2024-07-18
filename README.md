@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deere Slashes Diversity Initiatives After Backlash From Conservative Activist**
+**RNC live updates: We bring you inside Day 3 of the Republican National Convention**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZGVlcmUtc2xhc2hlcy1kaXZlcnNpdHktaW5pdGlhdGl2ZXMtYWZ0ZXItYmFja2xhc2gtZnJvbS1jb25zZXJ2YXRpdmUtYWN0aXZpc3QtMjQ0MjQ1MDDSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDI0LzA3LzE3L3JuYy1kYXktMy1saXZlLXVwZGF0ZXMtMjAyNC1lbGVjdGlvbi83NDQwMzExMTAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
