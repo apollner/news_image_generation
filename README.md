@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani crushes homer, pulls off unprecedented All-Star feat**
+**Jack Black's Tenacious D band cancels Australia tour after comments on Trump shooting**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-homers-in-2024-all-star-game).
+You can read more about it [here](https://www.reuters.com/world/jack-blacks-tenacious-d-band-cancels-australia-tour-after-comments-trump-2024-07-17/).
 
 ## Requirements
 - Python 3.8
