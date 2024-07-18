@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Valve runs its massive PC gaming ecosystem with only about 350 employees**
+**FBI examines Trump assassination attempt suspect's phone, transmitter found on him**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/07/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees/).
+You can read more about it [here](https://abcnews.go.com/US/trump-assassination-attempt-investigation-continues-new-details/story?id=112020474).
 
 ## Requirements
 - Python 3.8
