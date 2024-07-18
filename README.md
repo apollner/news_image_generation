@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's Medvedev says Ukraine joining NATO would mean war**
+**Biden considers major Supreme Court reform: report**
 
-You can read more about it [here](https://www.reuters.com/world/uk/russias-medvedev-says-ukraine-joining-nato-would-mean-war-2024-07-16/).
+You can read more about it [here](https://www.bbc.com/news/articles/c6p25e0pej3o).
 
 ## Requirements
 - Python 3.8
