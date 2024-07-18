@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Now a Felon, Menendez Sees His Political Future Fast Evaporating**
+**Climate change is literally making our days longer**
 
-You can read more about it [here](https://families.google.com/service-restricted).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LnZveC5jb20vY2xpbWF0ZS8zNjEyMTMvY2xpbWF0ZS1jaGFuZ2UtaXMtbGl0ZXJhbGx5LW1ha2luZy1vdXItZGF5cy1sb25nZXLSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
