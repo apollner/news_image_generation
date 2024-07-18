@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huge Apophis Asteroid on Collision Course With Earth?**
+**Jack Black's Tenacious D band cancels Australia tour after comments on Trump shooting**
 
-You can read more about it [here](https://greekreporter.com/2024/07/17/huge-apophis-asteroid-on-collision-course-with-earth/).
+You can read more about it [here](https://www.reuters.com/world/jack-blacks-tenacious-d-band-cancels-australia-tour-after-comments-trump-2024-07-17/).
 
 ## Requirements
 - Python 3.8
