@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk moving SpaceX headquarters to Texas over new California LGBTQ+ law**
+**Now a Felon, Menendez Sees His Political Future Fast Evaporating**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnNwYWNlLmNvbS9zcGFjZXgtZWxvbi1tdXNrLWNhbGlmb3JuaWEtdGV4YXMtaGVhZHF1YXJ0ZXJzLWxnYnRxLWxlZ2lzbGF0aW9u0gEA?oc=5).
+You can read more about it [here](https://families.google.com/service-restricted).
 
 ## Requirements
 - Python 3.8
