@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. military recommends permanently dismantling pier that's helping deliver aid into Gaza, sources say**
+**Russia's Medvedev says Ukraine joining NATO would mean war**
 
-You can read more about it [here](https://www.cbsnews.com/news/u-s-military-recommends-permanently-dismantling-gaza-aid-pier/).
+You can read more about it [here](https://www.reuters.com/world/uk/russias-medvedev-says-ukraine-joining-nato-would-mean-war-2024-07-16/).
 
 ## Requirements
 - Python 3.8
