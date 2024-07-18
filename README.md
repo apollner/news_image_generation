@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman’s infinity pool flooded his $27m mansion—now he's suing for being sold a property 'lemon'**
+**Top Democrat Schiff calls on Biden to 'pass the torch'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyNC8wNy8xNy9zYW0tYWx0bWFuLWluZmluaXR5LXBvb2wtbWFuc2lvbi1mbG9vZGluZy1sYXdzdWl0L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeTk0NzNlZHBlZW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3k5NDczZWRwZWVvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
