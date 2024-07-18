@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homeland Security inspector general investigates Secret Service handling of security at Trump rally**
+**Sam Altman’s infinity pool flooded his $27m mansion—now he's suing for being sold a property 'lemon'**
 
-You can read more about it [here](https://apnews.com/article/trump-assassination-attempt-inspector-general-secret-service-045449b3e8f3ab7326cb779f416f83fd).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vZm9ydHVuZS5jb20vMjAyNC8wNy8xNy9zYW0tYWx0bWFuLWluZmluaXR5LXBvb2wtbWFuc2lvbi1mbG9vZGluZy1sYXdzdWl0L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
