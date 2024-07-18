@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thailand says cyanide killed 6 foreigners in hotel, including perpetrator**
+**Ingrid Andress: Country star admits singing US anthem drunk**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/thai-police-say-cyanide-killed-6-foreigners-bangkok-hotel-2024-07-17/).
+You can read more about it [here](https://www.bbc.com/news/articles/crgl2gw5868o).
 
 ## Requirements
 - Python 3.8
