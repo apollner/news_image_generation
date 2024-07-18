@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: S&P 500, Nasdaq futures tumble as China curb risk rattles techs**
+**Valve runs its massive PC gaming ecosystem with only about 350 employees**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-news-today-sp-500-nasdaq-futures-tumble-as-china-curb-risk-rattles-techs-102418300.html).
+You can read more about it [here](https://arstechnica.com/gaming/2024/07/valve-runs-its-massive-pc-gaming-ecosystem-with-only-about-350-employees/).
 
 ## Requirements
 - Python 3.8
