@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RNC live updates: We bring you inside Day 3 of the Republican National Convention**
+**Tyler James Williams, Nikki Glaser, Eric André and more react to their Emmy nominations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3BvbGl0aWNzL2VsZWN0aW9ucy8yMDI0LzA3LzE3L3JuYy1kYXktMy1saXZlLXVwZGF0ZXMtMjAyNC1lbGVjdGlvbi83NDQwMzExMTAwNy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2VtbXlzLTIwMjQtbm9taW5lZXMtcmVhY3Rpb25zLTQ3YWYxMDczMzdhN2UxZmZlNDEzNTM4MDA3ZGNkN2Iz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
