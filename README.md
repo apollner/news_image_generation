@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daylight fireball meteor may have rattled parts of New York City and New Jersey, NASA says**
+**Eternal Day and Night: Webb’s Journey To Understand a Distant World’s Bizarre Atmosphere**
 
-You can read more about it [here](https://abcnews.go.com/US/daylight-fireball-meteor-rattled-parts-new-york-city/story?id=112006023).
+You can read more about it [here](https://scitechdaily.com/eternal-day-and-night-webbs-journey-to-understand-a-distant-worlds-bizarre-atmosphere/).
 
 ## Requirements
 - Python 3.8
