@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eternal Day and Night: Webb’s Journey To Understand a Distant World’s Bizarre Atmosphere**
+**U.S. military recommends permanently dismantling pier that's helping deliver aid into Gaza, sources say**
 
-You can read more about it [here](https://scitechdaily.com/eternal-day-and-night-webbs-journey-to-understand-a-distant-worlds-bizarre-atmosphere/).
+You can read more about it [here](https://www.cbsnews.com/news/u-s-military-recommends-permanently-dismantling-gaza-aid-pier/).
 
 ## Requirements
 - Python 3.8
