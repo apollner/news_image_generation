@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Closer look at J.D. Vance's RNC speech. And, Biden tests positive for COVID**
+**Fiery private chats reveal how deeply Biden has divided Dem delegates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9nLXMxLTExODAwL3VwLWZpcnN0LW5ld3NsZXR0ZXItamQtdmFuY2Utcm5jLXNwZWVjaC10YWtlYXdheXMtYmlkZW4tdGVzdHMtcG9zaXRpdmUtZm9yLWNvdmlk0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvY2FsaWZvcm5pYS1kZW1vY3JhdGljLWRlbGVnYXRlcy1wcml2YXRlLWNoYXRzLWJpZGVuLTAwMTY5MjEw0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
