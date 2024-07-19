@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RNC live updates: VP nominee JD Vance set to speak on Day 3**
+**NASA Spent $450 Million on a Moon Rover. Now It’s Canceling the Mission.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3Mvcm5jLTIwMjQtdHJ1bXAtamQtdmFuY2UtdXBkYXRlcy1iMjU4MTQwMy5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTcvc2NpZW5jZS9uYXNhLXZpcGVyLW1vb24tcm92ZXItY2FuY2VsZWQuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
