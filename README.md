@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JD Vance: Trump running mate vows to fight for 'forgotten' Americans**
+**At least five tornadoes confirmed by radar in New York**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcmdsOWRnamdreG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3JnbDlkZ2pna3hvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm15bmJjNS5jb20vYXJ0aWNsZS9hdC1sZWFzdC1maXZlLXRvcm5hZG9lcy1jb25maXJtZWQtYnktcmFkYXItaW4tbmV3LXlvcmsvNjE2Mjc0MzfSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
