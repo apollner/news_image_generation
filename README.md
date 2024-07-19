@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service struggles to quash congressional fury over Trump assassination attempt**
+**RNC live updates: VP nominee JD Vance set to speak on Day 3**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvc2VjcmV0LXNlcnZpY2UtY29uZ3Jlc3MtdHJ1bXAtc2hvb3RpbmctMDAxNjkxODfSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL25ld3Mvd29ybGQvYW1lcmljYXMvdXMtcG9saXRpY3Mvcm5jLTIwMjQtdHJ1bXAtamQtdmFuY2UtdXBkYXRlcy1iMjU4MTQwMy5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
