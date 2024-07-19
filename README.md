@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How NASA and SpaceX will bring down the International Space Station when it's retired**
+**Dan Patrick: Caitlin Clark "Put On A Show" Breaking WNBA's Single-Game Assists Record | 7/18/24**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MTA3MTg5MC9ob3ctbmFzYS1hbmQtc3BhY2V4LXdpbGwtYnJpbmctZG93bi10aGUtaW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLXdoZW4taXRzLXJldGlyZWTSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0Rza2I4UUxRR1lJmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
