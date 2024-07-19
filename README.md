@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix stock falls as revenue guidance disappoints**
+**Bay Area COVID-19 cases, hospitalizations on the rise, data shows**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uZXRmbGl4LXN0b2NrLWZhbGxzLWFzLXJldmVudWUtZ3VpZGFuY2UtZGlzYXBwb2ludHMtMjAwNjM4OTAwLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5iY2JheWFyZWEuY29tL25ld3MvaGVhbHRoL2JheS1hcmVhLWNvdmlkLTE5LWNhc2VzLW9uLXRoZS1yaXNlLzM1OTYzODgv0gFZaHR0cHM6Ly93d3cubmJjYmF5YXJlYS5jb20vbmV3cy9oZWFsdGgvYmF5LWFyZWEtY292aWQtMTktY2FzZXMtb24tdGhlLXJpc2UvMzU5NjM4OC8_YW1wPTE?oc=5).
 
 ## Requirements
 - Python 3.8
