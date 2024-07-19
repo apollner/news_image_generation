@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case**
+**SpaceX’s vehicle to deorbit the International Space Station is a Dragon on steroids**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNy9lbnRlcnRhaW5tZW50L2JyYWQtcGl0dC1hbmdlbGluYS1qb2xpZS1taXJhdmFsL2luZGV4Lmh0bWzSAVFodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzE3L2VudGVydGFpbm1lbnQvYnJhZC1waXR0LWFuZ2VsaW5hLWpvbGllLW1pcmF2YWw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8xNy9zcGFjZXhzLXZlaGljbGUtdG8tZGVvcmJpdC10aGUtaW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLWlzLWEtZHJhZ29uLW9uLXN0ZXJvaWRzL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
