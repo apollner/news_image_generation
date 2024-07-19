@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Open Championship: Tiger Woods starts well, falls off cliff with bogey-riddled 79 in first round**
+**Netflix stock falls as revenue guidance disappoints**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LW9wZW4tY2hhbXBpb25zaGlwLXRpZ2VyLXdvb2RzLXN0YXJ0cy13ZWxsLWZhbGxzLW9mZi1jbGlmZi13aXRoLWJvZ2V5LXJpZGRsZWQtNzktaW4tZmlyc3Qtcm91bmQv0gGMAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vZ29sZi9uZXdzLzIwMjQtb3Blbi1jaGFtcGlvbnNoaXAtdGlnZXItd29vZHMtc3RhcnRzLXdlbGwtZmFsbHMtb2ZmLWNsaWZmLXdpdGgtYm9nZXktcmlkZGxlZC03OS1pbi1maXJzdC1yb3VuZC9hbXAv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uZXRmbGl4LXN0b2NrLWZhbGxzLWFzLXJldmVudWUtZ3VpZGFuY2UtZGlzYXBwb2ludHMtMjAwNjM4OTAwLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
