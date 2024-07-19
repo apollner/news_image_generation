@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Boys’ adds ‘political violence’ warning about ‘coincidental’ assassination storyline after Trump shooting**
+**Microsoft: Windows 11 23H2 now available for all eligible devices**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE4L2VudGVydGFpbm1lbnQvdGhlLWJveXMtd2FybnMtYWJvdXQtYXNzYXNzaW5hdGlvbi1zdG9yeWxpbmUtYWZ0ZXItdHJ1bXAtc2hvb3Rpbmcv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC13aW5kb3dzLTExLTIzaDItbm93LWF2YWlsYWJsZS1mb3ItYWxsLWVsaWdpYmxlLWRldmljZXMv0gF1aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9taWNyb3NvZnQvbWljcm9zb2Z0LXdpbmRvd3MtMTEtMjNoMi1ub3ctYXZhaWxhYmxlLWZvci1hbGwtZWxpZ2libGUtZGV2aWNlcy9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
