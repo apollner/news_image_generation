@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft: Windows 11 23H2 now available for all eligible devices**
+**Vance's night but Trump's party, Jan. 6 curtain call, Trump health still under wraps: RNC Takeaways**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3MvbWljcm9zb2Z0L21pY3Jvc29mdC13aW5kb3dzLTExLTIzaDItbm93LWF2YWlsYWJsZS1mb3ItYWxsLWVsaWdpYmxlLWRldmljZXMv0gF1aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9taWNyb3NvZnQvbWljcm9zb2Z0LXdpbmRvd3MtMTEtMjNoMi1ub3ctYXZhaWxhYmxlLWZvci1hbGwtZWxpZ2libGUtZGV2aWNlcy9hbXAv?oc=5).
+You can read more about it [here](https://apnews.com/article/rnc-takeaways-day-three-2cb9255d8369bc749773ac0ef7e4fbcd).
 
 ## Requirements
 - Python 3.8
