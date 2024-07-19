@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TSMC Raises Outlook as Profit Beats Estimates on Surging Chip Demand**
+**Closer look at J.D. Vance's RNC speech. And, Biden tests positive for COVID**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZWFybmluZ3MvdHNtYy1wb3N0cy1zdHJvbmdlci1zZWNvbmQtcXVhcnRlci1wcm9maXQtb24tY2hpcC1kZW1hbmQtZDI0ZThmNznSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9nLXMxLTExODAwL3VwLWZpcnN0LW5ld3NsZXR0ZXItamQtdmFuY2Utcm5jLXNwZWVjaC10YWtlYXdheXMtYmlkZW4tdGVzdHMtcG9zaXRpdmUtZm9yLWNvdmlk0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
