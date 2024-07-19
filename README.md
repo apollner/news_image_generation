@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least five tornadoes confirmed by radar in New York**
+**2024 Open Championship picks, field, predictions, odds: Golf expert high on Brooks Koepka at Royal Troon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm15bmJjNS5jb20vYXJ0aWNsZS9hdC1sZWFzdC1maXZlLXRvcm5hZG9lcy1jb25maXJtZWQtYnktcmFkYXItaW4tbmV3LXlvcmsvNjE2Mjc0MzfSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LW9wZW4tY2hhbXBpb25zaGlwLXBpY2tzLWZpZWxkLXByZWRpY3Rpb25zLW9kZHMtZ29sZi1leHBlcnQtaGlnaC1vbi1icm9va3Mta29lcGthLWF0LXJveWFsLXRyb29uL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LW9wZW4tY2hhbXBpb25zaGlwLXBpY2tzLWZpZWxkLXByZWRpY3Rpb25zLW9kZHMtZ29sZi1leHBlcnQtaGlnaC1vbi1icm9va3Mta29lcGthLWF0LXJveWFsLXRyb29uL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
