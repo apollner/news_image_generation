@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez looks white-hot in the Hamptons while Ben Affleck remains in LA**
+**Stories about J.D. Vance's grandmother stole the night at the RNC. Here's who she was**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNy8xOC9zdHlsZS9qZW5uaWZlci1sb3Blei1sb29rcy13aGl0ZS1ob3QtaW4tdGhlLWhhbXB0b25zLXdoaWxlLWJlbi1hZmZsZWNrLXJlbWFpbnMtaW4tbGEv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9ueC1zMS01MDQ0NjIwL2pkLXZhbmNlLWdyYW5kbW90aGVyLW1hbWF3LXJuY9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
