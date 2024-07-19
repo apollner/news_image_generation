@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fever’s Caitlin Clark breaks WNBA record for assists in a single game**
+**Brad Pitt pushes back on Angelina Jolie’s ‘oppressive and harassing’ request to disclose messages in Miraval case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS93bmJhL2FydGljbGUvZmV2ZXJzLWNhaXRsaW4tY2xhcmstYnJlYWtzLXduYmEtcmVjb3JkLWZvci1hc3Npc3RzLWluLWEtc2luZ2xlLWdhbWUv0gFqaHR0cHM6Ly93d3cuc3BvcnRzbmV0LmNhL3duYmEvZmV2ZXJzLWNhaXRsaW4tY2xhcmstYnJlYWtzLXduYmEtcmVjb3JkLWZvci1hc3Npc3RzLWluLWEtc2luZ2xlLWdhbWUvc24tYW1wLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNy9lbnRlcnRhaW5tZW50L2JyYWQtcGl0dC1hbmdlbGluYS1qb2xpZS1taXJhdmFsL2luZGV4Lmh0bWzSAVFodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzE3L2VudGVydGFpbm1lbnQvYnJhZC1waXR0LWFuZ2VsaW5hLWpvbGllLW1pcmF2YWw?oc=5).
 
 ## Requirements
 - Python 3.8
