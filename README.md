@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX asks FAA to allow Falcon 9 to return to flight as mishap investigation proceeds**
+**Chicken culling, disposal raise concern as bird flu spreads**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFodHRwczovL3d3dy5mbG9yaWRhdG9kYXkuY29tL3N0b3J5L3RlY2gvc2NpZW5jZS9zcGFjZS8yMDI0LzA3LzE2L3NwYWNleC13YW50cy1mYWEtdG8tbGV0LWZhbGNvbi05LXJvY2tldHMtZmx5LWFnYWluLWFzLWFub21hbHktaW52ZXN0aWdhdGlvbi1jb250aW51ZXMvNzQzODI5MzcwMDcv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2hlYWx0aGNhcmUtcGhhcm1hY2V1dGljYWxzL2NoaWNrZW4tY3VsbGluZy1kaXNwb3NhbC1yYWlzZS1jb25jZXJuLWJpcmQtZmx1LXNwcmVhZHMtMjAyNC0wNy0xOC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
