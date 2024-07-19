@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This is the first Android phone with Qi2 wireless charging**
+**2024 Open Championship: Tiger Woods starts well, falls off cliff with bogey-riddled 79 in first round**
 
-You can read more about it [here](https://www.androidauthority.com/hmd-skyline-qi-2-wireless-charging-3462168/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LW9wZW4tY2hhbXBpb25zaGlwLXRpZ2VyLXdvb2RzLXN0YXJ0cy13ZWxsLWZhbGxzLW9mZi1jbGlmZi13aXRoLWJvZ2V5LXJpZGRsZWQtNzktaW4tZmlyc3Qtcm91bmQv0gGMAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vZ29sZi9uZXdzLzIwMjQtb3Blbi1jaGFtcGlvbnNoaXAtdGlnZXItd29vZHMtc3RhcnRzLXdlbGwtZmFsbHMtb2ZmLWNsaWZmLXdpdGgtYm9nZXktcmlkZGxlZC03OS1pbi1maXJzdC1yb3VuZC9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
