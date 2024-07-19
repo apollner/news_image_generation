@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Westbrook to Nuggets after Clips trade**
+**Tiger Woods tries to strike hopeful note after nightmare eight-over round**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwNTkxMDQ1L3J1c3NlbGwtd2VzdGJyb29rLWpvaW4tbnVnZ2V0cy1jbGlwcGVycy1qYXp6LXRyYWRlLXNvdXJjZXMtc2F50gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVsLzE4L3RpZ2VyLXdvb2RzLXRyaWVzLXRvLXN0cmlrZS1ob3BlZnVsLW5vdGUtYWZ0ZXItbmlnaHRtYXJlLWVpZ2h0LW92ZXItcm91bmTSAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vc3BvcnQvYXJ0aWNsZS8yMDI0L2p1bC8xOC90aWdlci13b29kcy10cmllcy10by1zdHJpa2UtaG9wZWZ1bC1ub3RlLWFmdGVyLW5pZ2h0bWFyZS1laWdodC1vdmVyLXJvdW5k?oc=5).
 
 ## Requirements
 - Python 3.8
