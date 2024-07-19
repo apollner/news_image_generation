@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fireball Meteor Lights Up New York City Sky, Passes Over Statue of Liberty**
+**Angelina Jolie asks Brad Pitt to ‘end the fighting’ and drop his winery lawsuit against her**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vZmlyZWJhbGwtbWV0ZW9yLWxpZ2h0cy11cC1uZXcteW9yay1jaXR5LXNreS1wYXNzZXMtb3Zlci1zdGF0dWUtb2YtbGliZXJ0edIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFodHRwczovL3BhZ2VzaXguY29tLzIwMjQvMDcvMTcvZW50ZXJ0YWlubWVudC9hbmdlbGluYS1qb2xpZS1hc2tzLWJyYWQtcGl0dC10by1lbmQtdGhlLWZpZ2h0aW5nLWFuZC1kcm9wLWhpcy13aW5lcnktbGF3c3VpdC1hZ2FpbnN0LWhlci_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
