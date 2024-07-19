@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyler James Williams, Nikki Glaser, Eric André and more react to their Emmy nominations**
+**Secret Service struggles to quash congressional fury over Trump assassination attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2VtbXlzLTIwMjQtbm9taW5lZXMtcmVhY3Rpb25zLTQ3YWYxMDczMzdhN2UxZmZlNDEzNTM4MDA3ZGNkN2Iz0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvc2VjcmV0LXNlcnZpY2UtY29uZ3Jlc3MtdHJ1bXAtc2hvb3RpbmctMDAxNjkxODfSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
