@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jaguars announce 90s-style "Prowler" throwback uniform**
+**Angelina Jolie wants Brad Pitt to ‘end the fighting’ amid stretched-out legal battle for family's sake**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vbmZsL3Byb2Zvb3RiYWxsdGFsay9ydW1vci1taWxsL25ld3MvamFndWFycy1hbm5vdW5jZS05MHMtc3R5bGUtcHJvd2xlci10aHJvd2JhY2stdW5pZm9ybdIBAA?oc=5).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/angelina-jolie-wants-brad-pitt-to-end-the-fighting-amid-stretched-out-legal-battle-for-familys-sake-101721299044529.html).
 
 ## Requirements
 - Python 3.8
