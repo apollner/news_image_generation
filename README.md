@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stories about J.D. Vance's grandmother stole the night at the RNC. Here's who she was**
+**How NASA and SpaceX will bring down the International Space Station when it's retired**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9ueC1zMS01MDQ0NjIwL2pkLXZhbmNlLWdyYW5kbW90aGVyLW1hbWF3LXJuY9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmtzbC5jb20vYXJ0aWNsZS81MTA3MTg5MC9ob3ctbmFzYS1hbmQtc3BhY2V4LXdpbGwtYnJpbmctZG93bi10aGUtaW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLXdoZW4taXRzLXJldGlyZWTSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
