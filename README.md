@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bay Area COVID-19 cases, hospitalizations on the rise, data shows**
+**Jennifer Lopez looks white-hot in the Hamptons while Ben Affleck remains in LA**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3Lm5iY2JheWFyZWEuY29tL25ld3MvaGVhbHRoL2JheS1hcmVhLWNvdmlkLTE5LWNhc2VzLW9uLXRoZS1yaXNlLzM1OTYzODgv0gFZaHR0cHM6Ly93d3cubmJjYmF5YXJlYS5jb20vbmV3cy9oZWFsdGgvYmF5LWFyZWEtY292aWQtMTktY2FzZXMtb24tdGhlLXJpc2UvMzU5NjM4OC8_YW1wPTE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vcGFnZXNpeC5jb20vMjAyNC8wNy8xOC9zdHlsZS9qZW5uaWZlci1sb3Blei1sb29rcy13aGl0ZS1ob3QtaW4tdGhlLWhhbXB0b25zLXdoaWxlLWJlbi1hZmZsZWNrLXJlbWFpbnMtaW4tbGEv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
