@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Spent $450 Million on a Moon Rover. Now It’s Canceling the Mission.**
+**Fever’s Caitlin Clark breaks WNBA record for assists in a single game**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTcvc2NpZW5jZS9uYXNhLXZpcGVyLW1vb24tcm92ZXItY2FuY2VsZWQuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnNwb3J0c25ldC5jYS93bmJhL2FydGljbGUvZmV2ZXJzLWNhaXRsaW4tY2xhcmstYnJlYWtzLXduYmEtcmVjb3JkLWZvci1hc3Npc3RzLWluLWEtc2luZ2xlLWdhbWUv0gFqaHR0cHM6Ly93d3cuc3BvcnRzbmV0LmNhL3duYmEvZmV2ZXJzLWNhaXRsaW4tY2xhcmstYnJlYWtzLXduYmEtcmVjb3JkLWZvci1hc3Npc3RzLWluLWEtc2luZ2xlLWdhbWUvc24tYW1wLw?oc=5).
 
 ## Requirements
 - Python 3.8
