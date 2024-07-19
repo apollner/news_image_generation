@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'A changed community': Fear and anger spread after Trump shooting**
+**Angelina Jolie wants Brad Pitt to ‘end the fighting’ amid stretched-out legal battle for family's sake**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHYzNHp3NTFwcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2MzR6dzUxcHBvLmFtcA?oc=5).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/angelina-jolie-wants-brad-pitt-to-end-the-fighting-amid-stretched-out-legal-battle-for-familys-sake-101721299044529.html).
 
 ## Requirements
 - Python 3.8
