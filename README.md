@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least five tornadoes confirmed by radar in New York**
+**Fireball Meteor Lights Up New York City Sky, Passes Over Statue of Liberty**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm15bmJjNS5jb20vYXJ0aWNsZS9hdC1sZWFzdC1maXZlLXRvcm5hZG9lcy1jb25maXJtZWQtYnktcmFkYXItaW4tbmV3LXlvcmsvNjE2Mjc0MzfSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vZmlyZWJhbGwtbWV0ZW9yLWxpZ2h0cy11cC1uZXcteW9yay1jaXR5LXNreS1wYXNzZXMtb3Zlci1zdGF0dWUtb2YtbGliZXJ0edIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
