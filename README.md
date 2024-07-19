@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dan Patrick: Caitlin Clark "Put On A Show" Breaking WNBA's Single-Game Assists Record | 7/18/24**
+**Sources: Westbrook to Nuggets after Clips trade**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0Rza2I4UUxRR1lJmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9zdG9yeS9fL2lkLzQwNTkxMDQ1L3J1c3NlbGwtd2VzdGJyb29rLWpvaW4tbnVnZ2V0cy1jbGlwcGVycy1qYXp6LXRyYWRlLXNvdXJjZXMtc2F50gEA?oc=5).
 
 ## Requirements
 - Python 3.8
