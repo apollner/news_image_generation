@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fireball Meteor Lights Up New York City Sky, Passes Over Statue of Liberty**
+**A scientist took a psychedelic drug — and watched his own brain 'fall apart'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vZmlyZWJhbGwtbWV0ZW9yLWxpZ2h0cy11cC1uZXcteW9yay1jaXR5LXNreS1wYXNzZXMtb3Zlci1zdGF0dWUtb2YtbGliZXJ0edIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5ucHIub3JnL3NlY3Rpb25zL3Nob3RzLWhlYWx0aC1uZXdzLzIwMjQvMDcvMTgvZy1zMS0xMTUwMS9wc2lsb2N5YmluLXBzeWNoZWRlbGljLWRydWctYnJhaW4tcGxhc3RpY2l0eS1kZXByZXNzaW9uLWFkZGljdGlvbtIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
