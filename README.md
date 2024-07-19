@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump to give RNC keynote, says he'll stress 'unity' after assassination attempt**
+**TSMC Raises Outlook as Profit Beats Estimates on Surging Chip Demand**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvdHJ1bXAtZ2l2ZS1ybmMta2V5bm90ZS1oZWxsLXN0cmVzcy11bml0eS1hZnRlci9zdG9yeT9pZD0xMTIwMzc3ODbSAWVodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy90cnVtcC1naXZlLXJuYy1rZXlub3RlLWhlbGwtc3RyZXNzLXVuaXR5LWFmdGVyL3N0b3J5P2lkPTExMjAzNzc4Ng?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZWFybmluZ3MvdHNtYy1wb3N0cy1zdHJvbmdlci1zZWNvbmQtcXVhcnRlci1wcm9maXQtb24tY2hpcC1kZW1hbmQtZDI0ZThmNznSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
