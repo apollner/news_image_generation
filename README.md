@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce Attends Taylor Swift's Eras Tour Show in Germany**
+**Golf's final major is here! How to watch, stream 2024 British Open**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS90cmF2aXMta2VsY2UtYXR0ZW5kcy10YXlsb3Itc3dpZnRzLWVyYXMtdG91ci1zaG93LWluLWdlcm1hbnktMjI5Mjk40gFgaHR0cHM6Ly93d3cuZXRvbmxpbmUuY29tL3RyYXZpcy1rZWxjZS1hdHRlbmRzLXRheWxvci1zd2lmdHMtZXJhcy10b3VyLXNob3ctaW4tZ2VybWFueS0yMjkyOTg_YW1w?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvZ29sZi8yMDI0LzA3LzE3L2hvdy10by13YXRjaC1icml0aXNoLW9wZW4tdHYtc3RyZWFtaW5nLzc0NDE2OTMyMDA3L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
