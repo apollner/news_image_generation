@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The best Amazon Prime Day 2024 deals under $100**
+**Emmy nominations 2024: ‘The Bear’ sets new record for comedies**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE5NjgzNS9hbWF6b24tcHJpbWUtZGF5LWNoZWFwLXRlY2gtYmVzdC1kZWFscy11bmRlci0xMDDSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xNy9lbnRlcnRhaW5tZW50L2VtbXktbm9taW5hdGlvbnMtMjAyNC9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8xNy9lbnRlcnRhaW5tZW50L2VtbXktbm9taW5hdGlvbnMtMjAyNA?oc=5).
 
 ## Requirements
 - Python 3.8
