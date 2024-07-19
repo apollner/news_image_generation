@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Adam Schiff Says Biden Should Leave Presidential Race**
+**At least five tornadoes confirmed by radar in New York**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS90cnVtcC1iaWRlbi1ybmMtZWxlY3Rpb24tMjAyNC9jYXJkL3JlcC1hZGFtLXNjaGlmZi1zYXlzLWJpZGVuLXNob3VsZC1sZWF2ZS1wcmVzaWRlbnRpYWwtcmFjZS1oSjJ2cTdTUmhadXRpS0V6RjVqZtIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3Lm15bmJjNS5jb20vYXJ0aWNsZS9hdC1sZWFzdC1maXZlLXRvcm5hZG9lcy1jb25maXJtZWQtYnktcmFkYXItaW4tbmV3LXlvcmsvNjE2Mjc0MzfSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
