@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie wants Brad Pitt to ‘end the fighting’ amid stretched-out legal battle for family's sake**
+**This is the first Android phone with Qi2 wireless charging**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/angelina-jolie-wants-brad-pitt-to-end-the-fighting-amid-stretched-out-legal-battle-for-familys-sake-101721299044529.html).
+You can read more about it [here](https://www.androidauthority.com/hmd-skyline-qi-2-wireless-charging-3462168/).
 
 ## Requirements
 - Python 3.8
