@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Golf's final major is here! How to watch, stream 2024 British Open**
+**The best Amazon Prime Day 2024 deals under $100**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvZ29sZi8yMDI0LzA3LzE3L2hvdy10by13YXRjaC1icml0aXNoLW9wZW4tdHYtc3RyZWFtaW5nLzc0NDE2OTMyMDA3L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yNDE5NjgzNS9hbWF6b24tcHJpbWUtZGF5LWNoZWFwLXRlY2gtYmVzdC1kZWFscy11bmRlci0xMDDSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
