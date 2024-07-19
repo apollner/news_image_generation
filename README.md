@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A scientist took a psychedelic drug — and watched his own brain 'fall apart'**
+**Nokia shares slide 8% after posting lowest quarterly net sales figure since 2015**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFodHRwczovL3d3dy5ucHIub3JnL3NlY3Rpb25zL3Nob3RzLWhlYWx0aC1uZXdzLzIwMjQvMDcvMTgvZy1zMS0xMTUwMS9wc2lsb2N5YmluLXBzeWNoZWRlbGljLWRydWctYnJhaW4tcGxhc3RpY2l0eS1kZXByZXNzaW9uLWFkZGljdGlvbtIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTgvbm9raWEtc2hhcmVzLXNsaWRlLWFmdGVyLXBvc3Rpbmctd2Vhay1xdWFydGVybHktbmV0LXNhbGVzLWZpZ3VyZS5odG1s0gFpaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTgvbm9raWEtc2hhcmVzLXNsaWRlLWFmdGVyLXBvc3Rpbmctd2Vhay1xdWFydGVybHktbmV0LXNhbGVzLWZpZ3VyZS5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
