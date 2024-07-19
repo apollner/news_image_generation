@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fiery private chats reveal how deeply Biden has divided Dem delegates**
+**'A changed community': Fear and anger spread after Trump shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMTcvY2FsaWZvcm5pYS1kZW1vY3JhdGljLWRlbGVnYXRlcy1wcml2YXRlLWNoYXRzLWJpZGVuLTAwMTY5MjEw0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcHYzNHp3NTFwcG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3B2MzR6dzUxcHBvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
