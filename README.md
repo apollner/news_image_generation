@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark 'put on a show' breaking WNBA's game assists record | Dan Patrick Show | NBC Sports**
+**Jaguars announce 90s-style "Prowler" throwback uniform**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2FjVzFDSHE5NFQ4mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3Lm5iY3Nwb3J0cy5jb20vbmZsL3Byb2Zvb3RiYWxsdGFsay9ydW1vci1taWxsL25ld3MvamFndWFycy1hbm5vdW5jZS05MHMtc3R5bGUtcHJvd2xlci10aHJvd2JhY2stdW5pZm9ybdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
