@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance's night but Trump's party, Jan. 6 curtain call, Trump health still under wraps: RNC Takeaways**
+**Caitlin Clark 'put on a show' breaking WNBA's game assists record | Dan Patrick Show | NBC Sports**
 
-You can read more about it [here](https://apnews.com/article/rnc-takeaways-day-three-2cb9255d8369bc749773ac0ef7e4fbcd).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2FjVzFDSHE5NFQ4mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
