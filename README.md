@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global tech outage live updates: Flights grounded and offices hit as internet users face disruptions**
+**Santa Fe chosen as one of six finalist cities to host Sundance Film Festival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2ludGVybmV0LWdsb2JhbC1vdXRhZ2UtY3Jvd2RzdHJpa2UtbWljcm9zb2Z0LWRvd250aW1l0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5zYW50YWZlbmV3bWV4aWNhbi5jb20vbmV3cy9sb2NhbF9uZXdzL3NhbnRhLWZlLWNob3Nlbi1hcy1vbmUtb2Ytc2l4LWZpbmFsaXN0LWNpdGllcy10by1ob3N0LXN1bmRhbmNlLWZpbG0tZmVzdGl2YWwvYXJ0aWNsZV9lMGQ4NzRmYS00NWYwLTExZWYtYmNlMi05ZjAxMmMzMGE4ZTUuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
