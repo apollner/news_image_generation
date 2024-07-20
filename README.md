@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICYMI: Nintendo World Championships: NES Edition Includes A Really Cool Profile Feature**
+**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/07/icymi-nintendo-world-championships-nes-edition-includes-a-really-cool-profile-feature).
+You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
 
 ## Requirements
 - Python 3.8
