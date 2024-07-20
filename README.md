@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip stocks drop on report US plans to tighten China curbs**
+**5 players who should be moved at the MLB trade deadline**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNzI0MXdta25tM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzcyNDF3bWtubTNvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS81LXBsYXllcnMtd2hvLXNob3VsZC1iZS1tb3ZlZC1hdC10aGUtbWxiLXRyYWRlLWRlYWRsaW5lLTAyMTU1MDM0My5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
