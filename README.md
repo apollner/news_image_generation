@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiger Woods tries to strike hopeful note after nightmare eight-over round**
+**J.D. Vance's hometown, Middletown, Ohio, reacts to his VP nomination**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC9hcnRpY2xlLzIwMjQvanVsLzE4L3RpZ2VyLXdvb2RzLXRyaWVzLXRvLXN0cmlrZS1ob3BlZnVsLW5vdGUtYWZ0ZXItbmlnaHRtYXJlLWVpZ2h0LW92ZXItcm91bmTSAX9odHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vc3BvcnQvYXJ0aWNsZS8yMDI0L2p1bC8xOC90aWdlci13b29kcy10cmllcy10by1zdHJpa2UtaG9wZWZ1bC1ub3RlLWFmdGVyLW5pZ2h0bWFyZS1laWdodC1vdmVyLXJvdW5k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9nLXMxLTExOTgxL2pkLXZhbmNlLW1pZGRsZXRvd24tb2hpby1yZWFjdGlvbtIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
