@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newspaper headlines: Climate activists jailed and Obama 'moves against' Biden**
+**Cybersecurity giant CrowdStrike suffers major outage affecting businesses around the world**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeDcyZXo0ZWpwOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3g3MmV6NGVqcDlvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTkvY3Jvd2RzdHJpa2Utc3VmZmVycy1tYWpvci1vdXRhZ2UtYWZmZWN0aW5nLWJ1c2luZXNzZXMtYXJvdW5kLXRoZS13b3JsZC5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTkvY3Jvd2RzdHJpa2Utc3VmZmVycy1tYWpvci1vdXRhZ2UtYWZmZWN0aW5nLWJ1c2luZXNzZXMtYXJvdW5kLXRoZS13b3JsZC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
