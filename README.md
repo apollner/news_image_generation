@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.D. Vance's hometown, Middletown, Ohio, reacts to his VP nomination**
+**Netflix Tops 277 Million Subscribers With Strong Q2 Gain, Beats Earnings Forecasts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOC9nLXMxLTExOTgxL2pkLXZhbmNlLW1pZGRsZXRvd24tb2hpby1yZWFjdGlvbtIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvbmV0ZmxpeC1zdWJzY3JpYmVycy0yNzctbWlsbGlvbi1xMi0yMDI0LWVhcm5pbmdzLTEyMzYwNzY4NDMv0gFmaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2RpZ2l0YWwvbmV3cy9uZXRmbGl4LXN1YnNjcmliZXJzLTI3Ny1taWxsaW9uLXEyLTIwMjQtZWFybmluZ3MtMTIzNjA3Njg0My9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
