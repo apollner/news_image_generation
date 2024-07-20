@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip stocks drop on report US plans to tighten China curbs**
+**Houthi drone attack rocks Tel Aviv near US embassy branch office, injuring 7**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7241wmknm3o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE4L3dvcmxkLW5ld3MvZXhwbG9zaW9uLXJvY2tzLXRlbC1hdml2LW5lYXItdXMtZW1iYXNzeS1pbmp1cmluZy1zZXZlbi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
