@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
+**Extreme heat may be crucial factor in human spread of bird flu**
 
-You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsddIBUWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsdQ?oc=5).
 
 ## Requirements
 - Python 3.8
