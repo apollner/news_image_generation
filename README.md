@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladesh unrest: Students defy ban to continue protests**
+**Russia convicts US journalist of spying in a trial widely seen as politically motivated**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V2YW4tZ2Vyc2hrb3ZpY2gtcnVzc2lhLWVzcGlvbmFnZS10cmlhbC1lZjJlOWZmZmM0NDU3MGNmNzk3ZTk3YWE2YWZhNTBhMdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
