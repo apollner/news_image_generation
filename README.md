@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four F1 teams bring crucial upgrades for Hungarian GP**
+**Bangladesh unrest: Students defy ban to continue protests**
 
-You can read more about it [here](https://www.the-race.com/formula-1/four-f1-teams-bring-crucial-upgrades-for-hungarian-gp/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
