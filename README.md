@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia convicts US journalist of spying in a trial widely seen as politically motivated**
+**Former Trump Organization CFO Allen Weisselberg released from jail**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2V2YW4tZ2Vyc2hrb3ZpY2gtcnVzc2lhLWVzcGlvbmFnZS10cmlhbC1lZjJlOWZmZmM0NDU3MGNmNzk3ZTk3YWE2YWZhNTBhMdIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYWxsZW4td2Vpc3NlbGJlcmctcmVsZWFzZWQtZnJvbS1qYWlsLWZvcm1lci10cnVtcC1vcmdhbml6YXRpb24tY2ZvL9IBZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2FsbGVuLXdlaXNzZWxiZXJnLXJlbGVhc2VkLWZyb20tamFpbC1mb3JtZXItdHJ1bXAtb3JnYW5pemF0aW9uLWNmby8?oc=5).
 
 ## Requirements
 - Python 3.8
