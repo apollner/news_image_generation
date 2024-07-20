@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 live: Hungarian GP practice as it happens | Live text**
+**Bob Newhart dead at 94: How the comedy icon changed TV history, ‘I just thought it was about time’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL2xpdmUtdGV4dC9mMS1odW5nYXJpYW4tZ3AtbGl2ZS1jb21tZW50YXJ5LWFuZC11cGRhdGVzLWZwMS1mcDItMTEyMjY3OC8xMTIyNjc5L9IBAA?oc=5).
+You can read more about it [here](https://www.foxnews.com/entertainment/bob-newhart-dead-94-how-comedy-icon-changed-tv-history-i-just-thought-about-time).
 
 ## Requirements
 - Python 3.8
