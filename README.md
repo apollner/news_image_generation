@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marine accused of flashing a Nazi salute during the Capitol riot gets almost 5 years in prison**
+**At least 40 Haitian migrants killed in boat fire**
 
-You can read more about it [here](https://apnews.com/article/marine-capitol-riot-ea3478197e15b21810aa97b3351663c6).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzE5L2hhaXRpLW1pZ3JhbnRzLWJvYXQtZmlyZS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
