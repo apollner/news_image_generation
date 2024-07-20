@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump shooter signed up online to attend rally a week before shooting: Source**
+**Cybersecurity giant CrowdStrike suffers major outage affecting businesses around the world**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvdHJ1bXAtc2hvb3Rlci1zaWduZWQtb25saW5lLWF0dGVuZC1yYWxseS13ZWVrLXNob290aW5nL3N0b3J5P2lkPTExMjAxMjMwMdIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3RydW1wLXNob290ZXItc2lnbmVkLW9ubGluZS1hdHRlbmQtcmFsbHktd2Vlay1zaG9vdGluZy9zdG9yeT9pZD0xMTIwMTIzMDE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMTkvY3Jvd2RzdHJpa2Utc3VmZmVycy1tYWpvci1vdXRhZ2UtYWZmZWN0aW5nLWJ1c2luZXNzZXMtYXJvdW5kLXRoZS13b3JsZC5odG1s0gFvaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMTkvY3Jvd2RzdHJpa2Utc3VmZmVycy1tYWpvci1vdXRhZ2UtYWZmZWN0aW5nLWJ1c2luZXNzZXMtYXJvdW5kLXRoZS13b3JsZC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
