@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Funeral for Corey Comperatore, Man Slain at Trump Rally, to Be Held in Pennsylvania**
+**Four F1 teams bring crucial upgrades for Hungarian GP**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTkvdXMvY29yZXktY29tcGVyYXRvcmUtZnVuZXJhbC10cnVtcC5odG1s0gEA?oc=5).
+You can read more about it [here](https://www.the-race.com/formula-1/four-f1-teams-bring-crucial-upgrades-for-hungarian-gp/).
 
 ## Requirements
 - Python 3.8
