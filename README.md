@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladesh unrest: Students defy ban to continue protests**
+**Global tech outage live updates: Flights grounded and offices hit as internet users face disruptions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vYXBuZXdzLmNvbS9saXZlL2ludGVybmV0LWdsb2JhbC1vdXRhZ2UtY3Jvd2RzdHJpa2UtbWljcm9zb2Z0LWRvd250aW1l0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
