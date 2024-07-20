@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Newhart dead at 94: How the comedy icon changed TV history, ‘I just thought it was about time’**
+**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/bob-newhart-dead-94-how-comedy-icon-changed-tv-history-i-just-thought-about-time).
+You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
 
 ## Requirements
 - Python 3.8
