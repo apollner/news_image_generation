@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Trump Organization CFO Allen Weisselberg released from jail**
+**Bangladesh unrest: Students defy ban to continue protests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYWxsZW4td2Vpc3NlbGJlcmctcmVsZWFzZWQtZnJvbS1qYWlsLWZvcm1lci10cnVtcC1vcmdhbml6YXRpb24tY2ZvL9IBZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL2FsbGVuLXdlaXNzZWxiZXJnLXJlbGVhc2VkLWZyb20tamFpbC1mb3JtZXItdHJ1bXAtb3JnYW5pemF0aW9uLWNmby8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
