@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch RNC Live: Trump's Speech Tonight Set to Rally GOP; Hulk Hogan Calls Trump 'Hero'**
+**Samantha Woll's family responds after Detroit man found not guilty of 1st-degree murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lndzai5jb20vbGl2ZWNvdmVyYWdlL3JuYy10cnVtcC1zcGVlY2gtYmlkZW4tZWxlY3Rpb24tMjAyNNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy5kZXRyb2l0bmV3cy5jb20vc3RvcnkvbmV3cy9sb2NhbC93YXluZS1jb3VudHkvMjAyNC8wNy8xOC9zYW1hbnRoYS13b2xsLWp1cnktdmVyZGljdC1mZWxvbnktbXVyZGVyLW9mLXN5bmFnb2d1ZS1wcmVzaWRlbnQtbWljaGFlbC1qYWNrc29uLWJvbGFub3MvNzQzNDA4NzgwMDcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
