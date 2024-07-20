@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extreme heat may be crucial factor in human spread of bird flu**
+**F1 live: Hungarian GP practice as it happens | Live text**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsddIBUWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzE5L2V4dHJlbWUtaGVhdC1odW1hbi1iaXJkLWZsdQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3Lm1vdG9yc3BvcnQuY29tL2YxL2xpdmUtdGV4dC9mMS1odW5nYXJpYW4tZ3AtbGl2ZS1jb21tZW50YXJ5LWFuZC11cGRhdGVzLWZwMS1mcDItMTEyMjY3OC8xMTIyNjc5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
