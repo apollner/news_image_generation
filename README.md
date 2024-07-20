@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marine accused of flashing a Nazi salute during the Capitol riot gets almost 5 years in prison**
+**Carol Burnett shares time capsule tribute to Bob Newhart**
 
-You can read more about it [here](https://apnews.com/article/marine-capitol-riot-ea3478197e15b21810aa97b3351663c6).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOS9lbnRlcnRhaW5tZW50L2Nhcm9sLWJ1cm5ldHQtYm9iLW5ld2hhcnQtdHJpYnV0ZXMvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMTkvZW50ZXJ0YWlubWVudC9jYXJvbC1idXJuZXR0LWJvYi1uZXdoYXJ0LXRyaWJ1dGVz?oc=5).
 
 ## Requirements
 - Python 3.8
