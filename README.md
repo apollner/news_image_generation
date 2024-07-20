@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, in highly personal speech, will accept GOP nomination again days after assassination attempt**
+**Chip stocks drop on report US plans to tighten China curbs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigQFodHRwczovL2FwbmV3cy5jb20vYXJ0aWNsZS90cnVtcC1yZXB1YmxpY2FuLW5hdGlvbmFsLWNvbnZlbnRpb24tbm9taW5hdGlvbi1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQtNWYxZjMzN2FjMzk0NzdlOWQxYzUzZDNlMDI3ZWRkYTPSAQA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c7241wmknm3o).
 
 ## Requirements
 - Python 3.8
