@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chip stocks drop on report US plans to tighten China curbs**
+**Donald Trump pledges tax cuts, trade wars and border crackdown**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7241wmknm3o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2NkOTUzMjA2LWMxODktNGI4Yi04MjIzLTMxMmJiYmZmMWZlYdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
