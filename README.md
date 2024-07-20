@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British Open second round leaderboard, live updates: Daniel Brown leads Shane Lowry, Justin Thomas early at Royal Troon**
+**Funeral for Corey Comperatore, Man Slain at Trump Rally, to Be Held in Pennsylvania**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9icml0aXNoLW9wZW4tY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC1sZWFkZXJib2FyZC1saXZlLXVwZGF0ZXMtaG93LXRvLXdhdGNoLWZvbGxvdy10aWdlci13b29kcy1zaGFuZS1sb3dyeS1kYW5pZWwtYnJvd24tcm95YWwtdHJvb24tMDUwMDUwMzU3Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMTkvdXMvY29yZXktY29tcGVyYXRvcmUtZnVuZXJhbC10cnVtcC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
