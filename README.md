@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Westbrook expected to be bought out by Jazz after Clippers trade; Nuggets a front-runner: Sources**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NDU5NzUvMjAyNC8wNy8xOC9ydXNzZWxsLXdlc3Ricm9vay10cmFkZS1qYXp6LWNsaXBwZXJzL9IBAA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
