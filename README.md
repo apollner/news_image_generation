@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Widespread telecoms disruptions in Bangladesh as student protests spike**
+**Tel Aviv hit by drone attack claimed by Iranian-backed Houthis**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/communications-disrupted-bangladesh-amid-student-protests-2024-07-19/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbGktbWlsaXRhcnktc2F5cy10ZWwtYXZpdi1ibGFzdC1hcHBhcmVudGx5LWNhdXNlZC1ieS1kcm9uZS0yMDI0LTA3LTE5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
