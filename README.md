@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Santa Fe chosen as one of six finalist cities to host Sundance Film Festival**
+**Bob Newhart obituary**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFodHRwczovL3d3dy5zYW50YWZlbmV3bWV4aWNhbi5jb20vbmV3cy9sb2NhbF9uZXdzL3NhbnRhLWZlLWNob3Nlbi1hcy1vbmUtb2Ytc2l4LWZpbmFsaXN0LWNpdGllcy10by1ob3N0LXN1bmRhbmNlLWZpbG0tZmVzdGl2YWwvYXJ0aWNsZV9lMGQ4NzRmYS00NWYwLTExZWYtYmNlMi05ZjAxMmMzMGE4ZTUuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyNC9qdWwvMTkvYm9iLW5ld2hhcnQtb2JpdHVhcnnSAUlodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vdHYtYW5kLXJhZGlvLzIwMjQvanVsLzE5L2JvYi1uZXdoYXJ0LW9iaXR1YXJ5?oc=5).
 
 ## Requirements
 - Python 3.8
