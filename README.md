@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Tops 277 Million Subscribers With Strong Q2 Gain, Beats Earnings Forecasts**
+**Watch RNC Live: Trump's Speech Tonight Set to Rally GOP; Hulk Hogan Calls Trump 'Hero'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9kaWdpdGFsL25ld3MvbmV0ZmxpeC1zdWJzY3JpYmVycy0yNzctbWlsbGlvbi1xMi0yMDI0LWVhcm5pbmdzLTEyMzYwNzY4NDMv0gFmaHR0cHM6Ly92YXJpZXR5LmNvbS8yMDI0L2RpZ2l0YWwvbmV3cy9uZXRmbGl4LXN1YnNjcmliZXJzLTI3Ny1taWxsaW9uLXEyLTIwMjQtZWFybmluZ3MtMTIzNjA3Njg0My9hbXAv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRWh0dHBzOi8vd3d3Lndzai5jb20vbGl2ZWNvdmVyYWdlL3JuYy10cnVtcC1zcGVlY2gtYmlkZW4tZWxlY3Rpb24tMjAyNNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
