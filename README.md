@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
+**British Open second round leaderboard, live updates: Daniel Brown leads Shane Lowry, Justin Thomas early at Royal Troon**
 
-You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9icml0aXNoLW9wZW4tY2hhbXBpb25zaGlwLXNlY29uZC1yb3VuZC1sZWFkZXJib2FyZC1saXZlLXVwZGF0ZXMtaG93LXRvLXdhdGNoLWZvbGxvdy10aWdlci13b29kcy1zaGFuZS1sb3dyeS1kYW5pZWwtYnJvd24tcm95YWwtdHJvb24tMDUwMDUwMzU3Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
