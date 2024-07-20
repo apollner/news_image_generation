@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthi drone attack rocks Tel Aviv near US embassy branch office, injuring 7**
+**Trump, in highly personal speech, will accept GOP nomination again days after assassination attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzE4L3dvcmxkLW5ld3MvZXhwbG9zaW9uLXJvY2tzLXRlbC1hdml2LW5lYXItdXMtZW1iYXNzeS1pbmp1cmluZy1zZXZlbi_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigQFodHRwczovL2FwbmV3cy5jb20vYXJ0aWNsZS90cnVtcC1yZXB1YmxpY2FuLW5hdGlvbmFsLWNvbnZlbnRpb24tbm9taW5hdGlvbi1hc3Nhc3NpbmF0aW9uLWF0dGVtcHQtNWYxZjMzN2FjMzk0NzdlOWQxYzUzZDNlMDI3ZWRkYTPSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
