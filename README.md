@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tel Aviv hit by drone attack claimed by Iranian-backed Houthis**
+**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbGktbWlsaXRhcnktc2F5cy10ZWwtYXZpdi1ibGFzdC1hcHBhcmVudGx5LWNhdXNlZC1ieS1kcm9uZS0yMDI0LTA3LTE5L9IBAA?oc=5).
+You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
 
 ## Requirements
 - Python 3.8
