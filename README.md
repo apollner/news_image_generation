@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gazelle Eclipse C380+ e-bike review: A smart, smooth ride at a halting price**
+**Widespread telecoms disruptions in Bangladesh as student protests spike**
 
-You can read more about it [here](https://arstechnica.com/cars/2024/07/gazelle-eclipse-c380-e-bike-review-a-smart-smooth-ride-at-a-halting-price/).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/communications-disrupted-bangladesh-amid-student-protests-2024-07-19/).
 
 ## Requirements
 - Python 3.8
