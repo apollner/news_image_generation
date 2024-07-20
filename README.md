@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Acknowledges Mighty YouTube Rival But Says Services “Feed Each Other” And Only One Takes Big Creative Bets**
+**Russell Westbrook expected to be bought out by Jazz after Clippers trade; Nuggets a front-runner: Sources**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvbmV0ZmxpeC15b3V0dWJlLXRlbGV2aXNpb24tdmlld2luZy1yaXZhbHMtMTIzNjAxNTA4OS_SAVZodHRwczovL2RlYWRsaW5lLmNvbS8yMDI0LzA3L25ldGZsaXgteW91dHViZS10ZWxldmlzaW9uLXZpZXdpbmctcml2YWxzLTEyMzYwMTUwODkvYW1wLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NDU5NzUvMjAyNC8wNy8xOC9ydXNzZWxsLXdlc3Ricm9vay10cmFkZS1qYXp6LWNsaXBwZXJzL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
