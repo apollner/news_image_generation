@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump pledges tax cuts, trade wars and border crackdown**
+**RNC Day 4: Trump to accept GOP presidential nomination as assassination attempt looms over speech**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2NkOTUzMjA2LWMxODktNGI4Yi04MjIzLTMxMmJiYmZmMWZlYdIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiOWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvcm5jLWRheS00LXNwZWFrZXJzLXNjaGVkdWxlL9IBPWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3JuYy1kYXktNC1zcGVha2Vycy1zY2hlZHVsZS8?oc=5).
 
 ## Requirements
 - Python 3.8
