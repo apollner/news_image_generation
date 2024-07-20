@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court jails US reporter Gershkovich for 16 years in spying case his employer calls a sham**
+**Firefighter killed at Trump rally honored with bagpipes, gun salute and a bugle sounding taps**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3J1c3NpYW4tcHJvc2VjdXRvci1zZWVrcy0xOC15ZWFyLXNlbnRlbmNlLXVzLWpvdXJuYWxpc3QtZ2Vyc2hrb3ZpY2gtYWdlbmNpZXMtMjAyNC0wNy0xOS_SAQA?oc=5).
+You can read more about it [here](https://apnews.com/article/trump-rally-fatal-shooting-corey-comperatore-2c4930b7749cab1c53fc006a58450ed4).
 
 ## Requirements
 - Python 3.8
