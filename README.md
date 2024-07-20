@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firefighter killed at Trump rally honored with bagpipes, gun salute and a bugle sounding taps**
+**Netflix ends its cheapest ad-free subscription**
 
-You can read more about it [here](https://apnews.com/article/trump-rally-fatal-shooting-corey-comperatore-2c4930b7749cab1c53fc006a58450ed4).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOS9ueC1zMS01MDQ2NzMzL25ldGZsaXgtZW5kcy1pdHMtY2hlYXBlc3QtYWQtZnJlZS1zdWJzY3JpcHRpb27SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
