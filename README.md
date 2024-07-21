@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladesh unrest: Government imposes curfew as protests continue**
+**Stock market news today: S&P 500, Nasdaq post sharpest weekly losses since April amid tech rout**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtdG9kYXktc3AtNTAwLW5hc2RhcS1wb3N0LXNoYXJwZXN0LXdlZWtseS1sb3NzZXMtc2luY2UtYXByaWwtYW1pZC10ZWNoLXJvdXQtMjAwMTQ3NjAyLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
