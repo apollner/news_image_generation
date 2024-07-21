@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 7 New Yorkers sick from listeria outbreak linked to sliced deli meats that’s killed 2 so far**
+**Elon Musk v California: what exits of X and SpaceX mean for the Golden state**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIwL3VzLW5ld3MvNy1uZXcteW9ya2Vycy1zaWNrLWZyb20tbGlzdGVyaWEtb3V0YnJlYWstbGlua2VkLXRvLWRlbGktbWVhdHMtdGhhdHMta2lsbGVkLTItc28tZmFyL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5L2FydGljbGUvMjAyNC9qdWwvMjAvZWxvbi1tdXNrLWNhbGlmb3JuaWEtc3BhY2V4LXRleGFz0gFcaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3RlY2hub2xvZ3kvYXJ0aWNsZS8yMDI0L2p1bC8yMC9lbG9uLW11c2stY2FsaWZvcm5pYS1zcGFjZXgtdGV4YXM?oc=5).
 
 ## Requirements
 - Python 3.8
