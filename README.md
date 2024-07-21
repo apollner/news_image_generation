@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA All-Star 2024: Live updates as Brittney Griner, Jonquel Jones compete in Skills Challenge, 3-Point Contest**
+**Investigators piece together a puzzling portrait of the shooter who sought to assassinate Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimQFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS93bmJhLWFsbC1zdGFyLTIwMjQtbGl2ZS11cGRhdGVzLWFzLWJyaXR0bmV5LWdyaW5lci1qb25xdWVsLWpvbmVzLWNvbXBldGUtaW4tc2tpbGxzLWNoYWxsZW5nZS0zLXBvaW50LWNvbnRlc3QtMDAwMDEwODYwLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOS9wb2xpdGljcy90cnVtcC1yYWxseS1ndW5tYW4tcG9ydHJhaXQtbW90aXZlLWludnMvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMTkvcG9saXRpY3MvdHJ1bXAtcmFsbHktZ3VubWFuLXBvcnRyYWl0LW1vdGl2ZS1pbnZz?oc=5).
 
 ## Requirements
 - Python 3.8
