@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moon cave that could shelter astronauts found beneath the Sea of Tranquility**
+**1,000+ US flights canceled Saturday: United, Delta still working to recover from outage**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMC9zY2llbmNlL21vb24tY2F2ZS1zY2llbmNlLW5ld3NsZXR0ZXItd3QvaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjAvc2NpZW5jZS9tb29uLWNhdmUtc2NpZW5jZS1uZXdzbGV0dGVyLXd0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90cmF2ZWwvYWlybGluZS1uZXdzLzIwMjQvMDcvMjAvZmxpZ2h0LWNhbmNlbGVkLWRlbHRhLXVuaXRlZC83NDQ4MTI2NjAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
