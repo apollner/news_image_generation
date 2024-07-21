@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moon fests, moon movie and even a full moon mark 55th anniversary of Apollo 11 landing**
+**Moon cave that could shelter astronauts found beneath the Sea of Tranquility**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbW9vbi1mZXN0cy1tb29uLW1vdmllLWZ1bGwtbW9vbi01NXRoLWFubml2ZXJzYXJ5LWFwb2xsby0xMS1sYW5kaW5nL9IBZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL21vb24tZmVzdHMtbW9vbi1tb3ZpZS1mdWxsLW1vb24tNTV0aC1hbm5pdmVyc2FyeS1hcG9sbG8tMTEtbGFuZGluZy8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMC9zY2llbmNlL21vb24tY2F2ZS1zY2llbmNlLW5ld3NsZXR0ZXItd3QvaW5kZXguaHRtbNIBSmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjAvc2NpZW5jZS9tb29uLWNhdmUtc2NpZW5jZS1uZXdzbGV0dGVyLXd0?oc=5).
 
 ## Requirements
 - Python 3.8
