@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two dead in listeria outbreak linked to deli meat. Here’s what to know.**
+**Key Call Revealed in Trump’s Flurry of Friday Night Posts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wNy8yMC9saXN0ZXJpYS1kZWxpLW1lYXQtc3RhdGVzLWx1bmNoLW1lYXQv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2NhbGwtd2l0aC12b2xvZHlteXItemVsZW5za3ktcmV2ZWFsZWQtaW4tdHJ1bXBzLWZsdXJyeS1vZi1mcmlkYXktbmlnaHQtcG9zdHPSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
