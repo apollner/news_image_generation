@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas Rep. Sheila Jackson Lee dies at age 74**
+**Dolphins’ Shaquil Barrett announces retirement in NFL stunner**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjAvdGV4YXMtcmVwLXNoZWlsYS1qYWNrc29uLWxlZS1kaWVzLWF0LWFnZS03NC0wMDE2OTkwOdIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIwL3Nwb3J0cy9kb2xwaGlucy1zaGFxdWlsLWJhcnJldHQtYW5ub3VuY2VzLW5mbC1yZXRpcmVtZW50L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
