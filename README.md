@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'An oasis in the desert': NASA's Curiosity rover finds pure sulfur in Martian rocks**
+**Stock market news today: S&P 500, Nasdaq post sharpest weekly losses since April amid tech rout**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLW1hcnMtY3VyaW9zaXR5LXN1bGZ1ci1yb2Nrc9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtdG9kYXktc3AtNTAwLW5hc2RhcS1wb3N0LXNoYXJwZXN0LXdlZWtseS1sb3NzZXMtc2luY2UtYXByaWwtYW1pZC10ZWNoLXJvdXQtMjAwMTQ3NjAyLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
