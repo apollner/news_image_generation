@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sheila Jackson Lee, outspoken Texas congresswoman, dies at 74**
+**Learn more about the Nashville mayor affair Jeffrey Vappie is accused of searching online**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vYml0dWFyaWVzLzIwMjQvMDcvMTkvc2hlaWxhLWphY2tzb24tbGVlLWNvbmdyZXNzd29tYW4tZGVhZC_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndkc3UuY29tL2FydGljbGUvbmV3LW9ybGVhbnMtbWF5b3ItYWxsZWdlZC1hZmZhaXItbmFzaHZpbGxlLXNpbWlsYXJpdGllcy82MTY0ODkyN9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
