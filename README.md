@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins’ Shaquil Barrett announces retirement in NFL stunner**
+**New Hampshire governor signs bill banning transgender girls from girls' sports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIwL3Nwb3J0cy9kb2xwaGlucy1zaGFxdWlsLWJhcnJldHQtYW5ub3VuY2VzLW5mbC1yZXRpcmVtZW50L9IBAA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/new-hampshire-governor-signs-bill-banning-transgender-girls-from-girls-sports/).
 
 ## Requirements
 - Python 3.8
