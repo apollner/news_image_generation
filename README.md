@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Listeria outbreak linked to deli meat leaves 2 dead, 28 hospitalized: What to know**
+**Moon fests, moon movie and even a full moon mark 55th anniversary of Apollo 11 landing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL2hlYWx0aC8yMDI0LzA3LzIwL2xpc3RlcmlhLWRlbGktbWVhdC1vdXRicmVhay13aGF0LXN0YXRlcy83NDQ3ODQyMTAwNy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbW9vbi1mZXN0cy1tb29uLW1vdmllLWZ1bGwtbW9vbi01NXRoLWFubml2ZXJzYXJ5LWFwb2xsby0xMS1sYW5kaW5nL9IBZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL21vb24tZmVzdHMtbW9vbi1tb3ZpZS1mdWxsLW1vb24tNTV0aC1hbm5pdmVyc2FyeS1hcG9sbG8tMTEtbGFuZGluZy8?oc=5).
 
 ## Requirements
 - Python 3.8
