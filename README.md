@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 40 Haitian migrants killed in boat fire**
+**Europa Clipper in Danger // NASA Cancels VIPER // Dune Style Space Suit**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS93b3JsZC8yMDI0LzA3LzE5L2hhaXRpLW1pZ3JhbnRzLWJvYXQtZmlyZS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiCzlhaFpNNnhUUmtrmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
