@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel kills dozens as it steps up Gaza bombardment**
+**At least 7 New Yorkers sick from listeria outbreak linked to sliced deli meats that’s killed 2 so far**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbC1raWxscy1kb3plbnMtaXQtc3RlcHMtdXAtZ2F6YS1ib21iYXJkbWVudC0yMDI0LTA3LTIwL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIwL3VzLW5ld3MvNy1uZXcteW9ya2Vycy1zaWNrLWZyb20tbGlzdGVyaWEtb3V0YnJlYWstbGlua2VkLXRvLWRlbGktbWVhdHMtdGhhdHMta2lsbGVkLTItc28tZmFyL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
