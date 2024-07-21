@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key Call Revealed in Trump’s Flurry of Friday Night Posts**
+**Texas Rep. Sheila Jackson Lee dies at age 74**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tL2NhbGwtd2l0aC12b2xvZHlteXItemVsZW5za3ktcmV2ZWFsZWQtaW4tdHJ1bXBzLWZsdXJyeS1vZi1mcmlkYXktbmlnaHQtcG9zdHPSAQA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
