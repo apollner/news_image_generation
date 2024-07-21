@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: S&P 500, Nasdaq post sharpest weekly losses since April amid tech rout**
+**Sixth human case of bird flu reported in Colorado, CDC says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtdG9kYXktc3AtNTAwLW5hc2RhcS1wb3N0LXNoYXJwZXN0LXdlZWtseS1sb3NzZXMtc2luY2UtYXByaWwtYW1pZC10ZWNoLXJvdXQtMjAwMTQ3NjAyLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOS9oZWFsdGgvYmlyZC1mbHUtY29sb3JhZG8vaW5kZXguaHRtbNIBO2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMTkvaGVhbHRoL2JpcmQtZmx1LWNvbG9yYWRv?oc=5).
 
 ## Requirements
 - Python 3.8
