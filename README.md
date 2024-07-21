@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minneapolis will not be the new home of the Sundance Film Festival**
+**Bangladesh unrest: Government imposes curfew as protests continue**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYnJpbmdtZXRoZW5ld3MuY29tL21pbm5lc290YS1saWZlc3R5bGUvbWlubmVhcG9saXMtd2lsbC1ub3QtYmUtdGhlLW5ldy1ob21lLW9mLXRoZS1zdW5kYW5jZS1maWxtLWZlc3RpdmFs0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbDR5bWpyeDEweG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2w0eW1qcngxMHhvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
