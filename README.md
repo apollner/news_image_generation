@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Learn more about the Nashville mayor affair Jeffrey Vappie is accused of searching online**
+**She called 911. The deputy who responded is charged with murdering her.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lndkc3UuY29tL2FydGljbGUvbmV3LW9ybGVhbnMtbWF5b3ItYWxsZWdlZC1hZmZhaXItbmFzaHZpbGxlLXNpbWlsYXJpdGllcy82MTY0ODkyN9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNy8xOS9pbGxpbm9pcy1kZXB1dHktY2hhcmdlZC1zb255YS1tYXNzZXkv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
