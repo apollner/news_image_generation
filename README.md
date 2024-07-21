@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What a rushed trial for Evan Gershkovich might mean**
+**Two dead in listeria outbreak linked to deli meat. Here’s what to know.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcnVzaGVkLXRyaWFsLWV2YW4tZ2Vyc2hrb3ZpY2gtZXNwaW9uYWdlLWpvdXJuYWxpc3QtcnVzc2lhLWtyZW1saW4tZ3VpbHR5L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9oZWFsdGgvMjAyNC8wNy8yMC9saXN0ZXJpYS1kZWxpLW1lYXQtc3RhdGVzLWx1bmNoLW1lYXQv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
