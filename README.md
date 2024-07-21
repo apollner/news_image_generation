@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire Gov. Sununu signs bill banning transgender girls from girls' sports**
+**Southern California Mega Millions player wins over $548K as jackpot continues to climb**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/new-hampshire-gov-sununu-signs-bill-banning-transgender-112124988).
+You can read more about it [here](https://ktla.com/news/california/southern-california-mega-millions-player-wins-over-548k-as-jackpot-continues-to-climb/).
 
 ## Requirements
 - Python 3.8
