@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11 dead and dozens missing after a highway bridge in China crumbles in flooding and heavy storms**
+**Texas Rep. Sheila Jackson Lee dies at age 74**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NoaW5hLWJyaWRnZS1jb2xsYXBzZS1kZWF0aHMtOWI4ZDJjNzk5YWU0ZGE4YTI2NTVlOGU5MTQyYzNlM2PSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjAvdGV4YXMtcmVwLXNoZWlsYS1qYWNrc29uLWxlZS1kaWVzLWF0LWFnZS03NC0wMDE2OTkwOdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
