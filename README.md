@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1,000+ US flights canceled Saturday: United, Delta still working to recover from outage**
+**Israel kills dozens as it steps up Gaza bombardment**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90cmF2ZWwvYWlybGluZS1uZXdzLzIwMjQvMDcvMjAvZmxpZ2h0LWNhbmNlbGVkLWRlbHRhLXVuaXRlZC83NDQ4MTI2NjAwNy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2lzcmFlbC1raWxscy1kb3plbnMtaXQtc3RlcHMtdXAtZ2F6YS1ib21iYXJkbWVudC0yMDI0LTA3LTIwL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
