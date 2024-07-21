@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She called 911. The deputy who responded is charged with murdering her.**
+**DNC backs virtual roll call vote for Biden as outside groups educate delegates about other scenarios**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNy8xOS9pbGxpbm9pcy1kZXB1dHktY2hhcmdlZC1zb255YS1tYXNzZXkv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmlkZW4tbm9taW5hdGlvbi1yb2xsLWNhbGwtYXVndXN0LW91dHNpZGUtZ3JvdXBzLWVkdWNhdGUtZGVsZWdhdGVzLW90aGVyLXNjZW5hcmlvcy_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9iaWRlbi1ub21pbmF0aW9uLXJvbGwtY2FsbC1hdWd1c3Qtb3V0c2lkZS1ncm91cHMtZWR1Y2F0ZS1kZWxlZ2F0ZXMtb3RoZXItc2NlbmFyaW9zLw?oc=5).
 
 ## Requirements
 - Python 3.8
