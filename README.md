@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British Open third round leaderboard, live updates: Thriston Lawrence making a run on Moving Day at Royal Troon**
+**Sandra Hemme freed after 43 years in prison for murder she didn’t commit**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFodHRwczovL3Nwb3J0cy55YWhvby5jb20vbGl2ZS9icml0aXNoLW9wZW4tY2hhbXBpb25zaGlwLXRoaXJkLXJvdW5kLWxlYWRlcmJvYXJkLWxpdmUtdXBkYXRlcy1zY29yZXMtc2hhbmUtbG93cnktbGVhZHMtZmllbGQtaGVhZGVkLWludG8tbW92aW5nLWRheS1hdC1yb3lhbC10cm9vbi1qdXN0aW4tcm9zZS1zY290dGllLXNjaGVmZmxlci0xMDMwNDExMDQuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cx920kqgkx9o).
 
 ## Requirements
 - Python 3.8
