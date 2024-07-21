@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DNC backs virtual roll call vote for Biden as outside groups educate delegates about other scenarios**
+**Thousands of Disneyland workers vote to authorize a strike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvYmlkZW4tbm9taW5hdGlvbi1yb2xsLWNhbGwtYXVndXN0LW91dHNpZGUtZ3JvdXBzLWVkdWNhdGUtZGVsZWdhdGVzLW90aGVyLXNjZW5hcmlvcy_SAXRodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9iaWRlbi1ub21pbmF0aW9uLXJvbGwtY2FsbC1hdWd1c3Qtb3V0c2lkZS1ncm91cHMtZWR1Y2F0ZS1kZWxlZ2F0ZXMtb3RoZXItc2NlbmFyaW9zLw?oc=5).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/thousands-disneyland-workers-vote-authorize-strike-rcna162175).
 
 ## Requirements
 - Python 3.8
