@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kara Swisher knocks Trump’s RNC speech as ‘off the rails’**
+**Sherrod Brown joins senators calling on Biden to step aside**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4783493-journalist-kara-swisher-donald-trump-republican-convention-speech-2024/).
+You can read more about it [here](https://www.axios.com/2024/07/19/sherrod-brown-joins-senators-calling-on-biden-to-step-aside).
 
 ## Requirements
 - Python 3.8
