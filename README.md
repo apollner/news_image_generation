@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of Disneyland workers vote to authorize a strike**
+**Sununu signs bills to ban gender-reassignment surgery for minors, organize sports based on student's sex on their birth certificate**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/thousands-disneyland-workers-vote-authorize-strike-rcna162175).
+You can read more about it [here](https://www.wmur.com/article/new-hampshire-gender-identity-related-bills-signed/61649672).
 
 ## Requirements
 - Python 3.8
