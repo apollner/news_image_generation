@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top UN court says Israel's presence in occupied Palestinian territories is illegal and should end**
+**Sheila Jackson Lee, outspoken Texas congresswoman, dies at 74**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2ljai1jb3VydC1pc3JhZWwtcGFsZXN0aW5pYW5zLXNldHRsZW1lbnRzLTJkNTE3ODUwMGMwNDEwMzQxYjI1MjMzNTg1OWYyMzE20gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9vYml0dWFyaWVzLzIwMjQvMDcvMTkvc2hlaWxhLWphY2tzb24tbGVlLWNvbmdyZXNzd29tYW4tZGVhZC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
