@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sununu signs bills to ban gender-reassignment surgery for minors, organize sports based on student's sex on their birth certificate**
+**What a rushed trial for Evan Gershkovich might mean**
 
-You can read more about it [here](https://www.wmur.com/article/new-hampshire-gender-identity-related-bills-signed/61649672).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnBvbGl0aWNvLmV1L2FydGljbGUvcnVzaGVkLXRyaWFsLWV2YW4tZ2Vyc2hrb3ZpY2gtZXNwaW9uYWdlLWpvdXJuYWxpc3QtcnVzc2lhLWtyZW1saW4tZ3VpbHR5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
