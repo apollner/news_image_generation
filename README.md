@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about First Baptist Dallas church, the site of a major fire on Friday**
+**Listeria outbreak linked to deli meat leaves 2 dead, 28 hospitalized: What to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFodHRwczovL3d3dy5kYWxsYXNuZXdzLmNvbS9uZXdzL3B1YmxpYy1zYWZldHkvMjAyNC8wNy8xOS93aGF0LXRvLWtub3ctYWJvdXQtZmlyc3QtYmFwdGlzdC1kYWxsYXMtY2h1cmNoLXRoZS1zaXRlLW9mLWEtbWFqb3ItZmlyZS1vbi1mcmlkYXkv0gGaAWh0dHBzOi8vd3d3LmRhbGxhc25ld3MuY29tL25ld3MvcHVibGljLXNhZmV0eS8yMDI0LzA3LzE5L3doYXQtdG8ta25vdy1hYm91dC1maXJzdC1iYXB0aXN0LWRhbGxhcy1jaHVyY2gtdGhlLXNpdGUtb2YtYS1tYWpvci1maXJlLW9uLWZyaWRheS8_b3V0cHV0VHlwZT1hbXA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL2hlYWx0aC8yMDI0LzA3LzIwL2xpc3RlcmlhLWRlbGktbWVhdC1vdXRicmVhay13aGF0LXN0YXRlcy83NDQ3ODQyMTAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
