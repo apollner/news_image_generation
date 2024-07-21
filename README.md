@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team USA, South Sudan battling in Olympics tune-up**
+**11 dead and dozens missing after a highway bridge in China crumbles in flooding and heavy storms**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmVzcG4uY29tL29seW1waWNzL3N0b3J5L18vaWQvNDA1OTIzNDIvdGVhbS11c2Etc291dGgtc3VkYW4tbGl2ZS1zY29yZS11cGRhdGVzLW9seW1waWNzLXR1bmV1cNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NoaW5hLWJyaWRnZS1jb2xsYXBzZS1kZWF0aHMtOWI4ZDJjNzk5YWU0ZGE4YTI2NTVlOGU5MTQyYzNlM2PSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
