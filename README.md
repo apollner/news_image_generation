@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Open Championship: American Billy Horschel edges ahead after Shane Lowry sunk by ‘coffin’ bunker nightmare**
+**Kara Swisher knocks Trump’s RNC speech as ‘off the rails’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMC9zcG9ydC9iaWxseS1ob3JzY2hlbC1vcGVuLWNoYW1waW9uc2hpcC10aGlyZC1yb3VuZC1zcHQtaW50bC9pbmRleC5odG1s0gFeaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yMC9zcG9ydC9iaWxseS1ob3JzY2hlbC1vcGVuLWNoYW1waW9uc2hpcC10aGlyZC1yb3VuZC1zcHQtaW50bA?oc=5).
+You can read more about it [here](https://thehill.com/homenews/campaign/4783493-journalist-kara-swisher-donald-trump-republican-convention-speech-2024/).
 
 ## Requirements
 - Python 3.8
