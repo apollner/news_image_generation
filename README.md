@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sixth human case of bird flu reported in Colorado, CDC says**
+**Netflix ends its cheapest ad-free subscription**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8xOS9oZWFsdGgvYmlyZC1mbHUtY29sb3JhZG8vaW5kZXguaHRtbNIBO2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMTkvaGVhbHRoL2JpcmQtZmx1LWNvbG9yYWRv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8xOS9ueC1zMS01MDQ2NzMzL25ldGZsaXgtZW5kcy1pdHMtY2hlYXBlc3QtYWQtZnJlZS1zdWJzY3JpcHRpb27SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
