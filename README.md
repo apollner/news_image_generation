@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk v California: what exits of X and SpaceX mean for the Golden state**
+**New Hampshire Gov. Sununu signs bill banning transgender girls from girls' sports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90ZWNobm9sb2d5L2FydGljbGUvMjAyNC9qdWwvMjAvZWxvbi1tdXNrLWNhbGlmb3JuaWEtc3BhY2V4LXRleGFz0gFcaHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3RlY2hub2xvZ3kvYXJ0aWNsZS8yMDI0L2p1bC8yMC9lbG9uLW11c2stY2FsaWZvcm5pYS1zcGFjZXgtdGV4YXM?oc=5).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/new-hampshire-gov-sununu-signs-bill-banning-transgender-112124988).
 
 ## Requirements
 - Python 3.8
