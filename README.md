@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F1 RACE HIGHLIGHTS: Hungarian Grand Prix**
+**NASA's Curiosity rover makes 'mind-blowing' discovery on Mars**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0NLMks0amxaNlh3mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9zY2llbmNldGVjaC9hcnRpY2xlLTEzNjU2MjExL25hc2EtY3VyaW9zaXR5LXJvdmVyLWRpc2NvdmVyeS1tYXJzLmh0bWzSAWVodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvc2NpZW5jZXRlY2gvYXJ0aWNsZS0xMzY1NjIxMS9hbXAvbmFzYS1jdXJpb3NpdHktcm92ZXItZGlzY292ZXJ5LW1hcnMuaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
