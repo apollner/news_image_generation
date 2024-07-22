@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon**
+**This is what office towers could look like due to hybrid working**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaHNiYy1vZmZpY2UtcmVkZXZlbG9wbWVudC1sb25kb24tZmxleGlibGUtd29ya2luZy1jb3Jwb3JhdGUtcmVhbC1lc3RhdGUtMjAyNC030gFyaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS9oc2JjLW9mZmljZS1yZWRldmVsb3BtZW50LWxvbmRvbi1mbGV4aWJsZS13b3JraW5nLWNvcnBvcmF0ZS1yZWFsLWVzdGF0ZS0yMDI0LTc_YW1w?oc=5).
 
 ## Requirements
 - Python 3.8
