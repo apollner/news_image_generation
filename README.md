@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**12 dead as raging floods destroy bridge in Taiwan, sending cars into river**
+**Democratic Billionaires and Donors Rush to Back Harris After Biden’s Exit**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIxL3dvcmxkLW5ld3MvMTItZGVhZC1yYWdpbmctZmxvb2RzLWRlc3Ryb3ktaGlnaHdheS1icmlkZ2Utc2VuZGluZy1jYXJzLWludG8tcml2ZXIv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvdXMvcG9saXRpY3MvZGVtb2NyYXQtZG9ub3JzLWhhcnJpcy1iaWRlbi5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
