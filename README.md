@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service said to have denied requests for more security at Trump events**
+**After U.S. Rep. Sheila Jackson Lee’s death, Texas Democrats have to find a new candidate for November**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/20/trump-secret-service-security-attempted-assassination/).
+You can read more about it [here](https://www.texastribune.org/2024/07/20/sheila-jackson-lee-congressional-seat/).
 
 ## Requirements
 - Python 3.8
