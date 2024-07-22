@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack**
+**China and Philippines reach deal in effort to stop clashes at fiercely disputed shoal**
 
-You can read more about it [here](https://www.cnn.com/2024/07/20/middleeast/yemen-israel-strikes-hodeidah-intl/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFodHRwczovL3d3dy5wb2xpdGljby5jb20vbmV3cy8yMDI0LzA3LzIxL2NoaW5hLWFuZC1waGlsaXBwaW5lcy1yZWFjaC1kZWFsLWluLWVmZm9ydC10by1zdG9wLWNsYXNoZXMtYXQtZmllcmNlbHktZGlzcHV0ZWQtc2hvYWwtMDAxNjk5NzDSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
