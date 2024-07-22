@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Jake Paul vs. Mike Perry fight tonight: Full card, where to stream for less and more**
+**Weekly poll results: the Samsung Galaxy Z Fold6 and Z Flip6 are too pricey - GSMArena.com news**
 
-You can read more about it [here](https://sports.yahoo.com/how-to-watch-the-jake-paul-vs-mike-perry-fight-tonight-full-card-where-to-stream-for-less-and-more-160545415.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS93ZWVrbHlfcG9sbF9yZXN1bHRzX3RoZV9zYW1zdW5nX2dhbGF4eV96X2ZvbGQ2X2FuZF96X2ZsaXA2X2FyZV90b29fcHJpY2V5LW5ld3MtNjM3NjYucGhw0gFuaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS93ZWVrbHlfcG9sbF9yZXN1bHRzX3RoZV9zYW1zdW5nX2dhbGF4eV96X2ZvbGQ2X2FuZF96X2ZsaXA2X2FyZV90b29fcHJpY2V5LWFtcC02Mzc2Ni5waHA?oc=5).
 
 ## Requirements
 - Python 3.8
