@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethereum ETFs are coming — Here’s what you need to know**
+**At least 7 in New York sickened in listeria outbreak linked to deli meats. Map shows number of cases across U.S.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9ldGhlcmV1bS1ldGZzLWNvbWluZy13aGF0LXlvdS1uZWVkLWtub3fSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9saXN0ZXJpYS1vdXRicmVhay1ueWMtZGVsaS1tZWF0cy_SAUpodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3eW9yay9uZXdzL2xpc3RlcmlhLW91dGJyZWFrLW55Yy1kZWxpLW1lYXRzLw?oc=5).
 
 ## Requirements
 - Python 3.8
