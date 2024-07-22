@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yemen strikes Israeli targets in Eilat with ballistic missiles**
+**South Korea responds to North's trash balloons with loudspeaker broadcasts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcHJlc3N0di5pci9EZXRhaWwvMjAyNC8wNy8yMS83Mjk3NTUvWWVtZW5pLWFybWVkLWZvcmNlcy1taXNzaWxlcy1kcm9uZXMtUmVkLVNlYS3SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9ub3J0aC1rb3JlYS1mbG9hdHMtdHJhc2gtYmFsbG9vbnMtdG93YXJkcy1zb3V0aC15b25oYXAtcmVwb3J0cy0yMDI0LTA3LTIxL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
