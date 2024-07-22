@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**22 Minutes of Warframe 1999 Gameplay Demo | Tennocon 2024**
+**Rapper Sean Kingston and mom indicted in $1M fraud scheme, face decades in prison**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiCzRLMjdkU2lrakM0mAEB?oc=5).
+You can read more about it [here](https://nypost.com/2024/07/20/us-news/sean-kingston-and-mom-indicted-in-1m-fraud-scheme/).
 
 ## Requirements
 - Python 3.8
