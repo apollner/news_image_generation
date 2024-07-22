@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack**
+**Today’s NYT Mini Crossword Clues And Answers For Sunday, July 21**
 
-You can read more about it [here](https://www.cnn.com/2024/07/20/middleeast/yemen-israel-strikes-hodeidah-intl/index.html).
+You can read more about it [here](https://www.forbes.com/sites/krisholt/2024/07/20/nyt-mini-crossword-today-help-clues-answers-sunday-july-21-rural-waterway-haunted-house-golf-lesson-topic-american-eagle-lingerie-french-word-maiden-name/).
 
 ## Requirements
 - Python 3.8
