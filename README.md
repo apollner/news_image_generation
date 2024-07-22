@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: IDF releases footage of strike on Houthi-controlled Hodeida port in Yemen**
+**Heat-related Texas deaths climb after Beryl left millions without power for days or longer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnRpbWVzb2Zpc3JhZWwuY29tL2xpdmVibG9nX2VudHJ5L3dhdGNoLWlkZi1yZWxlYXNlcy1mb290YWdlLW9mLXN0cmlrZS1vbi1ob3V0aGktY29udHJvbGxlZC1ob2RlaWRhLXBvcnQtaW4teWVtZW4v0gEA?oc=5).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/heat-related-texas-deaths-climb-after-beryl-left-112136598).
 
 ## Requirements
 - Python 3.8
