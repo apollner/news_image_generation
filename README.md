@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flight cancellations continue Sunday as United, Delta struggle to recover from outage**
+**2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS90cmF2ZWwvYWlybGluZS1uZXdzLzIwMjQvMDcvMjEvc3VuZGF5LWZsaWdodC1jYW5jZWxlZC1kZWx0YS11bml0ZWQvNzQ0ODkyMzEwMDcv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
