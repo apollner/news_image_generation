@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Kamala Harris, Democrats would bet against US history of sexism, racism**
+**Israel shoots down a missile fired from Yemen hours after a deadly Israeli strike on Houthi rebels**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3dpdGgta2FtYWxhLWhhcnJpcy1kZW1vY3JhdHMtd291bGQtYmV0LWFnYWluc3QtdXMtaGlzdG9yeS1zZXhpc20tcmFjaXNtLTIwMjQtMDctMjEv0gEA?oc=5).
+You can read more about it [here](https://apnews.com/article/israel-hamas-gaza-war-houthis-hezbollah-iran-ddd11628677424d5fc21985c4764e22b).
 
 ## Requirements
 - Python 3.8
