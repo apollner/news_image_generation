@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Billionaires and Donors Rush to Back Harris After Biden’s Exit**
+**F1 RACE HIGHLIGHTS: Hungarian Grand Prix**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjEvdXMvcG9saXRpY3MvZGVtb2NyYXQtZG9ub3JzLWhhcnJpcy1iaWRlbi5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0NLMks0amxaNlh3mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
