@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country Singer Rory Feek Marries His Daughter's Teacher 8 Years After the Death of His Wife Joey**
+**How to watch the Jake Paul vs. Mike Perry fight tonight: Full card, where to stream for less and more**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9jb3VudHJ5LXNpbmdlci1yb3J5LWZlZWstbWFycmllcy1oaXMtZGF1Z2h0ZXJzLXRlYWNoZXItOC15ZWFycy1hZnRlci10aGUtZGVhdGgtb2YtaGlzLXdpZmUtam9ledIBfGh0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9jb3VudHJ5LXNpbmdlci1yb3J5LWZlZWstbWFycmllcy1oaXMtZGF1Z2h0ZXJzLXRlYWNoZXItOC15ZWFycy1hZnRlci10aGUtZGVhdGgtb2YtaGlzLXdpZmUtam9leT9hbXA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/how-to-watch-the-jake-paul-vs-mike-perry-fight-tonight-full-card-where-to-stream-for-less-and-more-160545415.html).
 
 ## Requirements
 - Python 3.8
