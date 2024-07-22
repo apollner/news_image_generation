@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s NYT Mini Crossword Clues And Answers For Sunday, July 21**
+**Yemen strikes Israeli targets in Eilat with ballistic missiles**
 
-You can read more about it [here](https://www.forbes.com/sites/krisholt/2024/07/20/nyt-mini-crossword-today-help-clues-answers-sunday-july-21-rural-waterway-haunted-house-golf-lesson-topic-american-eagle-lingerie-french-word-maiden-name/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vcHJlc3N0di5pci9EZXRhaWwvMjAyNC8wNy8yMS83Mjk3NTUvWWVtZW5pLWFybWVkLWZvcmNlcy1taXNzaWxlcy1kcm9uZXMtUmVkLVNlYS3SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
