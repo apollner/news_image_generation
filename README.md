@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service chief noted a ‘zero fail mission.’ After Trump rally, she’s facing calls to resign**
+**2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLWFzc2Fzc2luYXRpb24tYXR0ZW1wdC1zZWNyZXQtc2VydmljZS1jaGVhdGxlLWJpZGVuLTQ4ZDM4NDA1N2E4OTRiNzE4NTlmOTQ1MDM0MDkyOTAy0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
