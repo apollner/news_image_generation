@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapper Sean Kingston and mom indicted in $1M fraud scheme, face decades in prison**
+**Ethereum ETFs are coming — Here’s what you need to know**
 
-You can read more about it [here](https://nypost.com/2024/07/20/us-news/sean-kingston-and-mom-indicted-in-1m-fraud-scheme/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9ldGhlcmV1bS1ldGZzLWNvbWluZy13aGF0LXlvdS1uZWVkLWtub3fSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
