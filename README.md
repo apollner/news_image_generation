@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Church members grieve massive fire at historic First Baptist Dallas sanctuary**
+**Secret Service said to have denied requests for more security at Trump events**
 
-You can read more about it [here](https://www.cbsnews.com/texas/news/church-members-continue-to-grieve-massive-fire-at-historic-first-baptist-dallas-sanctuary/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/07/20/trump-secret-service-security-attempted-assassination/).
 
 ## Requirements
 - Python 3.8
