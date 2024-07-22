@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How peaceful Bangladesh quota protests morphed into nationwide unrest**
+**Esta TerBlanche, ‘All My Children’ Actor, Dies at 51**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjEvaG93LXBlYWNlZnVsLWJhbmdsYWRlc2gtcXVvdGEtcHJvdGVzdHMtbW9ycGhlZC1pbnRvLW5hdGlvbndpZGUtdW5yZXN00gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMjEvaG93LXBlYWNlZnVsLWJhbmdsYWRlc2gtcXVvdGEtcHJvdGVzdHMtbW9ycGhlZC1pbnRvLW5hdGlvbndpZGUtdW5yZXN0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
