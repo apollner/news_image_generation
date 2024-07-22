@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA**
+**With Kamala Harris, Democrats would bet against US history of sexism, racism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS9zcG9ydC93bmJhLWFsbC1zdGFyLWdhbWUtc3B0LWludGwvaW5kZXguaHRtbNIBRGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjEvc3BvcnQvd25iYS1hbGwtc3Rhci1nYW1lLXNwdC1pbnRs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL3VzL3dpdGgta2FtYWxhLWhhcnJpcy1kZW1vY3JhdHMtd291bGQtYmV0LWFnYWluc3QtdXMtaGlzdG9yeS1zZXhpc20tcmFjaXNtLTIwMjQtMDctMjEv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
