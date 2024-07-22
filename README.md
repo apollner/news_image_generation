@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After U.S. Rep. Sheila Jackson Lee’s death, Texas Democrats have to find a new candidate for November**
+**Richard Simmons’ Team Shares His Final Prepared Social Media Post 1 Week After Death**
 
-You can read more about it [here](https://www.texastribune.org/2024/07/20/sheila-jackson-lee-congressional-seat/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvcmljaGFyZC1zaW1tb25zLXRlYW0tc2hhcmVzLWZpbmFsLXByZXBhcmVkLXNvY2lhbC1tZWRpYS1wb3N0LTEyMzYwMTY3NjQv0gFpaHR0cHM6Ly9kZWFkbGluZS5jb20vMjAyNC8wNy9yaWNoYXJkLXNpbW1vbnMtdGVhbS1zaGFyZXMtZmluYWwtcHJlcGFyZWQtc29jaWFsLW1lZGlhLXBvc3QtMTIzNjAxNjc2NC9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
