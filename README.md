@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 7 in New York sickened in listeria outbreak linked to deli meats. Map shows number of cases across U.S.**
+**WNBA All-Star Game 2024: Caitlin Clark dishes no-look pass to Angel Reese as rookies shine in Team WNBA win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3lvcmsvbmV3cy9saXN0ZXJpYS1vdXRicmVhay1ueWMtZGVsaS1tZWF0cy_SAUpodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3eW9yay9uZXdzL2xpc3RlcmlhLW91dGJyZWFrLW55Yy1kZWxpLW1lYXRzLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3duYmEvbmV3cy93bmJhLWFsbC1zdGFyLWdhbWUtMjAyNC1jYWl0bGluLWNsYXJrLWRpc2hlcy1uby1sb29rLXBhc3MtdG8tYW5nZWwtcmVlc2UtYXMtcm9va2llcy1zaGluZS1pbi10ZWFtLXduYmEtd2luL9IBkwFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL3duYmEvbmV3cy93bmJhLWFsbC1zdGFyLWdhbWUtMjAyNC1jYWl0bGluLWNsYXJrLWRpc2hlcy1uby1sb29rLXBhc3MtdG8tYW5nZWwtcmVlc2UtYXMtcm9va2llcy1zaGluZS1pbi10ZWFtLXduYmEtd2luL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
