@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat-related Texas deaths climb after Beryl left millions without power for days or longer**
+**Secret Service chief noted a ‘zero fail mission.’ After Trump rally, she’s facing calls to resign**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/heat-related-texas-deaths-climb-after-beryl-left-112136598).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLWFzc2Fzc2luYXRpb24tYXR0ZW1wdC1zZWNyZXQtc2VydmljZS1jaGVhdGxlLWJpZGVuLTQ4ZDM4NDA1N2E4OTRiNzE4NTlmOTQ1MDM0MDkyOTAy0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
