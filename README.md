@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sherrod Brown joins senators calling on Biden to step aside**
+**22 Minutes of Warframe 1999 Gameplay Demo | Tennocon 2024**
 
-You can read more about it [here](https://www.axios.com/2024/07/19/sherrod-brown-joins-senators-calling-on-biden-to-step-aside).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiCzRLMjdkU2lrakM0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
