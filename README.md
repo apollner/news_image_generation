@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s NYT Mini Crossword Clues And Answers For Sunday, July 21**
+**Storm chasers gather for 'Twisters' premiere, meet-and-greet at Evergreen Drive-In**
 
-You can read more about it [here](https://www.forbes.com/sites/krisholt/2024/07/20/nyt-mini-crossword-today-help-clues-answers-sunday-july-21-rural-waterway-haunted-house-golf-lesson-topic-american-eagle-lingerie-french-word-maiden-name/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdHJpYmxpdmUuY29tL2xvY2FsL3dlc3Rtb3JlbGFuZC9zdG9ybS1jaGFzZXJzLWdhdGhlci1mb3ItdHdpc3RlcnMtcHJlbWllcmUtbWVldC1hbmQtZ3JlZXQtYXQtZXZlcmdyZWVuLWRyaXZlLWluL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
