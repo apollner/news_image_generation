@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Esta TerBlanche, ‘All My Children’ Actor, Dies at 51**
+**12 dead as raging floods destroy bridge in Taiwan, sending cars into river**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L9IBVWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL2VzdGEtdGVyYmxhbmNoZS1kZWFkLWFsbC1teS1jaGlsZHJlbi0xMjM2MDc5NDc5L2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIxL3dvcmxkLW5ld3MvMTItZGVhZC1yYWdpbmctZmxvb2RzLWRlc3Ryb3ktaGlnaHdheS1icmlkZ2Utc2VuZGluZy1jYXJzLWludG8tcml2ZXIv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
