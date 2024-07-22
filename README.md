@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daily Mail health reporter goes vegan for a month after tests showed she was at risk for major diseases. What**
+**Major season superlatives: Schauffele's second win caps year of U.S. golf dominance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9oZWFsdGgvYXJ0aWNsZS0xMzYxMzA0OS9EYWlseS1NYWlsLWhlYWx0aC1yZXBvcnRlci12ZWdhbi1jaG9sZXN0ZXJvbC5odG1s0gFpaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL2hlYWx0aC9hcnRpY2xlLTEzNjEzMDQ5L2FtcC9EYWlseS1NYWlsLWhlYWx0aC1yZXBvcnRlci12ZWdhbi1jaG9sZXN0ZXJvbC5odG1s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5lc3BuLmNvbS9nb2xmL3N0b3J5L18vaWQvNDA2MTA2MDkvbWFqb3Itc2Vhc29uLXN1cGVybGF0aXZlcy14YW5kZXItc2NoYXVmZmVsZS1zY290dGllLXNjaGVmZmxlci1icnlzb24tZGVjaGFtYmVhdS1yb3J5LW1jaWxyb3nSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
