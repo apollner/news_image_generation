@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arike Ogunbowale sets WNBA All-Star record while Angel Reese and Caitlin Clark set rookie records in win over Team USA**
+**2024 British Open leaderboard: Live coverage, updates, golf scores today in Round 4 at Royal Troon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yMS9zcG9ydC93bmJhLWFsbC1zdGFyLWdhbWUtc3B0LWludGwvaW5kZXguaHRtbNIBRGh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjEvc3BvcnQvd25iYS1hbGwtc3Rhci1nYW1lLXNwdC1pbnRs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL9IBjQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL2dvbGYvbmV3cy8yMDI0LWJyaXRpc2gtb3Blbi1sZWFkZXJib2FyZC1saXZlLWNvdmVyYWdlLXVwZGF0ZXMtZ29sZi1zY29yZXMtdG9kYXktaW4tcm91bmQtNC1hdC1yb3lhbC10cm9vbi9saXZlL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
