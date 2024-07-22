@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm chasers gather for 'Twisters' premiere, meet-and-greet at Evergreen Drive-In**
+**At least 3 killed and 87 injured, Houthis say, as Israeli airstrikes hit Yemen day after Tel Aviv drone attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdHJpYmxpdmUuY29tL2xvY2FsL3dlc3Rtb3JlbGFuZC9zdG9ybS1jaGFzZXJzLWdhdGhlci1mb3ItdHdpc3RlcnMtcHJlbWllcmUtbWVldC1hbmQtZ3JlZXQtYXQtZXZlcmdyZWVuLWRyaXZlLWluL9IBAA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/07/20/middleeast/yemen-israel-strikes-hodeidah-intl/index.html).
 
 ## Requirements
 - Python 3.8
