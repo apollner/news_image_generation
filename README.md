@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel shoots down a missile fired from Yemen hours after a deadly Israeli strike on Houthi rebels**
+**How peaceful Bangladesh quota protests morphed into nationwide unrest**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-gaza-war-houthis-hezbollah-iran-ddd11628677424d5fc21985c4764e22b).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjEvaG93LXBlYWNlZnVsLWJhbmdsYWRlc2gtcXVvdGEtcHJvdGVzdHMtbW9ycGhlZC1pbnRvLW5hdGlvbndpZGUtdW5yZXN00gFyaHR0cHM6Ly93d3cuYWxqYXplZXJhLmNvbS9hbXAvbmV3cy8yMDI0LzcvMjEvaG93LXBlYWNlZnVsLWJhbmdsYWRlc2gtcXVvdGEtcHJvdGVzdHMtbW9ycGhlZC1pbnRvLW5hdGlvbndpZGUtdW5yZXN0?oc=5).
 
 ## Requirements
 - Python 3.8
