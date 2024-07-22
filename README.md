@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekly poll results: the Samsung Galaxy Z Fold6 and Z Flip6 are too pricey - GSMArena.com news**
+**Church members grieve massive fire at historic First Baptist Dallas sanctuary**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS93ZWVrbHlfcG9sbF9yZXN1bHRzX3RoZV9zYW1zdW5nX2dhbGF4eV96X2ZvbGQ2X2FuZF96X2ZsaXA2X2FyZV90b29fcHJpY2V5LW5ld3MtNjM3NjYucGhw0gFuaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS93ZWVrbHlfcG9sbF9yZXN1bHRzX3RoZV9zYW1zdW5nX2dhbGF4eV96X2ZvbGQ2X2FuZF96X2ZsaXA2X2FyZV90b29fcHJpY2V5LWFtcC02Mzc2Ni5waHA?oc=5).
+You can read more about it [here](https://www.cbsnews.com/texas/news/church-members-continue-to-grieve-massive-fire-at-historic-first-baptist-dallas-sanctuary/).
 
 ## Requirements
 - Python 3.8
