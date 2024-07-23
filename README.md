@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Most Democrats line up to back Kamala Harris after Biden exits race, but some have not**
+**How the Democrats finally ousted Joe Biden**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVtb2NyYXRzLXN1cHBvcnQta2FtYWxhLWhhcnJpcy1iaWRlbi1kcm9wcy1yZWVsZWN0aW9uLWJpZC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kZW1vY3JhdHMtc3VwcG9ydC1rYW1hbGEtaGFycmlzLWJpZGVuLWRyb3BzLXJlZWxlY3Rpb24tYmlkLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay91cy9wb2xpdGljcy8yMDI0LzA3LzIxL2hvdy1kZW1vY3JhdHMtZmluYWxseS1vdXN0ZWQtam9lLWJpZGVuL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
