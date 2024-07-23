@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China surprises with cuts to key rates to support weak economy**
+**Germany issues advisory against travel to Bangladesh**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9nZXJtYW55LWlzc3Vlcy1hZHZpc29yeS1hZ2FpbnN0LXRyYXZlbC10by1iYW5nbGFkZXNoL2EtNjk3Mjc1NzbSAVVodHRwczovL2FtcC5kdy5jb20vZW4vZ2VybWFueS1pc3N1ZXMtYWR2aXNvcnktYWdhaW5zdC10cmF2ZWwtdG8tYmFuZ2xhZGVzaC9hLTY5NzI3NTc2?oc=5).
 
 ## Requirements
 - Python 3.8
