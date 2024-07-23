@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s to extend $5 value meal in most U.S. markets as diners return to restaurants**
+**Kendall Jenner Is Called Out by Miley Cyrus for Singing During Her Intimate Concert**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjIvbWNkb25hbGRzLXRvLWV4dGVuZC01LXZhbHVlLW1lYWwtaW4tbW9zdC1tYXJrZXRzLmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8yMi9tY2RvbmFsZHMtdG8tZXh0ZW5kLTUtdmFsdWUtbWVhbC1pbi1tb3N0LW1hcmtldHMuaHRtbA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9rZW5kYWxsLWplbm5lci1pcy1jYWxsZWQtb3V0LWJ5LW1pbGV5LWN5cnVzLWZvci1zaW5naW5nLWR1cmluZy1oZXItaW50aW1hdGUtY29uY2VydC0yMjk0NTTSAXdodHRwczovL3d3dy5ldG9ubGluZS5jb20va2VuZGFsbC1qZW5uZXItaXMtY2FsbGVkLW91dC1ieS1taWxleS1jeXJ1cy1mb3Itc2luZ2luZy1kdXJpbmctaGVyLWludGltYXRlLWNvbmNlcnQtMjI5NDU0P2FtcA?oc=5).
 
 ## Requirements
 - Python 3.8
