@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris gets fundraising boost after Biden drops out of race**
+**China cuts interest rates in bid to prop up lagging economic growth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIyL2thbWFsYS1oYXJyaXMtY2FtcGFpZ24tZnVuZHJhaXNpbmfSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzU2NmI3NjQ0LWZiYmYtNDlhMy05ZDdlLTRkNDc5NjQyOTM5YdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
