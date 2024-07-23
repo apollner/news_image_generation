@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Verizon stock falls, subscribers grow in Q2 revenue miss**
+**Harris seeks to rally Democrats after Biden drops out of race**
 
-You can read more about it [here](https://finance.yahoo.com/video/verizon-stock-falls-subscribers-grow-140044519.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL2pvZS1iaWRlbi1lbGVjdGlvbi1kcm9wLW91dC0wNy0yMi0yNC9pbmRleC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
