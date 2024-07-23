@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany issues advisory against travel to Bangladesh**
+**The Asus ROG Ally X turns PC gaming into a portable console**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmR3LmNvbS9lbi9nZXJtYW55LWlzc3Vlcy1hZHZpc29yeS1hZ2FpbnN0LXRyYXZlbC10by1iYW5nbGFkZXNoL2EtNjk3Mjc1NzbSAVVodHRwczovL2FtcC5kdy5jb20vZW4vZ2VybWFueS1pc3N1ZXMtYWR2aXNvcnktYWdhaW5zdC10cmF2ZWwtdG8tYmFuZ2xhZGVzaC9hLTY5NzI3NTc2?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yMS90aGUtYXN1cy1yb2ctYWxseS14LXR1cm5zLXBjLWdhbWluZy1pbnRvLWEtcG9ydGFibGUtY29uc29sZS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
