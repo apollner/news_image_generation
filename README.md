@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Harris-Trump race would pit ex-prosecutor vs. recently convicted felon**
+**Google is sweetening the Pixel 9 Pro pre-order deal with a limited-edition bonus**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA3LzIyL2hhcnJpcy10cnVtcC1wcm9zZWN1dG9yLWZlbG9uL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmFuZHJvaWRjZW50cmFsLmNvbS9waG9uZXMvZ29vZ2xlLWlzLXN3ZWV0ZW5pbmctdGhlLXBpeGVsLTktcHJvLXByZS1vcmRlci1kZWFsLXdpdGgtYS1saW1pdGVkLWVkaXRpb24tYm9udXPSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
