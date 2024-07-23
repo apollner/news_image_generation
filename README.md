@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Democrats finally ousted Joe Biden**
+**Asus’ Steam Deck Competitor Just Got An Excellent Upgrade**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay91cy9wb2xpdGljcy8yMDI0LzA3LzIxL2hvdy1kZW1vY3JhdHMtZmluYWxseS1vdXN0ZWQtam9lLWJpZGVuL9IBAA?oc=5).
+You can read more about it [here](https://kotaku.com/asus-ally-x-review-steam-deck-sd-card-battery-windows-1851600340).
 
 ## Requirements
 - Python 3.8
