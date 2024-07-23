@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman's giant basic income study is out. Here's what it found.**
+**Delta Cancels More Flights as it Struggles to Recover From Tech Outage**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FtLWFsdG1hbi1iYXNpYy1pbmNvbWUtc3R1ZHktcmVzdWx0cy0yMDI0LTfSAVBodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL3NhbS1hbHRtYW4tYmFzaWMtaW5jb21lLXN0dWR5LXJlc3VsdHMtMjAyNC03P2FtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjIvYnVzaW5lc3MvZGVsdGEtZ2xvYmFsLXRlY2gtb3V0YWdlLXBldGUtYnV0dGlnaWVnLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
