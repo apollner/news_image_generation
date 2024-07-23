@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Asus ROG Ally X turns PC gaming into a portable console**
+**Election 2024 updates: Democrats say they've raised $46.7M: 'Biggest fundraising day of the 2024 cycle'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yMS90aGUtYXN1cy1yb2ctYWxseS14LXR1cm5zLXBjLWdhbWluZy1pbnRvLWEtcG9ydGFibGUtY29uc29sZS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvbGl2ZS11cGRhdGVzL2JpZGVuLWRyb3BzLW91dC11cGRhdGVzLz9pZD0xMTIxMTMyODnSAVZodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9saXZlLXVwZGF0ZXMvYmlkZW4tZHJvcHMtb3V0LXVwZGF0ZXMvP2lkPTExMjExMzI4OQ?oc=5).
 
 ## Requirements
 - Python 3.8
