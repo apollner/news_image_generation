@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man dies after being struck by lightning on Germany’s highest peak**
+**Democratic delegates swing into action after Biden’s withdrawal from 2024 race**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2dlcm1hbnktenVnc3BpdHplLXBlYWstbGlnaHRuaW5nLWRlYXRoLTk1YTM5YjM1NmVhZWYwZDBiNjM1NjNjZTc5MjU1Yzkw0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjIvZGVtb2NyYXRpYy1kZWxlZ2F0ZXMtYmlkZW4tMjAyNNIBV2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjIvZGVtb2NyYXRpYy1kZWxlZ2F0ZXMtYmlkZW4tMjAyNA?oc=5).
 
 ## Requirements
 - Python 3.8
