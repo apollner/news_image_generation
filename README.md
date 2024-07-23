@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China cuts interest rates in bid to prop up lagging economic growth**
+**For Some Old Musicals, Not Just Revival but Reappropriation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzU2NmI3NjQ0LWZiYmYtNDlhMy05ZDdlLTRkNDc5NjQyOTM5YdIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjIvdGhlYXRlci9jYXRzLXNvdXRoLXBhY2lmaWMtYXBwcm9wcmlhdGlvbi5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
