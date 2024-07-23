@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia stocks slip as China trims rates; Biden bows out**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZ2xvYmFsLW1hcmtldHMtd3JhcHVwLTEtMjAyNC0wNy0yMi_SAQA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
