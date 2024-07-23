@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Troubled Boeing stays close to the ground at a major UK air show**
+**Korean Air Commits to Up to 50 Boeing Widebodies to Strengthen Future Long-Haul Fleet - MediaRoom**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2JvZWluZy1haXJidXMtZmFybmJvcm91Z2gtYWlyLXNob3ctMWUxMTJkMWIyZjQwYTgyMWZkMWQwM2NkMGNjYjcxNGPSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vYm9laW5nLm1lZGlhcm9vbS5jb20vMjAyNC0wNy0yMi1Lb3JlYW4tQWlyLUNvbW1pdHMtdG8tVXAtdG8tNTAtQm9laW5nLVdpZGVib2RpZXMtdG8tU3RyZW5ndGhlbi1GdXR1cmUtTG9uZy1IYXVsLUZsZWV00gEA?oc=5).
 
 ## Requirements
 - Python 3.8
