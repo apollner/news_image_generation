@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic delegates swing into action after Biden’s withdrawal from 2024 race**
+**A Harris-Trump race would pit ex-prosecutor vs. recently convicted felon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjIvZGVtb2NyYXRpYy1kZWxlZ2F0ZXMtYmlkZW4tMjAyNNIBV2h0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS91cy1uZXdzL2FydGljbGUvMjAyNC9qdWwvMjIvZGVtb2NyYXRpYy1kZWxlZ2F0ZXMtYmlkZW4tMjAyNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI0LzA3LzIyL2hhcnJpcy10cnVtcC1wcm9zZWN1dG9yLWZlbG9uL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
