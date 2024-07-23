@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California’s COVID levels continue to rise, new data shows**
+**Review: Jack White's Free Surprise Untitled New Album Really Kicks Ass**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL2NhbGlmb3JuaWFzLWNvdmlkLWxldmVscy1jb250aW51ZS10by1yaXNlLW5ldy1kYXRhLXNob3dzL9IBXmh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL2NhbGlmb3JuaWFzLWNvdmlkLWxldmVscy1jb250aW51ZS10by1yaXNlLW5ldy1kYXRhLXNob3dzL2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtYWxidW0tcmV2aWV3cy9qYWNrLXdoaXRlLW5vLW5hbWUtcmV2aWV3LTEyMzUwNjUwMzgv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
