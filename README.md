@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major season superlatives: Schauffele's second win caps year of U.S. golf dominance**
+**Democrats line up behind Kamala Harris after Biden drops reelection bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5lc3BuLmNvbS9nb2xmL3N0b3J5L18vaWQvNDA2MTA2MDkvbWFqb3Itc2Vhc29uLXN1cGVybGF0aXZlcy14YW5kZXItc2NoYXVmZmVsZS1zY290dGllLXNjaGVmZmxlci1icnlzb24tZGVjaGFtYmVhdS1yb3J5LW1jaWxyb3nSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVtb2NyYXRzLXN1cHBvcnQta2FtYWxhLWhhcnJpcy1iaWRlbi1kcm9wcy1yZWVsZWN0aW9uLWJpZC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kZW1vY3JhdHMtc3VwcG9ydC1rYW1hbGEtaGFycmlzLWJpZGVuLWRyb3BzLXJlZWxlY3Rpb24tYmlkLw?oc=5).
 
 ## Requirements
 - Python 3.8
