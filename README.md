@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the 2024 presidential election became the chaos campaign**
+**China cuts interest rates in bid to prop up lagging economic growth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIyLzIwMjQtcHJlc2lkZW50aWFsLWVsZWN0aW9uLWJpZGVuLWRyb3BzLW91dC10cnVtcC1zaG9vdGluZy1oYXJyaXPSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzU2NmI3NjQ0LWZiYmYtNDlhMy05ZDdlLTRkNDc5NjQyOTM5YdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
