@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendall Jenner Is Called Out by Miley Cyrus for Singing During Her Intimate Concert**
+**California’s COVID levels continue to rise, new data shows**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmV0b25saW5lLmNvbS9rZW5kYWxsLWplbm5lci1pcy1jYWxsZWQtb3V0LWJ5LW1pbGV5LWN5cnVzLWZvci1zaW5naW5nLWR1cmluZy1oZXItaW50aW1hdGUtY29uY2VydC0yMjk0NTTSAXdodHRwczovL3d3dy5ldG9ubGluZS5jb20va2VuZGFsbC1qZW5uZXItaXMtY2FsbGVkLW91dC1ieS1taWxleS1jeXJ1cy1mb3Itc2luZ2luZy1kdXJpbmctaGVyLWludGltYXRlLWNvbmNlcnQtMjI5NDU0P2FtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL2NhbGlmb3JuaWFzLWNvdmlkLWxldmVscy1jb250aW51ZS10by1yaXNlLW5ldy1kYXRhLXNob3dzL9IBXmh0dHBzOi8va3RsYS5jb20vbmV3cy9jYWxpZm9ybmlhL2NhbGlmb3JuaWFzLWNvdmlkLWxldmVscy1jb250aW51ZS10by1yaXNlLW5ldy1kYXRhLXNob3dzL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
