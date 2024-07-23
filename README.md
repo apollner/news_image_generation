@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asus’ Steam Deck Competitor Just Got An Excellent Upgrade**
+**Jennifer Lopez Celebrates 55th Birthday at Bridgerton -Themed Party**
 
-You can read more about it [here](https://kotaku.com/asus-ally-x-review-steam-deck-sd-card-battery-windows-1851600340).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTIyNy9qZW5uaWZlci1sb3Blei1jZWxlYnJhdGVzLTU1dGgtYmlydGhkYXktYXQtYnJpZGdlcnRvbi10aGVtZWQtcGFydHnSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
