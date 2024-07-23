@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats line up behind Kamala Harris after Biden drops reelection bid**
+**Asia stocks slip as China trims rates; Biden bows out**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZGVtb2NyYXRzLXN1cHBvcnQta2FtYWxhLWhhcnJpcy1iaWRlbi1kcm9wcy1yZWVsZWN0aW9uLWJpZC_SAVxodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9kZW1vY3JhdHMtc3VwcG9ydC1rYW1hbGEtaGFycmlzLWJpZGVuLWRyb3BzLXJlZWxlY3Rpb24tYmlkLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvZ2xvYmFsLW1hcmtldHMtd3JhcHVwLTEtMjAyNC0wNy0yMi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
