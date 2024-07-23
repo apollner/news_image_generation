@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem Dethrones Taylor Swift to Claim the Number One Album in the Country**
+**Richard Simmons' Staff Reveals His Final Message Before His Death - E! Online**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9lbWluZW0tZGVhdGgtb2Ytc2xpbS1zaGFkeS1kZWJ1dHMtbnVtYmVyLW9uZS1iaWxsYm9hcmQtY2hhcnQtMTIzNTA2NDQ1MS_SAQA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
