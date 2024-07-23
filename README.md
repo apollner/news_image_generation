@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta Cancels More Flights as it Struggles to Recover From Tech Outage**
+**Aviation summit opens amid jet shortages, supply chain turbulence**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjIvYnVzaW5lc3MvZGVsdGEtZ2xvYmFsLXRlY2gtb3V0YWdlLXBldGUtYnV0dGlnaWVnLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2F2aWF0aW9uLXN1bW1pdC1vcGVucy1hbWlkLWpldC1zaG9ydGFnZXMtc3VwcGx5LWNoYWluLXR1cmJ1bGVuY2UtMjAyNC0wNy0yMS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
