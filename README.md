@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez Celebrates 55th Birthday at Bridgerton -Themed Party**
+**China surprises with cuts to key rates to support weak economy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmVvbmxpbmUuY29tL25ld3MvMTQwNTIyNy9qZW5uaWZlci1sb3Blei1jZWxlYnJhdGVzLTU1dGgtYmlydGhkYXktYXQtYnJpZGdlcnRvbi10aGVtZWQtcGFydHnSAQA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
