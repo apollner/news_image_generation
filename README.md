@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris seeks to rally Democrats after Biden drops out of race**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LmNubi5jb20vcG9saXRpY3MvbGl2ZS1uZXdzL2pvZS1iaWRlbi1lbGVjdGlvbi1kcm9wLW91dC0wNy0yMi0yNC9pbmRleC5odG1s0gEA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
