@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For Some Old Musicals, Not Just Revival but Reappropriation**
+**Better skills training will cut migration, vows Keir Starmer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjIvdGhlYXRlci9jYXRzLXNvdXRoLXBhY2lmaWMtYXBwcm9wcmlhdGlvbi5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeGUyZzNkcnhqNW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3hlMmczZHJ4ajVvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
