@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aviation summit opens amid jet shortages, supply chain turbulence**
+**How the 2024 presidential election became the chaos campaign**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Flcm9zcGFjZS1kZWZlbnNlL2F2aWF0aW9uLXN1bW1pdC1vcGVucy1hbWlkLWpldC1zaG9ydGFnZXMtc3VwcGx5LWNoYWluLXR1cmJ1bGVuY2UtMjAyNC0wNy0yMS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIyLzIwMjQtcHJlc2lkZW50aWFsLWVsZWN0aW9uLWJpZGVuLWRyb3BzLW91dC10cnVtcC1zaG9vdGluZy1oYXJyaXPSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
