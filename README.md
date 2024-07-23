@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Twisters’ Box Office: How 4DX Screenings and Midwestern Moviegoers Propelled the Sequel to Blockbuster Status**
+**McDonald’s to extend $5 value meal in most U.S. markets as diners return to restaurants**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL2JveC1vZmZpY2UvdHdpc3RlcnMtNGR4LXNjcmVlbmluZ3MtYm94LW9mZmljZS1ibG9ja2J1c3Rlci1nbGVuLXBvd2VsbC0xMjM2MDc5NDkyL9IBc2h0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC9maWxtL2JveC1vZmZpY2UvdHdpc3RlcnMtNGR4LXNjcmVlbmluZ3MtYm94LW9mZmljZS1ibG9ja2J1c3Rlci1nbGVuLXBvd2VsbC0xMjM2MDc5NDkyL2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjIvbWNkb25hbGRzLXRvLWV4dGVuZC01LXZhbHVlLW1lYWwtaW4tbW9zdC1tYXJrZXRzLmh0bWzSAVlodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8yMi9tY2RvbmFsZHMtdG8tZXh0ZW5kLTUtdmFsdWUtbWVhbC1pbi1tb3N0LW1hcmtldHMuaHRtbA?oc=5).
 
 ## Requirements
 - Python 3.8
