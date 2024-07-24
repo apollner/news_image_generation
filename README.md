@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Browns give Cooper raise, guarantees**
+**2024 Big Ten Media Days: Ryan Day embraces Ohio State's lofty expectations, elaborates on Chip Kelly's role**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwNjI1NjQ0L2Jyb3ducy1naXZlLWFtYXJpLWNvb3Blci01bS1yYWlzZS1ndWFyYW50ZWUtMjBt0gEA?oc=5).
+You can read more about it [here](https://www.cbssports.com/college-football/news/2024-big-ten-media-days-ryan-day-embraces-ohio-states-lofty-expectations-elaborates-on-chip-kellys-role/).
 
 ## Requirements
 - Python 3.8
