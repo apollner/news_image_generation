@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service director resigns after Trump assassination attempt**
+**Source: Browns give Cooper raise, guarantees**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIzL2tpbWJlcmx5LWNoZWF0bGUtcmVzaWducy1zZWNyZXQtc2VydmljZS10cnVtcNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwNjI1NjQ0L2Jyb3ducy1naXZlLWFtYXJpLWNvb3Blci01bS1yYWlzZS1ndWFyYW50ZWUtMjBt0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
