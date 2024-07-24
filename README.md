@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Voight slams 'ignorant' daughter Angelina Jolie's pro-palestinian stance**
+**Is Kamala Harris the presumptive Democratic nominee? Not quite.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIzL2VudGVydGFpbm1lbnQvam9uLXZvaWdodC1zbGFtcy1kYXVnaHRlci1hbmdlbGluYS1qb2xpZXMtcHJvLXBhbGVzdGluaWFuLXN0YW5jZS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjbmV3cy5nby5jb20vNTM4L2thbWFsYS1oYXJyaXMtcHJlc3VtcHRpdmUtZGVtb2NyYXRpYy1ub21pbmVlL3N0b3J5P2lkPTExMjE5ODIwM9IBXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wLzUzOC9rYW1hbGEtaGFycmlzLXByZXN1bXB0aXZlLWRlbW9jcmF0aWMtbm9taW5lZS9zdG9yeT9pZD0xMTIxOTgyMDM?oc=5).
 
 ## Requirements
 - Python 3.8
