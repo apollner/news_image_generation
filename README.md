@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 Pro XL compared to the Pixel 8 Pro in latest hands-on leak [Gallery]**
+**Who is Gov. Josh Shapiro, a possible Harris VP pick?**
 
-You can read more about it [here](http://9to5google.com/2024/07/23/pixel-9-pro-xl-vs-pixel-8-pro-video/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvZ292LWpvc2gtc2hhcGlyby1oYXJyaXMtdnAtcGljay9zdG9yeT9pZD0xMTIxOTg4NzHSAVZodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9nb3Ytam9zaC1zaGFwaXJvLWhhcnJpcy12cC1waWNrL3N0b3J5P2lkPTExMjE5ODg3MQ?oc=5).
 
 ## Requirements
 - Python 3.8
