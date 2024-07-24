@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protesters descend on Capitol on eve of Netanyahu address to Congress**
+**Jon Voight slams 'ignorant' daughter Angelina Jolie's pro-palestinian stance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkL2lzcmFlbC1oYW1hcy8yMDI0LzA3LzIzL2lzcmFlbC1nYXphLXdhci1uZXRhbnlhaHUtdXBkYXRlcy83NDUwOTYwODAwNy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIzL2VudGVydGFpbm1lbnQvam9uLXZvaWdodC1zbGFtcy1kYXVnaHRlci1hbmdlbGluYS1qb2xpZXMtcHJvLXBhbGVzdGluaWFuLXN0YW5jZS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
