@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA summer league 2024: Sheppard, Pippen Jr. and more of the best players in Las Vegas**
+**Pritzker says he hasn’t received vice presidential vetting material**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid2h0dHBzOi8vd3d3LmVzcG4uY29tL25iYS9pbnNpZGVyL3N0b3J5L18vaWQvNDA2MTkwNTYvbmJhLXN1bW1lci1sZWFndWUtMjAyNC1iZXN0LXJvb2tpZXMtZnJlZS1hZ2VudHMtdmV0ZXJhbnMtbGFzLXZlZ2Fz0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjMvcHJpdHprZXItdmljZS1wcmVzaWRlbnQtdmV0dGluZy1rYW1hbGEtaGFycmlzLTAwMTcwNTU00gEA?oc=5).
 
 ## Requirements
 - Python 3.8
