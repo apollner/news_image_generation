@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Big Ten Media Days: Ryan Day embraces Ohio State's lofty expectations, elaborates on Chip Kelly's role**
+**Jon Voight slams 'ignorant' daughter Angelina Jolie's pro-palestinian stance**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/2024-big-ten-media-days-ryan-day-embraces-ohio-states-lofty-expectations-elaborates-on-chip-kellys-role/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIzL2VudGVydGFpbm1lbnQvam9uLXZvaWdodC1zbGFtcy1kYXVnaHRlci1hbmdlbGluYS1qb2xpZXMtcHJvLXBhbGVzdGluaWFuLXN0YW5jZS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
