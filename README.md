@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google halts its 4-plus-year plan to turn off tracking cookies by default in Chrome**
+**Protesters descend on Capitol on eve of Netanyahu address to Congress**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wNy9nb29nbGUtd2lsbC1ub3QtZGlzYWJsZS10cmFja2luZy1jb29raWVzLWluLWNocm9tZS1hZnRlci15ZWFycy1vZi10cnlpbmcv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL3dvcmxkL2lzcmFlbC1oYW1hcy8yMDI0LzA3LzIzL2lzcmFlbC1nYXphLXdhci1uZXRhbnlhaHUtdXBkYXRlcy83NDUwOTYwODAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
