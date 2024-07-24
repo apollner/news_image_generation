@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service director resigns after Trump assassination attempt**
+**Amazon Prime Video’s New Look Hopes to End Decision Paralysis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIzL2tpbWJlcmx5LWNoZWF0bGUtcmVzaWducy1zZWNyZXQtc2VydmljZS10cnVtcNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vZ2l6bW9kby5jb20vYW1hem9uLXByaW1lLXZpZGVvcy1uZXctbG9vay1ob3Blcy10by1lbmQtZGVjaXNpb24tcGFyYWx5c2lzLTIwMDA0Nzc3ODjSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
