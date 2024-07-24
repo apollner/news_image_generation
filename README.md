@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is Kamala Harris the presumptive Democratic nominee? Not quite.**
+**Google halts its 4-plus-year plan to turn off tracking cookies by default in Chrome**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjbmV3cy5nby5jb20vNTM4L2thbWFsYS1oYXJyaXMtcHJlc3VtcHRpdmUtZGVtb2NyYXRpYy1ub21pbmVlL3N0b3J5P2lkPTExMjE5ODIwM9IBXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wLzUzOC9rYW1hbGEtaGFycmlzLXByZXN1bXB0aXZlLWRlbW9jcmF0aWMtbm9taW5lZS9zdG9yeT9pZD0xMTIxOTgyMDM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL2dhZGdldHMvMjAyNC8wNy9nb29nbGUtd2lsbC1ub3QtZGlzYWJsZS10cmFja2luZy1jb29raWVzLWluLWNocm9tZS1hZnRlci15ZWFycy1vZi10cnlpbmcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
