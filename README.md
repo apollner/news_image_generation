@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Voight slams 'ignorant' daughter Angelina Jolie's pro-palestinian stance**
+**Google Pixel 9 Pro XL compared to the Pixel 8 Pro in latest hands-on leak [Gallery]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzIzL2VudGVydGFpbm1lbnQvam9uLXZvaWdodC1zbGFtcy1kYXVnaHRlci1hbmdlbGluYS1qb2xpZXMtcHJvLXBhbGVzdGluaWFuLXN0YW5jZS_SAQA?oc=5).
+You can read more about it [here](http://9to5google.com/2024/07/23/pixel-9-pro-xl-vs-pixel-8-pro-video/).
 
 ## Requirements
 - Python 3.8
