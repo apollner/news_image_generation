@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pritzker says he hasn’t received vice presidential vetting material**
+**Secret Service director resigns after Trump assassination attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjMvcHJpdHprZXItdmljZS1wcmVzaWRlbnQtdmV0dGluZy1rYW1hbGEtaGFycmlzLTAwMTcwNTU00gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIzL2tpbWJlcmx5LWNoZWF0bGUtcmVzaWducy1zZWNyZXQtc2VydmljZS10cnVtcNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
