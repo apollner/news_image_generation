@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic leaders Chuck Schumer and Hakeem Jeffries endorse Harris for president**
+**Secret Service director resigns after Trump assassination attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5uYmNuZXdzLmNvbS9wb2xpdGljcy8yMDI0LWVsZWN0aW9uL2RlbW9jcmF0aWMtbGVhZGVycy1jaHVjay1zY2h1bWVyLWhha2VlbS1qZWZmcmllcy1lbmRvcnNlLWhhcnJpcy1wcmVzaWQtcmNuYTE2MzI0OdIBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjMyNDk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmF4aW9zLmNvbS8yMDI0LzA3LzIzL2tpbWJlcmx5LWNoZWF0bGUtcmVzaWducy1zZWNyZXQtc2VydmljZS10cnVtcNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
