@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Want to cook like a Neanderthal? Archaeologists are learning the secrets**
+**Rooftop bodycam video shows confusion among officials, rifle shooter used in deadly attempt on Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyNC8wNy9oYW5kLW1lLXRoYXQtZmxpbnQtZmxha2UtYXJjaGFlb2xvZ2lzdHMtYnV0Y2hlci1jb29rLWZvd2wtbGlrZS1hLW5lYW5kZXJ0aGFsL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcNIBfGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcC5hbXA?oc=5).
 
 ## Requirements
 - Python 3.8
