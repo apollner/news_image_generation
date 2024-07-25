@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timothee Chalamet sings Bob Dylan in A Complete Unknown trailer**
+**Scientists Show How Bird Flu Spreads Between Mammals — As H5N1 Pandemic Fears Grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYUtnV1RPeXhxR0VQS1RESjBCQjc4RkUwakhNWnprQUpaM1B5b2NiTnNPUEFWYWtMNkp0Z1M0aEx2YXJwaUNBbnNCWlgwZ2otVklkaVJPWlV3d9IBX0FVX3lxTFAySWxBNWVSSTVKWUd6OXU0U0NuTDY2NEZzMW1HWi1DSll4Zm1ueTZGX09EUzNpam1pOFJubjhuaGU1ZDlMNDZaaldDVVIzMHBNZ2Izb1FReGJ4a05kc0ZN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTlNuakNuQWU3MHlDWkFYLW9LaFNTVEhUbUdlemhoT0hpVW0wWWxlOGVnMVBrZnZZcFE0b29aaXYwa1hzQllNYnVyUzNDMmVMeHQ2UEQ3a0ZGMU92bnByOW53RkFMaFRUb0cxY1ZwZzhaWGRXaEJjTUMxdTRBQzRud1NOaWRwcDVRTFRham5Hby1ubnFNZFVaZGFMRjBtcXNqaGszTW1TN1lHUU1lZUxrbTUxWUFPMGlUSy04eHhHeWRoZFZmTEpfQjVjOHR5dU0?oc=5).
 
 ## Requirements
 - Python 3.8
