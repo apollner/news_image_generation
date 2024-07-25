@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Stocks smoked, Nasdaq falls over 3.5% in worst day since 2022 after Tesla, Alphabet trigger Big Tech sell-off**
+**Today's Horoscope – July 25, 2024: Check horoscope for all sun signs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgJBVV95cUxNXzAzOVNEdURaUEtfa3R3UmlVTjdSblpTaW13MXR6MDJwN2dFS1hvNWVVLWZ1LUlUa3FmRWs3NFcxa2F2NXA1QmxLVGR6ajRUSk1EVEZyeVM3OG9MY01DUkhTV2RnemUzS1hCaURIMWwxeUZ0cTNBUEZyMl82dmNIVDMxbUc4VUtXeTNjeFNkb24yeXEwVmdVVmpDXzNVWWViM0hBdllod2xHT2FuN0lSTkFyRUZTWjRmMENZQThodi10cGJyUjFWelEtY3c3TWRqLWl1MjJqYWltVlMyOGl0VTR2d3RCLWE4QXhzLU5lZUFlWmM5Y0plbWh0MjNyZGdRdXlzMmJ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjNkMTVkTXd6V1NIN1VfWWR4MmIyTWV5dDNxUTNudEdmdGg2WmxSX0pWSnJEdFAwajFzY29mMEhMV3JITzlQMWRpUTdCeDBmT2ZKb1BTREkxTHJrQ2dzUVd0VnFjTGR0blFOdThZOWR6OUZkSUtDelVWRThNWkw1dVl0cjJlRDlNa0JOeVN4ZDZMVHQ0a3ZxNU5sekNLMlNQTlNCbDFCNUJlUDBOVXc?oc=5).
 
 ## Requirements
 - Python 3.8
