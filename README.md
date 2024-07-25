@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celine Dion singing at Olympics would be great, says Macron**
+**Drenched in blood - how Bangladesh protests turned deadly**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzV5dzIxMHgxa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c1eXcyMTB4MWtvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5nNXYwM2dkNG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRuZzV2MDNnZDRvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
