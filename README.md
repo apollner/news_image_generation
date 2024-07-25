@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rooftop bodycam video shows confusion among officials, rifle shooter used in deadly attempt on Trump**
+**New Zealand enquiry finds 200,000 children and vulnerable adults abused in care, leader says ‘we should have done better’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcNIBfGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcC5hbXA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNC9hdXN0cmFsaWEvbmV3emVhbGFuZC1hYnVzZS1jYXJlLWlucXVyaXktaW50bC1obmsvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjQvYXVzdHJhbGlhL25ld3plYWxhbmQtYWJ1c2UtY2FyZS1pbnF1cml5LWludGwtaG5r?oc=5).
 
 ## Requirements
 - Python 3.8
