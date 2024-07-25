@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today's Horoscope – July 25, 2024: Check horoscope for all sun signs**
+**Scientists Show How Bird Flu Spreads Between Mammals — As H5N1 Pandemic Fears Grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjNkMTVkTXd6V1NIN1VfWWR4MmIyTWV5dDNxUTNudEdmdGg2WmxSX0pWSnJEdFAwajFzY29mMEhMV3JITzlQMWRpUTdCeDBmT2ZKb1BTREkxTHJrQ2dzUVd0VnFjTGR0blFOdThZOWR6OUZkSUtDelVWRThNWkw1dVl0cjJlRDlNa0JOeVN4ZDZMVHQ0a3ZxNU5sekNLMlNQTlNCbDFCNUJlUDBOVXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTlNuakNuQWU3MHlDWkFYLW9LaFNTVEhUbUdlemhoT0hpVW0wWWxlOGVnMVBrZnZZcFE0b29aaXYwa1hzQllNYnVyUzNDMmVMeHQ2UEQ3a0ZGMU92bnByOW53RkFMaFRUb0cxY1ZwZzhaWGRXaEJjTUMxdTRBQzRud1NOaWRwcDVRTFRham5Hby1ubnFNZFVaZGFMRjBtcXNqaGszTW1TN1lHUU1lZUxrbTUxWUFPMGlUSy04eHhHeWRoZFZmTEpfQjVjOHR5dU0?oc=5).
 
 ## Requirements
 - Python 3.8
