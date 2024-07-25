@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Deadpool And Wolverine' projected to have $360 Million opening; Ryan Reynolds and Hugh Jackman to set ne**
+**NFL training camp 2024 live updates: Saints expect Young, Olave to practice**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi8wFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2VuZ2xpc2gvaG9sbHl3b29kL2JveC1vZmZpY2UvZGVhZHBvb2wtYW5kLXdvbHZlcmluZS1wcm9qZWN0ZWQtdG8taGF2ZS0zNjAtbWlsbGlvbi1ib3gtb2ZmaWNlLW9wZW5pbmctcnlhbi1yZXlub2xkcy1hbmQtaHVnaC1qYWNrbWFuLXRvLXNldC1uZXctcmVjb3JkLWZvci1yLXJhdGVkLW1vdmllL2FydGljbGVzaG93LzExMTk3MzI2MS5jbXPSAfcBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZW50ZXJ0YWlubWVudC9lbmdsaXNoL2hvbGx5d29vZC9ib3gtb2ZmaWNlL2RlYWRwb29sLWFuZC13b2x2ZXJpbmUtcHJvamVjdGVkLXRvLWhhdmUtMzYwLW1pbGxpb24tYm94LW9mZmljZS1vcGVuaW5nLXJ5YW4tcmV5bm9sZHMtYW5kLWh1Z2gtamFja21hbi10by1zZXQtbmV3LXJlY29yZC1mb3Itci1yYXRlZC1tb3ZpZS9hbXBfYXJ0aWNsZXNob3cvMTExOTczMjYxLmNtcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMTkxOTMyL25mbC10cmFpbmluZy1jYW1wLWxpdmUtdXBkYXRlcy0yMDI0LW5ld3MtZGVwdGgtY2hhcnRzLWluanVyaWVzLXJvc3Rlci1iYXR0bGVz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
