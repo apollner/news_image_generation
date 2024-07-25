@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hydrothermal explosion at Yellowstone sends up geyser of rock and steam**
+**Secrets Emerge From a Fossil’s Taco Shell-Like Cover**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9oeWRyb3RoZXJtYWwtZXhwbG9zaW9uLXllbGxvd3N0b25lLWdleXNlci1yb2NrLXN0ZWFtLXJjbmExNjMzNDnSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYzMzQ5?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjMvc2NpZW5jZS90YWNvLXNoZWxsLWZvc3NpbC5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
