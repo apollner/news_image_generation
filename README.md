@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung’s new foldables and wearables go on sale globally - SamMobile**
+**Brewers' Yelich 'not great,' to see back specialist**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LnNhbW1vYmlsZS5jb20vbmV3cy9nYWxheHktYnVkcy0zLXByby13YXRjaC03LXdhdGNoLXVsdHJhLXotZmxpcC02LWZvbGQtNi1zYWxlLWdsb2JhbGx5L9IBAA?oc=5).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/40631527/brewers-put-christian-yelich-il-lower-back-inflammation).
 
 ## Requirements
 - Python 3.8
