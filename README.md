@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secrets Emerge From a Fossil’s Taco Shell-Like Cover**
+**Sen. Grassley posts video of aftermath of Trump shooter's killing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjMvc2NpZW5jZS90YWNvLXNoZWxsLWZvc3NpbC5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvdXMtbmV3cy9ncmFzc2xleS1wb3N0cy12aWRlby1hZnRlcm1hdGgtdHJ1bXAtc2hvb3Rlci1raWxsaW5nLXJjbmExNjMzNzLSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYzMzcy?oc=5).
 
 ## Requirements
 - Python 3.8
