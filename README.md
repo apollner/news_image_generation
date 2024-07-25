@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coco Gauff, 20, to become youngest U.S. flag-bearer in Olympic history**
+**Salt Lake City formally awarded 2034 Olympic Games**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8yNC9jb2NvLWdhdWZmLXBhcmlzLW9seW1waWNzLWZsYWctYmVhcmVyL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3Lm15bmJjNS5jb20vYXJ0aWNsZS9zYWx0LWxha2UtY2l0eS1mb3JtYWxseS1hd2FyZGVkLTIwMzQtb2x5bXBpYy1nYW1lcy82MTY4NTQyMtIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
