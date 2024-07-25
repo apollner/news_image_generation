@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Late Night Breaks Down ‘Kamala Is Brat’**
+**Coco Gauff, 20, to become youngest U.S. flag-bearer in Olympic history**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjQvYXJ0cy90ZWxldmlzaW9uL2xhdGUtbmlnaHQta2FtYWxhLWJyYXQuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8yNC9jb2NvLWdhdWZmLXBhcmlzLW9seW1waWNzLWZsYWctYmVhcmVyL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
