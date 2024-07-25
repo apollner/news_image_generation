@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 18 dead in Nepal plane crash, officials say**
+**Former Cowboys WR Michael Gallup Surprisingly Retires From NFL at Age 28**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9zYXVyeWEtYWlybGluZXMtcGxhbmUtY3Jhc2hlcy1kdXJpbmctdGFrZW9mZi1uZXBhbC1rYXRobWFuZHUtcG9zdC1zYXlzLTIwMjQtMDctMjQv0gEA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
