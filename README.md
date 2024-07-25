@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the deputy charged with killing Sonya Massey in her home after she called 911 for help**
+**What is ‘dark oxygen’, found 13,000 feet under the sea?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNC91cy9zZWFuLWdyYXlzb24taWxsaW5vaXMtcG9saWNlLW9mZmljZXItc2hvb3Rpbmctc29ueWEtbWFzc2V5L2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI0L3VzL3NlYW4tZ3JheXNvbi1pbGxpbm9pcy1wb2xpY2Utb2ZmaWNlci1zaG9vdGluZy1zb255YS1tYXNzZXk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjQvd2hhdC1pcy1kYXJrLW94eWdlbi1mb3VuZC0xMzAwMC1mZWV0LXVuZGVyLXRoZS1zZWHSAV9odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNy8yNC93aGF0LWlzLWRhcmstb3h5Z2VuLWZvdW5kLTEzMDAwLWZlZXQtdW5kZXItdGhlLXNlYQ?oc=5).
 
 ## Requirements
 - Python 3.8
