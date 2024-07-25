@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trent Williams holding out of 49ers training camp for contract reasons**
+**Stock market news today: Stocks smoked, Nasdaq falls over 3.5% in worst day since 2022 after Tesla, Alphabet trigger Big Tech sell-off**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQU85V3drM3l3TGtnNUN0QkFhejY0N1FqbXFGV2tKaEdtSjVvMFlGRy1oOWU2V3ppbjBudHRicUFmT3VwS1RkNXVVSmZjRHlnZ29OSUZaaldaNExQaVhJMXR2ZnJuc2hBWUhCOVdvclRLZEVmZzFra3JnaGlDTmNqd0Jmd0t2cFZJZ2hQWTZ1LThJWnVWanY1SGR2aGV1TjFyVndHeGJmZnlyczhwQW1SUXlySk5NUGF1ZkVfaEF5bzVnUmd6RDIzZUtnUnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgJBVV95cUxNXzAzOVNEdURaUEtfa3R3UmlVTjdSblpTaW13MXR6MDJwN2dFS1hvNWVVLWZ1LUlUa3FmRWs3NFcxa2F2NXA1QmxLVGR6ajRUSk1EVEZyeVM3OG9MY01DUkhTV2RnemUzS1hCaURIMWwxeUZ0cTNBUEZyMl82dmNIVDMxbUc4VUtXeTNjeFNkb24yeXEwVmdVVmpDXzNVWWViM0hBdllod2xHT2FuN0lSTkFyRUZTWjRmMENZQThodi10cGJyUjFWelEtY3c3TWRqLWl1MjJqYWltVlMyOGl0VTR2d3RCLWE4QXhzLU5lZUFlWmM5Y0plbWh0MjNyZGdRdXlzMmJ3?oc=5).
 
 ## Requirements
 - Python 3.8
