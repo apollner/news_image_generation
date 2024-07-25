@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"The guy is deluded!" 💬 | Leon Edwards talks Belal Muhammad at UFC 304, legacy and middleweight move**
+**CrowdStrike blames global IT outage on bug in system for checking updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC3J6dzYwaXpGb240mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1NSS0l4Q0FtR21sOUtCbld2SFp0MDd4eG50Y3VockZOMjJjdGhuTlJqQy1EVUNSTUtBZkJIUDRhSG9LNFlxWXgzX0tqZkVSbzE0VjVBZEJ1RDJ1LWRnTTBVRFNVd1hOcjhtZDJqSXFSeXF3YS1nRHJuWldsSmZpM21YZWdCLTRCcmFNQUZCMk9WbTdY?oc=5).
 
 ## Requirements
 - Python 3.8
