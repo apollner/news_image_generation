@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Deadpool & Wolverine’ (and F-Bombs) to Jolt Superhero Genre Back to Life**
+**'Deadpool And Wolverine' projected to have $360 Million opening; Ryan Reynolds and Hugh Jackman to set ne**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9kZWFkcG9vbC13b2x2ZXJpbmUtYm94LW9maWNlLTEyMzU5NTU4NTcv0gFgaHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL21vdmllcy9tb3ZpZS1uZXdzL2RlYWRwb29sLXdvbHZlcmluZS1ib3gtb2ZpY2UtMTIzNTk1NTg1Ny9hbXAv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi8wFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2VuZ2xpc2gvaG9sbHl3b29kL2JveC1vZmZpY2UvZGVhZHBvb2wtYW5kLXdvbHZlcmluZS1wcm9qZWN0ZWQtdG8taGF2ZS0zNjAtbWlsbGlvbi1ib3gtb2ZmaWNlLW9wZW5pbmctcnlhbi1yZXlub2xkcy1hbmQtaHVnaC1qYWNrbWFuLXRvLXNldC1uZXctcmVjb3JkLWZvci1yLXJhdGVkLW1vdmllL2FydGljbGVzaG93LzExMTk3MzI2MS5jbXPSAfcBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZW50ZXJ0YWlubWVudC9lbmdsaXNoL2hvbGx5d29vZC9ib3gtb2ZmaWNlL2RlYWRwb29sLWFuZC13b2x2ZXJpbmUtcHJvamVjdGVkLXRvLWhhdmUtMzYwLW1pbGxpb24tYm94LW9mZmljZS1vcGVuaW5nLXJ5YW4tcmV5bm9sZHMtYW5kLWh1Z2gtamFja21hbi10by1zZXQtbmV3LXJlY29yZC1mb3Itci1yYXRlZC1tb3ZpZS9hbXBfYXJ0aWNsZXNob3cvMTExOTczMjYxLmNtcw?oc=5).
 
 ## Requirements
 - Python 3.8
