@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Cleverly urges Tory 'discipline' in leadership bid**
+**Want to cook like a Neanderthal? Archaeologists are learning the secrets**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnMHoxZ2t6eW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzB6MWdrenlvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyNC8wNy9oYW5kLW1lLXRoYXQtZmxpbnQtZmxha2UtYXJjaGFlb2xvZ2lzdHMtYnV0Y2hlci1jb29rLWZvd2wtbGlrZS1hLW5lYW5kZXJ0aGFsL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
