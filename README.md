@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane explosion in Nepal captured on shocking video leaves 18 dead, 1 survivor**
+**Trent Williams holding out of 49ers training camp for contract reasons**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX042UExudUdQdFYxLU1oQlhWNjVvMTc3ZTkxaUh4bWpzZkxBRVV1dnhTNGhweXg4RmlpaDlSODZsOGJLUUM5Mmh0WW82OS1HczlTT0VKRnBfNlNvWW1oS1RIQV9EaEJxT0JQNEZjSlhmUkMtMTAxVHhMS3AtdXlmMVRZekFFbE14WEtpSnBxM1kxSnZldjRvT0VjbEMwem5uX2fSAacBQVVfeXFMTVdoWVV4dk1ZNmtTYURkQlRkT1F0S0cyY1l1cWpOZHl2dlhiTGg4bldpLWVXczV2MU1IdUJOYUJUaGJfYTVUSTF6dXliY2ZGQzZYdjVCdkVkVW5HU1dkV2tDU0luTzE4YWxNNWVYeWl2VmVlY1RacHh0dEhJYzBIaldxbDZ1czlIX1ptS2w0d210M2wwSEFaNWgwRzBodXZvajlHSDNMem8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQU85V3drM3l3TGtnNUN0QkFhejY0N1FqbXFGV2tKaEdtSjVvMFlGRy1oOWU2V3ppbjBudHRicUFmT3VwS1RkNXVVSmZjRHlnZ29OSUZaaldaNExQaVhJMXR2ZnJuc2hBWUhCOVdvclRLZEVmZzFra3JnaGlDTmNqd0Jmd0t2cFZJZ2hQWTZ1LThJWnVWanY1SGR2aGV1TjFyVndHeGJmZnlyczhwQW1SUXlySk5NUGF1ZkVfaEF5bzVnUmd6RDIzZUtnUnc?oc=5).
 
 ## Requirements
 - Python 3.8
