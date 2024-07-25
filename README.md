@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Skye fossils reveal secrets of first mammals to walk the Earth**
+**Timothee Chalamet sings Bob Dylan in A Complete Unknown trailer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14X2F4Q25DaWQ1Nk9hSVo2Um9ZakFvelJDMkFpczIyRnBGQWhTaXlyMHlTNE5PdHlPWFRqN1N6Z2xHT0pPczYwVnFQS3ZYSWlLYzlfWVJEcWZnUdIBX0FVX3lxTE12dmttVGFXMlB4c0pkRGFEbVVTVmtzRHRnTUdwazJoMEtobDBDdWJnLXhFRkdKWGhLQy11cHpkRDdLMDB1Rkp6REFOdzNUUWJJbjltbHR5T0NqRnVUZkxF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NYUtnV1RPeXhxR0VQS1RESjBCQjc4RkUwakhNWnprQUpaM1B5b2NiTnNPUEFWYWtMNkp0Z1M0aEx2YXJwaUNBbnNCWlgwZ2otVklkaVJPWlV3d9IBX0FVX3lxTFAySWxBNWVSSTVKWUd6OXU0U0NuTDY2NEZzMW1HWi1DSll4Zm1ueTZGX09EUzNpam1pOFJubjhuaGU1ZDlMNDZaaldDVVIzMHBNZ2Izb1FReGJ4a05kc0ZN?oc=5).
 
 ## Requirements
 - Python 3.8
