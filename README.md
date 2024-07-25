@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today's Horoscope – July 25, 2024: Check horoscope for all sun signs**
+**MLB trade deadline rumors: Jameson Taillon draws looks, Dodgers eye outfield help, Yankees narrow to-do list**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjNkMTVkTXd6V1NIN1VfWWR4MmIyTWV5dDNxUTNudEdmdGg2WmxSX0pWSnJEdFAwajFzY29mMEhMV3JITzlQMWRpUTdCeDBmT2ZKb1BTREkxTHJrQ2dzUVd0VnFjTGR0blFOdThZOWR6OUZkSUtDelVWRThNWkw1dVl0cjJlRDlNa0JOeVN4ZDZMVHQ0a3ZxNU5sekNLMlNQTlNCbDFCNUJlUDBOVXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3dnUDVJejdsRFBZZm0zNThMZk13d0F0SC05WTZPaUMtajRpeXpVMDJwSlV5RGFFOEw5T2F3VnkwVG5faGszN1lsRHllWTA3SndEeks3Y05lcUJTcElUekg3WDJqejFYMHB4ejNUUUVIaS1Oc0VCdVNSNk1hZ2JGTlRyTjlibG4ya1NWRW1jWWNvNUxQUU1aN3lDMktPYkVZcjZ2SGJCYTU2c0JOV1ZLR1NqeGJ2RUhDX01WdEdQcXRsaHJacVkwVHk0V0pnUEZIVXBYZVZiQzk?oc=5).
 
 ## Requirements
 - Python 3.8
