@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Gov. Josh Shapiro, a possible Harris VP pick?**
+**Celine Dion singing at Olympics would be great, says Macron**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvZ292LWpvc2gtc2hhcGlyby1oYXJyaXMtdnAtcGljay9zdG9yeT9pZD0xMTIxOTg4NzHSAVZodHRwczovL2FiY25ld3MuZ28uY29tL2FtcC9Qb2xpdGljcy9nb3Ytam9zaC1zaGFwaXJvLWhhcnJpcy12cC1waWNrL3N0b3J5P2lkPTExMjE5ODg3MQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzV5dzIxMHgxa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c1eXcyMTB4MWtvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
