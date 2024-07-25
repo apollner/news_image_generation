@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is ‘dark oxygen’, found 13,000 feet under the sea?**
+**Tesla shares fall 7% in premarket trading after earnings miss**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjQvd2hhdC1pcy1kYXJrLW94eWdlbi1mb3VuZC0xMzAwMC1mZWV0LXVuZGVyLXRoZS1zZWHSAV9odHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNy8yNC93aGF0LWlzLWRhcmstb3h5Z2VuLWZvdW5kLTEzMDAwLWZlZXQtdW5kZXItdGhlLXNlYQ?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/07/24/tesla-shares-fall-8percent-in-premarket-trading-after-weaker-than-expected-earnings.html).
 
 ## Requirements
 - Python 3.8
