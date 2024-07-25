@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brewers' Yelich 'not great,' to see back specialist**
+**Netanyahu seeks support for war in Gaza with speech to Congress but sparks protests and boycotts**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/40631527/brewers-put-christian-yelich-il-lower-back-inflammation).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMm1iYXkyRHFkY1B3ZmlUWHVSRFRfQmxsODU1bG9MNTN2bzJJc1N2Y08zSFFVcFRYT2xFQkktSmNJQ2FyYlN6cy1hV29iYmJaemtWTWlkQTFfRFlFZ0pwVHRoQzhDektlSnozcEVreTA1QWV6ZHRKVEpsdkd0VVpORjB5UElGTGI3Z0VrcERRdFFHa0dNVUNaSjZCMzg?oc=5).
 
 ## Requirements
 - Python 3.8
