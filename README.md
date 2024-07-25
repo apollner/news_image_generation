@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla shares fall 7% in premarket trading after earnings miss**
+**What we know about the deputy charged with killing Sonya Massey in her home after she called 911 for help**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/24/tesla-shares-fall-8percent-in-premarket-trading-after-weaker-than-expected-earnings.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNC91cy9zZWFuLWdyYXlzb24taWxsaW5vaXMtcG9saWNlLW9mZmljZXItc2hvb3Rpbmctc29ueWEtbWFzc2V5L2luZGV4Lmh0bWzSAWBodHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI0L3VzL3NlYW4tZ3JheXNvbi1pbGxpbm9pcy1wb2xpY2Utb2ZmaWNlci1zaG9vdGluZy1zb255YS1tYXNzZXk?oc=5).
 
 ## Requirements
 - Python 3.8
