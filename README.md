@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu seeks support for war in Gaza with speech to Congress but sparks protests and boycotts**
+**Format, favourites and key players: guide to women’s Olympic football**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMm1iYXkyRHFkY1B3ZmlUWHVSRFRfQmxsODU1bG9MNTN2bzJJc1N2Y08zSFFVcFRYT2xFQkktSmNJQ2FyYlN6cy1hV29iYmJaemtWTWlkQTFfRFlFZ0pwVHRoQzhDektlSnozcEVreTA1QWV6ZHRKVEpsdkd0VVpORjB5UElGTGI3Z0VrcERRdFFHa0dNVUNaSjZCMzg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcF90QWJ1MkJ0Wk8zVGYzZElNNFhSVFRBVi1YUmI3QUw3aVFWWFdfSnY2bkZtSXFnTkRFRVh6YmRtalpNaHRwRldpWm5tcVVnUS00VmExeGMtYk45RDdJNkJYSjNMUndkVGRwOVQ1YWpTZWdJaHI4eG1OeER6VDFLVlpsRHlENUstMHhUcW1SZXFycDRfTzQ1dWo3UW1tTXhGRS00eXJxdDVzaGpHQ3hPazRRcUZXQkFPbWNaemdERm9wOHJzaUVtT0otMURwaU9YYUdEY1NzMGotUXJY0gHcAUFVX3lxTE1rR2VyRGFMWGNzT1hMUkx4ZE1USjQzUG1UMFQwU3o0LUhGSUNkeUtNZ2NIazBYTW5tTFB1djcwRTQ3OWVSWUdLYUFCY3AxVFZHMklLVWxoSlpra0tyRlY2SWxxY0dobzVrRGlQX3AwRmFfbE1oOEJiVzI1cjFHMVZBeGhXOWZjalUydmx2VFkyRG5kOEhjQUZfLS1KT2FKT0xTWTJqdzA1empFS3VWLWFIdWVITVNweWE2UW02SFZrWGZiM1AzZFRtdTJYTGV5azZHR3A2b3UyU0s5d2I?oc=5).
 
 ## Requirements
 - Python 3.8
