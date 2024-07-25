@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CrowdStrike blames global IT outage on bug in system for checking updates**
+**New wave of North Korean trash balloons hits U.S. Army base and Seoul presidential compound**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1NSS0l4Q0FtR21sOUtCbld2SFp0MDd4eG50Y3VockZOMjJjdGhuTlJqQy1EVUNSTUtBZkJIUDRhSG9LNFlxWXgzX0tqZkVSbzE0VjVBZEJ1RDJ1LWRnTTBVRFNVd1hOcjhtZDJqSXFSeXF3YS1nRHJuWldsSmZpM21YZWdCLTRCcmFNQUZCMk9WbTdY?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzV5bXdrRC13MEdYb0lGcVd0SXJmRXJydTM0dS1mYXNfckRaR182OEZudUdYTXlNajBoRkJWYzJfYWplQ2NCRWZhQjJPQlhpNkVaZHJFSURmQ3Q2YlZDVE1oZzJ0VGRqY0pFNHpRNVRnS1lyQlJxVTNvcFRXTHlNYnJaVzR3d09pUGlDT2JBNG1IeU41MVYxTDFPbFNpRHRhZ09Z0gGoAUFVX3lxTFBXbVo4WGV4aDJlUEYxNUVtZk9VVTFCVXZJT1BlczZKcERreElkZkdnXzUyeWRmUkQydG1uUlRzLWNvVWY5VG1LQ1FlNXBDT0NVa3FmQlBVS1JpdUF2X0FoSV96eXRlRklQRFpXanRrdUxmSTd0dnZweHFvNGRJZXVXbzJsWHdsTldzdEhGV21hdHdhSkFGVHQ2VXhWeGVCWGdCR1lVVC10Xw?oc=5).
 
 ## Requirements
 - Python 3.8
