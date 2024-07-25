@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Zealand enquiry finds 200,000 children and vulnerable adults abused in care, leader says ‘we should have done better’**
+**James Cleverly urges Tory 'discipline' in leadership bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNC9hdXN0cmFsaWEvbmV3emVhbGFuZC1hYnVzZS1jYXJlLWlucXVyaXktaW50bC1obmsvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjQvYXVzdHJhbGlhL25ld3plYWxhbmQtYWJ1c2UtY2FyZS1pbnF1cml5LWludGwtaG5r?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnMHoxZ2t6eW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzB6MWdrenlvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
