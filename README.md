@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists Show How Bird Flu Spreads Between Mammals — As H5N1 Pandemic Fears Grow**
+**Plane explosion in Nepal captured on shocking video leaves 18 dead, 1 survivor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPTlNuakNuQWU3MHlDWkFYLW9LaFNTVEhUbUdlemhoT0hpVW0wWWxlOGVnMVBrZnZZcFE0b29aaXYwa1hzQllNYnVyUzNDMmVMeHQ2UEQ3a0ZGMU92bnByOW53RkFMaFRUb0cxY1ZwZzhaWGRXaEJjTUMxdTRBQzRud1NOaWRwcDVRTFRham5Hby1ubnFNZFVaZGFMRjBtcXNqaGszTW1TN1lHUU1lZUxrbTUxWUFPMGlUSy04eHhHeWRoZFZmTEpfQjVjOHR5dU0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX042UExudUdQdFYxLU1oQlhWNjVvMTc3ZTkxaUh4bWpzZkxBRVV1dnhTNGhweXg4RmlpaDlSODZsOGJLUUM5Mmh0WW82OS1HczlTT0VKRnBfNlNvWW1oS1RIQV9EaEJxT0JQNEZjSlhmUkMtMTAxVHhMS3AtdXlmMVRZekFFbE14WEtpSnBxM1kxSnZldjRvT0VjbEMwem5uX2fSAacBQVVfeXFMTVdoWVV4dk1ZNmtTYURkQlRkT1F0S0cyY1l1cWpOZHl2dlhiTGg4bldpLWVXczV2MU1IdUJOYUJUaGJfYTVUSTF6dXliY2ZGQzZYdjVCdkVkVW5HU1dkV2tDU0luTzE4YWxNNWVYeWl2VmVlY1RacHh0dEhJYzBIaldxbDZ1czlIX1ptS2w0d210M2wwSEFaNWgwRzBodXZvajlHSDNMem8?oc=5).
 
 ## Requirements
 - Python 3.8
