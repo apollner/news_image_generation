@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New wave of North Korean trash balloons hits U.S. Army base and Seoul presidential compound**
+**Skye fossils reveal secrets of first mammals to walk the Earth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzV5bXdrRC13MEdYb0lGcVd0SXJmRXJydTM0dS1mYXNfckRaR182OEZudUdYTXlNajBoRkJWYzJfYWplQ2NCRWZhQjJPQlhpNkVaZHJFSURmQ3Q2YlZDVE1oZzJ0VGRqY0pFNHpRNVRnS1lyQlJxVTNvcFRXTHlNYnJaVzR3d09pUGlDT2JBNG1IeU41MVYxTDFPbFNpRHRhZ09Z0gGoAUFVX3lxTFBXbVo4WGV4aDJlUEYxNUVtZk9VVTFCVXZJT1BlczZKcERreElkZkdnXzUyeWRmUkQydG1uUlRzLWNvVWY5VG1LQ1FlNXBDT0NVa3FmQlBVS1JpdUF2X0FoSV96eXRlRklQRFpXanRrdUxmSTd0dnZweHFvNGRJZXVXbzJsWHdsTldzdEhGV21hdHdhSkFGVHQ2VXhWeGVCWGdCR1lVVC10Xw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE14X2F4Q25DaWQ1Nk9hSVo2Um9ZakFvelJDMkFpczIyRnBGQWhTaXlyMHlTNE5PdHlPWFRqN1N6Z2xHT0pPczYwVnFQS3ZYSWlLYzlfWVJEcWZnUdIBX0FVX3lxTE12dmttVGFXMlB4c0pkRGFEbVVTVmtzRHRnTUdwazJoMEtobDBDdWJnLXhFRkdKWGhLQy11cHpkRDdLMDB1Rkp6REFOdzNUUWJJbjltbHR5T0NqRnVUZkxF?oc=5).
 
 ## Requirements
 - Python 3.8
