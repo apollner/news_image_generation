@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Cowboys WR Michael Gallup Surprisingly Retires From NFL at Age 28**
+**Rooftop bodycam video shows confusion among officials, rifle shooter used in deadly attempt on Trump**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcNIBfGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcC5hbXA?oc=5).
 
 ## Requirements
 - Python 3.8
