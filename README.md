@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL training camp 2024 live updates: Saints expect Young, Olave to practice**
+**At least 18 dead in Nepal plane crash, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMTkxOTMyL25mbC10cmFpbmluZy1jYW1wLWxpdmUtdXBkYXRlcy0yMDI0LW5ld3MtZGVwdGgtY2hhcnRzLWluanVyaWVzLXJvc3Rlci1iYXR0bGVz0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9zYXVyeWEtYWlybGluZXMtcGxhbmUtY3Jhc2hlcy1kdXJpbmctdGFrZW9mZi1uZXBhbC1rYXRobWFuZHUtcG9zdC1zYXlzLTIwMjQtMDctMjQv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
