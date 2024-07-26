@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford shares, on pace for worst day since 2009, lead autos rout after company's disappointing earnings**
+**Statement by Vice President Kamala Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDVjVlVObktzYm9ObEdIRTZhb244VG9YbGlNUFI2cnN6ajc2YnhOMUtKd2VxYWJRNFBMUzhXWmpKN1JEXzZadGVjSFZxSVBleHMxcEZzQ0lULTJYakh6ay0xcVk4YUc1X2FKeDdzZGZzY0ZwVFJVVllTZlkxSHVITUFpUGFkZ1RuMEY4ZUNxazFJTVVySzVYd2cwZEzSAaIBQVVfeXFMTkpNaDRuOFF4LS1PX2FkUU8zcGNTRjBaRVpEcjNsdW43RW9PeE94YlY0UVJ6blp2bGFmMk5qTk1tYWkyUW5mMS1sR0s4LXQ5SGVrSjdaN0ROVURrTkNVSkxPcUVmNmlwQkU5b1hzYzQ5VHFzVHc0azd3Y3liaXZjckRtZHJrQ2pyZkpjclFHLTd0Z3pTZ1kxU2dRb04tbDlmWndR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2pVTFQ2Mk9TY1pCWDQ4U0hpTEx0bmg2YkxFbWtIWnRBNUxCYkhuZTFJSmowWUZrQzBtUmpPblAyd3FLazk2NnIyYU5haWljc2c5R0V4MXcxWEdReWZuRWQyRnZyU191MUVQM0I5eWFCaFpoMnpDbEM2TDFZdnpsOV9WejlfanFzT3dKOFE3Q3lnSWV0Y3ptdlNHSnZvaXFKS2ZObW91UWs0VHF1RDFGbnB2b1lDY00?oc=5).
 
 ## Requirements
 - Python 3.8
