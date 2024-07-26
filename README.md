@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China and Russia stage first joint bomber patrol near Alaska**
+**HGTV star Christina Hall says third husband transferred $35k from her account after divorce filing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSMWtDU3ViekNQQV82QWhWejhseldTb2xIWTdzUU0xSUE1a0JvRVlrX2RXNFRWakJ0X0UxOGZMOWlDZndjS3JBZHJjd3JNWE1LYnlBekF5emZuZ9IBX0FVX3lxTFBKbXBRd3BjNU5qQVJRcjFZODdvVEY1MjdMbjJUcHFfNHJyR3hVazRkSVY1QzFfN3R4dmlja1UyQmZBQkZsMmhab1Z0ZWpKRjEwZFB5Z3RkaGIzQThiQWtz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3NvajQ0YTkzeXNydEsyb2FpWDFsY2dTWDI1a19OSEdhXzl0ejRrU0FYOTlBRFRzS2l3ZWhRZHJDcWhrUnoyQVJqRDZ5V1VfbDM0Sk82bVk0YjRPcVptSWZvUHZHVHhENmlrdjhGNkg0TGlvT0VlTHp3bmRXdTR1WmhuZlV1dnFuSG16aGxFYndMVnY0Y1ZwdGZoY0dPQU1iQXNwUV9INnJDcnFwcmgwZjVtZGlVVjJtcUN2T0xiT2RlQdIBxwFBVV95cUxPSkktWjdKblNPV0MtWEZDWnozZzgtUVNBbktabnhQYXd4S0RGUDNOdGEyaHBWUzRZNTNUTC1JaFlyTVBBRjQtNUZnTlR0REU3YTFtNVVQTVlkdDRIX0UtZXpsdUstX3MwUF9idjNMaU5NWDZKMkY0eGFXT1JleFdDRVU1TTRoT0xBZkJNUXBHN0RyNS1JU183SUN4TGw2dks1QVRpWlpjQ3AzbmlVQndsRDRsMk1SbkVyQ3ZKTVRJVUJJRmxobXVn?oc=5).
 
 ## Requirements
 - Python 3.8
