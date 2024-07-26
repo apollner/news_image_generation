@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Data breach exposes US spyware maker behind Windows, Mac, Android and Chromebook malware**
+**Non-Google search engines blocked from showing recent Reddit results**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxONV9YZG8xMjJwbHJsVkpXQkV3QUVDWC03MmlPcTFDUGVTeWc4VzVkT0JyUjBGVjN2T0MtS2xqcGY2RlNOTzRUWEdMZ2VHRldFcEJHRERaNGctYjI0dVVTWDI4RmV5c3g5M29KdDczZFVwYTJDWUsyUE5mRmNsSWxWaFJmVnJKaXdNTGFIdDFoclB5bFM0NW9GbA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEdIRmt5WFhpZVRCTFVjZWQ2ZTE3RjlvWUZhY1NfSXJuR2d2aUpac1BlWjc4ZUtIeFVsZkloUlQwUnI1OEZkRE9rclI3NUJaX3lZZU8tZ3J0ZjZVNDFua3Q2Z0xuQUlvamNRNkVTTGVxVkhBdnF6Z3JzU2RXOVdCSi1kdVJOWFp3cjJkc18zXzNZcnZ6dDAwN3dXZ2ppWXBZY3k1MFVFZzZDZmtVUEE?oc=5).
 
 ## Requirements
 - Python 3.8
