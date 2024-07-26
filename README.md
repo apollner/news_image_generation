@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bodies of five slain hostages recovered by military, returned to Israel**
+**British police officer filmed stomping on man’s head at Manchester Airport**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTdEem1LYmRIeWJOdkg0aUZka3hyaGtQd0dOekNidzdIejYzTmdjRTFiNU9zemZoazh1aE0zRXFPZWRDRXJGaEdZZUJLcG5manZkcmZsQVRwR2ViQzVlMW01NEcyNjRjcUp2czFhVXZka1AwWjYwY3dRLTlsa0ZtVGJlN1R3VGtBTEh1bHItU094N0ozNkp5N1pIUHPSAaIBQVVfeXFMT21CaGVfczZxT1JoMU1oNWtKLURRU0VBWWZ1eGZkbDl6T0tmTDlHVWZCLTU2TzJjTU9sSWc3OTJsZ2FGTmhWWVlET2FPekNVejQyeVNhUzFaMDRYUWxKMzd0QS1FZERjZFh3ci1iZTRPVXhHeFhaMEwxeGlJUmNNZ1VDUnd6alJGMjh4RnM0aEk5cnlCS3EtMC1sM3VEWnN0eHpn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNemxGVkJ0d2VNNUpFYV9Gd0pHcWV0dlFBd29NVHRhUzBtcDFmOEczeW5XTjFuMThEQlpHTVVONDdSRktKU0NtcTJFcjlJVGxpV0FNUnZSdzhzOFBFSVVuZ2pjMGRseGNTOXdRUE13N1hhWXA3MVNRY1F0N1Y0am40NWRkS3d4RExPVlVweG1iSmRLM3FuQ2ZBMmRIZ1BXSWJNbXFz?oc=5).
 
 ## Requirements
 - Python 3.8
