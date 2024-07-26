@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos' Sean Payton praises slimmed-down Javonte Williams: 'He looked sharp today'**
+**AMD Ryzen 9000 reviews will be posted day before launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxObXM5VFZRbVZJT05haDJ4cjZCcGd1VUFiOWJwaXRWcXRYa1RVODlIYTF2WjA2bUt0cUdya3VvQTkwM2M3dHFKQjE4anE0Ym5zR3pPckJBTVNlRC1VX1I2aGxvRnJHV2dEc20xTFptd3VVd2hMazJRVUNwY0d5TEtGZnRxWF9jdjQ4THFWUk9rM2dnWXdJR1FJcGZmQmJSaUlFZzNEbzNHaw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtZZEdmcGp6LUJCWUVTZVNOanRZTWFMcFdqc0o5QnFuYmEtZ1JfdmQ2ZWlOdHB0MVJIcHNFRzdrRkN6ZDJteVlNTnYzNzBjSTkxeUNhdVpRM08zMzJranprZ3FFZ2xVa0VjRURsWmd6TWZFLUhvVF85bmR5UE9NRktSZnE4NE0xWHdn?oc=5).
 
 ## Requirements
 - Python 3.8
