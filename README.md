@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Padres' Cease throws no-hitter against Nationals**
+**The First 20 Minutes of Fallout: London (4K 60FPS Gameplay)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUW11VGREMVlCRno4MGhVbW9rcmZ2Nng1ZHJsZWtqb1ljekswdUl4WS1xakx1OU1mMVZTejZyM2JHTGpZRkN5dmpBWXQ3bUxzR3ROQzRSU3J3UVQ0XzhuaFdKSFgtY2R0TlNILWdIbGFGNm0wWUYtTkdwWnh4RzZueEc0NkVTdlJ4MFppd3VYRGVfaDBy?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX05sZzFvamQ1SFA3UjhQQ1h1Wi1mU1o1ZW16T3BSYk9IbzNOb29jM0wyNUxLYkE5aEx5bWV4c1FxZGRpX3dObk82djVUOXI1WFdPa3VhNndndk5nZlBNZXZXTXZnNWNvTk4zRVZTOXNZZXR5NFRlWVJFUFpwXzJKS1k0T210OUgxWUFF?oc=5).
 
 ## Requirements
 - Python 3.8
