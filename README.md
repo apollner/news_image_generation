@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two more troopers tied to Karen Read case are under internal investigation, authorities say**
+**In fiery speech to Congress, Netanyahu vows 'total victory' in Gaza and denounces US protesters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxPOHpyaEZ5RXZ4cGpFNkVkNjBOT1NTTkJrWkZkaEZ4SjhpYTk4ZTY3cWo1VW1sYy02cG9WMENTU3FVNkpqUFpZX3d2OVJjOHo2RVEtTGRuQWdjaXN0Z1oyMFpad0F3dkNuQUo1X215REJ0NkJ4QmRzOWhTV1BEYWMxdkt2ZXdoZXRmX3ZqMWZXcFhqZXJCV3pqeXpB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMm1iYXkyRHFkY1B3ZmlUWHVSRFRfQmxsODU1bG9MNTN2bzJJc1N2Y08zSFFVcFRYT2xFQkktSmNJQ2FyYlN6cy1hV29iYmJaemtWTWlkQTFfRFlFZ0pwVHRoQzhDektlSnozcEVreTA1QWV6ZHRKVEpsdkd0VVpORjB5UElGTGI3Z0VrcERRdFFHa0dNVUNaSjZCMzg?oc=5).
 
 ## Requirements
 - Python 3.8
