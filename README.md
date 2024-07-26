@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secure Boot is completely broken on 200+ models from 5 big device makers**
+**China and Russia stage first joint bomber patrol near Alaska**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlJzQzhSeTJJemtFSVpERW4tMmtzanNNUEFKMUVpVnJ6QWVpMWx4UUJNc1dkU1MzeUk1MXhETnlaZFNMN29lY016Q1d5X0ZpQ09oZ0JiN3V0RDZNdU15VHBWS0tob0RLQm05ZERHTWJUN0pxcEZzN3lMRkNhRTNLajA3eUxSeW1ua2Q1TzdEWVZCSzBya3VnWUlfV18weHNpVWJqOGtLenF0ZGYzel9OaFh1YVNXUUp5T1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSMWtDU3ViekNQQV82QWhWejhseldTb2xIWTdzUU0xSUE1a0JvRVlrX2RXNFRWakJ0X0UxOGZMOWlDZndjS3JBZHJjd3JNWE1LYnlBekF5emZuZ9IBX0FVX3lxTFBKbXBRd3BjNU5qQVJRcjFZODdvVEY1MjdMbjJUcHFfNHJyR3hVazRkSVY1QzFfN3R4dmlja1UyQmZBQkZsMmhab1Z0ZWpKRjEwZFB5Z3RkaGIzQThiQWtz?oc=5).
 
 ## Requirements
 - Python 3.8
