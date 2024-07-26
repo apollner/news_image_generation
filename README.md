@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza war: Israeli forces recover bodies of five hostages**
+**Data breach exposes US spyware maker behind Windows, Mac, Android and Chromebook malware**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaHB5RkJhV2d1U0d4VGYzd2lyR2ZUbGtFLUdFZnkzck1YV3ZfMVMxenZfZXFuejA0VjhSTXpJMWdrNkh0TlYyVUdyRzY5OEwzRWs5LWZzcWxvQdIBX0FVX3lxTFByTXhPSXd3U0dGOElSeENJcTFjRE40Ymx4dWhnZWx6Y0pQR0ZuaHZSTnc5c0N3cS1fWEpjME51U2EyTHk0cTEzSFVnVmJNeWxhdHZZNXlyZlZja18zSW5n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxONV9YZG8xMjJwbHJsVkpXQkV3QUVDWC03MmlPcTFDUGVTeWc4VzVkT0JyUjBGVjN2T0MtS2xqcGY2RlNOTzRUWEdMZ2VHRldFcEJHRERaNGctYjI0dVVTWDI4RmV5c3g5M29KdDczZFVwYTJDWUsyUE5mRmNsSWxWaFJmVnJKaXdNTGFIdDFoclB5bFM0NW9GbA?oc=5).
 
 ## Requirements
 - Python 3.8
