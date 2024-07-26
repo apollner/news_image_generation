@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement by Vice President Kamala Harris**
+**Fact check: Trump made at least 10 false claims about Kamala Harris in a single rally speech**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2pVTFQ2Mk9TY1pCWDQ4U0hpTEx0bmg2YkxFbWtIWnRBNUxCYkhuZTFJSmowWUZrQzBtUmpPblAyd3FLazk2NnIyYU5haWljc2c5R0V4MXcxWEdReWZuRWQyRnZyU191MUVQM0I5eWFCaFpoMnpDbEM2TDFZdnpsOV9WejlfanFzT3dKOFE3Q3lnSWV0Y3ptdlNHSnZvaXFKS2ZObW91UWs0VHF1RDFGbnB2b1lDY00?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/07/25/politics/fact-check-trump-false-claims-kamala-harris/index.html).
 
 ## Requirements
 - Python 3.8
