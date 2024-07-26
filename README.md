@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT to Open 2024 Summer Olympics against Zambia**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnk0NjVnc0NjUXhlM002V3JTTUl1azRYV2Y4RVpBSkZCbkhheWVtS0NFMWxTOTdaVkc2MHhHQkZ4UWlzQ2pNdXMwR1RxNXpZSzFWaU9FTUNjSjAwTUZtOVl4VlBOUkJiaFR4bFRqc3F4NzhNNThBUm42ZjRPTkxpVzlTMURnd1NRYTEtT045cDFacWhUZHNOVVE2eGdub2l4?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
