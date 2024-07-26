@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Feige Explains Why Marvel Spoiled Dafne Keen’s X-23 Return in Final ‘Deadpool & Wolverine’ Trailer**
+**Bodies of five slain hostages recovered by military, returned to Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0c4SnlNTTI1Y2NOSmotNVhQS1NxSmlJNzFvbGJrU0RmOXRXLTk1TkZaVTNiVFo1dmF4LVRXRkJHVkdwanppeFRhR2doNXBDOVZ2M3ZnRC1ON0prdHJZYks3OXhDRzRKN2hWUUdvTlprbllfYndNSG41b1hPV09fLXJfN2xaX3pJM3hxZ3V4UGJMdHV6eXhkT08zVndXYW85T2J5X2tfdm81U0NLbUFHVEdlZ3ExNzBPMzkxMjV1bGp3QmZnaXRacEdLbG0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPMTdEem1LYmRIeWJOdkg0aUZka3hyaGtQd0dOekNidzdIejYzTmdjRTFiNU9zemZoazh1aE0zRXFPZWRDRXJGaEdZZUJLcG5manZkcmZsQVRwR2ViQzVlMW01NEcyNjRjcUp2czFhVXZka1AwWjYwY3dRLTlsa0ZtVGJlN1R3VGtBTEh1bHItU094N0ozNkp5N1pIUHPSAaIBQVVfeXFMT21CaGVfczZxT1JoMU1oNWtKLURRU0VBWWZ1eGZkbDl6T0tmTDlHVWZCLTU2TzJjTU9sSWc3OTJsZ2FGTmhWWVlET2FPekNVejQyeVNhUzFaMDRYUWxKMzd0QS1FZERjZFh3ci1iZTRPVXhHeFhaMEwxeGlJUmNNZ1VDUnd6alJGMjh4RnM0aEk5cnlCS3EtMC1sM3VEWnN0eHpn?oc=5).
 
 ## Requirements
 - Python 3.8
