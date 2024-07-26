@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**When does Inside Out 2 come out on Disney+? Approximate release date**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://en.as.com/meristation/news/when-does-inside-out-2-come-out-on-disney-approximate-release-date-n-7/).
 
 ## Requirements
 - Python 3.8
