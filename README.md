@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford shares fall as car repair costs weigh on profits**
+**Biden tells US it's time to 'pass the torch' to Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFB5b0l4QWJ0UHY0VFYtVzU0MF8xcDJDNHFwTEFzcW1jdWtHRG14a2xfel82ZmdScEdxbnJpTmN6aG03VHpSSngtM1hfWGFRTEZMRS10SUgteXU2cWZTMFBIalpXcDM4YlVxdy1UaldfaEg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjJocFdTU2FpVWVkc3RZOTVtOENzWDgtd21EaXNSZEVKMTRPVDQ3Snp1YWY0OGM4bzVNalRyNnRhYllvWV92Z3dQTkh1cGRNWGwtVEZFc3ZBQdIBX0FVX3lxTE4tTWx5OUJBTWJJa3JsRmhWRW1yZEdYY0FNSVJrVmN4MWVBTmhZYWliMVNMc00yNUFwVlVFSHM1VlFFNWRhbFZnN3NEb2l5UDFHLXlndG9jbW81SndsVDVN?oc=5).
 
 ## Requirements
 - Python 3.8
