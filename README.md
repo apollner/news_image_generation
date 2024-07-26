@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seahawks, Julian Love reach agreement on a three-year extension**
+**British police officer filmed stomping on man’s head at Manchester Airport**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2w4QmRUdl9BT3lvNEM3LXJ3dnFkVVVXR3EtX0l1djhpRzBPVl8zWC00RGVmOGh1YjVqRTV3LVpWRm91Q0czbTVjbVRsMDNwaXJxdEpNamZhcWF2aHNEUHgwbFNyQ0xRUXk1OW1FeTVmVVlGc2FQMzdkYkxmaGoxQ3owSS1IYzNYVmUtTTh4UDFXdGl1YmhCYUFOUk1KaTZIVXJMSjFZZ1RwbHM5OUhzcWdubS1CQnlOY0s4NFloRDVKQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNemxGVkJ0d2VNNUpFYV9Gd0pHcWV0dlFBd29NVHRhUzBtcDFmOEczeW5XTjFuMThEQlpHTVVONDdSRktKU0NtcTJFcjlJVGxpV0FNUnZSdzhzOFBFSVVuZ2pjMGRseGNTOXdRUE13N1hhWXA3MVNRY1F0N1Y0am40NWRkS3d4RExPVlVweG1iSmRLM3FuQ2ZBMmRIZ1BXSWJNbXFz?oc=5).
 
 ## Requirements
 - Python 3.8
