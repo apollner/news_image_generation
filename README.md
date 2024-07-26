@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climate protest at Frankfurt Airport forces a temporary halt to flights**
+**Simone Biles Rebuilt Herself for the Paris Olympics. Can She Pull Off Her Most Unlikely Feat Yet?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3d3UlY3ZDljUHVfSlJOZTRPSEhpdWhJZ2ttNll0SE9XTFZCc2lWeHlUV2xDNko2MjJtVy1XeGtVaWVDWUVHZlhBbWRuN3U3NWx6Z1FVNnRib3cwWno1TmVYcU94RjhLVVA3T0JoYko2YUJrT3JGSThweW1XZmNhRlBLLWtwRlRmTWsweUJROTVLbndqNU5ka3pfNWZoV2NENHJHeE1jR212Z2Jrd0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlBvRTdNRkN0QXVBYTFJS2s0VWtJQTIydEJtUDdUU0YtZUJZNHQ1LURCMTF5RjNDd0NiTFphOXNiR2Q1MThBMll6YWhoZ3N1LVBaQ21BLWR6OHI4cDNKdERfc3ZJMW4tLW0xaXBpazJNMlZBaHBnQlpsaks5Tl9XYkJ0cXpENUU?oc=5).
 
 ## Requirements
 - Python 3.8
