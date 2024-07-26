@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerful Typhoon Gaemi hits Taiwan, expected to drench an already soaked China**
+**Ford shares fall as car repair costs weigh on profits**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNSG0wcHh3LVgtazc0eHpab21VdlBUMFo2N3pTeGxfbU1CNDdvel90S2dnNXItbHp2bDkwWkVZMUhfVzU5ODNFekNLVEN4enN3R2c4Z3dEVWxVc00xMXRKZHVHaXVaNHN6emxoZjloQzg3N3YxMnF3V2NUVVQtUS1JckMtQ2JuREtJbWfSAYABQVVfeXFMTm5fZm44UF9pOEdhb1RVTzNyLXJtRW1nUmJrOGhPd2ZVZ0c0VDE1X3k1bmlQRDYxU0I3SVJXOWlfRGd1V0YxbkdLYl9oUU80ak5JMFd2anlmeV85NzdZamtYck5GNGJ2TmRmQ1ROd1YyaVdhbEVuMTF1ZE5zMGtoWnE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFB5b0l4QWJ0UHY0VFYtVzU0MF8xcDJDNHFwTEFzcW1jdWtHRG14a2xfel82ZmdScEdxbnJpTmN6aG03VHpSSngtM1hfWGFRTEZMRS10SUgteXU2cWZTMFBIalpXcDM4YlVxdy1UaldfaEg?oc=5).
 
 ## Requirements
 - Python 3.8
