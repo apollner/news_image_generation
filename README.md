@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden tells US it's time to 'pass the torch' to Harris**
+**Kevin Feige Explains Why Marvel Spoiled Dafne Keen’s X-23 Return in Final ‘Deadpool & Wolverine’ Trailer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQjJocFdTU2FpVWVkc3RZOTVtOENzWDgtd21EaXNSZEVKMTRPVDQ3Snp1YWY0OGM4bzVNalRyNnRhYllvWV92Z3dQTkh1cGRNWGwtVEZFc3ZBQdIBX0FVX3lxTE4tTWx5OUJBTWJJa3JsRmhWRW1yZEdYY0FNSVJrVmN4MWVBTmhZYWliMVNMc00yNUFwVlVFSHM1VlFFNWRhbFZnN3NEb2l5UDFHLXlndG9jbW81SndsVDVN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxQM0c4SnlNTTI1Y2NOSmotNVhQS1NxSmlJNzFvbGJrU0RmOXRXLTk1TkZaVTNiVFo1dmF4LVRXRkJHVkdwanppeFRhR2doNXBDOVZ2M3ZnRC1ON0prdHJZYks3OXhDRzRKN2hWUUdvTlprbllfYndNSG41b1hPV09fLXJfN2xaX3pJM3hxZ3V4UGJMdHV6eXhkT08zVndXYW85T2J5X2tfdm81U0NLbUFHVEdlZ3ExNzBPMzkxMjV1bGp3QmZnaXRacEdLbG0?oc=5).
 
 ## Requirements
 - Python 3.8
