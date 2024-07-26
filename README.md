@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Non-Google search engines blocked from showing recent Reddit results**
+**Ford shares, on pace for worst day since 2009, lead autos rout after company's disappointing earnings**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEdIRmt5WFhpZVRCTFVjZWQ2ZTE3RjlvWUZhY1NfSXJuR2d2aUpac1BlWjc4ZUtIeFVsZkloUlQwUnI1OEZkRE9rclI3NUJaX3lZZU8tZ3J0ZjZVNDFua3Q2Z0xuQUlvamNRNkVTTGVxVkhBdnF6Z3JzU2RXOVdCSi1kdVJOWFp3cjJkc18zXzNZcnZ6dDAwN3dXZ2ppWXBZY3k1MFVFZzZDZmtVUEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRDVjVlVObktzYm9ObEdIRTZhb244VG9YbGlNUFI2cnN6ajc2YnhOMUtKd2VxYWJRNFBMUzhXWmpKN1JEXzZadGVjSFZxSVBleHMxcEZzQ0lULTJYakh6ay0xcVk4YUc1X2FKeDdzZGZzY0ZwVFJVVllTZlkxSHVITUFpUGFkZ1RuMEY4ZUNxazFJTVVySzVYd2cwZEzSAaIBQVVfeXFMTkpNaDRuOFF4LS1PX2FkUU8zcGNTRjBaRVpEcjNsdW43RW9PeE94YlY0UVJ6blp2bGFmMk5qTk1tYWkyUW5mMS1sR0s4LXQ5SGVrSjdaN0ROVURrTkNVSkxPcUVmNmlwQkU5b1hzYzQ5VHFzVHc0azd3Y3liaXZjckRtZHJrQ2pyZkpjclFHLTd0Z3pTZ1kxU2dRb04tbDlmWndR?oc=5).
 
 ## Requirements
 - Python 3.8
