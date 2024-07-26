@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian and Chinese bombers intercepted off of Alaska**
+**Stock Market Today: Nasdaq Slumps, Dow Rises After GDP Beats Expectations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWxnZWhUNGxWbU16dEFFODliS25TMzRPY2pRZW9qWFBPUXEwaFZQaEJYQTlNOVJVX2ItQ0Nha29yYUp2RE5TMXFyRzloSl8yNGFQY25XOUw4NDhtVnlmZnQ4SjZwa0RzSFNxX2x6Q0ppano2bXlhZl9UM2hHS3lyX2dWYktvWjZWSGhSU0phMzV4N2I5c3fSAZsBQVVfeXFMT1ZvdGRQZGxsRjhNZ0tnZ2c4dnlsTEw0Um9jNHJpb0tzUjhLdFdhZmxqU1Q3T21lVnhWbmJLd0FfUkN4bHpiZGt1aWNSNndUeHpYZXo4ZlRibHdaUXJWNVg4SVh5VHJJM3p4QlRNeFUzZzF1WmpPMmwwWEFzS3BJVUxPdmpTZFlCcDREVi1ud2tmeXpwQ292MndQZjA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHFUZjIzVU9TZ3ZoT2dwckI3cFJiX0FhZF9uRjBQdFp1c1A1T0ZrUnFDbjFlUkJvZTI0dDBQTmQ2bXRuQmJuQ2pCcDlHV1VCWnJhWUJkUDQ1Q0VybFduWXd1aEJtbVBETUJVd2NxVFJOQ0drMktEbUp5Zl9iaEhwZXN2MnRzejN0VEZEN1RiMDRwS3poUURpdw?oc=5).
 
 ## Requirements
 - Python 3.8
