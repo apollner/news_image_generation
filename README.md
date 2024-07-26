@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD Ryzen 9000 reviews will be posted day before launch**
+**Deputy who killed Sonya Massey worked for 6 agencies in 4 years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmtZZEdmcGp6LUJCWUVTZVNOanRZTWFMcFdqc0o5QnFuYmEtZ1JfdmQ2ZWlOdHB0MVJIcHNFRzdrRkN6ZDJteVlNTnYzNzBjSTkxeUNhdVpRM08zMzJranprZ3FFZ2xVa0VjRURsWmd6TWZFLUhvVF85bmR5UE9NRktSZnE4NE0xWHdn?oc=5).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/deputy-killed-sonya-massey-worked-6-agencies-4-years-rcna163409).
 
 ## Requirements
 - Python 3.8
