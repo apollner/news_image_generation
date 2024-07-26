@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HGTV star Christina Hall says third husband transferred $35k from her account after divorce filing**
+**Padres' Cease throws no-hitter against Nationals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3NvajQ0YTkzeXNydEsyb2FpWDFsY2dTWDI1a19OSEdhXzl0ejRrU0FYOTlBRFRzS2l3ZWhRZHJDcWhrUnoyQVJqRDZ5V1VfbDM0Sk82bVk0YjRPcVptSWZvUHZHVHhENmlrdjhGNkg0TGlvT0VlTHp3bmRXdTR1WmhuZlV1dnFuSG16aGxFYndMVnY0Y1ZwdGZoY0dPQU1iQXNwUV9INnJDcnFwcmgwZjVtZGlVVjJtcUN2T0xiT2RlQdIBxwFBVV95cUxPSkktWjdKblNPV0MtWEZDWnozZzgtUVNBbktabnhQYXd4S0RGUDNOdGEyaHBWUzRZNTNUTC1JaFlyTVBBRjQtNUZnTlR0REU3YTFtNVVQTVlkdDRIX0UtZXpsdUstX3MwUF9idjNMaU5NWDZKMkY0eGFXT1JleFdDRVU1TTRoT0xBZkJNUXBHN0RyNS1JU183SUN4TGw2dks1QVRpWlpjQ3AzbmlVQndsRDRsMk1SbkVyQ3ZKTVRJVUJJRmxobXVn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQUW11VGREMVlCRno4MGhVbW9rcmZ2Nng1ZHJsZWtqb1ljekswdUl4WS1xakx1OU1mMVZTejZyM2JHTGpZRkN5dmpBWXQ3bUxzR3ROQzRSU3J3UVQ0XzhuaFdKSFgtY2R0TlNILWdIbGFGNm0wWUYtTkdwWnh4RzZueEc0NkVTdlJ4MFppd3VYRGVfaDBy?oc=5).
 
 ## Requirements
 - Python 3.8
