@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deputy who killed Sonya Massey worked for 6 agencies in 4 years**
+**Statement by Vice President Kamala Harris**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/deputy-killed-sonya-massey-worked-6-agencies-4-years-rcna163409).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2pVTFQ2Mk9TY1pCWDQ4U0hpTEx0bmg2YkxFbWtIWnRBNUxCYkhuZTFJSmowWUZrQzBtUmpPblAyd3FLazk2NnIyYU5haWljc2c5R0V4MXcxWEdReWZuRWQyRnZyU191MUVQM0I5eWFCaFpoMnpDbEM2TDFZdnpsOV9WejlfanFzT3dKOFE3Q3lnSWV0Y3ptdlNHSnZvaXFKS2ZObW91UWs0VHF1RDFGbnB2b1lDY00?oc=5).
 
 ## Requirements
 - Python 3.8
