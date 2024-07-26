@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford profit disappoints, stock falls 11% as quality issues dog automaker**
+**Seahawks, Julian Love reach agreement on a three-year extension**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMldtV21VTG1QSFNsNzN3NDliRjN1TTRuNHhZWjVSSkw5OWNBcXlMWjhFS3MxcDZENTRXQ3B1bDJJZFVhUWpLczJsQUNRS3p0QmY1REFEUjBLMlhPbTRiZnRqTGExLS1WeVA1QkFacWtDU3hoZ0I5OHBRWkt3VzhUTnY2WVFEN2xZM3NfcmNTUlNaQWQ0djFpSmJrSnFfZWhUSzY4Qnd3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ2w4QmRUdl9BT3lvNEM3LXJ3dnFkVVVXR3EtX0l1djhpRzBPVl8zWC00RGVmOGh1YjVqRTV3LVpWRm91Q0czbTVjbVRsMDNwaXJxdEpNamZhcWF2aHNEUHgwbFNyQ0xRUXk1OW1FeTVmVVlGc2FQMzdkYkxmaGoxQ3owSS1IYzNYVmUtTTh4UDFXdGl1YmhCYUFOUk1KaTZIVXJMSjFZZ1RwbHM5OUhzcWdubS1CQnlOY0s4NFloRDVKQQ?oc=5).
 
 ## Requirements
 - Python 3.8
