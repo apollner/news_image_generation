@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British police officer filmed stomping on man’s head at Manchester Airport**
+**Ford profit disappoints, stock falls 11% as quality issues dog automaker**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNemxGVkJ0d2VNNUpFYV9Gd0pHcWV0dlFBd29NVHRhUzBtcDFmOEczeW5XTjFuMThEQlpHTVVONDdSRktKU0NtcTJFcjlJVGxpV0FNUnZSdzhzOFBFSVVuZ2pjMGRseGNTOXdRUE13N1hhWXA3MVNRY1F0N1Y0am40NWRkS3d4RExPVlVweG1iSmRLM3FuQ2ZBMmRIZ1BXSWJNbXFz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMldtV21VTG1QSFNsNzN3NDliRjN1TTRuNHhZWjVSSkw5OWNBcXlMWjhFS3MxcDZENTRXQ3B1bDJJZFVhUWpLczJsQUNRS3p0QmY1REFEUjBLMlhPbTRiZnRqTGExLS1WeVA1QkFacWtDU3hoZ0I5OHBRWkt3VzhUTnY2WVFEN2xZM3NfcmNTUlNaQWQ0djFpSmJrSnFfZWhUSzY4Qnd3?oc=5).
 
 ## Requirements
 - Python 3.8
