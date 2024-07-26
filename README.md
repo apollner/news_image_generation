@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB trade deadline rumors: Jameson Taillon draws looks, Dodgers eye outfield help, Yankees narrow to-do list**
+**Nasdaq and S&P 500 log worst day since 2022 after Alphabet and Tesla fail to impress Wall Street**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3dnUDVJejdsRFBZZm0zNThMZk13d0F0SC05WTZPaUMtajRpeXpVMDJwSlV5RGFFOEw5T2F3VnkwVG5faGszN1lsRHllWTA3SndEeks3Y05lcUJTcElUekg3WDJqejFYMHB4ejNUUUVIaS1Oc0VCdVNSNk1hZ2JGTlRyTjlibG4ya1NWRW1jWWNvNUxQUU1aN3lDMktPYkVZcjZ2SGJCYTU2c0JOV1ZLR1NqeGJ2RUhDX01WdEdQcXRsaHJacVkwVHk0V0pnUEZIVXBYZVZiQzk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVlPTExKRm1xdVQ5UGVKa1BIVGp1OURsSUtHNUE0aE91QVVtX0VPOHpxX0pZaVlMX2lGUGVHVjAyVHFPZlgtcExuQlM2NWJTTDRHSHFyZVlfVXdyLWhQaEVqc01CMG9PUHVTMjlxV29DWHlhdVVNSTliWEFNcEY5c3ZXSGVLQjEwbUJfY1JjTdIBhgFBVV95cUxOUzcwNVNUOFAxRnNLWXRacnQ3WUVsZ1hhZ1FMYTVwNzFQTkxIM25hOFBzVTd0S1QwZk1iNjR6TC15cUt1bXF6YXdoTEVWekVab1hURGVCZS1OeEV4OFMya0JJZ3lZWW5mQ3kxWnU5Vm1kb0hoUVVMR0Uzcm4tUXJkbW92Q1dOdw?oc=5).
 
 ## Requirements
 - Python 3.8
