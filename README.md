@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The First 20 Minutes of Fallout: London (4K 60FPS Gameplay)**
+**Russian and Chinese bombers intercepted off of Alaska**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX05sZzFvamQ1SFA3UjhQQ1h1Wi1mU1o1ZW16T3BSYk9IbzNOb29jM0wyNUxLYkE5aEx5bWV4c1FxZGRpX3dObk82djVUOXI1WFdPa3VhNndndk5nZlBNZXZXTXZnNWNvTk4zRVZTOXNZZXR5NFRlWVJFUFpwXzJKS1k0T210OUgxWUFF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNWWxnZWhUNGxWbU16dEFFODliS25TMzRPY2pRZW9qWFBPUXEwaFZQaEJYQTlNOVJVX2ItQ0Nha29yYUp2RE5TMXFyRzloSl8yNGFQY25XOUw4NDhtVnlmZnQ4SjZwa0RzSFNxX2x6Q0ppano2bXlhZl9UM2hHS3lyX2dWYktvWjZWSGhSU0phMzV4N2I5c3fSAZsBQVVfeXFMT1ZvdGRQZGxsRjhNZ0tnZ2c4dnlsTEw0Um9jNHJpb0tzUjhLdFdhZmxqU1Q3T21lVnhWbmJLd0FfUkN4bHpiZGt1aWNSNndUeHpYZXo4ZlRibHdaUXJWNVg4SVh5VHJJM3p4QlRNeFUzZzF1WmpPMmwwWEFzS3BJVUxPdmpTZFlCcDREVi1ud2tmeXpwQ292MndQZjA?oc=5).
 
 ## Requirements
 - Python 3.8
