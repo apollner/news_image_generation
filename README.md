@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When does Inside Out 2 come out on Disney+? Approximate release date**
+**Broncos' Sean Payton praises slimmed-down Javonte Williams: 'He looked sharp today'**
 
-You can read more about it [here](https://en.as.com/meristation/news/when-does-inside-out-2-come-out-on-disney-approximate-release-date-n-7/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxObXM5VFZRbVZJT05haDJ4cjZCcGd1VUFiOWJwaXRWcXRYa1RVODlIYTF2WjA2bUt0cUdya3VvQTkwM2M3dHFKQjE4anE0Ym5zR3pPckJBTVNlRC1VX1I2aGxvRnJHV2dEc20xTFptd3VVd2hMazJRVUNwY0d5TEtGZnRxWF9jdjQ4THFWUk9rM2dnWXdJR1FJcGZmQmJSaUlFZzNEbzNHaw?oc=5).
 
 ## Requirements
 - Python 3.8
