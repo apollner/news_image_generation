@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Technology shares drop in US and Asia as AI stocks slide**
+**Climate protest at Frankfurt Airport forces a temporary halt to flights**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4OGgzQkZTMTFBS1N1ZE9WUGdVTDlVMk1FNy1RNm5GWVFxVERKQUM0TFN0YUxZcFA4aEZUTlRVV2llV0djX1VIOVJaOUV3STJERC0xdzA2TWE4Z9IBX0FVX3lxTE5EcEYyNnQ2b0lrakxNNEVsOWZ5ejB4STNtbE5ncWkySTNVVF9QdE80VkFvT3hFcVUyc1l6cm54djJNSU4wMjhvTXRIQzhINTZfTU4tYjBxcXpBdmp4amVB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3d3UlY3ZDljUHVfSlJOZTRPSEhpdWhJZ2ttNll0SE9XTFZCc2lWeHlUV2xDNko2MjJtVy1XeGtVaWVDWUVHZlhBbWRuN3U3NWx6Z1FVNnRib3cwWno1TmVYcU94RjhLVVA3T0JoYko2YUJrT3JGSThweW1XZmNhRlBLLWtwRlRmTWsweUJROTVLbndqNU5ka3pfNWZoV2NENHJHeE1jR212Z2Jrd0E?oc=5).
 
 ## Requirements
 - Python 3.8
