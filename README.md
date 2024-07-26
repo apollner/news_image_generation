@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement by Vice President Kamala Harris**
+**Gaza war: Israeli forces recover bodies of five hostages**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd2pVTFQ2Mk9TY1pCWDQ4U0hpTEx0bmg2YkxFbWtIWnRBNUxCYkhuZTFJSmowWUZrQzBtUmpPblAyd3FLazk2NnIyYU5haWljc2c5R0V4MXcxWEdReWZuRWQyRnZyU191MUVQM0I5eWFCaFpoMnpDbEM2TDFZdnpsOV9WejlfanFzT3dKOFE3Q3lnSWV0Y3ptdlNHSnZvaXFKS2ZObW91UWs0VHF1RDFGbnB2b1lDY00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaHB5RkJhV2d1U0d4VGYzd2lyR2ZUbGtFLUdFZnkzck1YV3ZfMVMxenZfZXFuejA0VjhSTXpJMWdrNkh0TlYyVUdyRzY5OEwzRWs5LWZzcWxvQdIBX0FVX3lxTFByTXhPSXd3U0dGOElSeENJcTFjRE40Ymx4dWhnZWx6Y0pQR0ZuaHZSTnc5c0N3cS1fWEpjME51U2EyTHk0cTEzSFVnVmJNeWxhdHZZNXlyZlZja18zSW5n?oc=5).
 
 ## Requirements
 - Python 3.8
