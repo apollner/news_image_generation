@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Halting the Bird Flu Outbreak in Cows May Require Thinking Beyond Milk**
+**Biden delivers Oval Office address after dropping out of 2024 presidential race: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTE1WQlpYMC1ZY1hGNU9oRVNOX0ZZQWlWYWI4VlNSNWpUNWF1T01TVzlyekZ0c0U0amhpZVlNekM5bXAtVncyaXhHRDFrNHhUc05HWGxuYjBHMHFHTVBJcWpDSnlfTUhSbTlDUFhVdHE2blBjSlk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOFZmZkx1aWJHOGRwcy0xczBvNUJFSFUxWGZka1VlYzI5aUR1dS1FajloUXhtMllOR1d2ajFSOWdXQjVlUWxwOW44enVGQ01Eenc0QlYxR1VRSm56M2p4UXZSaWFVZ0s0UVJCWjVUTndOcThiZ2lxeVFwMW94Y0Z1clhZMWFmTmljRklzdUpWMHp0R0dNaGliaQ?oc=5).
 
 ## Requirements
 - Python 3.8
