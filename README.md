@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Perseverance rover found a rock on Mars that could indicate ancient life**
+**Watch: 'Firenado' forms along California's Park Fire**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9uYXNhcy1wZXJzZXZlcmFuY2Utcm92ZXItZm91bmQtYS1yb2NrLW9uLW1hcnMtdGhhdC1jb3VsZC1pbmRpY2F0ZS1hbmNpZW50LWxpZmUtMTUwMDA2MDY0Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9maXJlbmFkby1wYXJrLWZpcmUtY2hpY28tY2FsaWZvcm5pYS13aWxkZmlyZS10b3JuYWRv0gFjaHR0cHM6Ly93d3cuZm94d2VhdGhlci5jb20vZXh0cmVtZS13ZWF0aGVyL2ZpcmVuYWRvLXBhcmstZmlyZS1jaGljby1jYWxpZm9ybmlhLXdpbGRmaXJlLXRvcm5hZG8uYW1w?oc=5).
 
 ## Requirements
 - Python 3.8
