@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A mysterious pile of bones could hold evidence of Japanese war crimes, activists say**
+**China on Alert for Heavy Rain and Floods From Typhoon Gaemi**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3ZrQllSMlFvLVpWdVlXVnJZd2hZcTlnTnkyaUtTQXd5LWVOanhJSFJQckdiUmFjSjlOckkzVG5XdFNvZkp4a0JjdHBVTFJvWjlRdGo3VloxMFZTbkFGZHktbkhteG5sSi1iSURyRWhKLW4xeHRYSU9md0dhVEU5MUVlaTdEMDZPbVlXNGxkejBjYnAyU0VYSEpvbjIwYkFBUkFfNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU5tNjhzZ1VncUlMdnkwWE5mSjNmb3FTWkxwVmhYbkpGQWJHSHNhUnhaRU5HNFZ0WGNuNEdoU2FCMTZPN0pueE5WMWVvVk9wVDdzdUJVWVc5QjNNX1NFYkR2a3h3OXZmOEZVVDFUbGgxZHFCZ0NBNlZSSUZMa1dHX1JfMA?oc=5).
 
 ## Requirements
 - Python 3.8
