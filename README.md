@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘End of the people’s airline’: Southwest abandons open seating after 53 years**
+**Now Facing Harris, Trump Backs Off Commitment to Debate in September**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzNTOGx1MGN6ZzFJQmVkNVFwN25VdTFwZnRaa0FoZ3c2empVYnk0cXJoY2FfZ2VPbV9ySWl3NS1tbE45QnU0NTBrOVhSOVN6QkxlMTI2N0tCVVN0blU3bmRNNHBnVlhHRE14S3FRWlB5WXZxUlQxMXZtcmpWQTk3Ny1zUldSUnlybWdYM3pn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjB2akZ5UnR0bHRveFlucTJCcFZuaDJUS3kyTVAxempYOVZtSjBkN0FEZGJ0TGswTkhkeTM1VndzaGx4V25kVmdvNmI3cWhUODJqSmFGeUdSbHJKcWY1Yk8tZ1FzZ3FrbEdtOC1EZ2Q0M2NTNy1TVDlGVVZEQkdQNHFwSQ?oc=5).
 
 ## Requirements
 - Python 3.8
