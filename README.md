@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video game actors are going on strike after contract talks fail over AI terms**
+**NASA's Perseverance Mars rover finds possible signs of ancient Red Planet life**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWdjSHdpU0xadXFxYldfbjdzLWM4QVJoYWtSWGt3RUNfZEgzSzFVNEgyNzFfV1pyNzktdmFlN3RkLXZRa3llYVk1ZW5YazExUjVzU0FQbVFaaHE3Q0p4NUdSUVdnRjhKY0ZPSjJ6Z3NSZENHdXlEMXJiZV9Ya2RST3lRR291Z01jZkF6WDBMWVlDUk1yT3V5UHByNTJBbV96eEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTFA2NGFlMlJZWWRWN2I0MWhtSUdzUHZ2MktBYk45M2pqbks1OWNVd3BmaXFQa1NfTEphWUNoazNtR1NhcTRtNUx0Z3EwUVk0YXpFVnpEenZZSklFSWFTUEtFWUNoc3RqUUVMTEZyQmRhT25NTHU5VE00?oc=5).
 
 ## Requirements
 - Python 3.8
