@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diamondbacks Acquire A.J. Puk**
+**‘End of the people’s airline’: Southwest abandons open seating after 53 years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE44Q2ROSW9SbEktcnJzRGltN1dFUldOaGtNQkVQUmJYanpBTU1LYlhlWEJDUkhIUzItTUg4TUU5T1hCVzQ3UFZpZVJTVVNVbWRab1FtYWItOEdXSTJkR0hKdGpwOUJqWEVia2k0MTlyeU1iWDF6LVNpOENB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYzNTOGx1MGN6ZzFJQmVkNVFwN25VdTFwZnRaa0FoZ3c2empVYnk0cXJoY2FfZ2VPbV9ySWl3NS1tbE45QnU0NTBrOVhSOVN6QkxlMTI2N0tCVVN0blU3bmRNNHBnVlhHRE14S3FRWlB5WXZxUlQxMXZtcmpWQTk3Ny1zUldSUnlybWdYM3pn?oc=5).
 
 ## Requirements
 - Python 3.8
