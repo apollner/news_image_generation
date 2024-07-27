@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Double mastectomy may offer no survival benefit to women with breast cancer**
+**For Epidemics to Cross Oceans, Viruses on Ships Had to Beat the Odds**
 
-You can read more about it [here](https://medicalxpress.com/news/2024-07-mastectomy-survival-benefit-women-breast.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvaGVhbHRoL3ZpcnVzZXMtc2hpcHMtdHJhbnNtaXNzaW9uLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
