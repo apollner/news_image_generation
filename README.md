@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ismael 'El Mayo' Zambada: Mexican drug lord arrested in US**
+**Arizona Diamondbacks acquire reliever A.J. Puk from Marlins**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zMzZmLWtQcFNTMVNrcXlOMG85RXlVUlh2eGp4SHF6RjJTX3hwa2hDcHRCSXhFTHRKaVBnWGJFLW9XbTh6T3dMOXdGQ0lyeUFOVURBYk5DZHRZUdIBX0FVX3lxTFBKQmp3QlVIbF90TElVVGpldGVVa1A1b2l0eFA2amtCbS1hSU5FMTBlMEJDVzZVSWkzaXpCZGl0MFUwZ05kNEJSZlNNVjU4Ti1Ic0YtaV9HUE1LR2daNGNv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3lYd2RmNG9MNndxMEJraFlpUjh5eVkwVlFEQUlKQkdLNUtKanoxYzVEZmJmS21GMmFuUnptVlB1aXhhUFJpODRwUWx1alROVjFQdEFjWnJVN2FqUUtRZlRlNklyT3BJVzhmbGtOOEhsSjVjRTNCUkczNDZaY29VblpSMHJOS3lXNm9ZSFNkVzNIZnNsLUFVcXVkUWZ0MDR1?oc=5).
 
 ## Requirements
 - Python 3.8
