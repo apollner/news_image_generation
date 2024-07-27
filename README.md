@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: 'Firenado' forms along California's Park Fire**
+**Shingles Vaccine Offers Hope Against Dementia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmZveHdlYXRoZXIuY29tL2V4dHJlbWUtd2VhdGhlci9maXJlbmFkby1wYXJrLWZpcmUtY2hpY28tY2FsaWZvcm5pYS13aWxkZmlyZS10b3JuYWRv0gFjaHR0cHM6Ly93d3cuZm94d2VhdGhlci5jb20vZXh0cmVtZS13ZWF0aGVyL2ZpcmVuYWRvLXBhcmstZmlyZS1jaGljby1jYWxpZm9ybmlhLXdpbGRmaXJlLXRvcm5hZG8uYW1w?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vZ2l6bW9kby5jb20vc2hpbmdsZXMtdmFjY2luZS1vZmZlcnMtaG9wZS1hZ2FpbnN0LWRlbWVudGlhLTIwMDA0Nzk1MjDSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
