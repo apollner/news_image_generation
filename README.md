@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s Daughter Rips Into Him After Anti-Trans Rant**
+**The USWNT, under new boss Emma Hayes, races to an Olympic triumph**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3ZJMzFwN3dsd1hVblItTk5TM2k3RXg4cUhXU2ZzbmRyNHRkTkN6ZGgtYlNtR1BOWW9VSndYbHhUVmlTWjI4WUpkS2VQSGtmYXI5Z3pWdnRTd1ByTDRrZ3hhMWlFZHAxdUpXZFFIOTNrbEtaZ0g2bG9BRDlleEdxTXhfSFJpMVZXVjNoS21TQmtpQnpCRkVyV3lwTzQteDFoUTlZb3hBbEk?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/sports/olympics/2024/07/25/uswnt-zambia-mallory-swanson-trinity-rodman-olympic-soccer/).
 
 ## Requirements
 - Python 3.8
