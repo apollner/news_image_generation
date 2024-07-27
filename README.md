@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video game actors are going on strike after contract talks fail over AI terms**
+**Prince Harry Reveals All in ITV Doc on Tabloid Lawsuits, Saying U.K. Press Is “Why I Won’t Bring Meghan Back”**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWdjSHdpU0xadXFxYldfbjdzLWM4QVJoYWtSWGt3RUNfZEgzSzFVNEgyNzFfV1pyNzktdmFlN3RkLXZRa3llYVk1ZW5YazExUjVzU0FQbVFaaHE3Q0p4NUdSUVdnRjhKY0ZPSjJ6Z3NSZENHdXlEMXJiZV9Ya2RST3lRR291Z01jZkF6WDBMWVlDUk1yT3V5UHByNTJBbV96eEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWFVTUYybi1WR3g1RGFoVVZ6bUlBRDBxT2tlRHE2YmpldFVncmtMUm5SNTJ4amlIMG81ZzliSTBNeGhxNjBsc3FuQnNRYmVQeHBoMDVCVE9PcTYzTVNVanFncTExeTR5VkZtTDZoOHd5RHpqMGdGZWZ4TmpiUnhRVnRNSjFkRGVYaHd3RC1NVndiOVpvV25CRng1S2piNFQzM3hUV2hTQXRadVVhcVlUUHU0ejZfY0c20gG-AUFVX3lxTE9DS2NISXJpSGl2eHU5X0NITkdIVFcyYTFTeE5walFXVDA1ZS1DbHRpeG9wVTl6V1hxTlIzZ05ZVDU2Xzc2S0JYR2ZGYi1XN1hGVFVtX0ItUTlkckJNOTkzVnJZbnlyZlcwTUZYVkpWZWI5UFJabzZScTExS2tKQnlFbFRGdk9PV2FnSzBGZTVVWVdycG9xUEx1R2JZbG5WX2FXdW5TSzRWX1ZhZVJXZG1UbUxxWkg4WGdWX0ZQU0E?oc=5).
 
 ## Requirements
 - Python 3.8
