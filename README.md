@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1,064-Horsepower 2025 Chevrolet Corvette ZR1 Is A Shock To The Supercar System**
+**Video game actors are going on strike after contract talks fail over AI terms**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUmRWQURjeE0tSWo5amtaMGdKMktXbVljS29LNFFhLUlBYmZvbURWa1lEN00wTll1akpPSnZJdE5Ecjg5NXNVNjNsOUxrcWgtbEZJdVN3UmdMejVLa05SMmhjLWhySmFYQ2ZnLTVYeV9OVDZlOGhrRFlYWVNuRTRFcjlPcWpPUm9tR3JQcVhiQmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWdjSHdpU0xadXFxYldfbjdzLWM4QVJoYWtSWGt3RUNfZEgzSzFVNEgyNzFfV1pyNzktdmFlN3RkLXZRa3llYVk1ZW5YazExUjVzU0FQbVFaaHE3Q0p4NUdSUVdnRjhKY0ZPSjJ6Z3NSZENHdXlEMXJiZV9Ya2RST3lRR291Z01jZkF6WDBMWVlDUk1yT3V5UHByNTJBbV96eEE?oc=5).
 
 ## Requirements
 - Python 3.8
