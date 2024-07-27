@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Asian shares mostly advance after Wall St comeback from worst loss since 2022**
+**Fast-Moving Wildfire Ravages Canadian Town Of Jasper**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3hxQUoyWEJ2Q1huTlZkOUVpYjBlLWN3OFd3VnhTeEVPUkNMUnd2U0duanl6bTVUODNyekd6UXc0RDR4bnEzZmZaczNYQUF3cllIckJFWWE3SXNfdHRzUGlsZnE5U2N2SGFZUkFRVi13VV84MWs5ZEtrSkN1eWd6MWZZVkNUeEdJOC11cDhUa1RfbFJwR1Nr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1VYLTRBMzRKelFwc2xfQVBXMEpFZFFIUTEwT005M2w2QTBVVW93ZWJRU01oTjFXcjVuY2wxVVY2enpwaDB4NU9IRXlBbWFHUk5mZVpnY2o1Vm9OMDdzSHY1WVpWSWZ6RmJtbFhqbUF2ZURQYjA5NkZHaklkTjY4RmwteGZMRlRINzZjZ1B0X1k?oc=5).
 
 ## Requirements
 - Python 3.8
