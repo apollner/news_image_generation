@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID is having a summer wave. Here's what it means for older people**
+**GM reveals new Chevy Corvette with 1,000-plus horsepower and record top speed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUdWZTNFYTFXNnZWbkx0el9McUpZR2xOejhjbkoyNDFuSTNscFhDY0M5bXFOVTVBck9kbE9nc0tBTnExdm1KMTRObmFCNk5SSzNva3JIc0NBUThjRHFXSDMtbFhqS011a2NfLXVJN0RpWkZDeUZTR3lzSmlabWVBSUdZeUtTNldrZEthTlZpVm9LS25YSlRMbGZWYTRfdXNRaGNVb3BnQksyRWxvU1BJQw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE43UGh1cTgyY0lwcE1BU3J4OE02YjZGS0EtQ1BzWDF5MlFUSHpFVWU2WGR2VEFpMFBCOU9QOVVGUXI4VWdTaXQ5Rzk5UDVVNENqd1BvR3hucTVOUS1USERVZWJXOF9RS2VYRnhpUlBqQ1lBVGNoMTZBcmln0gF_QVVfeXFMTTJLM2djTnFGRVE0NEFXeDljd3h2MUN6Q2IxT0Y4a1M5SHpXeEYtMFB5NHd4cGw4ZmtnNWJBMEgxOTc5bEV1WDBvcXRWd1RHTnZHRW00TUFMYXg5cTRYLU5RMURobHdQRldqVTJtT3ZzYVRwcmxjMndOVXB3Ymc2QQ?oc=5).
 
 ## Requirements
 - Python 3.8
