@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says**
+**SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNS91cy9zaW5hbG9hLWNhcnRlbC1pc21hZWwtemFtYmFkYS1jdXN0b2R5LXJlcG9ydC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yNS91cy9zaW5hbG9hLWNhcnRlbC1pc21hZWwtemFtYmFkYS1jdXN0b2R5LXJlcG9ydA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjYvMjQyMDY5NTIvc3BhY2V4LWZhbGNvbi05LXJlc3VtZS1mbGlnaHQtZmFh0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
