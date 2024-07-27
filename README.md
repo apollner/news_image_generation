@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Now Facing Harris, Trump Backs Off Commitment to Debate in September**
+**Stock market today: Asian shares mostly advance after Wall St comeback from worst loss since 2022**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMjB2akZ5UnR0bHRveFlucTJCcFZuaDJUS3kyTVAxempYOVZtSjBkN0FEZGJ0TGswTkhkeTM1VndzaGx4V25kVmdvNmI3cWhUODJqSmFGeUdSbHJKcWY1Yk8tZ1FzZ3FrbEdtOC1EZ2Q0M2NTNy1TVDlGVVZEQkdQNHFwSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3hxQUoyWEJ2Q1huTlZkOUVpYjBlLWN3OFd3VnhTeEVPUkNMUnd2U0duanl6bTVUODNyekd6UXc0RDR4bnEzZmZaczNYQUF3cllIckJFWWE3SXNfdHRzUGlsZnE5U2N2SGFZUkFRVi13VV84MWs5ZEtrSkN1eWd6MWZZVkNUeEdJOC11cDhUa1RfbFJwR1Nr?oc=5).
 
 ## Requirements
 - Python 3.8
