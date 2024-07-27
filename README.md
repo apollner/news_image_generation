@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christina Hall initiated Josh Hall divorce, left him ‘blindsided’: report**
+**Son of 'El Chapo' and Sinaloa Cartel co-founder 'El Mayo' arrested in Texas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2RrT241cHl5ZVMxcGhYUDc0R2RwSGt2TzZ5UlE0Uy04TGR3MnloNkxWYk1XQnMzNXNOY0RvaTBRWUtCNm5UdlR4dzd5UExaV1JPRW9KMUpNSk9JaVRPZ0NMT0VSUHZvS2RWaHZlM2lZWlFsTWpCVk9jQnVqU0VDNnhXVEdSTTJwbXFUUUVscHVpZzdfa09RQ011QU90amhEZ0lzendwZXlSaVlWcEhyMzZLSGJlZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEZqMlg4TExBbzloSlJtVWt6TkxPdWpOOURaVGg2R2pZQWZ6MDhaR0VQUzc1X19VTm1wbVBlY1l3WHNoVFlyTGVONHFOTUdwYWNNMURWQk1QZ25PbUVNYmJKeFRNUDBBMktkVEFwcEVFQWd3M1BYamp2M2lEOXNTZFNaVnlHLTBxNFpYdXVQcnFNc2laam51azZRMkRsQ0tlM0U1XzF1ZTTSAVZBVV95cUxQaGd4dlZFLUlMMDNJLWl2T3lub3lKWWVGZWZ1U0ZBbjJNN3owZlBxUE53TkdhaGRRd0F6amI2MTNESHctUzlqVGVTLUNiSFpUSC1yeDFLZw?oc=5).
 
 ## Requirements
 - Python 3.8
