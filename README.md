@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For Epidemics to Cross Oceans, Viruses on Ships Had to Beat the Odds**
+**PCE Inflation Gauge Slips to 2.5% in June**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvaGVhbHRoL3ZpcnVzZXMtc2hpcHMtdHJhbnNtaXNzaW9uLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9zdG9jay1tYXJrZXQtdG9kYXktZWFybmluZ3MtZG93LXNwNTAwLW5hc2RhcS1saXZlLTA3LTI2LTIwMjQvY2FyZC9wY2UtaW5mbGF0aW9uLWdhdWdlLXNsaXBzLXRvLTItNS1pbi1qdW5lLUhUdTBaU1JHaUN4aU1ac1VwT3g40gEA?oc=5).
 
 ## Requirements
 - Python 3.8
