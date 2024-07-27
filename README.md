@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Perseverance Mars rover finds possible signs of ancient Red Planet life**
+**COVID is having a summer wave. Here's what it means for older people**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTFA2NGFlMlJZWWRWN2I0MWhtSUdzUHZ2MktBYk45M2pqbks1OWNVd3BmaXFQa1NfTEphWUNoazNtR1NhcTRtNUx0Z3EwUVk0YXpFVnpEenZZSklFSWFTUEtFWUNoc3RqUUVMTEZyQmRhT25NTHU5VE00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUdWZTNFYTFXNnZWbkx0el9McUpZR2xOejhjbkoyNDFuSTNscFhDY0M5bXFOVTVBck9kbE9nc0tBTnExdm1KMTRObmFCNk5SSzNva3JIc0NBUThjRHFXSDMtbFhqS011a2NfLXVJN0RpWkZDeUZTR3lzSmlabWVBSUdZeUtTNldrZEthTlZpVm9LS25YSlRMbGZWYTRfdXNRaGNVb3BnQksyRWxvU1BJQw?oc=5).
 
 ## Requirements
 - Python 3.8
