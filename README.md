@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China on Alert for Heavy Rain and Floods From Typhoon Gaemi**
+**‘Deadpool & Wolverine’ Star Dafne Keen Breaks Down Her Emotional Reunion with Hugh Jackman**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU5tNjhzZ1VncUlMdnkwWE5mSjNmb3FTWkxwVmhYbkpGQWJHSHNhUnhaRU5HNFZ0WGNuNEdoU2FCMTZPN0pueE5WMWVvVk9wVDdzdUJVWVc5QjNNX1NFYkR2a3h3OXZmOEZVVDFUbGgxZHFCZ0NBNlZSSUZMa1dHX1JfMA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
