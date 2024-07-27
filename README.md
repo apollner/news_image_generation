@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France: 'Massive attack' on fast train network**
+**Diamondbacks Acquire A.J. Puk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0dZVHRlYVZ1V0wxanBHWVRYMFo1U1RCUFl6YUNiMUpsTEZZTEpmLWdIc2hvVlZrUjk4VHQ5eVJPYXg2Vkhhd3pvcEF2OHhiN2NOX2FpMDVtV2ZjZTd0Zkp2ZmRIdEVuZjZQTGxjeVZqQjkyWFlxWndCYTlJV0FNM2pB0gGCAUFVX3lxTFB6YUhLV0tKdFNjYVQxX2ZhNWxuTWF1LWZjOWY0MFI4YWFJWjRTdm5HREVPdHpfUDJnbU96OWxJQlpPU0NZRXN5Q096VXRoUUNfVVA4S2RWTHpmUVh5d2dSMFoyamRTcENvMmdoVTEtQ2gzUGg3WHdPSVJMb1JRMGtpYlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE44Q2ROSW9SbEktcnJzRGltN1dFUldOaGtNQkVQUmJYanpBTU1LYlhlWEJDUkhIUzItTUg4TUU5T1hCVzQ3UFZpZVJTVVNVbWRab1FtYWItOEdXSTJkR0hKdGpwOUJqWEVia2k0MTlyeU1iWDF6LVNpOENB?oc=5).
 
 ## Requirements
 - Python 3.8
