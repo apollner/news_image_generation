@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The life of two Boeing Starliner astronauts stuck indefinitely in space**
+**FBI Wants to Quiz Trump Over Truth About ‘Bullet’ Wound**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3JJUk8zUXRDekpzTDdGa1NxRW9yMkloak02ZG5QYVg5OUdXWHU1ZFVqV3lkMVU3Nk1yV0NxNmJlb3IzRk1ZRDZEUmQ1QVdwTG1FdnI3ajlIRUx6NFR2RkdnOWs5U2g1N3c0YzUtS09ybHA1OWE3dGhobzRMZTlOX0pnRWNrZXl4TThSWVg0c2tNUGVsWlVDcmZqYS0tMmtxVHI5a002Njk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW1Ga3pVTnRaSEtpMW1MSEw4YUZoRFZyd2dDcW5BZWFTVjRFMEZxb0hHRE5aTmNLaThyTGVnZG1UUGlfdTMyazBaSFFYLWdmdkR3bEl4VmtPRGNYeU5pSGxGM2o5SklqT1NRXy1qakV3WHZHaEFTeHRwdWFyc2M2d0cxYlZNWHdUTmRr?oc=5).
 
 ## Requirements
 - Python 3.8
