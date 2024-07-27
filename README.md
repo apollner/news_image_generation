@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The life of two Boeing Starliner astronauts stuck indefinitely in space**
+**Christina Hall initiated Josh Hall divorce, left him ‘blindsided’: report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3JJUk8zUXRDekpzTDdGa1NxRW9yMkloak02ZG5QYVg5OUdXWHU1ZFVqV3lkMVU3Nk1yV0NxNmJlb3IzRk1ZRDZEUmQ1QVdwTG1FdnI3ajlIRUx6NFR2RkdnOWs5U2g1N3c0YzUtS09ybHA1OWE3dGhobzRMZTlOX0pnRWNrZXl4TThSWVg0c2tNUGVsWlVDcmZqYS0tMmtxVHI5a002Njk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2RrT241cHl5ZVMxcGhYUDc0R2RwSGt2TzZ5UlE0Uy04TGR3MnloNkxWYk1XQnMzNXNOY0RvaTBRWUtCNm5UdlR4dzd5UExaV1JPRW9KMUpNSk9JaVRPZ0NMT0VSUHZvS2RWaHZlM2lZWlFsTWpCVk9jQnVqU0VDNnhXVEdSTTJwbXFUUUVscHVpZzdfa09RQ011QU90amhEZ0lzendwZXlSaVlWcEhyMzZLSGJlZw?oc=5).
 
 ## Requirements
 - Python 3.8
