@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Dem who condemned Harris on border endorses her for president**
+**There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wNy8yNi9jb25ncmVzcy9mcm9udGxpbmUtZGVtLWJhY2tzLWhhcnJpcy1jb29wZXItMDAxNzEzNznSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjYvMjQyMDY1MjkvaW50ZWwtMTN0aC0xNHRoLWdlbi1jcmFzaGluZy1pbnN0YWJpbGl0eS1jcHUtdm9sdGFnZS1xLWHSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
