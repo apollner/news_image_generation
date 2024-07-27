@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recall of Boar’s Head deli meats announced during investigation of listeria outbreak**
+**House Dem who condemned Harris on border endorses her for president**
 
-You can read more about it [here](https://apnews.com/article/listeria-outbreak-deli-meat-liverwurst-2ab9ad2db304d829807982a53898cdb1).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9saXZlLXVwZGF0ZXMvMjAyNC8wNy8yNi9jb25ncmVzcy9mcm9udGxpbmUtZGVtLWJhY2tzLWhhcnJpcy1jb29wZXItMDAxNzEzNznSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
