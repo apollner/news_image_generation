@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona Diamondbacks acquire reliever A.J. Puk from Marlins**
+**Diamondbacks Acquire A.J. Puk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3lYd2RmNG9MNndxMEJraFlpUjh5eVkwVlFEQUlKQkdLNUtKanoxYzVEZmJmS21GMmFuUnptVlB1aXhhUFJpODRwUWx1alROVjFQdEFjWnJVN2FqUUtRZlRlNklyT3BJVzhmbGtOOEhsSjVjRTNCUkczNDZaY29VblpSMHJOS3lXNm9ZSFNkVzNIZnNsLUFVcXVkUWZ0MDR1?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE44Q2ROSW9SbEktcnJzRGltN1dFUldOaGtNQkVQUmJYanpBTU1LYlhlWEJDUkhIUzItTUg4TUU5T1hCVzQ3UFZpZVJTVVNVbWRab1FtYWItOEdXSTJkR0hKdGpwOUJqWEVia2k0MTlyeU1iWDF6LVNpOENB?oc=5).
 
 ## Requirements
 - Python 3.8
