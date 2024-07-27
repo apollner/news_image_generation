@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ismael 'El Mayo' Zambada: Mexican drug lord arrested in US**
+**Double mastectomy may offer no survival benefit to women with breast cancer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jNG5nNGczMXgxd2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzRuZzRnMzF4MXdvLmFtcA?oc=5).
+You can read more about it [here](https://medicalxpress.com/news/2024-07-mastectomy-survival-benefit-women-breast.html).
 
 ## Requirements
 - Python 3.8
