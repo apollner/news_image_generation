@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A mysterious pile of bones could hold evidence of Japanese war crimes, activists say**
+**The life of two Boeing Starliner astronauts stuck indefinitely in space**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3ZrQllSMlFvLVpWdVlXVnJZd2hZcTlnTnkyaUtTQXd5LWVOanhJSFJQckdiUmFjSjlOckkzVG5XdFNvZkp4a0JjdHBVTFJvWjlRdGo3VloxMFZTbkFGZHktbkhteG5sSi1iSURyRWhKLW4xeHRYSU9md0dhVEU5MUVlaTdEMDZPbVlXNGxkejBjYnAyU0VYSEpvbjIwYkFBUkFfNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3JJUk8zUXRDekpzTDdGa1NxRW9yMkloak02ZG5QYVg5OUdXWHU1ZFVqV3lkMVU3Nk1yV0NxNmJlb3IzRk1ZRDZEUmQ1QVdwTG1FdnI3ajlIRUx6NFR2RkdnOWs5U2g1N3c0YzUtS09ybHA1OWE3dGhobzRMZTlOX0pnRWNrZXl4TThSWVg0c2tNUGVsWlVDcmZqYS0tMmtxVHI5a002Njk?oc=5).
 
 ## Requirements
 - Python 3.8
