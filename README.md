@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Wants to Quiz Trump Over Truth About ‘Bullet’ Wound**
+**Elon Musk’s transgender child hits back, calls him a ‘cold’ and ‘cruel’ dad who’d scream at her high-pitched voice**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWW1Ga3pVTnRaSEtpMW1MSEw4YUZoRFZyd2dDcW5BZWFTVjRFMEZxb0hHRE5aTmNLaThyTGVnZG1UUGlfdTMyazBaSFFYLWdmdkR3bEl4VmtPRGNYeU5pSGxGM2o5SklqT1NRXy1qakV3WHZHaEFTeHRwdWFyc2M2d0cxYlZNWHdUTmRr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQU5HTERRUk1ER1Awa0NmQVJiemZlU0xQWmxOVG5NaEw0RzBlSlFzRnVkaFF5dVFXRS1vV2pVb3lHUl9SOWhrcGY0TTdRbmlkVmlqandmMjRCcnpBbi04WTJVSmMwOGs4NWpEUi1fR05wMHNFWWhsRGxkMEtqdzNvdE9UMDdFQlc3ZVE4ZQ?oc=5).
 
 ## Requirements
 - Python 3.8
