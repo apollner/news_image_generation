@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent**
+**NASA's Perseverance rover found a rock on Mars that could indicate ancient life**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjYvMjQyMDY1MjkvaW50ZWwtMTN0aC0xNHRoLWdlbi1jcmFzaGluZy1pbnN0YWJpbGl0eS1jcHUtdm9sdGFnZS1xLWHSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LmVuZ2FkZ2V0LmNvbS9uYXNhcy1wZXJzZXZlcmFuY2Utcm92ZXItZm91bmQtYS1yb2NrLW9uLW1hcnMtdGhhdC1jb3VsZC1pbmRpY2F0ZS1hbmNpZW50LWxpZmUtMTUwMDA2MDY0Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
