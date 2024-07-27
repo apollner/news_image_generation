@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM reveals new Chevy Corvette with 1,000-plus horsepower and record top speed**
+**Mars rover discovers an ancient rock with a ‘potential biosignature’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE43UGh1cTgyY0lwcE1BU3J4OE02YjZGS0EtQ1BzWDF5MlFUSHpFVWU2WGR2VEFpMFBCOU9QOVVGUXI4VWdTaXQ5Rzk5UDVVNENqd1BvR3hucTVOUS1USERVZWJXOF9RS2VYRnhpUlBqQ1lBVGNoMTZBcmln0gF_QVVfeXFMTTJLM2djTnFGRVE0NEFXeDljd3h2MUN6Q2IxT0Y4a1M5SHpXeEYtMFB5NHd4cGw4ZmtnNWJBMEgxOTc5bEV1WDBvcXRWd1RHTnZHRW00TUFMYXg5cTRYLU5RMURobHdQRldqVTJtT3ZzYVRwcmxjMndOVXB3Ymc2QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xOEppMlRKc1BsRUxRd2dIdzB5aGhQTTN2d3dvejg5OVFUS2lvRHJRUFhmekZxYy16VDdmSkZyUzRJbnZtT3hCX1dvZS1Cb3Z0NHBJenJES2JFdjQzQmFrN2JpTjB0Y0NFc2RMLXhZX25XeGxQUEFSa19NUQ?oc=5).
 
 ## Requirements
 - Python 3.8
