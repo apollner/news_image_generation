@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fast-Moving Wildfire Ravages Canadian Town Of Jasper**
+**Harris says she won’t be ‘silent’ on Gaza suffering after Netanyahu meeting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1VYLTRBMzRKelFwc2xfQVBXMEpFZFFIUTEwT005M2w2QTBVVW93ZWJRU01oTjFXcjVuY2wxVVY2enpwaDB4NU9IRXlBbWFHUk5mZVpnY2o1Vm9OMDdzSHY1WVpWSWZ6RmJtbFhqbUF2ZURQYjA5NkZHaklkTjY4RmwteGZMRlRINzZjZ1B0X1k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYmtuelRmZklrTlV6RGVkSkp4T0NWOHktLTdZeFAwQXQ5aVRsTGM4T2NoV0x4V2RTelBpTy1kQU9nN0wyeHA2NElJcnplQXgxOFVMcmliTVVrQ0huRmdfYUFDSGpvRkRTc2kzRzVfd0NyZGlRQk41NG5rZUlqdFJxc0FKQmwyQ1FzRVc2dUpfblRST24ydkY5ZU5TcVJQWllDb0w4OUEwSV81bGtVbnBPZjhVONIBuAFBVV95cUxNQm1rUEtEaDBDM1FONDNhZVp3TUZOemplR1JTcGJjYXFLemhLem50YlRhVkExUU4wRlJSNHZ4MWlfalBqTlZ5RHVOblZULVlqMm1wSE5IRUJGQzdtbGx0M3FKUS10U3RmbGN5TFpsV2p3bU1fVDBuRV9pbnJPMmJWajZGRzgzQm9YLThNSzlCc2NrWm15TEphaURUTjVIcTRKQUgxZXZXQlJJUExEdUZ4cXZFSy11Q0kt?oc=5).
 
 ## Requirements
 - Python 3.8
