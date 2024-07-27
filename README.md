@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Corvette ZR1 revealed: Inside the car's 'mind-blowing' specs**
+**Ismael 'El Mayo' Zambada: Mexican drug lord arrested in US**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSlRzQ1c0djR5YnIzdmlROFNLUGhpb1A4YWxhd1ZUTG0xeWRxd3Blb3R1ai1NdzBYUnczdUNYSzNHLV80RmNFM3oxLXRmZUphdUh2b2xrY21Ra3J6bEx6VENOSlNfR2Z0ZDFzZHhlMGVnOXhiTVpvWHFQRDFwVUtfOFBUWTJZX0Q1aUtjbDIySU95N004eWpIWlBWZklPcnRZVXEw0gGoAUFVX3lxTFBFUVJOMEJiamF5al81TU5aRndNek5Gb2dRRExBVVBaek5LMl8yZm53RFlJZ05GS0ZSRGZ0Q3JueWc5dGdUOGZuY1hwaWZSR0w4aF8xbGZZdHhhVVB1aFVkM3I3UXVIM3lNSExSOWxNTjBvOXRHVGFVR0xoZFExd21qX2ZCa0lyMVMwUmhhNGVtcFdqd1dvU0JLQ2RmV1ZLTFlvWENWZGwzSg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zMzZmLWtQcFNTMVNrcXlOMG85RXlVUlh2eGp4SHF6RjJTX3hwa2hDcHRCSXhFTHRKaVBnWGJFLW9XbTh6T3dMOXdGQ0lyeUFOVURBYk5DZHRZUdIBX0FVX3lxTFBKQmp3QlVIbF90TElVVGpldGVVa1A1b2l0eFA2amtCbS1hSU5FMTBlMEJDVzZVSWkzaXpCZGl0MFUwZ05kNEJSZlNNVjU4Ti1Ic0YtaV9HUE1LR2daNGNv?oc=5).
 
 ## Requirements
 - Python 3.8
