@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Deadpool & Wolverine’ Star Dafne Keen Breaks Down Her Emotional Reunion with Hugh Jackman**
+**The life of two Boeing Starliner astronauts stuck indefinitely in space**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3JJUk8zUXRDekpzTDdGa1NxRW9yMkloak02ZG5QYVg5OUdXWHU1ZFVqV3lkMVU3Nk1yV0NxNmJlb3IzRk1ZRDZEUmQ1QVdwTG1FdnI3ajlIRUx6NFR2RkdnOWs5U2g1N3c0YzUtS09ybHA1OWE3dGhobzRMZTlOX0pnRWNrZXl4TThSWVg0c2tNUGVsWlVDcmZqYS0tMmtxVHI5a002Njk?oc=5).
 
 ## Requirements
 - Python 3.8
