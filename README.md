@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX says it’s fixed the Falcon 9 and will resume launches tomorrow**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LnRoZXZlcmdlLmNvbS8yMDI0LzcvMjYvMjQyMDY5NTIvc3BhY2V4LWZhbGNvbi05LXJlc3VtZS1mbGlnaHQtZmFh0gEA?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
