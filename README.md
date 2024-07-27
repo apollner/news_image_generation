@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars rover discovers an ancient rock with a ‘potential biosignature’**
+**Elon Musk’s Daughter Rips Into Him After Anti-Trans Rant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE9xOEppMlRKc1BsRUxRd2dIdzB5aGhQTTN2d3dvejg5OVFUS2lvRHJRUFhmekZxYy16VDdmSkZyUzRJbnZtT3hCX1dvZS1Cb3Z0NHBJenJES2JFdjQzQmFrN2JpTjB0Y0NFc2RMLXhZX25XeGxQUEFSa19NUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY3ZJMzFwN3dsd1hVblItTk5TM2k3RXg4cUhXU2ZzbmRyNHRkTkN6ZGgtYlNtR1BOWW9VSndYbHhUVmlTWjI4WUpkS2VQSGtmYXI5Z3pWdnRTd1ByTDRrZ3hhMWlFZHAxdUpXZFFIOTNrbEtaZ0g2bG9BRDlleEdxTXhfSFJpMVZXVjNoS21TQmtpQnpCRkVyV3lwTzQteDFoUTlZb3hBbEk?oc=5).
 
 ## Requirements
 - Python 3.8
