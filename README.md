@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PCE Inflation Gauge Slips to 2.5% in June**
+**US operation to capture Sinaloa cartel leaders had the help of one of the captured men: a son of ‘El Chapo,’ official says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFodHRwczovL3d3dy53c2ouY29tL2xpdmVjb3ZlcmFnZS9zdG9jay1tYXJrZXQtdG9kYXktZWFybmluZ3MtZG93LXNwNTAwLW5hc2RhcS1saXZlLTA3LTI2LTIwMjQvY2FyZC9wY2UtaW5mbGF0aW9uLWdhdWdlLXNsaXBzLXRvLTItNS1pbi1qdW5lLUhUdTBaU1JHaUN4aU1ac1VwT3g40gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNS91cy9zaW5hbG9hLWNhcnRlbC1pc21hZWwtemFtYmFkYS1jdXN0b2R5LXJlcG9ydC9pbmRleC5odG1s0gFSaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yNS91cy9zaW5hbG9hLWNhcnRlbC1pc21hZWwtemFtYmFkYS1jdXN0b2R5LXJlcG9ydA?oc=5).
 
 ## Requirements
 - Python 3.8
