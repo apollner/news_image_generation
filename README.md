@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Son of 'El Chapo' and Sinaloa Cartel co-founder 'El Mayo' arrested in Texas**
+**Recall of Boar’s Head deli meats announced during investigation of listeria outbreak**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMEZqMlg4TExBbzloSlJtVWt6TkxPdWpOOURaVGg2R2pZQWZ6MDhaR0VQUzc1X19VTm1wbVBlY1l3WHNoVFlyTGVONHFOTUdwYWNNMURWQk1QZ25PbUVNYmJKeFRNUDBBMktkVEFwcEVFQWd3M1BYamp2M2lEOXNTZFNaVnlHLTBxNFpYdXVQcnFNc2laam51azZRMkRsQ0tlM0U1XzF1ZTTSAVZBVV95cUxQaGd4dlZFLUlMMDNJLWl2T3lub3lKWWVGZWZ1U0ZBbjJNN3owZlBxUE53TkdhaGRRd0F6amI2MTNESHctUzlqVGVTLUNiSFpUSC1yeDFLZw?oc=5).
+You can read more about it [here](https://apnews.com/article/listeria-outbreak-deli-meat-liverwurst-2ab9ad2db304d829807982a53898cdb1).
 
 ## Requirements
 - Python 3.8
