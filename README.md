@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doug Emhoff blasts JD Vance after he called Kamala Harris 'childless'**
+**G20 agrees to work to effectively tax the superrich**
 
-You can read more about it [here](https://www.businessinsider.com/doug-emhoff-jd-vance-kamala-harris-childless-cat-lady-response-2024-7).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9nMjAtYWdyZWVzLXRvLXdvcmstdG8tZWZmZWN0aXZlbHktdGF4LXRoZS1zdXBlcnJpY2gvYS02OTc4NTYxMdIBVGh0dHBzOi8vYW1wLmR3LmNvbS9lbi9nMjAtYWdyZWVzLXRvLXdvcmstdG8tZWZmZWN0aXZlbHktdGF4LXRoZS1zdXBlcnJpY2gvYS02OTc4NTYxMQ?oc=5).
 
 ## Requirements
 - Python 3.8
