@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Feels ‘Upset’ by Halsey’s ‘Lucky’ Video: ‘Downright Cruel’**
+**Clear Encampments? Mind Your Own Business, Los Angeles Says.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3LnJvbGxpbmdzdG9uZS5jb20vbXVzaWMvbXVzaWMtbmV3cy9icml0bmV5LXNwZWFycy11cHNldC1oYWxzZXktbHVja3ktdmlkZW8tMTIzNTA2OTIzNS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvdXMvaG9tZWxlc3MtZW5jYW1wbWVudHMtbmV3c29tLWxvcy1hbmdlbGVzLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
