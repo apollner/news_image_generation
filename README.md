@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump vows to keep doing outdoor campaign rallies after shooting**
+**France trains cancelled as hunt for vandals continues**
 
-You can read more about it [here](https://www.axios.com/2024/07/27/trump-outdoor-rally-shooting-safety).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jeTA4ZHA0a2w5bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3kwOGRwNGtsOW1vLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
