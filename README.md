@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Their acne medications set off a rare chain reaction that killed them**
+**SpaceX Falcon 9 successfully launches from Florida after hiatus**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/27/fatal-drug-reaction-acne-dress/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvc3BhY2V4LWZhbGNvbi05LWxhdW5jaC1mbG9yaWRhLWhpYXR1cy82MTcxNTQ2M9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
