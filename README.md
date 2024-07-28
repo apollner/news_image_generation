@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California’s largest wildfire explodes in size as fires rage across US West**
+**At least 30 killed and over 100 injured in an Israeli airstrike on a school in Gaza, Palestinian officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VzLXdpbGRmaXJlcy1jYWxpZm9ybmlhLW9yZWdvbi00ZmYwZTUxODM3MTE5YTMyY2M4MDVlZmM0Njk2N2M5NNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9taWRkbGVlYXN0L2lzcmFlbC1nYXphLWRlaXItYWwtYmFsYWgtc2Nob29sLWludGwvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjcvbWlkZGxlZWFzdC9pc3JhZWwtZ2F6YS1kZWlyLWFsLWJhbGFoLXNjaG9vbC1pbnRs?oc=5).
 
 ## Requirements
 - Python 3.8
