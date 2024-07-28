@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 304 Embedded: Vlog Series - Episode 6**
+**Homeless people say they will likely return to sites if California clears them under Newsom's order**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0VBem8xZ0FTSDlVmAEB?oc=5).
+You can read more about it [here](https://apnews.com/article/newsom-homeless-encampments-executive-order-california-2662950aff68182025a959b7d8a1b366).
 
 ## Requirements
 - Python 3.8
