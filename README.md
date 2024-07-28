@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple agrees to first US labor deal**
+**Yankees acquire Jazz Chisholm Jr. from Marlins for prospects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9idXNpbmVzcy9hcHBsZS11bmlvbi1sYWJvci1hZ3JlZW1lbnQvaW5kZXguaHRtbNIBR2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjcvYnVzaW5lc3MvYXBwbGUtdW5pb24tbGFib3ItYWdyZWVtZW50?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NjI5MDUvMjAyNC8wNy8yNy95YW5rZWVzLW1hcmxpbnMtamF6ei1jaGlzaG9sbS10cmFkZS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
