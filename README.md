@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel issues fresh evacuation order in Gaza’s Khan Younis after renewed offensive displaces tens of thousands**
+**Three members of Gospel Music Hall of Fame quartet The Nelons among 7 killed in Wyoming plane crash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2lzcmFlbC13YXJucy1mb3JjZWZ1bGx5LW9wZXJhdGUtcGFydC0wNzE5MzUwMDcuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L21lbWJlcnMtZ29zcGVsLW11c2ljLWhhbGwtZmFtZS1xdWFydGV0LW5lbG9ucy03LTExMjMyODEyN9IBYWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3dpcmVTdG9yeS9tZW1iZXJzLWdvc3BlbC1tdXNpYy1oYWxsLWZhbWUtcXVhcnRldC1uZWxvbnMtNy0xMTIzMjgxMjc?oc=5).
 
 ## Requirements
 - Python 3.8
