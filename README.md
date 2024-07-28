@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ismael 'El Mayo' Zambada: How US caught drug kingpin after 35 years**
+**Priti Patel vows to get Tories 'match fit' in leadership bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXJ3eWwyeDA1MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzFyd3lsMngwNTBvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmxreTd6NzUzMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJsa3k3ejc1MzFvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
