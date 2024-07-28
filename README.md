@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA Diving's Sarah Bacon and Kassidy Cook win Olympic silver in Paris**
+**SpaceX, NASA to launch Crew-9 mission next month**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8yNy9wYXJpcy1vbHltcGljcy0yMDI0LWRpdmluZy1zYXJhaC1iYWNvbi1rYXNzaWR5LWNvb2svNzQ1MjQxOTIwMDcv0gEA?oc=5).
+You can read more about it [here](https://www.aol.com/news/spacex-nasa-launch-crew-9-221526204.html).
 
 ## Requirements
 - Python 3.8
