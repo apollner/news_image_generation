@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orioles bolster rotation in deal with Rays for Eflin**
+**Celine Dion Gives First Public Performance Amid Stiff-Person Syndrome Diagnosis at Olympics Opening Ceremony**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy96YWNoLWVmbGluLXRyYWRlZC10by1vcmlvbGVz0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9tdXNpYy1uZXdzL2NlbGluZS1kaW9uLXJldHVybi1wZXJmb3JtYW5jZS1vbHltcGljcy1saXZlLXN0aWZmLXBlcnNvbi1zeW5kcm9tZS0xMjM1OTIwMTgxL9IBhAFodHRwczovL3d3dy5ob2xseXdvb2RyZXBvcnRlci5jb20vbmV3cy9tdXNpYy1uZXdzL2NlbGluZS1kaW9uLXJldHVybi1wZXJmb3JtYW5jZS1vbHltcGljcy1saXZlLXN0aWZmLXBlcnNvbi1zeW5kcm9tZS0xMjM1OTIwMTgxL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
