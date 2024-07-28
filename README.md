@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerful cartel leader was duped by El Chapo's son into flying to U.S., sources say**
+**Google Pixel 9 Pro cases and official promo videos leak - GSMArena.com news**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc2luYWxvYS1jYXJ0ZWwtYXJyZXN0LWlzbWFlbC16YW1iYWRhLWpvYXF1aW4tZ3V6bWFuLWxlYWRlci13YXMtZHVwZWQtYnktZWwtY2hhcG9zLXNvbi_SAXdodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9zaW5hbG9hLWNhcnRlbC1hcnJlc3QtaXNtYWVsLXphbWJhZGEtam9hcXVpbi1ndXptYW4tbGVhZGVyLXdhcy1kdXBlZC1ieS1lbC1jaGFwb3Mtc29uLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9nb29nbGVfcGl4ZWxfOV9wcm9fY2FzZXNfYW5kX29mZmljaWFsX3Byb21vX21hdGVyaWFsc19sZWFrLW5ld3MtNjM4NjcucGhw0gFfaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS9nb29nbGVfcGl4ZWxfOV9wcm9fY2FzZXNfYW5kX29mZmljaWFsX3Byb21vX21hdGVyaWFsc19sZWFrLWFtcC02Mzg2Ny5waHA?oc=5).
 
 ## Requirements
 - Python 3.8
