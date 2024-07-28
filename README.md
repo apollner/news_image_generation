@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three members of Gospel Music Hall of Fame quartet The Nelons among 7 killed in Wyoming plane crash**
+**California’s largest wildfire explodes in size as fires rage across US West**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvd2lyZVN0b3J5L21lbWJlcnMtZ29zcGVsLW11c2ljLWhhbGwtZmFtZS1xdWFydGV0LW5lbG9ucy03LTExMjMyODEyN9IBYWh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL3dpcmVTdG9yeS9tZW1iZXJzLWdvc3BlbC1tdXNpYy1oYWxsLWZhbWUtcXVhcnRldC1uZWxvbnMtNy0xMTIzMjgxMjc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VzLXdpbGRmaXJlcy1jYWxpZm9ybmlhLW9yZWdvbi00ZmYwZTUxODM3MTE5YTMyY2M4MDVlZmM0Njk2N2M5NNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
