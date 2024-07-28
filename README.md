@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fox News Poll: Close races in battleground states show voters locked in**
+**Doug Emhoff blasts JD Vance after he called Kamala Harris 'childless'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vd3d3LmZveG5ld3MuY29tL29mZmljaWFsLXBvbGxzL2ZveC1uZXdzLXBvbGwtY2xvc2UtcmFjZXMtYmF0dGxlZ3JvdW5kLXN0YXRlcy1zaG93LXZvdGVycy1sb2NrZWTSAWtodHRwczovL3d3dy5mb3huZXdzLmNvbS9vZmZpY2lhbC1wb2xscy9mb3gtbmV3cy1wb2xsLWNsb3NlLXJhY2VzLWJhdHRsZWdyb3VuZC1zdGF0ZXMtc2hvdy12b3RlcnMtbG9ja2VkLmFtcA?oc=5).
+You can read more about it [here](https://www.businessinsider.com/doug-emhoff-jd-vance-kamala-harris-childless-cat-lady-response-2024-7).
 
 ## Requirements
 - Python 3.8
