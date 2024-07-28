@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael C. Hall Attempts to Explain How Dexter Can Return in ‘Resurrection’ After Dying in ‘New Blood’**
+**Trump tells Christian voters "they won't have to vote anymore" if he is elected in November**
 
-You can read more about it [here](https://variety.com/2024/tv/news/dexter-dead-michael-c-hall-resurrection-1236087604/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZG9uYWxkLXRydW1wLWNocmlzdGlhbi12b3RlcnMtdHVybmluZy1wb2ludC1hY3Rpb24v0gFUaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZG9uYWxkLXRydW1wLWNocmlzdGlhbi12b3RlcnMtdHVybmluZy1wb2ludC1hY3Rpb24v?oc=5).
 
 ## Requirements
 - Python 3.8
