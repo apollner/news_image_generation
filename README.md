@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon 9 successfully launches from Florida after hiatus**
+**Rocket attack on town in Israeli-controlled Golan Heights kills at least 10, rescue official says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvc3BhY2V4LWZhbGNvbi05LWxhdW5jaC1mbG9yaWRhLWhpYXR1cy82MTcxNTQ2M9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvaXNyYWVsLWhlemJvbGxhaC1maXJlLWV4Y2hhbmdlLWtpbGxzLTMtbWlsaXRhbnRzLWluanVyZXMtMTEyMzMyODYy0gF1aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvaXNyYWVsLWhlemJvbGxhaC1maXJlLWV4Y2hhbmdlLWtpbGxzLTMtbWlsaXRhbnRzLWluanVyZXMtMTEyMzMyODYy?oc=5).
 
 ## Requirements
 - Python 3.8
