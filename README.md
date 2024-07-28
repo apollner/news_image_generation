@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Homeless people say they will likely return to sites if California clears them under Newsom's order**
+**Michael C. Hall Returning To ‘Dexter’ Universe For New Series ‘Resurrection’ & ‘Original Sin’ – Comic-Con**
 
-You can read more about it [here](https://apnews.com/article/newsom-homeless-encampments-executive-order-california-2662950aff68182025a959b7d8a1b366).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvbWljaGFlbC1jLWhhbGwtcmV0dXJuaW5nLWRleHRlci1yZXN1cnJlY3Rpb24tb3JpZ2luYWwtc2luLXNlcmllcy0xMjM2MDI0MjQwL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
