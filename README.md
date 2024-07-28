@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rain and cooler weather bring relief from Jasper fire**
+**Firefighters get some help from cooler temperatures after California's largest wildfire explodes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcWU2MTk4NnBucG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3FlNjE5ODZwbnBvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VzLXdpbGRmaXJlcy1jYWxpZm9ybmlhLW9yZWdvbi00ZmYwZTUxODM3MTE5YTMyY2M4MDVlZmM0Njk2N2M5NNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
