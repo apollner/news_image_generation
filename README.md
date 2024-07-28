@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX, NASA to launch Crew-9 mission next month**
+**Israel issues fresh evacuation order in Gaza’s Khan Younis after renewed offensive displaces tens of thousands**
 
-You can read more about it [here](https://www.aol.com/news/spacex-nasa-launch-crew-9-221526204.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vd3d3LnlhaG9vLmNvbS9uZXdzL2lzcmFlbC13YXJucy1mb3JjZWZ1bGx5LW9wZXJhdGUtcGFydC0wNzE5MzUwMDcuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
