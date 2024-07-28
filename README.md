@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Priti Patel vows to get Tories 'match fit' in leadership bid**
+**Michael C. Hall Attempts to Explain How Dexter Can Return in ‘Resurrection’ After Dying in ‘New Blood’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmxreTd6NzUzMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJsa3k3ejc1MzFvLmFtcA?oc=5).
+You can read more about it [here](https://variety.com/2024/tv/news/dexter-dead-michael-c-hall-resurrection-1236087604/).
 
 ## Requirements
 - Python 3.8
