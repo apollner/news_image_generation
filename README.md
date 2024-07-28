@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 30 killed and over 100 injured in an Israeli airstrike on a school in Gaza, Palestinian officials say**
+**Their acne medications set off a rare chain reaction that killed them**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9taWRkbGVlYXN0L2lzcmFlbC1nYXphLWRlaXItYWwtYmFsYWgtc2Nob29sLWludGwvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjcvbWlkZGxlZWFzdC9pc3JhZWwtZ2F6YS1kZWlyLWFsLWJhbGFoLXNjaG9vbC1pbnRs?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/07/27/fatal-drug-reaction-acne-dress/).
 
 ## Requirements
 - Python 3.8
