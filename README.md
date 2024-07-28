@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**G20 agrees to work to effectively tax the superrich**
+**Dow surges 650 points as stock market snaps back**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmR3LmNvbS9lbi9nMjAtYWdyZWVzLXRvLXdvcmstdG8tZWZmZWN0aXZlbHktdGF4LXRoZS1zdXBlcnJpY2gvYS02OTc4NTYxMdIBVGh0dHBzOi8vYW1wLmR3LmNvbS9lbi9nMjAtYWdyZWVzLXRvLXdvcmstdG8tZWZmZWN0aXZlbHktdGF4LXRoZS1zdXBlcnJpY2gvYS02OTc4NTYxMQ?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/07/26/dow-stock-market-rally/).
 
 ## Requirements
 - Python 3.8
