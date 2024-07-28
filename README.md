@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael C. Hall Returning To ‘Dexter’ Universe For New Series ‘Resurrection’ & ‘Original Sin’ – Comic-Con**
+**Who are Cole and Ella Emhoff? Harris' stepchildren in the spotlight after Vance’s 'childless' comments**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvbWljaGFlbC1jLWhhbGwtcmV0dXJuaW5nLWRleHRlci1yZXN1cnJlY3Rpb24tb3JpZ2luYWwtc2luLXNlcmllcy0xMjM2MDI0MjQwL9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYXNpYW4tYW1lcmljYS9jb2xlLWVsbGEtZW1ob2ZmLWthbWFsYS1oYXJyaXMtdmFuY2UtY2hpbGRsZXNzLXJjbmExNjM4MjDSAStodHRwczovL3d3dy5uYmNuZXdzLmNvbS9uZXdzL2FtcC9yY25hMTYzODIw?oc=5).
 
 ## Requirements
 - Python 3.8
