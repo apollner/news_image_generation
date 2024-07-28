@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firefighters get some help from cooler temperatures after California's largest wildfire explodes**
+**Priti Patel vows to get Tories 'match fit' in leadership bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VzLXdpbGRmaXJlcy1jYWxpZm9ybmlhLW9yZWdvbi00ZmYwZTUxODM3MTE5YTMyY2M4MDVlZmM0Njk2N2M5NNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMmxreTd6NzUzMW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzJsa3k3ejc1MzFvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
