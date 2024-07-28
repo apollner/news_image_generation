@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ismael 'El Mayo' Zambada: How US caught drug kingpin after 35 years**
+**Mega Millions winning numbers for July 26 drawing: Jackpot now worth $306 million**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXJ3eWwyeDA1MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzFyd3lsMngwNTBvLmFtcA?oc=5).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/07/26/mega-millions-winning-numbers/74565363007/).
 
 ## Requirements
 - Python 3.8
