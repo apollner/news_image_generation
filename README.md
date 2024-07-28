@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rocket attack on town in Israeli-controlled Golan Heights kills at least 10, rescue official says**
+**Trump vows to keep doing outdoor campaign rallies after shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYWJjbmV3cy5nby5jb20vSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvaXNyYWVsLWhlemJvbGxhaC1maXJlLWV4Y2hhbmdlLWtpbGxzLTMtbWlsaXRhbnRzLWluanVyZXMtMTEyMzMyODYy0gF1aHR0cHM6Ly9hYmNuZXdzLmdvLmNvbS9hbXAvSW50ZXJuYXRpb25hbC93aXJlU3RvcnkvaXNyYWVsLWhlemJvbGxhaC1maXJlLWV4Y2hhbmdlLWtpbGxzLTMtbWlsaXRhbnRzLWluanVyZXMtMTEyMzMyODYy?oc=5).
+You can read more about it [here](https://www.axios.com/2024/07/27/trump-outdoor-rally-shooting-safety).
 
 ## Requirements
 - Python 3.8
