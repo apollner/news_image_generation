@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump welcomes Netanyahu to Mar-a-Lago, mending his relationship with a key political ally**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLW5ldGFueWFodS1nYXphLXdhci1pc3JhZWwtM2Q3YTZiNDcwNjBmYmU1MWY2NmQ4MjEwNGFjNWUxYWHSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
