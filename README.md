@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celine Dion closes the Olympic Opening Ceremony with a courageous tour de force | NBC Sports**
+**UFC 304 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC3NtS3FNaUdYeGw0mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0VBem8xZ0FTSDlVmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
