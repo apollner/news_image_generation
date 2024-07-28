@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump welcomes Netanyahu to Mar-a-Lago, mending his relationship with a key political ally**
+**Powerful cartel leader was duped by El Chapo's son into flying to U.S., sources say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3RydW1wLW5ldGFueWFodS1nYXphLXdhci1pc3JhZWwtM2Q3YTZiNDcwNjBmYmU1MWY2NmQ4MjEwNGFjNWUxYWHSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3Mvc2luYWxvYS1jYXJ0ZWwtYXJyZXN0LWlzbWFlbC16YW1iYWRhLWpvYXF1aW4tZ3V6bWFuLWxlYWRlci13YXMtZHVwZWQtYnktZWwtY2hhcG9zLXNvbi_SAXdodHRwczovL3d3dy5jYnNuZXdzLmNvbS9hbXAvbmV3cy9zaW5hbG9hLWNhcnRlbC1hcnJlc3QtaXNtYWVsLXphbWJhZGEtam9hcXVpbi1ndXptYW4tbGVhZGVyLXdhcy1kdXBlZC1ieS1lbC1jaGFwb3Mtc29uLw?oc=5).
 
 ## Requirements
 - Python 3.8
