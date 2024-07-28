@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees acquire Jazz Chisholm Jr. from Marlins for prospects**
+**Firefighters get some help from cooler temperatures after California's largest wildfire explodes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NjI5MDUvMjAyNC8wNy8yNy95YW5rZWVzLW1hcmxpbnMtamF6ei1jaGlzaG9sbS10cmFkZS_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VzLXdpbGRmaXJlcy1jYWxpZm9ybmlhLW9yZWdvbi00ZmYwZTUxODM3MTE5YTMyY2M4MDVlZmM0Njk2N2M5NNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
