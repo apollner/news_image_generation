@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clear Encampments? Mind Your Own Business, Los Angeles Says.**
+**Ismael 'El Mayo' Zambada: How US caught drug kingpin after 35 years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjYvdXMvaG9tZWxlc3MtZW5jYW1wbWVudHMtbmV3c29tLWxvcy1hbmdlbGVzLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXJ3eWwyeDA1MG_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzFyd3lsMngwNTBvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
