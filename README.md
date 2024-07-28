@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Falcon 9 successfully launches from Florida after hiatus**
+**Earnings Derail Stock Rally Over Doubts on AI, Consumer Strength**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiS2h0dHBzOi8vd3d3Lndlc2guY29tL2FydGljbGUvc3BhY2V4LWZhbGNvbi05LWxhdW5jaC1mbG9yaWRhLWhpYXR1cy82MTcxNTQ2M9IBAA?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-07-27/earnings-derail-stock-rally-over-doubts-on-ai-consumer-strength).
 
 ## Requirements
 - Python 3.8
