@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 Pro cases and official promo videos leak - GSMArena.com news**
+**Orioles bolster rotation in deal with Rays for Eflin**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS9nb29nbGVfcGl4ZWxfOV9wcm9fY2FzZXNfYW5kX29mZmljaWFsX3Byb21vX21hdGVyaWFsc19sZWFrLW5ld3MtNjM4NjcucGhw0gFfaHR0cHM6Ly9tLmdzbWFyZW5hLmNvbS9nb29nbGVfcGl4ZWxfOV9wcm9fY2FzZXNfYW5kX29mZmljaWFsX3Byb21vX21hdGVyaWFsc19sZWFrLWFtcC02Mzg2Ny5waHA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiNWh0dHBzOi8vd3d3Lm1sYi5jb20vbmV3cy96YWNoLWVmbGluLXRyYWRlZC10by1vcmlvbGVz0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
