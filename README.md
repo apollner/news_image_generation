@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sinead O’Connor’s exact cause of death finally revealed**
+**A tale of two foldables**
 
-You can read more about it [here](https://nypost.com/2024/07/28/entertainment/sinead-oconnors-exact-cause-of-death-finally-revealed/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOC9hLXRhbGUtb2YtdHdvLWZvbGRhYmxlcy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
