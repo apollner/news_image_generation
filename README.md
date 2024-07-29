@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris calls herself an underdog with momentum during a fundraiser speech**
+**‘Deadpool & Wolverine’ fuels an already hot summer box office, opens at $96 million**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8yNy9ueC1zMS01MDU0MzU5L2thbWFsYS1oYXJyaXMtZnVuZHJhaXNlci1tYXNzYWNodXNldHRzLXRydW1w0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNy9idXNpbmVzcy9kZWFkcG9vbC1hbmQtd29sdmVyaW5lLWJveC1vZmZpY2Utb3BlbmluZy13ZWVrZW5kL2luZGV4Lmh0bWzSAV1odHRwczovL2FtcC5jbm4uY29tL2Nubi8yMDI0LzA3LzI3L2J1c2luZXNzL2RlYWRwb29sLWFuZC13b2x2ZXJpbmUtYm94LW9mZmljZS1vcGVuaW5nLXdlZWtlbmQ?oc=5).
 
 ## Requirements
 - Python 3.8
