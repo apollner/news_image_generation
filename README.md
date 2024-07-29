@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Deadpool & Wolverine’ Lands 8th Biggest Opening of All Time With $205M, Makes R-Rated History**
+**Bianca Censori Wears Tiny Shorts, Takes North West to 'Deadpool 3' with Kanye**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9kZWFkcG9vbC13b2x2ZXJpbmUtYm94LW9mZmljZS1yZWNvcmQtMjA1bS1vcGVuaW5nLTEyMzU5NjAzMjUv0gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL21vdmllcy9tb3ZpZS1uZXdzL2RlYWRwb29sLXdvbHZlcmluZS1ib3gtb2ZmaWNlLXJlY29yZC0yMDVtLW9wZW5pbmctMTIzNTk2MDMyNS9hbXAv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRtei5jb20vMjAyNC8wNy8yOC9rYW55ZS13ZXN0LWJpYW5jYS1jZW5zb3JpLXRpbnktc2hvcnRzLXRha2Utbm9ydGgtd2VzdC1kZWFkcG9vbC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
