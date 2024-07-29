@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A tale of two foldables**
+**Harris sees boost in favorability after Biden drops out of race: POLL**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOC9hLXRhbGUtb2YtdHdvLWZvbGRhYmxlcy_SAQA?oc=5).
+You can read more about it [here](https://abcnews.go.com/Politics/harris-sees-boost-favorability-after-biden-drops-race/story?id=112306763).
 
 ## Requirements
 - Python 3.8
