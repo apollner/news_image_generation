@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elderly couple files first lawsuit in Boar’s Head’s multistate listeria outbreak over ‘damage to the marital relationship’**
+**3 members of Gospel Music Hall of Fame quartet The Nelons among 7 killed in Wyoming plane crash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzI3L3VzLW5ld3MvYm9hcnMtaGVhZHMtc3VlZC1vdmVyLW11bHRpc3RhdGUtbGlzdGVyaWEtb3V0YnJlYWsv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdGhlLW5lbG9ucy1nb3NwZWwtcXVhcnRldC1hbW9uZy03LWtpbGxlZC1pbi13eW9taW5nLXBsYW5lLWNyYXNoL9IBYWh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3RoZS1uZWxvbnMtZ29zcGVsLXF1YXJ0ZXQtYW1vbmctNy1raWxsZWQtaW4td3lvbWluZy1wbGFuZS1jcmFzaC8?oc=5).
 
 ## Requirements
 - Python 3.8
