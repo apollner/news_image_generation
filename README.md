@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Elon Musk Broke With Biden and the Democrats**
+**A tale of two foldables**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/how-elon-musk-broke-with-biden-and-the-democrats-4960b7d8).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOC9hLXRhbGUtb2YtdHdvLWZvbGRhYmxlcy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
