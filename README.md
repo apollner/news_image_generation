@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department accuses TikTok of gathering American user data on social issues like abortion, gun control**
+**National Chicken Wing Day deals: Get free wings at Wingstop, Buffalo Wild Wings, more**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9qdXN0aWNlLWRlcGFydG1lbnQtYWNjdXNlcy10aWt0b2stZ2F0aGVyaW5nLWFtZXJpY2FuLXVzZXItZGF0YS1zb2NpYWwtaXNzdWVzLWxpa2UtYWJvcnRpb24tZ3VuLWNvbnRyb2zSAZEBaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL3RlY2hub2xvZ3kvanVzdGljZS1kZXBhcnRtZW50LWFjY3VzZXMtdGlrdG9rLWdhdGhlcmluZy1hbWVyaWNhbi11c2VyLWRhdGEtc29jaWFsLWlzc3Vlcy1saWtlLWFib3J0aW9uLWd1bi1jb250cm9sLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9tb25leS9mb29kLzIwMjQvMDcvMjgvbmF0aW9uYWwtY2hpY2tlbi13aW5nLWRheS0yMDI0LWRlYWxzLWZyZWUvNzQxMzkxMDUwMDcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
