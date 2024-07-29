@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel retaliates in Lebanon after strike on Golan Heights soccer field kills at least 12**
+**Trump’s ‘won’t have to vote anymore’ remark didn’t mean anything, Chris Sununu claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3Mvd29ybGQvaXNyYWVsLXJldGFsaWF0ZXMtbGViYW5vbi1zdHJpa2Utc29jY2VyLWZpZWxkLWdvbGFuLWhlaWdodHMtcmNuYTE2Mzk1M9IBK2h0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25ld3MvYW1wL3JjbmExNjM5NTM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjgvdHJ1bXAtd29udC1oYXZlLXRvLXZvdGUtYW55bW9yZS1zdW51bnUtMDAxNzE1MjnSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
