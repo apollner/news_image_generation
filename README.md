@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Main Card Results | UFC 304: Edwards vs Muhammad 2**
+**Lithium Battery Fire Traps Drivers in Sweltering Heat on California Highway**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-304-edwards-vs-muhammad-2).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjcvdXMvYmF0dGVyeS1maXJlLXRyYWZmaWMtbmV2YWRhLWNhbGlmb3JuaWEuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
