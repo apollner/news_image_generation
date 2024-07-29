@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Main Card Results | UFC 304: Edwards vs Muhammad 2**
+**Three Members of Grammy-Nominated Band Die in Plane Crash**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-304-edwards-vs-muhammad-2).
+You can read more about it [here](https://www.thedailybeast.com/three-members-of-grammy-nominated-band-die-the-nelons-in-plane-crash).
 
 ## Requirements
 - Python 3.8
