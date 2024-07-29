@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bianca Censori Wears Tiny Shorts, Takes North West to 'Deadpool 3' with Kanye**
+**Cubs to acquire Rays third baseman Isaac Paredes in trade deadline move for offensive power, per report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LnRtei5jb20vMjAyNC8wNy8yOC9rYW55ZS13ZXN0LWJpYW5jYS1jZW5zb3JpLXRpbnktc2hvcnRzLXRha2Utbm9ydGgtd2VzdC1kZWFkcG9vbC_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL2N1YnMtdG8tYWNxdWlyZS1yYXlzLXRoaXJkLWJhc2VtYW4taXNhYWMtcGFyZWRlcy1pbi10cmFkZS1kZWFkbGluZS1tb3ZlLWZvci1vZmZlbnNpdmUtcG93ZXItcGVyLXJlcG9ydC_SAY4BaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIvbmV3cy9jdWJzLXRvLWFjcXVpcmUtcmF5cy10aGlyZC1iYXNlbWFuLWlzYWFjLXBhcmVkZXMtaW4tdHJhZGUtZGVhZGxpbmUtbW92ZS1mb3Itb2ZmZW5zaXZlLXBvd2VyLXBlci1yZXBvcnQvYW1wLw?oc=5).
 
 ## Requirements
 - Python 3.8
