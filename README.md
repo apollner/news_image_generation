@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As F-16s Arrive, Ukraine Still Faces Steep Challenges in the Skies**
+**Trump’s ‘won’t have to vote anymore’ remark didn’t mean anything, Chris Sununu claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjgvd29ybGQvZXVyb3BlL3VrcmFpbmUtcnVzc2lhLWYtMTZzLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjgvdHJ1bXAtd29udC1oYXZlLXRvLXZvdGUtYW55bW9yZS1zdW51bnUtMDAxNzE1MjnSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
