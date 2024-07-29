@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT Continues Olympic Group Stage With Matchup Against Germany**
+**How Elon Musk Broke With Biden and the Democrats**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzc29jY2VyLmNvbS9zdG9yaWVzLzIwMjQvMDcvdXNhLXZzLWdlcm1hbnktbWF0Y2gtcHJldmlldy1nYW1lLW5vdGVzLTIwMjQtcGFyaXMtb2x5bXBpY3PSAQA?oc=5).
+You can read more about it [here](https://www.wsj.com/politics/elections/how-elon-musk-broke-with-biden-and-the-democrats-4960b7d8).
 
 ## Requirements
 - Python 3.8
