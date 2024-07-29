@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cubs to acquire Rays third baseman Isaac Paredes in trade deadline move for offensive power, per report**
+**Venezuelans vote in election challenging Maduro's grip on power**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL2N1YnMtdG8tYWNxdWlyZS1yYXlzLXRoaXJkLWJhc2VtYW4taXNhYWMtcGFyZWRlcy1pbi10cmFkZS1kZWFkbGluZS1tb3ZlLWZvci1vZmZlbnNpdmUtcG93ZXItcGVyLXJlcG9ydC_SAY4BaHR0cHM6Ly93d3cuY2Jzc3BvcnRzLmNvbS9tbGIvbmV3cy9jdWJzLXRvLWFjcXVpcmUtcmF5cy10aGlyZC1iYXNlbWFuLWlzYWFjLXBhcmVkZXMtaW4tdHJhZGUtZGVhZGxpbmUtbW92ZS1mb3Itb2ZmZW5zaXZlLXBvd2VyLXBlci1yZXBvcnQvYW1wLw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jMXdlMjIwZXc3MW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzF3ZTIyMGV3NzFvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
