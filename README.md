@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We know almost everything about the Google Pixel 9 series already**
+**As F-16s Arrive, Ukraine Still Faces Steep Challenges in the Skies**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiPmh0dHBzOi8vOXRvNWdvb2dsZS5jb20vMjAyNC8wNy8yOC9nb29nbGUtcGl4ZWwtOS1zZXJpZXMtbGVha3Mv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjgvd29ybGQvZXVyb3BlL3VrcmFpbmUtcnVzc2lhLWYtMTZzLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
