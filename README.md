@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. wins first gold medal of Paris Olympics at men's 4x100 meter freestyle relay**
+**Harris calls herself an underdog with momentum during a fundraiser speech**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvdGVhbS11c2Etc3dpbW1pbmctZ29sZC1zaWx2ZXItYnJvbnplLWZyZWVzdHlsZS1wYXJpcy1vbHltcGljcy0yMDI0L9IBZGh0dHBzOi8vd3d3LmNic25ld3MuY29tL2FtcC9uZXdzL3RlYW0tdXNhLXN3aW1taW5nLWdvbGQtc2lsdmVyLWJyb256ZS1mcmVlc3R5bGUtcGFyaXMtb2x5bXBpY3MtMjAyNC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8yNy9ueC1zMS01MDU0MzU5L2thbWFsYS1oYXJyaXMtZnVuZHJhaXNlci1tYXNzYWNodXNldHRzLXRydW1w0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
