@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Downey Jr’s Casting As Doctor Doom Sparks Backlash From Fans**
+**Main Card Results | UFC 304: Edwards vs Muhammad 2**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZGFuaWRpcGxhY2lkby8yMDI0LzA3LzI4L3JvYmVydC1kb3duZXktanJzLWNhc3RpbmctYXMtZG9jdG9yLWRvb20tc3BhcmtzLWJhY2tsYXNoLWZyb20tZmFucy_SAQA?oc=5).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-304-edwards-vs-muhammad-2).
 
 ## Requirements
 - Python 3.8
