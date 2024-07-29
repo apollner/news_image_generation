@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris sees boost in favorability after Biden drops out of race: POLL**
+**USWNT Continues Olympic Group Stage With Matchup Against Germany**
 
-You can read more about it [here](https://abcnews.go.com/Politics/harris-sees-boost-favorability-after-biden-drops-race/story?id=112306763).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnVzc29jY2VyLmNvbS9zdG9yaWVzLzIwMjQvMDcvdXNhLXZzLWdlcm1hbnktbWF0Y2gtcHJldmlldy1nYW1lLW5vdGVzLTIwMjQtcGFyaXMtb2x5bXBpY3PSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
