@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**July 27, 2024, presidential campaign news**
+**Robert Downey Jr’s Casting As Doctor Doom Sparks Backlash From Fans**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/kamala-harris-trump-election-07-27-24/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZGFuaWRpcGxhY2lkby8yMDI0LzA3LzI4L3JvYmVydC1kb3duZXktanJzLWNhc3RpbmctYXMtZG9jdG9yLWRvb20tc3BhcmtzLWJhY2tsYXNoLWZyb20tZmFucy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
