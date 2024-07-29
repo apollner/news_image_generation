@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US home insurers suffer biggest loss of century in 2023**
+**Box Office: ‘Deadpool & Wolverine’ Lands 8th Biggest Opening of All Time With $205M, Makes R-Rated History**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1ob21lLWluc3VyZXJzLXN1ZmZlci1iaWdnZXN0LTE1MDI0Njc4Ny5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmhvbGx5d29vZHJlcG9ydGVyLmNvbS9tb3ZpZXMvbW92aWUtbmV3cy9kZWFkcG9vbC13b2x2ZXJpbmUtYm94LW9mZmljZS1yZWNvcmQtMjA1bS1vcGVuaW5nLTEyMzU5NjAzMjUv0gF1aHR0cHM6Ly93d3cuaG9sbHl3b29kcmVwb3J0ZXIuY29tL21vdmllcy9tb3ZpZS1uZXdzL2RlYWRwb29sLXdvbHZlcmluZS1ib3gtb2ZmaWNlLXJlY29yZC0yMDVtLW9wZW5pbmctMTIzNTk2MDMyNS9hbXAv?oc=5).
 
 ## Requirements
 - Python 3.8
