@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump appeals to crypto investors at conference**
+**Main Card Results | UFC 304: Edwards vs Muhammad 2**
 
-You can read more about it [here](https://www.dw.com/en/donald-trump-appeals-to-crypto-investors-at-conference/a-69789647).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-304-edwards-vs-muhammad-2).
 
 ## Requirements
 - Python 3.8
