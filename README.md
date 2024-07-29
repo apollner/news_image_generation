@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 11 killed, including children, in Golan Heights as Israel blames Hezbollah for rocket attack**
+**Elderly couple files first lawsuit in Boar’s Head’s multistate listeria outbreak over ‘damage to the marital relationship’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvZ29sYW4taGVpZ2h0cy1yb2NrZXQtYXR0YWNrLWlzcmFlbC1oZXpib2xsYWgv0gFOaHR0cHM6Ly93d3cuY2JzbmV3cy5jb20vYW1wL25ld3MvZ29sYW4taGVpZ2h0cy1yb2NrZXQtYXR0YWNrLWlzcmFlbC1oZXpib2xsYWgv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzI3L3VzLW5ld3MvYm9hcnMtaGVhZHMtc3VlZC1vdmVyLW11bHRpc3RhdGUtbGlzdGVyaWEtb3V0YnJlYWsv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
