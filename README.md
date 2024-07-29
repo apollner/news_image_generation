@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reaches tentative contract agreement with unionized store employees in Maryland**
+**Justice Department accuses TikTok of gathering American user data on social issues like abortion, gun control**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm5wci5vcmcvMjAyNC8wNy8yOC9nLXMxLTEzOTMxL2FwcGxlLWNvbnRyYWN0LWFncmVlbWVudC11bmlvbi1tYXJ5bGFuZNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5mb3hidXNpbmVzcy5jb20vdGVjaG5vbG9neS9qdXN0aWNlLWRlcGFydG1lbnQtYWNjdXNlcy10aWt0b2stZ2F0aGVyaW5nLWFtZXJpY2FuLXVzZXItZGF0YS1zb2NpYWwtaXNzdWVzLWxpa2UtYWJvcnRpb24tZ3VuLWNvbnRyb2zSAZEBaHR0cHM6Ly93d3cuZm94YnVzaW5lc3MuY29tL3RlY2hub2xvZ3kvanVzdGljZS1kZXBhcnRtZW50LWFjY3VzZXMtdGlrdG9rLWdhdGhlcmluZy1hbWVyaWNhbi11c2VyLWRhdGEtc29jaWFsLWlzc3Vlcy1saWtlLWFib3J0aW9uLWd1bi1jb250cm9sLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
