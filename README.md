@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wildfire in Jasper National Park could burn for months, Canadian official says**
+**Cowboys give CeeDee Lamb, Dak Prescott new contract offers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL2NhbmFkYS13aWxkZmlyZXMtYWxiZXJ0YS1qYXNwZXItYzU5ZTA2NjdjMmVkZTRiZTJkZDY5ZjIxN2ZkMDBmYzXSAQA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
