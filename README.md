@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Members of Grammy-Nominated Band Die in Plane Crash**
+**Robert Downey Jr to star as Marvel's Doctor Doom in Avengers Doomsday and Secret Wars**
 
-You can read more about it [here](https://www.thedailybeast.com/three-members-of-grammy-nominated-band-die-the-nelons-in-plane-crash).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9ja3JnZDdlZWswOW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY2tyZ2Q3ZWVrMDlvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
