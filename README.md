@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lithium Battery Fire Traps Drivers in Sweltering Heat on California Highway**
+**Donald Trump appeals to crypto investors at conference**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjcvdXMvYmF0dGVyeS1maXJlLXRyYWZmaWMtbmV2YWRhLWNhbGlmb3JuaWEuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://www.dw.com/en/donald-trump-appeals-to-crypto-investors-at-conference/a-69789647).
 
 ## Requirements
 - Python 3.8
