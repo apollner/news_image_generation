@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys give CeeDee Lamb, Dak Prescott new contract offers**
+**July 27, 2024, presidential campaign news**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://www.cnn.com/politics/live-news/kamala-harris-trump-election-07-27-24/index.html).
 
 ## Requirements
 - Python 3.8
