@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 30 dead in Gaza school airstrike; Israel says targeted militants**
+**2024 Olympics: Céline Dion Performs for the First Time in 4 Years During Opening Ceremony - E! Online**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjgvYXQtbGVhc3QtMzAtZGVhZC1pbi1nYXphLXNjaG9vbC1haXJzdHJpa2UtaXNyYWVsLXNheXMtdGFyZ2V0ZWQtbWlsaXRhbnRzLmh0bWzSAXFodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8yOC9hdC1sZWFzdC0zMC1kZWFkLWluLWdhemEtc2Nob29sLWFpcnN0cmlrZS1pc3JhZWwtc2F5cy10YXJnZXRlZC1taWxpdGFudHMuaHRtbA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5lb25saW5lLmNvbS92aWRlb3MvMjM1ODY2MjIxMTUzNi8yMDI0LW9seW1waWNzLWNlbGluZS1kaW9uLXBlcmZvcm1zLWZvci10aGUtZmlyc3QtdGltZS1pbi00LXllYXJzLWR1cmluZy1vcGVuaW5nLWNlcmVtb2550gEA?oc=5).
 
 ## Requirements
 - Python 3.8
