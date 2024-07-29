@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s ‘won’t have to vote anymore’ remark didn’t mean anything, Chris Sununu claims**
+**Sinead O’Connor’s exact cause of death finally revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjgvdHJ1bXAtd29udC1oYXZlLXRvLXZvdGUtYW55bW9yZS1zdW51bnUtMDAxNzE1MjnSAQA?oc=5).
+You can read more about it [here](https://nypost.com/2024/07/28/entertainment/sinead-oconnors-exact-cause-of-death-finally-revealed/).
 
 ## Requirements
 - Python 3.8
