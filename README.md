@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Elon Musk Broke With Biden and the Democrats**
+**US home insurers suffer biggest loss of century in 2023**
 
-You can read more about it [here](https://www.wsj.com/politics/elections/how-elon-musk-broke-with-biden-and-the-democrats-4960b7d8).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy91cy1ob21lLWluc3VyZXJzLXN1ZmZlci1iaWdnZXN0LTE1MDI0Njc4Ny5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
