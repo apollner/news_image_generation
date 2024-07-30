@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terrifying final minutes gospel group The Nelons endured before they died in plane crash is revealed by aviati**
+**UK’s new Treasury chief axes projects to save costs and confirms deal to end doctors strike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM2ODQxMDUvbmVsb25zLWZhdGFsLXBsYW5lLWNyYXNoLWdvc3BlbC1ncm91cC5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzY4NDEwNS9hbXAvbmVsb25zLWZhdGFsLXBsYW5lLWNyYXNoLWdvc3BlbC1ncm91cC5odG1s?oc=5).
+You can read more about it [here](https://apnews.com/article/uk-public-finances-treasury-chief-rachel-reeves-taxes-e33f53fc2e72f33df971c522ec6542a2).
 
 ## Requirements
 - Python 3.8
