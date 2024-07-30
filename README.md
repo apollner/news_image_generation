@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures rise ahead of major tech earnings reports set for later this week: Live updates**
+**Exclusive: Inside the Supreme Court’s negotiations and compromise on Idaho’s abortion ban**
 
-You can read more about it [here](https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html).
+You can read more about it [here](https://www.cnn.com/2024/07/29/politics/supreme-court-idaho-abortion-emtala-biskupic/index.html).
 
 ## Requirements
 - Python 3.8
