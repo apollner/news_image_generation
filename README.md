@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young**
+**Bitcoin Nashville Conference in Pictures: Orange Athena, Pink Suits, Polymarket Swag, Trump's Song**
 
-You can read more about it [here](https://www.cnn.com/2024/07/28/middleeast/majdal-shams-mourning-israel-hezbollah-intl-latam/index.html).
+You can read more about it [here](https://www.coindesk.com/tech/2024/07/29/bitcoin-nashville-conference-in-pictures-orange-athena-pink-suits-polymarket-swag-trumps-song/).
 
 ## Requirements
 - Python 3.8
