@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunman at Trump Rally Was Often a Step Ahead of the Secret Service**
+**Terrifying final minutes gospel group The Nelons endured before they died in plane crash is revealed by aviati**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjgvdXMvcG9saXRpY3MvdHJ1bXAtc2hvb3RpbmctdGhvbWFzLWNyb29rcy1zZWNyZXQtc2VydmljZS5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay9uZXdzL2FydGljbGUtMTM2ODQxMDUvbmVsb25zLWZhdGFsLXBsYW5lLWNyYXNoLWdvc3BlbC1ncm91cC5odG1s0gFgaHR0cHM6Ly93d3cuZGFpbHltYWlsLmNvLnVrL25ld3MvYXJ0aWNsZS0xMzY4NDEwNS9hbXAvbmVsb25zLWZhdGFsLXBsYW5lLWNyYXNoLWdvc3BlbC1ncm91cC5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
