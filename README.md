@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel's crashing CPU crisis deepens as more models are affected than originally thought**
+**Staley: Caitlin Clark might have made USWNT with current play**
 
-You can read more about it [here](https://www.techspot.com/news/104010-intel-crashing-cpu-crisis-deepens-more-models-affected.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3Lm55dGltZXMuY29tL2F0aGxldGljLzU2NjU1NjQvMjAyNC8wNy8yOS9jYWl0bGluLWNsYXJrLW9seW1waWMtdGVhbS1kYXduLXN0YWxleS_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
