@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Local SWAT snipers saw Trump rally gunman nearly 2 hours before assassination attempt, text messages show**
+**Steve Kerr Gives Self-Deprecating Answer About Sitting Jayson Tatum**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvbG9jYWwtc3dhdC1zbmlwZXJzLXRydW1wLXJhbGx5LWd1bm1hbi0yLWhvdXJzL3N0b3J5P2lkPTExMjM1NjYwNtIBXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2xvY2FsLXN3YXQtc25pcGVycy10cnVtcC1yYWxseS1ndW5tYW4tMi1ob3Vycy9zdG9yeT9pZD0xMTIzNTY2MDY?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNpLmNvbS9vbHltcGljcy9zdGV2ZS1rZXJyLWdpdmVzLWhvbmVzdC1zZWxmLWRlcHJlY2F0aW5nLWFuc3dlci1hYm91dC1qYXlzb24tdGF0dW0tYWJzZW5jZdIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
