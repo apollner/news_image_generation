@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alzheimer’s blood test detects disease with 90% accuracy in routine doctors’ appointments: study**
+**Bronze ends U.S. men's team gymnastics drought**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL2hlYWx0aC9hbHpoZWltZXJzLWJsb29kLXRlc3QtZGV0ZWN0cy1kaXNlYXNlLWFjY3VyYWN5LXJvdXRpbmUtZG9jdG9ycy1hcHBvaW50bWVudHMtc3R1ZHnSAXRodHRwczovL3d3dy5mb3huZXdzLmNvbS9oZWFsdGgvYWx6aGVpbWVycy1ibG9vZC10ZXN0LWRldGVjdHMtZGlzZWFzZS1hY2N1cmFjeS1yb3V0aW5lLWRvY3RvcnMtYXBwb2ludG1lbnRzLXN0dWR5LmFtcA?oc=5).
+You can read more about it [here](https://www.espn.com/olympics/story/_/id/40673912/us-men-win-first-team-gymnastics-medal-08-japan-gold).
 
 ## Requirements
 - Python 3.8
