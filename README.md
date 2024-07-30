@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Van Hollen says it was a ‘mistake’ for Democrats to support Netanyahu addressing Congress**
+**Gwyneth Paltrow Reacts To Robert Downey Jr.’s MCU Return As “Baddie” Doctor Doom**
 
-You can read more about it [here](https://thehill.com/homenews/senate/4796952-chris-van-hollen-democrats-supporting-benjamin-netanyahu-congress-address-mistake/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvZ3d5bmV0aC1wYWx0cm93LXJlYWN0cy1yb2JlcnQtZG93bmV5LWpyLW1jdS1yZXR1cm4tYmFkZGllLWRvY3Rvci1kb29tLTEyMzYwMjUyMTYv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
