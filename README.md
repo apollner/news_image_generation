@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two meteor showers are set to peak this week. Here’s how to see them**
+**Stock futures rise ahead of major tech earnings reports set for later this week: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9zY2llbmNlL2RvdWJsZS1tZXRlb3Itc2hvd2Vycy1qdWx5L2luZGV4Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/07/28/stock-futures-are-little-changed-ahead-of-loaded-week-for-tech-earnings.html).
 
 ## Requirements
 - Python 3.8
