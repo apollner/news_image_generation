@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Jayson Tatum didn't play in Team USA's win over Serbia**
+**Phoenix warehouse crews locate body of missing man 3 days after roof collapse**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93aHktamF5c29uLXRhdHVtLWRpZG50LXBsYXktMTgyNTE2NDM4Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9uZXdzL25hdGlvbi8yMDI0LzA3LzI4L2JvZHktZm91bmQtcGhvZW5peC13YXJlaG91c2UtY29sbGFwc2UvNzQ1ODA4MzgwMDcv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
