@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Downey Jr. to return to Marvel Cinematic Universe as Doctor Doom**
+**Two meteor showers are set to peak this week. Here’s how to see them**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3Lmdvb2Rtb3JuaW5nYW1lcmljYS5jb20vY3VsdHVyZS9zdG9yeS9yb2JlcnQtZG93bmV5LWpyLXJldHVybi1tYXJ2ZWwtY2luZW1hdGljLXVuaXZlcnNlLWRvY3Rvci1kb29tLTExMjM0OTg1OdIBfGh0dHBzOi8vd3d3Lmdvb2Rtb3JuaW5nYW1lcmljYS5jb20vYW1wL2N1bHR1cmUvc3Rvcnkvcm9iZXJ0LWRvd25leS1qci1yZXR1cm4tbWFydmVsLWNpbmVtYXRpYy11bml2ZXJzZS1kb2N0b3ItZG9vbS0xMTIzNDk4NTk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9zY2llbmNlL2RvdWJsZS1tZXRlb3Itc2hvd2Vycy1qdWx5L2luZGV4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
