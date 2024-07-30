@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli officials say they want to avoid all-out war in Lebanon retaliation**
+**Apple Intelligence Now Available in New iOS 18.1, iPadOS 18.1, and macOS Sequoia Developer Betas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2xlYmFub24tYnJhY2VzLWlzcmFlbGktcmV0YWxpYXRpb24tc3RyaWtlLWtpbGxzLTItc291dGgtbGViYW5vbi0yMDI0LTA3LTI5L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lm1hY3J1bW9ycy5jb20vMjAyNC8wNy8yOS9hcHBsZS1yZWxlYXNlcy1pb3MtMTgtMS1hcHBsZS1pbnRlbGxpZ2VuY2Uv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
