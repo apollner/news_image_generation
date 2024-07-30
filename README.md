@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden Calls for Changes to Supreme Court**
+**A star is about to explode. Here’s how to watch it**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjkvdXMvcG9saXRpY3MvYmlkZW4tc3VwcmVtZS1jb3VydC1hdXN0aW4tdGV4YXMuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vbmF0aW9uLXdvcmxkL2Etc3Rhci1pcy1hYm91dC10by1leHBsb2RlLWhlcmVzLWhvdy10by13YXRjaC1pdC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
