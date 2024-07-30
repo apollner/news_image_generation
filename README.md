@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez Claps Back at TikTok Analyzing Her Face: “Leave Me Alone”**
+**Today’s NYT Mini Crossword Clues And Answers For Monday, July 29**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC00zakE2N1N5dkZZmAEB?oc=5).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/07/28/todays-nyt-mini-crossword-clues-and-answers-for-monday-july-29/).
 
 ## Requirements
 - Python 3.8
