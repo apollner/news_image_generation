@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New study reveals people's faces evolve to match their names**
+**Gunman at Trump Rally Was Often a Step Ahead of the Secret Service**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDI0LTA3LXJldmVhbHMtcGVvcGxlLWV2b2x2ZS5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjgvdXMvcG9saXRpY3MvdHJ1bXAtc2hvb3RpbmctdGhvbWFzLWNyb29rcy1zZWNyZXQtc2VydmljZS5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
