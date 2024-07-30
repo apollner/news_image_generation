@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday**
+**New study reveals people's faces evolve to match their names**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9wb2xpdGljcy9iaWRlbi1zdXByZW1lLWNvdXJ0LXJlZm9ybS9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yOS9wb2xpdGljcy9iaWRlbi1zdXByZW1lLWNvdXJ0LXJlZm9ybQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vcGh5cy5vcmcvbmV3cy8yMDI0LTA3LXJldmVhbHMtcGVvcGxlLWV2b2x2ZS5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
