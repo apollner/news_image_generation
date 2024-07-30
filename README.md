@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bronze ends U.S. men's team gymnastics drought**
+**Stewart, Wilson overwhelm Japan in U.S. opener**
 
-You can read more about it [here](https://www.espn.com/olympics/story/_/id/40673912/us-men-win-first-team-gymnastics-medal-08-japan-gold).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVzcG4uY29tL29seW1waWNzL3N0b3J5L18vaWQvNDA2NzU1MDkvdXMtaGFuZGxlcy1qYXBhbi1vbHltcGljcy13b21lbi1iYXNrZXRiYWxsLW9wZW5lctIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
