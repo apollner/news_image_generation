@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Kelly seen most favorably of potential VP picks, followed by Shapiro, Beshear, Buttigieg: Poll**
+**Local SWAT snipers saw Trump rally gunman nearly 2 hours before assassination attempt, text messages show**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4797349-mark-kelly-seen-most-favorably-of-potential-vp-picks-followed-by-shapiro-beshear-buttigieg-poll/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vYWJjbmV3cy5nby5jb20vVVMvbG9jYWwtc3dhdC1zbmlwZXJzLXRydW1wLXJhbGx5LWd1bm1hbi0yLWhvdXJzL3N0b3J5P2lkPTExMjM1NjYwNtIBXmh0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1VTL2xvY2FsLXN3YXQtc25pcGVycy10cnVtcC1yYWxseS1ndW5tYW4tMi1ob3Vycy9zdG9yeT9pZD0xMTIzNTY2MDY?oc=5).
 
 ## Requirements
 - Python 3.8
