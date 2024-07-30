@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Inside the Supreme Court’s negotiations and compromise on Idaho’s abortion ban**
+**Biden Calls for Changes to Supreme Court**
 
-You can read more about it [here](https://www.cnn.com/2024/07/29/politics/supreme-court-idaho-abortion-emtala-biskupic/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjkvdXMvcG9saXRpY3MvYmlkZW4tc3VwcmVtZS1jb3VydC1hdXN0aW4tdGV4YXMuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
