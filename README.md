@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Erick Fedde traded to Cardinals, Tommy Edman to Dodgers in three-team deadline deal with White Sox**
+**Bronze ends U.S. men's team gymnastics drought**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihQFodHRwczovL3d3dy5jYnNzcG9ydHMuY29tL21sYi9uZXdzL2VyaWNrLWZlZGRlLXRyYWRlZC10by1jYXJkaW5hbHMtdG9tbXktZWRtYW4tdG8tZG9kZ2Vycy1pbi10aHJlZS10ZWFtLWRlYWRsaW5lLWRlYWwtd2l0aC13aGl0ZS1zb3gv0gGJAWh0dHBzOi8vd3d3LmNic3Nwb3J0cy5jb20vbWxiL25ld3MvZXJpY2stZmVkZGUtdHJhZGVkLXRvLWNhcmRpbmFscy10b21teS1lZG1hbi10by1kb2RnZXJzLWluLXRocmVlLXRlYW0tZGVhZGxpbmUtZGVhbC13aXRoLXdoaXRlLXNveC9hbXAv?oc=5).
+You can read more about it [here](https://www.espn.com/olympics/story/_/id/40673912/us-men-win-first-team-gymnastics-medal-08-japan-gold).
 
 ## Requirements
 - Python 3.8
