@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two meteor showers will flash across the sky around the same time in late July**
+**Biden administration blames Hezbollah for ‘horrific’ Golan Heights rocket attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFodHRwczovL3d3dy5sb2NhbDEyLmNvbS9uZXdzL25hdGlvbi13b3JsZC9zb3V0aGVybi1kZWx0YS1hcXVhcmlpZC1tZXRlb3Itc2hvd2VyLWFscGhhLWNhcHJpY29ybmlkcy1kZWx0YS1tZXRlb3JzLXNob3dlcnMtc2t5LXNhbWUtdGltZS1sYXRlLWp1bHktcGVhay1wZWFrcy1jaW5jaW5uYXRpLWNhcHJpY29ybmlk0gGyAWh0dHBzOi8vbG9jYWwxMi5jb20vYW1wL25ld3MvbmF0aW9uLXdvcmxkL3NvdXRoZXJuLWRlbHRhLWFxdWFyaWlkLW1ldGVvci1zaG93ZXItYWxwaGEtY2Fwcmljb3JuaWRzLWRlbHRhLW1ldGVvcnMtc2hvd2Vycy1za3ktc2FtZS10aW1lLWxhdGUtanVseS1wZWFrLXBlYWtzLWNpbmNpbm5hdGktY2Fwcmljb3JuaWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzI4L2JpZGVuLWFkbWluaXN0cmF0aW9uLWhlemJvbGxhaC1nb2xhbi1oZWlnaHRzLWF0dGFja9IBaWh0dHBzOi8vYW1wLnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzI4L2JpZGVuLWFkbWluaXN0cmF0aW9uLWhlemJvbGxhaC1nb2xhbi1oZWlnaHRzLWF0dGFjaw?oc=5).
 
 ## Requirements
 - Python 3.8
