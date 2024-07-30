@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela opposition urges vigilance as polls close**
+**Selena Gomez Claps Back at TikTok Analyzing Her Face: “Leave Me Alone”**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jejdlazI3ajdqM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3o3ZWsyN2o3ajNvLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC00zakE2N1N5dkZZmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
