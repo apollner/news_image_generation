@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A star is about to explode. Here’s how to watch it**
+**Intel's crashing CPU crisis deepens as more models are affected than originally thought**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiW2h0dHBzOi8vd3d3LnNlYXR0bGV0aW1lcy5jb20vbmF0aW9uLXdvcmxkL2Etc3Rhci1pcy1hYm91dC10by1leHBsb2RlLWhlcmVzLWhvdy10by13YXRjaC1pdC_SAQA?oc=5).
+You can read more about it [here](https://www.techspot.com/news/104010-intel-crashing-cpu-crisis-deepens-more-models-affected.html).
 
 ## Requirements
 - Python 3.8
