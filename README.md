@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK’s new Treasury chief axes projects to save costs and confirms deal to end doctors strike**
+**Israeli officials say they want to avoid all-out war in Lebanon retaliation**
 
-You can read more about it [here](https://apnews.com/article/uk-public-finances-treasury-chief-rachel-reeves-taxes-e33f53fc2e72f33df971c522ec6542a2).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2xlYmFub24tYnJhY2VzLWlzcmFlbGktcmV0YWxpYXRpb24tc3RyaWtlLWtpbGxzLTItc291dGgtbGViYW5vbi0yMDI0LTA3LTI5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
