@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gwyneth Paltrow Reacts To Robert Downey Jr.’s MCU Return As “Baddie” Doctor Doom**
+**Venezuela opposition urges vigilance as polls close**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibmh0dHBzOi8vZGVhZGxpbmUuY29tLzIwMjQvMDcvZ3d5bmV0aC1wYWx0cm93LXJlYWN0cy1yb2JlcnQtZG93bmV5LWpyLW1jdS1yZXR1cm4tYmFkZGllLWRvY3Rvci1kb29tLTEyMzYwMjUyMTYv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jejdlazI3ajdqM2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3o3ZWsyN2o3ajNvLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
