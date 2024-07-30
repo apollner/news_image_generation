@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Fed Rate Cut Is Finally Within View**
+**‘They were just kids. What did they do wrong?’: In Majdal Shams, a town caught between Israel and Hezbollah mourns its young**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndzai5jb20vZWNvbm9teS9jZW50cmFsLWJhbmtpbmcvZmVkLW5lYXItaW50ZXJlc3QtcmF0ZS1jdXQtZDMwM2RiZDXSAQA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/07/28/middleeast/majdal-shams-mourning-israel-hezbollah-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
