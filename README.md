@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stewart, Wilson overwhelm Japan in U.S. opener**
+**Netanyahu vows retaliation against Hezbollah after lethal weekend strike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmVzcG4uY29tL29seW1waWNzL3N0b3J5L18vaWQvNDA2NzU1MDkvdXMtaGFuZGxlcy1qYXBhbi1vbHltcGljcy13b21lbi1iYXNrZXRiYWxsLW9wZW5lctIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjkvbmV0YW55YWh1LXJldGFsaWF0aW9uLWhlemJvbGxhaC1zdHJpa2UtMDAxNzE3MTXSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
