@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK's new Treasury chief says previous government 'covered up' financial turmoil ahead of election**
+**Biden to call for major Supreme Court reforms, including term limits, at Civil Rights Act event Monday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3VrLXB1YmxpYy1maW5hbmNlcy10cmVhc3VyeS1jaGllZi1yYWNoZWwtcmVldmVzLXRheGVzLWUzM2Y1M2ZjMmU3MmYzM2RmOTcxYzUyMmVjNjU0MmEy0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yOS9wb2xpdGljcy9iaWRlbi1zdXByZW1lLWNvdXJ0LXJlZm9ybS9pbmRleC5odG1s0gFGaHR0cHM6Ly9hbXAuY25uLmNvbS9jbm4vMjAyNC8wNy8yOS9wb2xpdGljcy9iaWRlbi1zdXByZW1lLWNvdXJ0LXJlZm9ybQ?oc=5).
 
 ## Requirements
 - Python 3.8
