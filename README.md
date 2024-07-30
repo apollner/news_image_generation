@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Kerr Gives Self-Deprecating Answer About Sitting Jayson Tatum**
+**A Fed Rate Cut Is Finally Within View**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnNpLmNvbS9vbHltcGljcy9zdGV2ZS1rZXJyLWdpdmVzLWhvbmVzdC1zZWxmLWRlcHJlY2F0aW5nLWFuc3dlci1hYm91dC1qYXlzb24tdGF0dW0tYWJzZW5jZdIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lndzai5jb20vZWNvbm9teS9jZW50cmFsLWJhbmtpbmcvZmVkLW5lYXItaW50ZXJlc3QtcmF0ZS1jdXQtZDMwM2RiZDXSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
