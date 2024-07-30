@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Nashville Conference in Pictures: Orange Athena, Pink Suits, Polymarket Swag, Trump's Song**
+**Why Jayson Tatum didn't play in Team USA's win over Serbia**
 
-You can read more about it [here](https://www.coindesk.com/tech/2024/07/29/bitcoin-nashville-conference-in-pictures-orange-athena-pink-suits-polymarket-swag-trumps-song/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93aHktamF5c29uLXRhdHVtLWRpZG50LXBsYXktMTgyNTE2NDM4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
