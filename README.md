@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s NYT Mini Crossword Clues And Answers For Monday, July 29**
+**Mark Kelly seen most favorably of potential VP picks, followed by Shapiro, Beshear, Buttigieg: Poll**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/07/28/todays-nyt-mini-crossword-clues-and-answers-for-monday-july-29/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4797349-mark-kelly-seen-most-favorably-of-potential-vp-picks-followed-by-shapiro-beshear-buttigieg-poll/).
 
 ## Requirements
 - Python 3.8
