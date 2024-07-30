@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s is about to report earnings. Here’s what to expect**
+**Why Jayson Tatum didn't play in Team USA's win over Serbia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjkvbWNkb25hbGRzLW1jZC1xMi0yMDI0LWVhcm5pbmdzLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiQ2h0dHBzOi8vc3BvcnRzLnlhaG9vLmNvbS93aHktamF5c29uLXRhdHVtLWRpZG50LXBsYXktMTgyNTE2NDM4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
