@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Gadd Says He “Could and Would” Testify in the ‘Baby Reindeer’ Lawsuit Against Netflix**
+**2024 MLB trade deadline tracker: Follow every major move for Yankees, Dodgers, Phillies, Braves, Astros, more**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPU0NSSTBLS1FkdFZrYUhJRENJQ0FNal9YTmx2N3d1V0JXc1FBVzN0ZXY1bldDRFBzR0pXcFc3QzFYdl9acnhTRnFkMVhKSWtObm9TWnNtbHZCT2RYN1phVXB0Q2NLSFVwVnh6MGt0UmtqcFpSc1RJaW1iV3VMMHJjajRvMDV6QWJOXzNoejlQb1BpLWY1b3FUREFva2MxSm0tLXExbmlVa0NmejF6eDZzcVlLUnlQMTBVVUNmRNIBwgFBVV95cUxNYzZJV1JmTVRxbm9SOUFvVFNvajdCclBmTnk1T2xTNDlOOTA0OGNBcXlnRkFCdUlGa1ZMMVNUVElIdVdsYlRYa3YwbG1hLTFDcXpTcWFCOXhUMjV0SDM1a3RZTDVqQnRWQzZVMVljQS01MVNHQ1AzVWk5RkRteGdxeUNuRDIzaGJNYVJZbFo4MXM5RjNtQ0VtVkJVZ1NkaTNrRUsxQmpzSnE2TFJXMXJaVkZkZ19VekNKQkVRX1NSZk5MZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRlREZjNVVVlya0pvY0E3MmExUnpLc3JiSmp3WEM0bVZkbU90S2UwaGoyTUJYdkxtTl9zWkZtODNUbnZQRkJoa0tORzM4cnd3cnlOUTdRc3cxbk1CbnVObFFaakJHeFZYNGNvZVRtbm9WSXB6YmxkUTE5TThKNG9oT2tUYlhQdkFfdktLYkhqNHp4el96OUtFQjdQTWxJR21CYlkzZEJtM2FOb3I4OW9RcTN5cFpBaXVwbTlPd3MxSDUzN19WWDF2N3R4b1J3Q0JkeHloQk1R?oc=5).
 
 ## Requirements
 - Python 3.8
