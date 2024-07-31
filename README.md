@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu vows retaliation against Hezbollah after lethal weekend strike**
+**SpaceX moving spacecraft splashdowns to Long Beach, days after Elon Musk said company was leaving CA**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnBvbGl0aWNvLmNvbS9uZXdzLzIwMjQvMDcvMjkvbmV0YW55YWh1LXJldGFsaWF0aW9uLWhlemJvbGxhaC1zdHJpa2UtMDAxNzE3MTXSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYWJjNy5jb20vcG9zdC9zcGFjZXgtbGVhdmluZy1jYWxpZm9ybmlhLW5vdC1lbnRpcmVseS1lbG9uLW11c2tzLWNvbXBhbnkvMTUxMTgwMzMv0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
