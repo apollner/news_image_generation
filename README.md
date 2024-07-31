@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Traders are focused on a central bank this week. But it may not be the Fed.**
+**IMF-Ethiopia bailout: $3.4bn agreed in 'landmark' deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS90cmFkZXJzLWFyZS1mb2N1c2VkLW9uLWEtY2VudHJhbC1iYW5rLXRoaXMtd2Vlay1idXQtaXQtbWF5LW5vdC1iZS10aGUtZmVkLTdiMGY2NjZl0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjA3NGVuMXo3bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY24wNzRlbjF6N21vLmFtcA?oc=5).
 
 ## Requirements
 - Python 3.8
