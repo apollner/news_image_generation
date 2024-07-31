@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Reeves's spending audit at-a-glance**
+**Paris Olympics live updates: Swimming schedule today, how to watch Tuesday, medal count**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd1r7d76vdlo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8zMC9wYXJpcy1vbHltcGljcy1saXZlLXVwZGF0ZXMtcmVzdWx0cy83NDE5MDY4NzAwNy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
