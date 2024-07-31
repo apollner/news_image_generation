@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Again Says That Christians ‘Won’t Have to Vote Anymore’ if They Vote for Him**
+**Ozempic And Wegovy Could Help Smokers Quit, Study Suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMzAvdXMvcG9saXRpY3MvdHJ1bXAtY2hyaXN0aWFucy12b3RlLWluZ3JhaGFtLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcm9iZXJ0aGFydC8yMDI0LzA3LzMwL296ZW1waWMtYW5kLXdlZ292eS1jb3VsZC1oZWxwLXNtb2tlcnMtcXVpdC1zdHVkeS1zdWdnZXN0cy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
