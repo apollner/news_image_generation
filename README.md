@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB trade deadline tracker: Live updates on all of the buyers and sellers as teams look to the postseason**
+**5 Lighting in a Bottle attendees diagnosed with Valley fever: CA Dept. of Public Health**
 
-You can read more about it [here](https://sports.yahoo.com/live/mlb-trade-deadline-tracker-live-updates-of-the-buyers-and-sellers-postseason-news-160034753.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvbG9jYWwtbmV3cy81LWxpZ2h0aW5nLWluLWEtYm90dGxlLWF0dGVuZGVlcy1kaWFnbm9zZWQtd2l0aC12YWxsZXktZmV2ZXItY2EtZGVwdC1vZi1wdWJsaWMtaGVhbHRoL9IBf2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvbG9jYWwtbmV3cy81LWxpZ2h0aW5nLWluLWEtYm90dGxlLWF0dGVuZGVlcy1kaWFnbm9zZWQtd2l0aC12YWxsZXktZmV2ZXItY2EtZGVwdC1vZi1wdWJsaWMtaGVhbHRoL2FtcC8?oc=5).
 
 ## Requirements
 - Python 3.8
