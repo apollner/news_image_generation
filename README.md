@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina Gov. Roy Cooper withdraws from consideration to be Kamala Harris’ running mate**
+**ULA Atlas V to launch Space Force mission Tuesday from Cape Canaveral**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzI5L3VzLW5ld3Mvcm95LWNvb3Blci13aXRoZHJhd3MtZnJvbS1jb25zaWRlcmF0aW9uLXRvLWJlLWthbWFsYS1oYXJyaXMtcnVubmluZy1tYXRlL9IBAA?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
