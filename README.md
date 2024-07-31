@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ULA Atlas V to launch Space Force mission Tuesday from Cape Canaveral**
+**Rachel Reeves's spending audit at-a-glance**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://www.bbc.com/news/articles/cd1r7d76vdlo).
 
 ## Requirements
 - Python 3.8
