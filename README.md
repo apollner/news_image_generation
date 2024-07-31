@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunmen on jet skis kill 12-year-old boy on Cancun beach while firing at rival drug dealer: Mexican officials**
+**Stock market news today: Nasdaq sinks, Nvidia drops 5% ahead of next round of Big Tech earnings**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9ndW5tZW4tamV0LXNraXMta2lsbC0xMi15ZWFyLW9sZC1ib3ktY2FuY3VuLWJlYWNoLXdoaWxlLWZpcmluZy1yaXZhbC1kcnVnLWRlYWxlci1tZXhpY2FuLW9mZmljaWFsc9IBhAFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9ndW5tZW4tamV0LXNraXMta2lsbC0xMi15ZWFyLW9sZC1ib3ktY2FuY3VuLWJlYWNoLXdoaWxlLWZpcmluZy1yaXZhbC1kcnVnLWRlYWxlci1tZXhpY2FuLW9mZmljaWFscy5hbXA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtdG9kYXktbmFzZGFxLXNpbmtzLW52aWRpYS1kcm9wcy01LWFoZWFkLW9mLW5leHQtcm91bmQtb2YtYmlnLXRlY2gtZWFybmluZ3MtMTQxNjE1MzA3Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
