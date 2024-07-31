@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 MLB trade deadline tracker: Follow every major move for Yankees, Dodgers, Phillies, Braves, Astros, more**
+**Russell Wilson finally gets some training-camp work with Steelers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRlREZjNVVVlya0pvY0E3MmExUnpLc3JiSmp3WEM0bVZkbU90S2UwaGoyTUJYdkxtTl9zWkZtODNUbnZQRkJoa0tORzM4cnd3cnlOUTdRc3cxbk1CbnVObFFaakJHeFZYNGNvZVRtbm9WSXB6YmxkUTE5TThKNG9oT2tUYlhQdkFfdktLYkhqNHp4el96OUtFQjdQTWxJR21CYlkzZEJtM2FOb3I4OW9RcTN5cFpBaXVwbTlPd3MxSDUzN19WWDF2N3R4b1J3Q0JkeHloQk1R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxNTjAwbXpsOTQ4MzdubFZ6T1pQaXdhamhKTmNGWDU3MkVPWU5zMDFyWGFTczJDWWp6emZrRHN2aUZkaGlpOVk1R3RSQkRFRlFwcHI5bHA0ZV9BajdTNGVSZ0hVRXZNWm9kNDlSYkV6Yk41UVJIYWlEZkZVNnA1WlMzTW54OXRfUkJkY0ZfMjBrY1FuQmJtcGFkWjVhdXE2czJJN2RfM3gxeDg0LW9KV3g5MFNFbTV5bUR6bnFScVU1V0dJa2NSdXc?oc=5).
 
 ## Requirements
 - Python 3.8
