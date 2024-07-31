@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IMF-Ethiopia bailout: $3.4bn agreed in 'landmark' deal**
+**Exclusive: The inside story of John Roberts and Trump’s immunity win at the Supreme Court**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jbjA3NGVuMXo3bW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY24wNzRlbjF6N21vLmFtcA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8zMC9wb2xpdGljcy9zdXByZW1lLWNvdXJ0LWpvaG4tcm9iZXJ0cy10cnVtcC1pbW11bml0eS02LTMtYmlza3VwaWMvaW5kZXguaHRtbNIBYmh0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMzAvcG9saXRpY3Mvc3VwcmVtZS1jb3VydC1qb2huLXJvYmVydHMtdHJ1bXAtaW1tdW5pdHktNi0zLWJpc2t1cGlj?oc=5).
 
 ## Requirements
 - Python 3.8
