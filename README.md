@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple says it took a ‘responsible’ approach to training its Apple Intelligence models**
+**Singapore's Temasek plans to invest up to $30 billion in US over next five years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOS9hcHBsZS1zYXlzLWl0LXRvb2stYS1yZXNwb25zaWJsZS1hcHByb2FjaC10by10cmFpbmluZy1pdHMtYXBwbGUtaW50ZWxsaWdlbmNlLW1vZGVscy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW5nYXBvcmVzLXRlbWFzZWstcGxhbnMtaW52ZXN0LTMwLTIyNDAwMDgxMS5odG1s0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
