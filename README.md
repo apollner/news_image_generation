@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huang and Zuckerberg swapped jackets at SIGGRAPH 2024 and things got weird**
+**Biden proposed enforceable ethics code and term limits for Supreme Court. How might they work?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOS9odWFuZy1hbmQtenVja2VyYmVyZy1zd2FwcGVkLWphY2tldHMtYXQtc2lnZ3JhcGgtMjAyNC1hbmQtdGhpbmdzLWdvdC13ZWlyZC_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3N1cHJlbWUtY291cnQtYmlkZW4tZXRoaWNzLXRlcm0tbGltaXRzLWIyODFhMDNmOGNlMmRmNjAxMDlmNjA3MjI2MTljYzRk0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
