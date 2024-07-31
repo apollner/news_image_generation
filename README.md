@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 Lighting in a Bottle attendees diagnosed with Valley fever: CA Dept. of Public Health**
+**Nation's biggest wildfire consumes more ground in Northern California**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvbG9jYWwtbmV3cy81LWxpZ2h0aW5nLWluLWEtYm90dGxlLWF0dGVuZGVlcy1kaWFnbm9zZWQtd2l0aC12YWxsZXktZmV2ZXItY2EtZGVwdC1vZi1wdWJsaWMtaGVhbHRoL9IBf2h0dHBzOi8vd3d3LmtnZXQuY29tL25ld3MvbG9jYWwtbmV3cy81LWxpZ2h0aW5nLWluLWEtYm90dGxlLWF0dGVuZGVlcy1kaWFnbm9zZWQtd2l0aC12YWxsZXktZmV2ZXItY2EtZGVwdC1vZi1wdWJsaWMtaGVhbHRoL2FtcC8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25pZ2h0bHktbmV3cy92aWRlby9uYXRpb24tcy1iaWdnZXN0LXdpbGRmaXJlLWNvbnN1bWVzLW1vcmUtZ3JvdW5kLWluLW5vcnRoZXJuLWNhbGlmb3JuaWEtMjE1OTQxMTg5NTM50gE3aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAtdmlkZW8vbW12bzIxNTk0MTE4OTUzOQ?oc=5).
 
 ## Requirements
 - Python 3.8
