@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market news today: Nasdaq sinks, Nvidia drops 5% ahead of next round of Big Tech earnings**
+**Tesla recalls 1.85 million US vehicles over unlatched hood issue**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFodHRwczovL2ZpbmFuY2UueWFob28uY29tL25ld3Mvc3RvY2stbWFya2V0LW5ld3MtdG9kYXktbmFzZGFxLXNpbmtzLW52aWRpYS1kcm9wcy01LWFoZWFkLW9mLW5leHQtcm91bmQtb2YtYmlnLXRlY2gtZWFybmluZ3MtMTQxNjE1MzA3Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2F1dG9zLXRyYW5zcG9ydGF0aW9uL3Rlc2xhLXJlY2FsbC1vdmVyLTE4LW1sbi11cy12ZWhpY2xlcy0yMDI0LTA3LTMwL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
