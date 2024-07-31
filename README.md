@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s antitrust defense could benefit from the threat of SearchGPT**
+**Trump Again Says That Christians ‘Won’t Have to Vote Anymore’ if They Vote for Him**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb29nbGVzLWFudGl0cnVzdC1kZWZlbnNlLWNvdWxkLWJlbmVmaXQtZnJvbS10aGUtdGhyZWF0LW9mLXNlYXJjaGdwdC0xNDE5NTU3NDUuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMzAvdXMvcG9saXRpY3MvdHJ1bXAtY2hyaXN0aWFucy12b3RlLWluZ3JhaGFtLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
