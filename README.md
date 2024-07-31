@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue shares surge after surprise profit, $3 billion aircraft spending deferral**
+**Trump Again Says That Christians ‘Won’t Have to Vote Anymore’ if They Vote for Him**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMzAvamV0Ymx1ZS1zaGFyZXMtc2Vjb25kLXF1YXJ0ZXItc3VycHJpc2UtcHJvZml0Lmh0bWzSAVZodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyNC8wNy8zMC9qZXRibHVlLXNoYXJlcy1zZWNvbmQtcXVhcnRlci1zdXJwcmlzZS1wcm9maXQuaHRtbA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMzAvdXMvcG9saXRpY3MvdHJ1bXAtY2hyaXN0aWFucy12b3RlLWluZ3JhaGFtLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
