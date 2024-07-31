@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nation's biggest wildfire consumes more ground in Northern California**
+**Stock futures slip in overnight trading ahead of key corporate earnings: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3Lm5iY25ld3MuY29tL25pZ2h0bHktbmV3cy92aWRlby9uYXRpb24tcy1iaWdnZXN0LXdpbGRmaXJlLWNvbnN1bWVzLW1vcmUtZ3JvdW5kLWluLW5vcnRoZXJuLWNhbGlmb3JuaWEtMjE1OTQxMTg5NTM50gE3aHR0cHM6Ly93d3cubmJjbmV3cy5jb20vbmV3cy9hbXAtdmlkZW8vbW12bzIxNTk0MTE4OTUzOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjkvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMjkvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s?oc=5).
 
 ## Requirements
 - Python 3.8
