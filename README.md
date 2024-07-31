@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roy Cooper Is Said to Withdraw From Harris’s Vice-Presidential Field**
+**MLB trade deadline tracker: Live updates on all of the buyers and sellers as teams look to the postseason**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjkvdXMvcG9saXRpY3Mvcm95LWNvb3Blci1rYW1hbGEtaGFycmlzLXZwLmh0bWzSAQA?oc=5).
+You can read more about it [here](https://sports.yahoo.com/live/mlb-trade-deadline-tracker-live-updates-of-the-buyers-and-sellers-postseason-news-160034753.html).
 
 ## Requirements
 - Python 3.8
