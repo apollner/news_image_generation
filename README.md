@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reeves's first choices make political point**
+**Roy Cooper Is Said to Withdraw From Harris’s Vice-Presidential Field**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jcGUzazFwZTk0OG_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjQvMDcvMjkvdXMvcG9saXRpY3Mvcm95LWNvb3Blci1rYW1hbGEtaGFycmlzLXZwLmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
