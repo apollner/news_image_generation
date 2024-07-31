@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves three dead and more injured**
+**Maduro’s departure ‘irreversible’, says Venezuela opposition leader, as election result protests grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8zMC91ay90YXlsb3Itc3dpZnQtc291dGhwb3J0LXN0YWJiaW5nLXJlYWN0aW9uLWdici1pbnRsL2luZGV4Lmh0bWzSAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzMwL3ZlbmV6dWVsYS1lbGVjdGlvbi0yMDI0LW1hZHVyby1tYXJpYS1jb3JpbmEtbWFjaGFkby1lZG11bmRvLWdvbnphbGV60gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMzAvdmVuZXp1ZWxhLWVsZWN0aW9uLTIwMjQtbWFkdXJvLW1hcmlhLWNvcmluYS1tYWNoYWRvLWVkbXVuZG8tZ29uemFsZXo?oc=5).
 
 ## Requirements
 - Python 3.8
