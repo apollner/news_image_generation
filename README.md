@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Olympics live updates: Swimming schedule today, how to watch Tuesday, medal count**
+**North Korea looks to treat Kim Jong Un's obesity: spy agency**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiamh0dHBzOi8vd3d3LnVzYXRvZGF5LmNvbS9zdG9yeS9zcG9ydHMvb2x5bXBpY3MvMjAyNC8wNy8zMC9wYXJpcy1vbHltcGljcy1saXZlLXVwZGF0ZXMtcmVzdWx0cy83NDE5MDY4NzAwNy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbm9ydGgta29yZWEta2ltLWpvbmctdW4tb2Jlc2l0eS1vdmVyc2Vhcy1tZWRpY2luZS1zcHktYWdlbmN5LTIwMjQtN9IBZ2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbm9ydGgta29yZWEta2ltLWpvbmctdW4tb2Jlc2l0eS1vdmVyc2Vhcy1tZWRpY2luZS1zcHktYWdlbmN5LTIwMjQtNz9hbXA?oc=5).
 
 ## Requirements
 - Python 3.8
