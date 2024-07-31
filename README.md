@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission**
+**Protests break out as Maduro declared winner of disputed Venezuela election**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwYWNlZmxpZ2h0bm93LmNvbS8yMDI0LzA3LzI5L2xpdmUtY292ZXJhZ2UtdWxhLXRvLWxhdW5jaC1hdGxhcy01LXJvY2tldC1vbi10aGUtY29tcGFueXMtMTAwdGgtbmF0aW9uYWwtc2VjdXJpdHktbWlzc2lvbi_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjkvdmVuZXp1ZWxhLWVsZWN0aW9uLW9ic2VydmVycy11cmdlLXRyYW5zcGFyZW5jeS1hcy1tYWR1cm8tY2xhaW1zLXZpY3RvcnnSAXRodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNy8yOS92ZW5lenVlbGEtZWxlY3Rpb24tb2JzZXJ2ZXJzLXVyZ2UtdHJhbnNwYXJlbmN5LWFzLW1hZHVyby1jbGFpbXMtdmljdG9yeQ?oc=5).
 
 ## Requirements
 - Python 3.8
