@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures slip in overnight trading ahead of key corporate earnings: Live updates**
+**North Carolina Gov. Roy Cooper withdraws from consideration to be Kamala Harris’ running mate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjQvMDcvMjkvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s0gFIaHR0cHM6Ly93d3cuY25iYy5jb20vYW1wLzIwMjQvMDcvMjkvc3RvY2stbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy5odG1s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib2h0dHBzOi8vbnlwb3N0LmNvbS8yMDI0LzA3LzI5L3VzLW5ld3Mvcm95LWNvb3Blci13aXRoZHJhd3MtZnJvbS1jb25zaWRlcmF0aW9uLXRvLWJlLWthbWFsYS1oYXJyaXMtcnVubmluZy1tYXRlL9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
