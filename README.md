@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protests break out as Maduro declared winner of disputed Venezuela election**
+**Israeli officials say they want to avoid all-out war in Lebanon retaliation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LmFsamF6ZWVyYS5jb20vbmV3cy8yMDI0LzcvMjkvdmVuZXp1ZWxhLWVsZWN0aW9uLW9ic2VydmVycy11cmdlLXRyYW5zcGFyZW5jeS1hcy1tYWR1cm8tY2xhaW1zLXZpY3RvcnnSAXRodHRwczovL3d3dy5hbGphemVlcmEuY29tL2FtcC9uZXdzLzIwMjQvNy8yOS92ZW5lenVlbGEtZWxlY3Rpb24tb2JzZXJ2ZXJzLXVyZ2UtdHJhbnNwYXJlbmN5LWFzLW1hZHVyby1jbGFpbXMtdmljdG9yeQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2xlYmFub24tYnJhY2VzLWlzcmFlbGktcmV0YWxpYXRpb24tc3RyaWtlLWtpbGxzLTItc291dGgtbGViYW5vbi0yMDI0LTA3LTI5L9IBAA?oc=5).
 
 ## Requirements
 - Python 3.8
