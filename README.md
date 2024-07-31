@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic And Wegovy Could Help Smokers Quit, Study Suggests**
+**Google’s antitrust defense could benefit from the threat of SearchGPT**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvcm9iZXJ0aGFydC8yMDI0LzA3LzMwL296ZW1waWMtYW5kLXdlZ292eS1jb3VsZC1oZWxwLXNtb2tlcnMtcXVpdC1zdHVkeS1zdWdnZXN0cy_SAQA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb29nbGVzLWFudGl0cnVzdC1kZWZlbnNlLWNvdWxkLWJlbmVmaXQtZnJvbS10aGUtdGhyZWF0LW9mLXNlYXJjaGdwdC0xNDE5NTU3NDUuaHRtbNIBAA?oc=5).
 
 ## Requirements
 - Python 3.8
