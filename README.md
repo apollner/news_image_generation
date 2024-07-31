@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore's Temasek plans to invest up to $30 billion in US over next five years**
+**Live coverage: ULA to launch Atlas 5 rocket on the company’s 100th national security mission**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zaW5nYXBvcmVzLXRlbWFzZWstcGxhbnMtaW52ZXN0LTMwLTIyNDAwMDgxMS5odG1s0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigQFodHRwczovL3NwYWNlZmxpZ2h0bm93LmNvbS8yMDI0LzA3LzI5L2xpdmUtY292ZXJhZ2UtdWxhLXRvLWxhdW5jaC1hdGxhcy01LXJvY2tldC1vbi10aGUtY29tcGFueXMtMTAwdGgtbmF0aW9uYWwtc2VjdXJpdHktbWlzc2lvbi_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
