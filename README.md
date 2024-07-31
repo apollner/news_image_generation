@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX moving spacecraft splashdowns to Long Beach, days after Elon Musk said company was leaving CA**
+**Apple says it took a ‘responsible’ approach to training its Apple Intelligence models**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vYWJjNy5jb20vcG9zdC9zcGFjZXgtbGVhdmluZy1jYWxpZm9ybmlhLW5vdC1lbnRpcmVseS1lbG9uLW11c2tzLWNvbXBhbnkvMTUxMTgwMzMv0gEA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidmh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOS9hcHBsZS1zYXlzLWl0LXRvb2stYS1yZXNwb25zaWJsZS1hcHByb2FjaC10by10cmFpbmluZy1pdHMtYXBwbGUtaW50ZWxsaWdlbmNlLW1vZGVscy_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
