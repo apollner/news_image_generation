@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea looks to treat Kim Jong Un's obesity: spy agency**
+**Taylor Swift ‘in shock’ after stabbing rampage at English children’s dance class leaves three dead and more injured**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbm9ydGgta29yZWEta2ltLWpvbmctdW4tb2Jlc2l0eS1vdmVyc2Vhcy1tZWRpY2luZS1zcHktYWdlbmN5LTIwMjQtN9IBZ2h0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vbm9ydGgta29yZWEta2ltLWpvbmctdW4tb2Jlc2l0eS1vdmVyc2Vhcy1tZWRpY2luZS1zcHktYWdlbmN5LTIwMjQtNz9hbXA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8zMC91ay90YXlsb3Itc3dpZnQtc291dGhwb3J0LXN0YWJiaW5nLXJlYWN0aW9uLWdici1pbnRsL2luZGV4Lmh0bWzSAQA?oc=5).
 
 ## Requirements
 - Python 3.8
