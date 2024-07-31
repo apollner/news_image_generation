@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We failed Sonya,’ Illinois sheriff says about fatal police shooting of Sonya Massey**
+**Traders are focused on a central bank this week. But it may not be the Fed.**
 
-You can read more about it [here](https://www.cnn.com/2024/07/30/us/sonya-massey-shooting-community-meeting-sheriff/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidGh0dHBzOi8vd3d3Lm1hcmtldHdhdGNoLmNvbS9zdG9yeS90cmFkZXJzLWFyZS1mb2N1c2VkLW9uLWEtY2VudHJhbC1iYW5rLXRoaXMtd2Vlay1idXQtaXQtbWF5LW5vdC1iZS10aGUtZmVkLTdiMGY2NjZl0gEA?oc=5).
 
 ## Requirements
 - Python 3.8
