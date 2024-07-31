@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s antitrust defense could benefit from the threat of SearchGPT**
+**Gunmen on jet skis kill 12-year-old boy on Cancun beach while firing at rival drug dealer: Mexican officials**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9nb29nbGVzLWFudGl0cnVzdC1kZWZlbnNlLWNvdWxkLWJlbmVmaXQtZnJvbS10aGUtdGhyZWF0LW9mLXNlYXJjaGdwdC0xNDE5NTU3NDUuaHRtbNIBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9ndW5tZW4tamV0LXNraXMta2lsbC0xMi15ZWFyLW9sZC1ib3ktY2FuY3VuLWJlYWNoLXdoaWxlLWZpcmluZy1yaXZhbC1kcnVnLWRlYWxlci1tZXhpY2FuLW9mZmljaWFsc9IBhAFodHRwczovL3d3dy5mb3huZXdzLmNvbS93b3JsZC9ndW5tZW4tamV0LXNraXMta2lsbC0xMi15ZWFyLW9sZC1ib3ktY2FuY3VuLWJlYWNoLXdoaWxlLWZpcmluZy1yaXZhbC1kcnVnLWRlYWxlci1tZXhpY2FuLW9mZmljaWFscy5hbXA?oc=5).
 
 ## Requirements
 - Python 3.8
