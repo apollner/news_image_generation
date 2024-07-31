@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli officials say they want to avoid all-out war in Lebanon retaliation**
+**Huang and Zuckerberg swapped jackets at SIGGRAPH 2024 and things got weird**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL21pZGRsZS1lYXN0L2xlYmFub24tYnJhY2VzLWlzcmFlbGktcmV0YWxpYXRpb24tc3RyaWtlLWtpbGxzLTItc291dGgtbGViYW5vbi0yMDI0LTA3LTI5L9IBAA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibWh0dHBzOi8vdGVjaGNydW5jaC5jb20vMjAyNC8wNy8yOS9odWFuZy1hbmQtenVja2VyYmVyZy1zd2FwcGVkLWphY2tldHMtYXQtc2lnZ3JhcGgtMjAyNC1hbmQtdGhpbmdzLWdvdC13ZWlyZC_SAQA?oc=5).
 
 ## Requirements
 - Python 3.8
