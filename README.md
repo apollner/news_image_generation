@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maduro’s departure ‘irreversible’, says Venezuela opposition leader, as election result protests grow**
+**‘We failed Sonya,’ Illinois sheriff says about fatal police shooting of Sonya Massey**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS93b3JsZC9hcnRpY2xlLzIwMjQvanVsLzMwL3ZlbmV6dWVsYS1lbGVjdGlvbi0yMDI0LW1hZHVyby1tYXJpYS1jb3JpbmEtbWFjaGFkby1lZG11bmRvLWdvbnphbGV60gF6aHR0cHM6Ly9hbXAudGhlZ3VhcmRpYW4uY29tL3dvcmxkL2FydGljbGUvMjAyNC9qdWwvMzAvdmVuZXp1ZWxhLWVsZWN0aW9uLTIwMjQtbWFkdXJvLW1hcmlhLWNvcmluYS1tYWNoYWRvLWVkbXVuZG8tZ29uemFsZXo?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/07/30/us/sonya-massey-shooting-community-meeting-sheriff/index.html).
 
 ## Requirements
 - Python 3.8
