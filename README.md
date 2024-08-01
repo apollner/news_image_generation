@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuations expanded as wildfire spreads near Lyons**
+**Wolverine Co-Creator Roy Thomas on His ‘Deadpool & Wolverine’ Credit: “My Name Should Have Come First”**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbkJ6RnZzQ3FKRHJEaE5tNER1dFM4M1k3SUM5S1doMVZiSUJFVDlLZUtXUXY4a094Q1JvOU9wSks4a0NJejNRT0x5blMxbmtPVFNhdXd5YzBlY1J4VjNPYkNmcTIzR29vUDNkbWJ0MFdyVjZr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1ZVOTRwNTA5cWRvZmtQWWdxMHRRY1M1MWtrZEJVSzZxUHJGeDY4Uk1HdHZYcDlyeEd3MDRHRkh5YXhqTVBVbE5tdExSazk3d0ZQWW5LR3AtWmd1TzhNSExNalFITWhWVFBIQko3S2xqbGJuZzQyd2JOWlYzeWxXY2dWTFhmanZRT0JnM1lRc0VZQXM3cnRxb3FPcUtPRGFzbTVqbFk4ZFc2bnZ3LUFodXR4ZWRmZFBDYWfSAb8BQVVfeXFMUFhNX1ExWEFaNE14RE5NVWZuZWhrSlJUc3J0ZWFaNkdKZlQ5TnpiSVhnOEF0TGdQb0xDS3VFdnVmdkNhVTZ6MjJrSWlUWi0wNy1qZWl4MjR0U01PTHExMUgxTTZGclpPQXFXZ0llSGJORHdXY1lDQjZrcURMOFhhYjByOEUwYW55ZHdYc3J5VE1CcDRJSkoyOHVZclZXQWdVSlltd0RoUnFvd0JqeFhEandkLXZ5dkZxd0VSYmdYb2s?oc=5).
 
 ## Requirements
 - Python 3.8
