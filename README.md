@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This is the new Siri with Apple Intelligence in iOS 18.1 beta 1**
+**Israel says its Beirut strike killed Hezbollah’s top military commander, who it blames for Golan Heights attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOUFRjMFNHendfZFA0cjJGc2diSXJsM2NhYXFnajRwRGdUZEczS0NrZzM3NjByTXF1WHBLeWFCVS1sVHYydEszaXJIMFFHVnFiNE5hMlk4OUFLTThVaFhOckVFaFZvOWxHQ3ZPUEtlRWJoT29XbjlBdDkzM1Q1MGhjbTlCSkx5RElqQnN2b282YU1sbFUyQzFXc0ZR?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
