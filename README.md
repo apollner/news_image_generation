@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reeves and Hunt's claims about shortfalls checked**
+**Evacuations expanded as wildfire spreads near Lyons**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRE1aTEhMZ0lPNmttNjRxeW5BR1dBa0lYRzZ5NlRIY0RFbWlVSVNZZjhwWTQ0LXJRRERyY1NOMFU2MDZVRERlX3dwaEE4QW5VYmV5UUdCYm1GUdIBX0FVX3lxTE9qYkxRTVp1NmZpMmRpRDR1aFBoOWlsU2xWamQyZ3lDa3dqSjFZNjlwelRsWVQza05JWVNhVU9rV2ZmV1BBMXd4Mm55c2lEN1QyRDhRTC1MY1FJWHRJYWkw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FbkJ6RnZzQ3FKRHJEaE5tNER1dFM4M1k3SUM5S1doMVZiSUJFVDlLZUtXUXY4a094Q1JvOU9wSks4a0NJejNRT0x5blMxbmtPVFNhdXd5YzBlY1J4VjNPYkNmcTIzR29vUDNkbWJ0MFdyVjZr?oc=5).
 
 ## Requirements
 - Python 3.8
