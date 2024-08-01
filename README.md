@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner’s ‘Horizon 2’ Set for Venice Film Festival World Premiere After Pulled U.S. Release**
+**Stocks rally before the Fed decision as Nvidia soars 10% to lead chip comeback: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNIUHlON0tDU2ROMWtLQVNSQ1A4UzVWalZfREhILWRNQ3FlazA5bUJ2YlN5RjUzZzFkOXAtMHk3eEI1ZVRBczBFT2xIMjA3RUIzZU1ZaGd1RG5yM0JrenlaMHhXbW5Zd1M3SUhpekJRRXZnVjc3alhneG9BamJtLW9TMngxUjBjMFIzZGdlUktzQk55UFRGNHRBT1NJUDl6RHZjMDJBUWHSAa4BQVVfeXFMUFZ4TzJibXI5VnNxZFVkN25xcFdmbGgyamR0U1p4LVNuaFBISDZhZ0RGYWZLTmpra2VIUFVkNkN2aTBtQmV5SFJxZ3BWVE1FZGF4R1l2WFkxQnlxSDY0cGZYV096MDNBeTJmZlFPaHFaNmFRUXFoMzJzZXZGWFJKMllOZUZmeHM1SXNoVDh6ODdUSUVNNGJHRXRiQ1JnMG9aeEx2Vl9sYTNWSEVMd3FR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE00QjIzeEd5Q3FDaERnbXpMZ1FhZ3J2eW5sMlU1aUtDQzNSMzBxQUM0SksxQUZoV3JhQWVySHdnWUFEUzVUWkpjcXBWeW8wdG1WR1U2cUtkV0VveXJyRGlyZWU1WUdwYjZacXV4d1d6TldDUWNBaUFj0gF8QVVfeXFMT0VlQTU2M2xseEhaTVlyZ0JNVjE5SHJ0SS1jOUt1T1ZKeUN4YWtiMjkxaXJhOER2X0lhVDMxTmdWYVhFT210RVkzdDRfWVBNbWl0b0xvVlZSVlpWUDVlSGt0bkgtSmNIVlRKX2ZWdEl1U1o3cFlHclI2OEVVaQ?oc=5).
 
 ## Requirements
 - Python 3.8
