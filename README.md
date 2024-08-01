@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who will Kamala Harris pick for VP? Shapiro and Kelly among finalists**
+**Fed Meeting Today: Investors Await FOMC Interest-Rate Decision, Powell Speech -- Live Updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTHdHaDVvMnFYX25JZEFidXBuVDZfOGJ6RGxXYlBIWFpzWU9NbTEtQ0tlQ0VXQWxTQlVmelg0aU1Xd1cyV2xsVTlFQkVuNU1WUjRKN3hmQnNqUdIBX0FVX3lxTFBZQloxZWo4Q25pWU5ZVjhwaUY0MWFhWHNFa1NzYzB6NXZodUpzOTNqeDd2YmpGTUFwckZDVURiZlJuY0ZCcV9SOWduWTFMTHhFeWpOVlNTbkFFWk9tMkZJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JlSlZtM0o0Z2JoRGZqdUtyZzRhYW4xbjlkN0tudFp5SGRvTFBZSGNmMDdHVm5wTFdUYUNxbDdYWXh3SWVmRjdYck4tN0NzT0NOdDFlZ0lwRTNCYUF2WElXelpBa2E4Ym55NFV6bEVQLVdmbTdYc1VSNVA1TnRMYl9VU2I0LTFSNkU0MUladGdRdw?oc=5).
 
 ## Requirements
 - Python 3.8
