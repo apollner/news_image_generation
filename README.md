@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles defies Newsom's order to clear homeless camps**
+**Carter Center unable to verify Venezuela election results, blasts officials for lack of transparency**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQlRHMWNGVGJFWkE5ZWx6d3JPeF9xaFA0eElkX0dlNVpvM3BiQmNhZmc0Y0dYc2YwM2JWNHYzbV9ha3RjOGFpbXNCQUZ5enBva2ZpeGRtSDdvOFl2anF4Rzk0aWc2NHI0enF0VTBnbERiM1puYU83VzBZSHdIRkJNdWt1YWgwd245SjVkRVJ6ZThvMUthWnpYOU5jWXdOT3I2bTlfN01R0gGuAUFVX3lxTE9WcUtXLUFESmFxcnE0N1ZIa3VkNmJDNmJzY1JCRkVUZTZVdmtZbnhLNEYweUExQmxMWUFLcE1yREZQeS1iTXlnTW5nNVlMXzBZbkprMGVpVXBPTy1CVFJYeklrdzZ5Ym9aUW5zX0FvNW5ObGlsWUJmTlpXa3A2R2ZENkdwYU0zb195c2pRTEt5LXh5ZFZuV2tiV2dtWER6NE9iZXNneXhQZ3h6cHNpQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmdadldGdlA3elc3b1lvOHcydUwyV3QxcldVdUI2Y1lZbHRZakw1V1FOdklTU2RDM0VDcmVGZTVFaVdETVQ1S3JFSmhpSFlXamw5MnV3NFBIaXQwdmJxREI3ZjVxZWtqSDZZanpWUTdZaHh4aU1KVkR5d2hoWmxRcFp5SjNEcjR5ajlhcFZDczc4RUV2U3ZmaVRWdklsSXBTbnNQX0ctSzVqU0JDeXNwa0FRTDdCa1ZRcGV2NDRBbw?oc=5).
 
 ## Requirements
 - Python 3.8
