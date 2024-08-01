@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wolverine Co-Creator Roy Thomas on His ‘Deadpool & Wolverine’ Credit: “My Name Should Have Come First”**
+**'We just had to go for it': Herriman's 'Spiff' Sedrick rallies USA to rugby 7s bronze**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1ZVOTRwNTA5cWRvZmtQWWdxMHRRY1M1MWtrZEJVSzZxUHJGeDY4Uk1HdHZYcDlyeEd3MDRHRkh5YXhqTVBVbE5tdExSazk3d0ZQWW5LR3AtWmd1TzhNSExNalFITWhWVFBIQko3S2xqbGJuZzQyd2JOWlYzeWxXY2dWTFhmanZRT0JnM1lRc0VZQXM3cnRxb3FPcUtPRGFzbTVqbFk4ZFc2bnZ3LUFodXR4ZWRmZFBDYWfSAb8BQVVfeXFMUFhNX1ExWEFaNE14RE5NVWZuZWhrSlJUc3J0ZWFaNkdKZlQ5TnpiSVhnOEF0TGdQb0xDS3VFdnVmdkNhVTZ6MjJrSWlUWi0wNy1qZWl4MjR0U01PTHExMUgxTTZGclpPQXFXZ0llSGJORHdXY1lDQjZrcURMOFhhYjByOEUwYW55ZHdYc3J5VE1CcDRJSkoyOHVZclZXQWdVSlltd0RoUnFvd0JqeFhEandkLXZ5dkZxd0VSYmdYb2s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUo4bVl4V1hDaUVtbkNTVG55NlVrZDB1bmhmazNESERRTWdTbFN4R1dUU0RDVkF2Sy1maDdTQlNsdGI2M2ltRm9rd1Vfb1V0WnNIOXdIT1lSUXFDNEVaUktDOWw4dUJjWi1JaGZJVGVwaThxNUtfa2p2NG1XLVpTM2N4UUlxRE4wUDYwN29fY1BuaG90ZE1iSDZqZm9yQUdGcUllWjFUamF2bUpfV2xjN3FSTjZoS0QwNUtJ?oc=5).
 
 ## Requirements
 - Python 3.8
