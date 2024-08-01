@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suicide rates in children have continued to climb across 15 years, study finds**
+**Marvel already killed off the MCU's main Kang without us noticing**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/07/30/suicide-rates-increasing-children-preteen/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNR2JYZTJGOEpmQ3NJSURfTDJ5TEtCeUR4U0k3VWU0bnR6cGJHemVXVXRqdUt0VS1lR0NCZE5uR2dDM3E3b1hwMjRDWWZ4MnNqb09DS2hsZUZnbGZCY0t3OXBaNXdJUzNBYThoXy1ldGNta3dVOVB0ekxBdEZ5V0tXTlpNdWdGZnJBd01fdjVXRlNvTlo1Q2NOSkhn?oc=5).
 
 ## Requirements
 - Python 3.8
