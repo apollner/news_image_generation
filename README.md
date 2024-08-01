@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atlanta rally: Harris tells Trump to ‘say it to my face’ and challenges him to debate**
+**Israel says it killed Hezbollah's top military commander in Beirut airstrike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOajNIMTQtS2FYMTZaamdoUG93UnFvdFdEWkFYYTRkRFVpM3ljMndxVmsyY2VYdHVMd3pOU2JqS0VScGdycmx1NG5hdk9zU3BrRjI5REtJb3I0a2hxcS1zUnJ3ZS11cFJ0N19SUEZIRTlpclV1NWdzT0hvaElQWGZQYXdiOEdCakhGcGVN0gGLAUFVX3lxTE5mVmpUZ3BNcVloSFJidXpCeEhKRHRSRDFDVFRSR191UmtLcV9qcHZRdlo3TkI1TGZDUHEtV1RSUEhVNE1oMkt6OHU4WjhIR0syMkMxYWM4ZlVTYldCSXVMZndpWTRYRmtYX0JTenZwWU9CNGx3bTNsZXNPMWgyVVRwTVphYl9nd1poaTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjgwUTZoZE9jaHZrUEVpR29ndm5pVHFQQjViUU5nQkIxdk9FazFZQW9mSU41c2dYSmw1MVh5b0pNOHN5RlFqZGpnOWdrRXNnUjdleDhwTGk1VmlsNjRfMFYzLXZJeF9tV1FDVG8tSzBuRnNSY0RvM1lfYlVxVklWeGZB?oc=5).
 
 ## Requirements
 - Python 3.8
