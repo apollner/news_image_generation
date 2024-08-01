@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carter Center unable to verify Venezuela election results, blasts officials for lack of transparency**
+**Kathie Lee Gifford hospitalized with fractured pelvis after fall while recovering from hip replacement surgery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmdadldGdlA3elc3b1lvOHcydUwyV3QxcldVdUI2Y1lZbHRZakw1V1FOdklTU2RDM0VDcmVGZTVFaVdETVQ1S3JFSmhpSFlXamw5MnV3NFBIaXQwdmJxREI3ZjVxZWtqSDZZanpWUTdZaHh4aU1KVkR5d2hoWmxRcFp5SjNEcjR5ajlhcFZDczc4RUV2U3ZmaVRWdklsSXBTbnNQX0ctSzVqU0JDeXNwa0FRTDdCa1ZRcGV2NDRBbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjVvb0dSSTB1NWFudjNfY2QxTG5jVGppT3hLdjZ5ZWlGT2NIMElqRkJta0xVUHpHVDBWLVRjUU5IdWs1aEd6MUxjWkxjS2JIZHNKc3l5QmZPNzR1MkJQV1hjNjg4UFUzd0MxaGtSb2lwRm4xLUZQc1NIMml0YmNER3FncFlLUmlxZjdjdGpQVHU3Zlhod1lhTXprekVSMkU?oc=5).
 
 ## Requirements
 - Python 3.8
