@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists discover entirely new wood type that could be highly efficient at carbon storage**
+**Multiple attendees of Calif. music festival hospitalized with valley fever**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE9Gc0VtWGduU3JSY1NqS1VQeDVYdGZSdHlld1lNcm83N0xraXVQT1NKRDV2ejY5ZGdkT3ZZQXhrUTZhNjc0STRHRVcwazJrOFQxT0VSUGR2WUxFSkhyZmRxXzE0MWJyckZyaExUSHdwd01CVlF3U0xMd1h2Rm44aFU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUUVxazRsdkJKYkdEYTJqR1V0Tks4aHppQm8yTTZyOVBYVmpONFBZOTJQYUhldHBaUEUwY05ZcVAzTEhRRkVwb0dxak5SeDlMS2xtdGgwckxhY1NqVlhySXpwRnM4MHpIX2t4OXQ0Vk82ZGpCNjVwalBkSnEyZ2ZRRFVIVjdSalkzRHpza0dSREFubG5XaUd1TUlueV9OeGYwMXRiTA?oc=5).
 
 ## Requirements
 - Python 3.8
