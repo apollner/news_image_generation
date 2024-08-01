@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kathie Lee Gifford hospitalized with fractured pelvis after fall while recovering from hip replacement surgery**
+**Roy Thomas Says His Wolverine Creator Credit Should Have Come First**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjVvb0dSSTB1NWFudjNfY2QxTG5jVGppT3hLdjZ5ZWlGT2NIMElqRkJta0xVUHpHVDBWLVRjUU5IdWs1aEd6MUxjWkxjS2JIZHNKc3l5QmZPNzR1MkJQV1hjNjg4UFUzd0MxaGtSb2lwRm4xLUZQc1NIMml0YmNER3FncFlLUmlxZjdjdGpQVHU3Zlhod1lhTXprekVSMkU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZjSjhsYVJBNkI5MVA4aEZLMWs1OFhDTHlUb1NQSy15bU1aU0tDUE4xZTBkeEZCQVViekp3ckNnOW16alg3aDlxSzJPRlBsTHlFeHU1RWZpTnM0WHJYdXlfdVFSRjdQWVl1OFhpd3N4Yy04SzNkVlU5Tlo2NzNJckRkMzl4YnMwZkpuWjNXbGtHdUJGV1djem9jTFNmRWlETWc?oc=5).
 
 ## Requirements
 - Python 3.8
