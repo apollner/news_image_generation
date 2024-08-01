@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious unidentified fireball lights up sky from California to Texas**
+**Israel says it killed Hezbollah's top military commander in Beirut airstrike**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNejVuTlB5WndneVRjSlFXaW13c2FDOUF4T1JRVWpiRU9tQUVXOVVhdWZJNkdSazRCMUJzYVhJX0RwQWR3Rkdjb0NpSVNsVzRNZWd6UzdtRTRuYXE0cXRhMjlzVVZYU1F3V3RZcWZTd2xQWmtCQzZMQnlEbjI1bnI1MEVGZG9GaVVEUmI5bEduWmNLV0JoMi11a0t1R1h5OU45ZXJUQ2MwT0tSdkR4aWdv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjgwUTZoZE9jaHZrUEVpR29ndm5pVHFQQjViUU5nQkIxdk9FazFZQW9mSU41c2dYSmw1MVh5b0pNOHN5RlFqZGpnOWdrRXNnUjdleDhwTGk1VmlsNjRfMFYzLXZJeF9tV1FDVG8tSzBuRnNSY0RvM1lfYlVxVklWeGZB?oc=5).
 
 ## Requirements
 - Python 3.8
