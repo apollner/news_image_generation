@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First Murdoch papers targeted me. Now there is evidence they falsely implicated me in a cover-up**
+**Sunita Williams' Earth return mission makes progress after NASA's successful tests, but pressure is far from off**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdzI3VFc1ZUN5MzJrQ1FjUm53Ni05QThLVGNBWHlvWkNxSFNRdmRsQm4wTGhHcGtlM0k1N290dEdqd0pZVFBTS1ZRZ2FoMThGRTV3bFhXZjFTNlFPWlNtS01KVENDNjhSY2pMc0NIaEluV3E5TU41U1BqY0t1RF96OElCY3ViOFcxRFNFelBZWHBVZGQtWGpONnRKc3FRYTBFNE45M3F6WWVBR09mZGlYNFRmaUl3TjFxN0RXN0Rmai1tWm5fWlU4bDRPNERHQdIBzgFBVV95cUxOcEdVdGhjbEZORXlDckRlaWJMekgyY3A3alAxQzdvQk9ZS1IzNThYV1lRa01zVmNVWjRRVHBHU3JGcUtHeEVVVHR2dUw3ZDE1N01kWmxGQjhZYkhoTmNucGF0UndzS0h0NjVoSjIxcUZCRFAtSHNRaHRua0VSNFBvZzBkV3l1VVZxalJLYmdpTkZ4YjFxYXg1ajlCOTRZTUpGeFo3Z1lHNVpqaWM5dzVfOXRaTGFveWdSMHI5QXNxdGZGbE93dEVyN19zMDJWZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAJBVV95cUxNREN1WjVzYTEtSHZCdzQ5OGJWZHlfb3c0cS1Lai11bkpxZGZKeElZUXRaaXg2YWN0VEU3WlVmWGFPd2RVTlFYMmlmTGhLeEEtczBsU0ZsbFlpYWJVWDNnQkZyOTNqQ1hEWHVtRUx2bzlzYW0wQ01sQXFibGh4eTVTV3o5M3oxdFJiRngzSXVpX05kOU1KRnd0UGNyc0ZrNDhjOFl3amtYdHJxU3hyTHVEOXBQcFNNZzNxQ0Vwc3plZkNlLVhxV05kUWktTzVWQkpiT1Fjb1l2cmFod1l0TnJtVW9WQTlmZWNuTWx3QkRJOHhuV211N2NRckFqaDFFdG5OSElocEl6M3JaeHFa?oc=5).
 
 ## Requirements
 - Python 3.8
