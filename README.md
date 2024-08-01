@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**22 cops injured in clash with protesters near site of UK stabbing attack that killed 3 girls at Taylor Swift-themed dance class**
+**Israel says its Beirut strike killed Hezbollah’s top military commander, who it blames for Golan Heights attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT0NNUEwtM0Raek80ME1MUk4ybFd6UVFFZUZjVlpuV1pHcU9HeEJuejBQOWlGOVVhVV9wak1MbGdYV0dOR2ZkWnZYemlZa1EtRGpQWTFGUjFtV19BQmJkR1ZtdThpbll5R0xxb2FEYjloUkJZZnk0aGlNVW96NEtxYU5ELU84R1czaUJ6WGlOaXlrQTVlVm1CMEREeXJ6WVdRdkc2MUt5YWd1Tm83X2Vrbi1sdnRWVExBTUZFQWRSenpuc2dXUGZMUkd2MWY0MlNsR2FVTkMyUGtyZi1vSjVGY2VpNkdvbUs5eV9VcWdicnAtMUhGWl9vYnZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGZYRXNpOEVJeW42RWppNDJmdzJfUnBKTW1Ka2VyeE43SlBrdjdGSVVCRWVvVHpSRkxXOUo4YTRaZFdFOWkzVlh0Ykg0di05dzF3bTRvb3FtYzJWMzFpR2ItUmNPbVZwdXEwR0tySWREcTFSb1B6aEQteU5jQURUSFVqZ0dZcFFHUUJ0Q0plMkpyLTBFaTN2b3pVU2xXOTB1dWNB0gGaAUFVX3lxTFBhdmU1R2hSTGxLQU9IbUNPSjNsS0F6QWJLSGtrMjY2bTZpeWNPczZ2SHpvaVlDSFRNc2RYVTVyZ0dpbDdWSHBLalUtTWc2U01wT2oyanAtbUVuR2cyQ3FMZUhmTnlrQ2RqMDVLLVpYR09pdXc4NEdPdnM4cnNrd19PUnJleV8wTjZJUGhrQ3RtMkhoRDJNbFl5V3c?oc=5).
 
 ## Requirements
 - Python 3.8
