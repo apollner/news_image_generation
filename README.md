@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT Closes Out Group B against Australia**
+**Al Jazeera journalist, cameraman killed in Israeli attack on Gaza**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/07/usa-vs-australia-match-preview-notes-paris-olympics-july-31).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRzZVZTZzajlKRWFvbWhRU1lTSUhwZjllQjZmaHh3andkNDVka3FDOUpkZ3RtYzRYYlJTdW5aMGZ6Qlc1WHltcXM2Yk9seDcwdkRCa2prS1BpbzFvY1BJbVM2MjdoS3d6MS05d2pJamY3RG5BUm9GZzh3VWpGdlpCMjNvNUlQOFNYdUpiSXhnekY1VUxGVGtlNGlB0gGfAUFVX3lxTFBEeEJiSDViNnc1dmozTDZEUkVTZ3BBaEdCZ19QdmRWN0hZbmkxaXI4S1hMYlUyVHg4djVpVWtRRllPSGRQekhDMnc4T1pGQVJGVlNzOWl5MVR4MDhnSDhEbjFZMlhTQmxVZWJPcDk1T1BWYk1TbWV0MVloNlV4QlZtby1zMWdqa1Bwa3Z0eE4xamhvSDRsS3FYMFh0anZ4RQ?oc=5).
 
 ## Requirements
 - Python 3.8
