@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Meeting Today: Investors Await FOMC Interest-Rate Decision, Powell Speech -- Live Updates**
+**Hezbollah says top commander Fuad Shukr killed in Israeli strike on Beirut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ1JlSlZtM0o0Z2JoRGZqdUtyZzRhYW4xbjlkN0tudFp5SGRvTFBZSGNmMDdHVm5wTFdUYUNxbDdYWXh3SWVmRjdYck4tN0NzT0NOdDFlZ0lwRTNCYUF2WElXelpBa2E4Ym55NFV6bEVQLVdmbTdYc1VSNVA1TnRMYl9VU2I0LTFSNkU0MUladGdRdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNG1aN2xENERvY09zSVd0QnF1dkViV1lEa1ZKUVJibkZEeWJSYkVTa3JwUDl0cXROdWRjNjdvN0p3bGhSb2ptZURjeG1uSWJic09mbnRiblNud1B6Zm9BWkcwSzhlMWxoZHhaaERHNjVPVldzNWF0QlJvZW4zTk5vZGpkSVBKVF9lN21GVGhsR2JtSUFIS3ZscmxtWGZiYlFuYWhUc2RiUnRXV21aaGI4Q2ZmZ9IBuAFBVV95cUxOZHVHUHlfSW9DUDNKTk5xVFhGYXFVRjhRaVZlRXZ2UmdxbjdQbGZaUERia2x3bzNFaWVucE4tcmcxTXQwRzdmQ3NUalltQVNVaTRpRnBOUHAwTjVsZXY1emFTT255UW01cW1FbXFNV05kUHFyblh6Y0RpM1RzSU51emNraTE3UHA0aEdJamU3bmRpRmNydFpWaTNhd0xHeVp1aDVUel85NkNmUjkxWng5VWUySGxxRFJ0?oc=5).
 
 ## Requirements
 - Python 3.8
