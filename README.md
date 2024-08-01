@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it killed Hezbollah's top military commander in Beirut airstrike**
+**Suicide rates in children have continued to climb across 15 years, study finds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjgwUTZoZE9jaHZrUEVpR29ndm5pVHFQQjViUU5nQkIxdk9FazFZQW9mSU41c2dYSmw1MVh5b0pNOHN5RlFqZGpnOWdrRXNnUjdleDhwTGk1VmlsNjRfMFYzLXZJeF9tV1FDVG8tSzBuRnNSY0RvM1lfYlVxVklWeGZB?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/07/30/suicide-rates-increasing-children-preteen/).
 
 ## Requirements
 - Python 3.8
