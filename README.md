@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's earnings disappoint on key AI metrics**
+**Google upgrades search in drive to tackle deepfake porn**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE95MVhuOGRGX1dsSlFGTzZCUlJzZHdfYjVNYzZtN2pINUstQ3NLNFhKVUhxbVB5M0dvUk1UVkFOaDk4VUdSNUFSRWVvam14UG1aMUF1VkN6TVhlbnd0WG1GQ1E5M3ZNeXBNNThZWEo4dlNmOGFLaGFickk4VWM?oc=5).
+You can read more about it [here](https://www.ft.com/content/a2b4896b-c48c-4b00-ab1a-e8cd7f98b299).
 
 ## Requirements
 - Python 3.8
