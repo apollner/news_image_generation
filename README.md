@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roy Thomas Says His Wolverine Creator Credit Should Have Come First**
+**Belarus pardons German in terrorism case; Russia moves political prisoners**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPLWZjSjhsYVJBNkI5MVA4aEZLMWs1OFhDTHlUb1NQSy15bU1aU0tDUE4xZTBkeEZCQVViekp3ckNnOW16alg3aDlxSzJPRlBsTHlFeHU1RWZpTnM0WHJYdXlfdVFSRjdQWVl1OFhpd3N4Yy04SzNkVlU5Tlo2NzNJckRkMzl4YnMwZkpuWjNXbGtHdUJGV1djem9jTFNmRWlETWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQMUQtamxiZU5DakFZVXB3SzlLV2lVcDNiSmtrOW16SmdYNU1vQWNBX0hsOTdhLXBOQklZNHZpNjJicFRJVmpLUW5BTFRRbTY1QzZPRUdrQ0VQbmZqUTU3U2haLWhmUXVmX3VSN01BMUFZOEJ0RlBDY0t0Ri15dno5dGFlNW5EeDNGTnhDdk1MQkxNSExD?oc=5).
 
 ## Requirements
 - Python 3.8
