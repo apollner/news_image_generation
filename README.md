@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'We just had to go for it': Herriman's 'Spiff' Sedrick rallies USA to rugby 7s bronze**
+**Scientists discover entirely new wood type that could be highly efficient at carbon storage**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVUo4bVl4V1hDaUVtbkNTVG55NlVrZDB1bmhmazNESERRTWdTbFN4R1dUU0RDVkF2Sy1maDdTQlNsdGI2M2ltRm9rd1Vfb1V0WnNIOXdIT1lSUXFDNEVaUktDOWw4dUJjWi1JaGZJVGVwaThxNUtfa2p2NG1XLVpTM2N4UUlxRE4wUDYwN29fY1BuaG90ZE1iSDZqZm9yQUdGcUllWjFUamF2bUpfV2xjN3FSTjZoS0QwNUtJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE9Gc0VtWGduU3JSY1NqS1VQeDVYdGZSdHlld1lNcm83N0xraXVQT1NKRDV2ejY5ZGdkT3ZZQXhrUTZhNjc0STRHRVcwazJrOFQxT0VSUGR2WUxFSkhyZmRxXzE0MWJyckZyaExUSHdwd01CVlF3U0xMd1h2Rm44aFU?oc=5).
 
 ## Requirements
 - Python 3.8
