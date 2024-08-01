@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunita Williams' Earth return mission makes progress after NASA's successful tests, but pressure is far from off**
+**Hezbollah says top commander Fuad Shukr killed in Israeli strike on Beirut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAJBVV95cUxNREN1WjVzYTEtSHZCdzQ5OGJWZHlfb3c0cS1Lai11bkpxZGZKeElZUXRaaXg2YWN0VEU3WlVmWGFPd2RVTlFYMmlmTGhLeEEtczBsU0ZsbFlpYWJVWDNnQkZyOTNqQ1hEWHVtRUx2bzlzYW0wQ01sQXFibGh4eTVTV3o5M3oxdFJiRngzSXVpX05kOU1KRnd0UGNyc0ZrNDhjOFl3amtYdHJxU3hyTHVEOXBQcFNNZzNxQ0Vwc3plZkNlLVhxV05kUWktTzVWQkpiT1Fjb1l2cmFod1l0TnJtVW9WQTlmZWNuTWx3QkRJOHhuV211N2NRckFqaDFFdG5OSElocEl6M3JaeHFa?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNG1aN2xENERvY09zSVd0QnF1dkViV1lEa1ZKUVJibkZEeWJSYkVTa3JwUDl0cXROdWRjNjdvN0p3bGhSb2ptZURjeG1uSWJic09mbnRiblNud1B6Zm9BWkcwSzhlMWxoZHhaaERHNjVPVldzNWF0QlJvZW4zTk5vZGpkSVBKVF9lN21GVGhsR2JtSUFIS3ZscmxtWGZiYlFuYWhUc2RiUnRXV21aaGI4Q2ZmZ9IBuAFBVV95cUxOZHVHUHlfSW9DUDNKTk5xVFhGYXFVRjhRaVZlRXZ2UmdxbjdQbGZaUERia2x3bzNFaWVucE4tcmcxTXQwRzdmQ3NUalltQVNVaTRpRnBOUHAwTjVsZXY1emFTT255UW01cW1FbXFNV05kUHFyblh6Y0RpM1RzSU51emNraTE3UHA0aEdJamU3bmRpRmNydFpWaTNhd0xHeVp1aDVUel85NkNmUjkxWng5VWUySGxxRFJ0?oc=5).
 
 ## Requirements
 - Python 3.8
