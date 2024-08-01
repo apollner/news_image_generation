@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers, Garrett Wilson downplay animated exchange during Jets practice: 'It's about winning'**
+**Tracking the tropics: Disturbance could become tropical depression near Florida, NHC says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVU5XcUhnVHNwanpYVERPMlUyZ19SVC1KZUotX0dNM1k3dGlfbkNXZGZNRm5pOFNIeGNmVHZKYlNqa2wxcEZ2eUhXV2RkTzBJODJZYzBnVlcwckxCNlQ5VUczcnJHeDlBZGEtTlNKbl9LemVnOVZJdGR6UTFWWmJBdzBQOGl3Y0xqTTNGX1paNF9ISjk5OXRYUjFkUXM4N1JuZHIzUVUwV0RJcGdEYXZ0VS1UNkt6b2xScmt5bQ?oc=5).
+You can read more about it [here](https://www.wesh.com/article/tropics-florida-disturbance-spaghetti-models-track/61749305).
 
 ## Requirements
 - Python 3.8
