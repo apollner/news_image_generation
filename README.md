@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google upgrades search in drive to tackle deepfake porn**
+**AMD stock jumps after earnings beat driven by AI chip sales**
 
-You can read more about it [here](https://www.ft.com/content/a2b4896b-c48c-4b00-ab1a-e8cd7f98b299).
+You can read more about it [here](https://finance.yahoo.com/news/amd-stock-jumps-after-earnings-beat-driven-by-ai-chip-sales-202456320.html).
 
 ## Requirements
 - Python 3.8
