@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says its Beirut strike killed Hezbollah’s top military commander, who it blames for Golan Heights attack**
+**Angelina Jolie’s son Pax ‘stable’ following bike accident**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGZYRXNpOEVJeW42RWppNDJmdzJfUnBKTW1Ka2VyeE43SlBrdjdGSVVCRWVvVHpSRkxXOUo4YTRaZFdFOWkzVlh0Ykg0di05dzF3bTRvb3FtYzJWMzFpR2ItUmNPbVZwdXEwR0tySWREcTFSb1B6aEQteU5jQURUSFVqZ0dZcFFHUUJ0Q0plMkpyLTBFaTN2b3pVU2xXOTB1dWNB0gGaAUFVX3lxTFBhdmU1R2hSTGxLQU9IbUNPSjNsS0F6QWJLSGtrMjY2bTZpeWNPczZ2SHpvaVlDSFRNc2RYVTVyZ0dpbDdWSHBLalUtTWc2U01wT2oyanAtbUVuR2cyQ3FMZUhmTnlrQ2RqMDVLLVpYR09pdXc4NEdPdnM4cnNrd19PUnJleV8wTjZJUGhrQ3RtMkhoRDJNbFl5V3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQblUwVWU4UDE4SDRBcHcxZkhVQ2pLZDBndlUzUXpZZE04T0s0djZrQV9WYk9CTThXYjc5SGp0OHFtajMxYWRhbTczNHpTVXJDdnNPU3NKbnpvRldCa1BaZTg0clU1cDU5M3l6N0FGZkt6SkxPVTZwY0xBMEdqbXlLbkNydmM4VTBZWjE2aWxwQ05EbkV2Z3lj0gGOAUFVX3lxTE9HWnhIOXNrbzYzTS1Gd0pHcjk1WkUwMWJWd2JwSVU4YkpmMXNIblJaMFRlaWN6UDVVTVJ3NUVoZ09PSEY4QXhEVUxTR2luVGhCcHZiSlVRaG1ldkhFX0lieXNLOXZXc3M5RHZoX3N0WFpMYXRsUlpxVUo4S1k3NG5YU3lVQXlWOXlmaVR0eGc?oc=5).
 
 ## Requirements
 - Python 3.8
