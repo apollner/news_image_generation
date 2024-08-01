@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie’s son Pax ‘stable’ following bike accident**
+**Kathie Lee Gifford hospitalized with fractured pelvis after fall while recovering from hip replacement surgery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQblUwVWU4UDE4SDRBcHcxZkhVQ2pLZDBndlUzUXpZZE04T0s0djZrQV9WYk9CTThXYjc5SGp0OHFtajMxYWRhbTczNHpTVXJDdnNPU3NKbnpvRldCa1BaZTg0clU1cDU5M3l6N0FGZkt6SkxPVTZwY0xBMEdqbXlLbkNydmM4VTBZWjE2aWxwQ05EbkV2Z3lj0gGOAUFVX3lxTE9HWnhIOXNrbzYzTS1Gd0pHcjk1WkUwMWJWd2JwSVU4YkpmMXNIblJaMFRlaWN6UDVVTVJ3NUVoZ09PSEY4QXhEVUxTR2luVGhCcHZiSlVRaG1ldkhFX0lieXNLOXZXc3M5RHZoX3N0WFpMYXRsUlpxVUo4S1k3NG5YU3lVQXlWOXlmaVR0eGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjVvb0dSSTB1NWFudjNfY2QxTG5jVGppT3hLdjZ5ZWlGT2NIMElqRkJta0xVUHpHVDBWLVRjUU5IdWs1aEd6MUxjWkxjS2JIZHNKc3l5QmZPNzR1MkJQV1hjNjg4UFUzd0MxaGtSb2lwRm4xLUZQc1NIMml0YmNER3FncFlLUmlxZjdjdGpQVHU3Zlhod1lhTXprekVSMkU?oc=5).
 
 ## Requirements
 - Python 3.8
