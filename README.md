@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers, Garrett Wilson downplay animated exchange during Jets practice: 'It's about winning'**
+**Donald Trump falsely suggests Kamala Harris ‘happened to turn Black’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVU5XcUhnVHNwanpYVERPMlUyZ19SVC1KZUotX0dNM1k3dGlfbkNXZGZNRm5pOFNIeGNmVHZKYlNqa2wxcEZ2eUhXV2RkTzBJODJZYzBnVlcwckxCNlQ5VUczcnJHeDlBZGEtTlNKbl9LemVnOVZJdGR6UTFWWmJBdzBQOGl3Y0xqTTNGX1paNF9ISjk5OXRYUjFkUXM4N1JuZHIzUVUwV0RJcGdEYXZ0VS1UNkt6b2xScmt5bQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPTnk0dnN2cWhtWl8tQml3eWdRdS1IU3VNalVZXzF1aFpDelN5anFUZDFhYlQ4NXhrQ3g2RTZpMkVQWXZuQ0w2cWdWY0l4ekl2azRQdDh6QjlhLUlDSm5WaHEzZjBNV014YnpMRllQMEZDM1BsNDJZemV4ZVNPcGU3enVhMkduU0l5bENURkIxSF9yUdIBiAFBVV95cUxPWUc3blZzX3JTZkpwT1Fad3ZUa1Q5dmtIa1FONVo2Mkcyc196bmV1VTByN2xXSlF1a0hUTEdBeS0xekoteVc5aVZfcGcxNlJ1SEdsektoYUZkNXZvRndESzBjcC1jSXU3UDBaUkFiNGtwMEVhX0dQaUlEREpabmo5WVk0anotMTdS?oc=5).
 
 ## Requirements
 - Python 3.8
