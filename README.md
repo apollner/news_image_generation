@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How early homo sapiens shaped neanderthal genetics: Study**
+**Aaron Rodgers, Garrett Wilson downplay animated exchange during Jets practice: 'It's about winning'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOY1lEZVFSc19jYWRFNjRVVjVBNWlHV0p6TENoNUtLUDkxUDZ2YmN2RDhCbVd3UmlGX0xZUmpFczd1VjNLTVQtNDExYWdwZGw2YnpXT0lwenpkYXRjUW5BVWZBZmw4NWMwUXVDenhwOFY1bXh0NUxFVmVSN1E1SHNCaC0xMGJ5dlNhNk1zMFRIYVZrTUsxOHdHbnhHNUFVNjd2WlJ4dzlCZHFpdlBqSDdfd0NhNXBoWnY3eHpLNlF5aGZOVDNw0gHKAUFVX3lxTE5mcWpXUVlZWENnOEtUV0dIa2c2OWZxVHJUU0liX0lpU1dLdkgyLURYT2R0bVBHaFktNVZXelRFZHQ3ZEtMU05lMl9OMVlRU2dkQllVTTBRUFJYOGlTaElQTmJueGRLMGNRU05GMXpwN2lFR2pkdHQ5dUVYWG9NQ2h5NU5tVm5mUW42ekV3NGlWTHFVbjZicDhIbHc2Qm1ZZHYwaFRoazhBalNGVWRPZVR6Z294Mm44SVROb3lBb05ZY1BPYlhhYlBNR2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVU5XcUhnVHNwanpYVERPMlUyZ19SVC1KZUotX0dNM1k3dGlfbkNXZGZNRm5pOFNIeGNmVHZKYlNqa2wxcEZ2eUhXV2RkTzBJODJZYzBnVlcwckxCNlQ5VUczcnJHeDlBZGEtTlNKbl9LemVnOVZJdGR6UTFWWmJBdzBQOGl3Y0xqTTNGX1paNF9ISjk5OXRYUjFkUXM4N1JuZHIzUVUwV0RJcGdEYXZ0VS1UNkt6b2xScmt5bQ?oc=5).
 
 ## Requirements
 - Python 3.8
