@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks rally before the Fed decision as Nvidia soars 10% to lead chip comeback: Live updates**
+**Who will Kamala Harris pick for VP? Shapiro and Kelly among finalists**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE00QjIzeEd5Q3FDaERnbXpMZ1FhZ3J2eW5sMlU1aUtDQzNSMzBxQUM0SksxQUZoV3JhQWVySHdnWUFEUzVUWkpjcXBWeW8wdG1WR1U2cUtkV0VveXJyRGlyZWU1WUdwYjZacXV4d1d6TldDUWNBaUFj0gF8QVVfeXFMT0VlQTU2M2xseEhaTVlyZ0JNVjE5SHJ0SS1jOUt1T1ZKeUN4YWtiMjkxaXJhOER2X0lhVDMxTmdWYVhFT210RVkzdDRfWVBNbWl0b0xvVlZSVlpWUDVlSGt0bkgtSmNIVlRKX2ZWdEl1U1o3cFlHclI2OEVVaQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CTHdHaDVvMnFYX25JZEFidXBuVDZfOGJ6RGxXYlBIWFpzWU9NbTEtQ0tlQ0VXQWxTQlVmelg0aU1Xd1cyV2xsVTlFQkVuNU1WUjRKN3hmQnNqUdIBX0FVX3lxTFBZQloxZWo4Q25pWU5ZVjhwaUY0MWFhWHNFa1NzYzB6NXZodUpzOTNqeDd2YmpGTUFwckZDVURiZlJuY0ZCcV9SOWduWTFMTHhFeWpOVlNTbkFFWk9tMkZJ?oc=5).
 
 ## Requirements
 - Python 3.8
