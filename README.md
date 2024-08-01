@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD stock jumps after earnings beat driven by AI chip sales**
+**Kevin Costner’s ‘Horizon 2’ Set for Venice Film Festival World Premiere After Pulled U.S. Release**
 
-You can read more about it [here](https://finance.yahoo.com/news/amd-stock-jumps-after-earnings-beat-driven-by-ai-chip-sales-202456320.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelNIUHlON0tDU2ROMWtLQVNSQ1A4UzVWalZfREhILWRNQ3FlazA5bUJ2YlN5RjUzZzFkOXAtMHk3eEI1ZVRBczBFT2xIMjA3RUIzZU1ZaGd1RG5yM0JrenlaMHhXbW5Zd1M3SUhpekJRRXZnVjc3alhneG9BamJtLW9TMngxUjBjMFIzZGdlUktzQk55UFRGNHRBT1NJUDl6RHZjMDJBUWHSAa4BQVVfeXFMUFZ4TzJibXI5VnNxZFVkN25xcFdmbGgyamR0U1p4LVNuaFBISDZhZ0RGYWZLTmpra2VIUFVkNkN2aTBtQmV5SFJxZ3BWVE1FZGF4R1l2WFkxQnlxSDY0cGZYV096MDNBeTJmZlFPaHFaNmFRUXFoMzJzZXZGWFJKMllOZUZmeHM1SXNoVDh6ODdUSUVNNGJHRXRiQ1JnMG9aeEx2Vl9sYTNWSEVMd3FR?oc=5).
 
 ## Requirements
 - Python 3.8
