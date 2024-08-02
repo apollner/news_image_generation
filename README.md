@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If the Google Pixel 9 launches with Android 14, it deserves 8 OS updates**
+**New image shows off iPhone 16 Pro colors, including darker Black Titanium**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZTJEMmtrN0Nzay1CWHFxLVctZkdVbnJteTBZYUpKMFpwZTA0NWpLaHk1OU5iNjR3eFNtN0k4VTg0cy0zS1N2RjVtVVBPdm13LXNxb3IyQWR2andicVoyS3gzbDUxMk0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOMDh5V2wxZVp2LWxPMXNKX0dhdVp2RHI0NjB1eURscm81ZHdTMllPNEIxWXBONlFQN0xHMG1oVEZPb1RWUEZROWtXOXlXNkdkdzQ5SUlNb2dmblNnR0FScVNpR1U?oc=5).
 
 ## Requirements
 - Python 3.8
