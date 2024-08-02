@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New image shows off iPhone 16 Pro colors, including darker Black Titanium**
+**F-16s have arrived to help Ukraine fight Russia. Here’s what to know about their possible impact**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOMDh5V2wxZVp2LWxPMXNKX0dhdVp2RHI0NjB1eURscm81ZHdTMllPNEIxWXBONlFQN0xHMG1oVEZPb1RWUEZROWtXOXlXNkdkdzQ5SUlNb2dmblNnR0FScVNpR1U?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3JmeWtZYXl5cGxLX3BVZDQ2YVpBWEp1MHhxUmtENVZqQXNNckRXWHFuREhlNXJtRFMtQi1UcDc4eXZaYk5nTGowYmZNbkVKZHEzdkJ6SGs2TmJ0UTFybnlkMWpyT3JJUUNMamhqUHlVUzAxajhFSTVrRS01eUVlN0Uzdk9MOGtwdTlZaVhtR3B6T2hmLU1UbVVWZDU?oc=5).
 
 ## Requirements
 - Python 3.8
