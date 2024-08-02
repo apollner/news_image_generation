@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Powell puts September rate cut on table as US inflation cools**
+**If the Google Pixel 9 launches with Android 14, it deserves 8 OS updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGthaU16bGlHX2JhVHZKSTl6clMzNkd1SFh4SFJJTGhsR2U4TDJPRUstZ1ZmVXRzenJHNHp6d0FCRzU2M2hpeDB6ZXRnYWZMNVBWNWJCSnpEWDNvdjdJaWxyWnJTWVZhMUNYUlVpQWQ2RG1wSnVEMEozejJMRnk1MTRTN1FfU21kMlFiT1dDb05DOFZRRXRLMVVvTENseTFiQVFZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZTJEMmtrN0Nzay1CWHFxLVctZkdVbnJteTBZYUpKMFpwZTA0NWpLaHk1OU5iNjR3eFNtN0k4VTg0cy0zS1N2RjVtVVBPdm13LXNxb3IyQWR2andicVoyS3gzbDUxMk0?oc=5).
 
 ## Requirements
 - Python 3.8
