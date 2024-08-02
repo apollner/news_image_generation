@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and his allies had a plan for how to hit Harris. Then he opened his mouth.**
+**Honda-Nissan-Mitsubishi Alliance Goes Official**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQS2liUGQ2cmtHa2NOZ3IxUE16M1hVU0R6cWNMYVVLQzBRV1ZsdEZzaTZENXVFRGRlQk9OelV4dWRzdFRnZWVlUVlDTjJBa1I3VlJSeVRnYzgtWmJhNDFQalFfSWt0SVUyMU1JSFdDdGJWOGotTmtVSmRoYkN0TGZkcm1NSdIBiAFBVV95cUxPWnQ3M3hZb2xYOUZCd3E2Vi1Ic240LVRJbnUydW1QNlMxb1RHbndlcFBWMU5selFhRmxHR1pBem1EQjIyTVJCRXpyV194cVkyNVdRQWF4c0F3UGx3Si1CYnY2WldfM0YyVzROMlN6TVdZcW9OUWt4RnZ1TjRNMFVyOVVIY0Y0TTJv?oc=5).
 
 ## Requirements
 - Python 3.8
