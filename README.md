@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Updates: Simone Biles Aims for Second Gymnastics All-Around Title**
+**Biles returns to pinnacle as all-around champion**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXFGdTRoMFBJc3JyQ2pWejlzMFZzV2w1UFRfOWxDSE9jN042NU5KTVhQQ0FGWndIUEVSRVkzZ3dfYkZqZUhFV21FcEFXaDBERzJ3dDFiZHRZeTdINE5pTVI4bnQ1alpSYUxkTm03SVVlMWQzZ25zMzl6Z01WSWF5eFd2T0I?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOdllNYk15emhzZ0NyLTFKalFreWVvNXNpeVlsMjM5aVZXNkQ3MGlWbFpYZ1ZIQkVIY2VHeGZucmVab2h0WXAzUmpvdEZBblZhVnQ5Vkx3VVktVldHSVMyR1lVYWsxYk5rNHF6NzhQd0p1MTdKbFBpQUJpZTN3WDF0dWc4Yml4Tl9zSld4SFN2OXBEUzlVMHBlRGhMeFBIRVFod09v?oc=5).
 
 ## Requirements
 - Python 3.8
