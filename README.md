@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ryan Reynolds Says He Just Learned Blake Lively's Real Last Name**
+**Matt Damon and wife Luciana Barroso make rare public appearance with their 4 daughters at ‘The Instigators’ premiere**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2NYbFFwcDlMZkl6UkwzN0JrUzE3MHN6akdPODIzbGpHYS1IcHYxUHAtZnBTYjZIWGpTbXZZNGdYMWNxbllyWl9TaDRITTdtanZuZVBWbjhNWnM4aHJRQ0FOdlRCTi01VHpWMjRTMTdTQy04WTU1UUxlcXNFanVGaEx0d092WC1qV042VGhfZXZ6bUJ1MDJtQ0lCMjNaN1Zwb2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGlPYUFrRVRaeWhxdG5ORjlWNFFFblJ0WWRTZUpzYnJEcWo3UDkyb3pZLUR3N0NOYkdlMWRERFFyRlB1a1NPNlNfdFh6R3cybVBSMkZTZDFXeGgyOXdwTVV0N1JsSDdmR2N4TUQwVWFyNUN6UlJuVjRtVWF0N1gzT0pidUxtVUFIalE0bjl4Z2VlbDB2N3NFd0IwNjR2a0Q1SmxDSV8tblpxTUpGd1YzbFktak5EMUUz?oc=5).
 
 ## Requirements
 - Python 3.8
