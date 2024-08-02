@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Hurricane Center tracking 'robust tropical wave.' What will be impact on Florida?**
+**Southport: 17-year-old charged with murder over attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi_AFBVV95cUxQM0tsajgzNGdtd1hpanRZU0F2RDBjVndkRTJ3UXVBTmpCMWI4TElTdVZfQjROX21xUVRQdmk1R1JPX190UWlhakdWVEJ0U2taNV93Y0xLQXpESXE5MVN1R0FNSFIxSERjSEtodlU1a0dDN3RiM2haanZBYnR3TGpLX2hnMTNQYmR6X0pXWDFTUnF0cndfUkRfcDdOa1I3Z3BKUjlGd05yNENaYUdJeW9jVlBEQzdzZVB3STcxblJLbnRuUlpmMnRaNkw5Z3pGaUJEbEx2WU56Z2xjdGRxM2JHNWtGZURoRHpZSjJDckN2ajhndHZtaDlSZXBCOFQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWXlzVmRmZHVhTmEycjkxMzZtOGl3NEZjeDRWQkY4QXItRUZKYkl0TXRVaW9adWtldnljaFNZUTluc0tKMnlpQkJnRHhvZ2xFM2dtalpsZkxHd9IBX0FVX3lxTE9jbTdQcldDMkZSdWxaUnUyYXkzYkZBMHdLYXZISkQ2TEFWR2xyT2oyOEpLSzlJQzljWGdSNWZXZUZyMGVoVDU1eEpsWHlDSERNdXQ5eVFfMEZhNG1pV2w0?oc=5).
 
 ## Requirements
 - Python 3.8
