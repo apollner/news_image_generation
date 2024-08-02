@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For Iran and Hezbollah, calibrating response to Israeli strikes leaves no room for error**
+**Trump and his allies had a plan for how to hit Harris. Then he opened his mouth.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkFud25pcENPRVljVzUzS2gzSkRSUktITnh2aGhEenpGWDhHTzlJeXJsS290bDJ2SU8xZDA0c0hRWnZ0bmJ2cTUxQWlkazVzR2d5c3FwSkM0LTFvdEotV1RwTEg0LU56aXZsWkFaMUJsRl9RQktncGlGMEFPUXdvUUJib2FnQkdoTUZuVTZOVlRqWjc5VUd4VEp3MjVMZDNWZnVsdkNR?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
