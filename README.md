@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See latest spaghetti models on where Invest 97L could go, impact on Florida**
+**Mortgage and refinance rates today, August 1, 2024: Rates inch down after Fed announcement**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQURVbmVXWktqbkhWcDF2TEk2VXdGSDZEMUFWR3hIdkcxRGUwRWphdGNqZU5XY2lDdnZkdlVsT3lYcGRtTHc1SVpQNTUxajdFUGVSamE3WlktVXZjY3RJVWl2emJsaVRuVlY3ZlNyMmt4cHJXbmRZNFUwa2pzWllMWkxFLUJWZ2pOUlpSU2RmVVVIM0FvTUU2LUNWVy1pRmFzYkhEY0gtRlk2aXR3OWUxeFhXYlFFaFlhdV9JOEhFRHRPbEl5cGY1Vw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxQSmJRVDg0STJHWHB4TEZ4Rkdhd3V6eHkwRkRlRVN0UVUtQTJwRnNUVU43X1FrOFhvX3NmbjFnOHdNb01oYVVHVTRoT1lJcndrWlZBd0VJdnBlN3A0NTVEYmZHOTVFdmp0bzF6c0VsVktGVjMzRWFnTXZ5NUNmNDBRZUJPVVlrOVJCaGQ2QktnMWlFQUFrcVVTWjY5ejBBV2cyOWNmUjljSDZSMVJzYXUwaA?oc=5).
 
 ## Requirements
 - Python 3.8
