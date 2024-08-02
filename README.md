@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military says it killed Hamas chief Mohammed Deif in Gaza last month**
+**Bank of England Cuts Interest Rates for First Time Since 2020**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXZqOER2UURqcGRDelFBYUhsTDFXcjFoVDVNRHBxaW1TU183VTZYdllNajd6Sk1iYXRVZHFpLVJLeF9vbVRMNDh4ZVdQMVpZNDFuOEdiWW9WazgzanU1VFJOVVdRQzE4X3cyZGdLRWdXSl9FNVQzX0Y5MmwyVGYzOUQwRGM0QWRRT2c4aF9pb9IBhgFBVV95cUxQQ19qQWdESEdpXzh6WVI2R29Tc09oT1Q3bTVUTUI0c3pEMTNhQk1LYWdrbDhjVE05WndqcFhqRGpBUWJ0bE5WdVRQaDQ4NkZIUWtLMzE2c2hGTVpNNy1UcDdyOGFuZk5iX3otblU5YmtBdXZwRFM0ZEItYThneDJOOUhCaU5Ndw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEpnMUZmbUlILTE3SGZ0RjZEbWxOMWVCNmwyZl9KaGRFQ0N4OUpaWU1ETlA3SjljOTd6d1IteUFrbzBFQTFvZ0RRTGdyVlNnNWdDMnNzMDdieHZuQTdxOG5mbS1OYnRqNHEwUHlxT3FnYmRiZ2c4eUZCZHdGSGtYZWxMTkVGUQ?oc=5).
 
 ## Requirements
 - Python 3.8
