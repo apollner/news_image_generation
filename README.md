@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violence erupts as Nigerians protest hunger across the nation**
+**Gen X and millennials have greater risk of developing more than a dozen cancers, study finds**
 
-You can read more about it [here](https://www.cnn.com/2024/08/01/africa/nigeria-mass-protests-against-hunger-intl/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBpZUQwc2JwVG5pb21DYXg3a21tdVBaTjFCZllXcnkxUnZ6cmZUa0RzN1A2eV9ScTB4M2JHZHd0MmU1VktmMlN1b1JFaXNqM1BadmUwTVVkaGNzb2hDTS1ES254eFNBRzNaQXR4eFpmcmPSAXZBVV95cUxOUkNWUWszMDNQb0NlNXh1R20xQS1SblY0dnFpTWpSSEZrZEZmSjlaemE5TjZqMk55eFg3LXM0WXZTd0d6T1JtS0RNZzdSc2xvRXdHVnp4c3FHLXJWVDVZX2tyaVg2cm54RXNJTlZvaG5SU0JfVTF3?oc=5).
 
 ## Requirements
 - Python 3.8
