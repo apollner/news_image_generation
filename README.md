@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of England Cuts Interest Rates for First Time Since 2020**
+**For Iran and Hezbollah, calibrating response to Israeli strikes leaves no room for error**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEpnMUZmbUlILTE3SGZ0RjZEbWxOMWVCNmwyZl9KaGRFQ0N4OUpaWU1ETlA3SjljOTd6d1IteUFrbzBFQTFvZ0RRTGdyVlNnNWdDMnNzMDdieHZuQTdxOG5mbS1OYnRqNHEwUHlxT3FnYmRiZ2c4eUZCZHdGSGtYZWxMTkVGUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPQkFud25pcENPRVljVzUzS2gzSkRSUktITnh2aGhEenpGWDhHTzlJeXJsS290bDJ2SU8xZDA0c0hRWnZ0bmJ2cTUxQWlkazVzR2d5c3FwSkM0LTFvdEotV1RwTEg0LU56aXZsWkFaMUJsRl9RQktncGlGMEFPUXdvUUJib2FnQkdoTUZuVTZOVlRqWjc5VUd4VEp3MjVMZDNWZnVsdkNR?oc=5).
 
 ## Requirements
 - Python 3.8
