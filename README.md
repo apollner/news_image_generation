@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosenthal: In a busy MLB trade deadline, quantity of deals overshadowed quality of players**
+**Cancer rates in millennials, Gen X-ers have risen starkly in recent years, study finds. Experts have 1 prime suspect.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOG1taHZpbk92VURVNGo4Wjg2OHI3R0tCOVZnRUtKQnZzZFJIeXlaa1RQcE4tOE9nc0VWT3JJQy05clB6WDIzTURscWh6cklQWFZtQlRXb0N6a3JzbzEyam1TQW9ydkxueWtIeVVXYzdVZjBGdVBweWxwT0NVbmlRTFlpU1BBVGlxWWt4akV5ck0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi8gFBVV95cUxOVUJBMm1Fcm5Ocnk0X1FmUzhPSS1sUVY3eWYycFZFeUVXc2ZSTzdmZFBXMVlmTDJSY1UtVUVULVVnRTIzbnZDSHVaWTRSZGUxeG9CZ1ZOaFI1YnZVSGRqUUttcURoZTByRW4zVEQtd0lFcnNkZkxWR1dSQ1dBaWNwWnBQUzNTYnBjdWplTjJYYm9fOEhLNkRYTkE4Ui1OblNEd0FrYkV0S1FVVWJRVDI4OGhIbC1rUGh1Z2p0TmNXZkFMYTJjc2U0NzJjSXhkMTgzUTRVWmNka1NEYklkdmdFb0FlMnVLc0VBRmYzREgyUzJkQQ?oc=5).
 
 ## Requirements
 - Python 3.8
