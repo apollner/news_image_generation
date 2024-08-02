@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Cruise planning big stunt for Paris Olympics Closing Ceremony: reports**
+**Violence erupts as Nigerians protest hunger across the nation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkxnQXppdXpDS01rczlvRExLaVoyVEZmUTFsT1pfT1BsU293RHBpb2F1MWotcE0tcHVCY2NHb2ZGVGpPZ3VMc3JaOTZubXdnTlR4ZWx6YmhtWU12aU5DOGdWaDJNWTQ2Q0gwUW4wcGdHdURjRkwyQUgxdFdveGRObzZTRjBKa1JtT00zVnVuQ0xvWkJ4TmJUZzVsU2R6by1ncVJReDlGc0k5UXk0aXF3MDNn?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/08/01/africa/nigeria-mass-protests-against-hunger-intl/index.html).
 
 ## Requirements
 - Python 3.8
