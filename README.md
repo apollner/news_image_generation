@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Hires Kelly Ortberg as Its Next CEO**
+**Ryan Reynolds Says He Just Learned Blake Lively's Real Last Name**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVVIQnB1eWNMbzJ2Nk1nWkRESzgtR0s2TU9iNnoxenN0TlVva214N0xYMVRBTFl6Z2tSTm9KT1ZFaERxa21yX1FPZjdyeklFMVE0WTZhS1BjUzBGOVZwMlZHenFXeWtMejRvNVpPdm1NM3JBb0RQM1BkZzZqQ1VWMTRzYm80V1BVRXNaeUhXRHcwWm8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2NYbFFwcDlMZkl6UkwzN0JrUzE3MHN6akdPODIzbGpHYS1IcHYxUHAtZnBTYjZIWGpTbXZZNGdYMWNxbllyWl9TaDRITTdtanZuZVBWbjhNWnM4aHJRQ0FOdlRCTi01VHpWMjRTMTdTQy04WTU1UUxlcXNFanVGaEx0d092WC1qV042VGhfZXZ6bUJ1MDJtQ0lCMjNaN1Zwb2c?oc=5).
 
 ## Requirements
 - Python 3.8
