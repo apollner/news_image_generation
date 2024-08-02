@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southport: 17-year-old charged with murder over attack**
+**Israeli military says it killed Hamas chief Mohammed Deif in Gaza last month**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MWXlzVmRmZHVhTmEycjkxMzZtOGl3NEZjeDRWQkY4QXItRUZKYkl0TXRVaW9adWtldnljaFNZUTluc0tKMnlpQkJnRHhvZ2xFM2dtalpsZkxHd9IBX0FVX3lxTE9jbTdQcldDMkZSdWxaUnUyYXkzYkZBMHdLYXZISkQ2TEFWR2xyT2oyOEpLSzlJQzljWGdSNWZXZUZyMGVoVDU1eEpsWHlDSERNdXQ5eVFfMEZhNG1pV2w0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNUXZqOER2UURqcGRDelFBYUhsTDFXcjFoVDVNRHBxaW1TU183VTZYdllNajd6Sk1iYXRVZHFpLVJLeF9vbVRMNDh4ZVdQMVpZNDFuOEdiWW9WazgzanU1VFJOVVdRQzE4X3cyZGdLRWdXSl9FNVQzX0Y5MmwyVGYzOUQwRGM0QWRRT2c4aF9pb9IBhgFBVV95cUxQQ19qQWdESEdpXzh6WVI2R29Tc09oT1Q3bTVUTUI0c3pEMTNhQk1LYWdrbDhjVE05WndqcFhqRGpBUWJ0bE5WdVRQaDQ4NkZIUWtLMzE2c2hGTVpNNy1UcDdyOGFuZk5iX3otblU5YmtBdXZwRFM0ZEItYThneDJOOUhCaU5Ndw?oc=5).
 
 ## Requirements
 - Python 3.8
