@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump spars with reporters at Black journalists' conference over Kamala Harris' ethnicity, immigration and jobs**
+**Fed's Powell puts September rate cut on table as US inflation cools**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdldGT3JORUJCSk5zbS00TnhpSTV1Z0I2cm50MTVLSzFUQTNaQzIweGtBLVZhTVBpTmlHMGc2NS1oWVd5dm9US1o0SU9CVUF2MlREWXFWTm1YZWZKYkpJLU1sNkZmSkpBdW1GUmVuSHhwanJzOWpia2FMZTU2TkQ1Qm1NYVpMbHRud1RHQ3hlSEppMkxFS3R1eENWSlNMMWtmWTFjZHhOSzk0NTZiMkZIdXhwLXNQdlJxLTBN0gHAAUFVX3lxTE1sZGNRMUsxd2NER3k0NjZFVUIyUFFiWW9MajB4Zk1nMDY3eFFRb3hLLWplaGc2N1V4d1BxeXh4ejRDeVZFeU9zbEUwSmVEVERHYjNDVnk1cFhNMGJYb09URUtvSkRxYTBYbFE3RjQ5eG1sSlFaVUloZ05iejRPUzkwVGhvR0FfenVHc0ZuLWhoTndjcG5tUkIxb0lHaVpBaEdUanhCY1hMTjdMTFVybFVvczdMdTFHQmtnYmZ0Z1pFRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGthaU16bGlHX2JhVHZKSTl6clMzNkd1SFh4SFJJTGhsR2U4TDJPRUstZ1ZmVXRzenJHNHp6d0FCRzU2M2hpeDB6ZXRnYWZMNVBWNWJCSnpEWDNvdjdJaWxyWnJTWVZhMUNYUlVpQWQ2RG1wSnVEMEozejJMRnk1MTRTN1FfU21kMlFiT1dDb05DOFZRRXRLMVVvTENseTFiQVFZ?oc=5).
 
 ## Requirements
 - Python 3.8
