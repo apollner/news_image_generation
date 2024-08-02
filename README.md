@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ballerina Farm TikToker Defends Marriage, Farm Life After Article Thrust ‘Trad Wife’ Influencer Into Turmoil**
+**Dow sell-off intensifies, drops 500 points on economic worries: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi_gFBVV95cUxNTmYwVFFpSG5DTzQyQXZRVHpxN0N6Y1lfbWVtVjFnU1FmbkcwVnRzYnVaeDVlMXdRM3BsWW54NEI3WjZRQmZNTFE3SlJmZ1h3SGdDYzVTaGprSy1uTVVjQ1Fkb2NsUTYzTGxRVV83c3FQRmZ1dG5DTl8zRENoWXFvTml3d3hOVUhUbnJHa2FDRVk4WEd3a3FiaDNtVkF6UmJvOGFXRFhWTkJ6MU9laGJGTjVDRF85Ul9DSlZuMWZRaVVCYXBFLWZTOHVmaHdjMm9TQUJTdk1YTHRzMHloOWdMTFZfUVFyNks3V0R4VHRMNFJWOXdVSW1jWHU1aFNIUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE5IVkFaa3Z0QVdkdmdCRHNFa0NHcHhOeVRlczRpbjhuSV9YOUF0U29rc0MxOFJBTGVQMW5ocFdkeUFHa3d1eURLaU53N1RNSkttM0NKUDZGMWYtUFZBcXRwZUpnUGZaZFFtTXc2UlNRbzJFWmloLWgw?oc=5).
 
 ## Requirements
 - Python 3.8
