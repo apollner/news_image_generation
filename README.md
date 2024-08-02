@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, August 1, 2024**
+**Bank of England Cuts Interest Rates for First Time Since 2020**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0pDRUJWY2M2cGJma0IwbDA1TGxlU2ZJdWRTSU1id2VHcE1jYlQ0SnBQRENLSDI4T2xSTXpQZXRJUmFwREhtbE10aEZjWnpKQ1BOV0dPNVZ6QmpvWDZIblptUTVGSXcwR2hyTnI5cnJlbmctekd2U3R1QWpvalYtV2VxT0xHQ19qT2JqOW9WdFU1U3lm?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVEpnMUZmbUlILTE3SGZ0RjZEbWxOMWVCNmwyZl9KaGRFQ0N4OUpaWU1ETlA3SjljOTd6d1IteUFrbzBFQTFvZ0RRTGdyVlNnNWdDMnNzMDdieHZuQTdxOG5mbS1OYnRqNHEwUHlxT3FnYmRiZ2c4eUZCZHdGSGtYZWxMTkVGUQ?oc=5).
 
 ## Requirements
 - Python 3.8
