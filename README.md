@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears Biopic Film Set at Universal With ‘Wicked’ Director Jon M. Chu**
+**Joel Embiid sits vs. South Sudan, Drake Maye struggles in Patriots camp | THE HERD**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTdoS1l0Nk5TOElTVmVITU5panhnV3ZKaUswMEJVdEhOUkc2RzdwSmxFX2VlU3JzTV9MYXJNX05ndUlWMS1xV1RkT3ZnYkk0Wk1YaXRLWktnVHVuNURFbS1scEV0bjFBU01hbWRXQ2VLZFQzcnZ5TDNtX1RDaFRkbnpQbndvaHZKLUtqZdIBkgFBVV95cUxPdzZtYTVqN2xzRndaUVA4WVRualNfTXJNZE5JczVXRTVOejdqekxGRTM2QkYyMmN6RFdEMThjZHlHWDRJcE1heVJlVC1ta1RTb1FvalNESm9hVHpfWEJqaUtNR05kRmNwUFZOTFl3ODBjT0F6Nm94OW9KdlJBWHBOZ3FvYktrX0FFRVRjeHF4MXRBQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC3kzdDBodVpyR2hJmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
