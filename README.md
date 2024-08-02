@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uber strikes EV deal with Chinese Tesla rival BYD**
+**Horoscope for Thursday, August 1, 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpc0I3TDByZ0dnV2hJQ0xiRzNiVFFrWFViY1ZHTXdDemd1R0o0QUd6TlgzdVUzR2VENkoxZnJwdERNQUpkdm10cnFFLWszU01CdDE4TE80SHNzZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0pDRUJWY2M2cGJma0IwbDA1TGxlU2ZJdWRTSU1id2VHcE1jYlQ0SnBQRENLSDI4T2xSTXpQZXRJUmFwREhtbE10aEZjWnpKQ1BOV0dPNVZ6QmpvWDZIblptUTVGSXcwR2hyTnI5cnJlbmctekd2U3R1QWpvalYtV2VxT0xHQ19qT2JqOW9WdFU1U3lm?oc=5).
 
 ## Requirements
 - Python 3.8
