@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**F-16s have arrived to help Ukraine fight Russia. Here’s what to know about their possible impact**
+**Uber strikes EV deal with Chinese Tesla rival BYD**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3JmeWtZYXl5cGxLX3BVZDQ2YVpBWEp1MHhxUmtENVZqQXNNckRXWHFuREhlNXJtRFMtQi1UcDc4eXZaYk5nTGowYmZNbkVKZHEzdkJ6SGs2TmJ0UTFybnlkMWpyT3JJUUNMamhqUHlVUzAxajhFSTVrRS01eUVlN0Uzdk9MOGtwdTlZaVhtR3B6T2hmLU1UbVVWZDU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpc0I3TDByZ0dnV2hJQ0xiRzNiVFFrWFViY1ZHTXdDemd1R0o0QUd6TlgzdVUzR2VENkoxZnJwdERNQUpkdm10cnFFLWszU01CdDE4TE80SHNzZw?oc=5).
 
 ## Requirements
 - Python 3.8
