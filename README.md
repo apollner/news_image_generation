@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed keeps interest rates steady. But cuts aren’t far off.**
+**Boeing Hires Kelly Ortberg as Its Next CEO**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWpBSFdYRnluZ2NmZTBHWmtxZzdWM0VucG9nd3Naam9zSGxuY2t6UWZVeXRtd2E1Zm4yLUlJT3hKd3ZwM2MwNl91a2tDdlFlQWRUdUMzX0lFRFBfVmxFcGRobTVzUXd2eWRKSHBKWjduWXJ3aGhicy1UeHpYZ25DMQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVVIQnB1eWNMbzJ2Nk1nWkRESzgtR0s2TU9iNnoxenN0TlVva214N0xYMVRBTFl6Z2tSTm9KT1ZFaERxa21yX1FPZjdyeklFMVE0WTZhS1BjUzBGOVZwMlZHenFXeWtMejRvNVpPdm1NM3JBb0RQM1BkZzZqQ1VWMTRzYm80V1BVRXNaeUhXRHcwWm8?oc=5).
 
 ## Requirements
 - Python 3.8
