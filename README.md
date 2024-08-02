@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow sell-off intensifies, drops 500 points on economic worries: Live updates**
+**Britney Spears Biopic Film Set at Universal With ‘Wicked’ Director Jon M. Chu**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE5IVkFaa3Z0QVdkdmdCRHNFa0NHcHhOeVRlczRpbjhuSV9YOUF0U29rc0MxOFJBTGVQMW5ocFdkeUFHa3d1eURLaU53N1RNSkttM0NKUDZGMWYtUFZBcXRwZUpnUGZaZFFtTXc2UlNRbzJFWmloLWgw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbTdoS1l0Nk5TOElTVmVITU5panhnV3ZKaUswMEJVdEhOUkc2RzdwSmxFX2VlU3JzTV9MYXJNX05ndUlWMS1xV1RkT3ZnYkk0Wk1YaXRLWktnVHVuNURFbS1scEV0bjFBU01hbWRXQ2VLZFQzcnZ5TDNtX1RDaFRkbnpQbndvaHZKLUtqZdIBkgFBVV95cUxPdzZtYTVqN2xzRndaUVA4WVRualNfTXJNZE5JczVXRTVOejdqekxGRTM2QkYyMmN6RFdEMThjZHlHWDRJcE1heVJlVC1ta1RTb1FvalNESm9hVHpfWEJqaUtNR05kRmNwUFZOTFl3ODBjT0F6Nm94OW9KdlJBWHBOZ3FvYktrX0FFRVRjeHF4MXRBQQ?oc=5).
 
 ## Requirements
 - Python 3.8
