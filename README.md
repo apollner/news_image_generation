@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Americans Gershkovich and Whelan included in big Russia-West prisoner swap**
+**Live Updates: Simone Biles Aims for Second Gymnastics All-Around Title**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzV0bGZDUFlNOTB5VmJnSmNyWWVaTks4ak9fSEZGVEx2MWZXc09OOGNKbW51cGdqVmsxR2JzcGFXSlhubksxRVFNdTV1bTRRcU5RYXFrSktpdUh0UFg0aFZEeXptUW1MSWxPSTJBMEt3RVBuMXlETlhNUzBzbDlRZERSUEdZV19ySE9ZY2N6LWRRakI3R0VjWW9Hc0tFYmwxVFV1T29iRWYwYTZiN1NYRHYwQmlPRk5PY1kzUkN4VQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXFGdTRoMFBJc3JyQ2pWejlzMFZzV2w1UFRfOWxDSE9jN042NU5KTVhQQ0FGWndIUEVSRVkzZ3dfYkZqZUhFV21FcEFXaDBERzJ3dDFiZHRZeTdINE5pTVI4bnQ1alpSYUxkTm03SVVlMWQzZ25zMzl6Z01WSWF5eFd2T0I?oc=5).
 
 ## Requirements
 - Python 3.8
