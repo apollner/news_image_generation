@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British prime minister announces policing plan to deal with violent clashes after fatal stabbings**
+**See latest spaghetti models on where Invest 97L could go, impact on Florida**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ1NUWHc2bW1UNzlDd0xPWm9Jbkc5RXNqWHhQU25BMS12WEt0VE41WktqUlVDOGFmc0t1Mk9EMC1LRVhRTlV5ajdVNVJqNFA4YXQ2bjBFSzVWQkRxWmUwWVhpXzU1NEVvdkVJajVyLUJtdWhrSGdOR2JEdUE2aldjbi1BbWw4eEtQQm1ucWc5c0hfM2lTbExSRXVQVFhuaVktV1BmTnM0SlgwMm1ORzJXcUt3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQURVbmVXWktqbkhWcDF2TEk2VXdGSDZEMUFWR3hIdkcxRGUwRWphdGNqZU5XY2lDdnZkdlVsT3lYcGRtTHc1SVpQNTUxajdFUGVSamE3WlktVXZjY3RJVWl2emJsaVRuVlY3ZlNyMmt4cHJXbmRZNFUwa2pzWllMWkxFLUJWZ2pOUlpSU2RmVVVIM0FvTUU2LUNWVy1pRmFzYkhEY0gtRlk2aXR3OWUxeFhXYlFFaFlhdV9JOEhFRHRPbEl5cGY1Vw?oc=5).
 
 ## Requirements
 - Python 3.8
