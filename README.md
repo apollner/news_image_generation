@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy Z Fold 6 durability test hints at dust troubles, and it caught on fire too [Video]**
+**Rosenthal: In a busy MLB trade deadline, quantity of deals overshadowed quality of players**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbVF1OGZmMjZ3Qm1BQS1td2lEaGl3ZjNWdllmLVdDTEl4R0VXM2VacWlIM2lSTmtTaGxDdzEzZEF0aXVQS0IwTldydXNLQ2hYSFdzMlZ4VHNOTEkxZEh5MFh2dV8xVEFzUXZhZEROMDJwV0lPbUdGTEZZMEo?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPOG1taHZpbk92VURVNGo4Wjg2OHI3R0tCOVZnRUtKQnZzZFJIeXlaa1RQcE4tOE9nc0VWT3JJQy05clB6WDIzTURscWh6cklQWFZtQlRXb0N6a3JzbzEyam1TQW9ydkxueWtIeVVXYzdVZjBGdVBweWxwT0NVbmlRTFlpU1BBVGlxWWt4akV5ck0?oc=5).
 
 ## Requirements
 - Python 3.8
