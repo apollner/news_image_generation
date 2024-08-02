@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid sits vs. South Sudan, Drake Maye struggles in Patriots camp | THE HERD**
+**Americans Gershkovich and Whelan included in big Russia-West prisoner swap**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC3kzdDBodVpyR2hJmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZzV0bGZDUFlNOTB5VmJnSmNyWWVaTks4ak9fSEZGVEx2MWZXc09OOGNKbW51cGdqVmsxR2JzcGFXSlhubksxRVFNdTV1bTRRcU5RYXFrSktpdUh0UFg0aFZEeXptUW1MSWxPSTJBMEt3RVBuMXlETlhNUzBzbDlRZERSUEdZV19ySE9ZY2N6LWRRakI3R0VjWW9Hc0tFYmwxVFV1T29iRWYwYTZiN1NYRHYwQmlPRk5PY1kzUkN4VQ?oc=5).
 
 ## Requirements
 - Python 3.8
