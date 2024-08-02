@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why is Team USA so bad at 3x3 basketball? How 2024 Olympics rosters were built after men and women start 0-2**
+**Galaxy Z Fold 6 durability test hints at dust troubles, and it caught on fire too [Video]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemF0d29BaXNXTEtGbEJUeW9IT3ZqcDUzV1c4dlZZSFp2REYwd3RydXQwUDRaMnYwc0VVZktLQWFmWHNFTHU5YnNkcnB2RWxvaGIyNHphT0RPVHpnY2QzMGdnRDZrczBiRDU0dnpMWlMzY2NuQnJMVDNfRlA3V3A4SUdTRzJHajVYb2dwbGRlUVE5amVyaVQxOEdIYzlJSVpJZ1NMRUppcTNvbExRaFVZOWtPdWkyLU5nRjFSb2VrSm43elhtbzhRb0x5U21Id252bGhnaWhnbTZ1bU1TRzE4RVBR0gHnAUFVX3lxTE5tcFJqU3FDTzFQdTZPeWNQR3RCYUtxT054aVFiUFNGWDlXNDVYWWZ2QkhpMGZhTTFvNGM5TTB2N3pHQmI4dXkza0xfbkcxZjRwU2hEckRhMUNTdm54ZFdrQV9WQ3RfV1dqempfSkhTR2o4ZFhKM09HNWFsak1jWkdOVjRrQkF5M3NGT1hwSXp2TS0yOHFoT2dVUzI1S1JJYWRVSjRYczhkOXN6eDVXU2o4bmJrUkpkcTZrN3d4dzZHUDIxX2o5VGJJTExfYVhsd1IyUWplbDd3RjdNV3ZrSVd3eXNucDVCRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbVF1OGZmMjZ3Qm1BQS1td2lEaGl3ZjNWdllmLVdDTEl4R0VXM2VacWlIM2lSTmtTaGxDdzEzZEF0aXVQS0IwTldydXNLQ2hYSFdzMlZ4VHNOTEkxZEh5MFh2dV8xVEFzUXZhZEROMDJwV0lPbUdGTEZZMEo?oc=5).
 
 ## Requirements
 - Python 3.8
