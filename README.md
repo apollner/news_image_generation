@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates plunge to the lowest level in more than a year after weak employment report**
+**Amazon stock tumbles 8% as profit, revenue outlook disappoints**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tUU5tR0JxTE4tV1ljY1pJckxVMHRXMEpkTHEwR1FIeHNOenVrdjBHajZ2V2NkM0RvX3FUWENHdXNxU2FZNWJ1b1FVb1hic0xvTzdDR3RIZEdhMFBISnBleGJBaTRWMTltM0VtWkxtYnJIY2RBYmhlbDBCTFg0YlnSAYQBQVVfeXFMT1dVSkNFQm5adU1aaVJmVDBPUU50YU5aRE1QZmJJVlkzTUx4WEdGbjZHRGtHMHJiS3JDYkJJSmh2WTFkUUtSajFEX0JrMmEzZkNvN1hGUWtodk5iT2k3RmE0MWQtUllwdEtDUmZTS0tITG5MUzh5T2d5RmFXLU0tMG8zV3dO?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzdZNEtwemYzQzZXdUhkdjEwbC1YNzdvaDBQQTM3S3pmMm5LSDNIbWU2QkZLTlFKUG0wdzFGMnlsZ25OWlVFLTE5SFFyX29MeWtlZmk0UG5pLXB5Z01HZXVaRlNJVHdrX3lodDNDX0ZaS1N5TFZCU0hSNWZ0WjFfd1pxVTRacWFfT0ZScnJLckpsN2dfYmIzX3hqRW9jS01xa21jTVRxeURZUQ?oc=5).
 
 ## Requirements
 - Python 3.8
