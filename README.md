@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears vs. Texans: How to watch the 2024 Pro Football Hall of Fame Game tonight**
+**WSJ Reporter Evan Gershkovich Is Free**
 
-You can read more about it [here](https://sports.yahoo.com/bears-vs-texans-how-to-watch-the-2024-pro-football-hall-of-fame-game-tonight-152910124.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQXJmMm5uRVNjMWllRHJuUGVFMmdMQl9vMVJoSVVRUFRGRzJ5VXBMbDJtOURjZHU3RzA4ekQ1a2pPOVpubGlsUjd1dDV6RmJyZ0o2VlpZckhVTWswV210M0ZkZm9wamRVNWNFVUtERS0?oc=5).
 
 ## Requirements
 - Python 3.8
