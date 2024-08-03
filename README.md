@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Simone Biles’ brilliant comeback and other takeaways from the individual all-around gymnastics final**
+**Gloria Johnson, Tennessee Democrat Who Faced Expulsion, Wins U.S. Senate Primary**
 
-You can read more about it [here](https://www.cnn.com/2024/08/01/sport/simone-biles-takeaways-gymnastics-final-spt/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiaVdjUG92UWN5QzJFN191bHJFeWZyX0hhWXBPeE1YdllabjBZQ3h5SjZ1V19vWndkRWNXOTZmYkVHYzJUV0FyTnZCRUFvallEY1BpbE1qYzdnZ3dCdnZqYmhvUDMxUUxweDJnOUVfMG5SY09OcUdNRWcxNHFndw?oc=5).
 
 ## Requirements
 - Python 3.8
