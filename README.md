@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple revenues rise on strong services business and iPad sales**
+**NASA says it is “evaluating all options” for the safe return of Starliner crew**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdmFiZ2JmQjYzYWlsRk5ocU5ZY0NSQ2lEUERFOVNvUHBqVDZpZnZHQV9Ea09HeE9sa0MxUmU1ZlZUNmI4TzZyQmtiX3duQndnbWxZU1RpLWFhcUtEVlp1dGhSTkVPdnVCTjhWMGxMUl8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnZ3OWF2QWd0VktJNF9ONThGcTRkc2hPeTFrYlNQSnVuVndnUkZIaVhfUnhrYjdCdTlwakpzd0lVLXU4TGJQM2xCeGNLTVNtbWQxenBzc2NleWY0dWYwOTRYOFB4UW9hNWhCRUhvamMwekFQdS01NXRCTllJNmZBQlN1SkRVSUw3QVhYWGg5aUNwdTJ5cWxMczZEZ1hKSUJaYTNVY1dfbGdsclN3?oc=5).
 
 ## Requirements
 - Python 3.8
