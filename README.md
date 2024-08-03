@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tropical Depression Or Storm Likely To Form In Gulf**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQVWdnYlJqSjhXVFBiMkEtYkdrd3VlSHQ5cVZUa1ZhWUJUbzZ0aTdtZExYWEh1c0ZiZW5wckJueFRIYWhmclJZbk03emJ3aE1WSV9LREh4M295SnA3bXpxd3IyT2RzNDhsV0dtelJmN0ZWTUlYckQ3eXNoTFlvNVZsNW1PWlk0dUxoeC1YLWVUeDg1a3FVMnVZZUREQ1FsQUJ5?oc=5).
 
 ## Requirements
 - Python 3.8
