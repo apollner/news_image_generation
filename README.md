@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken: Overwhelming evidence Venezuela opposition won election**
+**Trump Escalates Race Attacks on Harris, Worrying Some Republicans**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9la1gwdk5NNXY3el9EcU1ERllhaDJBWFFzeUVGN3EyWjhlMGRMQ08zRzd2ZWxHazBBN0F4YS1oYmdiWnJmS2hRLVhNNUZJZTFLMEE1R2oya05XZ9IBX0FVX3lxTE1jcEl5X0NNN3dLQ1duMUxBWC0yX2lzTjJ4WE9aMUlNZm8xbkJQMXhHUGJyT2lPTUNoY2ZMZmJiZlozZkR2ZXJzVFZxc0ZYUHM4TWhPUWtVdUVya2VMMERB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXV0blJMX0owUVFvYWF2dDNkVktVRkVfeGg0aldiUVJLdTQzRmZZSVF2V19TRkZCeTFQMlg2QUZyLWJoeXk4cjlnT3JsUElfSlNlZkFyUFNzbUNvcGZPTUswa3RLXzdmWWNJTkJRRnBXS1BIVXJPOHFIQ0hWM2RWUHVB?oc=5).
 
 ## Requirements
 - Python 3.8
