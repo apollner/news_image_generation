@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlamagne tha God on Trump’s racial attacks of Harris: ‘I don’t give a damn’**
+**NASA weighs Boeing vs. SpaceX choice in bringing back Starliner astronauts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFYtY0d4RGxGcGVDV1k5WGRHRjVqM19VNTlFaTBGa2FTYzBzYUFhbXhuVzdPY3dqenVoTm1OemYxTG41U3plR25ZZVdQRUxxeFR5SWNKNVJFZ01FN1JjeXctWWxYZ193QXQxWHQxR0NvVFpaN056eVVRTVczNmxraDV3N1RQd9IBiwFBVV95cUxOQkl5RTM0Y0FRUU9zVGxfTjFjelNuSHFaTzFvQWlSTFl3RWdmajJfczdsSDMxS2FzaXQ5LXBabUZtTlU1ZFNYLUZ0a3IyX3c1dEI5VnRaSUlwdjV6UUxsZml4aTNUZ2NkbmxIQzdWMEF5QW9fS3NQRk1CejlaOEFCeHljNzdXRXM3amNr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjBGZThhdnc4eERLblZPV2dlZ2JUODBxQ2RLLWlFSDNvNGM4d195aU5EYlJ4Q1FSamp3cUdOSlVVN2Z3eTlKRWUxLUI2TzlFeUNvdUNiYmUxczdxU0twZ2MwbnJnQWFweFJFQ2tjdUFCRzFsdE9vbVlsc0NEbDEyYzFMbmxqSzgxVGp4OGZReWZXX29FRl91R9IBngFBVV95cUxQb1JzRmNuOWF4UXFzT0FIOFNFdzlGNEVnNG5RUHhUalpvX1NEVkUtZ3Q0WUhPZUNpVmJoVGticXdaWXNrYXVObHNmSmh5QzMzeWFGc2Q4YmxINmRfcWYxa25BUTg3N0hfRWxoS05rRnZnNURCcTRmMHVkV0JhZUhabHR2RjJZYTVYUk9BWF9kN09kZ050YUJaRDEyNnlZZw?oc=5).
 
 ## Requirements
 - Python 3.8
