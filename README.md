@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fear of US recession rattles global markets as tech shares fall**
+**$10M cash withdrawal drove secret probe into whether Trump took money from Egypt**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnhrM3FjMWdmVHBuSDQ4bXhnbzJJREZCRERIVnhFOWxPQ3hkR0lvbThLZDJESmllUU1rU0hkN0ExTC1ORHBBU1gtRXNqMUlZQ3JJbkUyRDlZdFlVSGZvcTV6SkI1RVMweDYzNVhVc1h3aHlLbmNCaXRockJNTDRBak0tMzE5Q3lHSWdoMlYzc2xDQ2psMW1r?oc=5).
 
 ## Requirements
 - Python 3.8
