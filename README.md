@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Josh Shapiro, Kamala Harris’s potential vice-presidential pick?**
+**Justice Department sues TikTok, alleging it broke child privacy law**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQejZCWlh5ekt0S1h4bnpMekxGTGhoemhDN1BFemc1ZENibkpBVVdxVVlWTHJ4S015eTZocXdIQ0FRdENGZ25DU0IydVJad3h3LVRkZko4SjVZdTFqRTdvSHlvLV9iWGZyVFFoN0Vwd3ptd2FlOU5WbjZhNnB2V2VzMHJHZFZoYTNfcUHSAYoBQVVfeXFMTjdwX1RLNHZobWJvY1V6ODRDZWpLZjJ5QmdXQzh5Vl9Yc09ET2p3V3V5cUtXb1RiZFRNeTRsaUJJTEFIRkVRQlhjM1RMUWN2WkhCS2JweFJnTWhVRTZBdG9tT0pUTXZDOG04QURrbXBZdFUwUl91bkowWkUydVZDazhDbkNIZUV3R0pR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWRMc3UzV3Rrd3RjRlZDRjhxbWM4ZUx2NlRGblVOTU94X05lbXFXUHpDS2lmc0JZaTdMTWhlTVNNYWx3OW9Oel9KWDVOV0l0TjFXLWFKZk9yTV95N08yYmwxeXV2SVZ1Rlo3dDNDRHRIX3JWSUZpWmhWUkdBZjlGdF9MNU5fWmJiR05qWGJfMA?oc=5).
 
 ## Requirements
 - Python 3.8
