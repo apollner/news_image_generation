@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study finds major Earth systems likely on track to collapse: 5 things to know**
+**Fear of US recession rattles global markets as tech shares fall**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjlKVGZ0UGtmMUlaazc3SzdVQWFLbko4WmhUQXo3OHJsZ0NtV21LSXdZTHUyTjlELWIzX00tUkZIZWRxN0xSQ0ljTUZfclpQdzdzQmNkdExxQndrQWNKWVd5SlhlLW1nQmZLMkZCZ252YUFkVEJFTGFDXzRJZ2FvTUN3dVZNeWpseXZjS3JoWkIzNUczZEpqdWNaWEV5UVVJeDM5VEVn0gGrAUFVX3lxTE5TM1RBcnRveHNDblotbGx2WGZSZGVpQmhJYVVhR0N1dHcwWmtUN19zNjNsbExVMndUSnlLQlJzNHZRNUhqVHpVMHBGWkpRSEl0YUJxTmc1QW9NaTF0MnBLNm9HVTZ3Sk5JZm02Q3ViTFdoUFlReVJSdnpIREtRSVZYTWdXSUhYLVV3NEc3d2tjT0l5NXEwRUJvMzktVmtIcWM2bjBmNVVhX1F2cw?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
