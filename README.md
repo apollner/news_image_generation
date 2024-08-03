@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Reserve under fire as slowing jobs market fans fears of recession**
+**4 men, including police officer accused of taking bribes, shot to death near resort outside Cancun**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaXU1OFpyV3dIWjBvbHpfbzlEcUEyekx5MDNHSmJVek9zblVFYm5nVHhRbUxpakhyMDJlaWRNSHFmeHVLaXJNYi1UNzVFb3VLOGN1Ui1FTE1VclhQWWoxUzBTek1TVUJZZlkwRnpuQnA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGxyR1RfUWh2X3E5RjJYYjNlcGs3NUU2ZWhxRU51WTlseXpBX01xZkRZWFBYLXcyZ0M1bGw2R21BZ2VJNVZrT05KbFAzLXNMX3BvMEZUWlNQbEhJU2pVdFM5ZFB3UjQtT0wzUTExX195Wm53LTFTUEJkNXhCMTU5c1RHTWZobFhuMUhGRTh1TEfSAZYBQVVfeXFMTkZQYlVHNEd5dXlkU1ltWEN3cWNYYjJNSnF1UFhNOGE2S1VRb0pwVkUwQWFqS295QjAxYXpVSzBOVWFWeGNhVG43V1NoUnl2MHl4aDNkQVVxVmFRNXRnQlcyTlg1dVRLNjJCcmJsSGFrV0lFakJUdHZUeGJhdDE2VjY1Nm5oTTlJY2xhbGc0SjVxUHk3Skp3?oc=5).
 
 ## Requirements
 - Python 3.8
