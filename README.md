@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Escalates Race Attacks on Harris, Worrying Some Republicans**
+**Horoscope for Friday, August 2, 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQaXV0blJMX0owUVFvYWF2dDNkVktVRkVfeGg0aldiUVJLdTQzRmZZSVF2V19TRkZCeTFQMlg2QUZyLWJoeXk4cjlnT3JsUElfSlNlZkFyUFNzbUNvcGZPTUswa3RLXzdmWWNJTkJRRnBXS1BIVXJPOHFIQ0hWM2RWUHVB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDd2SEdWaEVkLVJhOFVESVhsWFdjSmoxbXMyZzFFVUtHSnItNnlCbkNUS0xELUloT19rYXl5OE1nenBFVHdFNHlGN19rUzVZVm9kYTZoSWpGVndIci1QS3RvcnltU1VGV2hiU1JKTFVkVFp6Vk0tWkJzWE5Xa2tKdnVVRXVhMGtydWx2R3V5ZDFxUQ?oc=5).
 
 ## Requirements
 - Python 3.8
