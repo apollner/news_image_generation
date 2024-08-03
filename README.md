@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA says it is “evaluating all options” for the safe return of Starliner crew**
+**Bears vs. Texans: How to watch the 2024 Pro Football Hall of Fame Game tonight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnZ3OWF2QWd0VktJNF9ONThGcTRkc2hPeTFrYlNQSnVuVndnUkZIaVhfUnhrYjdCdTlwakpzd0lVLXU4TGJQM2xCeGNLTVNtbWQxenBzc2NleWY0dWYwOTRYOFB4UW9hNWhCRUhvamMwekFQdS01NXRCTllJNmZBQlN1SkRVSUw3QVhYWGg5aUNwdTJ5cWxMczZEZ1hKSUJaYTNVY1dfbGdsclN3?oc=5).
+You can read more about it [here](https://sports.yahoo.com/bears-vs-texans-how-to-watch-the-2024-pro-football-hall-of-fame-game-tonight-152910124.html).
 
 ## Requirements
 - Python 3.8
