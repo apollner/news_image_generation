@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Friday, August 2, 2024**
+**Americans freed in Russia prisoner swap land in US**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOeDd2SEdWaEVkLVJhOFVESVhsWFdjSmoxbXMyZzFFVUtHSnItNnlCbkNUS0xELUloT19rYXl5OE1nenBFVHdFNHlGN19rUzVZVm9kYTZoSWpGVndIci1QS3RvcnltU1VGV2hiU1JKTFVkVFp6Vk0tWkJzWE5Xa2tKdnVVRXVhMGtydWx2R3V5ZDFxUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tSUc2NzJmeEt1TDlZQjY2RmFJUkdjaUJkUmpNYnM2LVBHUTJ1TEpGS2xvRm9yeUdkWGR2SVEwY3Q2cjY4SnVidjd4N0JBaHRCbnI4Y1dEWkNCUdIBX0FVX3lxTE5sZFpVUXlfSjVaQl9ObUV6TmZOOXU0VzhpMmdmT1BGYm5IR3llbHlENG5RZzNBRzUyWGFBM2VnblljYkxSYUFfUTkwU2puX1dHQlgxZXltSkRLNnU1Rnhv?oc=5).
 
 ## Requirements
 - Python 3.8
