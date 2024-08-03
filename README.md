@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Simone Biles’ brilliant comeback and other takeaways from the individual all-around gymnastics final**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjhnc2t6dUxQamgyUXQ0YmtjZXlmckxpSE5uOFBfckpVdXFSTHAybVRoeml4STdkN2o0bDNQaHI1ZE1tYmp2VEt0dzg5QnUzY251bGozb29WbWMxdlZjSk1uN3lmM0xTMWhKbGk4dnVOUWI2eXUwWTdleS10clYyU0NTX21WM1k4OHdwWmIzZmVCTmtuVVE?oc=5).
 
 ## Requirements
 - Python 3.8
