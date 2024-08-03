@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon says distraction of Olympics, Trump assassination attempt contributed to weak forecast**
+**Blinken: Overwhelming evidence Venezuela opposition won election**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamU2M3hDbGpTWmdZaW1mWDg5LUp0VS1PZjRDODR4LXNVREhqQUZyYkpzdi03UXhkM21rbjFwQ2pXLUdwY1hMdUx6OThOem9ta29ac0h1NU1aQkJKSWJsWVU1RDAyb201QkN5LXJneWZPNXZfdjBlT0E5TzNyMUQ0cjFhb0UwVEZWQWFzWU9XcC1jZDVKaXprLUlOZFRSS0dUUEZpMHFtYWXSAa4BQVVfeXFMTURiSWkzdThoMno5bGlYRTZIcEF1ME1VcTNJTmNnazFhUnlHN3ZabmFJeE50c2JiWENZUndtaWlWOXZrbWkzdk9iU3dxYm5LWjBxR1MxR1QyYV9haFV0b2RYd1FMSmhBalJDNGhrSnJqa2tvWWhvZWI5azZVZEwzbjg3ekpOQlFzQUo0UlROMkk3UHpfcWx0ajBVeHNhZ3Vjb241RzIwVnowbFoxMFl3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9la1gwdk5NNXY3el9EcU1ERllhaDJBWFFzeUVGN3EyWjhlMGRMQ08zRzd2ZWxHazBBN0F4YS1oYmdiWnJmS2hRLVhNNUZJZTFLMEE1R2oya05XZ9IBX0FVX3lxTE1jcEl5X0NNN3dLQ1duMUxBWC0yX2lzTjJ4WE9aMUlNZm8xbkJQMXhHUGJyT2lPTUNoY2ZMZmJiZlozZkR2ZXJzVFZxc0ZYUHM4TWhPUWtVdUVya2VMMERB?oc=5).
 
 ## Requirements
 - Python 3.8
