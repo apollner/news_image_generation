@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 men, including police officer accused of taking bribes, shot to death near resort outside Cancun**
+**Charlamagne tha God on Trump’s racial attacks of Harris: ‘I don’t give a damn’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGxyR1RfUWh2X3E5RjJYYjNlcGs3NUU2ZWhxRU51WTlseXpBX01xZkRZWFBYLXcyZ0M1bGw2R21BZ2VJNVZrT05KbFAzLXNMX3BvMEZUWlNQbEhJU2pVdFM5ZFB3UjQtT0wzUTExX195Wm53LTFTUEJkNXhCMTU5c1RHTWZobFhuMUhGRTh1TEfSAZYBQVVfeXFMTkZQYlVHNEd5dXlkU1ltWEN3cWNYYjJNSnF1UFhNOGE2S1VRb0pwVkUwQWFqS295QjAxYXpVSzBOVWFWeGNhVG43V1NoUnl2MHl4aDNkQVVxVmFRNXRnQlcyTlg1dVRLNjJCcmJsSGFrV0lFakJUdHZUeGJhdDE2VjY1Nm5oTTlJY2xhbGc0SjVxUHk3Skp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFYtY0d4RGxGcGVDV1k5WGRHRjVqM19VNTlFaTBGa2FTYzBzYUFhbXhuVzdPY3dqenVoTm1OemYxTG41U3plR25ZZVdQRUxxeFR5SWNKNVJFZ01FN1JjeXctWWxYZ193QXQxWHQxR0NvVFpaN056eVVRTVczNmxraDV3N1RQd9IBiwFBVV95cUxOQkl5RTM0Y0FRUU9zVGxfTjFjelNuSHFaTzFvQWlSTFl3RWdmajJfczdsSDMxS2FzaXQ5LXBabUZtTlU1ZFNYLUZ0a3IyX3c1dEI5VnRaSUlwdjV6UUxsZml4aTNUZ2NkbmxIQzdWMEF5QW9fS3NQRk1CejlaOEFCeHljNzdXRXM3amNr?oc=5).
 
 ## Requirements
 - Python 3.8
