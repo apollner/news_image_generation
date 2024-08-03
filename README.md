@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Josh Shapiro, Kamala Harris’s potential vice-presidential pick?**
+**Harris has secured enough Democratic delegate votes to become their party's nominee, chair says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQejZCWlh5ekt0S1h4bnpMekxGTGhoemhDN1BFemc1ZENibkpBVVdxVVlWTHJ4S015eTZocXdIQ0FRdENGZ25DU0IydVJad3h3LVRkZko4SjVZdTFqRTdvSHlvLV9iWGZyVFFoN0Vwd3ptd2FlOU5WbjZhNnB2V2VzMHJHZFZoYTNfcUHSAYoBQVVfeXFMTjdwX1RLNHZobWJvY1V6ODRDZWpLZjJ5QmdXQzh5Vl9Yc09ET2p3V3V5cUtXb1RiZFRNeTRsaUJJTEFIRkVRQlhjM1RMUWN2WkhCS2JweFJnTWhVRTZBdG9tT0pUTXZDOG04QURrbXBZdFUwUl91bkowWkUydVZDazhDbkNIZUV3R0pR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDdDQW10anRjSmNRVV8yQ2hjT2k5ZXBTalN3ZXJ6S3hDVVowM2FFWlo5MTNFUVBvX01oMDVBSlVWeExCWGo3WUV4ckdIdS1DcXl0TlIyWjlIUF9xNVlSY2p6ekpOdnBqcHg0aWx2R0RQeGJPd0E3S2tqNVJJV2NocDBFb0xlREdmS0doVGg0eHV5UQ?oc=5).
 
 ## Requirements
 - Python 3.8
