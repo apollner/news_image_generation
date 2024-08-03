@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA weighs Boeing vs. SpaceX choice in bringing back Starliner astronauts**
+**Federal Reserve under fire as slowing jobs market fans fears of recession**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQjBGZThhdnc4eERLblZPV2dlZ2JUODBxQ2RLLWlFSDNvNGM4d195aU5EYlJ4Q1FSamp3cUdOSlVVN2Z3eTlKRWUxLUI2TzlFeUNvdUNiYmUxczdxU0twZ2MwbnJnQWFweFJFQ2tjdUFCRzFsdE9vbVlsc0NEbDEyYzFMbmxqSzgxVGp4OGZReWZXX29FRl91R9IBngFBVV95cUxQb1JzRmNuOWF4UXFzT0FIOFNFdzlGNEVnNG5RUHhUalpvX1NEVkUtZ3Q0WUhPZUNpVmJoVGticXdaWXNrYXVObHNmSmh5QzMzeWFGc2Q4YmxINmRfcWYxa25BUTg3N0hfRWxoS05rRnZnNURCcTRmMHVkV0JhZUhabHR2RjJZYTVYUk9BWF9kN09kZ050YUJaRDEyNnlZZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE1RaXU1OFpyV3dIWjBvbHpfbzlEcUEyekx5MDNHSmJVek9zblVFYm5nVHhRbUxpakhyMDJlaWRNSHFmeHVLaXJNYi1UNzVFb3VLOGN1Ui1FTE1VclhQWWoxUzBTek1TVUJZZlkwRnpuQnA?oc=5).
 
 ## Requirements
 - Python 3.8
