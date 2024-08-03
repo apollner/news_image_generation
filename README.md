@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s iPhone Sales Slide, but Investors Still Expect AI Rally**
+**Apple working with regulators to enable Apple Intelligence in China and the EU**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZ0lpczhWOTl4S0ZfR1paX244cENCdmZwNGdjZnNEYjJnMGxBM21NazYxTGxnS3lqZ1lDLXB4R19tNHhEQXc5cmQ5ZmJUNkxUR2FBLVllSHlkdmZIQjhZOW85ZHpDMXB2ZHNFMmxZOHZrUGdqY0lR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia0FVX3lxTFBiaVUxZ1ZBWUE0MU51UmhzbE9GY1I4ZUh4UDVSdU5FV1Z4clBWOXpyWDlyM1c3cWRLUHozeU5jUExLU0dxNXdCQm4zdjdQd3dmQ3M1UHc5RmRFUkR2MzF3THViXzBxeGJVcEVj?oc=5).
 
 ## Requirements
 - Python 3.8
