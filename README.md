@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**$10M cash withdrawal drove secret probe into whether Trump took money from Egypt**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnhrM3FjMWdmVHBuSDQ4bXhnbzJJREZCRERIVnhFOWxPQ3hkR0lvbThLZDJESmllUU1rU0hkN0ExTC1ORHBBU1gtRXNqMUlZQ3JJbkUyRDlZdFlVSGZvcTV6SkI1RVMweDYzNVhVc1h3aHlLbmNCaXRockJNTDRBak0tMzE5Q3lHSWdoMlYzc2xDQ2psMW1r?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
