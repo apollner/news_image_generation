@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cancer rates are on the rise for younger generations — and obesity may be a big reason why**
+**Charlamagne tha God on Trump’s racial attacks of Harris: ‘I don’t give a damn’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMno3cmZKZ0dwUTViT0RuZnZuREc5LTBWLVlSUG1wQXVvVUV5anpsZm1SSS0zcG1UVDVIQV9ScFhNN05jTGdJODNpd3lIU0RYbWZ4Y256MnhzaHhpT28tM002XzMzSmlLaWhmMl80WmdYWUM3eFF3ZVFYWlI5eVByc0Jxbzk0emVLWnROQW1FamFmdHVUVUM2d1FoMkR6UkMyMVkteEd3am9jQno4VlZjbDZZZTBqTl9TbndZQlNMMnA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFYtY0d4RGxGcGVDV1k5WGRHRjVqM19VNTlFaTBGa2FTYzBzYUFhbXhuVzdPY3dqenVoTm1OemYxTG41U3plR25ZZVdQRUxxeFR5SWNKNVJFZ01FN1JjeXctWWxYZ193QXQxWHQxR0NvVFpaN056eVVRTVczNmxraDV3N1RQd9IBiwFBVV95cUxOQkl5RTM0Y0FRUU9zVGxfTjFjelNuSHFaTzFvQWlSTFl3RWdmajJfczdsSDMxS2FzaXQ5LXBabUZtTlU1ZFNYLUZ0a3IyX3c1dEI5VnRaSUlwdjV6UUxsZml4aTNUZ2NkbmxIQzdWMEF5QW9fS3NQRk1CejlaOEFCeHljNzdXRXM3amNr?oc=5).
 
 ## Requirements
 - Python 3.8
