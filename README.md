@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked Google Pixel 9 Pro Fold promo video shows it opening fully flat - GSMArena.com news**
+**Japan plans to raise interest rates. Investors are spooked**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWE4MnQ3d2w4SXpPNWZScmhFaTVwZ1E5WllBR0xBQjdQeWpBTzVnYlFRUkNUbllCeTdGMS1qdF9XUnBmenpVc3pob0xfdXVOSHhkVTk4Y2tvM0tJUERpMmJKa2p2RVpRQy1qYXFob0hmdE1IbVhfcEdBNEdYNENDakFCRnFod0hZOENaRElIM2RMamdrNlhEVGh1SEtPVVNjb3Nlam0zNDRnNU5KNExr0gGrAUFVX3lxTE5HQUlheXktdWNrN01qbVYtWGh4YjFJc3NjZ3FuQ2FGLWEyVEx0NHFpUlR3anNjUmtyQ2VoSk1nOW5lR3JndXI1SEdLLVFLWGJJUjQ1STdpTzFWbUh0azRCUmtkczNudFFhMDZuemVyT2RNUFVFend1cnFnU0F4YU5ja21sX0RGaGNkcUNEVnJfYkRMbkg3WldYNDdqeFp4ZW4tbDNYTS1WaURrNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOY2ZjaEFfMXc4WnhWaDROQzhzOWhMTDRaWHloTDNMSVQtMUh4YXZzM1FVai1KeVN5MXpRdGw1RnN1czI0aDZscjdGVVp6RXJmNS1kWnB2d1ZyZ1JNYTlVSnVxMUtnSkplQXppbE1PZlk3elBDdWVuSDlmSDFtaEhCcVdZMnhiX013Qm04TFVNRm1hY1A1N1U00gGOAUFVX3lxTE9iVUptWUZYT2dWOHBUNmpaWjRUYl9pMThHQ01UOEZPbDRTdHBIcGhPdlZ2ZmstMWJfXzBTTHRIQ2xHdW1ZaEVPbzkyMXp2SU5IU0NIZW5WSWpuMnB0NUFyRk56cEJWSExTR2JsX3hkM0RPYV9wT1VpYW05MVl3SUJZVUhublBTNmJCZUNTN2c?oc=5).
 
 ## Requirements
 - Python 3.8
