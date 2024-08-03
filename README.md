@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department sues TikTok, alleging it broke child privacy law**
+**Team USA sets new WR in 4x400m mixed relay**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNSWRMc3UzV3Rrd3RjRlZDRjhxbWM4ZUx2NlRGblVOTU94X05lbXFXUHpDS2lmc0JZaTdMTWhlTVNNYWx3OW9Oel9KWDVOV0l0TjFXLWFKZk9yTV95N08yYmwxeXV2SVZ1Rlo3dDNDRHRIX3JWSUZpWmhWUkdBZjlGdF9MNU5fWmJiR05qWGJfMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjFETzkwYW9pWUVZX3ZfbTB1cHpvTGdMT2JWMzJjM205U1MxQkRxand5UnFCc19wM0NQSWhXS3hSYVF2Y1Ryc2RTVXVxcE15YjVTeDkyQ3A2aS1oLXhSQUZ6U1Y5Umk5Q2thdjJSNVRRclk5QUZRbk82V0NKcWNVcEhOM0I3Um9mUjJwOTltWWYzSUhJN2RPMi1LYkhabldFaFYwTFB6MA?oc=5).
 
 ## Requirements
 - Python 3.8
