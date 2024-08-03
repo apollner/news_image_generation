@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy Buds 3 Pro Review: Better Than the AirPods Pro 2 (in Some Ways)**
+**Study finds major Earth systems likely on track to collapse: 5 things to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjNQRlBYN0FSR21hMGhXU2NSc2dRdVktcEZ6eGc0c0lmZTU0TnRmWW40dHg5MDVRczlJU05wSXpxRGpBTXk4emdaQXY0cXpGTW92TmIwdmF6NDE4RjktY2VWZ0pIR280emdBdVg1UXpNN3dWNllWcXNsWWR5ZkxNdnAxQThuREZYTGNlWHh5R3UyTmNtRDN3M0lvLVZNcW5SMDhPWTdYa2dvdktBTUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPYjlKVGZ0UGtmMUlaazc3SzdVQWFLbko4WmhUQXo3OHJsZ0NtV21LSXdZTHUyTjlELWIzX00tUkZIZWRxN0xSQ0ljTUZfclpQdzdzQmNkdExxQndrQWNKWVd5SlhlLW1nQmZLMkZCZ252YUFkVEJFTGFDXzRJZ2FvTUN3dVZNeWpseXZjS3JoWkIzNUczZEpqdWNaWEV5UVVJeDM5VEVn0gGrAUFVX3lxTE5TM1RBcnRveHNDblotbGx2WGZSZGVpQmhJYVVhR0N1dHcwWmtUN19zNjNsbExVMndUSnlLQlJzNHZRNUhqVHpVMHBGWkpRSEl0YUJxTmc1QW9NaTF0MnBLNm9HVTZ3Sk5JZm02Q3ViTFdoUFlReVJSdnpIREtRSVZYTWdXSUhYLVV3NEc3d2tjT0l5NXEwRUJvMzktVmtIcWM2bjBmNVVhX1F2cw?oc=5).
 
 ## Requirements
 - Python 3.8
