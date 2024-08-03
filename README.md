@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump doubles down on false racial attacks on Harris, Republican senators squirm when confronted about it**
+**NASA says it is “evaluating all options” for the safe return of Starliner crew**
 
-You can read more about it [here](https://consent.google.com/m).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOYnZ3OWF2QWd0VktJNF9ONThGcTRkc2hPeTFrYlNQSnVuVndnUkZIaVhfUnhrYjdCdTlwakpzd0lVLXU4TGJQM2xCeGNLTVNtbWQxenBzc2NleWY0dWYwOTRYOFB4UW9hNWhCRUhvamMwekFQdS01NXRCTllJNmZBQlN1SkRVSUw3QVhYWGg5aUNwdTJ5cWxMczZEZ1hKSUJaYTNVY1dfbGdsclN3?oc=5).
 
 ## Requirements
 - Python 3.8
