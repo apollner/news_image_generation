@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charlamagne tha God on Trump’s racial attacks of Harris: ‘I don’t give a damn’**
+**Mortgage rates plunge to the lowest level in more than a year after weak employment report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFYtY0d4RGxGcGVDV1k5WGRHRjVqM19VNTlFaTBGa2FTYzBzYUFhbXhuVzdPY3dqenVoTm1OemYxTG41U3plR25ZZVdQRUxxeFR5SWNKNVJFZ01FN1JjeXctWWxYZ193QXQxWHQxR0NvVFpaN056eVVRTVczNmxraDV3N1RQd9IBiwFBVV95cUxOQkl5RTM0Y0FRUU9zVGxfTjFjelNuSHFaTzFvQWlSTFl3RWdmajJfczdsSDMxS2FzaXQ5LXBabUZtTlU1ZFNYLUZ0a3IyX3c1dEI5VnRaSUlwdjV6UUxsZml4aTNUZ2NkbmxIQzdWMEF5QW9fS3NQRk1CejlaOEFCeHljNzdXRXM3amNr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tUU5tR0JxTE4tV1ljY1pJckxVMHRXMEpkTHEwR1FIeHNOenVrdjBHajZ2V2NkM0RvX3FUWENHdXNxU2FZNWJ1b1FVb1hic0xvTzdDR3RIZEdhMFBISnBleGJBaTRWMTltM0VtWkxtYnJIY2RBYmhlbDBCTFg0YlnSAYQBQVVfeXFMT1dVSkNFQm5adU1aaVJmVDBPUU50YU5aRE1QZmJJVlkzTUx4WEdGbjZHRGtHMHJiS3JDYkJJSmh2WTFkUUtSajFEX0JrMmEzZkNvN1hGUWtodk5iT2k3RmE0MWQtUllwdEtDUmZTS0tITG5MUzh5T2d5RmFXLU0tMG8zV3dO?oc=5).
 
 ## Requirements
 - Python 3.8
