@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olympic golf leaderboard: Live results, tee times for Round 2 at Golf National in Paris**
+**Who is Josh Shapiro, Kamala Harris’s potential vice-presidential pick?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb29mcG5RbFFIM0ozbVhxMmdiSzVyQU9fd3p3dnBSODRoQmx5UjN3MEd1T201UVB4N09tMHBreDd4bGdZQzZ4Z1BoSmRwaFRBRm1JaXFTQUhYYlQ0cmNlT0JncTdJcnFNbGc1amtHNk1nTnprcExvM0x4VUppb3F6LXJENmdSNy1YWm5ORTVnT3ozSHo1ZVVLaExHVWlKb1B5UzNRcU52SWw1el9BVTJJNkQ5dDBHaXFJMExyZWQwRkJaQ3NtX2ZROWJZVTlldDhVYzczVW0yVnk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQejZCWlh5ekt0S1h4bnpMekxGTGhoemhDN1BFemc1ZENibkpBVVdxVVlWTHJ4S015eTZocXdIQ0FRdENGZ25DU0IydVJad3h3LVRkZko4SjVZdTFqRTdvSHlvLV9iWGZyVFFoN0Vwd3ptd2FlOU5WbjZhNnB2V2VzMHJHZFZoYTNfcUHSAYoBQVVfeXFMTjdwX1RLNHZobWJvY1V6ODRDZWpLZjJ5QmdXQzh5Vl9Yc09ET2p3V3V5cUtXb1RiZFRNeTRsaUJJTEFIRkVRQlhjM1RMUWN2WkhCS2JweFJnTWhVRTZBdG9tT0pUTXZDOG04QURrbXBZdFUwUl91bkowWkUydVZDazhDbkNIZUV3R0pR?oc=5).
 
 ## Requirements
 - Python 3.8
