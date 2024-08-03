@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team USA sets new WR in 4x400m mixed relay**
+**Cancer rates are on the rise for younger generations — and obesity may be a big reason why**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTjFETzkwYW9pWUVZX3ZfbTB1cHpvTGdMT2JWMzJjM205U1MxQkRxand5UnFCc19wM0NQSWhXS3hSYVF2Y1Ryc2RTVXVxcE15YjVTeDkyQ3A2aS1oLXhSQUZ6U1Y5Umk5Q2thdjJSNVRRclk5QUZRbk82V0NKcWNVcEhOM0I3Um9mUjJwOTltWWYzSUhJN2RPMi1LYkhabldFaFYwTFB6MA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMno3cmZKZ0dwUTViT0RuZnZuREc5LTBWLVlSUG1wQXVvVUV5anpsZm1SSS0zcG1UVDVIQV9ScFhNN05jTGdJODNpd3lIU0RYbWZ4Y256MnhzaHhpT28tM002XzMzSmlLaWhmMl80WmdYWUM3eFF3ZVFYWlI5eVByc0Jxbzk0emVLWnROQW1FamFmdHVUVUM2d1FoMkR6UkMyMVkteEd3am9jQno4VlZjbDZZZTBqTl9TbndZQlNMMnA?oc=5).
 
 ## Requirements
 - Python 3.8
