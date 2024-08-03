@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WSJ Reporter Evan Gershkovich Is Free**
+**Gloria Johnson, Tennessee Democrat Who Faced Expulsion, Wins U.S. Senate Primary**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQXJmMm5uRVNjMWllRHJuUGVFMmdMQl9vMVJoSVVRUFRGRzJ5VXBMbDJtOURjZHU3RzA4ekQ1a2pPOVpubGlsUjd1dDV6RmJyZ0o2VlpZckhVTWswV210M0ZkZm9wamRVNWNFVUtERS0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiaVdjUG92UWN5QzJFN191bHJFeWZyX0hhWXBPeE1YdllabjBZQ3h5SjZ1V19vWndkRWNXOTZmYkVHYzJUV0FyTnZCRUFvallEY1BpbE1qYzdnZ3dCdnZqYmhvUDMxUUxweDJnOUVfMG5SY09OcUdNRWcxNHFndw?oc=5).
 
 ## Requirements
 - Python 3.8
