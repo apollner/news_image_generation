@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Taylor Swift Is Right to Delay Kamala Harris Endorsement**
+**Olympic golf leaderboard: Live results, tee times for Round 2 at Golf National in Paris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYnp2bmVFemxyamNzak14RWtEX3N2eVdQTGVBSFlsaEhWMTRubTNVNEk0TUpZbHdjYmJUWlNwYmlkeDBmZmZSalh5ZVl3VTNIUjE1Q3g3N3JFdXh2cGo1MXdiU3UwTEV0dTZvNzNHUkRMVGZPTU9IZlViYUtBc3lDeXB0RWNMNnlzRDh6UDJ1NDRwWWVNcUhXTUFhSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPb29mcG5RbFFIM0ozbVhxMmdiSzVyQU9fd3p3dnBSODRoQmx5UjN3MEd1T201UVB4N09tMHBreDd4bGdZQzZ4Z1BoSmRwaFRBRm1JaXFTQUhYYlQ0cmNlT0JncTdJcnFNbGc1amtHNk1nTnprcExvM0x4VUppb3F6LXJENmdSNy1YWm5ORTVnT3ozSHo1ZVVLaExHVWlKb1B5UzNRcU52SWw1el9BVTJJNkQ5dDBHaXFJMExyZWQwRkJaQ3NtX2ZROWJZVTlldDhVYzczVW0yVnk?oc=5).
 
 ## Requirements
 - Python 3.8
