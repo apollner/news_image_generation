@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key Trump ally in 2020 should lose law license for two years, DC disciplinary panel rules**
+**Trump doubles down on false racial attacks on Harris, Republican senators squirm when confronted about it**
 
-You can read more about it [here](https://www.politico.com/news/2024/08/01/jeffrey-clark-law-license-suspension-00172320).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
