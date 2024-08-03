@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gloria Johnson, Tennessee Democrat Who Faced Expulsion, Wins U.S. Senate Primary**
+**Apple’s iPhone Sales Slide, but Investors Still Expect AI Rally**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTFBiaVdjUG92UWN5QzJFN191bHJFeWZyX0hhWXBPeE1YdllabjBZQ3h5SjZ1V19vWndkRWNXOTZmYkVHYzJUV0FyTnZCRUFvallEY1BpbE1qYzdnZ3dCdnZqYmhvUDMxUUxweDJnOUVfMG5SY09OcUdNRWcxNHFndw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZ0lpczhWOTl4S0ZfR1paX244cENCdmZwNGdjZnNEYjJnMGxBM21NazYxTGxnS3lqZ1lDLXB4R19tNHhEQXc5cmQ5ZmJUNkxUR2FBLVllSHlkdmZIQjhZOW85ZHpDMXB2ZHNFMmxZOHZrUGdqY0lR?oc=5).
 
 ## Requirements
 - Python 3.8
