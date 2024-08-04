@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secretary Austin Signs Memo Withdrawing From the Pre-Trial Agreements in the 9/11 Military Commission Cases**
+**Aspirin may be linked to lower risk of colorectal cancer, new study suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZkRNbUlhUjVvWVJKUVJsU2FSQXZjbTFUSW50UlZlV0RRdmhnR05RUDN6cGZHMWdKeGVoZEZPVFNFdFBlMEdtS3pxZVdFaFA4THh1SldKMWR0WjJvb1YyVmVXQzE2LXQ2V3BfRnRLSUQ0VjlTS3ozMXBTRmJSZ3dMdWN5NmNPdEh5cXI3QkNqMGNDZWtpYUVGR2Q3X3Nvd1BwMDJfRVdPTHF4UVBOVjhJTnh4TWwxQS0zclVKWkM5WXNhaGk2cWRCZ3p5QnR5OWFUZ0huYlBJdmtFZw?oc=5).
+You can read more about it [here](https://www.foxnews.com/health/aspirin-linked-lower-risk-colorectal-cancer-new-study-suggests).
 
 ## Requirements
 - Python 3.8
