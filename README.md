@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attack at beach hotel by al Qaeda-linked group kills at least 32 in Somalia**
+**British police boost presence after night of rioting in Sunderland**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRvNERjaTlXSV9SVmhKYXVDa0FXa0dETHNMTEM4b0tScEtaZmlHV1d6bVMxQzBTSDVJT2Q4d0tQRm5WN2kwRVI3WHE3dGczaXF5NTJ3U2hXSnZGWTZSQXNjYU9DNlFrUjFRUjBJTkw3dHN4bHNXZGp0bGFoOS10LdIBhgFBVV95cUxNZ0ppV0VZQVlFdEhVMmxEQXpFWHRaRzJxWUZGNzNQUFhPdGw1Y1o1UTh2UmhXNVJob2NJNHRCSWthUUw4cHRwYVhncDZNcE55U3p3V0U4ZXFraGlTNlB6Y1F2alA1R1RreHNFZmMtQWl4V0w3aHZLcWthUkkwQUJhWlVxNEdqdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWVUNE5CVGx2UURlSFBXc1l2R1diRjg3OEV0UW9VM1haM2JIcUxBZGpubFptVTlRbGhmbk9OcVlqSjBKZTFKS2QwZ1FMWmh1U1NuYVp3a0JFZEh1SG5Va3ZTdEgxc3VWTTBBdE1oSXJSVkJuYVpTeWdCS3FPSkhxbFBCMkRBSFE4ckhXMG1hckVPQVpmMEJpMC1rTTVMN2Q3c2JRamJpYU4?oc=5).
 
 ## Requirements
 - Python 3.8
