@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haniyeh killed by ‘short-range projectile’ fired from outside home: IRGC**
+**A historic new law would protect kids online and hold tech companies accountable**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNbnRXZEhOUjRFSEV0VG11cTVKT0tuQTF0M29ES3VPNXpQaTNGVFVsUFdNdTNhNlRUUjZvT19kNGQwTnRNdDNjNmUzYjFyQ1E0Rk1uTDlLTVBneGhoQlRFaWQ0WERLOEVLOEtTU0VIWW9HWTVyQ3c4SW5ZMmdIYmxpeXowRnZqM3RHSEprcG5LYklIRk9XdVRKZEExSmRUZGl6LUI0dTdCa3A2SGxST0HSAbMBQVVfeXFMT0NlRXRvLW9YeWVzUE9HRmdHenZCZmFiUTlMSmZjbEdZUDJSUmc0N1dtNFpLYlc5QUJXN1ZiTHBiaWtUTWY0WXllM3Bna0hSb2xsWVI1WktjcDU5eFpqQWNJNUdEcGgtNzg4Nno5Z3VLLVpVUndSaDdsallPb2hJWVBsdnE5VVVLVXBYWHlFYUJKbjFDdmdDR1dpRTZMUy1yRjViY3YxQ3UxbXBrZnVKNXRvWXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFE2VlgtSFR5STBwNzFnQnVDN3VGU1BIVGg1MDRyeUt1UEhJMFFiLUxsdC1nWlVEQmllanZuYmk1ZWotaERhVkg1dVo5aGE5RkFmZU5OYlZQbDF6VEk3aWNyVnp1X3hST3RTbDM0NGxXZFJpWTlBT0s5SUhBSkx3TEN0OGNpYWlGb0tWZ1pMR2tpT3RpUlY5NFMyYVp6elZLdkNERUhkNUhLVGZldjJVSEJR?oc=5).
 
 ## Requirements
 - Python 3.8
