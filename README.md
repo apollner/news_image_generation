@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he agrees to Fox News debate with Kamala Harris on Sept. 4**
+**Stock markets plunge as weak US jobs fuel fears**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWZCQTZCN1VHZ0VyVDNUT0EzMW5kSHhYZTltekxGSndzQVVoamx3elg3WWxZTWJ6aTNwVlVqdFpjMzJiRXVlSnltUElfX29aZ1duME95SUFrUWtvLUc5d0VYRUFjc3JXcTF1cEtmdnhDU3pEUU1EUzAtb05iMjR4OXNvcDZrQ1ktOFJTbnJZdTM3UWNkNzBV0gGcAUFVX3lxTE5xS09pNl8zUWJOS21jUGFJdlBxOWxXV3pyT29pUWItQ09hcVFjZ3pfSXdrNTJaRXlLeTJKdWpBRHQzdnRyelBGU1BDU3M5OEgxTTJjS0cxb1IzTGpHbkNpRUFpSEl3bEVkQkdURnJnRGtLTU1oaTh2M3pjMXpseFliMW43cVNCLUdmZlMtLXRSSGUxSWZTbExRRE5Deg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvZjFBVzUxTU5qN2JTMDl0NFI1X2QwU0NkZGJ5bXg5R0V5dEl6N3lqSGd4dFdIY1VTbUZFeHgtVy1wbFl4MVo1N2lXSnFsbDV3cnRzaW1uTjBhd9IBX0FVX3lxTE1YRjYxMG9Ia3RaYTZqMlVMWTZEeW14cnhZZS1EbmlDUjctRmhzSjh5aldTWEhHVkFEc091eHFQbW5VMXRUX1lXY3RHX1g1VmlUTlNEZDJUSlJ6T295TEtR?oc=5).
 
 ## Requirements
 - Python 3.8
