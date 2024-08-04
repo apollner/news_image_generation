@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home**
+**Paris Olympics: Stephen Nedoroscik — the gymnast in the glasses — takes bronze in pommel horse**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBNSmNvUTNMT2FBNF9RUU96OVE0VUtuWjhGUzlTeWlCS0JmS2k3UFZ3VklSS192ZEw5Tm03cGpJRTFQeUR6S2Rndl96R21Hd3NRX25vWXEwYTkwYXowYzZZU2Y1dm16V0lyMzJwMnk3djk0bVp4dHdmQw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2hra21FYXJNaHVxdGhRTFpNeTB0UnhWdTFSbXVySG5LTURlblVlRW45aEhfSW05UkhrSkJpSXNSYUhNZjhXdHBDaVNwSDFvaFFsZHpJanRqNTZ2eXA5VVdCZHpwWnQ4eUMtUW9DYlpVVHZNbmpjSWhPUkVyNHQxQnpFWkpnaGNxdllvbVVNcHFGcE9KVWFMbFN4M1ZYRkM1QVozamNsTjRtTzc2T3VZT0pZSWF1eHdMNjVZMlNGSDF4eEV4RFZSMVU5Zw?oc=5).
 
 ## Requirements
 - Python 3.8
