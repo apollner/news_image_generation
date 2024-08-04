@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon stock tumbles 8% as profit, revenue outlook disappoints**
+**New jobs numbers raise alarm bells on recession risk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzdZNEtwemYzQzZXdUhkdjEwbC1YNzdvaDBQQTM3S3pmMm5LSDNIbWU2QkZLTlFKUG0wdzFGMnlsZ25OWlVFLTE5SFFyX29MeWtlZmk0UG5pLXB5Z01HZXVaRlNJVHdrX3lodDNDX0ZaS1N5TFZCU0hSNWZ0WjFfd1pxVTRacWFfT0ZScnJLckpsN2dfYmIzX3hqRW9jS01xa21jTVRxeURZUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVlmWmRVaDBFbTlzbkdwYlc3SHFwY1BWRFV6NXVrXzFFWTRLeGVVWjJaZjkwd3dicGhsWUI1dlRVOWZJdzZFN3NZdWJmaTZySmVRSml1V1ZuNFJGM2N2bmt0LUptOXY3amJnRm80M2d3WjlMVzcxUmVMZHk1X1IzSnd6Zw?oc=5).
 
 ## Requirements
 - Python 3.8
