@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Olympics: Stephen Nedoroscik — the gymnast in the glasses — takes bronze in pommel horse**
+**Free on National Chocolate Chip Cookie Day: Here's how to get your own delicious treat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2hra21FYXJNaHVxdGhRTFpNeTB0UnhWdTFSbXVySG5LTURlblVlRW45aEhfSW05UkhrSkJpSXNSYUhNZjhXdHBDaVNwSDFvaFFsZHpJanRqNTZ2eXA5VVdCZHpwWnQ4eUMtUW9DYlpVVHZNbmpjSWhPUkVyNHQxQnpFWkpnaGNxdllvbVVNcHFGcE9KVWFMbFN4M1ZYRkM1QVozamNsTjRtTzc2T3VZT0pZSWF1eHdMNjVZMlNGSDF4eEV4RFZSMVU5Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGo2SU9OYmlNNXNNT1ZfRHNOZzg3aXNEZ2NxYzM5eHdxY3B2NDAxOWY1NmN4bTh5NE9FdHh1bUE1Vl9WZEw1bVFScGxFLWFnck5xdGw0alZWWkZNYTRBWmcyZXBQM0M2MVdRVGlMRVBNaXFLYk5udElnOTVjVVBtRXpSWmJ6UlFheVA2WUJGLS04Qm1BQ3BIRDZFT0haVkJvam16UUN0d0FSck3SAbABQVVfeXFMTk1wYmNKc1lJT0V3dG05OGlRaXhXLXcwN0tGd3hXQzhNQXo1TU9mdGNIYlk1WWJVMmszUS11dXNFd3BBVW8zcHZOTlpSWEFFSWd1aWJtRm1jS1FXNkVhdVdmczdPNjlPWURVUERMc2tncFpRaVI3eXlVU3VTSDVxT3ZCMmx0Unk5bDFkZ3hFbk0zUE81d1VPdndfdk1EeUpFNHc0emFFdmVTN3RCakdBekw?oc=5).
 
 ## Requirements
 - Python 3.8
