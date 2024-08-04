@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New jobs numbers raise alarm bells on recession risk**
+**Stocks drop, Nasdaq confirms correction as recession fears mount**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVlmWmRVaDBFbTlzbkdwYlc3SHFwY1BWRFV6NXVrXzFFWTRLeGVVWjJaZjkwd3dicGhsWUI1dlRVOWZJdzZFN3NZdWJmaTZySmVRSml1V1ZuNFJGM2N2bmt0LUptOXY3amJnRm80M2d3WjlMVzcxUmVMZHk1X1IzSnd6Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQenhLT1N0NXZpRGNiSVJpYWpqcHZUWWxqQlVvYy10N0JTU1pBb3Q4OFNzUGZzOFNLTjFFNUpISjk4QW9OSHgySmI5OWdyM1FFdldwQzB0X1pmMDl4QTJaNnBSYkJfQTFRVXVJLXN2TDZheUN3VTJfM1dTQ1RlbnpTd0MtMEtXR01oWG9PSmJyaHhLOTVHSlNVR3BpeHA0M2Y3WTRYT3RHcVlyVTFRUDVLc0t3?oc=5).
 
 ## Requirements
 - Python 3.8
