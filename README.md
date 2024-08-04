@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some ditching Uber, Airbnb: Millennial brands have gotten expensive**
+**New jobs numbers raise alarm bells on recession risk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdV9vbjc2OEZCTWxNS3hoWnJBX204VDd4djNCaGVMcTRLaUZ5R2huQTJHV19vUDVxblhPUG9kTDdVSXNUeldFT1B4SnJCR252Nks5TjZGTjI1am1fbm1ZVTVRdDhiYy13LWtCMGxGdF93RVUxU3ZvUl9YRkJjVUo3Z19KbHVNM2labXMtc0hnUmxnRC1rdHl0Z2FIN3MyVXPSAaQBQVVfeXFMTnF4cFMyeUhnOE55aVV5VlZITXRJSkZsRkgzSVN1QldOQVI5dWtqLVk0VTNnekVrc1ZtUVowQ2oyZUt5TUtWUGVxcnMwZkk3X1V6SFdiNjNBdS1vdUxLODQ1SVhMUDRFT21TdmIyVm9KajQwWnRMcGpDZG1YTzk4aHZ5eDRkVldOdnJXOGVKSzBleEp0akg5RU5Ha1NkOWtRUFgwWHI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVlmWmRVaDBFbTlzbkdwYlc3SHFwY1BWRFV6NXVrXzFFWTRLeGVVWjJaZjkwd3dicGhsWUI1dlRVOWZJdzZFN3NZdWJmaTZySmVRSml1V1ZuNFJGM2N2bmt0LUptOXY3amJnRm80M2d3WjlMVzcxUmVMZHk1X1IzSnd6Zw?oc=5).
 
 ## Requirements
 - Python 3.8
