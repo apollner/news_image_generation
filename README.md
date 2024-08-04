@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launch recap: Starlink mission Friday from Kennedy Space Center, Florida**
+**US deploys jets and warships as Iran threatens Israel**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/08/01/spacex-rocket-launch-falcon9-florida-stage-fairings-cape-canaveral-space-liftoff-sky-early-friday/74618203007/).
+You can read more about it [here](https://www.bbc.com/news/articles/cw5y5637eqdo).
 
 ## Requirements
 - Python 3.8
