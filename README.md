@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cardi B Divorce Filing 'Wasn't an Easy Decision': Offset 'Doesn't Support Her Like a Husband Should' (Exclusive Source)**
+**SpaceX launch recap: Starlink mission Friday from Kennedy Space Center, Florida**
 
-You can read more about it [here](https://people.com/cardi-b-divorce-filing-wasnt-easy-decision-exclusive-source-8689705).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/08/01/spacex-rocket-launch-falcon9-florida-stage-fairings-cape-canaveral-space-liftoff-sky-early-friday/74618203007/).
 
 ## Requirements
 - Python 3.8
