@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vadim Krasikov: Vladimir Putin's trump card in prisoner swap**
+**New storm surge warnings issued for Tropical Depression Four on path toward Florida's west coast**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNUS1VY3VreUN6TkFjdllwNWotMGw0MmF2WnJCaERINjQ1OHdXbHNUQ3hDak1qMnB1RVJWZFV2YWpaS3V2X2Vtckw1VGVCaHh5TWdjSWNoTGhZa1M1TGVFM0NNcFVUN2R6UjNFYUxDeDVBYkJHR3JtSFBERG1jYzc5OVNtdE1uQmZ3bTk2WHZEUjdPT1BJbkHSAZYBQVVfeXFMT1FuX1B2M1M5WWVfNXpObXktd2NRXzFzR1hXRTZJRVhqT2dDZkZFMmJfLTVDb3BRUDNIZi1sMnJaS1FuV2RWbWhWY1pFTjlVRWV6c21ncFR2UlJpS09Qd0czNmlSX3lxelBua1FVcHhvZzRyQVZRdG9BLUpoeHdNSFREMmNHRTBTczhFU216VWxaODBxbGRn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdUxKQVJFSFpUR3EweEJvaTRreTE0clBic21uVWEzd2drcHdlWm0zM3I0ZEphVWc1aHQxN1ZoSEN5NnhQcXo3MDVYMWxPcERTNTAxU01DZXpvbm5PNTFvN0lrdGJxRV94LTFFSmNHMS1haDlBbUR2eVFvRnd5U0E?oc=5).
 
 ## Requirements
 - Python 3.8
