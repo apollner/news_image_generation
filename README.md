@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launch recap: Starlink mission Friday from Kennedy Space Center, Florida**
+**Avowed Delayed to February 2025 to 'Give Players' Backlogs Some Breathing Room'**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/08/01/spacex-rocket-launch-falcon9-florida-stage-fairings-cape-canaveral-space-liftoff-sky-early-friday/74618203007/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTUs4dXNvTHF4OVFPeTVNamwxdVNldTdCQ043N21qNWllTW5VWFdfSURoOFp1ZHg1cG00VU5tb1RvaW5vbWlqdE9MeHBSTWlKWlpWZ29sZzY1X212WkhqQ0FSMTFFeTdoV3V5MnppcHI2WHk3U05XMHJZNW5zS1dKa2hRdTdsbXJTbVdDR2UtVFBFZENDUGpRc09sMVhYdVl1NzVMb3VFY1U?oc=5).
 
 ## Requirements
 - Python 3.8
