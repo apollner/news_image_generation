@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Bloodline win the WWE tag team titles**
+**Boeing Starliner crew still in space, with options open for return trip**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnNoMzhmMVo2dVBJVU55UmNaYlhydzkxV3FOajh4TmZzVjNBaWxUOHVBbThINUhuWkFTa3lpSzBnU21sVjdTQzk0TW1UWHhfTUJ0UnZ0NEhiTWMtR2J4dHJGdDUxTi02V2xNNVVnVWVBTVhaRDByZGk4RXU1eVN0UWVxVkpKS2wzSHBBS283Y1JwWEhFbDI0cXh2aFc0RHdDSzhGeExNZjJXTEdrbTM1Mw?oc=5).
+You can read more about it [here](https://thehill.com/homenews/space/4807812-boeing-starliner-crew-international-space-station-return-options/).
 
 ## Requirements
 - Python 3.8
