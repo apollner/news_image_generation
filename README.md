@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New jobs numbers raise alarm bells on recession risk**
+**Warren Buffett’s Berkshire Hathaway Slashes Apple Stake**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVlmWmRVaDBFbTlzbkdwYlc3SHFwY1BWRFV6NXVrXzFFWTRLeGVVWjJaZjkwd3dicGhsWUI1dlRVOWZJdzZFN3NZdWJmaTZySmVRSml1V1ZuNFJGM2N2bmt0LUptOXY3amJnRm80M2d3WjlMVzcxUmVMZHk1X1IzSnd6Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzlSRFhNa1ZhdjVCXzlzbHduQ0dITzBHVnk4Q2VzSDl3QjVoUTd2YVVsaDkxV1F3QUFhdy01RmhrUV9ZOF95MFNycjBXZTBTa0FQVEs3aTA4RjZpbkVPVE9rZlpueWtLQWFmYk03a0ZQLU82WGthQks3N1ozT2lCaElzdFhqR0J2amphZV9pZEQ4STg?oc=5).
 
 ## Requirements
 - Python 3.8
