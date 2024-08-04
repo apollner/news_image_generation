@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US deploys jets and warships as Iran threatens Israel**
+**The Bloodline win the WWE tag team titles**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cw5y5637eqdo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnNoMzhmMVo2dVBJVU55UmNaYlhydzkxV3FOajh4TmZzVjNBaWxUOHVBbThINUhuWkFTa3lpSzBnU21sVjdTQzk0TW1UWHhfTUJ0UnZ0NEhiTWMtR2J4dHJGdDUxTi02V2xNNVVnVWVBTVhaRDByZGk4RXU1eVN0UWVxVkpKS2wzSHBBS283Y1JwWEhFbDI0cXh2aFc0RHdDSzhGeExNZjJXTEdrbTM1Mw?oc=5).
 
 ## Requirements
 - Python 3.8
