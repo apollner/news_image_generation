@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New storm surge warnings issued for Tropical Depression Four on path toward Florida's west coast**
+**Attack at beach hotel by al Qaeda-linked group kills at least 32 in Somalia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdUxKQVJFSFpUR3EweEJvaTRreTE0clBic21uVWEzd2drcHdlWm0zM3I0ZEphVWc1aHQxN1ZoSEN5NnhQcXo3MDVYMWxPcERTNTAxU01DZXpvbm5PNTFvN0lrdGJxRV94LTFFSmNHMS1haDlBbUR2eVFvRnd5U0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxOVHRvNERjaTlXSV9SVmhKYXVDa0FXa0dETHNMTEM4b0tScEtaZmlHV1d6bVMxQzBTSDVJT2Q4d0tQRm5WN2kwRVI3WHE3dGczaXF5NTJ3U2hXSnZGWTZSQXNjYU9DNlFrUjFRUjBJTkw3dHN4bHNXZGp0bGFoOS10LdIBhgFBVV95cUxNZ0ppV0VZQVlFdEhVMmxEQXpFWHRaRzJxWUZGNzNQUFhPdGw1Y1o1UTh2UmhXNVJob2NJNHRCSWthUUw4cHRwYVhncDZNcE55U3p3V0U4ZXFraGlTNlB6Y1F2alA1R1RreHNFZmMtQWl4V0w3aHZLcWthUkkwQUJhWlVxNEdqdw?oc=5).
 
 ## Requirements
 - Python 3.8
