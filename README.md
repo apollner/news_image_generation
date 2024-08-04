@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perspective | Gross and embarrassing — teen girls’ misconceptions about their periods**
+**NASA Is ‘Evaluating All Options’ to Get the Boeing Starliner Crew Home**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/08/03/teens-menstruation-periods-misconceptions-misinformation/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBNSmNvUTNMT2FBNF9RUU96OVE0VUtuWjhGUzlTeWlCS0JmS2k3UFZ3VklSS192ZEw5Tm03cGpJRTFQeUR6S2Rndl96R21Hd3NRX25vWXEwYTkwYXowYzZZU2Y1dm16V0lyMzJwMnk3djk0bVp4dHdmQw?oc=5).
 
 ## Requirements
 - Python 3.8
