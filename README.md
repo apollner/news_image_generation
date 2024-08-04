@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby forms in the Gulf of Mexico, expected to reach hurricane strength before landfall in Florida**
+**Florida deputy killed, 2 deputies wounded in shooting, authorities say: "They were ambushed"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcE8xcHF6LXBPVjdPNFFMOVp4b2U2aE1uZlNvVDFjbVpXbXZaaVk2Sm9ua25ZaEJMUXpuM01KZTRSbktzT2l5bVVoMW04aHdXVXZpejJ4WUxvOUdzMGpsckVfcnVjb0xhc2x0RENEdkNoYUdOa3Vqc0V3RlF5dlJZc3V4YURIWXpqZmZsRldyOTBtT19TbnN1RXBmTFJxOVJPUFhZeWczMmR4cUQ50gGjAUFVX3lxTE02ZUdjSldTZU15LXctdHBqSmdkR0REZ0ZkWmR5ckZMX2FWdzJ2V085NHZQVzBMLTJuQVRTY2RxMXZHQklqR1lRVF82TUJ1ZVh6ZW90eVdhV0ZsMUtuM3U4UEZmQmtybnFCa29nQmZGczQ4c3pDZ0ZTVXN0YURRbF9NX3VVeUx6cjdoNjVUNzFtNEU0aHlXY3V1YlVJYnhnOVRsQ0k?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/florida-deputy-killed-2-other-deputies-wounded-in-shooting-authorities-say-they-were-ambushed/).
 
 ## Requirements
 - Python 3.8
