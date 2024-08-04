@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner crew still in space, with options open for return trip**
+**Cardi B Divorce Filing 'Wasn't an Easy Decision': Offset 'Doesn't Support Her Like a Husband Should' (Exclusive Source)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkdQS1ZDQ3ppNTkxa0JZelhTcnk4TEc0NzhXMjRpT3pEdUVpWXBJd01GUTNuSFNrOWh2ZzJnbkNkUHM3ODNEUjNvdkY3aWtpME5GeHJLR0VQUHY5QVpLUkZ2clVjdDlJU0FXdXFJcDAtVnNXUkhvSTc0cGpoV1BGREJpY3F3NE5TLTdNbkNMcmcxMW51d2o5RnZySS15am1EMFFmTXQyMmd1ZEhl0gGyAUFVX3lxTE5xcXNjN2I0cU1LWG53U0RDdGZJU0hnck1fNG0zOUY0QnJkSE1CNkkxamljdVpzUHhmMU43TXhBNTFfbGlDOWRRNjNzQVFaaWVrdlNiNmtiNndvRjE2SkJHVEQ2R0l5eUs5Wld6Y09vQXZoRnI5Q0puTGhGdzhVN3B2N0ZicnlZRlR5VlRqbHpUWGNqZDUzLXBSc3BySlZDY2xDeTBzWld4cGc3YW1vcFluS3c?oc=5).
+You can read more about it [here](https://people.com/cardi-b-divorce-filing-wasnt-easy-decision-exclusive-source-8689705).
 
 ## Requirements
 - Python 3.8
