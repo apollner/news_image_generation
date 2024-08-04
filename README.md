@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner crew still in space, with options open for return trip**
+**Three Chiefs Named Among the Top 10 Players in the NFL for 2024**
 
-You can read more about it [here](https://thehill.com/homenews/space/4807812-boeing-starliner-crew-international-space-station-return-options/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmNaMmQyZWFXQkJjbExRcm1GaUljMjVMSDZGcHhnZmNMQUY1bE1IWWRCZEdBRUpuVVFWNU00WFRnY3lEMDFYZERJanVmeXZqMHUyUmJ5eVZoUEkzZGhjRGRqVDhNUDVURUphanNVZ2NaT0szdnhWUktVQTllMEhkUlc2SEdYWU1iMlROSHVmQUxNX1N6eHc?oc=5).
 
 ## Requirements
 - Python 3.8
