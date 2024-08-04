@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Chiefs Named Among the Top 10 Players in the NFL for 2024**
+**New jobs numbers raise alarm bells on recession risk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZmNaMmQyZWFXQkJjbExRcm1GaUljMjVMSDZGcHhnZmNMQUY1bE1IWWRCZEdBRUpuVVFWNU00WFRnY3lEMDFYZERJanVmeXZqMHUyUmJ5eVZoUEkzZGhjRGRqVDhNUDVURUphanNVZ2NaT0szdnhWUktVQTllMEhkUlc2SEdYWU1iMlROSHVmQUxNX1N6eHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVlmWmRVaDBFbTlzbkdwYlc3SHFwY1BWRFV6NXVrXzFFWTRLeGVVWjJaZjkwd3dicGhsWUI1dlRVOWZJdzZFN3NZdWJmaTZySmVRSml1V1ZuNFJGM2N2bmt0LUptOXY3amJnRm80M2d3WjlMVzcxUmVMZHk1X1IzSnd6Zw?oc=5).
 
 ## Requirements
 - Python 3.8
