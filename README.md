@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Freed American prisoners Gershkovich and Whelan may face ‘disruptive’ trauma, say mental health experts**
+**Trump Agrees to a Fox News Debate with Harris on Sept. 4**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm5PQUFCbVd6V2dOaWQta25IZWRtUkoyV01CM0pyQnQ0SldwNzd4SktOeTN3aFlsa2NwZU1MbmMwX0hPbUhxRGM0Mk92cmpUQUZmZFRXdHpkc0VMQkdZZ1lRU1JLWWlnMkZzRzlJa1J1TDNZaUdabjVVZ3lhTFRIUzFZdXlPd1VHaTNld1ZBZlJDelRLU2w2RTIySkp2ak9ud0RzSzRDNllJRlZtblI4RjIyOFIzQkNtLUQ40gHAAUFVX3lxTE5KTFZHQ2M5Q19zemk0aGw0djRpQnpldV92UHlYOGc4UDllc2hHNFJDbUZKa09OQUdNLTU1Z3JZaUx6cy12T0h4TXRET0ZSbm1qaDZqNTFYU1ltTjZpMEJLRGhkVXlZOFNZd2h4TU1XaTRvNWRXbjlLaGdldmhYaTNIQTNxLVZWa194WXBqMGswcHhUckg3UEtvVkpObHktY0FLWHV0T2psOTRLUmtjUzJSOU84SWZLMTQ2TFp5cWFQUg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQNHVFcDhjRmhSeDBVdi03aWRrdEl1MDh5ZEJqcV9lZHhVTEdEY2ktVGpFUHJSVmh0bmkxY3ZRRnNya1BTV3dselVnRkNmLWdKQnM2dVpuSUlhS0xpUXlubGVWenRVTmNQQS1HSlFhT3o1VGhyR3FFT0x2c1VUenpmVDU0QQ?oc=5).
 
 ## Requirements
 - Python 3.8
