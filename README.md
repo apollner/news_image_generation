@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aspirin may be linked to lower risk of colorectal cancer, new study suggests**
+**Cardi B Divorce Filing 'Wasn't an Easy Decision': Offset 'Doesn't Support Her Like a Husband Should' (Exclusive Source)**
 
-You can read more about it [here](https://www.foxnews.com/health/aspirin-linked-lower-risk-colorectal-cancer-new-study-suggests).
+You can read more about it [here](https://people.com/cardi-b-divorce-filing-wasnt-easy-decision-exclusive-source-8689705).
 
 ## Requirements
 - Python 3.8
