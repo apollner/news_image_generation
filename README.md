@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida deputy killed, 2 deputies wounded in shooting, authorities say: "They were ambushed"**
+**Olympic track recap: Sha'Carri Richardson gets silver in women's 100M in shocking race**
 
-You can read more about it [here](https://www.cbsnews.com/news/florida-deputy-killed-2-other-deputies-wounded-in-shooting-authorities-say-they-were-ambushed/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWURmSzR4Q0tyY290empJcm9zMExzRmtRSDZycGRERDFMRHk1N3pReVFpTi12c3hzSVh2TmdVcjBlbUwxZmJRMVptNGdWTnBwWlN0aDg3eHRQeVNQOVhkblg3cnh6VWJiTDVkSVBxR1Q4aUtDSzdlb0UwT0djYlZpUm1hSHlDbTZDUGgyQ2hybVlIc0cyaDlRakRFRFotemw5X3dYYV9BbHhpZGxVWHVLVG1wWEdydUtlTUw0Q0t1bw?oc=5).
 
 ## Requirements
 - Python 3.8
