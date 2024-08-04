@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lake County Sheriff: 1 deputy dead, 2 deputies injured in Eustis shooting; Two suspects also killed**
+**Base jumper dies after falling 500 feet off edge of Grand Canyon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQeEVlLXc2T1FBZDJBLWdEeDI4bEdaV1B3dHo1N0pfOGVYeXk2aEI1RExULUpMVVRKU2FJRlZXSVBkM0k3VkZ2RjB1YWdubUM5b1V3NTVGODY1ay1IV29iSmVOc1c2dWZXeFcwcGd5V2M5c0NxN1FCZ01GMTZXWkJmV1M3bDdBUDA0c3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQb0FMZHpZWkdTZ0NfTDAyWmEzc3pIZVQ0ZnlxRTItd2lKT0xYNUdjUkJKT3lnQUxMZEczSjdJXzdjM1RmWWJyblMxbkM1dDZXbENFOVpxZ2JiRndKek5iNnZpNFdNYmFnUlJ5R3NFdXVCR1I0R0ctZEF4RUYxc2l6RWJRbVhJTkxuekpqZXRLYkRuTjU1OUVn?oc=5).
 
 ## Requirements
 - Python 3.8
