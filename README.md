@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Olympics gymnastics live updates: Suni Lee earns bronze on bars as apparatus finals continue**
+**Two Russian ex-prisoners from East-West swap want to return home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMnRuVmFiTDhqbDJvbFVfeGYtNnpCZndOd0QxOG1aclZJNnBIZDUtOFVYSkJMWGdzRklPWHNldUdETUp0dUZyYll4THFJMHpQTDFfVGUzZVZlckJvYVFuS05fcVBZY0FGT2dpd05HOXBjdUd5Yjh0dGZnVTZHNmVwc0RJWDlBTm53Ym5fMFBNQTVEc2tVTDZ3a1dMdHpkX256bFlNeFZFeW5pZGJaT3gydzlyLVBVR2s1TE4xOTRQLW5LWTZWU2hXN1BOQy1KOU9XM1NlWGFRd2dxMzJ5ZGNUaFc5WFU?oc=5).
+You can read more about it [here](https://www.reuters.com/world/europe/two-russian-ex-prisoners-east-west-swap-want-return-home-2024-08-04/).
 
 ## Requirements
 - Python 3.8
