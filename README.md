@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Russian ex-prisoners from East-West swap want to return home**
+**Trump and Harris at odds over presidential debate**
 
-You can read more about it [here](https://www.reuters.com/world/europe/two-russian-ex-prisoners-east-west-swap-want-return-home-2024-08-04/).
+You can read more about it [here](https://www.bbc.com/news/articles/cv2g22365yqo).
 
 ## Requirements
 - Python 3.8
