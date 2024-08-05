@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekend Box Office: DEADPOOL & WOLVERINE Stays on Top**
+**Ukraine finally deploying US-made F-16 fighter jets, Zelenskiy says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2RnRFEwUnRRMVoxTFZYZWRLV0JJa1JyMEV1a3lrRW9YQjd0NGNnd19VOTVsWmRqMjA3ZGlfdXJCWW4xU1J6REZRcklRMkZwS2I0ekFfLTRGbW5xU2tVTmFmWkljcmdKOWJTcnI2VmVmY0tuejJjUDRQVXNjbG9VY1hzSWR2MVk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUh3SnJzallrNXVrLUhZYmVuSmtuRno1elBjYTY2UFN0MWNZTEV1TTdrVlpkeEVYX1V4U0x6ZTltUWpQdlBQZzRUZzZDS1F5aWlUZ082ZjFDSjNIYWozU3Q2bzRPbmhtVFBZWmtFbURXa1JWUzQxdHF5MlR2M1RNVXN2bTJfUzRyTGt3bVAyQkVlOUFuVTV0OVZZUFBTY3FrNVNkQV82NVhSRFk?oc=5).
 
 ## Requirements
 - Python 3.8
