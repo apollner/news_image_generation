@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Finer: US 'preparing for every possibility' on potential Iran retaliation**
+**USA vs. Germany Olympic women's basketball: Team USA locks up final pool play game with decisive 87-68 win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkZUS3h4d2tjSmZzTGlpQmZBalIwV0ZxY21fd24xclI5eGdxQ0I2aHl0OUtSVnViWlhvU3BXOWRMVTZzdGhwT3lFOWVEM01BVWR6TV9yNXlOM0hVdTdBd1BjdThYR181d2ZWbFFsWEFjajRFOTJTdXlLbFdodElXNE5KZDRCX1RRcmk4ck52N0N0R1J2RTIwb09DNTFoUkVPMm1yWUNvRXBKWFUt0gGyAUFVX3lxTE5TeHo5aW5SMF9MaTZQenFKbzhVdWtOUjVfWE8tVXZHeFJ3ZGo1WFB6cXYxS2lvRVpWVTJGVzNISzBNYjlpMXlJdldMX2tGNXM0cHBoTWVia0h0d0dSaTF1dERCbTQ2RGh2d3RFdE1zTENtOXd5OWU4RlVqb3ZvN0pVZUhBWGluNjJVQTFCNGJFaE9QT2diWFJaZ01ES0VTZHI4VlJ0M1lVNmhwWm9QZVJJLVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVBCeF9odDJBYnlHNTJqUFcxY0VNRlJMTUtEd3duQkhSbDBCaXgtQVpISWlzUy1lbUZUZjlsVWc2dTZsMEZ2U3ZRN3FpcHFBbzhmdDN4Rnk2SGdRUmFMMnFYeDBEV3JBOE1wbGw3M0hqREVXUFljMG1wQ1ZxZmxQUHFfVXZuUFpjMWZxT2lJXzdiV3FXU0VqR0pGYy1OQU1YTXlyeGpWQUdXWERiZ1A3VVVJSVNlVE5VcEVwc25kWEVmWHRZdGdGNFZneDJUdmpjRk52X0FtQk51bks3N2lMUVFR?oc=5).
 
 ## Requirements
 - Python 3.8
