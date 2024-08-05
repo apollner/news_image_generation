@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Stock Market Is Rotating. The Question is Where It Goes Next**
+**USA vs. Germany Olympic women's basketball: Live updates, score as Team USA finishes up pool play**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPMmN2X1pvM1A4MlBFNWdjWU9jNXFweXBBRmMybkxfTGZwQ0NQTEhqUGd5dTlpQVF6bGdfRlhUVmtQZERxTTRzVDFGTl8xRENRZS1MRzhoUXFWWDFHdVd6dl85UHN5QUZQODRnNU0xR05wQnZrNExxZXFKYUR3VzFzNkt5LXVPZDM2cG1IcDVnbGFVZDJCZHBVWEV1VEkyZEkzQVNYNmU2c0ZBaG9MSDE4ZFNzWmc?oc=5).
+You can read more about it [here](https://sports.yahoo.com/live/usa-vs-germany-olympic-womens-basketball-live-updates-score-as-team-usa-finishes-up-pool-play-140027219.html).
 
 ## Requirements
 - Python 3.8
