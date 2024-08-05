@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Katie Ledecky swims into history with gold medal in 800 freestyle at Paris Olympics**
+**Violent Protests Grip English Cities in Wake of Knife Attack at Dance Class**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenNSd1JGZFRtQkpPWkk3aFhCQ1czaS1HS1pJQTlGYWFpaXF0M19zX2E0YXlmVGU5T2ZEejV1S19WOXFPdWRTOWhIajlMNDZ0WWxtS3cyczMzdXRBdFFETVpCX2xjZWxGLUdYQmYzcGdQQTkycG1Ec3BGVWtORUVFcWlYNFpsM3BNVktZ0gGQAUFVX3lxTE43cG5DRGpDVU1HN1JQQjZEa2dTYmx2RHp0Q3NGZ0lUNjBQZmZZcDRjSGZRWVBaYVM2aHdHOEQtVWFmOUZ6UlVSQXpKSkk2M2xNQkIteGNQWDRRUzNTTnprLVFMRXFTVURTTVlkUjhjcV9OQkJLZmdTRUpaZFNKODJNYkI0aXlzc3A0WURYRDR2Zg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTZTaWdKNHJJZTBFaXg2T3pQZ1d4cVAtSFNPLUJ5bTE1OTl6TGVIRGNyRnlOcGVUWDNhZTk5TkQ3WDB1ejF0Qmt6LThFRTA5TEV4UXE4Y25UX2ExRjg5YldmdGZjUHZZRW9remgxVUF4Wml0aS1xbU1mVDA2OHo2WkFjTGZYQzg?oc=5).
 
 ## Requirements
 - Python 3.8
