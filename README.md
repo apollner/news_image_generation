@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Rogan Is Weirder Than J.D. Vance in Live Netflix Special**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnc4NzI0N2RVRGRPbmFIMGJhcVpXUWVPbUd3QkU0Wm4xd2lJQ2tLbFY0WnUyTFY3UHF3bDUzVUY1UG1zLUoxZWVqbF91RzRZZUE0WW9ERjZGSjRWMHlTU2xVTlFhcE5fQWIxTHJpcG1MajdyYk5jeTgyR0Rack9kRVc2QndKOF9sM3JJRFY5SXNFbFJ1SHY1czlFd2wwLWJnMkVEVGJ3T1g?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
