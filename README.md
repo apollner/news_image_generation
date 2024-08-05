@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With a beauty from Trinity Rodman, U.S. women move on to Olympic soccer semis**
+**US urges citizens to leave Lebanon on 'any available ticket'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQREVIWVY1bEVUeFpXTGNISTU0YTRaQXVJQVkzZUVZanhvQlF1Ry1OMUVZMEJhQ1BnWjViVnpUY01Wd2ZoQmVtTnBKYmZibzZTemtibl9qUXN0ai1aZDcxVXVVbklaUHZjUmZHWHhUQ2l4V3JBS0xzQVVaWUxfUWhlazBDU3lHRUZJNS1oVnJPc1FMZm84OTBqWmVhZ01DVU9JbmhfRkVXeWNLTDJKUlZBMVFYd3g?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RFloSXYxT0NFX0ZDcVM5NTh3b0tvVjN5NXdsbFpiOHFhUTBGRlFPM3hEcVRQcUJuelVNUkpCWmpvLUt2NENmYmpGT2pLclFtd3hNM01Bd3ROUdIBX0FVX3lxTE5vSTdxS0FYbWpzNlp3allQUzVCRTVXQVpSUjJqbXI2eUl3TU0tU2VFMHkxdEpCeV9wRHBKRGE5Rk05M1NINFcxUTJBNVprWmZKbG83ZGdreEtWV1BtUncw?oc=5).
 
 ## Requirements
 - Python 3.8
