@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stephen Nedoroscik 'excited to come home with some hardware' | Paris Olympics | NBC Sports**
+**With a beauty from Trinity Rodman, U.S. women move on to Olympic soccer semis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0Uzd2NVejdHSE5zmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQREVIWVY1bEVUeFpXTGNISTU0YTRaQXVJQVkzZUVZanhvQlF1Ry1OMUVZMEJhQ1BnWjViVnpUY01Wd2ZoQmVtTnBKYmZibzZTemtibl9qUXN0ai1aZDcxVXVVbklaUHZjUmZHWHhUQ2l4V3JBS0xzQVVaWUxfUWhlazBDU3lHRUZJNS1oVnJPc1FMZm84OTBqWmVhZ01DVU9JbmhfRkVXeWNLTDJKUlZBMVFYd3g?oc=5).
 
 ## Requirements
 - Python 3.8
