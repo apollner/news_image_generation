@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strikes on Gaza kill 12 and stabbing in Israel kills 2 as fears of wider war spike**
+**1 deputy shot dead, 2 suffering gunshot wounds in ambush**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjJ5NEJhbnV5OC0yak1ZeG5IbEgyNFE1UkwtVEdIazZFc1ZtTmhMVXlIQkZEMWloMlhGckRNOVF2RlBFTkxHUG00TERnSlpnQm9xb1BqVG11NnNhMlo5TlB4eVdBRzRDQUtLQ010aU1nZDlOdjdfT0M0REdsQU9nODlFRXpid1UzRTNrQ1plZDlRTGM1TEZ0MVZZcjdyY2hyVnVSY1d1cjc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnppZ0liRkVzSjByNWpoUTY1RFJsRThlWmpOT3FuXy1GMlozSjNodkFHbmdJenc0ck8yTVFfWFhxYjZXNXhGblRGcEtWYXN3czNGZDM0Zk1mLXZBX1Q0aWJJMkY0QXlwd2FHaWNJbk0zeTBORW5nSkIxSXFobXY5aFNkd3Z4VDBNTUlKRmRQWU5aWUhj0gGaAUFVX3lxTFBScjU0T2JMelIzQ0pqa3pjVngyazhJZ0djVXd5NUs4VGhrVm1PNWxSWXpNdUtOZ2UyWE13R0xqT1hfYU5OUktjZkNpM3JGRlh3VE1jUEtiMWZ0bEdBVXRBTjVINXNhOWVEMm5SaVpNMTdrb2tEWHlPTGI1VGR4clZXUkFPS0dlVDN0b2tIZ01hUEZ0VTdtV2U0aXc?oc=5).
 
 ## Requirements
 - Python 3.8
