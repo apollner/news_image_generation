@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terence Crawford vs. Israil Madrimov live updates: Round-by-round fight analysis**
+**Leak Lounge | iPhone 16 and 16 Pro - What’s on the horizon for Apple's upcoming flagships?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjl5RTVnazRXYTNNSlZ2TTBBd2Q0Uy1ENGhRdzhfTE02SlhrMncwMDMtRzV0TUhnaVloUFRkWnV1MW9UUnZmZDJvdncteU5RdnhhTDc1S3dxOU01Q3lLdTZ1OVdFdTA3eFZ4N3hVMlVmMlRocnBiSVN1ZGxjM25ScEw5SFZrakNrZkxvZExQeWhuaFJRZHZGSDlfa3Rvb0dOWDVNWHNBUkFUU3c4T0ZvdGRDOUJ2MmRPTmYtWmFMbGNfdDYy?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDlzRDhqcmhDQ09XLUFNZ1M1N3VnQWVmbUNPZWJkcjhaakJ1WmxGY01ycmRYcHE5ZnBSbDFvQXJiaE5HWENhY0FrX3h0M3RmZnk0cENwS0NPMTZaY184eVV3UlpiWFh1VHZ1V1NYYmlPbjlVSDVtRGhwMHJOSkRFSVZWeVVnRXJMRW5nX25ULVZkWEJzQ3YyaXA5S2lzMDl6Q0UwY1FLejdjT1ZSREVXU3h4a1liNjJH?oc=5).
 
 ## Requirements
 - Python 3.8
