@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stray Kids Took on Lollapalooza and Emerged Triumphant**
+**Katie Ledecky swims into history with gold medal in 800 freestyle at Paris Olympics**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9fN2lsdkFMUlRuYnpBSGo0LWRRZmVHZk1tMGk4QVVyWU82dWNFcllPYnZ4eVV1X3RqR3dBem9xa2dfb2V3OUxneFlEVG92OWhXOTdUTmY0UjIyekdLeExvaFg4S3lxbGNmeWV1TzFVOWQzc2dsYXBkQ281cjTSAYIBQVVfeXFMUElzUXJQNEt0Q0VGZTQ4VGNsY01iY0dJT094bHBmSUt0WkV6TVN6dVNmM09FdzBmcVBQNEJBUkVwRk12ZnozM3N4dkpTNGdpcm1mYks2TGhGNElEZHNIZDk3NFlORy1YRFd4cC1UWlFuY04tMTUySHFPX094Y2lseDZhUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenNSd1JGZFRtQkpPWkk3aFhCQ1czaS1HS1pJQTlGYWFpaXF0M19zX2E0YXlmVGU5T2ZEejV1S19WOXFPdWRTOWhIajlMNDZ0WWxtS3cyczMzdXRBdFFETVpCX2xjZWxGLUdYQmYzcGdQQTkycG1Ec3BGVWtORUVFcWlYNFpsM3BNVktZ0gGQAUFVX3lxTE43cG5DRGpDVU1HN1JQQjZEa2dTYmx2RHp0Q3NGZ0lUNjBQZmZZcDRjSGZRWVBaYVM2aHdHOEQtVWFmOUZ6UlVSQXpKSkk2M2xNQkIteGNQWDRRUzNTTnprLVFMRXFTVURTTVlkUjhjcV9OQkJLZmdTRUpaZFNKODJNYkI0aXlzc3A0WURYRDR2Zg?oc=5).
 
 ## Requirements
 - Python 3.8
