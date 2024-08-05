@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Violent Protests Grip English Cities in Wake of Knife Attack at Dance Class**
+**Sha’Carri Richardson overcomes sluggish start to make 100-meter final at Paris Olympics**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQeTZTaWdKNHJJZTBFaXg2T3pQZ1d4cVAtSFNPLUJ5bTE1OTl6TGVIRGNyRnlOcGVUWDNhZTk5TkQ3WDB1ejF0Qmt6LThFRTA5TEV4UXE4Y25UX2ExRjg5YldmdGZjUHZZRW9remgxVUF4Wml0aS1xbU1mVDA2OHo2WkFjTGZYQzg?oc=5).
+You can read more about it [here](https://apnews.com/article/2024-olympics-shacarri-richardson-ff5a0ae1c44fab2a54a032cab138c1cc).
 
 ## Requirements
 - Python 3.8
