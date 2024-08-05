@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA vs. Germany Olympic women's basketball: Team USA locks up final pool play game with decisive 87-68 win**
+**Ukraine finally deploying US-made F-16 fighter jets, Zelenskiy says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZVBCeF9odDJBYnlHNTJqUFcxY0VNRlJMTUtEd3duQkhSbDBCaXgtQVpISWlzUy1lbUZUZjlsVWc2dTZsMEZ2U3ZRN3FpcHFBbzhmdDN4Rnk2SGdRUmFMMnFYeDBEV3JBOE1wbGw3M0hqREVXUFljMG1wQ1ZxZmxQUHFfVXZuUFpjMWZxT2lJXzdiV3FXU0VqR0pGYy1OQU1YTXlyeGpWQUdXWERiZ1A3VVVJSVNlVE5VcEVwc25kWEVmWHRZdGdGNFZneDJUdmpjRk52X0FtQk51bks3N2lMUVFR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUh3SnJzallrNXVrLUhZYmVuSmtuRno1elBjYTY2UFN0MWNZTEV1TTdrVlpkeEVYX1V4U0x6ZTltUWpQdlBQZzRUZzZDS1F5aWlUZ082ZjFDSjNIYWozU3Q2bzRPbmhtVFBZWmtFbURXa1JWUzQxdHF5MlR2M1RNVXN2bTJfUzRyTGt3bVAyQkVlOUFuVTV0OVZZUFBTY3FrNVNkQV82NVhSRFk?oc=5).
 
 ## Requirements
 - Python 3.8
