@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thailand still grapples with a strict law against criticizing the monarchy**
+**Lee nabs bronze in uneven bars for sixth medal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXFYXzY5a0NXQ3lCUEpocjBLWkNXdktlT3QwSDBtMm9rNDE1MXZpTUhUSUVkN1ZMdnc4N2d3Ymp4Ny1yOVFmSWduRmpSUFdEeE5IcGJWbmRNZWhfNG4wX3hFWHdfODRGTzYxdVExbGQ2R192QUE0Nmtxd0lOLS04dXcxTjJ6cWsxUTFJZV9qc01lVzd1aWJSc0tQaFdPcUdCaWtJ?oc=5).
+You can read more about it [here](https://www.espn.com/olympics/story/_/id/40723839/suni-lee-wins-sixth-olympic-gymnastics-medal-bronze-bars).
 
 ## Requirements
 - Python 3.8
