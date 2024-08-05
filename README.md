@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge rejects Trump effort to dismiss election interference case**
+**Strikes on Gaza kill 12 and stabbing in Israel kills 2 as fears of wider war spike**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6p22n0z5m2o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcjJ5NEJhbnV5OC0yak1ZeG5IbEgyNFE1UkwtVEdIazZFc1ZtTmhMVXlIQkZEMWloMlhGckRNOVF2RlBFTkxHUG00TERnSlpnQm9xb1BqVG11NnNhMlo5TlB4eVdBRzRDQUtLQ010aU1nZDlOdjdfT0M0REdsQU9nODlFRXpid1UzRTNrQ1plZDlRTGM1TEZ0MVZZcjdyY2hyVnVSY1d1cjc?oc=5).
 
 ## Requirements
 - Python 3.8
