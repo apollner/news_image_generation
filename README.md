@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine finally deploying US-made F-16 fighter jets, Zelenskiy says**
+**US leads in Olympic medal count**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUh3SnJzallrNXVrLUhZYmVuSmtuRno1elBjYTY2UFN0MWNZTEV1TTdrVlpkeEVYX1V4U0x6ZTltUWpQdlBQZzRUZzZDS1F5aWlUZ082ZjFDSjNIYWozU3Q2bzRPbmhtVFBZWmtFbURXa1JWUzQxdHF5MlR2M1RNVXN2bTJfUzRyTGt3bVAyQkVlOUFuVTV0OVZZUFBTY3FrNVNkQV82NVhSRFk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2tvYkZsRkF5M0JNmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
