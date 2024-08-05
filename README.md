@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 deputy shot dead, 2 suffering gunshot wounds in ambush**
+**Joe Rogan Is Weirder Than J.D. Vance in Live Netflix Special**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnppZ0liRkVzSjByNWpoUTY1RFJsRThlWmpOT3FuXy1GMlozSjNodkFHbmdJenc0ck8yTVFfWFhxYjZXNXhGblRGcEtWYXN3czNGZDM0Zk1mLXZBX1Q0aWJJMkY0QXlwd2FHaWNJbk0zeTBORW5nSkIxSXFobXY5aFNkd3Z4VDBNTUlKRmRQWU5aWUhj0gGaAUFVX3lxTFBScjU0T2JMelIzQ0pqa3pjVngyazhJZ0djVXd5NUs4VGhrVm1PNWxSWXpNdUtOZ2UyWE13R0xqT1hfYU5OUktjZkNpM3JGRlh3VE1jUEtiMWZ0bEdBVXRBTjVINXNhOWVEMm5SaVpNMTdrb2tEWHlPTGI1VGR4clZXUkFPS0dlVDN0b2tIZ01hUEZ0VTdtV2U0aXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUnc4NzI0N2RVRGRPbmFIMGJhcVpXUWVPbUd3QkU0Wm4xd2lJQ2tLbFY0WnUyTFY3UHF3bDUzVUY1UG1zLUoxZWVqbF91RzRZZUE0WW9ERjZGSjRWMHlTU2xVTlFhcE5fQWIxTHJpcG1MajdyYk5jeTgyR0Rack9kRVc2QndKOF9sM3JJRFY5SXNFbFJ1SHY1czlFd2wwLWJnMkVEVGJ3T1g?oc=5).
 
 ## Requirements
 - Python 3.8
