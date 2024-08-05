@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leak Lounge | iPhone 16 and 16 Pro - What’s on the horizon for Apple's upcoming flagships?**
+**Somalia beach attack kills 37 civilians, minister says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDlzRDhqcmhDQ09XLUFNZ1M1N3VnQWVmbUNPZWJkcjhaakJ1WmxGY01ycmRYcHE5ZnBSbDFvQXJiaE5HWENhY0FrX3h0M3RmZnk0cENwS0NPMTZaY184eVV3UlpiWFh1VHZ1V1NYYmlPbjlVSDVtRGhwMHJOSkRFSVZWeVVnRXJMRW5nX25ULVZkWEJzQ3YyaXA5S2lzMDl6Q0UwY1FLejdjT1ZSREVXU3h4a1liNjJH?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUY1cVNqMlZTSUxXWWstVFZ6bm9nRnFVUlIwY3NidXpTUGR4OHU3eGxwVUN4YXVvRTNTQWFQUnJhNGR0dlA2dm8yOUFzRzVBVWIyc1k1U3FtYVlSb0ZWYm1DYWJBMVd6OHlYUi1kQlpPZV9fWUZrT2p2Q1dTMkxpUEc2dVQ1WVdTejMtdG9NOGwtV29sME5IQVI2dVVlOUFhM1FHNnQ5R0hLaV9B?oc=5).
 
 ## Requirements
 - Python 3.8
