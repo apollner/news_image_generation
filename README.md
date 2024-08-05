@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and Harris at odds over presidential debate**
+**Thailand still grapples with a strict law against criticizing the monarchy**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cv2g22365yqo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXFYXzY5a0NXQ3lCUEpocjBLWkNXdktlT3QwSDBtMm9rNDE1MXZpTUhUSUVkN1ZMdnc4N2d3Ymp4Ny1yOVFmSWduRmpSUFdEeE5IcGJWbmRNZWhfNG4wX3hFWHdfODRGTzYxdVExbGQ2R192QUE0Nmtxd0lOLS04dXcxTjJ6cWsxUTFJZV9qc01lVzd1aWJSc0tQaFdPcUdCaWtJ?oc=5).
 
 ## Requirements
 - Python 3.8
