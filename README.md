@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby intensifies, could become Category 1 hurricane before landfall in Florida**
+**Satellite Images Show First LNG Ship at Sanctioned Russian Plant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjZpQTNTWVNOWkR6WFBBdzRNS2k3MGpXLUhSOHNUVTdYYU5YZXV4aDQ0RkxCTFZBLWM2c3IzeTRkQVVVb0FoVzBjVmFHUkwzRklseDBfQlFyRkplZ0NQVXhwcDdsLWdCU29TcDluMkdIWVdmRWJtTHJxM3BLdnBwRnpNWDE?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-08-04/satellite-images-show-first-lng-ship-at-sanctioned-russian-plant).
 
 ## Requirements
 - Python 3.8
