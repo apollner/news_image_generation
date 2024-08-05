@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Group of ancient stars spotted near the sun could rewrite the Milky Way's history**
+**Terence Crawford vs. Israil Madrimov live updates: Round-by-round fight analysis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0NkSnBrLWxGN1VkRUFvazR3UjBZMDNBQUR0eFJCbmV2bU91ZHo0M0hETWxYRTVlazR0RzktemRKSW1ULUk1R0dCQUxpOHRvMHZBTVhmcnpJTEhsVXA1X2UzN2Y5SVAwM3V4U0xHX3E2Z0tXTlI4eUFJTVpMWUxzc3dwYV9CWnhtYklVTHV1b0pHWjRidURXRVEzNFRwNXNTZ2NKM2RocjE1MTRXU1cyT1RnWk8xWWdxczdjRk5YcFk5VUo2ZjdSdnRoWldDb0U1ZWNkbEVMZzg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxPSjl5RTVnazRXYTNNSlZ2TTBBd2Q0Uy1ENGhRdzhfTE02SlhrMncwMDMtRzV0TUhnaVloUFRkWnV1MW9UUnZmZDJvdncteU5RdnhhTDc1S3dxOU01Q3lLdTZ1OVdFdTA3eFZ4N3hVMlVmMlRocnBiSVN1ZGxjM25ScEw5SFZrakNrZkxvZExQeWhuaFJRZHZGSDlfa3Rvb0dOWDVNWHNBUkFUU3c4T0ZvdGRDOUJ2MmRPTmYtWmFMbGNfdDYy?oc=5).
 
 ## Requirements
 - Python 3.8
