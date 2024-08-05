@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US urges citizens to leave Lebanon on 'any available ticket'**
+**Tropical Storm Debby moving through Gulf toward Florida with hurricane warnings**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE43RFloSXYxT0NFX0ZDcVM5NTh3b0tvVjN5NXdsbFpiOHFhUTBGRlFPM3hEcVRQcUJuelVNUkpCWmpvLUt2NENmYmpGT2pLclFtd3hNM01Bd3ROUdIBX0FVX3lxTE5vSTdxS0FYbWpzNlp3allQUzVCRTVXQVpSUjJqbXI2eUl3TU0tU2VFMHkxdEpCeV9wRHBKRGE5Rk05M1NINFcxUTJBNVprWmZKbG83ZGdreEtWV1BtUncw?oc=5).
+You can read more about it [here](https://apnews.com/article/florida-tropical-storm-hurricane-debbie-weather-dce34e4d691b2c12a386964f86215220).
 
 ## Requirements
 - Python 3.8
