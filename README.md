@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tropical Storm Debby intensifies, could become Category 1 hurricane before landfall in Florida**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjZpQTNTWVNOWkR6WFBBdzRNS2k3MGpXLUhSOHNUVTdYYU5YZXV4aDQ0RkxCTFZBLWM2c3IzeTRkQVVVb0FoVzBjVmFHUkwzRklseDBfQlFyRkplZ0NQVXhwcDdsLWdCU29TcDluMkdIWVdmRWJtTHJxM3BLdnBwRnpNWDE?oc=5).
 
 ## Requirements
 - Python 3.8
