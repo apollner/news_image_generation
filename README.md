@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Deadpool & Wolverine’ Scores $97 Million in Massive Second Weekend**
+**New Strategies To Combat Dementia: 14 Risk Factors You Can Control**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPbjI5c2puV1hBZC1HRGt6QmhuTllXVkFJdl94Q0JOMHVoei1qa0NDTnZtdGF2M1lBYm80eGhaLUVPN3VTd251R1h0S0l5NEJDRm43WHRVOHN2d0NHUG1XYWY1V1ItcEFYSjZLQUJuRi1zSlhrZWlmNlgxZVZ2YkUzM0Y1NWJ0d2hQclJLQ09kYWxRc2NqSkZmSzhwdjdFd9IBowFBVV95cUxQSVhSZ3pQWVZIU2h1UC16cTZKb2NIaUtVU0E2cTNudkZKUmxBeWNVQW1kdVV3TGE2aUxMR0U3T0VUazJmVE1qeGU4bkpxUFVnNlFrbzdkaU4tREFvMFpnSHNXelhtQUVoRkx3eWRPTGpSUzY3bmk2bnhxdkF3NTE1cEM0RWVuN1R4T2xuZFlLbUFncjdZUmdKZXFQSlBMeThMWU1v?oc=5).
+You can read more about it [here](https://scitechdaily.com/new-strategies-to-combat-dementia-14-risk-factors-you-can-control/).
 
 ## Requirements
 - Python 3.8
