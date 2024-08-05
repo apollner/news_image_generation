@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump proposes alternative election debate, Kamala Harris says no**
+**Judge rejects Trump effort to dismiss election interference case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNnJvcnQzcS03Rkk1UUVfNjA3Y1JadUNjSzhIV25sSVlzMXpDWW1RdnNWQU9hdEVWVGNaU0hsQzFvWnJTcURiVDVDVF8xd29yR3NIN2ExWTFsc3UxYk9WMTlxV1RROUp4NTBZano5S3poNExBWmV0V0JJZ1A2V0RndkFSbGJwOGZDSmZWSGNXb3FiTGowNTlzZWZFbGVDalE1a2VWX2xLNzNKQQ?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c6p22n0z5m2o).
 
 ## Requirements
 - Python 3.8
