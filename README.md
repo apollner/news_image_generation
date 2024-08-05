@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Somalia beach attack kills 37 civilians, minister says**
+**Warren Buffett surprises by slashing Berkshire Hathaway's longtime Apple stake in second quarter**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxQSUY1cVNqMlZTSUxXWWstVFZ6bm9nRnFVUlIwY3NidXpTUGR4OHU3eGxwVUN4YXVvRTNTQWFQUnJhNGR0dlA2dm8yOUFzRzVBVWIyc1k1U3FtYVlSb0ZWYm1DYWJBMVd6OHlYUi1kQlpPZV9fWUZrT2p2Q1dTMkxpUEc2dVQ1WVdTejMtdG9NOGwtV29sME5IQVI2dVVlOUFhM1FHNnQ5R0hLaV9B?oc=5).
+You can read more about it [here](https://consent.google.com/m).
 
 ## Requirements
 - Python 3.8
