@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Strategies To Combat Dementia: 14 Risk Factors You Can Control**
+**Finer: US 'preparing for every possibility' on potential Iran retaliation**
 
-You can read more about it [here](https://scitechdaily.com/new-strategies-to-combat-dementia-14-risk-factors-you-can-control/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkZUS3h4d2tjSmZzTGlpQmZBalIwV0ZxY21fd24xclI5eGdxQ0I2aHl0OUtSVnViWlhvU3BXOWRMVTZzdGhwT3lFOWVEM01BVWR6TV9yNXlOM0hVdTdBd1BjdThYR181d2ZWbFFsWEFjajRFOTJTdXlLbFdodElXNE5KZDRCX1RRcmk4ck52N0N0R1J2RTIwb09DNTFoUkVPMm1yWUNvRXBKWFUt0gGyAUFVX3lxTE5TeHo5aW5SMF9MaTZQenFKbzhVdWtOUjVfWE8tVXZHeFJ3ZGo1WFB6cXYxS2lvRVpWVTJGVzNISzBNYjlpMXlJdldMX2tGNXM0cHBoTWVia0h0d0dSaTF1dERCbTQ2RGh2d3RFdE1zTENtOXd5OWU4RlVqb3ZvN0pVZUhBWGluNjJVQTFCNGJFaE9QT2diWFJaZ01ES0VTZHI4VlJ0M1lVNmhwWm9QZVJJLVE?oc=5).
 
 ## Requirements
 - Python 3.8
