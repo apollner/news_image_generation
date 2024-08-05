@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sha’Carri Richardson overcomes sluggish start to make 100-meter final at Paris Olympics**
+**Group of ancient stars spotted near the sun could rewrite the Milky Way's history**
 
-You can read more about it [here](https://apnews.com/article/2024-olympics-shacarri-richardson-ff5a0ae1c44fab2a54a032cab138c1cc).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd0NkSnBrLWxGN1VkRUFvazR3UjBZMDNBQUR0eFJCbmV2bU91ZHo0M0hETWxYRTVlazR0RzktemRKSW1ULUk1R0dCQUxpOHRvMHZBTVhmcnpJTEhsVXA1X2UzN2Y5SVAwM3V4U0xHX3E2Z0tXTlI4eUFJTVpMWUxzc3dwYV9CWnhtYklVTHV1b0pHWjRidURXRVEzNFRwNXNTZ2NKM2RocjE1MTRXU1cyT1RnWk8xWWdxczdjRk5YcFk5VUo2ZjdSdnRoWldDb0U1ZWNkbEVMZzg?oc=5).
 
 ## Requirements
 - Python 3.8
