@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby moving through Gulf toward Florida with hurricane warnings**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/florida-tropical-storm-hurricane-debbie-weather-dce34e4d691b2c12a386964f86215220).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
