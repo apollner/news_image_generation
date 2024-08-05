@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US leads in Olympic medal count**
+**Weekend Box Office: DEADPOOL & WOLVERINE Stays on Top**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2tvYkZsRkF5M0JNmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOY2RnRFEwUnRRMVoxTFZYZWRLV0JJa1JyMEV1a3lrRW9YQjd0NGNnd19VOTVsWmRqMjA3ZGlfdXJCWW4xU1J6REZRcklRMkZwS2I0ekFfLTRGbW5xU2tVTmFmWkljcmdKOWJTcnI2VmVmY0tuejJjUDRQVXNjbG9VY1hzSWR2MVk?oc=5).
 
 ## Requirements
 - Python 3.8
