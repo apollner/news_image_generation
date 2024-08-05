@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite Images Show First LNG Ship at Sanctioned Russian Plant**
+**More than 20 killed as Bangladesh protesters renew call for Hasina to quit**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-08-04/satellite-images-show-first-lng-ship-at-sanctioned-russian-plant).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGgxLXBFUG9xemtPeE83bC1SWU9hV3hGc2RKMmk1SE1DR0pMQUU1ZG9TUVRfYlg2Q3I5SWV6VkY0YVJzX2piRzFYZnYyNFB0ZEEzUVJDNHhpbWZZOGdpXzA3MkR3Ukxnb3QxdEsxREx3SXhhVk83clpXQWx4a0RtanJEcXptMmxqX0JDMG9iclFJdHZsakx1NVZUSUpZY0RESlRYcmVIYWZOYzAyMlNGTC1NQ0vSAboBQVVfeXFMT3UxZFdTNWpKdHFUTGFnMkpzcFlibkJnWGpPdmR3OEQ2Y0I5N05teTJmbWR0Ymt4alI2aTBTNGgzQzktNGE2UzFrZ0xRbjRzSm9RckxFWWxVbTc5UFZOeVVBVF9HMlpzc3lQS3M5dGJKZ2xEeHJoR1NHNl9ma0FQT3oyal94c1R2a241SGZuZTQtdTBBYk82bmRjM3c5N2JRVVc3cnNqcGJtN0doSzhTbk1SdVhqbUNvRkZn?oc=5).
 
 ## Requirements
 - Python 3.8
