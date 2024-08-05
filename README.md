@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 20 killed as Bangladesh protesters renew call for Hasina to quit**
+**Paris Olympics gymnastics live updates: Suni Lee earns bronze on bars as apparatus finals continue**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRGgxLXBFUG9xemtPeE83bC1SWU9hV3hGc2RKMmk1SE1DR0pMQUU1ZG9TUVRfYlg2Q3I5SWV6VkY0YVJzX2piRzFYZnYyNFB0ZEEzUVJDNHhpbWZZOGdpXzA3MkR3Ukxnb3QxdEsxREx3SXhhVk83clpXQWx4a0RtanJEcXptMmxqX0JDMG9iclFJdHZsakx1NVZUSUpZY0RESlRYcmVIYWZOYzAyMlNGTC1NQ0vSAboBQVVfeXFMT3UxZFdTNWpKdHFUTGFnMkpzcFlibkJnWGpPdmR3OEQ2Y0I5N05teTJmbWR0Ymt4alI2aTBTNGgzQzktNGE2UzFrZ0xRbjRzSm9RckxFWWxVbTc5UFZOeVVBVF9HMlpzc3lQS3M5dGJKZ2xEeHJoR1NHNl9ma0FQT3oyal94c1R2a241SGZuZTQtdTBBYk82bmRjM3c5N2JRVVc3cnNqcGJtN0doSzhTbk1SdVhqbUNvRkZn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMnRuVmFiTDhqbDJvbFVfeGYtNnpCZndOd0QxOG1aclZJNnBIZDUtOFVYSkJMWGdzRklPWHNldUdETUp0dUZyYll4THFJMHpQTDFfVGUzZVZlckJvYVFuS05fcVBZY0FGT2dpd05HOXBjdUd5Yjh0dGZnVTZHNmVwc0RJWDlBTm53Ym5fMFBNQTVEc2tVTDZ3a1dMdHpkX256bFlNeFZFeW5pZGJaT3gydzlyLVBVR2s1TE4xOTRQLW5LWTZWU2hXN1BOQy1KOU9XM1NlWGFRd2dxMzJ5ZGNUaFc5WFU?oc=5).
 
 ## Requirements
 - Python 3.8
