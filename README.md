@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paris Olympics live updates: Scottie Scheffler wins gold; Suni Lee medals**
+**Box Office: ‘Deadpool & Wolverine’ Scores $97 Million in Massive Second Weekend**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEhqTXZRaENZMW5kbjRpcnY0Q3V4TTgzTWpvbTRYSEFhbFo2R28yc094VXpyNXktdEd4Z1psNlBFcmZqLWF5b0NpVXN4U3B5dkMyYURncklDanZtQ2JRaGE4Z0JnUUxIY3A2ZzcwN1ZYTmdRSXZaWU9iNGpzY19qNlVYODhUS1FQX242WlowOXBxNVRwdk1GclBISnV0ZVl2aFZIZUtmc3ppUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPbjI5c2puV1hBZC1HRGt6QmhuTllXVkFJdl94Q0JOMHVoei1qa0NDTnZtdGF2M1lBYm80eGhaLUVPN3VTd251R1h0S0l5NEJDRm43WHRVOHN2d0NHUG1XYWY1V1ItcEFYSjZLQUJuRi1zSlhrZWlmNlgxZVZ2YkUzM0Y1NWJ0d2hQclJLQ09kYWxRc2NqSkZmSzhwdjdFd9IBowFBVV95cUxQSVhSZ3pQWVZIU2h1UC16cTZKb2NIaUtVU0E2cTNudkZKUmxBeWNVQW1kdVV3TGE2aUxMR0U3T0VUazJmVE1qeGU4bkpxUFVnNlFrbzdkaU4tREFvMFpnSHNXelhtQUVoRkx3eWRPTGpSUzY3bmk2bnhxdkF3NTE1cEM0RWVuN1R4T2xuZFlLbUFncjdZUmdKZXFQSlBMeThMWU1v?oc=5).
 
 ## Requirements
 - Python 3.8
