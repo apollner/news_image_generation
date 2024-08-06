@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cygnus spacecraft suffers glitches after launch**
+**Tropical Storm Debby will strengthen into Category 1 hurricane before making landfall in Florida**
 
-You can read more about it [here](https://spacenews.com/cygnus-spacecraft-suffers-glitches-after-launch/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXBLbFJoc0RrdVluVHlQVlhDVGtmUTJUb3NramMwUEtuVzh3UHdrUENXTmk2N29sS2dpV2hzMk5rXzhrVFFpQ29RV2ZyVFcyalZtbWwwYTh3MTFzWVR2d0xGdmltVmpUOHJGTFBMNWZHQ1pULTBHTE1yYm8wQ1RBQnV4ZlpSb1JSUW12aGoxNHNjYTBhbGxXNUZVUXg5b2ZvX3lnWGo1QkNaUGQtSURmSUNn0gFWQVVfeXFMTUtMQ0xpOEhvNG1wclg0aUhRa3JVYVRha3ZycG92RlRwS2JmenBWUi00UUxfMkxMUGFHaHl1R3gzQlgtS3dZQWRBMWZJY3pNbjh2eExGNnc?oc=5).
 
 ## Requirements
 - Python 3.8
