@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Olympic knockout preview: Where Team USA and Canada stack up**
+**Watch out, students! OpenAI is about to make it impossible for you to cheat using ChatGPT — here’s how**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWZnaVNhUU5SeU5jQk0tdVFlZk5wM0JGT21JdGRQU2ZmMzJHbjhHT0plX052REEyd1Y5Z2RIcDJJdHFGbkNKWFB4bUhjZ1hTSzh0NVc1QzQ0WUpsemg5VkhOeGpIUmk4WV8wSVZIVElFVmFzT0xncmludG9ybm5xZFV4bl84YUNJUDNqalZicXdMR3ByTzc0dXRtUEFFMWYtNzhWX2hWNEMycUppM05McGFuX2ttR05nY2tvNWZSZnRibUZheFRB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0hqeE9uU0k3cVFnVTA5ai1lWXpOTWJXQUhMSExuYXZjRkx0ZXRjTzdEbm5tekZHcFV6TEltektHLVpBSktVRlBfaXpmdzlyQzJoc01UYzNZY0x2SVRpMTZPc0hTOE5TcFI0REJXSzhIZ3RheXhhOFhpZm1qVms1LUZ5bmcxQU04clA0MDNqdW1RWl9PLXNhRGt1X0NUb3gwd0VTYWw0N2h6UGFvN3pCa2NCSGFMeGZMb3YzNWQzMmRKeVFH?oc=5).
 
 ## Requirements
 - Python 3.8
