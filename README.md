@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Debby makes landfall in Florida as Category 1 storm and threatens catastrophic flooding**
+**Poll shows new leader after change in Democratic presidential ticket**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2RLUGFJVHBQSnFGTERfOTN1MGFPVGVneGtybTN4ZkdKWHljSmlzVUlVblBKR21FUXBSNk1raGR0QnJuVkZyODlWU1FiVzVGcTVmSXJpdUx0TktCMDNBWmRPNGNldVlGNmxwT2tJVmVPeE1Nc1BwMEtPSHZaTXZodlhreXlScC1JX3BNcjIxWFN3ZGFodWswWHFmNEd1d3ZxdFM3dDF3SHJaX1k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmkzNzRDZmRuVm9XQk1iLXJ1MzNFVU1UcTZRY0VYN01ySWpqVmVCWE5VQmlmUzB0TUVqZHkxMHItU3FfODFGYVFuS3FFRmo4NkJFOTFkMVJvVWx0ekF4dnIzcnREYXpuTDBSaFhmeEtrQ05uajNscVQ3VjNYc0w0eGhWT0p1Vndzdk1ZaTBLRjBrUEZpNTZMcWczNmtyZC00dHc?oc=5).
 
 ## Requirements
 - Python 3.8
