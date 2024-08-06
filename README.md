@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right rioters attack asylum seeker hotels in UK’s Rotherham, Tamworth**
+**Stock Market Today: S&P 500, Nasdaq futures dive as Buffett dumps Apple, yen soars**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxORVhXaVlKWGhFdzVoTDFCcmtLVkRDeHlMX09TYzczYWpPR25LSF9JRk0tUUFJXzliUUhORFhVckptbk1ONHZxclc3d0RzWG9yRkY4cnczdk8tMi1KOU5IT2RiZWNRbFZJYUx4S3hFdmpWU05XekI5eWZySjliVzBjMGpyMmNOZ2plSUljTmJYVElQNTN6TGpFLWNGekRaa1VU0gGmAUFVX3lxTE1wWDRoRldjYnNkSTZYbFJHRzhaVTZPSDJrOUFaYjZHZFNNRDJVeGF4X0REUGphZWxLbGhZd1pqQ1pwdnRJc1FZR05BZlQ5TFJwQkVwSDlKQlVLY2NCbWN0dkFtR2VlVVNBd19ISk96WndlM3FjVUZLU1NUblhLejByejI2OWJ6eFA3Zi1jN1dRbkNPcTdIMWNiYUdiZlVfa0NrSUJGWUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNCZUxycmhlOFk5R08wUmc3TmV5eGpwSEpFemFRcm9TbnUxRS1Hd3ZhMWRtVXF5SmY3aUtWdHR6dTkzcXdZWGg0YnRtM3NhU0w0S1pLSTRud2NsejRCTmFOQzVLNUprSW10RWdQOTlIWFRTblpZWmowSGwyNTZLa21ZOVE1TFBvTzZZdFJpSFZMQ0hBOUpMT3dzdUZnUFFxa3FFYVVZTFY0TmRTV2pDZjEyM0t6MmJ4Y1kyLQ?oc=5).
 
 ## Requirements
 - Python 3.8
