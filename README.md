@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 91 killed in Bangladesh protests as curfew and internet blocks imposed**
+**HBO First Footage: 'The Last of Us', 'The White Lotus' And More**
 
-You can read more about it [here](https://www.cnn.com/2024/08/04/asia/bangladesh-clashes-police-protesters-activists-intl/index.html).
+You can read more about it [here](http://deadline.com/2024/08/hbo-teases-catherine-ohara-the-last-of-us-role-first-footage-the-white-lotus-season-3-a-knight-of-seven-kingdoms-1236031268/).
 
 ## Requirements
 - Python 3.8
