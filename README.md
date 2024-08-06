@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. fugitive known as "The Devil" captured while working as cop in Mexico 20 years after Ohio murder**
+**Many people over 60 still take aspirin for their heart, despite warnings**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWV4MnNZejFpdjhGV2c2a2xEMThBWlF4dVZPVFdSN1ZYelhmcmRvd3c5M2FPX1YySVZOelNPcXRQSVlSQUJ2RzVZc3RWaWR5R3Fta0RpRFY0UjhkbnVMU0xDVGNXRGVYeWoxTnJVby1aTVR5b0dFeF9QRjJmSjJLZWxkdWZTSEg4SXVERzd2aTkyWUl1ZE9RUEFYRHZsRGJXRmFwdWh3bFZsaS1VVFHSAbMBQVVfeXFMUG1vb0FOMFREMDVuLXNUMEtRTVpwRDlJdEpndkp3dHgycHhMZDdtQ0dxLUlCWEMtc1pDYTVEaUIxZ0hVQ1FFckdVQVctaGdvTWlFSXJRYjNJR3B6Z0tvdGhoUTZUWEV3ejdBM054TnJKNTlUd1dSa25RUXd3MjBZVHVkaGtmUThBVzJDZjNla2JFQjZpQUk5QlRYTUJDUTVPa05TcGtxSTVCTkxnZDVUcThNTTA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUJDcEdMRDJoRmdOanJlMGxYVmJtdnVQNVpaYWJIYTVwcEpNbkFYQ0RNcklKSG9uRmE3bWZpS3F0b092djBneVBZUHBTeFNqRHRxMzl0dmZwbUlQbEs1M2lPVUU5TE5jTnpzOV83S3Q4UXkzeExBVjE3eC1ZRy1XN2h4d0VMdw?oc=5).
 
 ## Requirements
 - Python 3.8
