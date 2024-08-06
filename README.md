@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby live updates: 2 killed after storm makes landfall in Florida as hurricane**
+**‘John Wick 4’ Sequel Series From Keanu Reeves & Chad Stahelski Heats Up TV Marketplace**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2VoZUQzWURIZHBwT2wyeGNCeWZlMmZ0R3JGRHpXeWZjMHM2YzRrMDhianpONWJEN25aaWd1QjRFaldFRlVJSU5OenRlS0hkWjAzTktJWk5pRWllTVVxMlBsVnNaZE1OblA3WkItV003dXNSZVZlcEV1dkVDVjFVNkN1dTVFZmZx0gGOAUFVX3lxTE5TZHpCMnhvMjRLRWR2bnU3dGxNSUVzdFFHX1pGMWI0OWhUX2ppWUdnbXhOeXZnSmpfY0t0eTlsb2lMWXBENUlPRzBfZFVFc2JWVFdzT1B6LUs3bHBpelBrUVpia2hSNHhOdzNkOTczaklMWHoyT1lWOUZiY2lRUHF4WndHelQzOEcwTlYwcGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkdoQlJ2OURGdlpTamdpVUNfM2tQN2dZNjRPRWk3d3RCdi1fSzN1cjJ5R3Q2eWlZRmpsWEFUN2lxbk9uYWNjZnlqeHRPaVkwaWpJN0pzb2dkT09OTnZZZThuMlZxY21aTkJXOE1yWTVaRG9ubVlwU0gtNGt4UDQwRXQyNGRwc0hoVm9jaUctSm5haDBV?oc=5).
 
 ## Requirements
 - Python 3.8
