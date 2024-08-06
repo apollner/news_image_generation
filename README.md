@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google withdraws its heartcooling "Dear Sydney" AI ad**
+**New Miss USA crowned following year of pageant controversy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnFlNXMyUUl0SkRYaVNJZVNoSUN1SXFXZXVSSHhHc2xVQW1fY05Ha0ZLLTg5dUhBUkpTWHRXM245cm9rSFFKcG1uNW9FMDQzOGdfWXZzcDBLWlREZmdKcUtCcEQ1cUVXMDQ0VUdBeFduWmJtVlFZV2U2ODN5V3E3MmxfaUFEdUFLdnhpOHNXN2RFVm1q0gGaAUFVX3lxTE1SWEN6ZmVlSG5zc1pvYjQtcnllVFZ4Z1N3UnI1MzhEUjJGVDQzRzExRHdhMmg4aE1hSHpwRldudTJyWTM5d092Tm1qenFISVgzX2VCakNUeHFwMG5oRUFXOHNlOXlaV3ZQQmE4V2lxRVhKZXNwdlE5bEpkc3pOdWYxdUJ0a3pHQWNiS0k5V1ZKMGV2NzRlZGRhYlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNMVFLQTZKXzNtWGRpRUJvY2xaTTNRUUY0MFFaUUY1czhNVnZvcFh3VlJUd3ZWTVZ0MnU4Q0lfb2E4cTFrRzlYdlIxRHROcFZ4akhBMHZjN2ZvQzFVUFdKYjdVOHVmOE5xU2dQamNjM3ZUWUtmN1RIZTIza2N5WUEwUVQtSFl0SXk5WXBXazVPeHNjVVJvUk5Hd1hFbVAwcEJG?oc=5).
 
 ## Requirements
 - Python 3.8
