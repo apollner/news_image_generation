@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poll shows new leader after change in Democratic presidential ticket**
+**Mexican journalist shot dead while under police protection**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPMmkzNzRDZmRuVm9XQk1iLXJ1MzNFVU1UcTZRY0VYN01ySWpqVmVCWE5VQmlmUzB0TUVqZHkxMHItU3FfODFGYVFuS3FFRmo4NkJFOTFkMVJvVWx0ekF4dnIzcnREYXpuTDBSaFhmeEtrQ05uajNscVQ3VjNYc0w0eGhWT0p1Vndzdk1ZaTBLRjBrUEZpNTZMcWczNmtyZC00dHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLV1hNU1dxRmpzRjNVWVVOWkdiQzJ2RVhKQ2wyUzNiM0RLT2FEd21iakd4Tk1TOWlXbnhXZzJBNXphUXJWRHVpckVXWVlGX0JfaEpHX1BEOFNjd9IBX0FVX3lxTFBuaTE3UEp4RldMTXozX1NBMWFtbF8yX0NvZTREMUQ2cW5XZjJYOWpfMUFtTzFVOG9tRDhQOFFCcHppdUM5S0U4WU1kcnoxUkRPUmJXWU9RbG5wdUZNODVR?oc=5).
 
 ## Requirements
 - Python 3.8
