@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Nikkei 225 index plunges 7% as world markets tremble over risks to the US economy**
+**Draymond Green Rips Steve Kerr, Team USA Coaching Staff for Benching Jayson Tatum**
 
-You can read more about it [here](https://apnews.com/article/stocks-markets-nikkei-economy-c6240977e9482bf7207abc53b2a11e58).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkE3MFJFdkdDOW05SVVpOF9DOEJpQzdIQmg0WWx4LVFXbWgtZXQ0d29ZVVRvNERJUGJ4RzhnS054VFFDQXBVaDA2MWdpZzdrLS0wWDVabkVpYVJfdVYxSU9DQ3lkS2l3R2g0bmJTY09nWE9qSkg3bzhJQTVfRGVBTE5wQ0hESDRoek15SU5XOHotOHhUVTc1aVJvc3F0UnlocENwcko5RQ?oc=5).
 
 ## Requirements
 - Python 3.8
