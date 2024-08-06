@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladesh PM Sheikh Hasina flees, army says interim government to be formed**
+**Google withdraws its heartcooling "Dear Sydney" AI ad**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGdLSVhwUzczWUwwVjJId0hzRmVEakNDV1hYQnZhVk1VTXBCM0VxQWVWRVdzUzRkampiQzY2RVJtaC1OQ0JuNTNnRUlWc0N5SEpYRWw0cnh3VWFwTjNGUXE1YU5MSzlLaW5wWGYzYzhRYjVVWDVlR0RCeU5ZVjNJNDI1UGQ0UDJ6OGl2d0JCcGcxTnlIYTZlNHp0bGpIVm10elN4OE45WjBxbmltWUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNYnFlNXMyUUl0SkRYaVNJZVNoSUN1SXFXZXVSSHhHc2xVQW1fY05Ha0ZLLTg5dUhBUkpTWHRXM245cm9rSFFKcG1uNW9FMDQzOGdfWXZzcDBLWlREZmdKcUtCcEQ1cUVXMDQ0VUdBeFduWmJtVlFZV2U2ODN5V3E3MmxfaUFEdUFLdnhpOHNXN2RFVm1q0gGaAUFVX3lxTE1SWEN6ZmVlSG5zc1pvYjQtcnllVFZ4Z1N3UnI1MzhEUjJGVDQzRzExRHdhMmg4aE1hSHpwRldudTJyWTM5d092Tm1qenFISVgzX2VCakNUeHFwMG5oRUFXOHNlOXlaV3ZQQmE4V2lxRVhKZXNwdlE5bEpkc3pOdWYxdUJ0a3pHQWNiS0k5V1ZKMGV2NzRlZGRhYlE?oc=5).
 
 ## Requirements
 - Python 3.8
