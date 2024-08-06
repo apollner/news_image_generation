@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris’ whirlwind search for running mate enters final hours as she prepares to take new Democratic ticket on the road**
+**U.S. fugitive known as "The Devil" captured while working as cop in Mexico 20 years after Ohio murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTc1QkQyWFdkTkxEcDZDT3JjWnJrUDB0TVhDZXNZM1k4RXJ2OG9rNGNnbFlCXzE0cV8zQ3YwTTI1ZFFzVlgwZ2RaaWhtcHI1dHBrbzRlR2R6cFVVR0I4bzR4NnI3djdwVHphM3FhVHQxVWtjZy1mbVotMHFwVFVpMGUtMFIyeU8weXIzSFdwV0PSAYcBQVVfeXFMTkF0cnd6VS1iemFxS3FIUGZtYThKUjF3T1pkTFpUUk15UXJCVDdNUmRaLWF6SHE4S3lBd3Fyay01b2dWQVgtOTliZ2taWTByc1Z2aFU1cG54dW8xN2wxNVhud0JUNzQ1LW9vdV9KY1VZRE9JZDJmeTkxa3gyQ2FjZmlnTVlhcnRn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRWV4MnNZejFpdjhGV2c2a2xEMThBWlF4dVZPVFdSN1ZYelhmcmRvd3c5M2FPX1YySVZOelNPcXRQSVlSQUJ2RzVZc3RWaWR5R3Fta0RpRFY0UjhkbnVMU0xDVGNXRGVYeWoxTnJVby1aTVR5b0dFeF9QRjJmSjJLZWxkdWZTSEg4SXVERzd2aTkyWUl1ZE9RUEFYRHZsRGJXRmFwdWh3bFZsaS1VVFHSAbMBQVVfeXFMUG1vb0FOMFREMDVuLXNUMEtRTVpwRDlJdEpndkp3dHgycHhMZDdtQ0dxLUlCWEMtc1pDYTVEaUIxZ0hVQ1FFckdVQVctaGdvTWlFSXJRYjNJR3B6Z0tvdGhoUTZUWEV3ejdBM054TnJKNTlUd1dSa25RUXd3MjBZVHVkaGtmUThBVzJDZjNla2JFQjZpQUk5QlRYTUJDUTVPa05TcGtxSTVCTkxnZDVUcThNTTA?oc=5).
 
 ## Requirements
 - Python 3.8
