@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk says Neuralink will ‘give people superpowers’ as 2nd human gets implant**
+**VP contenders interviewing with Harris on Sunday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNUjc1YmdVLTNPMWVKU25ITVFWVDJMQl9MdW93WTcyZWJNV0kzT280ZWNtUnNVS0FDYUhpVjNfVWxKMlN3U2xKS0NWanBpaWZmMzRudHpXSXZGUkJ4LVhxVjlQTjVVOVBXRHFCdTA1Z0UxZTdHd1RVVzdlZ0NPUTZWYkZhODRWZWtkQ2lySU1mNDd3ZTc0QWlv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW1FMVE3clZMQWhhN3l2Zk9TSU55QnI4NVBqa1l3S0VxTS1iTElIcUV1QjBsRVdBd1lOUG5ESkdQT3dsZXZ4eWdGd3BESUI2ZnVYLUZUYzJyeXZfczZ3S0g3WW5QbXFhWWVPYldpTUt2aXZCekxDTThVRXFZbktqaNIBhgFBVV95cUxNX2lIVkdWMTdQa0s2RDNUY1ZKci1LRVVOVGpxVEdqUlNzY2ZsSF9UTThpZEVBck40amloejZ6Nl9qMTI0Qm5FbzJmR01Na1owUEdJM19lYm4wSHoxUGZydnVGVmJHTW5aWXV6NDk4RXNYc1NkNndwY3F5OGthZG9NSU1EdmYxQQ?oc=5).
 
 ## Requirements
 - Python 3.8
