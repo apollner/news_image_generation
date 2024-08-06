@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Many people over 60 still take aspirin for their heart, despite warnings**
+**Hurricane Debby makes landfall in Florida as Category 1 storm and threatens catastrophic flooding**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVUJDcEdMRDJoRmdOanJlMGxYVmJtdnVQNVpaYWJIYTVwcEpNbkFYQ0RNcklKSG9uRmE3bWZpS3F0b092djBneVBZUHBTeFNqRHRxMzl0dmZwbUlQbEs1M2lPVUU5TE5jTnpzOV83S3Q4UXkzeExBVjE3eC1ZRy1XN2h4d0VMdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb2RLUGFJVHBQSnFGTERfOTN1MGFPVGVneGtybTN4ZkdKWHljSmlzVUlVblBKR21FUXBSNk1raGR0QnJuVkZyODlWU1FiVzVGcTVmSXJpdUx0TktCMDNBWmRPNGNldVlGNmxwT2tJVmVPeE1Nc1BwMEtPSHZaTXZodlhreXlScC1JX3BNcjIxWFN3ZGFodWswWHFmNEd1d3ZxdFM3dDF3SHJaX1k?oc=5).
 
 ## Requirements
 - Python 3.8
