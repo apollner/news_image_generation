@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch out, students! OpenAI is about to make it impossible for you to cheat using ChatGPT — here’s how**
+**Bangladesh PM Sheikh Hasina flees, army says interim government to be formed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxNV0hqeE9uU0k3cVFnVTA5ai1lWXpOTWJXQUhMSExuYXZjRkx0ZXRjTzdEbm5tekZHcFV6TEltektHLVpBSktVRlBfaXpmdzlyQzJoc01UYzNZY0x2SVRpMTZPc0hTOE5TcFI0REJXSzhIZ3RheXhhOFhpZm1qVms1LUZ5bmcxQU04clA0MDNqdW1RWl9PLXNhRGt1X0NUb3gwd0VTYWw0N2h6UGFvN3pCa2NCSGFMeGZMb3YzNWQzMmRKeVFH?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPcGdLSVhwUzczWUwwVjJId0hzRmVEakNDV1hYQnZhVk1VTXBCM0VxQWVWRVdzUzRkampiQzY2RVJtaC1OQ0JuNTNnRUlWc0N5SEpYRWw0cnh3VWFwTjNGUXE1YU5MSzlLaW5wWGYzYzhRYjVVWDVlR0RCeU5ZVjNJNDI1UGQ0UDJ6OGl2d0JCcGcxTnlIYTZlNHp0bGpIVm10elN4OE45WjBxbmltWUE?oc=5).
 
 ## Requirements
 - Python 3.8
