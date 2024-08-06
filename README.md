@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Chiefs make Butker NFL's top-paid K**
+**Hostage talks on hold until after Iran response, replacement of Haniyeh — officials**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU1qb3U2clYxdHUta1YzNHRRNU51NHkwcVNGVlo4aVNQc0JubEZfWXZRY1RwbDBzYjl5ZnRwVFBhMmhNWWZORnBiM2hqMnV5Nzhka3FYRXJtQkl0SGljYlhfRzhhLTVKaWQ1ZE9QNmJvZHluQmh6WWRqSXprQ2pkTUdfTFVqUXl5SF96aWFBWW5xVFlGMi1TTFhwYkthbFZ0d1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE9HWTJXNUkybnpGWW5vYmF4X1h5azBNa2VEWFVzOG56UnRyRkpVX3ZqU0dLT0ZyYXYxcjVrTF9qVEwxdEljSkdMdXhZZlBCM1dnU1BOaFN2YTZLc0VfRF80YnR1bGNtSTBqWENpSUhzMTNfVFhTQ1VnbWFfRmczalFOOFNyVmtWX3ZMMUg3LXFPRGIxX04xNUs5WVZzVS1JdmttdXo2eDVMaThJeFc4QtIBtgFBVV95cUxPYnN1UXMxWnZ5T0xKeGVsY1l4WnNJM2I5VlhqQUdiblRackVYSnFjS0s0RWlMekJsZ3JhSzZYT1pfY3gxREZzWU1UbnBxVEQ0Rk45ZGVqSDk4UXZTaWRGZjJJeDg0b19BMlhrMmxfV2kyeFVlQm9mN1k2Wm1DQXBKUU1GS0NobTRMWXRnT2VUUFpQZkk0czBlMUhZZ3R6ZTBuTFRmczNZeHpoSmQ1QTFMQ2VZLWRrdw?oc=5).
 
 ## Requirements
 - Python 3.8
