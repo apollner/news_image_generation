@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: S&P 500, Nasdaq futures dive as Buffett dumps Apple, yen soars**
+**At least 91 killed in Bangladesh protests as curfew and internet blocks imposed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUNCZUxycmhlOFk5R08wUmc3TmV5eGpwSEpFemFRcm9TbnUxRS1Hd3ZhMWRtVXF5SmY3aUtWdHR6dTkzcXdZWGg0YnRtM3NhU0w0S1pLSTRud2NsejRCTmFOQzVLNUprSW10RWdQOTlIWFRTblpZWmowSGwyNTZLa21ZOVE1TFBvTzZZdFJpSFZMQ0hBOUpMT3dzdUZnUFFxa3FFYVVZTFY0TmRTV2pDZjEyM0t6MmJ4Y1kyLQ?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/08/04/asia/bangladesh-clashes-police-protesters-activists-intl/index.html).
 
 ## Requirements
 - Python 3.8
