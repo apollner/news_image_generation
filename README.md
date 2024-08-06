@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**VP contenders interviewing with Harris on Sunday**
+**Cygnus spacecraft suffers glitches after launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxQaW1FMVE3clZMQWhhN3l2Zk9TSU55QnI4NVBqa1l3S0VxTS1iTElIcUV1QjBsRVdBd1lOUG5ESkdQT3dsZXZ4eWdGd3BESUI2ZnVYLUZUYzJyeXZfczZ3S0g3WW5QbXFhWWVPYldpTUt2aXZCekxDTThVRXFZbktqaNIBhgFBVV95cUxNX2lIVkdWMTdQa0s2RDNUY1ZKci1LRVVOVGpxVEdqUlNzY2ZsSF9UTThpZEVBck40amloejZ6Nl9qMTI0Qm5FbzJmR01Na1owUEdJM19lYm4wSHoxUGZydnVGVmJHTW5aWXV6NDk4RXNYc1NkNndwY3F5OGthZG9NSU1EdmYxQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE5oYjhGLVhIUUdhS0Fpek44MXBfUHYtTjZFa2FBLURCV2pFNFFaRk1vTC1XTlV0NXJtbzByS2tmM1RUMmxEeUI1V2NyUkgySnlFV1dRb0lQQURaal8zVzk3TFFrVXF1YU14NFNQdDhtWUFvN19zYVRxcWFn?oc=5).
 
 ## Requirements
 - Python 3.8
