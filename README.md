@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris’ whirlwind search for running mate enters final hours as she prepares to take new Democratic ticket on the road**
+**Australian Dollar declines due to increased risk aversion, awaits US Services PMI**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTc1QkQyWFdkTkxEcDZDT3JjWnJrUDB0TVhDZXNZM1k4RXJ2OG9rNGNnbFlCXzE0cV8zQ3YwTTI1ZFFzVlgwZ2RaaWhtcHI1dHBrbzRlR2R6cFVVR0I4bzR4NnI3djdwVHphM3FhVHQxVWtjZy1mbVotMHFwVFVpMGUtMFIyeU8weXIzSFdwV0PSAYcBQVVfeXFMTkF0cnd6VS1iemFxS3FIUGZtYThKUjF3T1pkTFpUUk15UXJCVDdNUmRaLWF6SHE4S3lBd3Fyay01b2dWQVgtOTliZ2taWTByc1Z2aFU1cG54dW8xN2wxNVhud0JUNzQ1LW9vdV9KY1VZRE9JZDJmeTkxa3gyQ2FjZmlnTVlhcnRn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmlSNjhRRnBlN3B4cDR3RzM4bmZxMHBBSEtoaDgyVVA0ZFZ3bTRrSnhfY2p1bkV2ZDcyTEduZkVhMC1TekIyRjFiLWF2REEwSXNIUjJGQmNGWjdhWmtNM09FdTJhTzYxVVZEc0lvQTR2TkQzOWJhcHh1d1RfMzhNNzFfWnNvbnIxb0xESldRLUZ2Wk9rMDk00gGcAUFVX3lxTE5UaVJSV0xybnUyckVyQ1lWSUFXeS00VFllbHQyMUE4XzdoQjA0U1RtWmZwN1hmbGNjWlJ2eHJEMW0wT2ZLWHhjQnFiVkRhTWxjOW9XQnlBQmJBb0Q3V056Ujlfdm81aWgzNzM4OGw3dmxtOE9lMzZFbk13TG1WejU3MlBwWG4yUDRoUERDSXUyUmFyTDNpSGlHdG5wZA?oc=5).
 
 ## Requirements
 - Python 3.8
