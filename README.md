@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo's Share Price Tanks Amid Fears Of A US Recession**
+**Tropical Storm Debby live updates: 2 killed after storm makes landfall in Florida as hurricane**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/08/nintendos-share-price-tanks-amid-fears-of-a-us-recession).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ2VoZUQzWURIZHBwT2wyeGNCeWZlMmZ0R3JGRHpXeWZjMHM2YzRrMDhianpONWJEN25aaWd1QjRFaldFRlVJSU5OenRlS0hkWjAzTktJWk5pRWllTVVxMlBsVnNaZE1OblA3WkItV003dXNSZVZlcEV1dkVDVjFVNkN1dTVFZmZx0gGOAUFVX3lxTE5TZHpCMnhvMjRLRWR2bnU3dGxNSUVzdFFHX1pGMWI0OWhUX2ppWUdnbXhOeXZnSmpfY0t0eTlsb2lMWXBENUlPRzBfZFVFc2JWVFdzT1B6LUs3bHBpelBrUVpia2hSNHhOdzNkOTczaklMWHoyT1lWOUZiY2lRUHF4WndHelQzOEcwTlYwcGc?oc=5).
 
 ## Requirements
 - Python 3.8
