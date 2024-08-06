@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australian Dollar declines due to increased risk aversion, awaits US Services PMI**
+**Far-right rioters attack asylum seeker hotels in UK’s Rotherham, Tamworth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmlSNjhRRnBlN3B4cDR3RzM4bmZxMHBBSEtoaDgyVVA0ZFZ3bTRrSnhfY2p1bkV2ZDcyTEduZkVhMC1TekIyRjFiLWF2REEwSXNIUjJGQmNGWjdhWmtNM09FdTJhTzYxVVZEc0lvQTR2TkQzOWJhcHh1d1RfMzhNNzFfWnNvbnIxb0xESldRLUZ2Wk9rMDk00gGcAUFVX3lxTE5UaVJSV0xybnUyckVyQ1lWSUFXeS00VFllbHQyMUE4XzdoQjA0U1RtWmZwN1hmbGNjWlJ2eHJEMW0wT2ZLWHhjQnFiVkRhTWxjOW9XQnlBQmJBb0Q3V056Ujlfdm81aWgzNzM4OGw3dmxtOE9lMzZFbk13TG1WejU3MlBwWG4yUDRoUERDSXUyUmFyTDNpSGlHdG5wZA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxORVhXaVlKWGhFdzVoTDFCcmtLVkRDeHlMX09TYzczYWpPR25LSF9JRk0tUUFJXzliUUhORFhVckptbk1ONHZxclc3d0RzWG9yRkY4cnczdk8tMi1KOU5IT2RiZWNRbFZJYUx4S3hFdmpWU05XekI5eWZySjliVzBjMGpyMmNOZ2plSUljTmJYVElQNTN6TGpFLWNGekRaa1VU0gGmAUFVX3lxTE1wWDRoRldjYnNkSTZYbFJHRzhaVTZPSDJrOUFaYjZHZFNNRDJVeGF4X0REUGphZWxLbGhZd1pqQ1pwdnRJc1FZR05BZlQ5TFJwQkVwSDlKQlVLY2NCbWN0dkFtR2VlVVNBd19ISk96WndlM3FjVUZLU1NUblhLejByejI2OWJ6eFA3Zi1jN1dRbkNPcTdIMWNiYUdiZlVfa0NrSUJGWUE?oc=5).
 
 ## Requirements
 - Python 3.8
