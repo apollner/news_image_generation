@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Djokovic defeats Alcaraz for Olympic gold to clinch ‘biggest success in career’**
+**The Real Housewives of New Jersey Season-Finale Recap: The End of the Line**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFZhNWpYNDY3UExGemk0UGdYaktGOVhtOTJEaFpxVENsZ1RCX3M0ZDhJLWJsMUZNbjZHYy1kQmtGQnAxSmxlNloxc0d0UGRMcUxJVUNpVmJ0SXMwTFRTRkJSLXJfX0dkenA0WTBnaUNKTW5RSmYtN1czYVltalhaT0hrRGhtdmpZZ3p4TDBSWDNlenVRSS1fbkNsV05DSTFaUkRxbEw2THh2WVVSSVNZbkFtemRLT0o5dDhhcktBN0lHMGphYTNCNWNNV2ltenJl0gHQAUFVX3lxTE5FVUt2dUpKc1RrLWl3Ty13aXMzOEQtelFIR0VGWEhaNmJtN3hsaG9nN1VRcko0SWlXdGlDSmpUWHJySUdtTTYzQUtYRjg1cEVNcVZwSElaQW1aaUhGODRLTkZicWZpODktZWZVS3JYMFRJNFkzcXc5TGdSTkp4S2pXNm15MzUzZm5GNzR4dzM1aEE1TmdMTnZxWDJveEdGbUgtWkZlMkhYYnBhejVja2xnNnk0aTZUVE5YNVRSNExRYnhCWTloS1NIRU9XVUl1N08?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVNNVi0yeTBlY1JwektNLUFnSGRtZnpxTnhDcDZ6SWFYYWFwUWF5Y0NDUkREN2NKZGZoOFo4eWk4RDdOcEdkTlFhMnRtVkZXZmlvcjVyZXZvNWpmSnNFUUhfZE1lQk1lV09xbHpFME1VczBEVzZGV0pDVWdFR1BnYWlycE1wN2JTQmFOc1l1azJMZmEzN3hYdmd0SW5Kd1JTV0JOV2EzRQ?oc=5).
 
 ## Requirements
 - Python 3.8
