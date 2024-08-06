@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pelosi: ‘I was asking for a campaign that would win’ in talks with Biden**
+**Nintendo's Share Price Tanks Amid Fears Of A US Recession**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnJTbjRjb0Rlb3E4Tk5SbTRadUVMbzZ2LURzMkJlS04zZ3h2ZXJiV3FmeTA1eEUwb3lJV3Zxa2luOXptZmNfejdMakdhNXdGc2xyTEVkUE9jd2hGc01EOGI0TkJhcV94NnhzanE0alB1ekNQMDlPSTA0LVhqLUUwXw?oc=5).
+You can read more about it [here](https://www.nintendolife.com/news/2024/08/nintendos-share-price-tanks-amid-fears-of-a-us-recession).
 
 ## Requirements
 - Python 3.8
