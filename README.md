@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Braces for Attack by Iran as US Urges Gaza Cease-Fire**
+**Harris’ whirlwind search for running mate enters final hours as she prepares to take new Democratic ticket on the road**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTNJdmVzT2VPeTRMdHhkRU91elY5RDVWMFhnU0tQZUo2alhhVzRiaDQyZ2xOeVY4U2JLMlRTMzd3RERJQW00ZzJLcXQwem8wUUVUc3YxcjNPdEFWT0pDMF9YZTE2aVhZUUZUQkVNVk8yX0t6SVRWQ3VMQWZRSDVGLVFSWENzLVdmSDlhTUcxSDFCUDNuZkxRc1Q3QzhkMGVJZk1jNXNCbTMweFZZMlNJMWRuRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeTc1QkQyWFdkTkxEcDZDT3JjWnJrUDB0TVhDZXNZM1k4RXJ2OG9rNGNnbFlCXzE0cV8zQ3YwTTI1ZFFzVlgwZ2RaaWhtcHI1dHBrbzRlR2R6cFVVR0I4bzR4NnI3djdwVHphM3FhVHQxVWtjZy1mbVotMHFwVFVpMGUtMFIyeU8weXIzSFdwV0PSAYcBQVVfeXFMTkF0cnd6VS1iemFxS3FIUGZtYThKUjF3T1pkTFpUUk15UXJCVDdNUmRaLWF6SHE4S3lBd3Fyay01b2dWQVgtOTliZ2taWTByc1Z2aFU1cG54dW8xN2wxNVhud0JUNzQ1LW9vdV9KY1VZRE9JZDJmeTkxa3gyQ2FjZmlnTVlhcnRn?oc=5).
 
 ## Requirements
 - Python 3.8
