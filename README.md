@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cygnus spacecraft suffers glitches after launch**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE5oYjhGLVhIUUdhS0Fpek44MXBfUHYtTjZFa2FBLURCV2pFNFFaRk1vTC1XTlV0NXJtbzByS2tmM1RUMmxEeUI1V2NyUkgySnlFV1dRb0lQQURaal8zVzk3TFFrVXF1YU14NFNQdDhtWUFvN19zYVRxcWFn?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
