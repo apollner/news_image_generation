@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘John Wick 4’ Sequel Series From Keanu Reeves & Chad Stahelski Heats Up TV Marketplace**
+**Fears of Iranian attack on Israel keep tension high in Middle East**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPZkdoQlJ2OURGdlpTamdpVUNfM2tQN2dZNjRPRWk3d3RCdi1fSzN1cjJ5R3Q2eWlZRmpsWEFUN2lxbk9uYWNjZnlqeHRPaVkwaWpJN0pzb2dkT09OTnZZZThuMlZxY21aTkJXOE1yWTVaRG9ubVlwU0gtNGt4UDQwRXQyNGRwc0hoVm9jaUctSm5haDBV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUxGVmlVcTVhOENqanMydU5WWGlVN3JUME1MT0RDQnpKZW1NR0ZHdEhLbjFlcEtkc0Z3dXJlSnJYbUl6VzBrVlRJS1RiS25fVTVSZ2NfRnRxcURDTkd3UGpubTE1UC0yS0YwOXA0eUpLOTJyQjZEenlVc0lZMEVvTlJlVUN4b1lSbTBtalM1bExQNXp4RnhQaFNNUXd1UFFnU1Bsa1Q1X2RFY3VDcm9pUDVOTlRfcnNjNGc?oc=5).
 
 ## Requirements
 - Python 3.8
