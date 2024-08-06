@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HBO First Footage: 'The Last of Us', 'The White Lotus' And More**
+**Israel Braces for Attack by Iran as US Urges Gaza Cease-Fire**
 
-You can read more about it [here](http://deadline.com/2024/08/hbo-teases-catherine-ohara-the-last-of-us-role-first-footage-the-white-lotus-season-3-a-knight-of-seven-kingdoms-1236031268/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTNJdmVzT2VPeTRMdHhkRU91elY5RDVWMFhnU0tQZUo2alhhVzRiaDQyZ2xOeVY4U2JLMlRTMzd3RERJQW00ZzJLcXQwem8wUUVUc3YxcjNPdEFWT0pDMF9YZTE2aVhZUUZUQkVNVk8yX0t6SVRWQ3VMQWZRSDVGLVFSWENzLVdmSDlhTUcxSDFCUDNuZkxRc1Q3QzhkMGVJZk1jNXNCbTMweFZZMlNJMWRuRQ?oc=5).
 
 ## Requirements
 - Python 3.8
