@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel Watch August 2024 update rolling out**
+**Bangladeshi PM Sheikh Hasina resigns as widening unrest sees protesters storm her official residence**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTE9NdW1EX244cFNDVzJtUF9qemtoVi1lNVpWY1N3QmZtS2dVbjQ0dDY5RE9nTXZIVlJVTzBNMXRFRFM1bHJ6bEQ1QmhnWnY2RWpDU0tYLVFJUDFGREpybDdNZm9VRXJNV3dPS0ZpZk1PMlQ2Wkk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXFuS0FVMjMyc3VOdkFIaG9PSjA3U2JhbHBQTFQ3MHp1Z2hxblhubmJ6bjBnd05RWlI4YVBHM0tmRndfRG4tQWZIWFM4MXBBUkwwY3JhR2dIVlNYYndqODJTTkJaYUhOQ1lYRkwyczRSN1djTkpnVGRLdzBpZ0RyZ0x5eUMzbFdjR3RtcVRCTlJqeFNLRHFocEwzZHJXX3g3Z2N4d1IxdEg1blZh?oc=5).
 
 ## Requirements
 - Python 3.8
