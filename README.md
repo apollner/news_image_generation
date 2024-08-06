@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Real Housewives of New Jersey Season-Finale Recap: The End of the Line**
+**Japan's Nikkei 225 index plunges 7% as world markets tremble over risks to the US economy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVNNVi0yeTBlY1JwektNLUFnSGRtZnpxTnhDcDZ6SWFYYWFwUWF5Y0NDUkREN2NKZGZoOFo4eWk4RDdOcEdkTlFhMnRtVkZXZmlvcjVyZXZvNWpmSnNFUUhfZE1lQk1lV09xbHpFME1VczBEVzZGV0pDVWdFR1BnYWlycE1wN2JTQmFOc1l1azJMZmEzN3hYdmd0SW5Kd1JTV0JOV2EzRQ?oc=5).
+You can read more about it [here](https://apnews.com/article/stocks-markets-nikkei-economy-c6240977e9482bf7207abc53b2a11e58).
 
 ## Requirements
 - Python 3.8
