@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hostage talks on hold until after Iran response, replacement of Haniyeh — officials**
+**Pixel Watch August 2024 update rolling out**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE9HWTJXNUkybnpGWW5vYmF4X1h5azBNa2VEWFVzOG56UnRyRkpVX3ZqU0dLT0ZyYXYxcjVrTF9qVEwxdEljSkdMdXhZZlBCM1dnU1BOaFN2YTZLc0VfRF80YnR1bGNtSTBqWENpSUhzMTNfVFhTQ1VnbWFfRmczalFOOFNyVmtWX3ZMMUg3LXFPRGIxX04xNUs5WVZzVS1JdmttdXo2eDVMaThJeFc4QtIBtgFBVV95cUxPYnN1UXMxWnZ5T0xKeGVsY1l4WnNJM2I5VlhqQUdiblRackVYSnFjS0s0RWlMekJsZ3JhSzZYT1pfY3gxREZzWU1UbnBxVEQ0Rk45ZGVqSDk4UXZTaWRGZjJJeDg0b19BMlhrMmxfV2kyeFVlQm9mN1k2Wm1DQXBKUU1GS0NobTRMWXRnT2VUUFpQZkk0czBlMUhZZ3R6ZTBuTFRmczNZeHpoSmQ1QTFMQ2VZLWRrdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTE9NdW1EX244cFNDVzJtUF9qemtoVi1lNVpWY1N3QmZtS2dVbjQ0dDY5RE9nTXZIVlJVTzBNMXRFRFM1bHJ6bEQ1QmhnWnY2RWpDU0tYLVFJUDFGREpybDdNZm9VRXJNV3dPS0ZpZk1PMlQ2Wkk?oc=5).
 
 ## Requirements
 - Python 3.8
