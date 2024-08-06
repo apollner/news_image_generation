@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can the Higgs Boson Shine on Broadway?**
+**Pelosi: ‘I was asking for a campaign that would win’ in talks with Biden**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE5oZVJ6T280anRvNVJ3XzM0NzVmSW45RzBLTjFLTEg1QXA2Y0JyY1FPRWpHUHFFMW5YVFZhUGdBMkM2S1dWbEZkcTBGaXotcHdkVjZvSXhHcDRJUmZZRk9YY1FCaEE1N1JLQ2VscUZBclpGMElhYnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnJTbjRjb0Rlb3E4Tk5SbTRadUVMbzZ2LURzMkJlS04zZ3h2ZXJiV3FmeTA1eEUwb3lJV3Zxa2luOXptZmNfejdMakdhNXdGc2xyTEVkUE9jd2hGc01EOGI0TkJhcV94NnhzanE0alB1ekNQMDlPSTA0LVhqLUUwXw?oc=5).
 
 ## Requirements
 - Python 3.8
