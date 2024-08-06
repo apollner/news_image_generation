@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby will strengthen into Category 1 hurricane before making landfall in Florida**
+**Scoop: Blinken told G7 Iran and Hezbollah could attack Israel in next 24 hours**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNWXBLbFJoc0RrdVluVHlQVlhDVGtmUTJUb3NramMwUEtuVzh3UHdrUENXTmk2N29sS2dpV2hzMk5rXzhrVFFpQ29RV2ZyVFcyalZtbWwwYTh3MTFzWVR2d0xGdmltVmpUOHJGTFBMNWZHQ1pULTBHTE1yYm8wQ1RBQnV4ZlpSb1JSUW12aGoxNHNjYTBhbGxXNUZVUXg5b2ZvX3lnWGo1QkNaUGQtSURmSUNn0gFWQVVfeXFMTUtMQ0xpOEhvNG1wclg0aUhRa3JVYVRha3ZycG92RlRwS2JmenBWUi00UUxfMkxMUGFHaHl1R3gzQlgtS3dZQWRBMWZJY3pNbjh2eExGNnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ1pUcGdyeGRUdzlSR3VNTUtKNmxPWWN6SV80TFJYU1pBTnhTOFJ0bDF1d3UxTUxLR0ZGemxvV2V1RlRsOEt4RTRuNnAta2RpVTZYZjdrcGM2UVJheEwwSldFeFBaSGFQZVVvODBEd0UxWUtYNXlMSzlPeW5SaWlncnBB?oc=5).
 
 ## Requirements
 - Python 3.8
