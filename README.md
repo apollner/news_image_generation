@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Atlantans disagree with Trump’s description of city as ‘a killing field’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JENG9EbXhUU08xRHh3VjFHVGE5eWpxLUtUVndDdWp5UUpDUTQwMmhVSmZoMkNUbHhCdzBXMEZLXzdoa1oyWW5GaXozMl9qN0pZRnUxekVhX3VwUHhMaG9nVExXX3VMN2xDOXFRWjgyZElQWC1lTy1GVHA2UEY4bWpQRkZHNDVka0daWGdwU0ZHWnRZTUQ1bWJKdW1BSl9YZV91TDkwT0FIdTlVa1hOUU9mbFFNSnYxY2hudjNfWQ?oc=5).
 
 ## Requirements
 - Python 3.8
