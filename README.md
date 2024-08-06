@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Draymond Green Rips Steve Kerr, Team USA Coaching Staff for Benching Jayson Tatum**
+**[Removed]**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkE3MFJFdkdDOW05SVVpOF9DOEJpQzdIQmg0WWx4LVFXbWgtZXQ0d29ZVVRvNERJUGJ4RzhnS054VFFDQXBVaDA2MWdpZzdrLS0wWDVabkVpYVJfdVYxSU9DQ3lkS2l3R2g0bmJTY09nWE9qSkg3bzhJQTVfRGVBTE5wQ0hESDRoek15SU5XOHotOHhUVTc1aVJvc3F0UnlocENwcko5RQ?oc=5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
