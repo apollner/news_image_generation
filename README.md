@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atlantans disagree with Trump’s description of city as ‘a killing field’**
+**Djokovic defeats Alcaraz for Olympic gold to clinch ‘biggest success in career’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQT0JENG9EbXhUU08xRHh3VjFHVGE5eWpxLUtUVndDdWp5UUpDUTQwMmhVSmZoMkNUbHhCdzBXMEZLXzdoa1oyWW5GaXozMl9qN0pZRnUxekVhX3VwUHhMaG9nVExXX3VMN2xDOXFRWjgyZElQWC1lTy1GVHA2UEY4bWpQRkZHNDVka0daWGdwU0ZHWnRZTUQ1bWJKdW1BSl9YZV91TDkwT0FIdTlVa1hOUU9mbFFNSnYxY2hudjNfWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSFZhNWpYNDY3UExGemk0UGdYaktGOVhtOTJEaFpxVENsZ1RCX3M0ZDhJLWJsMUZNbjZHYy1kQmtGQnAxSmxlNloxc0d0UGRMcUxJVUNpVmJ0SXMwTFRTRkJSLXJfX0dkenA0WTBnaUNKTW5RSmYtN1czYVltalhaT0hrRGhtdmpZZ3p4TDBSWDNlenVRSS1fbkNsV05DSTFaUkRxbEw2THh2WVVSSVNZbkFtemRLT0o5dDhhcktBN0lHMGphYTNCNWNNV2ltenJl0gHQAUFVX3lxTE5FVUt2dUpKc1RrLWl3Ty13aXMzOEQtelFIR0VGWEhaNmJtN3hsaG9nN1VRcko0SWlXdGlDSmpUWHJySUdtTTYzQUtYRjg1cEVNcVZwSElaQW1aaUhGODRLTkZicWZpODktZWZVS3JYMFRJNFkzcXc5TGdSTkp4S2pXNm15MzUzZm5GNzR4dzM1aEE1TmdMTnZxWDJveEdGbUgtWkZlMkhYYnBhejVja2xnNnk0aTZUVE5YNVRSNExRYnhCWTloS1NIRU9XVUl1N08?oc=5).
 
 ## Requirements
 - Python 3.8
