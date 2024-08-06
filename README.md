@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican journalist shot dead while under police protection**
+**2024 Olympic knockout preview: Where Team USA and Canada stack up**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLV1hNU1dxRmpzRjNVWVVOWkdiQzJ2RVhKQ2wyUzNiM0RLT2FEd21iakd4Tk1TOWlXbnhXZzJBNXphUXJWRHVpckVXWVlGX0JfaEpHX1BEOFNjd9IBX0FVX3lxTFBuaTE3UEp4RldMTXozX1NBMWFtbF8yX0NvZTREMUQ2cW5XZjJYOWpfMUFtTzFVOG9tRDhQOFFCcHppdUM5S0U4WU1kcnoxUkRPUmJXWU9RbG5wdUZNODVR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxPaWZnaVNhUU5SeU5jQk0tdVFlZk5wM0JGT21JdGRQU2ZmMzJHbjhHT0plX052REEyd1Y5Z2RIcDJJdHFGbkNKWFB4bUhjZ1hTSzh0NVc1QzQ0WUpsemg5VkhOeGpIUmk4WV8wSVZIVElFVmFzT0xncmludG9ybm5xZFV4bl84YUNJUDNqalZicXdMR3ByTzc0dXRtUEFFMWYtNzhWX2hWNEMycUppM05McGFuX2ttR05nY2tvNWZSZnRibUZheFRB?oc=5).
 
 ## Requirements
 - Python 3.8
