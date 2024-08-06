@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global stock markets plunge**
+**Sources: Chiefs make Butker NFL's top-paid K**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPb2NuaGtPT2t2SWNveHJuY3M5a1FtVWwyNVpCZzI4a1VERUo2bjJ4eDVUckxBWWhEdEE0bU93bV9Ya25MdWlCOWhsbEtEVGtXQlRBME0zRGxEVTdTeTF2dms1YTFhOF85NmhueGVOUU5ScE5pczZ5Vjk3bjFWOVFrdjY0aw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPbU1qb3U2clYxdHUta1YzNHRRNU51NHkwcVNGVlo4aVNQc0JubEZfWXZRY1RwbDBzYjl5ZnRwVFBhMmhNWWZORnBiM2hqMnV5Nzhka3FYRXJtQkl0SGljYlhfRzhhLTVKaWQ1ZE9QNmJvZHluQmh6WWRqSXprQ2pkTUdfTFVqUXl5SF96aWFBWW5xVFlGMi1TTFhwYkthbFZ0d1E?oc=5).
 
 ## Requirements
 - Python 3.8
