@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Dow, S&P 500 and Nasdaq Close Higher After Global Selloff — Live Updates**
+**X, Owned by Elon Musk, Brings Antitrust Suit Accusing Advertisers of a Boycott**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUdzVEc0VUxhSTJPZ0VxYlY1NHE1Y3ZtblpzaXBBdG1Oa1IwQU5NR1BST3B3VkM1U2QyYjJJMTA4TVEtWWZsaFpCVVRSa1pkN3hsNkVZLTBEUGlyU283ejZmQTAyMnRRck1nMXRPOWs2R01rNm9UbEhRYTNZejY2UVQtRE45UXhEZ29rSWhzUTl1ZG80b3RCQXFn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0lJbzg2eG0wZU1XMXpGZTJsQTZXSWV5ZThaUFVyTG1FNW1iODdIN1c3c0txejVsTGl5Zy1ldU5IMlR0NXZDc3FEeVlxR0Flc0gyRnRkcDJ3TWlQTjg5aEl6eUMyNU0yb3J5ek1MbEJlbERmSGNBNk5ITURUc1lzamNzSmhXams0cEluclBLUU1CRmM?oc=5).
 
 ## Requirements
 - Python 3.8
