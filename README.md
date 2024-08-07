@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive | Jennifer Lopez ‘furious’ and ‘humiliated’ amid Ben Affleck split as he holds back on filing for divorce to ‘protect her’: source**
+**Biden convenes national security team as fears of Iran attack grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQko4RF84V1VJdHVEcks5XzVORlh5Q2VRaU5oVGpuckx6SXVBOXM0UTdSQ3RGbXRKVjltNTE4d0JLWHFwcnJBMGhlRHZ4OWh3NjhpRjhEOEdQaEZwQlV2SW1UM3JTMGJoamhvTkRPSXJXREpXQWJUVF9XN01KSXhncDNCSjBxaGdQMjlKUW5saHBLalpXZ3RXUVJtcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TYTRRc3R2dDhLZXM1VWtqQ016NDVxclhxQkJTWlRsUFVUWS1WQ014SFdWZkZOUE5VRmFZT0VSUVZSZkNHY0xVTU9VODV6dW5VNV9CRlgzTlVid9IBX0FVX3lxTFB4RmRRUllnLWI0c2ZXbk9hYXVDQ2d4dTFMQkZXMkVISjA1NnkyVXJiRE1oOFFKRHB5M095ZWhDa0hBWm0xcGQ2bmdEMFR4ZlBqSXIwNXMyQ1FWZF9EazYw?oc=5).
 
 ## Requirements
 - Python 3.8
