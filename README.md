@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah launches drone attacks on Israel, says more to come**
+**Slow moving Tropical Storm Debby could bring "catastrophic flooding" to parts of Georgia and the Carolinas, forecasters say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUU5mWlJOb2pRT2pfTVptcWpfWGg2d0p3Sm9TczFzelQ2eWRyalBhT1p4c1FwS2ZDU1ZmRWh5LWU5bTg5cWVPcVU2V2ZVeEVTck9hbGVwNmE3TlNzQnppZ2dKd25jRFk5eE9TTWx2ZGxGLV80VFFrSmx1bTJTNHROVFZsYnFqM01KRmdEVG0zVnRaNmRrQzlwUWZDTUdSUDdrbDZmTnZfbmFCVzZSVkVMQi1KcWZJZFRxQjJWMGUtMExvZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdGwtcno5bmJSZW9lbWxFem05cV81cXpMV2I3aUtLd2JOSTA0d3l5V3FlLVc5Z3FieGVJV0FWaUVOYmV6TFRGOWIyalpSTWJvSUo0bVh4UGFiSmd4Sl9qWHVFT1NGd2d2MzZBNEVfR24tQno1UmVodjY3TUtBM3drS2pGU1Iwc2hSNk9ldjlOX1Z6X1JMczhjSUlCeml3d9IBowFBVV95cUxPSlZ2NVFuUmgwcE5XVWpUVWFKQmU1TmNmWjhvTXRjc2N1X0twMGZrbzhUb2RxN1AtRjlzdnBDaV9CVzlZNVhHeDkzY29uLTV6bU51cmcwOUNGS0FsSnJsekwzSWQzR1l3MmdjMXN3d2FrYTVqWFpQZl9maGNmc2twcHhwbWpDWUprNEFjaFNxZURGeWRHVWpyYUtoYnpKTW1SU05F?oc=5).
 
 ## Requirements
 - Python 3.8
