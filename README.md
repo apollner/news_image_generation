@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rivian tops Wall Street's second-quarter expectations amid cost cuts**
+**Team USA vs. Brazil: How to watch the USA Men's Basketball Quarterfinal game at the 2024 Olympics today**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0dEZndBWkJsbXFROFEwTE9SUDFqams4d3pXdkNlbU1OLW1UUGRsM0lpVGNHR1FzVXJpQ3hiVF9ubk53eXFnZWhMeVg5enZHWXlrUTl5SDdDb0JrcXNTWTBqUFdoS1ZpbTRiaU5YNW83QktPVUdkUnVPbkF6N3BtenRhTHR3MW5HbUF0WmREMmh4b2lFMHg3MEJTb0RZS3c4YUhEWTh2NUbSAa4BQVVfeXFMTUdpNWRQNXRiWjZEN2R5NG5NcW9OV1A3REdCQUlJZWpJN0FMTW9PNTl5NERlelhXdzJ5SWVOTEs4RzZiZlBId2dpUkp3QnUtVmUySTNrVUhqYmdiSFJKVEFKMVBHOU1qWDhUNm9zZExjNkhGbUwxMXhZcWNqUWZVa1c4MHhEb0tFcUx2dW9PXzdJNkcxMnFfNnE2QllKd19aNXNpMVpRZ3VUMTJ3Y01R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQkFLVFVFbzM4NDV6ZEhuUURDUjFpZGFjS0VZdDFuN2ZYajFVVG1KNWxlekVBeUZKdk1MVEpDWnloSGY4bC1aZUJVckQ4LUhzVWQzcDhiUHR0ajBfZFM0RVA1Vkt0bTFRVERYNFVwSm1JbVBUMVN5MC1xWXFQc3RYc25jSTRBNUJyUC1OeG1MUnhPbVk2ZVhFVmc5MGo0cE9OSm9BQlYxOFFrV1VXc05xTmZGbzB1NGkwWlJNSTU1cFpseHFpNjRSUkh4Z1BIUFhLRmtEOC1OVQ?oc=5).
 
 ## Requirements
 - Python 3.8
