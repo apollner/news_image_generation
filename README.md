@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After 2 a.m. run for girlfriend, Lyles coasts through 200m first round**
+**Biden convenes national security team as fears of Iran attack grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUJ1cmt1QndkVm9WenhQcFZEX3lPRnQ0Qllhc1hUYWFUWWw2VEEtOHpsMHVRRU1JeGg1N2hhZmxjcFZ3X00zampPM0FlVm51OFBrbkJvS1JNdzItQlN1cjR2eGxReVMySDE0Y0RzZm4xYzNZX3FrS0VvSVlWWE1YVWZUc1BsaUxPckZfNXRQbWp6YVU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TYTRRc3R2dDhLZXM1VWtqQ016NDVxclhxQkJTWlRsUFVUWS1WQ014SFdWZkZOUE5VRmFZT0VSUVZSZkNHY0xVTU9VODV6dW5VNV9CRlgzTlVid9IBX0FVX3lxTFB4RmRRUllnLWI0c2ZXbk9hYXVDQ2d4dTFMQkZXMkVISjA1NnkyVXJiRE1oOFFKRHB5M095ZWhDa0hBWm0xcGQ2bmdEMFR4ZlBqSXIwNXMyQ1FWZF9EazYw?oc=5).
 
 ## Requirements
 - Python 3.8
