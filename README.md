@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden convenes national security team as fears of Iran attack grow**
+**NC governor issues state of emergency order ahead of Tropical Storm Debby's arrival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TYTRRc3R2dDhLZXM1VWtqQ016NDVxclhxQkJTWlRsUFVUWS1WQ014SFdWZkZOUE5VRmFZT0VSUVZSZkNHY0xVTU9VODV6dW5VNV9CRlgzTlVid9IBX0FVX3lxTFB4RmRRUllnLWI0c2ZXbk9hYXVDQ2d4dTFMQkZXMkVISjA1NnkyVXJiRE1oOFFKRHB5M095ZWhDa0hBWm0xcGQ2bmdEMFR4ZlBqSXIwNXMyQ1FWZF9EazYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0tRam96R04zVVNzcXlyemVrQUZjX1dyRnhhLW9yZXNOMlZJM182ZFZLanZEWEtuN2V1UktDeUJEdEhsWU4xVlEtWnRqVnpQMWJoRmEwN3U1dDEwMmNTNlNpMVFoNVc4aS0zUGU4QjFFemRydWhqcGl3d1l2LXpFb0dxOTJqcU5kS0ZpaFhDVDNZd21yelgyNHMxOVBsRk53RGFrSFFDZUJnMDZsQ3RRRWVDSWNkellEMTQtNkZZWnk0ZlhZTHZuMDFiT1AxV05ERFJIdUNR?oc=5).
 
 ## Requirements
 - Python 3.8
