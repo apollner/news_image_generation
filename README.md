@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Speaker Johnson: Shapiro was ‘overlooked’ for VP because of Jewish heritage**
+**Elon Musk’s X Sues Advertisers Accused of an ‘Illegal’ Boycott: ‘Now It Is War’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMmxiWGNKX2dRamNuc2JKNnBReHVUZFJ4b09XMFo3dUh4QVlBcU9rWHNFU19UV1JRcTNGclZLMFl0Z2g2cTluWElJNENFNkRISHFQbHFpXzA1bkZiYmN1SExwdzAwM2hKLXFHaHBfVXdNZWlpMUM3U3BNQ2VpamNMQ3JidGozbVR2XzNVV1ZB0gGTAUFVX3lxTE9IUDFYcDhKTDQ1c2dBQ3U3akM2YjVMTkJ6dEQzbnpTcWc0MUUyaTFjd3k4a3ZHX0hQVmxrNjR6X2J0TFpxRktMVV9BZWI0RWZNYUk3SWJacEloNEpTX1FtdlRnSDlfdlN4Ry0yN1lFUlhMTUFyOGFoZHRvV0lVOHN0VGdoZXlRQjlPakh3b0RET0tuOA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEVYYVhiQWh6VDN0X2lVTlNhN0RiYm1Zdkt3MVRFZmotYVVHQllrQV9VeENnN190dFJNSDJpNkxuU0lHSlNRLTdyUlVfS2UxLThuSEc4Y19ncWRvWVI1akFqNnF6OWgydk5oeXo5Z2RJMXk2RFNuNmxzNE0xOWJIMmhYaE5EM2tjZjM3QlZKZnphY1dqT3fSAZsBQVVfeXFMTS0zWHFPdE9UQVB2QzJLakkwcGk0RWZfejlvRWJpOUtZNkcxbzhYUFl4YnpjY0xjV3VSMUszMHg0bHhFZlRrWkhLYzBFZVdEM0tQVEVRQXdCSlNrLUtqZEo1VFNCajNIWUx6QW90ZjdXQ1hSN0hES0RPaXB5U0V2ZDNIZHBVZ2dHSFp3ZnRLVXpPVDBSSFV5Wk8tams?oc=5).
 
 ## Requirements
 - Python 3.8
