@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. stock indexes move higher the day after global market rout**
+**Election 2024 live updates: Harris picks Minnesota Gov. Tim Walz as her running mate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWQ3MFZtUnFCRWdVWlhzZWd0djVCRHFuMGwtdnJEcU1DdnZJOW1pNjJwRWIzZWdnZHlXRENtM0tqSGhDeTNXTFFrajBLWExfX3EzUDFJUmZZN05BQ2JBeVZGYXBPWUswWC1uYXoweU95SHZyNjBIUkxfdW1GSVUzSUFrdDE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HNXdvTURTVGxidi1MN1djWXdEY1hmZVBpSDlNWXhYMlJBRDBFOGdZRGczcW5UN18yamxoaGc4TTVnVTNLNzM5dWViRUdWenY0Q19kTGRmeHlWRWs4aFBrU3dyZU9PbzRRczc0OGJB?oc=5).
 
 ## Requirements
 - Python 3.8
