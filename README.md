@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First human case of West Nile virus, animal case of EEE reported in Mass.**
+**How a summer of unrest sparked by George Floyd’s murder put Walz in the spotlight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObXVmNFV1TTNVQlR0VERJT2l5RGtqdDdzNm14c1FzWmlKUUwyMWRDQnN4N1NkcFV6ZzFYX3d6OExUMnRBeXcycWhQV1RMQnFLdGl6Mmc5N092V2xHeWktQmxhRHFnUFBkcUJyZzFjS2QySmhObWRocXotVXpLTWFuWkhvTjU2UzhaeGZSUXpTZHRvUzJUWVdWZ2xyVVJDc2h3bEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOU40X1Z2MlFZSkVzUFNRS3hNOWFHeF9VWU9XaEVOR3E0ZUx0WndDcEpIYVJ0UlFNMWtHYW9VVFVFaHFrZnI3N3BmVnIzV3N0Mmw0TlVNRUNwOUlKb3RHbHV4RjVQU0NWdHR5RklFbXRCQmcxWExqd2c2WmkzblVxVnRNQWFhSlJhTFE?oc=5).
 
 ## Requirements
 - Python 3.8
