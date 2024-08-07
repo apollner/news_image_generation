@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s X Sues Advertisers Accused of an ‘Illegal’ Boycott: ‘Now It Is War’**
+**Sabrina Carpenter addresses rumor she had to ask Taylor Swift's permission to do Kim Kardashian clothing ad**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEVYYVhiQWh6VDN0X2lVTlNhN0RiYm1Zdkt3MVRFZmotYVVHQllrQV9VeENnN190dFJNSDJpNkxuU0lHSlNRLTdyUlVfS2UxLThuSEc4Y19ncWRvWVI1akFqNnF6OWgydk5oeXo5Z2RJMXk2RFNuNmxzNE0xOWJIMmhYaE5EM2tjZjM3QlZKZnphY1dqT3fSAZsBQVVfeXFMTS0zWHFPdE9UQVB2QzJLakkwcGk0RWZfejlvRWJpOUtZNkcxbzhYUFl4YnpjY0xjV3VSMUszMHg0bHhFZlRrWkhLYzBFZVdEM0tQVEVRQXdCSlNrLUtqZEo1VFNCajNIWUx6QW90ZjdXQ1hSN0hES0RPaXB5U0V2ZDNIZHBVZ2dHSFp3ZnRLVXpPVDBSSFV5Wk8tams?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBGVTR0WW5WcHZraHdDMmZCV2VNekxDOHZfNm5JcDEtSnpSY0RXVUgtVnA1alRIem5PZldWS3B3Y1dVaXdRTUZEN1RYT0hXUkpBMVdGZUFUZGhtaVlDZ09LX3ZPM1RLY2txWnRpdy1lemlDd3RjakFBOXh5WDFfYTJjaFE2WnFEOWExbWpRWl9Tb3dFWkE?oc=5).
 
 ## Requirements
 - Python 3.8
