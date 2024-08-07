@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sabrina Carpenter addresses rumor she had to ask Taylor Swift's permission to do Kim Kardashian clothing ad**
+**Dow rallies 500 points as Wall Street rebound gains steam: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXBGVTR0WW5WcHZraHdDMmZCV2VNekxDOHZfNm5JcDEtSnpSY0RXVUgtVnA1alRIem5PZldWS3B3Y1dVaXdRTUZEN1RYT0hXUkpBMVdGZUFUZGhtaVlDZ09LX3ZPM1RLY2txWnRpdy1lemlDd3RjakFBOXh5WDFfYTJjaFE2WnFEOWExbWpRWl9Tb3dFWkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE5KV2NObVg4WC1scnA0WFJOMV9DOWZJWGtHSXowcUtjTWt1WFVXVDBZNXYyanFiMEtoc3VBTWQzVlFCcjlqa2tRX0U2akdaRlUwbjZvWldVS3lhcFVtdUhkTkxmcEVYRktVaEZ3RjR1bGZoUmtudmY00gF8QVVfeXFMTnQ2M2VJdEtrLVFHNTV4andUT3E2X09oRXc4WGJ2YlZHVXE2N19QbnAybjFjeTVsWUlPNzVqSmxpUU92aVVEQUgyVjJYYnV4S1hjOVdkOWo4R3dwb1NwdjQyV0dSbUZ3WWxqNG0xRXJ2aUlRQjd3LWo2eXZLSg?oc=5).
 
 ## Requirements
 - Python 3.8
