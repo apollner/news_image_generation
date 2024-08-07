@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chromecast is dead. Meet Google TV Streamer**
+**U.S. stock indexes move higher the day after global market rout**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2dfbkRvcURLUTN4VUpnV2dDSFg3NDV1OFlzc2MwQ0wyeGdNekhOMDRKVmw0YzRpMlBzT2hDUzZtM0FTNncxeGMyWnZ2QXA1enB1WTBKeXhHbFY4ZHQxSFhLRWRGQ0VXQXZIUlZGeXp0SFJISGR2NVljazI0MTlkcW1FZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWQ3MFZtUnFCRWdVWlhzZWd0djVCRHFuMGwtdnJEcU1DdnZJOW1pNjJwRWIzZWdnZHlXRENtM0tqSGhDeTNXTFFrajBLWExfX3EzUDFJUmZZN05BQ2JBeVZGYXBPWUswWC1uYXoweU95SHZyNjBIUkxfdW1GSVUzSUFrdDE?oc=5).
 
 ## Requirements
 - Python 3.8
