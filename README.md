@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study Puts a $43 Billion Yearly Price Tag on Cancer Screening**
+**Republicans cringe at Trump's undisciplined attacks on Harris: 'A public nervous breakdown'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SaFBLSzU2enFsU0c5Ynh2alI2TWxQMl9EVmJKZGdmSTNyeE16OEN1SktDVmZPZ3VWd1pkbDRpbGdKVDhzeWxxY2FreXZnbWdva1QwdV85d3lRbVpzX0pkaFlwUU16SHQ0S20tZWxNb0xBRGhZeTlZSXBKa3B2WEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXQ0OTZsS3hkMzRDTVBpVnJkNXZIU2VyMklpaHNTb3pWbUdVTWNjMTZlWlV6eFgzOXBJWEpLOElySWtrTGFFVlQ5R3ZYbjB1Wm8wNTlTY01vbUlqNGxqUXVvUmNxUFR2aWMtYkRlakgyeTAxaWpkZzBnQjVWYi1qY0FmZTA0NmZRWWNCTDd3eWRhQzg?oc=5).
 
 ## Requirements
 - Python 3.8
