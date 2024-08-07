@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladeshi PM Sheikh Hasina resigns as widening unrest sees protesters storm her official residence**
+**Exclusive | Jennifer Lopez ‘furious’ and ‘humiliated’ amid Ben Affleck split as he holds back on filing for divorce to ‘protect her’: source**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXFuS0FVMjMyc3VOdkFIaG9PSjA3U2JhbHBQTFQ3MHp1Z2hxblhubmJ6bjBnd05RWlI4YVBHM0tmRndfRG4tQWZIWFM4MXBBUkwwY3JhR2dIVlNYYndqODJTTkJaYUhOQ1lYRkwyczRSN1djTkpnVGRLdzBpZ0RyZ0x5eUMzbFdjR3RtcVRCTlJqeFNLRHFocEwzZHJXX3g3Z2N4d1IxdEg1blZh?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQko4RF84V1VJdHVEcks5XzVORlh5Q2VRaU5oVGpuckx6SXVBOXM0UTdSQ3RGbXRKVjltNTE4d0JLWHFwcnJBMGhlRHZ4OWh3NjhpRjhEOEdQaEZwQlV2SW1UM3JTMGJoamhvTkRPSXJXREpXQWJUVF9XN01KSXhncDNCSjBxaGdQMjlKUW5saHBLalpXZ3RXUVJtcw?oc=5).
 
 ## Requirements
 - Python 3.8
