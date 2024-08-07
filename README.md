@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch private Cygnus freighter arrive at the ISS early Aug. 6**
+**‘You are a helpful mail assistant,’ and other Apple Intelligence instructions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE1yenNTYlVXR2hnUmZKcjRlSWlNdHRsdl80b2ZzNGZaTmJ0aXhoOTB3bkxUbTVXVWIzRVhsejEyZGp0Qktycks5S2MtZlBZSUd6N2Fha1YzX2hFTm5Cb3J5X0hEVThYWGFveDA2bzFGWW5GNVk4bGtXbC1n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEMweXNBRWt0WHJrVXV0SXR0REc0UWdLOF9sSFhzcks0U29uU1ZsTWZMUlpWTTBlMVc5c0w3b21tdURvMmFmRTFUaXE4YWRVaGdSLURGM1FHT1VKeXhIWjRpUVVGWDc1MnR0d0NfWFlVdlFzbXVlSmxIcG5tRDZmN0RMN3ZpaUZ5blJ5bFNGR2RMMlJrQ2lNdGdzQ01kUnc?oc=5).
 
 ## Requirements
 - Python 3.8
