@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans cringe at Trump's undisciplined attacks on Harris: 'A public nervous breakdown'**
+**Watch private Cygnus freighter arrive at the ISS early Aug. 6**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPaXQ0OTZsS3hkMzRDTVBpVnJkNXZIU2VyMklpaHNTb3pWbUdVTWNjMTZlWlV6eFgzOXBJWEpLOElySWtrTGFFVlQ5R3ZYbjB1Wm8wNTlTY01vbUlqNGxqUXVvUmNxUFR2aWMtYkRlakgyeTAxaWpkZzBnQjVWYi1qY0FmZTA0NmZRWWNCTDd3eWRhQzg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE1yenNTYlVXR2hnUmZKcjRlSWlNdHRsdl80b2ZzNGZaTmJ0aXhoOTB3bkxUbTVXVWIzRVhsejEyZGp0Qktycks5S2MtZlBZSUd6N2Fha1YzX2hFTm5Cb3J5X0hEVThYWGFveDA2bzFGWW5GNVk4bGtXbC1n?oc=5).
 
 ## Requirements
 - Python 3.8
