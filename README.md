@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bangladesh Parliament dissolved, president's office says**
+**Recreational Rollout: What to expect as recreational marijuana sales begin in Ohio**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxONHBSN0swcUZiOV9EYUhWWnpTY0RLMlpqSUFianpHZmwwNXhEdDNEQWdRT09sazFGeWtpWjItTUVoNkVmZFEtNHRqRWpwNEpfRjRENllUam9pNGdTX0Fna0JuZUhjeWRIVXAwY2VuX1k0cTdWaHNGX3dRMGxnVGUyWFVmeU0xeUZ3akh4UlJaeUNsSk52M2g3MllhbzhnX2JZbF9ZZnd1X180QTFKTWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHFtTS1vVVlSUjNETUo3aDR6QWdBTjR2S2p4T2pLdkJUbjcyQy05SmFpVE5YR0M3ZGdBalc0VE1JM1RvWnJpZ3lTd2dEVGxoTjdsZTFDa0FUVXVQTEhzUkdKMF9ET0hVbVRucFhHV0hZd0Myc3F0bkZKaUNYclJlUU50YndJRHl5NTd0d3lMbWRaQQ?oc=5).
 
 ## Requirements
 - Python 3.8
