@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X, Owned by Elon Musk, Brings Antitrust Suit Accusing Advertisers of a Boycott**
+**First human case of West Nile virus, animal case of EEE reported in Mass.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0lJbzg2eG0wZU1XMXpGZTJsQTZXSWV5ZThaUFVyTG1FNW1iODdIN1c3c0txejVsTGl5Zy1ldU5IMlR0NXZDc3FEeVlxR0Flc0gyRnRkcDJ3TWlQTjg5aEl6eUMyNU0yb3J5ek1MbEJlbERmSGNBNk5ITURUc1lzamNzSmhXams0cEluclBLUU1CRmM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObXVmNFV1TTNVQlR0VERJT2l5RGtqdDdzNm14c1FzWmlKUUwyMWRDQnN4N1NkcFV6ZzFYX3d6OExUMnRBeXcycWhQV1RMQnFLdGl6Mmc5N092V2xHeWktQmxhRHFnUFBkcUJyZzFjS2QySmhObWRocXotVXpLTWFuWkhvTjU2UzhaeGZSUXpTZHRvUzJUWVdWZ2xyVVJDc2h3bEE?oc=5).
 
 ## Requirements
 - Python 3.8
