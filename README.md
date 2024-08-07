@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team USA vs. Brazil: How to watch the USA Men's Basketball Quarterfinal game at the 2024 Olympics today**
+**First human case of West Nile virus, animal case of EEE reported in Mass.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQkFLVFVFbzM4NDV6ZEhuUURDUjFpZGFjS0VZdDFuN2ZYajFVVG1KNWxlekVBeUZKdk1MVEpDWnloSGY4bC1aZUJVckQ4LUhzVWQzcDhiUHR0ajBfZFM0RVA1Vkt0bTFRVERYNFVwSm1JbVBUMVN5MC1xWXFQc3RYc25jSTRBNUJyUC1OeG1MUnhPbVk2ZVhFVmc5MGo0cE9OSm9BQlYxOFFrV1VXc05xTmZGbzB1NGkwWlJNSTU1cFpseHFpNjRSUkh4Z1BIUFhLRmtEOC1OVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObXVmNFV1TTNVQlR0VERJT2l5RGtqdDdzNm14c1FzWmlKUUwyMWRDQnN4N1NkcFV6ZzFYX3d6OExUMnRBeXcycWhQV1RMQnFLdGl6Mmc5N092V2xHeWktQmxhRHFnUFBkcUJyZzFjS2QySmhObWRocXotVXpLTWFuWkhvTjU2UzhaeGZSUXpTZHRvUzJUWVdWZ2xyVVJDc2h3bEE?oc=5).
 
 ## Requirements
 - Python 3.8
