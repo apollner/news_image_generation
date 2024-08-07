@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow rallies 500 points as Wall Street rebound gains steam: Live updates**
+**Rivian tops Wall Street's second-quarter expectations amid cost cuts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE5KV2NObVg4WC1scnA0WFJOMV9DOWZJWGtHSXowcUtjTWt1WFVXVDBZNXYyanFiMEtoc3VBTWQzVlFCcjlqa2tRX0U2akdaRlUwbjZvWldVS3lhcFVtdUhkTkxmcEVYRktVaEZ3RjR1bGZoUmtudmY00gF8QVVfeXFMTnQ2M2VJdEtrLVFHNTV4andUT3E2X09oRXc4WGJ2YlZHVXE2N19QbnAybjFjeTVsWUlPNzVqSmxpUU92aVVEQUgyVjJYYnV4S1hjOVdkOWo4R3dwb1NwdjQyV0dSbUZ3WWxqNG0xRXJ2aUlRQjd3LWo2eXZLSg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd0dEZndBWkJsbXFROFEwTE9SUDFqams4d3pXdkNlbU1OLW1UUGRsM0lpVGNHR1FzVXJpQ3hiVF9ubk53eXFnZWhMeVg5enZHWXlrUTl5SDdDb0JrcXNTWTBqUFdoS1ZpbTRiaU5YNW83QktPVUdkUnVPbkF6N3BtenRhTHR3MW5HbUF0WmREMmh4b2lFMHg3MEJTb0RZS3c4YUhEWTh2NUbSAa4BQVVfeXFMTUdpNWRQNXRiWjZEN2R5NG5NcW9OV1A3REdCQUlJZWpJN0FMTW9PNTl5NERlelhXdzJ5SWVOTEs4RzZiZlBId2dpUkp3QnUtVmUySTNrVUhqYmdiSFJKVEFKMVBHOU1qWDhUNm9zZExjNkhGbUwxMXhZcWNqUWZVa1c4MHhEb0tFcUx2dW9PXzdJNkcxMnFfNnE2QllKd19aNXNpMVpRZ3VUMTJ3Y01R?oc=5).
 
 ## Requirements
 - Python 3.8
