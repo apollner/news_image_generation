@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest iOS, MacOS Betas Get Rid of Annoying Popups With ‘Distraction Control’**
+**Rioters carry out violent, racist attacks across several British cities. What happened, and what comes next?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWRUWEZ6UUdnZFJZNllhOGVxMXo5bHhxRVZ4cFJhYV83el9BM0xJeVR3ZGFWTkZpc0NGWkFTZ1l4YU1zdDR5dFRFRkhaSWMzYkd5VGdINzJuSkVrMDUzd254VDM2bHdzbDhZVEFpUlpXejVLdnJGNXZpcDRieVdNNVQtcWEzTEJlajBqV2hsdFdTMkdETmRZSHFUM2dBcFF2RWtRaExTbVc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzNOQzdMRUFWbmgtdnQwUFF4b3R5X1N2ajRFajh5SmEzbk1FWm55UmI3UEpzTkxmYnE5TGJ4NkxNcnhhV3pob0xaZ0F6cENxQkc3WHNGdDViS3doRjd3Vkl4NkFHM21FUUJ5dlRZQkVCbGU2bkFuS2dOZ3Mwd1R4SzBQM01KbXlnUEQ2Mmtn0gGEAUFVX3lxTE94QzI4MENISmtRTkJEUzlOWWVFRTEwZVVwbzctM3BYeDBabm1CR3djam4tZHlYYVQ1WU9SeDVnWFJFd25IdTBJWC1lQk1XWjRERVhmQzBfM1Z5RVVhSjIwSXlpNVp1Um1XVDBFR2stODhfZzRSeGtKY0tScjV5STNfUkFxQQ?oc=5).
 
 ## Requirements
 - Python 3.8
