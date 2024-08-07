@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nest renewed: Google launches a complete redesign of the iconic smart thermostat**
+**Hezbollah launches drone attacks on Israel, says more to come**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNclp5S25zVHFUMER2ZWNNM2FvS293Z2dTbzktck9WOEJud0ZkY2dPZ0s1bjIzRHZTQmVfSE1hUy1OZjFQU01lVV9wTFAzZmluZXRleFBYZ05KOHJLV1dYZ2Z0eGt4RkRNd1ZDVUJ0elVmQ1ZLZWJnV2FMNTNYeGJDOTgzckIycmtPSzd0MUVpLUFwd1E1cmtPYkR6ekRHNVVRRmdfTk5fV2swcDFGY09R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUU5mWlJOb2pRT2pfTVptcWpfWGg2d0p3Sm9TczFzelQ2eWRyalBhT1p4c1FwS2ZDU1ZmRWh5LWU5bTg5cWVPcVU2V2ZVeEVTck9hbGVwNmE3TlNzQnppZ2dKd25jRFk5eE9TTWx2ZGxGLV80VFFrSmx1bTJTNHROVFZsYnFqM01KRmdEVG0zVnRaNmRrQzlwUWZDTUdSUDdrbDZmTnZfbmFCVzZSVkVMQi1KcWZJZFRxQjJWMGUtMExvZw?oc=5).
 
 ## Requirements
 - Python 3.8
