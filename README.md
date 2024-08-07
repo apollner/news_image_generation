@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘You are a helpful mail assistant,’ and other Apple Intelligence instructions**
+**The latest on the Paris Olympics**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEMweXNBRWt0WHJrVXV0SXR0REc0UWdLOF9sSFhzcks0U29uU1ZsTWZMUlpWTTBlMVc5c0w3b21tdURvMmFmRTFUaXE4YWRVaGdSLURGM1FHT1VKeXhIWjRpUVVGWDc1MnR0d0NfWFlVdlFzbXVlSmxIcG5tRDZmN0RMN3ZpaUZ5blJ5bFNGR2RMMlJrQ2lNdGdzQ01kUnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2IxeU1tLVZERjBzVmVmUllQd2gtSGktRU96b01DM3c0Rzh6Z3VsNS1PMWJrZmd5TjFhNTFMc2ttbUJWMTdQS0RiNFdSbmRHYnJvQ1IyNEZlWnBJaEw2WU5CeVpHNWg3YUQ0UlBRQzl4OGhIUG9GOXNCRDQ0dDRsNEVKUQ?oc=5).
 
 ## Requirements
 - Python 3.8
