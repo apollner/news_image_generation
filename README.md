@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recreational Rollout: What to expect as recreational marijuana sales begin in Ohio**
+**Nest renewed: Google launches a complete redesign of the iconic smart thermostat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPUHFtTS1vVVlSUjNETUo3aDR6QWdBTjR2S2p4T2pLdkJUbjcyQy05SmFpVE5YR0M3ZGdBalc0VE1JM1RvWnJpZ3lTd2dEVGxoTjdsZTFDa0FUVXVQTEhzUkdKMF9ET0hVbVRucFhHV0hZd0Myc3F0bkZKaUNYclJlUU50YndJRHl5NTd0d3lMbWRaQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNclp5S25zVHFUMER2ZWNNM2FvS293Z2dTbzktck9WOEJud0ZkY2dPZ0s1bjIzRHZTQmVfSE1hUy1OZjFQU01lVV9wTFAzZmluZXRleFBYZ05KOHJLV1dYZ2Z0eGt4RkRNd1ZDVUJ0elVmQ1ZLZWJnV2FMNTNYeGJDOTgzckIycmtPSzd0MUVpLUFwd1E1cmtPYkR6ekRHNVVRRmdfTk5fV2swcDFGY09R?oc=5).
 
 ## Requirements
 - Python 3.8
