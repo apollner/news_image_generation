@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic patients may face dangerous risks during surgery, doctors warn**
+**Stock Market Today: Japan's Nikkei Jumps 10%; Dow, S&P 500 Futures Rise After Global Selloff — Live Updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdUJuNHdYUk5WYm9xVWFwUnQwem1ldVZ0V1hnVEpOSDJmTktORFI1aU9ORFJJdlMyeERfb0t5OEFvMTlhTFI0SWduaFJsdHZScl9mT240RlFfbUE5bXItMWo1SjFIMXZzeVAyRnkzc081S3pTb2wxTDBnWTZvVUF4cU5zcTdxMU94Q29RcGNNZXc5STFXV1o4QtIBngFBVV95cUxPdmhwNENGeTIzT2YzNE5Xc3MtTm5UcEFPQWpUX01vODdfdkxtcklaZWc0RWdScU5uMFhydDVCNllaV0ZTblhDX0w1bl9rMlFnbFRxTkVPOUdhaEUtdi1FVG9yYmZUamd2bEFtczZhSlMzZEhGbTFLZldqMnQ3QXZyTl82UU00NzJFZ09fMWFKcUJIZ0taQ2NTWG1LYmVYUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUdzVEc0VUxhSTJPZ0VxYlY1NHE1Y3ZtblpzaXBBdG1Oa1IwQU5NR1BST3B3VkM1U2QyYjJJMTA4TVEtWWZsaFpCVVRSa1pkN3hsNkVZLTBEUGlyU283ejZmQTAyMnRRck1nMXRPOWs2R01rNm9UbEhRYTNZejY2UVQtRE45UXhEZ29rSWhzUTl1ZG80b3RCQXFn?oc=5).
 
 ## Requirements
 - Python 3.8
