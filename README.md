@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch private Cygnus freighter arrive at the ISS early Aug. 6**
+**Study Puts a $43 Billion Yearly Price Tag on Cancer Screening**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE1yenNTYlVXR2hnUmZKcjRlSWlNdHRsdl80b2ZzNGZaTmJ0aXhoOTB3bkxUbTVXVWIzRVhsejEyZGp0Qktycks5S2MtZlBZSUd6N2Fha1YzX2hFTm5Cb3J5X0hEVThYWGFveDA2bzFGWW5GNVk4bGtXbC1n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5SaFBLSzU2enFsU0c5Ynh2alI2TWxQMl9EVmJKZGdmSTNyeE16OEN1SktDVmZPZ3VWd1pkbDRpbGdKVDhzeWxxY2FreXZnbWdva1QwdV85d3lRbVpzX0pkaFlwUU16SHQ0S20tZWxNb0xBRGhZeTlZSXBKa3B2WEE?oc=5).
 
 ## Requirements
 - Python 3.8
