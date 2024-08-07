@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: Japan's Nikkei Jumps 10%; Dow, S&P 500 Futures Rise After Global Selloff — Live Updates**
+**Bangladesh Parliament dissolved, president's office says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOaUdzVEc0VUxhSTJPZ0VxYlY1NHE1Y3ZtblpzaXBBdG1Oa1IwQU5NR1BST3B3VkM1U2QyYjJJMTA4TVEtWWZsaFpCVVRSa1pkN3hsNkVZLTBEUGlyU283ejZmQTAyMnRRck1nMXRPOWs2R01rNm9UbEhRYTNZejY2UVQtRE45UXhEZ29rSWhzUTl1ZG80b3RCQXFn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxONHBSN0swcUZiOV9EYUhWWnpTY0RLMlpqSUFianpHZmwwNXhEdDNEQWdRT09sazFGeWtpWjItTUVoNkVmZFEtNHRqRWpwNEpfRjRENllUam9pNGdTX0Fna0JuZUhjeWRIVXAwY2VuX1k0cTdWaHNGX3dRMGxnVGUyWFVmeU0xeUZ3akh4UlJaeUNsSk52M2g3MllhbzhnX2JZbF9ZZnd1X180QTFKTWc?oc=5).
 
 ## Requirements
 - Python 3.8
