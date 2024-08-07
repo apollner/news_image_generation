@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive | Jennifer Lopez ‘furious’ and ‘humiliated’ amid Ben Affleck split as he holds back on filing for divorce to ‘protect her’: source**
+**Watch private Cygnus freighter arrive at the ISS early Aug. 6**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQQko4RF84V1VJdHVEcks5XzVORlh5Q2VRaU5oVGpuckx6SXVBOXM0UTdSQ3RGbXRKVjltNTE4d0JLWHFwcnJBMGhlRHZ4OWh3NjhpRjhEOEdQaEZwQlV2SW1UM3JTMGJoamhvTkRPSXJXREpXQWJUVF9XN01KSXhncDNCSjBxaGdQMjlKUW5saHBLalpXZ3RXUVJtcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE1yenNTYlVXR2hnUmZKcjRlSWlNdHRsdl80b2ZzNGZaTmJ0aXhoOTB3bkxUbTVXVWIzRVhsejEyZGp0Qktycks5S2MtZlBZSUd6N2Fha1YzX2hFTm5Cb3J5X0hEVThYWGFveDA2bzFGWW5GNVk4bGtXbC1n?oc=5).
 
 ## Requirements
 - Python 3.8
