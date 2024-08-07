@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the Paris Olympics**
+**Biden convenes national security team as fears of Iran attack grow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2IxeU1tLVZERjBzVmVmUllQd2gtSGktRU96b01DM3c0Rzh6Z3VsNS1PMWJrZmd5TjFhNTFMc2ttbUJWMTdQS0RiNFdSbmRHYnJvQ1IyNEZlWnBJaEw2WU5CeVpHNWg3YUQ0UlBRQzl4OGhIUG9GOXNCRDQ0dDRsNEVKUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TYTRRc3R2dDhLZXM1VWtqQ016NDVxclhxQkJTWlRsUFVUWS1WQ014SFdWZkZOUE5VRmFZT0VSUVZSZkNHY0xVTU9VODV6dW5VNV9CRlgzTlVid9IBX0FVX3lxTFB4RmRRUllnLWI0c2ZXbk9hYXVDQ2d4dTFMQkZXMkVISjA1NnkyVXJiRE1oOFFKRHB5M095ZWhDa0hBWm0xcGQ2bmdEMFR4ZlBqSXIwNXMyQ1FWZF9EazYw?oc=5).
 
 ## Requirements
 - Python 3.8
