@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN Says Thai Opposition Party Ban 'Setback' For Democracy**
+**Saturday Night Live: 1970s Movie Cast Gets First Look**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNcjQwYnE0dkhkajBkWndxR0NSLUJTWHE1cFZobjBtWUJHRTZmbzhQaTJ3VGJBaUFDYVUtSndnTGFGVmZNU2JhbTZudVhmamk4N3BKMGhHN1R3bWtOTkIzUE5nVXZfZVdnWk5vdEtfSjNvRVZtRVgyTTFQY1p2T3d5YWVmdDBNVnZKcVYxUWZrQXoxajZ6RVItWkZ4S3VnZ9IBngFBVV95cUxPQUI4Nm1mTVdick9RWTg5MGw2LXVidHBzR05WNHZfellPZkYwMmlHQ2hFa19lVU1nc2k3X1hDb0FmajM3LS1oMmpGdkxSRDZta3VtYXVBaGhMLTRUUm90R2dVZ2VUekY5SDNNVTM4S0kyUUdpeFkxWEZvRFBfTE1tVXZmY2dOcWZ1akxwSDFTZGRZZG4yaDk1RV9YaE1HQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPSVlpRGExZ3dsc1JkQXhCREgtRmxUVHhydkY2aU9sQVhPOUxnWnA5Nm9mVWx2Z3dNUWtVZ1BZZlo1STAxa3BKMWhGWmJUa25FQ2FIVlROeWc4azd3X2ZjcmdtVVNnSVViakRJYjg1dEsxLXY1ZXVzVlRQakVhWG52dFBQY0pCSURjOTBha1hBRUZFY1pNcnJOX1R3RjNJS0Zqc3JOTVhKSGtpcDdfNGR4eXpXRHc4ZWtnQUE?oc=5).
 
 ## Requirements
 - Python 3.8
