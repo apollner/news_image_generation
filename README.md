@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Saturday Night Live’ Rising Star Marcello Hernández Is Using His Charisma (and Support From His Mama) to Conquer Comedy: ‘I Love Everybody’**
+**Browns unveil plans for $2.4 billion dome, team considering move from longtime downtown home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnpnTGYyY0hvVHFiRk53M09NSFY5UlR5cGlNUVN1WUE4ZVJpNnlQTVJxTGxxZHp5b1c2RTlURjNCT1QxWW1haXhrQlQteDV3Vk5uWTlLTFZlT0VKUmNKZ2NnVk5Pb0VsVlRuaXNZRjdxd1F1NG5vS1FPSjBNNlRQVzdtQUFSME1oUXBldWh3bDdwYkZ6Y3hURUJaUFRzdld4Uk5tT2hhWjFNcXFZOTdZ0gG0AUFVX3lxTE5TblJuSG03OGFBOGpzeENMNjJROXY2Q2kzX18wY21zN2ZKTURQSm41VGNNRUUzV2tjUmE1RzR0eE82cHVfdHZrWHVlZnlocF9kZUZpZENLYTN3c3QwQTM3SVQzQ2YzZTZmVklBUHEyeEJtUVMydkVhSThqWXVTMGdyeVp6RW5YZERGMHNrMkdhUmlpNWZkT1NCMDFYd2pFS1FoZlZVVlVvQU5LYTBkd1AxbU9wZQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOTEpoWFNaNGUwNEtfNU1lRERYTVBjOXZmSFJhWkJIMEpkaE0yVE9WMEt1T2x0M0RKdUQ0SER4dFVIMjN0cjMyODlaSS1tcE5KSGNMaDUxRGZxcE5aT3ZwNmpNMzJmQUQ2MzNxSUUtMlE1VVlVcUdxcGZoSmdtZGptM05jVGR1UGJDOFRFSTZNVTZYcU4zY0l3YmMzQTlQZw?oc=5).
 
 ## Requirements
 - Python 3.8
