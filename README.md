@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US leaders call for calm in the Middle East, even as more American forces head to the region**
+**Tropical Storm Debby hanging out offshore but still a soaker ahead of 2nd forecast landfall**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHJtNHhLS0pvc3JkVnFCNS10Sm1KZW53bHVpOFVZaFZjRGpWaFRGTmNlc01udUNhRG82bUd0SFA2czFhRXZuSHp0NXFYem1MdElidG5FUWc2Mk1zeTd6dFRIb3AtWVg4YnVyRjBtQWh0a3BvTWhkNjhYTWgzMWJSQzZFUGt1d3hsbUlPS3otaGlYT3VlVGtoRG8xMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdGwtcno5bmJSZW9lbWxFem05cV81cXpMV2I3aUtLd2JOSTA0d3l5V3FlLVc5Z3FieGVJV0FWaUVOYmV6TFRGOWIyalpSTWJvSUo0bVh4UGFiSmd4Sl9qWHVFT1NGd2d2MzZBNEVfR24tQno1UmVodjY3TUtBM3drS2pGU1Iwc2hSNk9ldjlOX1Z6X1JMczhjSUlCeml3d9IBowFBVV95cUxPSlZ2NVFuUmgwcE5XVWpUVWFKQmU1TmNmWjhvTXRjc2N1X0twMGZrbzhUb2RxN1AtRjlzdnBDaV9CVzlZNVhHeDkzY29uLTV6bU51cmcwOUNGS0FsSnJsekwzSWQzR1l3MmdjMXN3d2FrYTVqWFpQZl9maGNmc2twcHhwbWpDWUprNEFjaFNxZURGeWRHVWpyYUtoYnpKTW1SU05F?oc=5).
 
 ## Requirements
 - Python 3.8
