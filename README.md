@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Bangladesh army refused to suppress protest, sealing Hasina's fate**
+**Arizona Republican becomes first fake elector to plead guilty for role in Trump scheme**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlF6Y2R0SzFIVTVzMGJ0dDVUaklKam5BNG9hYzlRaFFrTHBNeE9fNmgwa1FnRk9JdG9aYWpPR1VmdU05T3FMd2V0aTZLbWRFQTZBZ3VCZlhCM3hpRTBkdVBYd0h2Z1RZV0lLOGpJemhTc2JJeVYwMU9JX2VCRG1HQm9vdmVqclBxZ2RjQ3E5Qmo2Y21PdF9tWTVsZm5yMlNXcG94TUNuVDY2clhab0E3UzVHM2VBdXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnFiMGRkc3N3OFAzbzJMR2ZZWDk3T1VMa0tnWXJ4dkNkbllucllkeXMteGlfbzlZNV9KazFoOVNKUHFlcmdVR2swcFBMTlJGcDlwUUZmQXlYSEt1X3ZLYk1NcFV5T2NCX3BaNDkxLUxvWjgzeFFOS1JtcTdIWjVmV0dGbWNOZFE2X2c?oc=5).
 
 ## Requirements
 - Python 3.8
