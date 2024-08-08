@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas names Oct 7 mastermind Sinwar as leader after Haniyeh assassination**
+**Tropical Storm Debby drenches Southeast with rain, high water as it drifts along the Atlantic coast**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVJXMm56ZnNlcWpCV2xyVzBXc01nS19XM1J3SW5xTHhGRTVtUGZhMTAwV21iemN0c1pMTlRjZkh5OV92dEpnaHpWUEhuZVdxMWsxZ2NDejBSX3ZET0IxZUh0bGJjZkhMVVBMOUdaRU9UVmVxb1hVT1AtSTlKdkJ6d0hNTllVX2tpeURPOXEtbmJjMkljWXVtSi1SbS11d0t3WnhMODd4a21lTGZVYkpwS0FETlVvc1R4Y2VyOWZKb2RaaURMRmlyZjd6SjA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPNm5BRGV6T3RqMERqVmJUT056OHNBRE9qek5heUgxOTIzZ1o2SFdxcEdyN2dHLUhwNWpGWnA5T21LNU90Z3V5WUw3QUtIRTNvaUl4TTlUUnBnQlg3NUwwRDJUZ3NaaVVoV2psUi04cjFYaHBOYTBScGlIS1JmWlF4WU9KM3Q4ZFJLalRsLXh3?oc=5).
 
 ## Requirements
 - Python 3.8
