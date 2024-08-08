@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA women's basketball live updates at Olympics: Highlights from quarterfinal vs Nigeria**
+**Jamie Dimon says he still sees a recession on the horizon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxNazNuNms2bkhBb0pkajZCR0JWbUlwM2huT2YxVWxlV3BzOTY0ZVlnejFkQmJ3ZmxUdDRxOGU3UHRiYk5lbmY5OVVEZmFzR2dUcElLbEk0eXFiTDFPVmlRdTl3SldRUW1tcXA2aWY3Zm80UHVOcXpXb0xmUmF1VVZGU1N1UnRmNUJsMnV3c2VPM1B2WlJrY0FTOVhTSktyampZVWZuXzlXdV9TcFlzUVNXNVFRUV8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxONi00WUktSFUzZG9WalFReDQzaGg2TjZHbzJhRkY3dFBFRHByb0l5S3B0OGQ4cEFJT0ZHUTZRdy1nVTlsTldwVW9HS21KcWI5c1JJMUwteGdhZ19wdUV5ZHIxMGVOV3E4TUFEVkNEQ092NENPbjhpRzh4NHgyeFVnZG5kWdIBiAFBVV95cUxPeUhFODl5NDFHV2NDUDFXY0lMR2ZTc251UTlmSjFtaEtFQ2pqSnVNV3VJYmF3WUhRRXMzR2NHcW1FZVRjeXBoWXlCUkJQbFdCZWZkcWNqNzVYclJLOW90cTZVZl9hai1OS1VQTGFKSzdMRVBzZkNIazdEZExNVG1oRU1VQ0JrU19a?oc=5).
 
 ## Requirements
 - Python 3.8
