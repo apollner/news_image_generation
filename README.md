@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D’Vontaye Mitchell death: Four Milwaukee hotel workers are charged with felony murder**
+**Boeing and NASA Tussle Over Plan to Bring Starliner Astronauts Home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkpFSU9RdnMyOEQ4ZkVkeEpIUENDVUoxTUFONTlqTms5dWFXT2o5OVo4V1ljT3VHbG5PeWZWcEpGVE1iMTg0ZDdQOV9FNHF2dkxKOWl4eUlTVmM2dHAtMmNiN185ZW11SEF3NWUtVG1zRkFGZWtudnM0RE9vMEc4XzN30gF4QVVfeXFMTUxSRURsTVhNR3g2LUJrSTVPWU1zRUs4VElUVnhwakdSWVFGYUtwZl9JVF9ZSnllMVVKVVZfNENaLWE4RnBfanhFMkdIRjdxTXotQUpkejFtcVhPVWFOWGFLazRMZXE3X1pMVm5samtNdE1HTHZqWU1i?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWdmRFExWF9iVzFzRmF2ckRXQVFjNWtmdmhtQTZNRDZ1YjV2OXVKMUFvNTFfeFlzQUtiRU1qUzVFVEM3dzdSRWswazRQZ0l6bHUyZGZoLTJNUlJZck1JcE1jdV9rWTRhYWdkVnFpeTdDZzlPc2pHTXg4bk9YdUhfRDFJQkdpbm8xS2dadnFVOGlRWXJzYUY3TUpPaGdhU0EwXzlreG5xN2VVZHU1MF82dFNHSzl6SUNMRGJkMw?oc=5).
 
 ## Requirements
 - Python 3.8
