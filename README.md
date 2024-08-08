@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maryland’s ban on assault-style weapons upheld**
+**Simone Biles reveals her body was ‘starting to shut down’ at end of 2024 Olympics run**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXV5Z2JhMGg2WWlwc21kSGFYOFJmcm9qOHQ1bG0yYTQ2REJad1VJdWY5ZXE3eGNDTk1tSzNZaGtwUVF6RlZsQjZCcGVuVURDcUpUN0tEUkMyVzdtbnNMX0pkSGxpdE9XNC1jeS1zRUVoLWxxOWIwMHFDVEwzcnB5TWlCMkluOHp4T2J4R0Z3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUo0cDJrUzRlVVcwaDBFdlJYS0xadWFQbjFVcDY5bmVkVGVFNk1NVGN5RzVKTFRLelFHMnVTZmhqVVh6RHJ4aDlieHRDSVlydkVBa29DWFY4QTdmZXJaTWtqY0tLY0o0UGRKalRIYkk3YjVFUDdyNWhuYTZEVlRKWWdwR2s3aWJUS3BlLUswaGc5TUZqMEZaZW9PcWJjMGt2cU9FcFJDU1FzQjExczVNeHpJUXJST1BG?oc=5).
 
 ## Requirements
 - Python 3.8
