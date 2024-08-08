@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a summer of unrest sparked by George Floyd’s murder put Walz in the spotlight**
+**Washington and Arab states scramble to avert an all-out Middle East war**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxPOU40X1Z2MlFZSkVzUFNRS3hNOWFHeF9VWU9XaEVOR3E0ZUx0WndDcEpIYVJ0UlFNMWtHYW9VVFVFaHFrZnI3N3BmVnIzV3N0Mmw0TlVNRUNwOUlKb3RHbHV4RjVQU0NWdHR5RklFbXRCQmcxWExqd2c2WmkzblVxVnRNQWFhSlJhTFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXFRS0FEb0lYWko2WE9paUU5ODh1YmI4M01mTVEzMHdFRThndWxqMjU1YXpOdGdycEFYS0NXZE5ieGxwQnFRNlRaZGNJZU8zM3c1WlpkcTVWSlhUcE9GaURVUmU5ckVRQW9FYkJmNUM4d0QzR3NCUlFzRmtnR08xQVU4a0QwVUFNMzdlT0N0cw?oc=5).
 
 ## Requirements
 - Python 3.8
