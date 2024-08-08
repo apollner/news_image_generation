@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin accuses Ukraine of a ‘large-scale provocation’ in southwestern Russia**
+**D’Vontaye Mitchell death: Four Milwaukee hotel workers are charged with felony murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdHSmoxN3J4QUM4Z0JmQWctZWw2ajJuSEZoZUl0c1NPTWZNSnE4QnZxcDJpUHB4My1wSU1QZnltbGdUckgyMTB5cFVOTGJtVFM3OGNXZzhDVnRxdEROaFU0ODFDeUdvdldfYWpJeExQVXlnS0dfWVpZX0xaS1BGU3huRnZycFViZW9sWVJneVgxVXJiRW1tNUpncGdpcU9xcnJN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPNkpFSU9RdnMyOEQ4ZkVkeEpIUENDVUoxTUFONTlqTms5dWFXT2o5OVo4V1ljT3VHbG5PeWZWcEpGVE1iMTg0ZDdQOV9FNHF2dkxKOWl4eUlTVmM2dHAtMmNiN185ZW11SEF3NWUtVG1zRkFGZWtudnM0RE9vMEc4XzN30gF4QVVfeXFMTUxSRURsTVhNR3g2LUJrSTVPWU1zRUs4VElUVnhwakdSWVFGYUtwZl9JVF9ZSnllMVVKVVZfNENaLWE4RnBfanhFMkdIRjdxTXotQUpkejFtcVhPVWFOWGFLazRMZXE3X1pMVm5samtNdE1HTHZqWU1i?oc=5).
 
 ## Requirements
 - Python 3.8
