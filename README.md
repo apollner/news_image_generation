@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois governor calls for resignation of sheriff whose deputy fatally shot Black woman in her home**
+**USA women's basketball live updates at Olympics: Highlights from quarterfinal vs Nigeria**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhxdHBHN0J1dTlQRWRCNzl5RVRMQ040NFEyNTZtQkQ3cE00d3l5M0pfanNSaEZSTFI1RjAybWxGZGU3dVNpM3Zwb1Y1a1hMLURGQi1jSkxJMmpnVFExX290RkFmWHg1NHZjempZMVpYU0t6OWV0ZlBQV0pTbElnTGctUkhGRUxwNzIwci1iWlVZRkpoUXAzelV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxNazNuNms2bkhBb0pkajZCR0JWbUlwM2huT2YxVWxlV3BzOTY0ZVlnejFkQmJ3ZmxUdDRxOGU3UHRiYk5lbmY5OVVEZmFzR2dUcElLbEk0eXFiTDFPVmlRdTl3SldRUW1tcXA2aWY3Zm80UHVOcXpXb0xmUmF1VVZGU1N1UnRmNUJsMnV3c2VPM1B2WlJrY0FTOVhTSktyampZVWZuXzlXdV9TcFlzUVNXNVFRUV8?oc=5).
 
 ## Requirements
 - Python 3.8
