@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris decides on Tim Walz as running mate**
+**American Cole Hocker pulls Olympic shocker in men's 1,500, leaving Kerr and Ingebrigtsen behind**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOclVfQzByaHpUakhfbUlteW9jQk1FZ3djY24ySUE4NTJudWN2SzFRZlNDTW9nX1BFZlVrVXNOZnpfdjFEbkw1akl1NlE1LW9PMGJfSFZuSEZBUkZzOXRLRU5DUG1DUHo1NlB4bzlzX2h1bnl4b3dxTHY0YWVXSk91SUVNY2JudGVV0gF_QVVfeXFMUF80MUVsWGVZQnJhM0RyVDZRd09jbkd5ektXaEJ6Q3k5dmpLbjczQnYyRkZ3UTF0S2ZlU3BLSGl0VzJsZGh3SU9IT0NfM18wWUd6WkFTNUdqc3BLcDFEOTNBai11TDhsWE1MVGRqNGQ3M3RjcDZfa2owTVpyeS1XZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWENDbXRFcmVVSlEzTjNuLUVxT3U4OUJMOTR5TjV2dy1ISlJGRHVhQ1d6MGZxRmhmb2dIcVR3ZXViYVc5SVNGWHFLLU5MMG52UlJfU3NHTW1PVFlZOFlTRnl1ZmZsYnZObG5FRzduZ3R1Ym9WeHlOTXhFRWtPNWZGMlo5ZmJYc0NSTGE3RHZwUGVMUHhmYndmOHhNS3F1Yk8wd1pMcFplcw?oc=5).
 
 ## Requirements
 - Python 3.8
