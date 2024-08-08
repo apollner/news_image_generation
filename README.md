@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney reports earnings before the bell. Here's what to know**
+**After a rash of stolen cars, Hyundai and Kia’s new anti-theft software is showing results**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFAwQjRQdFJxc2FWTjBiVFd2NHJuSGtyYlRGbDMwYUhLV2U5cW9sSVVqN3BUVHpfMkJ6NTl2blNHSjZjYVlXNkVYVC1FRTd5WVJNM3I2emg1LXF4RzM3NWFRSFpYLS1MaUp4NkpmekxFbUNaMExjYUFJcFh2Z9IBgAFBVV95cUxNTnVfZ2F4TXE0cnZvZkUtaDNDdzNucVFzWWZBWEpRUG85TUxyZ0VxMWk3cWNVb25lTEJuVmhlTFNfSmZJQi1Vejk2dXRDMzRaenZ2elItQlNSSHBZNUEzeG10UUlxMC1lX0pqTGg2c0JxOEdlZ0FreHdoN1JfWXJUQg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFlFY0pHQXBlYVBWd2l0LTMzVDlnejN2NmlRS1l3czdJMm1pYlAwVG9VWEhLMENwSUtneWtEYXhVWXNqWTBPcFFpYV9MMjEyRTZSeVZueXZvekJzUWIyRi1YQ2RFaWs1SVVpMG5aajdsNWhYQnRqeUNzejU2d0VLUVk3NFJ5UGo1UjBJeVN6Z0pNVldnOE930gGOAUFVX3lxTE82STRrMnY4WnFiUjRvbnVuSFNLLWZ0RGpqV1lOOHZic0g4Ul9FRGt2MTdrWjdlVmNBamNNcUlsQkJjYXlocmNWWW1rMUFPbDBEb2FvSTBmVkdTTlF3aXo4Wkg3Z0s0Uk52WmU1cWJJZ3l0TzNVUDhFVlBRQk1TRXRPY1pDUTZiX3o2Vkg0b2c?oc=5).
 
 ## Requirements
 - Python 3.8
