@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington and Arab states scramble to avert an all-out Middle East war**
+**Hezbollah launches volley of drone attacks on Israel, vows revenge is still to come**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXFRS0FEb0lYWko2WE9paUU5ODh1YmI4M01mTVEzMHdFRThndWxqMjU1YXpOdGdycEFYS0NXZE5ieGxwQnFRNlRaZGNJZU8zM3c1WlpkcTVWSlhUcE9GaURVUmU5ckVRQW9FYkJmNUM4d0QzR3NCUlFzRmtnR08xQVU4a0QwVUFNMzdlT0N0cw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOajE1aW9PSk1pSTJsQUJFbXBYeUp3UFEzQWRYQTBubDFxdlNJa0hkZVRHejdieEJXNlFjODd1dnJpeDV6YkljS0Q1WkhoWVNiajNIek1LSWFnUkVjUXhRQTVxOXF6cFg4TWdRVHYwYVFtMGVKOVdmUGFSa0RVa3d4S2VsUjhNOVlGY21rOFhlQnpFVjFpdG1wYVR5al9xbDBLT2VIVHBWRzZvMHFQVlc0a1dBMXdMMkRHTEE?oc=5).
 
 ## Requirements
 - Python 3.8
