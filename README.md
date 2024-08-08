@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns unveil plans for $2.4 billion dome, team considering move from longtime downtown home**
+**Illinois governor calls for resignation of sheriff whose deputy fatally shot Black woman in her home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOTEpoWFNaNGUwNEtfNU1lRERYTVBjOXZmSFJhWkJIMEpkaE0yVE9WMEt1T2x0M0RKdUQ0SER4dFVIMjN0cjMyODlaSS1tcE5KSGNMaDUxRGZxcE5aT3ZwNmpNMzJmQUQ2MzNxSUUtMlE1VVlVcUdxcGZoSmdtZGptM05jVGR1UGJDOFRFSTZNVTZYcU4zY0l3YmMzQTlQZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxPSlhxdHBHN0J1dTlQRWRCNzl5RVRMQ040NFEyNTZtQkQ3cE00d3l5M0pfanNSaEZSTFI1RjAybWxGZGU3dVNpM3Zwb1Y1a1hMLURGQi1jSkxJMmpnVFExX290RkFmWHg1NHZjempZMVpYU0t6OWV0ZlBQV0pTbElnTGctUkhGRUxwNzIwci1iWlVZRkpoUXAzelV3?oc=5).
 
 ## Requirements
 - Python 3.8
