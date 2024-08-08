@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay Kanter, Agent for Marlon Brando, Grace Kelly and Marilyn Monroe, Dies at 97**
+**US leaders call for calm in the Middle East, even as more American forces head to the region**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxON2pSdHg2U3luRWhqNndUT2JMQ09uSXRSMVMzZDdUSlFFbG14TWJvTUdjWi1XSlN1TWpyLXZBMFd6UXNhUGZENnhrTG1yaEd0WENqeFJJTHd0aTlrMDZUZWpva3JlM1ROUldUNEpEanpHQXc0c25kc3ItcEUxeURiT0lzczNkOHJ4cUV3WnlLSUpqZi1LX2U0RzNPTmJiejlKSXBOMDFLMG5LQU5QVXpUV0hGbjNxclpSdVRUUUdURTc5cjVl0gHKAUFVX3lxTE5feHpfU1YwcGtXSVg5M2U4ZkMyS0ItUGRKMkx0WWdLaU5xcjNaMmR2OTJmakJOT2NVRldOMV9XSmFiaGNDWEowRFFobXJYemhzeElQNHlEQ0ZOUk1Nc0N3ckliVFgyYXloM3BDWVBvMFB6T2huNTRJV3owY3NkR1dDTkQyYUpGUWNLbVBtck9LOS0wbnE1VzJVR2JFTW5iZV9kem9ZdGFKRUM0UXpHOW1vdEdEUVYySDdNckdGZHlkaW9nS2haSDRjelE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHJtNHhLS0pvc3JkVnFCNS10Sm1KZW53bHVpOFVZaFZjRGpWaFRGTmNlc01udUNhRG82bUd0SFA2czFhRXZuSHp0NXFYem1MdElidG5FUWc2Mk1zeTd6dFRIb3AtWVg4YnVyRjBtQWh0a3BvTWhkNjhYTWgzMWJSQzZFUGt1d3hsbUlPS3otaGlYT3VlVGtoRG8xMA?oc=5).
 
 ## Requirements
 - Python 3.8
