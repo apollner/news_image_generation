@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russians Evacuated as Ukraine's Incursion Turns Kursk Into War Zone**
+**Tim Walz: Chinese internet discovers that Harris's VP pick taught in China**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NHYlk0S0p4YW5MSzVkQXowNGRQbFFMVC1SOGVaM3ZncjJ4dl9oc0hVZnotYVBQdmZfTW1qOGpvT0llaUIzejBYZjZnN3pNNmtKZkpCUWpXVjJzbjBzcThxNVhfaWh3QkJNbk9CWXlOelN4akp6N3gwcUMzUll2MUpYblliZUlFSlEweXlSbkF0ME1IS3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWnhtS1Jld1dYVHUteUpxc2VDVExEQ0dteWkweHZzNjZBY2ZHbUc1WlJXYzFNblY4aG8wazFPNUc1TUttYUxfX3Y4N2lfa1lRaG5oMlY2UEoxZ9IBX0FVX3lxTE9hNDA3VFdRc3BnZ1hyTnRRRXNxblB4dWx6blpQTEF3Y2E4ZDFLRTkyaG9ka2xKcGE2ZnFVZDE5MmxocjVzUE43dk1BWElua0FuaFBmektfakNoVzhJSVZ3?oc=5).
 
 ## Requirements
 - Python 3.8
