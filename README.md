@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Walz: Chinese internet discovers that Harris's VP pick taught in China**
+**UK police prepare for another night of violence as country reels from disorder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aWnhtS1Jld1dYVHUteUpxc2VDVExEQ0dteWkweHZzNjZBY2ZHbUc1WlJXYzFNblY4aG8wazFPNUc1TUttYUxfX3Y4N2lfa1lRaG5oMlY2UEoxZ9IBX0FVX3lxTE9hNDA3VFdRc3BnZ1hyTnRRRXNxblB4dWx6blpQTEF3Y2E4ZDFLRTkyaG9ka2xKcGE2ZnFVZDE5MmxocjVzUE43dk1BWElua0FuaFBmektfakNoVzhJSVZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEZaT0ZNMExxZUNUcXh0MjJpTHVQdUsxUEdxY3JBdnZFTzVvSzZnYzhiVll1eXdCY2Fmb0NwNkM5bEU2RExOZGp3T0F4aHF0RE44by1mS0xzbnA0dWplQWZpaUttbk5mdXJuYzNLTDhTRFlxQ3A1OGJmTDR1MlJnRTl4d3dmMkNNdFU3TzBaUHBMSFVjbDBieWk5eVUwSXk1MzJPeVh6R1U?oc=5).
 
 ## Requirements
 - Python 3.8
