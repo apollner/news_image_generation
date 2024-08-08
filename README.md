@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby swirls over Atlantic, still dumping rain on the Carolinas before moving north**
+**Putin accuses Ukraine of a ‘large-scale provocation’ in southwestern Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmpqUGJHYVhpOFEtZy01N0M2X0l3QUg0YnpOWUs2M2lSSkMxQ0F5NDlBeGFQdGFxS3FMejZNUnRodTBQcDQtNFUwQjdyNEdlU3FCRWE5T0d1RFNJS1dXMUNYbEdpU2J4NFZJVERweWJPVFVLYkN0U0FPM1J3X0VhclJvcWExaDhyMjR5UFhpQTBOZkFmNWRyT3ZwazdOOVMyTDdkWERPSzlyVllC?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdHSmoxN3J4QUM4Z0JmQWctZWw2ajJuSEZoZUl0c1NPTWZNSnE4QnZxcDJpUHB4My1wSU1QZnltbGdUckgyMTB5cFVOTGJtVFM3OGNXZzhDVnRxdEROaFU0ODFDeUdvdldfYWpJeExQVXlnS0dfWVpZX0xaS1BGU3huRnZycFViZW9sWVJneVgxVXJiRW1tNUpncGdpcU9xcnJN?oc=5).
 
 ## Requirements
 - Python 3.8
