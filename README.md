@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**D’Vontaye Mitchell: Milwaukee hotel staff face murder charges in man's death**
+**Russians Evacuated as Ukraine's Incursion Turns Kursk Into War Zone**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NGVTVFlpZUVXdHVraGRvVFJGbVdaUWNIaVhldE9zaTkyMTZDQTdJVXBxZ00zZTZDemIweW42LXgycDdJWnRIN3VlcEJUUGR3dGJjdlB3OF9Od9IBX0FVX3lxTE5DYjZUNlhnSld1WF84MW1VZ1J4TkNTNERxWEFsZGFfbmxDcHRGSGozdGpVSk5MX1NpSkk1MlJVQ0ctbkpKYm5EWXZaalAwdFY0QzhxMlI4X3hPX1ljdU5J?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0NHYlk0S0p4YW5MSzVkQXowNGRQbFFMVC1SOGVaM3ZncjJ4dl9oc0hVZnotYVBQdmZfTW1qOGpvT0llaUIzejBYZjZnN3pNNmtKZkpCUWpXVjJzbjBzcThxNVhfaWh3QkJNbk9CWXlOelN4akp6N3gwcUMzUll2MUpYblliZUlFSlEweXlSbkF0ME1IS3c?oc=5).
 
 ## Requirements
 - Python 3.8
