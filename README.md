@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona Republican becomes first fake elector to plead guilty for role in Trump scheme**
+**D’Vontaye Mitchell: Milwaukee hotel staff face murder charges in man's death**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnFiMGRkc3N3OFAzbzJMR2ZZWDk3T1VMa0tnWXJ4dkNkbllucllkeXMteGlfbzlZNV9KazFoOVNKUHFlcmdVR2swcFBMTlJGcDlwUUZmQXlYSEt1X3ZLYk1NcFV5T2NCX3BaNDkxLUxvWjgzeFFOS1JtcTdIWjVmV0dGbWNOZFE2X2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NGVTVFlpZUVXdHVraGRvVFJGbVdaUWNIaVhldE9zaTkyMTZDQTdJVXBxZ00zZTZDemIweW42LXgycDdJWnRIN3VlcEJUUGR3dGJjdlB3OF9Od9IBX0FVX3lxTE5DYjZUNlhnSld1WF84MW1VZ1J4TkNTNERxWEFsZGFfbmxDcHRGSGozdGpVSk5MX1NpSkk1MlJVQ0ctbkpKYm5EWXZaalAwdFY0QzhxMlI4X3hPX1ljdU5J?oc=5).
 
 ## Requirements
 - Python 3.8
