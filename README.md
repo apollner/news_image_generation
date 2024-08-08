@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Dimon says he still sees a recession on the horizon**
+**Harris’ blue-collar pitch: New candidate, same pro-labor policies**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxONi00WUktSFUzZG9WalFReDQzaGg2TjZHbzJhRkY3dFBFRHByb0l5S3B0OGQ4cEFJT0ZHUTZRdy1nVTlsTldwVW9HS21KcWI5c1JJMUwteGdhZ19wdUV5ZHIxMGVOV3E4TUFEVkNEQ092NENPbjhpRzh4NHgyeFVnZG5kWdIBiAFBVV95cUxPeUhFODl5NDFHV2NDUDFXY0lMR2ZTc251UTlmSjFtaEtFQ2pqSnVNV3VJYmF3WUhRRXMzR2NHcW1FZVRjeXBoWXlCUkJQbFdCZWZkcWNqNzVYclJLOW90cTZVZl9hai1OS1VQTGFKSzdMRVBzZkNIazdEZExNVG1oRU1VQ0JrU19a?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxONEJSQ2FxSGRYRlFVdWVLZHQ3QWZmM0Z2dzVoczN0ZlVtdlhQWjRqNE9jdUxZV1RpRTVLUl9hVktrcVQ1aTdZRW9ScXk5SFpLN2pleEVQaERwcnpSZExaTUd2MjVxYmJiX1VZbEJENGxsemNyWnl1NW5WYnNxOEpjRFZLNnE1LXhzdHc?oc=5).
 
 ## Requirements
 - Python 3.8
