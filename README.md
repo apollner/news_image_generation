@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Cole Hocker pulls Olympic shocker in men's 1,500, leaving Kerr and Ingebrigtsen behind**
+**AMD Ryzen 9000 official pricing is finally here: from $279 for 6-core 9600X to $649 for 16-core 9950X**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNWENDbXRFcmVVSlEzTjNuLUVxT3U4OUJMOTR5TjV2dy1ISlJGRHVhQ1d6MGZxRmhmb2dIcVR3ZXViYVc5SVNGWHFLLU5MMG52UlJfU3NHTW1PVFlZOFlTRnl1ZmZsYnZObG5FRzduZ3R1Ym9WeHlOTXhFRWtPNWZGMlo5ZmJYc0NSTGE3RHZwUGVMUHhmYndmOHhNS3F1Yk8wd1pMcFplcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2FDOUdrRldLQllwSVJLd1BOOE50OHhScEg5Y1V5ZmFwWWlTS29xSG1lYXVjQWhUcmYzSGV0dzdHRURUWElFeU1XV2xQR19QYzBHQ3JxTEYzanUtQ0JLZnI4Q0dQYTdRWE1FX2JVNW9UNlRLcmEtODhPWmRMUDFMemp3aktoQktMbXlHejhGaDM2VWhoWUxHRTFWS09DbGJhcDNuZ1Q3bk13LWNIWnNyeWRfakhVUllGY1JCbjNWdDF2al9Y?oc=5).
 
 ## Requirements
 - Python 3.8
