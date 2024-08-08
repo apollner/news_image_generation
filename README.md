@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK police prepare for another night of violence as country reels from disorder**
+**Two dead and several trapped after hotel collapses in Germany**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcEZaT0ZNMExxZUNUcXh0MjJpTHVQdUsxUEdxY3JBdnZFTzVvSzZnYzhiVll1eXdCY2Fmb0NwNkM5bEU2RExOZGp3T0F4aHF0RE44by1mS0xzbnA0dWplQWZpaUttbk5mdXJuYzNLTDhTRFlxQ3A1OGJmTDR1MlJnRTl4d3dmMkNNdFU3TzBaUHBMSFVjbDBieWk5eVUwSXk1MzJPeVh6R1U?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVF5R1oyZE51NlptVUF6dTFmakd6RVJUcDY3akVxLUo1X3ZUUEM0cDJwb2M1UExHMnZuZ2htVUhZRnpyZEdSalpvbHB3VDgyNjFOU0ZPVFdmSE1GZk11Vk5QSlNQVVJKdmxON1RMYnIzZDdUT2JKOXM1OWdBdHljZF9GY9IBekFVX3lxTE5xMFFMX0dpLUVWZDRCbUpJWUNyVDlPVHVjZHA3YkR2di1OT09vVm1admJNVW5zTlZEZnI4c1J6cFdSMGR5eDRXQnhUTHdJZTBfTWFyMnJuY2lKUURjUlFJc1NaRlBRTkhSZ09LTjRIeFJfWjdGTER5aVV3?oc=5).
 
 ## Requirements
 - Python 3.8
