@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Simone Biles reveals her body was ‘starting to shut down’ at end of 2024 Olympics run**
+**NASA delays SpaceX astronaut mission as rumors swirl about Boeing Starliner’s safety**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMUo0cDJrUzRlVVcwaDBFdlJYS0xadWFQbjFVcDY5bmVkVGVFNk1NVGN5RzVKTFRLelFHMnVTZmhqVVh6RHJ4aDlieHRDSVlydkVBa29DWFY4QTdmZXJaTWtqY0tLY0o0UGRKalRIYkk3YjVFUDdyNWhuYTZEVlRKWWdwR2s3aWJUS3BlLUswaGc5TUZqMEZaZW9PcWJjMGt2cU9FcFJDU1FzQjExczVNeHpJUXJST1BG?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOS00zVF95Z2FsWGFKbEpDb1ZyMXo5eHFKOVdCU0Q0M0RrN0wwdXduRkVneVBsWkdKVjlaMU85eUo0VG83N2U5VG9HQmRHREItZHgyM1ZJMGVYcnJveXpnYVBSY1JHdzQtVzdOWld5VzNDTS1nQ0xwQmlRbDdaRFd4RGhRSTZkVnczUDZFMTBpRjFPZXczX3fSAYwBQVVfeXFMT2N4a1d1dkVIQ1dkZzRJZFI3VDN1UTV0MkpLSndHcmtaMmVCMVRtZ0hEQnlpTFpiNDBZaEYxSG9jWHRqQ0k0MFJueXRzcEFySDB4azFwSWlUQzRqbHBwTlN3amZkRTcxWlZoMUN3UWQxLXdwWGxPZlNrZGZ5amM3aWVBbm5OZGRiMzFaTzc?oc=5).
 
 ## Requirements
 - Python 3.8
