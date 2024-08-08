@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After a rash of stolen cars, Hyundai and Kia’s new anti-theft software is showing results**
+**Maryland’s ban on assault-style weapons upheld**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQOFlFY0pHQXBlYVBWd2l0LTMzVDlnejN2NmlRS1l3czdJMm1pYlAwVG9VWEhLMENwSUtneWtEYXhVWXNqWTBPcFFpYV9MMjEyRTZSeVZueXZvekJzUWIyRi1YQ2RFaWs1SVVpMG5aajdsNWhYQnRqeUNzejU2d0VLUVk3NFJ5UGo1UjBJeVN6Z0pNVldnOE930gGOAUFVX3lxTE82STRrMnY4WnFiUjRvbnVuSFNLLWZ0RGpqV1lOOHZic0g4Ul9FRGt2MTdrWjdlVmNBamNNcUlsQkJjYXlocmNWWW1rMUFPbDBEb2FvSTBmVkdTTlF3aXo4Wkg3Z0s0Uk52WmU1cWJJZ3l0TzNVUDhFVlBRQk1TRXRPY1pDUTZiX3o2Vkg0b2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMXV5Z2JhMGg2WWlwc21kSGFYOFJmcm9qOHQ1bG0yYTQ2REJad1VJdWY5ZXE3eGNDTk1tSzNZaGtwUVF6RlZsQjZCcGVuVURDcUpUN0tEUkMyVzdtbnNMX0pkSGxpdE9XNC1jeS1zRUVoLWxxOWIwMHFDVEwzcnB5TWlCMkluOHp4T2J4R0Z3?oc=5).
 
 ## Requirements
 - Python 3.8
