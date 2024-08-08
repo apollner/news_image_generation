@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD Ryzen 9000 official pricing is finally here: from $279 for 6-core 9600X to $649 for 16-core 9950X**
+**Hamas names Oct 7 mastermind Sinwar as leader after Haniyeh assassination**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOV2FDOUdrRldLQllwSVJLd1BOOE50OHhScEg5Y1V5ZmFwWWlTS29xSG1lYXVjQWhUcmYzSGV0dzdHRURUWElFeU1XV2xQR19QYzBHQ3JxTEYzanUtQ0JLZnI4Q0dQYTdRWE1FX2JVNW9UNlRLcmEtODhPWmRMUDFMemp3aktoQktMbXlHejhGaDM2VWhoWUxHRTFWS09DbGJhcDNuZ1Q3bk13LWNIWnNyeWRfakhVUllGY1JCbjNWdDF2al9Y?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizAFBVV95cUxOcVJXMm56ZnNlcWpCV2xyVzBXc01nS19XM1J3SW5xTHhGRTVtUGZhMTAwV21iemN0c1pMTlRjZkh5OV92dEpnaHpWUEhuZVdxMWsxZ2NDejBSX3ZET0IxZUh0bGJjZkhMVVBMOUdaRU9UVmVxb1hVT1AtSTlKdkJ6d0hNTllVX2tpeURPOXEtbmJjMkljWXVtSi1SbS11d0t3WnhMODd4a21lTGZVYkpwS0FETlVvc1R4Y2VyOWZKb2RaaURMRmlyZjd6SjA?oc=5).
 
 ## Requirements
 - Python 3.8
