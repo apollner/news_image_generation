@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing and NASA Tussle Over Plan to Bring Starliner Astronauts Home**
+**NASA delays next SpaceX crew launch due to ongoing Starliner problems**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWdmRFExWF9iVzFzRmF2ckRXQVFjNWtmdmhtQTZNRDZ1YjV2OXVKMUFvNTFfeFlzQUtiRU1qUzVFVEM3dzdSRWswazRQZ0l6bHUyZGZoLTJNUlJZck1JcE1jdV9rWTRhYWdkVnFpeTdDZzlPc2pHTXg4bk9YdUhfRDFJQkdpbm8xS2dadnFVOGlRWXJzYUY3TUpPaGdhU0EwXzlreG5xN2VVZHU1MF82dFNHSzl6SUNMRGJkMw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN0ttQWZjUDBGQ01kSkZTam9VUFBaeW5tNFZlUmdPZnJSYlpIdmZtcGFvRlhsdjItNWFObF95eUJiTVdmSFpRVmpocmk1YTJEbGItV1VUSGFSMnQ3SmlOX0lJX0tsVFJETDlZb0N5ejI5Y05DVW1iY19LMjRDRnlCVjFGVEhyNFpaS0llejJjSzF4MDZBVXVDZERDOWZpYndUTlRqdlRXckVHMnpEZl94MXNnZTFCZDNDRzFRX0dRbUk?oc=5).
 
 ## Requirements
 - Python 3.8
