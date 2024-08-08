@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican activist becomes first person convicted in Arizona fake electors case**
+**UN Says Thai Opposition Party Ban 'Setback' For Democracy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNdlVMcVQzZ0JCQVFlMmRKUzU2UmlxZ2FzVlZwbVEyOFhyUGhEUHZuN0hWMl9VTHRVMWEybEltVktLUlpsbldLa0VJSTJjRE5MYlRGNmtGMl9MT01OOTZ0V1hpd3o3T0tGRjlZbjR2U0VDOS13VkNDekJHTVVSWUF4WmdhQ0dxcndLZWfSAY8BQVVfeXFMUEZGMktvc2FHZjVGbGJTQWJWdzJxYk52andCM29JV2doQ1EwOWZnVlJZQXd1WDhaVzR5X3BuLTRsOGhIWGVYSloyRllBbTJMdm1kelEwTVl0eGUzZHJFLXcyV3FsZmVQY0FVTzlfcFljSXpBc0VQdk5lczlScHh6ZWJhY1p2ZjI1a2tKbXY0YkU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNcjQwYnE0dkhkajBkWndxR0NSLUJTWHE1cFZobjBtWUJHRTZmbzhQaTJ3VGJBaUFDYVUtSndnTGFGVmZNU2JhbTZudVhmamk4N3BKMGhHN1R3bWtOTkIzUE5nVXZfZVdnWk5vdEtfSjNvRVZtRVgyTTFQY1p2T3d5YWVmdDBNVnZKcVYxUWZrQXoxajZ6RVItWkZ4S3VnZ9IBngFBVV95cUxPQUI4Nm1mTVdick9RWTg5MGw2LXVidHBzR05WNHZfellPZkYwMmlHQ2hFa19lVU1nc2k3X1hDb0FmajM3LS1oMmpGdkxSRDZta3VtYXVBaGhMLTRUUm90R2dVZ2VUekY5SDNNVTM4S0kyUUdpeFkxWEZvRFBfTE1tVXZmY2dOcWZ1akxwSDFTZGRZZG4yaDk1RV9YaE1HQQ?oc=5).
 
 ## Requirements
 - Python 3.8
