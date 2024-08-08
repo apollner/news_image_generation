@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta's Ray-Bans Became My Post-Surgery Favorite Recovery Gadget**
+**Tropical Storm Debby swirls over Atlantic, still dumping rain on the Carolinas before moving north**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkh0YUpRd0RsUkRWX21HMTdNY3htSVJwbHg5bnJPSTNkb1A1UUoxWmdOaS1IRDdjUmtReXRydTVJYWRDaWkyODBycEVsNEhkYnNLZFF1QW1naEU2aEstVVFLX1RwNWJjLUN2WmQyeHhNV2NiLXZjeDdxN1RUV2h1R3phbHJ4Q2JyTklTcjNoMlFzLUMydzhkM2t2Qno?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmpqUGJHYVhpOFEtZy01N0M2X0l3QUg0YnpOWUs2M2lSSkMxQ0F5NDlBeGFQdGFxS3FMejZNUnRodTBQcDQtNFUwQjdyNEdlU3FCRWE5T0d1RFNJS1dXMUNYbEdpU2J4NFZJVERweWJPVFVLYkN0U0FPM1J3X0VhclJvcWExaDhyMjR5UFhpQTBOZkFmNWRyT3ZwazdOOVMyTDdkWERPSzlyVllC?oc=5).
 
 ## Requirements
 - Python 3.8
