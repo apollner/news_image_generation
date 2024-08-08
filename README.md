@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Debby hanging out offshore but still a soaker ahead of 2nd forecast landfall**
+**Exclusive: Bangladesh army refused to suppress protest, sealing Hasina's fate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdGwtcno5bmJSZW9lbWxFem05cV81cXpMV2I3aUtLd2JOSTA0d3l5V3FlLVc5Z3FieGVJV0FWaUVOYmV6TFRGOWIyalpSTWJvSUo0bVh4UGFiSmd4Sl9qWHVFT1NGd2d2MzZBNEVfR24tQno1UmVodjY3TUtBM3drS2pGU1Iwc2hSNk9ldjlOX1Z6X1JMczhjSUlCeml3d9IBowFBVV95cUxPSlZ2NVFuUmgwcE5XVWpUVWFKQmU1TmNmWjhvTXRjc2N1X0twMGZrbzhUb2RxN1AtRjlzdnBDaV9CVzlZNVhHeDkzY29uLTV6bU51cmcwOUNGS0FsSnJsekwzSWQzR1l3MmdjMXN3d2FrYTVqWFpQZl9maGNmc2twcHhwbWpDWUprNEFjaFNxZURGeWRHVWpyYUtoYnpKTW1SU05F?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxNWlF6Y2R0SzFIVTVzMGJ0dDVUaklKam5BNG9hYzlRaFFrTHBNeE9fNmgwa1FnRk9JdG9aYWpPR1VmdU05T3FMd2V0aTZLbWRFQTZBZ3VCZlhCM3hpRTBkdVBYd0h2Z1RZV0lLOGpJemhTc2JJeVYwMU9JX2VCRG1HQm9vdmVqclBxZ2RjQ3E5Qmo2Y21PdF9tWTVsZm5yMlNXcG94TUNuVDY2clhab0E3UzVHM2VBdXc?oc=5).
 
 ## Requirements
 - Python 3.8
