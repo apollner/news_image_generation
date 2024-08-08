@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN Says Thai Opposition Party Ban 'Setback' For Democracy**
+**‘Saturday Night Live’ Rising Star Marcello Hernández Is Using His Charisma (and Support From His Mama) to Conquer Comedy: ‘I Love Everybody’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNcjQwYnE0dkhkajBkWndxR0NSLUJTWHE1cFZobjBtWUJHRTZmbzhQaTJ3VGJBaUFDYVUtSndnTGFGVmZNU2JhbTZudVhmamk4N3BKMGhHN1R3bWtOTkIzUE5nVXZfZVdnWk5vdEtfSjNvRVZtRVgyTTFQY1p2T3d5YWVmdDBNVnZKcVYxUWZrQXoxajZ6RVItWkZ4S3VnZ9IBngFBVV95cUxPQUI4Nm1mTVdick9RWTg5MGw2LXVidHBzR05WNHZfellPZkYwMmlHQ2hFa19lVU1nc2k3X1hDb0FmajM3LS1oMmpGdkxSRDZta3VtYXVBaGhMLTRUUm90R2dVZ2VUekY5SDNNVTM4S0kyUUdpeFkxWEZvRFBfTE1tVXZmY2dOcWZ1akxwSDFTZGRZZG4yaDk1RV9YaE1HQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNVnpnTGYyY0hvVHFiRk53M09NSFY5UlR5cGlNUVN1WUE4ZVJpNnlQTVJxTGxxZHp5b1c2RTlURjNCT1QxWW1haXhrQlQteDV3Vk5uWTlLTFZlT0VKUmNKZ2NnVk5Pb0VsVlRuaXNZRjdxd1F1NG5vS1FPSjBNNlRQVzdtQUFSME1oUXBldWh3bDdwYkZ6Y3hURUJaUFRzdld4Uk5tT2hhWjFNcXFZOTdZ0gG0AUFVX3lxTE5TblJuSG03OGFBOGpzeENMNjJROXY2Q2kzX18wY21zN2ZKTURQSm41VGNNRUUzV2tjUmE1RzR0eE82cHVfdHZrWHVlZnlocF9kZUZpZENLYTN3c3QwQTM3SVQzQ2YzZTZmVklBUHEyeEJtUVMydkVhSThqWXVTMGdyeVp6RW5YZERGMHNrMkdhUmlpNWZkT1NCMDFYd2pFS1FoZlZVVlVvQU5LYTBkd1AxbU9wZQ?oc=5).
 
 ## Requirements
 - Python 3.8
