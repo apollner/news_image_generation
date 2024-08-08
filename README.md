@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two dead and several trapped after hotel collapses in Germany**
+**‘Squad’ member Cori Bush will lose Democratic primary in Missouri, CNN projects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQUVF5R1oyZE51NlptVUF6dTFmakd6RVJUcDY3akVxLUo1X3ZUUEM0cDJwb2M1UExHMnZuZ2htVUhZRnpyZEdSalpvbHB3VDgyNjFOU0ZPVFdmSE1GZk11Vk5QSlNQVVJKdmxON1RMYnIzZDdUT2JKOXM1OWdBdHljZF9GY9IBekFVX3lxTE5xMFFMX0dpLUVWZDRCbUpJWUNyVDlPVHVjZHA3YkR2di1OT09vVm1admJNVW5zTlZEZnI4c1J6cFdSMGR5eDRXQnhUTHdJZTBfTWFyMnJuY2lKUURjUlFJc1NaRlBRTkhSZ09LTjRIeFJfWjdGTER5aVV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmR4MFRuRjIxSEI1dGxiN2RQbU1OcnVTTHU1alZUWm9RQUpSNm1hSC0yV3dNTWZYdVRmUk1jYl9rX2pBR2dGRXJJTG9OUFBDX3dsUVRQNzlwTFotYVJnc1Jub0NrWlFsQzd4bkpIdTlzZ2w5aEFueTFqcmNjMW9wTDRic2FzNFJwLWxzc0RJNGxhc1AwN19zZTNR0gGQAUFVX3lxTE5IaFBBQXpGSGVmZTdIOThObThMZDlXWkViVTVncTF1ZWtoVU84TFlLOUlucUx6TFliRldZbExkLURrdlk4NTZOWTVvbnoxMEV2ckVmMDdVVnFQSzZWUnFFYkVRV01BSHFkbHQ4WE9pSXQwVkFYcF9oV3dmd2RqNG8wSjQyNEVaSG51MHlGM0pOaw?oc=5).
 
 ## Requirements
 - Python 3.8
