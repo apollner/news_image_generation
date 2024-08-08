@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Squad’ member Cori Bush will lose Democratic primary in Missouri, CNN projects**
+**Putin accuses Ukraine of a ‘large-scale provocation’ in southwestern Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQWmR4MFRuRjIxSEI1dGxiN2RQbU1OcnVTTHU1alZUWm9RQUpSNm1hSC0yV3dNTWZYdVRmUk1jYl9rX2pBR2dGRXJJTG9OUFBDX3dsUVRQNzlwTFotYVJnc1Jub0NrWlFsQzd4bkpIdTlzZ2w5aEFueTFqcmNjMW9wTDRic2FzNFJwLWxzc0RJNGxhc1AwN19zZTNR0gGQAUFVX3lxTE5IaFBBQXpGSGVmZTdIOThObThMZDlXWkViVTVncTF1ZWtoVU84TFlLOUlucUx6TFliRldZbExkLURrdlk4NTZOWTVvbnoxMEV2ckVmMDdVVnFQSzZWUnFFYkVRV01BSHFkbHQ4WE9pSXQwVkFYcF9oV3dmd2RqNG8wSjQyNEVaSG51MHlGM0pOaw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxObEdHSmoxN3J4QUM4Z0JmQWctZWw2ajJuSEZoZUl0c1NPTWZNSnE4QnZxcDJpUHB4My1wSU1QZnltbGdUckgyMTB5cFVOTGJtVFM3OGNXZzhDVnRxdEROaFU0ODFDeUdvdldfYWpJeExQVXlnS0dfWVpZX0xaS1BGU3huRnZycFViZW9sWVJneVgxVXJiRW1tNUpncGdpcU9xcnJN?oc=5).
 
 ## Requirements
 - Python 3.8
