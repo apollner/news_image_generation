@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney earnings: Streaming unit turns first profit while parks business lags**
+**Boeing and NASA Tussle Over Plan to Bring Starliner Astronauts Home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxOYXdLWDN6ZEZxVWg4TXY5T0hFZXYyVHdsNTFCc1V6QVV0bW5vNEhxMWJOX0ZTTHZFbFlQMkZXbWdkOU1YeFVtTUM4Q3hPOXZBeEVxM1V4OWg2c2FJZHhMTzRDejMtYzAyOFY2M1dQdGJ3STBweG5FbnBKc3Y3LTdqdGlxcjE0QWhuZmV4NGVDemFzVy1sX01vSVlHQXkyVk4yc1hZWEhMeTk4cFBSVE8xZ3hHYzFNX0I2OWtyMzhR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNVWdmRFExWF9iVzFzRmF2ckRXQVFjNWtmdmhtQTZNRDZ1YjV2OXVKMUFvNTFfeFlzQUtiRU1qUzVFVEM3dzdSRWswazRQZ0l6bHUyZGZoLTJNUlJZck1JcE1jdV9rWTRhYWdkVnFpeTdDZzlPc2pHTXg4bk9YdUhfRDFJQkdpbm8xS2dadnFVOGlRWXJzYUY3TUpPaGdhU0EwXzlreG5xN2VVZHU1MF82dFNHSzl6SUNMRGJkMw?oc=5).
 
 ## Requirements
 - Python 3.8
