@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of aftershocks continue to rattle SoCal a day after 5.2 earthquake in Kern County**
+**Taylor Swift cancels Vienna shows after two arrested on suspicion of plotting attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTY1dVljdVVtOFFBOEtMSDRZQXl4aU5MN1NnZjE1NE5JS2NCTkh5SkZBb1VTSm8zRTV5NGpWM1N2YUxzYUpZRXozbXBPZ0JDaTAwNGp1ZUdOTjMzMmExRm81UXotWFRPN0QzQi1MWWdLdW82R1FEX3ctMVVJSlQtYlRXR3Ffc201a21Ma1JreWZDdVo1Y3VCNEdSZTRqZ25iOHdMYlFfT0FUb2VwTERoOVNkUGJIZEFrNnVKTW05SmFkQ1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOQTJ3MmhjYUZpem9tcDlKQmZadURXazl1NmVBdUxXUkJHU2dWYWpVTG9iNEhKbnRoMDBPMWlWN2RITVR5TEhfbm1uVHotSUdITmpHX3hnajFERGN5Yy1TajhqOVl4eXNic21WNjJGVzNoenJ4MHRpTVc1N2pZZVRCYVVIM0pKZks2WmVVMTE3ZWR2UXZyWFVGLUtMNFNDaklVTmZTaQ?oc=5).
 
 ## Requirements
 - Python 3.8
