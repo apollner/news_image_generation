@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan issues first ‘megaquake’ warning for Nankai Trough after strong temblor**
+**Eli Lilly Crushes Views As Zepbound, Mourjaro Sales Boom**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm94MFlmSXdhZ3BVRFFaSlg4RXZtc25zM08tLWg5SDJSY1NZQkJHVlVrLVdhRmlPeFBaVHp2UGhfTkQtVUxwbkZ3YnJmeC1xSzlnTVRyS2lYek5LbVcxMENDSFJ6U1hwV1BFWWF3UWZxOFNWNEROMTZ5bmNqaUJJUTROSHNRX0dWaGJZWGIyNUFiTkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPelhGQVNuYmFPbWtQc25RZjF2V2dUUDVnMUthOFpYZ2Utd09QWDdwaWt2amR5MDhTdFJGUTMxdjJMUG11cTBoQXN2Zmlrc1cxTUdJT25SVHN6NUdWdWJ6M1RycS1RRkduMWpoeVhiUGZnNlFpYTByanJiZ2Jxc25EaU5oUFVxdUZjRm0xOGFR?oc=5).
 
 ## Requirements
 - Python 3.8
