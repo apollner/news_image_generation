@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures fall after Wednesday's afternoon market slide: Live updates**
+**UK, Egypt issue alerts for Iran, Lebanon airspace as risks of military conflict rise**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE0weWFPSVZFYnZXbnllZTJ3bkNHZkpEZWFwdnRZdDg1by1qc05hWnFodkNhQkRUd2dhdnFndVQyZG5uZkx1OVRXVUlQbGJwSlZSTHJjM0cwb205d3lBZW9DV0dBbjJ5dmJFV0tXUllKa3RFNmJ5U1pB0gF8QVVfeXFMTXRnbFhISGtaSDhsLV9scXE2RHVoS0JFOUd6ZXBCSDBPVFNFdlVqZUxHdDIyM0VZMUU0RWQ1dXZEQ2J0NzAxMUJxNk5MU1J0V2hyOEY2WUd4RDdmVWpOZWVXT05OMUQ0dUdqb0FXT3pmX3RONUdxcDRIRldHNg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWlILXR1UzlrdXpQcDdSY2ZaNFlVTWNDXzRnOGhJTTdGOU1QU3pHVDc5WDNKakd3N0R4eW9HWVVQekJpUWtVUWVGZ05VcWxVOURPTkFiX2E3VHFCUkZBSEFKWFRLZzNCckNqQVU0MUdPOUxVMnBXZnMyNFVob2I0YTRxakpHNnpaRzl4SjE5QnFHM2VSS2RNU2Q3cFh0VnZFRm1pV3ZESDNrMlA0LXBBemRoQ014NGxIdVZJ?oc=5).
 
 ## Requirements
 - Python 3.8
