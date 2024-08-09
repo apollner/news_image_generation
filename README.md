@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden 'not confident' of peaceful transition if Trump loses**
+**Rapper Nelly Arrested In Missouri For Drug Possession, Failure To Appear Warrant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VbXVYYkxsWkRmR05xVERSWVA0ZXhYOXNqZ3VUamlQbkhiaC1xZnRBX0J6ak1DbDc5YThIV3ltOWdnNGlsWVl4ZkpkWktubEFjYnlveWdId2xoZ9IBX0FVX3lxTE5kVnhTTkpWdXZYNEVsY2lNekh1YVg1ZENRVmZ2Tm51bDJ0ZGZrSDR5TEdFU2pBMHAtWTNpZGZ4VTBNcEE1eHhzSmxqcnN3RGxmcm9wcTBwd082cUF4SWdV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUJYZjk5aTZqSVNDZTdQRFRHS3dCRk16Z3JMY3ZnNTJjaW1LRjFzOXJLNlZabjEtMnFET3FFc1B2SGZfRU9xS3dVc2JHdGRUNEQxQmpGZXRzeGt0VHI4V0Jlc2JVLVVoZXM2cU5zSEhROVMtMThLTkhYTWFHNUZTWU41UzI?oc=5).
 
 ## Requirements
 - Python 3.8
