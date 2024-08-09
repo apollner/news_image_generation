@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Interim leader Muhammad Yunus takes helm in Bangladesh, to seek peace and prepare elections**
+**White Sox manager candidates: Ozzie Guillén, Grady Sizemore and more possible Pedro Grifol replacements**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVVeEpXWXlqT0VvVEhKRmoySnJZejN4dFQ4cUdkem91dTdHeU11Z2k4MUpJeUM5X0ZUZVJpd2RpTWllb1JHUXEwM3lCcDhrcTY2c293VXpIOC1DUzNOVmh4WHd3dHlxR05waHpYc09YWVNiYUN0b0ZONGphU0hmLURBQUZLZTk1WGdMSUxoRkNnMFhHUTQ0Q2Z2YURYdk9Ecmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRldFdkYxdzB4STYxR1BlWUE0WlE1ajNDb25fNG5ZMWVEaTlMVUJRcEd6VlhJTlBva0ZVSUl2M2gydU90c05Wb1ZkdkgwY0RRMmZnUWJtYTN3dlQta3I0cFRzZ3B2NUNmUkstUlJsX0RjSHZac1pCUTl6cVVMMm4tVlpDWFlVOHF4X0FsRVNMbkZTQ2RmR0J2Tm9uT0trR05VVFhMTkdCMDNlWmRKZ0NQNDcwb0s1eGRYaHpTbFFMaFpwY1k3U3BvUlFPdlNtck9kaFd30gHYAUFVX3lxTFBBclp3cWZNdWg0a20wNHlja0l0eWJSNFRXdGl0ZFJiVGVEcVF0ZWpqMUoxbFBJSnQ3VEFSbF96dGFEVTBBYXZQeHFnbGZhRVVLOXVIT1hKa1FiS1NyZUVEWkJsbXFUSUxnanNSYWFyNWttMHNBRGZudGZ3RG9lQ1dFOEt1dzg1OXlXdDJmUndIRFBYZkZzdlg1N0UyNkZZbjFzYTRUSHpod05EOS1UemZtOTlNektVbDZsd3hCSlIzOEpfcTE3RUlZWnhHRlVJVlNkb3lpSWdFeA?oc=5).
 
 ## Requirements
 - Python 3.8
