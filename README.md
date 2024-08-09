@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris’ blue-collar pitch: New candidate, same pro-labor policies**
+**UK, Egypt issue alerts for Iran, Lebanon airspace as risks of military conflict rise**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxONEJSQ2FxSGRYRlFVdWVLZHQ3QWZmM0Z2dzVoczN0ZlVtdlhQWjRqNE9jdUxZV1RpRTVLUl9hVktrcVQ1aTdZRW9ScXk5SFpLN2pleEVQaERwcnpSZExaTUd2MjVxYmJiX1VZbEJENGxsemNyWnl1NW5WYnNxOEpjRFZLNnE1LXhzdHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWlILXR1UzlrdXpQcDdSY2ZaNFlVTWNDXzRnOGhJTTdGOU1QU3pHVDc5WDNKakd3N0R4eW9HWVVQekJpUWtVUWVGZ05VcWxVOURPTkFiX2E3VHFCUkZBSEFKWFRLZzNCckNqQVU0MUdPOUxVMnBXZnMyNFVob2I0YTRxakpHNnpaRzl4SjE5QnFHM2VSS2RNU2Q3cFh0VnZFRm1pV3ZESDNrMlA0LXBBemRoQ014NGxIdVZJ?oc=5).
 
 ## Requirements
 - Python 3.8
