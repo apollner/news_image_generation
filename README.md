@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colin Farrell ‘burst into tears’ when son James took first steps at age 3 after Angelman syndrome diagnosis**
+**Boeing's Starliner astronauts could return on SpaceX capsule in Feb 2025, NASA says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTVHSFZDbWhZZ1NLUW1sRFBEWEp5TnlrS09BdkNuQW9BbWduMDcyaGRfS2I4S0VURUJNNnBXS2VjWnRGVXNoU1lTMG5sVkN6enJiYktfR1g4Y054Z0pLLVFSQzBWOHd2ZURzSERBWFNLWGRFMnAtWWswMDhDYmRMRTRjM3JDclN2Nm8tVzAzQ256YUhsNTFERFVJZDVTRENnX1NZYkduaUNfcEtOY1ktMTAtRzlQenREbVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOWVsX1lReDF3QldINWpxSVh3MWFiU0dyN3FJM0JodllFenR1MVRmTnBnWUpLWTBwUHBzS1FLcmtJT0NXdWRtU3FrX3hQYUdzVV8xSE5DWFM3b25uc2pRR3M4cW9PSFdIS2R0ZFNnU2ZmOWhINk5lRzg0dmV6elNvME1ydmtfa0NVVEJiNGdYeUlJQzVpTEFvdkhkdk5tVS1QcTk4cHpFU1FwOXNjZ3Z2RGtuRQ?oc=5).
 
 ## Requirements
 - Python 3.8
