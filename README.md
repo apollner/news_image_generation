@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starliner crew may stay in space until February as NASA weighs SpaceX option**
+**Google Pixel 9 Pro and Pixel 9 Pro XL prices for the US leak - GSMArena.com news**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3FkWThyTnlrTXJXUG5oUjQtdW5Cbl9iRjNMRTNHVk5nMldoSDMySDF1Q19YVC15aXg2ZTlBX0JZZlB2RlRWQWdKeXZ6OFFDaDdLSXhnMTFpQnBBYVRDMVhBOWhKZHpxTWsteS1UamRjTlF5VlczRXZKVmdBSlliR1RadUN5UDA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQalVxTTZhbkNXMVlubU1uY0V5ckxBUWhQSDNidlgxS1BfSy0tcnFMRlJrZ1FxenJ4a3pzTUI4S2hFUVRpUDNwMDNZMW1mNEJqMWVWZ05ESElhOFBZWkZfNGZPS1UxSlZrLVJXdkhzUE5fQ2ZvN010LU5IY0pnaGFZbHJQMWNESHg3ZDR3b2NRaUdLM0ZHRnFsS1VBVEt4dFNadHfSAZ4BQVVfeXFMTnB2MW0tUU9Ia1NGbnoxS0czaHg0LU9oWFlPMkZpWUpWdVk4Mno0M0gtcFc5VFowU2dZUnh5QnFramJ2Q2x5VUYtb0R6UHNpYjR0M0NVbUQxQmZScTdSc05iY0lOSjA0dVdnMlJ1YUlCYmNhZkJmU2kwOEhQZVNGY29aaXFxVDlSTlFYTFdYaU5wMi1pekQ3VzNaUzZONFE?oc=5).
 
 ## Requirements
 - Python 3.8
