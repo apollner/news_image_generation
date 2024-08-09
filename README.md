@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he has agreed to offer from ABC News to debate Harris**
+**New body cam video shows moment police officer saw Trump shooter just before assassination attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUZsVmFiZVY3cU5pdWRJYVIwRU5HZjhXUDVaOWxvTV84REh4X0hJRHJMT1l4dnVQZjlVOTJPVWNzamRNbjFrbkdaeXNxWWZUZWJuLVkwcmhRVVJUTDJXUjdlSkphZzhORm5DbzdLeTBaTnpyQnJHeHI3Vjg5OUVhWHY5WEdSVjVnZG5LSFdxd9IBlAFBVV95cUxOOVNFX0hZM0xsOUJzbmNobDdMLVI2NzJ0S2t6RGw4aHJndXd4ZndBS2JqZ19GbEszNmpsaWU0M2ZVbnIyb0tBRTB2ek1yMHhYRGxBSmJlRXNqcDR5czc0TnhNdDctZ1Z3NW9aWU9HWk51U2htS0s1emdkZzZ6MUkyQm8xRXlaVXdiY3RsaWNja1I2Nl9u?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGFZX0R2Qy1BYlY4UHBMSWxqclBqSDZfdXVGeWtEejIwM2lLVmhqYWc0dTF3dEN5T1I3MXNZaFk4dlRVVVZ5d3BGUFM0am50dlc5dDRLVVhwdjR1UFZqWWUtMFVueEZqVnNQSDF1R2dKVTFfZlVGNmF4T1ByS1VYY0I2WFFwUXhwbjFhZmpwQ2_SAYcBQVVfeXFMTUg3THktVVNvT09wR0NGVlBOWmlVUXNhOHJyR2dfUk90QWtYQnRpdkxTQTl0Y09RUW82bVNUR0VMMFhlZlVwNDZ0b1hBVU42dW9tQURad2ZJdmJOLXRHR3A2bENMME5tQS14anVkeTh6dkJTc3BZMUdGQUV0WS1GV1pielFxdE5N?oc=5).
 
 ## Requirements
 - Python 3.8
