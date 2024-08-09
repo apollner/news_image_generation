@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Estate of French explorer who died in Titan submersible sues OceanGate**
+**Carles Puigdemont: Police hunt ex-Catalan separatist leader after return from exile**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEt0WUFWcEVvX3RlTjRoR0haTm01dzhrczNyQ0VDeE9jZFlWVGlmdFRqUTB1MU5sOXcyVUsxNk5Hb0NyWGNJeHVNVlVScnRjcGdTZE5VWkVtZEZfUzhmMHdDcGNCeGk5VjRhT1VISmNBVHBkTjRBbWRDaU5MRjAxMS1fUDZuTVdCZG9rcklxdzJPX1VxZnlKNkE0Zy01aWZDaXplZXBBZWgtVlc50gFWQVVfeXFMUEU0WVlEcy1YREtWeUtYaFE2VFUzaE5XMGZpeC1nQm05N2Y0bXNMOUJwUnFPdUFuS1pCYWVyd09rcWhwZ2FPR2diclFsWmNWbWhkNzNYb0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aV2JYYnNxcWpVRXBrNndwZ0NsNFozQ2xvUXpNcjA1bE41QjF6bTdnaXJQcmNyZXZ5M0RYQklDV0R5TXI0YnhTM1BSRzRLRzNpdGpPS2pVUV9FUdIBX0FVX3lxTFBZbjkwNUNnRHFjUGVuUXNpTE9tWFZ1cEliaUdLblM2MWZEWS1acTJ6V0Z3NHdlN1Yzd2lQNDR1bHFRR2dqUkhOTW5jZTA3VGlYVm1feXU3ZDFCU042c3dN?oc=5).
 
 ## Requirements
 - Python 3.8
