@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Boeing CEO seeks to restore trust, meet factory workers**
+**REVEALED: Stranded NASA astronauts could be VAPORIZED on terrifying mission to return to Earth in faulty Boein**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFJrM0FMalc0VGpBeUFDR2xTaVdaSzZXaGI3VUFFeXZ2ZmZzOThkVHV1d2wzY2NweHl2Q2JWQ3gtUVYwUEZPS01zM1BVUHI3ekttd05uWnBXa2xucW9OMEplS0E5SkdCWEhIcXA2ZHdkeUp3M0MwTEZCdzRhckFNM2VBVWwydnlMYUUzZUtoUW9mSGVuTXl1dTNrLW5vVkNNM2t2c2s3Zm5IRWhjVThJSTdBbWVJTV95SXpZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGplTXRsaGhJUG4yQ01PVmt3RzV3Z3g0RTd4YUNvdVRrWUlJN3V5TERXUHpJWGpBSGtCYmVlaFZLb1BxbG1Iclg1UHhLN0YtTUVQOVdOYzFWTGwyUkxjZW9LTWRfZkhUdTEzNF9aeDNmT1BjOGdTTHhkd2ZtOUR6Qnk0Y2JEcGNMOEUzVjdBRHVwQU50OFJ5dFRWaVEyckUxUmlHTnRiQ2JGSVFsczJpX2NGTXl5eUNHclU2UUtwdlRpOHVPWGduRtIBzgFBVV95cUxNcFYyTGNTUmJTTTZZTVVQNFFfcGxPai1yalRNUVZ6dU1RczNKbnVjSDVyc216ZWx4UWw5djJuS3JMSFpBWnltU2E4N0FXVjdpTkNpZnlWWFVONU9iZElhbXZ2aVdiRTltNDFzMlNEVWtEVDB1NEtZZXNYV3lOR0NSSkJNUUZSRkZiXy1sdlRzOHFEd05IbE13SmNuT09vbnJHNktwQUFUWmRPNzZFTEZwTjVyMDhrbXlaOFNqczIzVDFtYTctcW9KbU1kUktpZw?oc=5).
 
 ## Requirements
 - Python 3.8
