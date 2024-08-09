@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quincy Hall, to whom nothing’s been given, took the Olympic 400 meters**
+**Japan issues first ‘megaquake’ warning for Nankai Trough after strong temblor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcjBRNmRDVEZCR0t6MmZLQ0tOUXIyakVlbklrTzgtd0ZNLW8ya1F6U25vZ0xGbzNuNjhQRW9WUEd1d0dPNW1aYUItR2FWWGd6UVdzeWN3MnZyS3FQaHliaXBvY1UxQnBzN0ZYOFZ1bWNlQ0gzX0JoVWtwd2h3cFlLa3pneXh4N1RNbUZLYnpmU1poQWxPQ2JOenVDZjVKbDNabF9sWlpRVGk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPVm94MFlmSXdhZ3BVRFFaSlg4RXZtc25zM08tLWg5SDJSY1NZQkJHVlVrLVdhRmlPeFBaVHp2UGhfTkQtVUxwbkZ3YnJmeC1xSzlnTVRyS2lYek5LbVcxMENDSFJ6U1hwV1BFWWF3UWZxOFNWNEROMTZ5bmNqaUJJUTROSHNRX0dWaGJZWGIyNUFiTkE?oc=5).
 
 ## Requirements
 - Python 3.8
