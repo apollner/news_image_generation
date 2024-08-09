@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia says it halted a Ukrainian incursion into its territory. Evidence suggests it hasn’t**
+**US men's basketball team rallies to beat Serbia at Paris Olympics, will face France for gold medal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3BXMTJpcW9CejJjQ1p3NXdTSE5ZM2xwMWRpWTdrbjNmd1FXeWZ6LXFUVmx3NG1HaTFQUlJZbDA5ZzJYek93ZDFzN3ZabjZKNHNEb0RKbmlWcG1OaVZXNTBJVUp1YkZnVmhSRXd2UXk0a2VZQXZyVW9PcnZsTENYQUpDSkZ6bUHSAX5BVV95cUxQYl9xajZoSGlWNk5SM0RURFhrb1NMcHIzaFBsVk1GRmZsZFJNWkg3MnJMZW9RbkJuWF9iQ3RUSnRMTWdEMVg3RzdGckk3NHJzTHM5RDBWQ04xaFZJUWJnTGlEVFJ1c2FYa3UyX1VRVkRMNkRCRl9RTTlRZzluZ3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWRuODlLWUxUTld4Y1VWLUdCb2QwcFZLbTlMWTJTTXJfRUlJVnhTaWhuLXU2R2dhclRSUGk5d0NFZDl1WUt6RGMzNmd5WDhYUmF6cTVRTnBiRHRQZU1Md3FyYnZRYXVsM1NYaHBzLTBPemNoTDRLdmtkNWZ5Y1BNUE1WZlh1TzhnU2p4TTVHTGlFeTBvVjJjTy1NZw?oc=5).
 
 ## Requirements
 - Python 3.8
