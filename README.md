@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapper Nelly Arrested In Missouri For Drug Possession, Failure To Appear Warrant**
+**Stock Market News, Aug. 7, 2024: S&P 500 Drops With Investors on Edge After Global Selloff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPcUJYZjk5aTZqSVNDZTdQRFRHS3dCRk16Z3JMY3ZnNTJjaW1LRjFzOXJLNlZabjEtMnFET3FFc1B2SGZfRU9xS3dVc2JHdGRUNEQxQmpGZXRzeGt0VHI4V0Jlc2JVLVVoZXM2cU5zSEhROVMtMThLTkhYTWFHNUZTWU41UzI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUY4VmlYMFlBcDhQU1UyVTlkckFRTnVENXdKbThhMG41WHR2cmZRajItRFhEWDJBYVFwZEVqNG1mS0UwdVhGaENUdmt3ZFpWUXQyMzRxZ0NKdWpydHI3RHNVOG01Tk9xc2E4ZllBeGUtdFlDUW52bmxNcU1ReDNoTGpjM3BRY1NHNFdPWA?oc=5).
 
 ## Requirements
 - Python 3.8
