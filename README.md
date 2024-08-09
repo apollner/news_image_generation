@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market News, Aug. 7, 2024: S&P 500 Drops With Investors on Edge After Global Selloff**
+**Arizona prosecutors asked grand jurors not to indict Trump in fake electors case, court records show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUY4VmlYMFlBcDhQU1UyVTlkckFRTnVENXdKbThhMG41WHR2cmZRajItRFhEWDJBYVFwZEVqNG1mS0UwdVhGaENUdmt3ZFpWUXQyMzRxZ0NKdWpydHI3RHNVOG01Tk9xc2E4ZllBeGUtdFlDUW52bmxNcU1ReDNoTGpjM3BRY1NHNFdPWA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzFuaUx0VGN1UThZZnNxbjZJUjlTR1F3WnNMdVFWY0dfX2ZwNkNpdUgtWG5SdVJDaTk4UkNSbW15V01sb3Z0RjVsbUlzMlhOQVRwVlF4c3A3Z1MxNWprN21XbFJYOVBYUk43aUxGNXpvWHRVdUh2Ql9valBUeHdmQzZEMlRadXVQdWZTb1VIOW1TVExSd2NaUkNJQU92LW8ydmkxX0hyODRiSTTSAbABQVVfeXFMTWwzWF9SWTVZZFlKQjNBR0E5SkltVUJqeFhsY3pscU1LbTBEWFJqa19KSXBjNnR1YWFLVjM2eEZGZDJEVVhLVGRJYkJSVkIzRk9FOFVoT0dSRGtsSmkycm04MXNJSklOcUNnNWYyQ3B0SUZ3VlNQOVp0LWZjdGY4RktHXzN2UmIzQW10SmR4c0dNd01NaE9kLXZWVTdDWlQyRDc1WUZWcnQyME5yOEdWbnY?oc=5).
 
 ## Requirements
 - Python 3.8
