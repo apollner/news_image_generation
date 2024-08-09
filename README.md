@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carles Puigdemont: Police hunt ex-Catalan separatist leader after return from exile**
+**Republicans attack Tim Walz's handling of 2020 George Floyd protests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aV2JYYnNxcWpVRXBrNndwZ0NsNFozQ2xvUXpNcjA1bE41QjF6bTdnaXJQcmNyZXZ5M0RYQklDV0R5TXI0YnhTM1BSRzRLRzNpdGpPS2pVUV9FUdIBX0FVX3lxTFBZbjkwNUNnRHFjUGVuUXNpTE9tWFZ1cEliaUdLblM2MWZEWS1acTJ6V0Z3NHdlN1Yzd2lQNDR1bHFRR2dqUkhOTW5jZTA3VGlYVm1feXU3ZDFCU042c3dN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaEg0bGVoLWdMV2Uza2lybEYtT0ZKNDRBYURWbkltOER1bHNZeVBqM3pxcU8tS2h0QWpEbUJKamJLcTVWdEFxXy1QdFNDbE5kSW8yWmRuSVVnUdIBX0FVX3lxTFBhSVU1a1F4a0pUdEVXX1l1ZHlJZldZTk04TDgwdWpRSWFfeGxoSUVfa25VdzE5cTgxd3ZHcDRZd0VoV04yVHZOaHZkdDg3ZW9OTm9yeUpnLTdSTzBYZEM0?oc=5).
 
 ## Requirements
 - Python 3.8
