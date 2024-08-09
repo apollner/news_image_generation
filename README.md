@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PM Update: Spotty downpours through tonight, and more rain likely Thursday**
+**U.S. Selected Practice Recommendations for Contraceptive Use, 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkVSYTZEWjZHN1RtV2J1MFcyX2JSYkFWSHFsSEpwejMyamRMVVNJWFcyZFVXRjNLZFM2NlJ3SjBEQWkyYTRGQmxMRVRwWTRNZGhIdlFlcFVrMjh3RFhCWFNDU0NoMTJmN1BqNzRMam50aXJucE14SmdMc0tSdEVmRTZZN3k5R1lUUHlBT0tsVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pbFdqOTN2dm8tYnVabzVCZU1aajBNUkpCR0JueXNHZV9HamV1YlIxY1M5VlkxVUFoZE1mRlZ1WlFEczNGX3ZZdG1HZ29lNlY4T2dOVFdOZWpxZ3drZFZVZw?oc=5).
 
 ## Requirements
 - Python 3.8
