@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans attack Tim Walz's handling of 2020 George Floyd protests**
+**Starliner crew may stay in space until February as NASA weighs SpaceX option**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DaEg0bGVoLWdMV2Uza2lybEYtT0ZKNDRBYURWbkltOER1bHNZeVBqM3pxcU8tS2h0QWpEbUJKamJLcTVWdEFxXy1QdFNDbE5kSW8yWmRuSVVnUdIBX0FVX3lxTFBhSVU1a1F4a0pUdEVXX1l1ZHlJZldZTk04TDgwdWpRSWFfeGxoSUVfa25VdzE5cTgxd3ZHcDRZd0VoV04yVHZOaHZkdDg3ZW9OTm9yeUpnLTdSTzBYZEM0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3FkWThyTnlrTXJXUG5oUjQtdW5Cbl9iRjNMRTNHVk5nMldoSDMySDF1Q19YVC15aXg2ZTlBX0JZZlB2RlRWQWdKeXZ6OFFDaDdLSXhnMTFpQnBBYVRDMVhBOWhKZHpxTWsteS1UamRjTlF5VlczRXZKVmdBSlliR1RadUN5UDA?oc=5).
 
 ## Requirements
 - Python 3.8
