@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK, Egypt issue alerts for Iran, Lebanon airspace as risks of military conflict rise**
+**Biden 'not confident' of peaceful transition if Trump loses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZWlILXR1UzlrdXpQcDdSY2ZaNFlVTWNDXzRnOGhJTTdGOU1QU3pHVDc5WDNKakd3N0R4eW9HWVVQekJpUWtVUWVGZ05VcWxVOURPTkFiX2E3VHFCUkZBSEFKWFRLZzNCckNqQVU0MUdPOUxVMnBXZnMyNFVob2I0YTRxakpHNnpaRzl4SjE5QnFHM2VSS2RNU2Q3cFh0VnZFRm1pV3ZESDNrMlA0LXBBemRoQ014NGxIdVZJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VbXVYYkxsWkRmR05xVERSWVA0ZXhYOXNqZ3VUamlQbkhiaC1xZnRBX0J6ak1DbDc5YThIV3ltOWdnNGlsWVl4ZkpkWktubEFjYnlveWdId2xoZ9IBX0FVX3lxTE5kVnhTTkpWdXZYNEVsY2lNekh1YVg1ZENRVmZ2Tm51bDJ0ZGZrSDR5TEdFU2pBMHAtWTNpZGZ4VTBNcEE1eHhzSmxqcnN3RGxmcm9wcTBwd082cUF4SWdV?oc=5).
 
 ## Requirements
 - Python 3.8
