@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nelly Arrested in St. Louis, Lawyer Says Rapper Targeted by ‘Overzealous’ Officer**
+**Colin Farrell ‘burst into tears’ when son James took first steps at age 3 after Angelman syndrome diagnosis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGtiMmxSZktodlM5YVFRUS1LRS1wNVZMTGM5WkZRMlotY1lka2hKTjNfa0FyMnh4LVQ5SjVNWnUyNEFaR2lLdXlNUFJfVjAxdFRkZmFlOGFwQlBNMHhSTmNWNDZ2MUdJMkIxcVFXUGp6OUQtaEFVb2p1WGhPMTh4Q0xzbW9CbGdEMGpCTUNIbk9tRFRhdHdOeDRzS3poN2kydjliNHRaSW9TeWY5bmlIandBRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZTVHSFZDbWhZZ1NLUW1sRFBEWEp5TnlrS09BdkNuQW9BbWduMDcyaGRfS2I4S0VURUJNNnBXS2VjWnRGVXNoU1lTMG5sVkN6enJiYktfR1g4Y054Z0pLLVFSQzBWOHd2ZURzSERBWFNLWGRFMnAtWWswMDhDYmRMRTRjM3JDclN2Nm8tVzAzQ256YUhsNTFERFVJZDVTRENnX1NZYkduaUNfcEtOY1ktMTAtRzlQenREbVE?oc=5).
 
 ## Requirements
 - Python 3.8
