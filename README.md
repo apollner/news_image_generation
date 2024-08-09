@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK antisemitic hate incidents surge in 2024, says charity**
+**Dozens of aftershocks continue to rattle SoCal a day after 5.2 earthquake in Kern County**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lZFFHZ2VZSTdpbWNYWFJJb2I2N09pZ3Z4c3Z6X1Btal9HSXp4RHpTLXl6aDg4WXdJOUdZZTR5YzhtdXdhUVVNU3hSczNFY2h1R2Y1ZkJIcms2UdIBX0FVX3lxTE1TMEJnQU5TT2p2ZkhRd1pGM2VMRzR3VVZwR0JXMm5CUmRnRjVWXzVXd0ZEMmMxN0NzSS1ycVktNVE0XzNxRmV3VHRmV1pGa2M5NGx4UFFST0ViSlo1V3hr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdTY1dVljdVVtOFFBOEtMSDRZQXl4aU5MN1NnZjE1NE5JS2NCTkh5SkZBb1VTSm8zRTV5NGpWM1N2YUxzYUpZRXozbXBPZ0JDaTAwNGp1ZUdOTjMzMmExRm81UXotWFRPN0QzQi1MWWdLdW82R1FEX3ctMVVJSlQtYlRXR3Ffc201a21Ma1JreWZDdVo1Y3VCNEdSZTRqZ25iOHdMYlFfT0FUb2VwTERoOVNkUGJIZEFrNnVKTW05SmFkQ1E?oc=5).
 
 ## Requirements
 - Python 3.8
