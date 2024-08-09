@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 9 Pro, Pixel Fold, Watch 3 & Pixel Buds REVEALED! | Made By Google Event**
+**Catalan leader Puigdemont reemerges in Spain, then vanishes, evading arrest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0VTVl90U1Jodk1RmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNWVpNM0FaRlZzOVZpNnVYVE9NZ3JXVlZXZThfRE1lUUpLZUliNi1MNXR3eDJQQm5PaFpoLXBwUk9nN0FMOTUtUDNJRGstS1dXRGJqa3ZmSjItUlVxVGZOUHBDeXlJanpkUnNfWVBvaWR2UVlGbnhoWGJKMUItMVlSQnJtY0RTVlFvbFU5T25IWDFoTjZqYWVNTg?oc=5).
 
 ## Requirements
 - Python 3.8
