@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eli Lilly Crushes Views As Zepbound, Mourjaro Sales Boom**
+**Zero calorie sweetener linked to blood clots and risk of heart disease, study finds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPelhGQVNuYmFPbWtQc25RZjF2V2dUUDVnMUthOFpYZ2Utd09QWDdwaWt2amR5MDhTdFJGUTMxdjJMUG11cTBoQXN2Zmlrc1cxTUdJT25SVHN6NUdWdWJ6M1RycS1RRkduMWpoeVhiUGZnNlFpYTByanJiZ2Jxc25EaU5oUFVxdUZjRm0xOGFR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGFnRVFPN3BGalpqeEMtVEpKQzR0R2VyaVo2RkZJakpMajdQc0YzalhwWXRKSU1oZElTOUdaeFdycjRrMmVNUkd6OGtnUU84REwtbnh4VFZqQzdnNzR3U0NDQ0hXbEs2dEdCekVydHA1Z1hndkhKdHROU3RRUERXNDBrc1Itamc3cERj0gGCAUFVX3lxTFBHb0E3elYyenZXOUVNckF3RzdBVkVaZ0R6bzNmQnlndGV0TDFCY1pSOVJCNzJ2VTFZZVRIZ0Jwc2wyVDVKdm5LTmZJXzlBX1Vva0EyWEZ3MGNWYUQ2OXJxNDVlaS1CR1ZnRWNiSzlYekpZa3FYbUZRYWxuRlRtR2hCc2c?oc=5).
 
 ## Requirements
 - Python 3.8
