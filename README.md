@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market News, Aug. 7, 2024: S&P 500 Drops With Investors on Edge After Global Selloff**
+**PM Update: Spotty downpours through tonight, and more rain likely Thursday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUY4VmlYMFlBcDhQU1UyVTlkckFRTnVENXdKbThhMG41WHR2cmZRajItRFhEWDJBYVFwZEVqNG1mS0UwdVhGaENUdmt3ZFpWUXQyMzRxZ0NKdWpydHI3RHNVOG01Tk9xc2E4ZllBeGUtdFlDUW52bmxNcU1ReDNoTGpjM3BRY1NHNFdPWA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMkVSYTZEWjZHN1RtV2J1MFcyX2JSYkFWSHFsSEpwejMyamRMVVNJWFcyZFVXRjNLZFM2NlJ3SjBEQWkyYTRGQmxMRVRwWTRNZGhIdlFlcFVrMjh3RFhCWFNDU0NoMTJmN1BqNzRMam50aXJucE14SmdMc0tSdEVmRTZZN3k5R1lUUHlBT0tsVQ?oc=5).
 
 ## Requirements
 - Python 3.8
