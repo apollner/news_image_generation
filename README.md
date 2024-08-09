@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew of Titan sub knew they were going to die before implosion, according to more than $50M lawsuit**
+**New Boeing CEO seeks to restore trust, meet factory workers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWNHZE5VUjNrSlc2bE93TWw4ZEV1ZndqdVNRX2UzTGZKY2d5anc2ZE55U3pSMWlaMVlwZ2FNU2xMVWlwa2ttbkhvVTBGR1RoRktmaVpvSGNwVFR5QjA5SmNwNGFjc0RSWllnNWI1QzRXTDAzclJrQ3FtU1VlRTFUaGd0dThZYnfSAX5BVV95cUxPWXJGWEM4R2lmZkp1dkpYU1BXR1dIOTVnSTJaRjBPQ0tzeG10TUllcnJfQnkzNE1scUZBbHg5SUdlQ0xsOEhUTEZhMGRoWFU3dk1sQ2lIam9DbUVtcnFpbWFGdUVqR2ZJNjgzeEQ4cHBMbGhZTWN1N1F4Zms3WVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFJrM0FMalc0VGpBeUFDR2xTaVdaSzZXaGI3VUFFeXZ2ZmZzOThkVHV1d2wzY2NweHl2Q2JWQ3gtUVYwUEZPS01zM1BVUHI3ekttd05uWnBXa2xucW9OMEplS0E5SkdCWEhIcXA2ZHdkeUp3M0MwTEZCdzRhckFNM2VBVWwydnlMYUUzZUtoUW9mSGVuTXl1dTNrLW5vVkNNM2t2c2s3Zm5IRWhjVThJSTdBbWVJTV95SXpZ?oc=5).
 
 ## Requirements
 - Python 3.8
