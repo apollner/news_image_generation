@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**White Sox manager candidates: Ozzie Guillén, Grady Sizemore and more possible Pedro Grifol replacements**
+**Crew of Titan sub knew they were going to die before implosion, according to more than $50M lawsuit**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRldFdkYxdzB4STYxR1BlWUE0WlE1ajNDb25fNG5ZMWVEaTlMVUJRcEd6VlhJTlBva0ZVSUl2M2gydU90c05Wb1ZkdkgwY0RRMmZnUWJtYTN3dlQta3I0cFRzZ3B2NUNmUkstUlJsX0RjSHZac1pCUTl6cVVMMm4tVlpDWFlVOHF4X0FsRVNMbkZTQ2RmR0J2Tm9uT0trR05VVFhMTkdCMDNlWmRKZ0NQNDcwb0s1eGRYaHpTbFFMaFpwY1k3U3BvUlFPdlNtck9kaFd30gHYAUFVX3lxTFBBclp3cWZNdWg0a20wNHlja0l0eWJSNFRXdGl0ZFJiVGVEcVF0ZWpqMUoxbFBJSnQ3VEFSbF96dGFEVTBBYXZQeHFnbGZhRVVLOXVIT1hKa1FiS1NyZUVEWkJsbXFUSUxnanNSYWFyNWttMHNBRGZudGZ3RG9lQ1dFOEt1dzg1OXlXdDJmUndIRFBYZkZzdlg1N0UyNkZZbjFzYTRUSHpod05EOS1UemZtOTlNektVbDZsd3hCSlIzOEpfcTE3RUlZWnhHRlVJVlNkb3lpSWdFeA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOOWNHZE5VUjNrSlc2bE93TWw4ZEV1ZndqdVNRX2UzTGZKY2d5anc2ZE55U3pSMWlaMVlwZ2FNU2xMVWlwa2ttbkhvVTBGR1RoRktmaVpvSGNwVFR5QjA5SmNwNGFjc0RSWllnNWI1QzRXTDAzclJrQ3FtU1VlRTFUaGd0dThZYnfSAX5BVV95cUxPWXJGWEM4R2lmZkp1dkpYU1BXR1dIOTVnSTJaRjBPQ0tzeG10TUllcnJfQnkzNE1scUZBbHg5SUdlQ0xsOEhUTEZhMGRoWFU3dk1sQ2lIam9DbUVtcnFpbWFGdUVqR2ZJNjgzeEQ4cHBMbGhZTWN1N1F4Zms3WVE?oc=5).
 
 ## Requirements
 - Python 3.8
