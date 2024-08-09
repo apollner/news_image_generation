@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 Pro and Pixel 9 Pro XL prices for the US leak - GSMArena.com news**
+**Nelly Arrested in St. Louis, Lawyer Says Rapper Targeted by ‘Overzealous’ Officer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQalVxTTZhbkNXMVlubU1uY0V5ckxBUWhQSDNidlgxS1BfSy0tcnFMRlJrZ1FxenJ4a3pzTUI4S2hFUVRpUDNwMDNZMW1mNEJqMWVWZ05ESElhOFBZWkZfNGZPS1UxSlZrLVJXdkhzUE5fQ2ZvN010LU5IY0pnaGFZbHJQMWNESHg3ZDR3b2NRaUdLM0ZHRnFsS1VBVEt4dFNadHfSAZ4BQVVfeXFMTnB2MW0tUU9Ia1NGbnoxS0czaHg0LU9oWFlPMkZpWUpWdVk4Mno0M0gtcFc5VFowU2dZUnh5QnFramJ2Q2x5VUYtb0R6UHNpYjR0M0NVbUQxQmZScTdSc05iY0lOSjA0dVdnMlJ1YUlCYmNhZkJmU2kwOEhQZVNGY29aaXFxVDlSTlFYTFdYaU5wMi1pekQ3VzNaUzZONFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPTGtiMmxSZktodlM5YVFRUS1LRS1wNVZMTGM5WkZRMlotY1lka2hKTjNfa0FyMnh4LVQ5SjVNWnUyNEFaR2lLdXlNUFJfVjAxdFRkZmFlOGFwQlBNMHhSTmNWNDZ2MUdJMkIxcVFXUGp6OUQtaEFVb2p1WGhPMTh4Q0xzbW9CbGdEMGpCTUNIbk9tRFRhdHdOeDRzS3poN2kydjliNHRaSW9TeWY5bmlIandBRQ?oc=5).
 
 ## Requirements
 - Python 3.8
