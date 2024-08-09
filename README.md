@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New body cam video shows moment police officer saw Trump shooter just before assassination attempt**
+**Russia says it halted a Ukrainian incursion into its territory. Evidence suggests it hasn’t**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOVGFZX0R2Qy1BYlY4UHBMSWxqclBqSDZfdXVGeWtEejIwM2lLVmhqYWc0dTF3dEN5T1I3MXNZaFk4dlRVVVZ5d3BGUFM0am50dlc5dDRLVVhwdjR1UFZqWWUtMFVueEZqVnNQSDF1R2dKVTFfZlVGNmF4T1ByS1VYY0I2WFFwUXhwbjFhZmpwQ2_SAYcBQVVfeXFMTUg3THktVVNvT09wR0NGVlBOWmlVUXNhOHJyR2dfUk90QWtYQnRpdkxTQTl0Y09RUW82bVNUR0VMMFhlZlVwNDZ0b1hBVU42dW9tQURad2ZJdmJOLXRHR3A2bENMME5tQS14anVkeTh6dkJTc3BZMUdGQUV0WS1GV1pielFxdE5N?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3BXMTJpcW9CejJjQ1p3NXdTSE5ZM2xwMWRpWTdrbjNmd1FXeWZ6LXFUVmx3NG1HaTFQUlJZbDA5ZzJYek93ZDFzN3ZabjZKNHNEb0RKbmlWcG1OaVZXNTBJVUp1YkZnVmhSRXd2UXk0a2VZQXZyVW9PcnZsTENYQUpDSkZ6bUHSAX5BVV95cUxQYl9xajZoSGlWNk5SM0RURFhrb1NMcHIzaFBsVk1GRmZsZFJNWkg3MnJMZW9RbkJuWF9iQ3RUSnRMTWdEMVg3RzdGckk3NHJzTHM5RDBWQ04xaFZJUWJnTGlEVFJ1c2FYa3UyX1VRVkRMNkRCRl9RTTlRZzluZ3c?oc=5).
 
 ## Requirements
 - Python 3.8
