@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Depression Debby to rapidly accelerate into the Northeast, threatening to unleash flooding and tornadoes**
+**Taylor Swift Fans Making The Most Of Vienna After Concert Cancellations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3I3SWpUN1Z0dFNjYUZhNS1xNlAtdXlJeWdLZnRJQ2REU09rblZjZWRCMTJfcWUzUG5PT1NqWjlITDRCQ19iOWVVdEthcU1Kcng1dENkdHpmaTltMU9WWmJVRWh4cFh3SzA3bEE4NVE2NXU4OElBZUlqeVJNcl9tazd5YnpzeFpobEZhVjBIN1NJSXFnOVHSAYwBQVVfeXFMTUlRZWJyWFNiNF9CZWMtUFdRZHdtY09hZzQ5bUVHclRfUDhOd2g2TXY5eXVRSklfNllJVGFkQW03UmF6b0tCNi05TXp2aFhLOV9OcDVUc1JiOVo2blV4bGJoTXZJRy10S29Zdzc4YUVhVzFMNmpiWERXVzU5dkZ1RHpzY1l5c051ZmNUM1o?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXMxMXBPRHdYUl9rUS1lZDBqRnNnOHg2VGZtMXVtdUtEVVBpcjRScTBLdWZxSl9fVGYwUjBWWGFzTmhhN25IdFhmUWQyZ1VEODVBVHp1UjRwNzZWdzcyR3JhZzdRVzdpTjlUMThENy1xcjFNZExXaWx1dXNrZHgzRFVFcGVCZVk?oc=5).
 
 ## Requirements
 - Python 3.8
