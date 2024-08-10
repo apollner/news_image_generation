@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Interim leader Muhammad Yunus takes the helm in Bangladesh, to seek peace and prepare elections**
+**Delta Airlines laces into CrowdStrike, says it lost $500m**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVVeEpXWXlqT0VvVEhKRmoySnJZejN4dFQ4cUdkem91dTdHeU11Z2k4MUpJeUM5X0ZUZVJpd2RpTWllb1JHUXEwM3lCcDhrcTY2c293VXpIOC1DUzNOVmh4WHd3dHlxR05waHpYc09YWVNiYUN0b0ZONGphU0hmLURBQUZLZTk1WGdMSUxoRkNnMFhHUTQ0Q2Z2YURYdk9Ecmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wSEdNR2hDTVhnXzNSZ1Z4TkZOWjlSYXNFS2kxd25pTHdTd2FSTVl4VkF2OVd4c1lzVDdLU3lmZmFEajFWS0xucVJLdW9kZkl0eWNZRlh1OWNMd9IBX0FVX3lxTE00WHg2NktmRXdGZ25yOHA2VEg4bFRTMnZmNlNIeUNTYmdPUjl2Z0ZCcnBrUHZzYXdJQUl3RW5ucmdCMDRwSHI2aEh4ZG9GbUVUN1hDSGpoNjRrZVpxM21v?oc=5).
 
 ## Requirements
 - Python 3.8
