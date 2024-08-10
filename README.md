@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Extend Rebound as US Recession Worries Ebb: Markets Wrap**
+**Tropical Depression Debby to rapidly accelerate into the Northeast, threatening to unleash flooding and tornadoes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTk2el8tendFREtWbGtCMkZrYkx5WW1tR2JERVlSNnNBZFFucDZTeWpVRjU1VmFHRnI4RGtPSXJqUm5lOVBBSjJ3OEJFNS1UeUhtR1NIMjNfSkx5YUFmLWZYb3dRT1AzY0x1bklSZEhZYkZMLWk4YmJKZDJWd3MzejBn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3I3SWpUN1Z0dFNjYUZhNS1xNlAtdXlJeWdLZnRJQ2REU09rblZjZWRCMTJfcWUzUG5PT1NqWjlITDRCQ19iOWVVdEthcU1Kcng1dENkdHpmaTltMU9WWmJVRWh4cFh3SzA3bEE4NVE2NXU4OElBZUlqeVJNcl9tazd5YnpzeFpobEZhVjBIN1NJSXFnOVHSAYwBQVVfeXFMTUlRZWJyWFNiNF9CZWMtUFdRZHdtY09hZzQ5bUVHclRfUDhOd2g2TXY5eXVRSklfNllJVGFkQW03UmF6b0tCNi05TXp2aFhLOV9OcDVUc1JiOVo2blV4bGJoTXZJRy10S29Zdzc4YUVhVzFMNmpiWERXVzU5dkZ1RHpzY1l5c051ZmNUM1o?oc=5).
 
 ## Requirements
 - Python 3.8
