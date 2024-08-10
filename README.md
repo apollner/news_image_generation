@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Fans Making The Most Of Vienna After Concert Cancellations**
+**Russia declares a federal emergency in a border region that is under attack from Ukrainian forces**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXMxMXBPRHdYUl9rUS1lZDBqRnNnOHg2VGZtMXVtdUtEVVBpcjRScTBLdWZxSl9fVGYwUjBWWGFzTmhhN25IdFhmUWQyZ1VEODVBVHp1UjRwNzZWdzcyR3JhZzdRVzdpTjlUMThENy1xcjFNZExXaWx1dXNrZHgzRFVFcGVCZVk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0FmNkNWZGNCbkNlYjlyWWpuX2JCMkpmT1ZzS3BRQTdqYk9KWmFDTi1EdHhsbmtJV29uVXphM3JfZFVUdGJ2ZVVpTnZwOElSWGNqclRnYjdZU1YyYmljZko0ME02ZEhvbnAtZk56a2FuSFpONjVsOGVXZ0wyVXdHd2U5ZXdVVElBS1lSUWFOS1RjbFNTNEhlWlhB?oc=5).
 
 ## Requirements
 - Python 3.8
