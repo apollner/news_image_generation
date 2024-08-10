@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce’s dad has scathing reaction to Kanye West’s ‘Vultures 2’ lyric about Taylor Swift and son**
+**Russia struggles to repel Ukraine's deep Kursk incursion**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWs0R0pNSzNOV1R6eWZibFdtcmtSZ1N6Vk14dmUtTnZ4ejJ4bmFkWjZKaTdmaVVJQnNHbWhfaVBwLUI4ZThabTlzLTFOQkN6V2k3ZlFfR1Q2X003eGRMMFFTSW1yeS0wbXVwVHRJMjhGd0hKUUFZenRWM0RHUlhWWlJNX1M3NmVZTnlsX3hCNzZiUzlXZFBfNEFPNkIyVVUxNl9hN2MyNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jMGJ2c0VOME9FeUs5cGM1UjVmcUdabVN6SXExQW80WTc1TVpRdEFWcldjT3VqbzYxVERJN3ZrZHRHT3VJa1ZteVRNcDBhWUQyLUhBQkYtNGR3Zw?oc=5).
 
 ## Requirements
 - Python 3.8
