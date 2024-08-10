@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: US to lift ban on offensive weapons sales to Saudi Arabia, sources say**
+**Man who violently fought cops gets 2nd longest Jan. 6 sentence: 20 years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxQSFJJaTI2SmtZSmp6T2JTdUlrb1JGbnl0OVhNcFl1eE9jeHZJb1pqcXhlVlNUY2R1OTQteGZOdUM0c0JoQUlhWW9FeWJQS1p2bmNRNzZ3NUZ1SUhsa1U4aVY0VWRiZl9ZU0Y4REFjenJscmVBMGdnRzFScS1USGdyMGg3TGlkVjBnSUZYaThPcTg1NGJBeVRfdVAxT0stV2dDVXpFdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxONzlhLUprY0ZIa3BZRVJ3LUdaN3NfNjhDVElneVEwajU5bE9MYjRKZGZvX2RnMjd2LTZGMmxiT3NDS216ZW1HZEc3cTlucEV5M1FJeERmN2J6QldjTDZqWGxnNGs3UHAxckRiVGlCUjQ4Z1Jrd0EtYUhrQjJPN1l6WXBEeUpMNm9Fd1E?oc=5).
 
 ## Requirements
 - Python 3.8
