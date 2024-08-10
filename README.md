@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to Expect New M4 MacBook Air, Mac Studio, and Mac Pro Models**
+**A decade after Mike Brown’s death, his family still calls for justice as progress toward ending police killings remains slow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVdGTHQyYmp5aWV6SWlOMkNxZVVDMFNHblE5aXp2OUdlLUZZSWd4d2prbzUxaUtldXlWaUM0bTFKbGRWM24xRXpGNElqMno3cDhFLVVQQ0hxc1dvdjR1dGtuSkdnMWdNN0VjYzk0UDRsVURQVnRfUXR6QzRLeC1EYUsxNXBlUmlISzFhV1IyYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeU1odlF1X3hIRVBTZm1ta2xnalJub2k3Rm1RbzNHbTFBUy1yOUlpdnRMYU05UEFpam5iX3pYaXU4aGNKd2lnLTVJN0ZMNDA4am1OTGhYYi1fRUtFN0lSX3JRdE0wN2ZJN3FyVU02dzQwdnhvSzNqa1VNSmRLLUxfVnl30gF4QVVfeXFMTkZiRHVoUlozN19BRF9MZUNhZkpqY2ZOSmJoS0oxamZqSkNtbURYY0RxWTV6WVEwY1lUTmotTGtBYnM5Z1NEOGZIUklCbUZLdGg0RDdnNExrRlU0dDZscHg1TUJwX19sZnNLVC1JVTlBQnJyU3ZyRFVY?oc=5).
 
 ## Requirements
 - Python 3.8
