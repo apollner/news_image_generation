@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA shuts down NEOWISE asteroid hunter after almost 15 years in space**
+**Layoffs coming to Stellantis Warren plant as Ram 1500 Classic production ends**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE8td1hmNHRkeURhUXpDd2ozTXAzbXZPYXZ3b0l3RlI2RlNrazZmMHN5bEdVYUUyZkd0NEMxeFp4dFlCTTM3UzZ1OUhlY3NrLWdPVzU5Z3FxUFUxZGZZMy1DWFNaQTBzQ0pRMTM4TnZBalFNQ0w4MHl6UTFBRjlGdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemJxdUNZdGlmS1ljTWJkbHpmWXZsVXM4dVhlc255QUJKOUw3QlNwVWU3TVhkTlBfQjR3S2k4S3Jvbm92c3FlREpKSXpHTjFQUEZzczNKR3hKc0RFY2FKeHgwcGRhVlBVLUk1ci1selBrN3pYZUlYQjZQZVhOVjdRNWZEQ0M1UnhlNDFYN1lqaGlVUFp2eE95ak5yTlpxZzVteDV4dWcwbmxWMWVLYm44dVB3WFZ3eUhQMm81Y0QwZE9DQzEzT21hbkduQWlqd29YTW1wYzItMA?oc=5).
 
 ## Requirements
 - Python 3.8
