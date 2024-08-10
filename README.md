@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Furious battles are underway’: Kursk residents call on Putin for help after Ukrainian incursion**
+**U.S., Egypt and Qatar call for "urgent talks" next week to reach Israel-Hamas cease-fire deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOU3BXMTJpcW9CejJjQ1p3NXdTSE5ZM2xwMWRpWTdrbjNmd1FXeWZ6LXFUVmx3NG1HaTFQUlJZbDA5ZzJYek93ZDFzN3ZabjZKNHNEb0RKbmlWcG1OaVZXNTBJVUp1YkZnVmhSRXd2UXk0a2VZQXZyVW9PcnZsTENYQUpDSkZ6bUHSAX5BVV95cUxQYl9xajZoSGlWNk5SM0RURFhrb1NMcHIzaFBsVk1GRmZsZFJNWkg3MnJMZW9RbkJuWF9iQ3RUSnRMTWdEMVg3RzdGckk3NHJzTHM5RDBWQ04xaFZJUWJnTGlEVFJ1c2FYa3UyX1VRVkRMNkRCRl9RTTlRZzluZ3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjlnOUlVZm5YMl9IaS1iRko3UkY4dDE0bUdJaWhXMzh2NFZ6R2hRc1VKSTBNMGowSWNPbXpTZTBTUVdqaHpRN2VQTDE4eTVLTC13MzczR3lRc2NKWkFuQ29KWWdjUnlRc0NOeFMxWkszeC1tQnpLUnFCUDI2UlZKMk1xTTdaZE9DOEEwVzJ3TkctYm82T3dTSFNLYWR0elHSAaQBQVVfeXFMTmxmYjhYRXRNdVRxanc3bkw5Wm5HV1JLUHhScW1DbTNiZ0duWXhnSDgzc2FHUEtCTDItUVZzZWNnVG5UTE4tSDVCX2ZGQXVwajdjTjY2U1JTdkdpMGlwQ0Q1WGJUTEFFUkdaQmtma2ZtazFOR1dOUUhKNFM3Ml9yekMxNWlFTkpwQTlYaDZkMTU3LVhvQy1sOUpMS3BoMy1BUk1MY28?oc=5).
 
 ## Requirements
 - Python 3.8
