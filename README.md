@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to Expect New M4 MacBook Air, Mac Studio, and Mac Pro Models**
+**Olympic boxer Imane Khelif beat her opponent. Then she got ‘transvestigated.’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVdGTHQyYmp5aWV6SWlOMkNxZVVDMFNHblE5aXp2OUdlLUZZSWd4d2prbzUxaUtldXlWaUM0bTFKbGRWM24xRXpGNElqMno3cDhFLVVQQ0hxc1dvdjR1dGtuSkdnMWdNN0VjYzk0UDRsVURQVnRfUXR6QzRLeC1EYUsxNXBlUmlISzFhV1IyYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFqcWQ5NXlpUjFQQldxWjNYckFmbTd2YTZYbExTOXFGaGI2VzUtZnV2dzRnSktyU0ZLYlktQWNjNnJxbnJzb2RNckptalZmZHVvdm5ONHdjWEYwejJrNFIycEtsWVVkS3JpZ0xfUE94WnFUaWhoeFVoMzA3Y2pZdVJUemJKc2pYUkJ1VDlMUEZCakVyLVVvWF9FSVpyN0U3WlkwbFNqc2R2UzNKaE5UcFFjT2poZw?oc=5).
 
 ## Requirements
 - Python 3.8
