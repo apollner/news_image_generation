@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Fans Making The Most Of Vienna After Concert Cancellations**
+**New bodycam footage shows police response to Trump rally shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXMxMXBPRHdYUl9rUS1lZDBqRnNnOHg2VGZtMXVtdUtEVVBpcjRScTBLdWZxSl9fVGYwUjBWWGFzTmhhN25IdFhmUWQyZ1VEODVBVHp1UjRwNzZWdzcyR3JhZzdRVzdpTjlUMThENy1xcjFNZExXaWx1dXNrZHgzRFVFcGVCZVk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XLTQ0aVRhMjJ5d0phTVdKR1ZjYnFvcUtZQWYyRnp3ck4wRFkyRkxJSUhoLWdhM2RwcnRtM3ZyUGxVUFF4Wkl1VEhlTzJKQllPWjhpRl90eVUwUdIBX0FVX3lxTE5XZ2dRWnlwSmZieHo5aHdNeFFoc3F1cHpJdWUwcUw3d2ZEUTR2b3RETm9scVB0NDVpd1BEQTBxd3dkT0lBT2NGOFE3U2xiYWEzQTlJX3gxVzJjOVJVWmxF?oc=5).
 
 ## Requirements
 - Python 3.8
