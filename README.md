@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pregnant Cardi B Shares New Details of Accident, Reveals She Couldn't Move for Days After Tearing Ligament**
+**Special Counsel requests delay in response to scheduling order in Trump Jan. 6 case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUHhwa1FPLTRvSU1MZjB6Y1JZQmRfX0twMk1PeDlqcklIbGs4ZlM3MW8zN09hclJxSFRrT3Vud1dWSnR6eE1WUnVVZFA2bG1NMzdTS0pSdGFvT0FaOXo5M2FORWJQcXFBNVdRRm5weWpVUXhOZzZiTElmcFpnbmIxN1l4UXV6YUl4VjRMTEdyQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanR4TXl5R2haUXJqOUhzUVJsZEh0Y211VXlCV1B3dmtkcWJuQUtFNVVaeGpUdFpFaENLcW5NUWFNRHdoWE5rRmdOaV9rVDZGbEpKWVAyYVRXcnI0cWItVEJRTi1kVmRJRFZUR1RNZDk3RWM3eGRFRnprSnBocW1KTm5yVEN5bjU3bUJqM1FmR1YxSFJqMGFCXzRxMllKMzlncUVNOTV2ZVVsd1HSAbABQVVfeXFMT3Y2a3pCVV9heHp6MkRTdTVESXFYeWtHbXBlbW1meEh5dFdmRkVFNmJ0ZF9iczI0T3lJNl9YbVQ4OEpxT0Y3UjlCVnJWZ285Z0xiUFJ4ZmswTmlBb1JfVEw1SDRtd1R0R3FkVVpGUXUyLUh5REFTTnZWemFfV0J0d3p4ZE9qQnR3MWpfWTZXcXNPNnI1aExCaThKQW51aVVKWktXbF9qYjU3SERqWVEzNlU?oc=5).
 
 ## Requirements
 - Python 3.8
