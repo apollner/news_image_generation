@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Updated Northern Lights Forecast: Greater Chance To See Aurora Borealis Tonight**
+**Trump Suggests That President Should Have a ‘Say’ in Interest Rates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlpOdkc0d0tmTXZJM3FNazc4cENsOEItdElJc1g3aklLMC1uN042Q1Yzd3RFdkViRk4ybkRfaS1fZldtdkRfZ2R2WUh0dUhMcXpQVXRubU5WMUtkNTBHZVlWUFJxcFE1RFBTQ09yaGp6V002dzgyRTBuYzVfRFVjd3BzcUxmZVNQRkpMRnB3b1BtVkxyREdEVFhrS0VfTFljOXpxU1UtTkd6ZHc3c1hXYnpkZnJXdUd6RGd3QTJVQllXckNhWjQxdnNhR2lNekU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV2hiR1VSTjBwQVJoQXdoZG5zNzJIeDBFcGhjOU5BNVZNSXhUUklhRkJHVXlqMUNWMmJ2ZU9jY0RBNlE2Nk1BN0RfNExHay0zQnVzWGdKQ0FqRXRLbFFRbmdIZUhzQUhQbDJoVlFxQzF3QlR1Y2hhMHpRYkxabXpMUGJGQU1VMGJx?oc=5).
 
 ## Requirements
 - Python 3.8
