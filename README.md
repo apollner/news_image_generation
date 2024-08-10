@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Extend Rebound as US Recession Worries Ebb: Markets Wrap**
+**Newsom to local officials: Clear homeless encampments or else**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQTTk2el8tendFREtWbGtCMkZrYkx5WW1tR2JERVlSNnNBZFFucDZTeWpVRjU1VmFHRnI4RGtPSXJqUm5lOVBBSjJ3OEJFNS1UeUhtR1NIMjNfSkx5YUFmLWZYb3dRT1AzY0x1bklSZEhZYkZMLWk4YmJKZDJWd3MzejBn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2xQN0ttOVhFQUwxRy1XSnJkQWM4TXVvU0xzQWVhUjl4bUZRV2FFR1c5eGtYd1RyUmpIMzFvdlpGMzVxWTRZZTl3YmMxb2dxWjUyMVRpanpVcnBPbG9taG5wZ0I2cUt0TVY2UHp4RGZYNWtPOVpMNnpxeG9QcS01a09vR2M2UXRrQ29vcmRqVi1nbmxqeXBKTVN3?oc=5).
 
 ## Requirements
 - Python 3.8
