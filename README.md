@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olympic boxer Imane Khelif beat her opponent. Then she got ‘transvestigated.’**
+**Debby threatens nearly the entire eastern seaboard with flooding and tornadoes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNWDFqcWQ5NXlpUjFQQldxWjNYckFmbTd2YTZYbExTOXFGaGI2VzUtZnV2dzRnSktyU0ZLYlktQWNjNnJxbnJzb2RNckptalZmZHVvdm5ONHdjWEYwejJrNFIycEtsWVVkS3JpZ0xfUE94WnFUaWhoeFVoMzA3Y2pZdVJUemJKc2pYUkJ1VDlMUEZCakVyLVVvWF9FSVpyN0U3WlkwbFNqc2R2UzNKaE5UcFFjT2poZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3I3SWpUN1Z0dFNjYUZhNS1xNlAtdXlJeWdLZnRJQ2REU09rblZjZWRCMTJfcWUzUG5PT1NqWjlITDRCQ19iOWVVdEthcU1Kcng1dENkdHpmaTltMU9WWmJVRWh4cFh3SzA3bEE4NVE2NXU4OElBZUlqeVJNcl9tazd5YnpzeFpobEZhVjBIN1NJSXFnOVHSAYwBQVVfeXFMTUlRZWJyWFNiNF9CZWMtUFdRZHdtY09hZzQ5bUVHclRfUDhOd2g2TXY5eXVRSklfNllJVGFkQW03UmF6b0tCNi05TXp2aFhLOV9OcDVUc1JiOVo2blV4bGJoTXZJRy10S29Zdzc4YUVhVzFMNmpiWERXVzU5dkZ1RHpzY1l5c051ZmNUM1o?oc=5).
 
 ## Requirements
 - Python 3.8
