@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newsom to local officials: Clear homeless encampments or else**
+**Noah Lyles reveals covid diagnosis after winning bronze in 200 meters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2xQN0ttOVhFQUwxRy1XSnJkQWM4TXVvU0xzQWVhUjl4bUZRV2FFR1c5eGtYd1RyUmpIMzFvdlpGMzVxWTRZZTl3YmMxb2dxWjUyMVRpanpVcnBPbG9taG5wZ0I2cUt0TVY2UHp4RGZYNWtPOVpMNnpxeG9QcS01a09vR2M2UXRrQ29vcmRqVi1nbmxqeXBKTVN3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPelZ6MXdKQnFBbXJzTXZhRlhvcVNtaUFrQlhVb19CUG1PMkhRdzFrSHp2SXczRTg1eGlCMFZYQktlM1ZwcEVjeC03aE9BLUloOXJaUklQcTFnUFF4S3VKNmxpb0hsZG5BY2hfa29TQnBiSzFNOE9jZDQxcjdHaE9fN0pvY09HdTllN05HZUhUcGcydw?oc=5).
 
 ## Requirements
 - Python 3.8
