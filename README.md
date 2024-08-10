@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S., Egypt and Qatar call for "urgent talks" next week to reach Israel-Hamas cease-fire deal**
+**Pregnant Cardi B Shares New Details of Accident, Reveals She Couldn't Move for Days After Tearing Ligament**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPdjlnOUlVZm5YMl9IaS1iRko3UkY4dDE0bUdJaWhXMzh2NFZ6R2hRc1VKSTBNMGowSWNPbXpTZTBTUVdqaHpRN2VQTDE4eTVLTC13MzczR3lRc2NKWkFuQ29KWWdjUnlRc0NOeFMxWkszeC1tQnpLUnFCUDI2UlZKMk1xTTdaZE9DOEEwVzJ3TkctYm82T3dTSFNLYWR0elHSAaQBQVVfeXFMTmxmYjhYRXRNdVRxanc3bkw5Wm5HV1JLUHhScW1DbTNiZ0duWXhnSDgzc2FHUEtCTDItUVZzZWNnVG5UTE4tSDVCX2ZGQXVwajdjTjY2U1JTdkdpMGlwQ0Q1WGJUTEFFUkdaQmtma2ZtazFOR1dOUUhKNFM3Ml9yekMxNWlFTkpwQTlYaDZkMTU3LVhvQy1sOUpMS3BoMy1BUk1MY28?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOUHhwa1FPLTRvSU1MZjB6Y1JZQmRfX0twMk1PeDlqcklIbGs4ZlM3MW8zN09hclJxSFRrT3Vud1dWSnR6eE1WUnVVZFA2bG1NMzdTS0pSdGFvT0FaOXo5M2FORWJQcXFBNVdRRm5weWpVUXhOZzZiTElmcFpnbmIxN1l4UXV6YUl4VjRMTEdyQQ?oc=5).
 
 ## Requirements
 - Python 3.8
