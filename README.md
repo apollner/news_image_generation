@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blasting 'glitter' into Mars' atmosphere could make it more habitable, say scientists**
+**When to Expect New M4 MacBook Air, Mac Studio, and Mac Pro Models**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVpCY29ZbGZYWU9temo0RlUwWHZ2WEhlVkVmNzVMdDVFNUY0NThjcjBOcXpKdnh0ZURRVEVnb0FvOFdXOVozVWNVbFdTaXB2VFd2b1FCTm5LV2QyaTI5SUJGMzItNkVTOC1tbWVUengxOGp0b2V3eFhUek45ZC1SaURmd0NnUmpmazYtbW1JcWVmUS1vTGZnem81dnlBRXY5LWNlTkhrcGVZRG5EVVo4UUNsdE5SMjNQ0gG-AUFVX3lxTE94blZJM3NPNEhESXNVYWlyY2Y5eTY5Wm8walZhMHk1dFNrTXR4WlB5TnVIbEtBWWNqMmZLMTZaSk9NOWNhNjJtNFJVSEtOZzhpSFVrN3ZuS2pXUklfOGxITGdpUmRZaXc0QnpEWU5RX0dKdkl2SG5hVGVRVmRrbDVvV0VDMGNaNlZHY2E4N0xyOHZaQzNnMk4zR2VoUDNUdmM3Tm9FWUdDeTJIaHlqY1pWWXZLeVgwR0RXZkVlNWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVdGTHQyYmp5aWV6SWlOMkNxZVVDMFNHblE5aXp2OUdlLUZZSWd4d2prbzUxaUtldXlWaUM0bTFKbGRWM24xRXpGNElqMno3cDhFLVVQQ0hxc1dvdjR1dGtuSkdnMWdNN0VjYzk0UDRsVURQVnRfUXR6QzRLeC1EYUsxNXBlUmlISzFhV1IyYw?oc=5).
 
 ## Requirements
 - Python 3.8
