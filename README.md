@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Seen Rejecting Calls for Jumbo Rate Cut in Economist Survey**
+**The Pulse: Unforgettable Olympic hoops moment**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmNXOHRqWVNobF81c05wakxJc1pqTnNkU3BtSGlfY3JOVlNIbG9hX3RFb0NYR2VyTUVrdGJSMkZGV0VoajVTQ3JqNjNpMzE4dE1yQVlZcWhZbEItQjZMMFlmc3AzWGVMZmdPb21zN3YxdVowYTVmdTNaSWFkUjU1Yk94eWRzQldyTE82Y0xXV1FhR2pNRkJOQ1VIRk1EMXRrTGVpcmNaSXNBN1VEaXJZcDMtSTc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVl0MWdhZnZoSlNONFVpOFZDVDA5QVNHWHZBLW9yd1djdEhGSG9nS0t1X01lODZrQTBwRGZrdnNkR081RWJuZXU2cUFVN2h4MjMzcnFwVUhoUFU2cFgxekY3cUt2dkJUeWpuVlRpRnpHaEhMTTRWbndwLWFJeXNEcmJfVGo2U1NXaG5IeHlmOGN1bmNMaFNVTXJzQk5HMWNJTm55NTFVU1V5aUNjNk1OV0tqX0o1S0E?oc=5).
 
 ## Requirements
 - Python 3.8
