@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry was ready to ‘meet the moment’ at Olympics in a way we’ve never seen - The Athletic**
+**It Ends With Us: The controversial blockbuster author portraying domestic abuse**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZHZSTVYzYXlCbkl0dVdYNzV4VklSWHdHYXViN1B3ZGdwZ1RLdXAtQXBYQ1NkWXVCWkRJTUI3THVwMmVjVnFlUHRpYmZvQThKSWhqbGMzNjlFWnRmbWdNZmphenpNWlFYV1AxWkRWdVpOemgtUmJhQ0loNUFXdmhzRjdvX3N1UUdTV0pnUGhiM1FrdzRFb3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVVOVjhvbnB0dEN3Qzkyb3ZqMDM0SWdYQVoyYUU1ZjhFTFIzbVloclB2bm5hVWRLYkRMd3FwQ2JfajNlRzAzZzhpSDlsRnpSVXRFMzVhSTFjVnExN0lzRzFFaFBpYTNhTkU2ZUoya0pNemRrNDZsMlJIVFhoRmZabTRneVROMmdyQXdnRHZLMndWZWxIVloxeHZ5ZWxqa1duaTc4NzBiaWxTRi16NGZEbkhsWDdBMFRiNEJ5SldrLTRPZWNfUE1iT0JpZ0ltRU15TmtlVw?oc=5).
 
 ## Requirements
 - Python 3.8
