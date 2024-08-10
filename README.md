@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It Ends With Us: The controversial blockbuster author portraying domestic abuse**
+**Fed Seen Rejecting Calls for Jumbo Rate Cut in Economist Survey**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUVVOVjhvbnB0dEN3Qzkyb3ZqMDM0SWdYQVoyYUU1ZjhFTFIzbVloclB2bm5hVWRLYkRMd3FwQ2JfajNlRzAzZzhpSDlsRnpSVXRFMzVhSTFjVnExN0lzRzFFaFBpYTNhTkU2ZUoya0pNemRrNDZsMlJIVFhoRmZabTRneVROMmdyQXdnRHZLMndWZWxIVloxeHZ5ZWxqa1duaTc4NzBiaWxTRi16NGZEbkhsWDdBMFRiNEJ5SldrLTRPZWNfUE1iT0JpZ0ltRU15TmtlVw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTmNXOHRqWVNobF81c05wakxJc1pqTnNkU3BtSGlfY3JOVlNIbG9hX3RFb0NYR2VyTUVrdGJSMkZGV0VoajVTQ3JqNjNpMzE4dE1yQVlZcWhZbEItQjZMMFlmc3AzWGVMZmdPb21zN3YxdVowYTVmdTNaSWFkUjU1Yk94eWRzQldyTE82Y0xXV1FhR2pNRkJOQ1VIRk1EMXRrTGVpcmNaSXNBN1VEaXJZcDMtSTc?oc=5).
 
 ## Requirements
 - Python 3.8
