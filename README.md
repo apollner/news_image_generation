@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia struggles to repel Ukraine's deep Kursk incursion**
+**Japan PM Fumio Kishida cancels trip as scientists urge preparations for possible "megaquake"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jMGJ2c0VOME9FeUs5cGM1UjVmcUdabVN6SXExQW80WTc1TVpRdEFWcldjT3VqbzYxVERJN3ZrZHRHT3VJa1ZteVRNcDBhWUQyLUhBQkYtNGR3Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQYTVZR1FQaS1uU2docE0zN1hqdDNwSFk0SXAwbUNIYmhMT0JmdHhKQ1l2S1B6aTZfeUlUTmhLclhJR0RJbkdkWWp0MHRZUW5DbUFWWDkzVWhfUUxkV1pXM3VBZU9FS0RhV3RFaEFhbk95dnBOTWxrQjJpSU56dS1yQ1NFT0w0TjRSZHhUemVfUC02UdIBlwFBVV95cUxOYjdfVkc5M3doSUpfZjdybXY2aDQxM2JJeGN2azFlbU1rcUU0NVhzb2IxdWp0TzB0VXpfOU1VcU50ZHhOOW13Ujd5WHN6Qlh6NG1KT3hKbUxtNkREcklWdUtlbERqbVhOOGtsSjJYemwwNnVLX2Y4b0s4cTBCbGttY1BiVWlVdkNYekNjR25iMFlxMHZEN3Rj?oc=5).
 
 ## Requirements
 - Python 3.8
