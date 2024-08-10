@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A decade after Mike Brown’s death, his family still calls for justice as progress toward ending police killings remains slow**
+**Updated Northern Lights Forecast: Greater Chance To See Aurora Borealis Tonight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeU1odlF1X3hIRVBTZm1ta2xnalJub2k3Rm1RbzNHbTFBUy1yOUlpdnRMYU05UEFpam5iX3pYaXU4aGNKd2lnLTVJN0ZMNDA4am1OTGhYYi1fRUtFN0lSX3JRdE0wN2ZJN3FyVU02dzQwdnhvSzNqa1VNSmRLLUxfVnl30gF4QVVfeXFMTkZiRHVoUlozN19BRF9MZUNhZkpqY2ZOSmJoS0oxamZqSkNtbURYY0RxWTV6WVEwY1lUTmotTGtBYnM5Z1NEOGZIUklCbUZLdGg0RDdnNExrRlU0dDZscHg1TUJwX19sZnNLVC1JVTlBQnJyU3ZyRFVY?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxQSlpOdkc0d0tmTXZJM3FNazc4cENsOEItdElJc1g3aklLMC1uN042Q1Yzd3RFdkViRk4ybkRfaS1fZldtdkRfZ2R2WUh0dUhMcXpQVXRubU5WMUtkNTBHZVlWUFJxcFE1RFBTQ09yaGp6V002dzgyRTBuYzVfRFVjd3BzcUxmZVNQRkpMRnB3b1BtVkxyREdEVFhrS0VfTFljOXpxU1UtTkd6ZHc3c1hXYnpkZnJXdUd6RGd3QTJVQllXckNhWjQxdnNhR2lNekU?oc=5).
 
 ## Requirements
 - Python 3.8
