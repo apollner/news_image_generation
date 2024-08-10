@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man who violently fought cops gets 2nd longest Jan. 6 sentence: 20 years**
+**WATCH LIVE: Donald Trump speaks at campaign event in Montana**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxONzlhLUprY0ZIa3BZRVJ3LUdaN3NfNjhDVElneVEwajU5bE9MYjRKZGZvX2RnMjd2LTZGMmxiT3NDS216ZW1HZEc3cTlucEV5M1FJeERmN2J6QldjTDZqWGxnNGs3UHAxckRiVGlCUjQ4Z1Jrd0EtYUhrQjJPN1l6WXBEeUpMNm9Fd1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXNrZ25sUnl4RGxKMkZCbndGZWhUOEg4NjhvTXpwQ0pSNWxnM0RiUTYtT2xYMThTSnJXaXFkNWljRmRoMFFlWEpZU0tQUXJNeWM5Vm5iQ2F1ZEJQTU96SGJadWI4aTJFdHUxamZ0V1NScEdfNmp5bkNXck43Zm1PRjdSQVZuMXZKRDlmYWMyWG8wUWhZdUhxSFdnSnk0Z9IBowFBVV95cUxPcXQ0Z2hrUFlDRDRJNjlLYXQ5NHQwcjUtZFpoa1NrSWpxR284bHJ5WFhqMUZseHdBY0FEU3ljakhHMU5lQ085NTZ4VzJJUTZFbnpJRVhaaWtfWjFnMWRtNjRIRjNRWkpPRGoxdnZ4RzQzWE9QMjk1RmtGQ0pEY0g2MGhHSG9PY3ZSeGFVZUIxa081dHdYYVZTMEx0NmQ0TVRNV2JR?oc=5).
 
 ## Requirements
 - Python 3.8
