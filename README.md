@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It Ends With Us' Cast Drama: Blake Lively, Justin Baldoni Feud Rumors**
+**NASA shuts down NEOWISE asteroid hunter after almost 15 years in space**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTm1fd2pqcHNnenRGd28wcmFRRVptaTAwX2wzVVNOQk9XWVU5YkxnSTg1X2VOVDhDX3ZIVXpLdzhyZVNiajIwa1Qtelp5UFZVU295OTNEZ1F5YTl0Unp1cHFTYTltRlJEaGVFQnRMbjdYcGxwSmZRU0wxNU9JT2dEQjBQQTFSM0Z2QjhoaDd3QV9VcUprRTBxTnFR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE8td1hmNHRkeURhUXpDd2ozTXAzbXZPYXZ3b0l3RlI2RlNrazZmMHN5bEdVYUUyZkd0NEMxeFp4dFlCTTM3UzZ1OUhlY3NrLWdPVzU5Z3FxUFUxZGZZMy1DWFNaQTBzQ0pRMTM4TnZBalFNQ0w4MHl6UTFBRjlGdw?oc=5).
 
 ## Requirements
 - Python 3.8
