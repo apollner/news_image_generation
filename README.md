@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Pulse: Unforgettable Olympic hoops moment**
+**Blasting 'glitter' into Mars' atmosphere could make it more habitable, say scientists**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcVl0MWdhZnZoSlNONFVpOFZDVDA5QVNHWHZBLW9yd1djdEhGSG9nS0t1X01lODZrQTBwRGZrdnNkR081RWJuZXU2cUFVN2h4MjMzcnFwVUhoUFU2cFgxekY3cUt2dkJUeWpuVlRpRnpHaEhMTTRWbndwLWFJeXNEcmJfVGo2U1NXaG5IeHlmOGN1bmNMaFNVTXJzQk5HMWNJTm55NTFVU1V5aUNjNk1OV0tqX0o1S0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYVpCY29ZbGZYWU9temo0RlUwWHZ2WEhlVkVmNzVMdDVFNUY0NThjcjBOcXpKdnh0ZURRVEVnb0FvOFdXOVozVWNVbFdTaXB2VFd2b1FCTm5LV2QyaTI5SUJGMzItNkVTOC1tbWVUengxOGp0b2V3eFhUek45ZC1SaURmd0NnUmpmazYtbW1JcWVmUS1vTGZnem81dnlBRXY5LWNlTkhrcGVZRG5EVVo4UUNsdE5SMjNQ0gG-AUFVX3lxTE94blZJM3NPNEhESXNVYWlyY2Y5eTY5Wm8walZhMHk1dFNrTXR4WlB5TnVIbEtBWWNqMmZLMTZaSk9NOWNhNjJtNFJVSEtOZzhpSFVrN3ZuS2pXUklfOGxITGdpUmRZaXc0QnpEWU5RX0dKdkl2SG5hVGVRVmRrbDVvV0VDMGNaNlZHY2E4N0xyOHZaQzNnMk4zR2VoUDNUdmM3Tm9FWUdDeTJIaHlqY1pWWXZLeVgwR0RXZkVlNWc?oc=5).
 
 ## Requirements
 - Python 3.8
