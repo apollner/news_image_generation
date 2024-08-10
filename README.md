@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debby threatens nearly the entire eastern seaboard with flooding and tornadoes**
+**When to Expect New M4 MacBook Air, Mac Studio, and Mac Pro Models**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3I3SWpUN1Z0dFNjYUZhNS1xNlAtdXlJeWdLZnRJQ2REU09rblZjZWRCMTJfcWUzUG5PT1NqWjlITDRCQ19iOWVVdEthcU1Kcng1dENkdHpmaTltMU9WWmJVRWh4cFh3SzA3bEE4NVE2NXU4OElBZUlqeVJNcl9tazd5YnpzeFpobEZhVjBIN1NJSXFnOVHSAYwBQVVfeXFMTUlRZWJyWFNiNF9CZWMtUFdRZHdtY09hZzQ5bUVHclRfUDhOd2g2TXY5eXVRSklfNllJVGFkQW03UmF6b0tCNi05TXp2aFhLOV9OcDVUc1JiOVo2blV4bGJoTXZJRy10S29Zdzc4YUVhVzFMNmpiWERXVzU5dkZ1RHpzY1l5c051ZmNUM1o?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQaVdGTHQyYmp5aWV6SWlOMkNxZVVDMFNHblE5aXp2OUdlLUZZSWd4d2prbzUxaUtldXlWaUM0bTFKbGRWM24xRXpGNElqMno3cDhFLVVQQ0hxc1dvdjR1dGtuSkdnMWdNN0VjYzk0UDRsVURQVnRfUXR6QzRLeC1EYUsxNXBlUmlISzFhV1IyYw?oc=5).
 
 ## Requirements
 - Python 3.8
