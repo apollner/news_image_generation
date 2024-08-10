@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Artificial sweetener erythritol could elevate heart disease risk, preliminary research suggests**
+**Yung Miami Breaks Silence on Her Relationship With Sean Combs: 'That Wasn't My Experience'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTUNMdFQ0WEc3QXVkdFJUTURZM0tPQWJGUTNJMDlvN1pxMXpWVWJ5MGRiLWRxZXBUSThrQ2thZFplWmlCa0dsOHpHeDJEeXo3M29UQ2tVd2w4eXhkYVhaMm1KdGNTQXdYelRDVFpveUpKUW9zY21Kcm9KV0pXOUtBZmstNVBKd251RGxZUlpqNUNKSUZoSF9RcXFtOEJINnBIcDNVZ2xzLVp6MzZDMkREb3o2UFhDcGVGX1lSak5hekZXYlnSAcgBQVVfeXFMUFBtZHVwRlowdlhDMTVoT2VuSFVYUFRKRlM0T0dUUTJaeHdHVDR6WG9UV1ZiWE9fTDZWYk1CQnV4VHRyMl96eXRncVNjakVoVTM3eUZZcHU4Z0RZeW1Bajh5d0hLYmdhVkhET1VxenJMdm92b1ZSNXNSSERhQi1TcFdqanBxcE5EcG12SUdrU3ZzY3NyMEwtQ1RjcjhaMDh6T0VpWVpRQ2hKWkpnVzNmMFgtZjVCcW1oSTlCY3c1d1RvbEZ5OTQ0ZXE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWxtWmdKaHRNWUk3YWM0c3NxeHhwdnVSejRRQ1FWTEZPQ1Y3T2tjXzNOQkNuVkpoRlFsWmhGOXBRQUJFUWZkWDRfWU9rblkwMWJ3VDAxWEFHbkpyN3plMVVuRk1KN0FfdDZfRWZBanFPeHJsWDhXWGlFSTZuM0ZXcjd6aUQ3bzVPdko1cXhTN2t0MGxxUTJmUHB6dTBmd05HZ0E?oc=5).
 
 ## Requirements
 - Python 3.8
