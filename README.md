@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yung Miami Breaks Silence on Her Relationship With Sean Combs: 'That Wasn't My Experience'**
+**Taylor Swift Fans Making The Most Of Vienna After Concert Cancellations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWxtWmdKaHRNWUk3YWM0c3NxeHhwdnVSejRRQ1FWTEZPQ1Y3T2tjXzNOQkNuVkpoRlFsWmhGOXBRQUJFUWZkWDRfWU9rblkwMWJ3VDAxWEFHbkpyN3plMVVuRk1KN0FfdDZfRWZBanFPeHJsWDhXWGlFSTZuM0ZXcjd6aUQ3bzVPdko1cXhTN2t0MGxxUTJmUHB6dTBmd05HZ0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXMxMXBPRHdYUl9rUS1lZDBqRnNnOHg2VGZtMXVtdUtEVVBpcjRScTBLdWZxSl9fVGYwUjBWWGFzTmhhN25IdFhmUWQyZ1VEODVBVHp1UjRwNzZWdzcyR3JhZzdRVzdpTjlUMThENy1xcjFNZExXaWx1dXNrZHgzRFVFcGVCZVk?oc=5).
 
 ## Requirements
 - Python 3.8
