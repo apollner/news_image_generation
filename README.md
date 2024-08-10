@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New bodycam footage shows police response to Trump rally shooting**
+**Interim leader Muhammad Yunus takes the helm in Bangladesh, to seek peace and prepare elections**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XLTQ0aVRhMjJ5d0phTVdKR1ZjYnFvcUtZQWYyRnp3ck4wRFkyRkxJSUhoLWdhM2RwcnRtM3ZyUGxVUFF4Wkl1VEhlTzJKQllPWjhpRl90eVUwUdIBX0FVX3lxTE5XZ2dRWnlwSmZieHo5aHdNeFFoc3F1cHpJdWUwcUw3d2ZEUTR2b3RETm9scVB0NDVpd1BEQTBxd3dkT0lBT2NGOFE3U2xiYWEzQTlJX3gxVzJjOVJVWmxF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVVeEpXWXlqT0VvVEhKRmoySnJZejN4dFQ4cUdkem91dTdHeU11Z2k4MUpJeUM5X0ZUZVJpd2RpTWllb1JHUXEwM3lCcDhrcTY2c293VXpIOC1DUzNOVmh4WHd3dHlxR05waHpYc09YWVNiYUN0b0ZONGphU0hmLURBQUZLZTk1WGdMSUxoRkNnMFhHUTQ0Q2Z2YURYdk9Ecmc?oc=5).
 
 ## Requirements
 - Python 3.8
