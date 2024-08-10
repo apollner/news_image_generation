@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA declines to approve novel MDMA therapy to treat PTSD, with request for more trial data**
+**'It Ends With Us' Cast Drama: Blake Lively, Justin Baldoni Feud Rumors**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFBkczR2V0YyVUhFTnBQcVR6X2Vac3RPTldDMFVReEhtaXc5cDVfYklpNmVlbTc3YWhfTklyNmlyYm5EOXplNkJNSmtESjRMRVZMYzA2M1VxcG9DVmdLaVQxV3BkRmNqdjNObFY5ZTh2NnczRFRtRFhGQkhvMNIBckFVX3lxTE42OTRiZ3JfalhtSW42RVFDXzYyNHVLYmJFd211Ny00Rnp0aTZEQzdqNl91RUl0SjJKYzJnUXRwZk13bURxcEZSY29adi1kX3F6NlBvcmYteDBsNmd1NUFoaXJCWDN4QUhHTWZNZnVtVFVqQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTm1fd2pqcHNnenRGd28wcmFRRVptaTAwX2wzVVNOQk9XWVU5YkxnSTg1X2VOVDhDX3ZIVXpLdzhyZVNiajIwa1Qtelp5UFZVU295OTNEZ1F5YTl0Unp1cHFTYTltRlJEaGVFQnRMbjdYcGxwSmZRU0wxNU9JT2dEQjBQQTFSM0Z2QjhoaDd3QV9VcUprRTBxTnFR?oc=5).
 
 ## Requirements
 - Python 3.8
