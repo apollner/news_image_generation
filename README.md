@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When mammograms lead to more testing, it doesn’t mean automatic bad news**
+**Ko wins gold, qualifies for LPGA Hall of Fame**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVhvUUNBbDBtMTQ1NWJEbE5XVDVwOWk1Qks5YlRzcWVQRElWYUhQS2k5cHc3Uk94OFJVNGYzQ1RhamI2Q1hSdjIwMWQ1bkRoelVDZF9XaHpobkhKemFUSDYzTzhZM18wQVBLYTdJTFZqTnN3STZUY0ttUzVFcFh6TTBnX1pGRHQzV2F4VHJzWnowZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk5nTml0dnVCS0ZRNndsSElCNEdHNjVZbWVWRlJzYVplOVRlOTUxb2ZtblJjT1VDR3dtNkVZNGNvcWlOeHZLcHJWRW5yVy1oODZuRkoxYWhlSVc1ZzR0bnRSTlFLa0FWbUd3T0hIUmNQdFczbTVFWFRiMWpyRlZmNEthZVE5b2ZUeG4yc0FuNENrWnFUZUZXUWZNbGdBNXd1dVlF?oc=5).
 
 ## Requirements
 - Python 3.8
