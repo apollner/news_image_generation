@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA rejects MDMA as psychedelic-based treatment for mental health, PTSD**
+**Northern Lights Forecast: Where Aurora Borealis Can Be Seen Tonight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHUtSUk3Vk1CcE1FX0hKd04tZ2lBRjYzRjg0V1FlRTVwV2ZyTnFQSExtbzhMWmktdEpFWmJqMTVwOGxBMzVhTm9fTE91NkNnam5UajhtOTA5bURIR0xRT3ZUVmZSeWtzaVVKTWtqaXh4VVdmQ1BqclpDSjhGM3JwbEoyNHhOcFRYQUtyNTMtMGpoaXBkaDZBMkFR0gGfAUFVX3lxTE9SemF5Y0gzSFpjTFF5UGZ1N3c0Z3E2S2dQbHViQ3F2QjZvX3lfQzl1SVRiTXZVYnplWk9QQ24tX2wwblZ5RFV6RzhCdEZxYTExQmlrOFl4aWdBc3FCekZyY1AzVW9HNjBkTllNRkFETXY1c0RybGF0cDVvc3lMdmpfdUpPT09jOVlCeHJJOTUyVEphaDRVRnNHcXpWdExZWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEpSbS1BVmp1QjVwUVBKdFhLaVM3R2hraGt6M0k2SGlrTFFicFBmTnBvdlo3UG1jLXlvQ1RlbU5kcnhud1ItYVNKZllFODRfLW1RU3p6bFJiX0xiaEJWcGxWSmhYWHJQaWtpTXNLNGpUWWZtOE9aLTJXSmYzQ2ZfMENENlotRUF0NmFLSGh3U2dqc0JtTHBUai11cnYyanZQWDVPdUFCOW1IWGE3Rk9KUXlEWDA2RUhFdl9OMnQxQ3dyZw?oc=5).
 
 ## Requirements
 - Python 3.8
