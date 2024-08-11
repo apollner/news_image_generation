@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ko wins gold, qualifies for LPGA Hall of Fame**
+**Jordan Chiles might have to return bronze medal after CAS ruling**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk5nTml0dnVCS0ZRNndsSElCNEdHNjVZbWVWRlJzYVplOVRlOTUxb2ZtblJjT1VDR3dtNkVZNGNvcWlOeHZLcHJWRW5yVy1oODZuRkoxYWhlSVc1ZzR0bnRSTlFLa0FWbUd3T0hIUmNQdFczbTVFWFRiMWpyRlZmNEthZVE5b2ZUeG4yc0FuNENrWnFUZUZXUWZNbGdBNXd1dVlF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZW5DLU8xWG9NSkVwVXdzT0NBNnBVUVhNdWpGLVJRTC1ZNUFGWkxjaWY5bGRXSzFEMmYtRUdOeGxxbTQ1aENuUS1Xc2dVa2hkdXhuakszLV9yeTZYUWJ5Vm02ZVBZS29BbGdFT0xoTUtYTTlGdGR6ZUx3VC1wZVVXY2hrcTAxQ19pSlBoVVFSbU5tWTVKSmFuSXZSQ21fanN0bUx4LUZtZk5mSkRVNnJKUUNvYlhfMjg?oc=5).
 
 ## Requirements
 - Python 3.8
