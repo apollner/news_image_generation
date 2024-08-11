@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Chiles might have to return bronze medal after CAS ruling**
+**FDA rejects MDMA as psychedelic-based treatment for mental health, PTSD**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZW5DLU8xWG9NSkVwVXdzT0NBNnBVUVhNdWpGLVJRTC1ZNUFGWkxjaWY5bGRXSzFEMmYtRUdOeGxxbTQ1aENuUS1Xc2dVa2hkdXhuakszLV9yeTZYUWJ5Vm02ZVBZS29BbGdFT0xoTUtYTTlGdGR6ZUx3VC1wZVVXY2hrcTAxQ19pSlBoVVFSbU5tWTVKSmFuSXZSQ21fanN0bUx4LUZtZk5mSkRVNnJKUUNvYlhfMjg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHUtSUk3Vk1CcE1FX0hKd04tZ2lBRjYzRjg0V1FlRTVwV2ZyTnFQSExtbzhMWmktdEpFWmJqMTVwOGxBMzVhTm9fTE91NkNnam5UajhtOTA5bURIR0xRT3ZUVmZSeWtzaVVKTWtqaXh4VVdmQ1BqclpDSjhGM3JwbEoyNHhOcFRYQUtyNTMtMGpoaXBkaDZBMkFR0gGfAUFVX3lxTE9SemF5Y0gzSFpjTFF5UGZ1N3c0Z3E2S2dQbHViQ3F2QjZvX3lfQzl1SVRiTXZVYnplWk9QQ24tX2wwblZ5RFV6RzhCdEZxYTExQmlrOFl4aWdBc3FCekZyY1AzVW9HNjBkTllNRkFETXY1c0RybGF0cDVvc3lMdmpfdUpPT09jOVlCeHJJOTUyVEphaDRVRnNHcXpWdExZWQ?oc=5).
 
 ## Requirements
 - Python 3.8
