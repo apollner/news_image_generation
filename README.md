@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's plane lands in Billings after reported mechanical issue**
+**Can weight loss drugs curb more than appetite? What to know about research on other possible effects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQN093Qmx6aUFVRHJTTzRrTW4yVTNsN3NIVm5yNXpOdVZmbUV3MzhMLTJvZDdyYmJlelVDb2ZqMVF4cUtwSEpHN1NzTnZfU3RvWUphbDJ0ak90WW1Eb3VZWlVTSUg2Mmtoa05nTGVBU3pNUFFnOGJVLUhYX2JhbS1RYTFfSXBhUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJQTE8zT1FjU3MtZm82eVJ5QUdGNzJDbUo5Q2V4aGhqcGhRaTc0eWxEMGpoOUdHTWpFUTZjeFB5SU9kVGtscG14Y04ybWJCV1hXdUVLUFdDblpZdjU1RjdEeUR1cS0wR1V1bExuUnVadXBETEtXZzlJNE9DVjBCaTB5Y9IBiAFBVV95cUxOVmVXS3FIZWduS1JYcDVHVGVYaXZqWDFfRnZzZ3pVLVRndkhFSWNyVjFkR0VjbXRUTzJaLWpwaGk0cUhjbXNIQUE3TEE1NGp3Q2RUX2xNbzZYdUJhblhTSU9ZRmhEZkxCQWZ0NGpUNVlOZ01DTmhKX0ZKR2NISkU2V3lmMW13Si1i?oc=5).
 
 ## Requirements
 - Python 3.8
