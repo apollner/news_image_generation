@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can weight loss drugs curb more than appetite? What to know about research on other possible effects**
+**Imane Khelif wins Olympic boxing gold amid online furor over gender**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJQTE8zT1FjU3MtZm82eVJ5QUdGNzJDbUo5Q2V4aGhqcGhRaTc0eWxEMGpoOUdHTWpFUTZjeFB5SU9kVGtscG14Y04ybWJCV1hXdUVLUFdDblpZdjU1RjdEeUR1cS0wR1V1bExuUnVadXBETEtXZzlJNE9DVjBCaTB5Y9IBiAFBVV95cUxOVmVXS3FIZWduS1JYcDVHVGVYaXZqWDFfRnZzZ3pVLVRndkhFSWNyVjFkR0VjbXRUTzJaLWpwaGk0cUhjbXNIQUE3TEE1NGp3Q2RUX2xNbzZYdUJhblhTSU9ZRmhEZkxCQWZ0NGpUNVlOZ01DTmhKX0ZKR2NISkU2V3lmMW13Si1i?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1oNTl6dHpDMWxQaEE0N3lGR0N4T3laVFk5eEE3bnZzd3ZHdFo4bmRJSHBXdEE3bkNDWWE2SXBjT3RJSnpiSUZpZlVxZ3h1OFJNeGxlZ1Q5WlZWWTdoc0lMMWo5dlVRV2J0UGE1UTlJWG1odkpqNDVKbFE1QlN1bHRaWXQxNXYtU0k2bTc4OXdRcGcxT1NzcEtZRndjY2N0eGhBWjBxd0l1a3ZkWVp3?oc=5).
 
 ## Requirements
 - Python 3.8
