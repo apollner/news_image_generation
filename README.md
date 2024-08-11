@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former YouTube CEO and Silicon Valley trailblazer Susan Wojcicki has died at age 56**
+**Team USA vs. France: How to watch the USA men's basketball gold medal game at the 2024 Olympics today**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWw3TEpmdE9KUzBjanNwOEtEeVNCaUhPNG1GcTVtZS0ycDg0MExMX0tFVnRWcTBNNEdkX2s0azFGeVp6bmNIZDVBN3JSV0k0cTlfSHpsR3ByS2ozaTN0dGhqM3pvSU9KMHFFYlVVZkxRc1dqUC10aHdLREIybDl5TzhHbjlfdzA5d3NPTjVlejdFRmxZYUJsazhpdEhZVjhHU2hQTEZuRFFhSXJFMFo3R0pVOHhiM3NaM3JWVNIBwgFBVV95cUxPQzRhZ0pkdG95bWJyVnVGcC00OGM1WURENlN3cVJHS014SUFZRWdSN2RLeU1zeG9Tak9rNEZPQnFJUWlsQ2stMW52cU9ySFh2U2lQdWpCZHQzd1lyVFFGUk1FWm00a3VTM09BU25uSUZFN3YzaXMyOGdSVUt0azlEUWlUelNUZjF0Vmp0RlVWTWFKZ2NCNkZiMjRDU0xiWXRmRjVBS3kwU3dqMVFENzBid2t6WHB5S3JDWkU3S1E1ZE5SUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkxxT0N2UFY4b1VYVXRqRktnQXZFOHM3Y1ZZYVFQOFRjc0dqd0t1UTNBd3F6UjNnT1FDQWFtMkF6ZHJCeG1keV9mSkV2eXIzNzdJRmF3UzQ0TDE0ZlF0SlhXeXVxNTRtbGhPZm9QTERTSWdpWS1kSGVURFd5V2dZRVZxRjF2WDBqM09lSjhzb2NJbjNrVVF3bUlGZ3BJWTZtXzJxZ0w2bjB6QkNldUpFYkgtMzlOdlQ4T3RENEhzbGZHQ18zeXd4NklvWnZVY2xPNG4ySQ?oc=5).
 
 ## Requirements
 - Python 3.8
