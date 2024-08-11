@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Nankai Trough megaquake - can you predict it?**
+**Can weight loss drugs curb more than appetite? What to know about research on other possible effects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsa1ZaeU15WkpZbGR4MzVidlBhZjMwcmpHejlqb1BqY2p0MndRaG1xOE1HUUJqbDRRdS00T2o1LW9adUh1UHA4X2owRURGYV9VcUt4cTNiM05MZ9IBX0FVX3lxTFB6VUdmQVFhemdwb2NzYjRJSUMxbG5qZGxQZnEwQjJqQlNQRTRhTjN5RDQwUHlyTVNQZDJSdXRqMVNlV0Zza0IxSGNaWXdPdnZTd2lJallQOUtqVGpIMW04?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJQTE8zT1FjU3MtZm82eVJ5QUdGNzJDbUo5Q2V4aGhqcGhRaTc0eWxEMGpoOUdHTWpFUTZjeFB5SU9kVGtscG14Y04ybWJCV1hXdUVLUFdDblpZdjU1RjdEeUR1cS0wR1V1bExuUnVadXBETEtXZzlJNE9DVjBCaTB5Y9IBiAFBVV95cUxOVmVXS3FIZWduS1JYcDVHVGVYaXZqWDFfRnZzZ3pVLVRndkhFSWNyVjFkR0VjbXRUTzJaLWpwaGk0cUhjbXNIQUE3TEE1NGp3Q2RUX2xNbzZYdUJhblhTSU9ZRmhEZkxCQWZ0NGpUNVlOZ01DTmhKX0ZKR2NISkU2V3lmMW13Si1i?oc=5).
 
 ## Requirements
 - Python 3.8
