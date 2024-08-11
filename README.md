@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This after-dinner activity went viral for helping you "age wonderfully." Does it work?**
+**FDA rejects MDMA as psychedelic-based treatment for mental health, PTSD**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE9JVEtOaXdxMFI0NV9fSkptd19fcklodEFISy1EN0ZvcDFzUmY2bWpGaDAxbGFGcjMzYkdsSWlDRGRlcU9fanZMam5zR2xNaTg1NFFfRVc1MThnUFRjWUF4TldLdFNuVTlRbnlKbzBMYk1TamVhcm9qT3BST3BpZ9IBgwFBVV95cUxNaUo0VlpuUi01eHh5S25yQkZSTGw4Mk4xc3ZqZ1NyMDJXUnBMS2hmb1FQR1BkZlJtUGtGNGFrOThNSXJBd1hRRGZHOWh1aExNTkNhM0Z3amlLZ0hnRmdoS3pGRHpZWTlmZkdOellQYWdIdmpCcGRqeEtlRklZakc4djlXMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHUtSUk3Vk1CcE1FX0hKd04tZ2lBRjYzRjg0V1FlRTVwV2ZyTnFQSExtbzhMWmktdEpFWmJqMTVwOGxBMzVhTm9fTE91NkNnam5UajhtOTA5bURIR0xRT3ZUVmZSeWtzaVVKTWtqaXh4VVdmQ1BqclpDSjhGM3JwbEoyNHhOcFRYQUtyNTMtMGpoaXBkaDZBMkFR0gGfAUFVX3lxTE9SemF5Y0gzSFpjTFF5UGZ1N3c0Z3E2S2dQbHViQ3F2QjZvX3lfQzl1SVRiTXZVYnplWk9QQ24tX2wwblZ5RFV6RzhCdEZxYTExQmlrOFl4aWdBc3FCekZyY1AzVW9HNjBkTllNRkFETXY1c0RybGF0cDVvc3lMdmpfdUpPT09jOVlCeHJJOTUyVEphaDRVRnNHcXpWdExZWQ?oc=5).
 
 ## Requirements
 - Python 3.8
