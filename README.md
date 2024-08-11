@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Videos and 911 calls from Uvalde school massacre released by officials after legal fight**
+**Russian Warplanes Are Bombing Russia, Aiming To Block Invading Ukrainian Troops**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNTTB6cjNyUmxKU19DN1FBaF8zZFZJVXRIdDJPZExUbnlHRTFPZWtzMFRuWGxlbExZUzJIWVFfYy1UcHRGTERSZnd3aTNrTVdDakIyVFJDdzV6T2NzMnNQbldob2dfeldobmRwQXZpSVFRWnhjTmZ5cU9BVkdtLUowNXFXaFAwcjdOY19uZXR2aXB2Z044YUtuU21YUFlsZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxOc05qQlRYY0xTU3NOeVV0T1pFWEVoQnpjSDRtZ0VYTjF3OWxqZmQwZjVzc25xUFhGQ3FFTXUwNHJGcTdNWEJocHJJQjZrdmRSU1VMY2wxR2h5QzJTZE9YcUo0NUVhQW9WZmJ6SEhyQWtscVhDUTJERU5sRkRseFhjRklaTmJEUy1lOENOdE04RWVJMVZBODhaT3BWRXJpZEVRblVjaGhCOVI4NHZ6U0pwQjZwdFU3ZThqcGtJQkVkWXlZeDdMcFhj?oc=5).
 
 ## Requirements
 - Python 3.8
