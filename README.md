@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former YouTube CEO Susan Wojcicki has passed away at age 56**
+**Israel strike on Gaza school kills more than 100, Palestinian news agency says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXJ5OVZpNnQ5MU1nVU5TVzdwYlNuNGxvWWtsWkx3UlN0eUM3Tll1SHRGSnFlNHNSWHNqVVduTjI5Q2FPdmp1cERmR1gxNFJLSVZVOE5zWFU3Nm5PMVhXdDdxZk9vQXR5dU5KQ0g4UWVReTF4SG5PUXRPSlowdU9iX1czYndWZXNJcjBfUGZWYjEyc3NKcUpRdjF3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXZxNXlPSWZfaEI5MFZZSVYyOTd5bmpVY3F5Zk9OWG9DSVJIZVE4OVdMWC1vdzFUUDJrbmRHWnp1SlNsZEVlX0ZBbm9vSG5WQ3BFamh1dWlaSnpLdXBRTG16clAxdzZtaEdSU2xtUFdkeWptNUdlUUE0cmdrMEk0UTcyOGhfaHg0cXJfZXdnWWtsalU1TFRsZzZ5YUQ1TTVkZjE3dkxMaTFJeEEwV0FJWUU2YUFIZUQ0eGxiTENRUDU?oc=5).
 
 ## Requirements
 - Python 3.8
