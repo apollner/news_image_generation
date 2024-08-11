@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imane Khelif wins Olympic boxing gold amid online furor over gender**
+**Former YouTube CEO Susan Wojcicki has passed away at age 56**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1oNTl6dHpDMWxQaEE0N3lGR0N4T3laVFk5eEE3bnZzd3ZHdFo4bmRJSHBXdEE3bkNDWWE2SXBjT3RJSnpiSUZpZlVxZ3h1OFJNeGxlZ1Q5WlZWWTdoc0lMMWo5dlVRV2J0UGE1UTlJWG1odkpqNDVKbFE1QlN1bHRaWXQxNXYtU0k2bTc4OXdRcGcxT1NzcEtZRndjY2N0eGhBWjBxd0l1a3ZkWVp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXJ5OVZpNnQ5MU1nVU5TVzdwYlNuNGxvWWtsWkx3UlN0eUM3Tll1SHRGSnFlNHNSWHNqVVduTjI5Q2FPdmp1cERmR1gxNFJLSVZVOE5zWFU3Nm5PMVhXdDdxZk9vQXR5dU5KQ0g4UWVReTF4SG5PUXRPSlowdU9iX1czYndWZXNJcjBfUGZWYjEyc3NKcUpRdjF3?oc=5).
 
 ## Requirements
 - Python 3.8
