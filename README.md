@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debby finally moves out of the U.S., though risk from flooded rivers remains**
+**Disney's D23 fan convention showcases 'Moana 2,' 'Incredibles 3' and 'Mufasa: The Lion King' films**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTJWdDJadXpWZ09td0cxTXotMGxFTUlNVXdrUHZBVk9tR0lsMEU1SFQ2OHZJZmZmeDNYWkVHeGRQMWUyVmZMNGg2bUFtN2lKTl94dE96LTdyNmtaOUdmdUwtTVVCNUt6UHBqMERGVXhJWWhLb0xKTk5QaHZJY2VFOEln?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOczF0Z1B1UURuR0RoUUJNbVlZVmVILW84NHQ3Wl9iLWlmeXh3NXN1VmZaSXF0U2FzMUE5YUVnRXRSai1xdlNHTHBxOWt2MHhGVmx4Q2haazREa3RWWlVjZW9wLWFHMmV6YXRGemdNNllob0M1ODlSa3JiUThzcDRMaUljX2hkN2tKZ0VJV0s2aTBienc2bWZnb0g4dzRFRzNkREpiTUxpOWZBeFFRekFFV0NGbnhLbTQ?oc=5).
 
 ## Requirements
 - Python 3.8
