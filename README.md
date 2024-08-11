@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imane Khelif wins Olympic boxing gold amid online furor over gender**
+**Disaster emergency declared in Pennsylvania after Tropical Storm Debby hits**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1oNTl6dHpDMWxQaEE0N3lGR0N4T3laVFk5eEE3bnZzd3ZHdFo4bmRJSHBXdEE3bkNDWWE2SXBjT3RJSnpiSUZpZlVxZ3h1OFJNeGxlZ1Q5WlZWWTdoc0lMMWo5dlVRV2J0UGE1UTlJWG1odkpqNDVKbFE1QlN1bHRaWXQxNXYtU0k2bTc4OXdRcGcxT1NzcEtZRndjY2N0eGhBWjBxd0l1a3ZkWVp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTY3OWdLU2pxck94NDRmbnVKbXAwbDdUbFJSSHJ2UDg2TnRHenRfVGFJNVJtbm1KWk95eUJoXzc4eHI4QXJzVEhkbl82bkhMamJWa2dLc1AxV1dXdEVHSXlIQzAtX1FqNWtoQTIyNWdoYU1pdmRzR0FLa3Rnb3JxS1liV0Y0b2QtMnNEbmpBTFRSTFpvZzJwTk1QU1cxb09Sc2h2R3RRSEY5UFNVTkFoTWhiM3V3Qi1DZUhwcTFmNDMwR18wQ2dpbg?oc=5).
 
 ## Requirements
 - Python 3.8
