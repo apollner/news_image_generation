@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Many dozens of Rohingya, including children, killed in drone attack while fleeing Myanmar, witnesses say**
+**Brazilian authorities are investigating the cause of the fiery plane crash that killed 62**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWo2dVFLdEdvSzVuc1ItWE5ZWi1yaUpZZHFSZmlvWUV5VHJUYldiSWM1TFREX0JpMW5SNHMzNXhIRjlaMUladnFPR2wyRDU2cFBURHNteDhxQ1FjUE5vU1Q5TXEyZFJoRGJRaEcyVmJmVzM1LXdZSnNDSkw3UEs0OTdnNl9DQzc2TVlSd1RibThrUmNTX3RXckR3cmxfaU54eVllaUl4TUplQXlUbVgtbG1Sd0QtSUcxQWFGaDNBeDlwZ2l5VEZR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZmJsR1cyQzlpRE1TOTBTTU5GcWozYjF0SnFaaXQzc3NXYVl0MkRFQTMxMG1EZ1FGdmVzXzhMMTBqVlp2RmtaQ1lsSkYxWG5HTHE5djIzS3h6UF9Qb0Z3MXZMWkFjQk13NDVuX3hhcWppRTY0YTg0eXY0bEpONzJwSjNqV083azByZ2FPbmtEQ3FfVVlhMkJKV3NJWWhZRUhxeEtKaGxZRUxQZw?oc=5).
 
 ## Requirements
 - Python 3.8
