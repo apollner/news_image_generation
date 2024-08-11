@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Layoffs coming to Stellantis Warren plant as Ram 1500 Classic production ends**
+**Trump's plane lands in Billings after reported mechanical issue**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemJxdUNZdGlmS1ljTWJkbHpmWXZsVXM4dVhlc255QUJKOUw3QlNwVWU3TVhkTlBfQjR3S2k4S3Jvbm92c3FlREpKSXpHTjFQUEZzczNKR3hKc0RFY2FKeHgwcGRhVlBVLUk1ci1selBrN3pYZUlYQjZQZVhOVjdRNWZEQ0M1UnhlNDFYN1lqaGlVUFp2eE95ak5yTlpxZzVteDV4dWcwbmxWMWVLYm44dVB3WFZ3eUhQMm81Y0QwZE9DQzEzT21hbkduQWlqd29YTW1wYzItMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQN093Qmx6aUFVRHJTTzRrTW4yVTNsN3NIVm5yNXpOdVZmbUV3MzhMLTJvZDdyYmJlelVDb2ZqMVF4cUtwSEpHN1NzTnZfU3RvWUphbDJ0ak90WW1Eb3VZWlVTSUg2Mmtoa05nTGVBU3pNUFFnOGJVLUhYX2JhbS1RYTFfSXBhUQ?oc=5).
 
 ## Requirements
 - Python 3.8
