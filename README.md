@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tomlin: Fumbles undid positives in Fields' debut**
+**Debby finally moves out of the U.S., though risk from flooded rivers remains**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVBibUwwemRBVkhSVVdSLU1fQ3I5bTVuWTE5dUp0YXBwVmNaMjVJNDl5ei1zTkx6TXVDeXJmOTNHYW83Y003bVJ1ekJXLVVzdVJvNUd1QkdMYXh6NUhFYVd3WjRDb3VxWFVzWXhPR1JzRlpzbWtZWHVxV0dfeVNROVBJSXJabzJDTmczYTZQQjN0VmpZVUNrVnJHai10dnYyMEVFbzJn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxNaTJWdDJadXpWZ09td0cxTXotMGxFTUlNVXdrUHZBVk9tR0lsMEU1SFQ2OHZJZmZmeDNYWkVHeGRQMWUyVmZMNGg2bUFtN2lKTl94dE96LTdyNmtaOUdmdUwtTVVCNUt6UHBqMERGVXhJWWhLb0xKTk5QaHZJY2VFOEln?oc=5).
 
 ## Requirements
 - Python 3.8
