@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imane Khelif wins Olympic boxing gold amid online furor over gender**
+**Many dozens of Rohingya, including children, killed in drone attack while fleeing Myanmar, witnesses say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1oNTl6dHpDMWxQaEE0N3lGR0N4T3laVFk5eEE3bnZzd3ZHdFo4bmRJSHBXdEE3bkNDWWE2SXBjT3RJSnpiSUZpZlVxZ3h1OFJNeGxlZ1Q5WlZWWTdoc0lMMWo5dlVRV2J0UGE1UTlJWG1odkpqNDVKbFE1QlN1bHRaWXQxNXYtU0k2bTc4OXdRcGcxT1NzcEtZRndjY2N0eGhBWjBxd0l1a3ZkWVp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxOQWo2dVFLdEdvSzVuc1ItWE5ZWi1yaUpZZHFSZmlvWUV5VHJUYldiSWM1TFREX0JpMW5SNHMzNXhIRjlaMUladnFPR2wyRDU2cFBURHNteDhxQ1FjUE5vU1Q5TXEyZFJoRGJRaEcyVmJmVzM1LXdZSnNDSkw3UEs0OTdnNl9DQzc2TVlSd1RibThrUmNTX3RXckR3cmxfaU54eVllaUl4TUplQXlUbVgtbG1Sd0QtSUcxQWFGaDNBeDlwZ2l5VEZR?oc=5).
 
 ## Requirements
 - Python 3.8
