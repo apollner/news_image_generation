@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike kills nearly 100 in Gaza school refuge, civil defence officials say**
+**Trump hits NYT while doubling down on near-crash helicopter story**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXZxNXlPSWZfaEI5MFZZSVYyOTd5bmpVY3F5Zk9OWG9DSVJIZVE4OVdMWC1vdzFUUDJrbmRHWnp1SlNsZEVlX0ZBbm9vSG5WQ3BFamh1dWlaSnpLdXBRTG16clAxdzZtaEdSU2xtUFdkeWptNUdlUUE0cmdrMEk0UTcyOGhfaHg0cXJfZXdnWWtsalU1TFRsZzZ5YUQ1TTVkZjE3dkxMaTFJeEEwV0FJWUU2YUFIZUQ0eGxiTENRUDU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQnB6T0oxcDRwSVN6NVU4eEJ6dDhxajZETk9uOVltUGVjbVBmUEg0WlFiRzk2ZktPYm1ES1VwMURhX0xSNGtWazhoV3lJOVFuSmZLNUdQaFZLbjRQWW5kM1VHQXRIYkFBNlJsZFI4b2NQRUJPOHZHQmJsdnZmaXViUzdUamZSNHVTSVpjVjdsV3BqMXJHX0dNUE15WC1LbHh6dmVn0gGoAUFVX3lxTE1FX3poakVYalFmM000R3RUTkM0dnY0cXVXbm9LRlRPZWxSOWdtY1RGVWFxZmcyWUJEMktZYnBSclVKX2M3c1pxalZselM3SEFmQmVPbGxZTm04aUNGdVEyRmozZmhwdDUtT1dldDVWNENuVGd6Rmo0NktBT2dsa0xKRXpDMEtqT1Y1OGxMbDlES1B5SzNvZGVkWmxKdlZBVVUyWTFhTXkxMQ?oc=5).
 
 ## Requirements
 - Python 3.8
