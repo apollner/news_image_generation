@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Team USA vs. France: How to watch the USA men's basketball gold medal game at the 2024 Olympics today**
+**Israeli strike kills nearly 100 in Gaza school refuge, civil defence officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRkxxT0N2UFY4b1VYVXRqRktnQXZFOHM3Y1ZZYVFQOFRjc0dqd0t1UTNBd3F6UjNnT1FDQWFtMkF6ZHJCeG1keV9mSkV2eXIzNzdJRmF3UzQ0TDE0ZlF0SlhXeXVxNTRtbGhPZm9QTERTSWdpWS1kSGVURFd5V2dZRVZxRjF2WDBqM09lSjhzb2NJbjNrVVF3bUlGZ3BJWTZtXzJxZ0w2bjB6QkNldUpFYkgtMzlOdlQ4T3RENEhzbGZHQ18zeXd4NklvWnZVY2xPNG4ySQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXZxNXlPSWZfaEI5MFZZSVYyOTd5bmpVY3F5Zk9OWG9DSVJIZVE4OVdMWC1vdzFUUDJrbmRHWnp1SlNsZEVlX0ZBbm9vSG5WQ3BFamh1dWlaSnpLdXBRTG16clAxdzZtaEdSU2xtUFdkeWptNUdlUUE0cmdrMEk0UTcyOGhfaHg0cXJfZXdnWWtsalU1TFRsZzZ5YUQ1TTVkZjE3dkxMaTFJeEEwV0FJWUU2YUFIZUQ0eGxiTENRUDU?oc=5).
 
 ## Requirements
 - Python 3.8
