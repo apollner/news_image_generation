@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel strike on Gaza school kills more than 100, Palestinian news agency says**
+**Tomlin: Fumbles undid positives in Fields' debut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQLXZxNXlPSWZfaEI5MFZZSVYyOTd5bmpVY3F5Zk9OWG9DSVJIZVE4OVdMWC1vdzFUUDJrbmRHWnp1SlNsZEVlX0ZBbm9vSG5WQ3BFamh1dWlaSnpLdXBRTG16clAxdzZtaEdSU2xtUFdkeWptNUdlUUE0cmdrMEk0UTcyOGhfaHg0cXJfZXdnWWtsalU1TFRsZzZ5YUQ1TTVkZjE3dkxMaTFJeEEwV0FJWUU2YUFIZUQ0eGxiTENRUDU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUVBibUwwemRBVkhSVVdSLU1fQ3I5bTVuWTE5dUp0YXBwVmNaMjVJNDl5ei1zTkx6TXVDeXJmOTNHYW83Y003bVJ1ekJXLVVzdVJvNUd1QkdMYXh6NUhFYVd3WjRDb3VxWFVzWXhPR1JzRlpzbWtZWHVxV0dfeVNROVBJSXJabzJDTmczYTZQQjN0VmpZVUNrVnJHai10dnYyMEVFbzJn?oc=5).
 
 ## Requirements
 - Python 3.8
