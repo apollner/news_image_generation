@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Plane crash in Brazil's São Paulo state kills all 61 on board**
+**Disney's D23 fan convention showcases 'Moana 2,' 'Incredibles 3' and 'Mufasa: The Lion King' films**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaGtEWmE4QzBpRmtNb0JFX215Q0w2N0F6OF9fY3ZybXV3U09JSGxBZUczeHJwVnpIVEJyelV3akNkWmpnR3doNFU4VU01RWFWRlIxQW5aVUstQdIBX0FVX3lxTFBCeVJadVoyYk9Kdl9ORzRyeWdrY2FHMkQ3ZGItYUxvUXc2Yk9LV3FieHJHbjN0ekYxNXJOQzhCM3FiQ0cyVG5SRm5NNzFza0tRcUFVTmRFT0NmOFpvMTdF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOczF0Z1B1UURuR0RoUUJNbVlZVmVILW84NHQ3Wl9iLWlmeXh3NXN1VmZaSXF0U2FzMUE5YUVnRXRSai1xdlNHTHBxOWt2MHhGVmx4Q2haazREa3RWWlVjZW9wLWFHMmV6YXRGemdNNllob0M1ODlSa3JiUThzcDRMaUljX2hkN2tKZ0VJV0s2aTBienc2bWZnb0g4dzRFRzNkREpiTUxpOWZBeFFRekFFV0NGbnhLbTQ?oc=5).
 
 ## Requirements
 - Python 3.8
