@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sangamon County Sheriff Jack Campbell stepping down in wake of Sonya Massey shooting**
+**Imane Khelif wins Olympic boxing gold amid online furor over gender**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQblFoekZUY3c2bDd3Z01STDdaNVpaS0lwLVhrOFpyOFhEZmV4M2JlMkM4ZF9UNl9teGNQcllEYzJtTzg4WGpOMi1HVjhIS2MxcnUzYW0zbUZzVU5uZ051MFJ2SDZfMUVHNV9yZ2VnTkUwZGpMclBQREt2UUFGVEpLNVN5bTJES0MybHZETGpuTG8wTmMwWl9Jd3Rranp3RHNuXy1Qc0EtdjBJR1nSAaIBQVVfeXFMUElMTHRuUDhLUW8xb1RfV2NTaktWQ092cHZDY0wxMTZOLUtVTW5sZE9jYTc2N3NFVWR0WC1uUmZoS0hMUERiSk1UTUhFQ2pTNC1lcklKcDYyVC15RTMyaExScTNBRlYwNklkRVBFM2pwR1k3LXVyRXVZYXFvcExfak1sNVNhRGp5WkZ4dWJEMDRKd0NsR3VmX2llM2otc1JNRUV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE1oNTl6dHpDMWxQaEE0N3lGR0N4T3laVFk5eEE3bnZzd3ZHdFo4bmRJSHBXdEE3bkNDWWE2SXBjT3RJSnpiSUZpZlVxZ3h1OFJNeGxlZ1Q5WlZWWTdoc0lMMWo5dlVRV2J0UGE1UTlJWG1odkpqNDVKbFE1QlN1bHRaWXQxNXYtU0k2bTc4OXdRcGcxT1NzcEtZRndjY2N0eGhBWjBxd0l1a3ZkWVp3?oc=5).
 
 ## Requirements
 - Python 3.8
