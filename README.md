@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This after-dinner activity went viral for helping you "age wonderfully." Does it work?**
+**Ko wins gold, qualifies for LPGA Hall of Fame**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE9JVEtOaXdxMFI0NV9fSkptd19fcklodEFISy1EN0ZvcDFzUmY2bWpGaDAxbGFGcjMzYkdsSWlDRGRlcU9fanZMam5zR2xNaTg1NFFfRVc1MThnUFRjWUF4TldLdFNuVTlRbnlKbzBMYk1TamVhcm9qT3BST3BpZ9IBgwFBVV95cUxNaUo0VlpuUi01eHh5S25yQkZSTGw4Mk4xc3ZqZ1NyMDJXUnBMS2hmb1FQR1BkZlJtUGtGNGFrOThNSXJBd1hRRGZHOWh1aExNTkNhM0Z3amlLZ0hnRmdoS3pGRHpZWTlmZkdOellQYWdIdmpCcGRqeEtlRklZakc4djlXMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQYk5nTml0dnVCS0ZRNndsSElCNEdHNjVZbWVWRlJzYVplOVRlOTUxb2ZtblJjT1VDR3dtNkVZNGNvcWlOeHZLcHJWRW5yVy1oODZuRkoxYWhlSVc1ZzR0bnRSTlFLa0FWbUd3T0hIUmNQdFczbTVFWFRiMWpyRlZmNEthZVE5b2ZUeG4yc0FuNENrWnFUZUZXUWZNbGdBNXd1dVlF?oc=5).
 
 ## Requirements
 - Python 3.8
