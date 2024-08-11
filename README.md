@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights Forecast: Where Aurora Borealis Can Be Seen Tonight**
+**Videos and 911 calls from Uvalde school massacre released by officials after legal fight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeEpSbS1BVmp1QjVwUVBKdFhLaVM3R2hraGt6M0k2SGlrTFFicFBmTnBvdlo3UG1jLXlvQ1RlbU5kcnhud1ItYVNKZllFODRfLW1RU3p6bFJiX0xiaEJWcGxWSmhYWHJQaWtpTXNLNGpUWWZtOE9aLTJXSmYzQ2ZfMENENlotRUF0NmFLSGh3U2dqc0JtTHBUai11cnYyanZQWDVPdUFCOW1IWGE3Rk9KUXlEWDA2RUhFdl9OMnQxQ3dyZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNTTB6cjNyUmxKU19DN1FBaF8zZFZJVXRIdDJPZExUbnlHRTFPZWtzMFRuWGxlbExZUzJIWVFfYy1UcHRGTERSZnd3aTNrTVdDakIyVFJDdzV6T2NzMnNQbldob2dfeldobmRwQXZpSVFRWnhjTmZ5cU9BVkdtLUowNXFXaFAwcjdOY19uZXR2aXB2Z044YUtuU21YUFlsZw?oc=5).
 
 ## Requirements
 - Python 3.8
