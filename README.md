@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former YouTube CEO Susan Wojcicki has passed away at age 56**
+**Mega Millions winning numbers for August 9 drawing: Jackpot now worth $405 million**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXJ5OVZpNnQ5MU1nVU5TVzdwYlNuNGxvWWtsWkx3UlN0eUM3Tll1SHRGSnFlNHNSWHNqVVduTjI5Q2FPdmp1cERmR1gxNFJLSVZVOE5zWFU3Nm5PMVhXdDdxZk9vQXR5dU5KQ0g4UWVReTF4SG5PUXRPSlowdU9iX1czYndWZXNJcjBfUGZWYjEyc3NKcUpRdjF3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ290Wi02Rm9taG0wWENVb0xMdk54ZzZ1OXlsVGNKSnFLYnN3dExDaTBiZVUwYjFnMWI5Zko5dW96dDV4MXhRb091a3F0bmZsbW1UX29zc3FjZlo1ZXUybEtWT0JMNFlQVjlxb254NnY1bWkyTjlxT1UwWmtfcHZmMmJzcGtzUjNnX0FwbEhQMmRUd1ZwTm4zVVZ6VHBZSW8?oc=5).
 
 ## Requirements
 - Python 3.8
