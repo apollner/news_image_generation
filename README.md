@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coach: Lyles had 102 fever when he won bronze**
+**Justin Fields' first preseason play as a Steeler results in 16-yard completion to Najee Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0t6Q3dMUDhXbVIzYWFTNkdScEFlRUJ4dXNsdWx1czVfUUVXQmV3M05NMkxYUEREQ1JZQ1M3M1lPLXQ3OU8wNkF5VXowRTlqdUNWUHF0WHh3Y1NsdDdPMHkxWU5vbzdBQXU4RUYzYm9YZllZMnZFSFN6X09TY2dmOUcxMVJuV1ZLekN6OWgyODZOQTRnVTJ1U0lMSzU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2RDLVZYbEJVUHhVmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
