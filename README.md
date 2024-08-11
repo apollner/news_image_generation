@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starship is ready for its 5th test flight, SpaceX says (photos)**
+**Can weight loss drugs curb more than appetite? What to know about research on other possible effects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibkFVX3lxTE9xcWJ4c3RBU0JWYXNId1dGbnB1V0ozNmNZaGNjY3JLcnFtNjh0UGM1YzJrb0NZTGdmWVJEU1JMUWl6SlpSRmJQc05Pb1g5bzQtZEFCdEVuQmJUNXNGLUttV3dJaUVGY2pYclUzOGdR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlJQTE8zT1FjU3MtZm82eVJ5QUdGNzJDbUo5Q2V4aGhqcGhRaTc0eWxEMGpoOUdHTWpFUTZjeFB5SU9kVGtscG14Y04ybWJCV1hXdUVLUFdDblpZdjU1RjdEeUR1cS0wR1V1bExuUnVadXBETEtXZzlJNE9DVjBCaTB5Y9IBiAFBVV95cUxOVmVXS3FIZWduS1JYcDVHVGVYaXZqWDFfRnZzZ3pVLVRndkhFSWNyVjFkR0VjbXRUTzJaLWpwaGk0cUhjbXNIQUE3TEE1NGp3Q2RUX2xNbzZYdUJhblhTSU9ZRmhEZkxCQWZ0NGpUNVlOZ01DTmhKX0ZKR2NISkU2V3lmMW13Si1i?oc=5).
 
 ## Requirements
 - Python 3.8
