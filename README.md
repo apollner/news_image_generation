@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney's D23 fan convention showcases 'Moana 2,' 'Incredibles 3' and 'Mufasa: The Lion King' films**
+**U.S. restarts offensive weapons sales to Saudi Arabia after lengthy ban**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOczF0Z1B1UURuR0RoUUJNbVlZVmVILW84NHQ3Wl9iLWlmeXh3NXN1VmZaSXF0U2FzMUE5YUVnRXRSai1xdlNHTHBxOWt2MHhGVmx4Q2haazREa3RWWlVjZW9wLWFHMmV6YXRGemdNNllob0M1ODlSa3JiUThzcDRMaUljX2hkN2tKZ0VJV0s2aTBienc2bWZnb0g4dzRFRzNkREpiTUxpOWZBeFFRekFFV0NGbnhLbTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ21TVHpMQldpbjROQkt6enJhdVNBVU5lMXVfS3ZkNlczVGpVSm5IX1UxNkRrejBOMk9KclFyYmx1NlotSlVTSTFhYjNuQVlSTGR1Ykx1Yk9xM2Q1Q3QxTHo5NGNwYlVtTU5zLUhBVGVBcjNwbm5pWHR3alk4cURYNU5FTnF4NHdfN2Rz?oc=5).
 
 ## Requirements
 - Python 3.8
