@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debby finally moves out of the US, though risk from flooded rivers remains**
+**Former YouTube CEO and Silicon Valley trailblazer Susan Wojcicki has died at age 56**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG1zX0RZbThxcG4zdy1jOHh3cmZIQ3U3eDgyY0tFSVhseWtEYWZBZ3c5SmtUNHd0UE91dkpCX2laaXNFTDh6cU1WLTN5YkdKN2cyYTNaX0RvSWxEeUVZSUV1VTUtOWhmUmlRWVloTmJXcjUzeHBleFJ1YmIwOGZKSzhVS0c4SEg0VFFjdGRWMUdqNHVPVGQ0czlsUVJuT3lf?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWw3TEpmdE9KUzBjanNwOEtEeVNCaUhPNG1GcTVtZS0ycDg0MExMX0tFVnRWcTBNNEdkX2s0azFGeVp6bmNIZDVBN3JSV0k0cTlfSHpsR3ByS2ozaTN0dGhqM3pvSU9KMHFFYlVVZkxRc1dqUC10aHdLREIybDl5TzhHbjlfdzA5d3NPTjVlejdFRmxZYUJsazhpdEhZVjhHU2hQTEZuRFFhSXJFMFo3R0pVOHhiM3NaM3JWVNIBwgFBVV95cUxPQzRhZ0pkdG95bWJyVnVGcC00OGM1WURENlN3cVJHS014SUFZRWdSN2RLeU1zeG9Tak9rNEZPQnFJUWlsQ2stMW52cU9ySFh2U2lQdWpCZHQzd1lyVFFGUk1FWm00a3VTM09BU25uSUZFN3YzaXMyOGdSVUt0azlEUWlUelNUZjF0Vmp0RlVWTWFKZ2NCNkZiMjRDU0xiWXRmRjVBS3kwU3dqMVFENzBid2t6WHB5S3JDWkU3S1E1ZE5SUQ?oc=5).
 
 ## Requirements
 - Python 3.8
