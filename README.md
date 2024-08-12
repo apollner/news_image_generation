@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 16, iPhone 16 Pro Release Date Proposed In New Report**
+**Harris says she supports eliminating taxes on tips, like Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhtVFhJd1VVR1gzdVR4aHg1S2dIWVRySDhkQWpUR1EwenRkc0tZZExISmM3WGJYMkJzLWRRLW9IMTdaRHJVcFd2OXFBYi0yVTF4WVVyNjJ3ZVdGRGVSUW5XQ0JPal9lUmJ3SnczZ1NqbWNtZENwZy1ZRDNNM1lCN3lYS2toVEtHbjBFQU1YbVhTaHU2eDFRYnJtamlUdjdLY0l2eTJ3X2pvRVRZSW9zX0c1VGp2LWV5amc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kXzVNbnFKN0VoX1dYVmZuNVhUZTF4WkZlTXJBUk8zSGFyYm9YQjdoREtlSzhZYVlxdEFoM2ZVZGlzalhrT1FQYm1xdkZPeHdjVnRuSUhnTWVtWWV4UDlXbVF6MV9Qb0NLS18tZnNSODJxWlRrdjc4a1pkS0dLel9oRDZoQnVUMXF3Sl8wdTJKR1RXeXhFNXJTVVpSQzlBSkZKNVV3?oc=5).
 
 ## Requirements
 - Python 3.8
