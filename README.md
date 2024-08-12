@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky confirms Ukrainian troops are fighting inside Russian territory**
+**Hollywood Brown has been discharged from the hospital**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHdKTU04emVJc0hkazctT0lTblhacVhhQjhfRVZhV1JKM2VRbm5wNXJCV190VkNWWG1qVGppZDJYN2FTQ0U2Q01USGIzY1d4Sl9XamVWdHMxcS1iZVdYcS1GUHNLdXBfSFAta2R1Ry1CSnZoWWEyOG1ZZzU5SXhySjJINVVWX3YxRndDWnc4ZXJMTXkzZ0JCakJfbEfSAZMBQVVfeXFMTjJGeVNZUmlURzJlaHpaTUFJdk9xZFZKSkV1TVRsVm9qU1NESGhzSUdWSTBlQjFVcUV4ZUpvQW9jNlhReUFmY21CbkJHUTZpU0s2R05FOGhpbE91ajhBYWhweDJtX2xtMVNmT2JrVjRuRExzRmJyd3NKWFFHXzdnVjNpa0J0S2ZWT0VVdl9FSWxuM1pj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNU1FwTmprNURxamRIX1hNQXBLTEgyLUExUWVQenZ0OGVQWFJJbTd3VUlUNzNIMVpERDl0c2cyMXh6OEVXeHNiekFkQ1pqejVxbEY3TTEwMnREYUZ5Wnh6ZzZFVXpwOXRUendRbERodnBURHpraDZnMXRXYU1ScFJuSXY1UXkyYlc4Z0FhWXB6U0MySll0dGJ1Wmx6b0N3d08ydWdPSkMtZmx5amE2T21YZU53bV81QQ?oc=5).
 
 ## Requirements
 - Python 3.8
