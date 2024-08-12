@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walz ‘misspoke’ in saying he served ‘in war,’ Harris campaign says**
+**US gymnast Jordan Chiles to lose Olympic bronze after court ruling**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlpkNVVlWWdRVjJQYmsxMndYUmtqeEpFUFRab3JfOUtONkVzWndiTnc5eHN4SFVpZHZ1NnFRU0N5TXpxOUxianJIVXhzNWgwSUY1OUljR0lWVWVSNDRqU0VkR1VIUjFPN2lIZUN3MUdzUVJpWXpYMEo0U0ZjR2ptUmtmX3E1QVc5ck02U0NYZ9IBhgFBVV95cUxQU3NPaEJZaFM3M0RSWXROX0l3QnR1bHRVN244clQ4MW1kcVQzUUpWN2I0NTBGRUQyNld0U3RWdWpiTWotX19zUEw2VHRZUEpibkdnLXhQY1pEQjgwSzNKVEE5dHdWdFVsYktCS0NrR0Z5WG5oc3MzWlI4anVuQUtoeTkyUTZiZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1JlaWxrQVFEc2ZLcEhGOGtRc1czUm5tS1JvVFlKSWlUdnh5QU1FRzNXR29LUU1Kejc1UlhDbzcxUWZpTDE4UklzdW5XWFM2Ymp3STFmQzhrdWluMjNkbW5HZHptcUUwbWUtdVZiQThsUjBXU0RQREd2QVBqbkF1SlhSR2Q5c25JNHp6X2NTOGc0bjVHS2JrUWFZSjgyd1A3ZDB1WVpwWXdGbUw5R010OGI1QWt3aEFCTzVUMGJn0gG-AUFVX3lxTE55YmxhZEl4bGhQdk5neDk1TVVELW9DUjRkd0hXT1pFSlMzcGg4UXdfbXhDMlExd3h5dWlrMU9MM1p1QTBncDNfaUdjcU1jNXQ4U0dvc2dkbDBjSkFVRUc2UzZ1ZFpjQzV2allOZW14TGtUMFpaaTZJWFlmcWtHS0I4bm1VZDVya2lSakRqZERXbHcwQ211b0pRdVVtZGhSeERKVE1takY0Q3ZoQUhYOVJYT3VpWUhTVC1LYW02NGc?oc=5).
 
 ## Requirements
 - Python 3.8
