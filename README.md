@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From villains to Indiana Jones: Everything we learned at Disney’s parks panel at the 2024 D23 Expo**
+**Walz in the National Guard: A Steady Rise Ending With a Hard Decision**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWpucE9aWjg4QlNGUTJwM0htUFJJZnl6M1owUEt1bFNUWGxYc0VPUENkbXdYNU5lRmowY0pMX3hIazFvb2NjYVpEbW5mcm9GNWloSkptbEt3aFNHTmN4RU9iZUEzR184X1pZb2V3OGJzZG9rQUxuM0VXXy1XeUY2ZEFxWFVwMEg5ZF92dGRicW16UGFvTUh2eTVyVm80eWJBbnNZZNIBqgFBVV95cUxOZUJ5VWh0ZzM3ZUZ0cmNYU3RsYXdGcTlIRjJFbTNOaUM3V3FZV1I4RU1oWXlrUTJ5dDVnNWJCMXRsVjlpQ2ZxVlFscjRWc2NsSUEwY283MVVBVHExcV9mRWNRYkwxd21RbGJBNnZKRnFCMGRIOHlWY0xyU2ZXTzh1RWszZzNrTGZUWkt1djZsa3V4SFg1UzFGVDk2OVFUNE9QUGg4YUxLMnU1dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYklBTHFqVFpOMWZ1NE1sUENvcTI1a3ZOY1dsdVgzVkh5TTdlbkM4MDJJd2dCTmY5TlFYR2VHbnZYZDN5SEdETG9LRmlwX25tdjhaR0VmdF9lSjN3THZiWU9PcG0yUEtIdW41QV9lZHFobmVrT3c?oc=5).
 
 ## Requirements
 - Python 3.8
