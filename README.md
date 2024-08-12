@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX aborts Falcon 9 rocket launch from Kennedy Space Center on Sunday**
+**Disney Details Vast Theme Park Expansion Projects**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZm12NVZWUTIwbFZyU2FoTHpmYmlCbUk0MUltUmh1S3Q5S1paZDBrTGxyakhjNFZLcGh4OVpTX1V3U193bUhrUGEwRTVKUVNDcUkxaEwta1otVDhGTnloRG9LYklmVl9DSDctTHdpV0JjTWNfS3pCSVJhc1g4QjRVVnQ0bmRwcmpXSTR2dUQ0ZU1EUHJmLUJR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5nUzdRN0dlWlE0Zm00XzAzLUxOV3RTOVRxdjdWanRjd2dsa3ZFT1pVQ09yemFQRjlDZFlzN09xc1NjQTRyNzhQWk1sQnVmWFlsQno3THJORnV6Ynk2QzZKTVg0ZC1oUnVPU0tyTGxrUjgta2lrWWFtcWVvUQ?oc=5).
 
 ## Requirements
 - Python 3.8
