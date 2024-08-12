@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lively-Reynolds Box Office Domination: ‘Deadpool & Wolverine’ Stays No. 1 With $54M, ‘It Ends With Us’ Soars to Huge $50M**
+**Utility contractor killed in Bel Air house explosion, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG5YSGp1bUF3VkgyM2lUUl81VHduWlY2aDlCWUg5V05yZEZ0VVEtSEN2R3V0U05nVkhNVjZNems1R3QzNzZqMG5abmQ0WWZTQUw1QktydzNUeHgwN292SFBYS2J2cDFtZTF0LXJiaEVfbk5ILXNKLW9jTy1raVBfeFlpbkVhMXY3Qll0WW9EMjFTTHpuWTJoTVZzNG9xcFZt0gGmAUFVX3lxTE56YktGcUg1Ry1yQjNSdzFTam9FNkFBUnpIYjlTU0ducGdheFIxMEdoaEFPMGNjcmR5aVp0OVNjNFU0MzkwN0YyTmVtSzJpa29keGU1cHEtTG9TUDRweThqbEt3VjBHSmNHSjZYMmwxcDNHZWlQQ2NGNm9mOXhLQTcwZFVXSnkyalR0T3JQV2x6V0tVQ3czWGN5elNYX2ZQRUJUMXZQdVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlEwSzB3UGVZdi1wVWNpbVNIdE9yVnRiRWQyQ0lYN2pHYktBYXU1NmlPak9VQVdEc3h2dk9pOHRNSlp2T3pHWi1CTkNXUDA5X1JGa1F3clA0SWpESDQ1R1VwT1RwVlY4TzNzR3h1T2dpTWRsYnZraTkzRnJHeUVTOWwwaXgyTDd5Tzhv?oc=5).
 
 ## Requirements
 - Python 3.8
