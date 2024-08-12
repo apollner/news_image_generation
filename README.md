@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Biden on ending reelection bid, and defeating Trump**
+**‘It Ends With Us,’ a Romance Based on a Best Seller, Soars at the Box Office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC3EzNGFXckVMWV9nmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjF1dmJyTzc2SnFlR0RMb2J6Yk5PZENXemdJR3VuT1dxWVN0VmJwTmxwaVVzNVFOd2UtT0pMRWpSS2JlQVpwZENjVHJJUENka1EzZ1pEbUwwemgxdzRNeF9OeURlY3NpSGVxMWtpTXFGTFhZbkV6b2hFN1V4MVlBRE9pUmk4S2F5?oc=5).
 
 ## Requirements
 - Python 3.8
