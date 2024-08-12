@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utility contractor killed in Bel Air house explosion, officials say**
+**Zelensky confirms Ukrainian troops are fighting inside Russian territory**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYlEwSzB3UGVZdi1wVWNpbVNIdE9yVnRiRWQyQ0lYN2pHYktBYXU1NmlPak9VQVdEc3h2dk9pOHRNSlp2T3pHWi1CTkNXUDA5X1JGa1F3clA0SWpESDQ1R1VwT1RwVlY4TzNzR3h1T2dpTWRsYnZraTkzRnJHeUVTOWwwaXgyTDd5Tzhv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQdHdKTU04emVJc0hkazctT0lTblhacVhhQjhfRVZhV1JKM2VRbm5wNXJCV190VkNWWG1qVGppZDJYN2FTQ0U2Q01USGIzY1d4Sl9XamVWdHMxcS1iZVdYcS1GUHNLdXBfSFAta2R1Ry1CSnZoWWEyOG1ZZzU5SXhySjJINVVWX3YxRndDWnc4ZXJMTXkzZ0JCakJfbEfSAZMBQVVfeXFMTjJGeVNZUmlURzJlaHpaTUFJdk9xZFZKSkV1TVRsVm9qU1NESGhzSUdWSTBlQjFVcUV4ZUpvQW9jNlhReUFmY21CbkJHUTZpU0s2R05FOGhpbE91ajhBYWhweDJtX2xtMVNmT2JrVjRuRExzRmJyd3NKWFFHXzdnVjNpa0J0S2ZWT0VVdl9FSWxuM1pj?oc=5).
 
 ## Requirements
 - Python 3.8
