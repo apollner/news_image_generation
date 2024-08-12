@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It Ends With Us,’ a Romance Based on a Best Seller, Soars at the Box Office**
+**Two Astronauts. One Space Station. No End in Sight.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmtHaS0wU1pieHphMDR6YnF2bFpqcDBxSUswS0cwdTN1VFNEZGE5SVp3YVdmcTVzc2JmRUtuaDFkUzdzVURxUDBrQnZIbWZMRjMwNlJibWtwTFR1VEd3T3hXSEZYRDNDeXFNSjBPZkJyaHo0RVhhbmFXbFY5akdNbFVuVDhXX3h5Z05DX05tMld3YmZpQmY0WUcyUVoyWThwVGlTdFZsbktfb0U4SWRUUGNwc2ctZ2JSR2wwZkpRWktfS2Q1THc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC3NIY0RndWZlYkM0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
