@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign reckons with hack; Harris holds fundraiser in San Francisco**
+**U.S. Navy struggles with warship production while facing expanding global threats**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJIWVd2V2FaMERxWmczU0l2Y2MxT3QzeW5DbDh0UHJrRE5fQzBILVNlQ1loTkpoelN3THRTY1dtejlkUVE0czBFNHQ5UXNITk14MkxFaW9OaHdFZjVSSW81bWhkQVF4SkZ0SkVoS0pxc1Rxek14cjhJMV9nZkFwTTloNElxX0xySk0xWU85R2NtR2FpYWZEQU1aTzc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPdHZlN3lCQlZWQmx1SEVHS3g5YmE1eDc2b1JGTDBLcUw1N0dFVHlXLTVsZGhGd3BuUzdIUVJsdmx4Y0ZPdVh5OUFWTlVqOVdaSU8zY3VZSFR5QXRLSWhkUEZlSFhtUHBxRV9mOWNRNnlIbHo4Y1NnQWo4WXB1ajFOY2pwXzRtUHhBbENlZVN5R3k1OHVRZThsWVZvUVFITG4xdDVWOHFwOG9nZHJUM2fSAbMBQVVfeXFMUFRYRGE3UWxrNmRJQ0llQUZOTnM3eUEwTUN4eXg1MWlBcTZ2VEI5Q1kxUGlKWngweENUeXM0cUtFdUJENDA5TFFQZldjdWRDUXhaYlk5cXZuT0VWVktZQ1BBem5vRkszLXpkenZRdmw0ZGI5M2NoZjVacmlHa2x2UU5nbEM0ZV9uUXo3TjhNbEg3dzh1QjFndm9rZkdCempFSWhnT01HUlVHeThHcVNBeG9hb28?oc=5).
 
 ## Requirements
 - Python 3.8
