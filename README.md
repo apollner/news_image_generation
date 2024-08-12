@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican drug lord 'El Mayo' Zambada says he was ambushed and kidnapped before being taken to the US**
+**From villains to Indiana Jones: Everything we learned at Disney’s parks panel at the 2024 D23 Expo**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0c1MnUyMzhfUzVjWGZ0LXFtTHhybHdxVXhQZHlqYTFuaTZMVkhGMDU5S0E0ak9oTkd1ZFhuX1RTeGlBTU5mQmFSSDlQcGxHZGVXQmNxOG50VnJacUxfeTFwcGFvXzR2LTNGcVNRSUVDUTFqbWRIS3hxb0kwUGZVaGp6dS14TkJ0OTFIVjFHaHpOSkM4M2xsVDZCakFxU0NKRXFpc2Y3MA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWpucE9aWjg4QlNGUTJwM0htUFJJZnl6M1owUEt1bFNUWGxYc0VPUENkbXdYNU5lRmowY0pMX3hIazFvb2NjYVpEbW5mcm9GNWloSkptbEt3aFNHTmN4RU9iZUEzR184X1pZb2V3OGJzZG9rQUxuM0VXXy1XeUY2ZEFxWFVwMEg5ZF92dGRicW16UGFvTUh2eTVyVm80eWJBbnNZZNIBqgFBVV95cUxOZUJ5VWh0ZzM3ZUZ0cmNYU3RsYXdGcTlIRjJFbTNOaUM3V3FZV1I4RU1oWXlrUTJ5dDVnNWJCMXRsVjlpQ2ZxVlFscjRWc2NsSUEwY283MVVBVHExcV9mRWNRYkwxd21RbGJBNnZKRnFCMGRIOHlWY0xyU2ZXTzh1RWszZzNrTGZUWkt1djZsa3V4SFg1UzFGVDk2OVFUNE9QUGg4YUxLMnU1dw?oc=5).
 
 ## Requirements
 - Python 3.8
