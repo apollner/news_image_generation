@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Chiles stripped of bronze medal in floor exercise, US to appeal**
+**Trump campaign reckons with hack; Harris holds fundraiser in San Francisco**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHJDWnRORTZDb05zSzd5NExIWWRSUElRNS1acm1LUnZOLXFmeFhrT0x4eWNTbHNqZklHMHBhM0FrM09XV1prb2ZmM0xxSWlzYVFzenhLWnpYcnJsbmpBdVppQkh5TlNyUldzcnNJYlVkMTBFWXJUbXExMktuQjhTc3JNY1FlTFZ1djRTanotSE45U1o2eThfc2ZkZm1kZDNod2JsZnZiUDd2YUZSMkJ3ekxoU29OOVRqXzdid0kyc9IBtgFBVV95cUxNSG43OWFQbm1Dc0JyVkZVZ2JfWU1IUk94VWF0TDZEQXJPQVZNZF9BMjRUVWdtX094R3VsTy1OLURHQnJFSnBuQW5henc0RHhHTDFVVVp6RnNBdTMyUEpiTk02ekFYU3dyU0w4ZHZvNnNnTUduZDBNNHJIOUVaMk42c0UwVjdWbm16bXNvUVBHREV3X2VhQk4zMm1NdTNoVVRFV1M0cFN4cFRZbTcxS0RvQWViOG1mUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJIWVd2V2FaMERxWmczU0l2Y2MxT3QzeW5DbDh0UHJrRE5fQzBILVNlQ1loTkpoelN3THRTY1dtejlkUVE0czBFNHQ5UXNITk14MkxFaW9OaHdFZjVSSW81bWhkQVF4SkZ0SkVoS0pxc1Rxek14cjhJMV9nZkFwTTloNElxX0xySk0xWU85R2NtR2FpYWZEQU1aTzc?oc=5).
 
 ## Requirements
 - Python 3.8
