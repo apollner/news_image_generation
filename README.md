@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Golden Steph: Curry's late barrage seals another Olympic men's basketball title, as US beats France**
+**Guest column | How useful are cognitive tests? The answer might surprise you.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGEySDhvdU5yUnJpOG4yRkpQTFlyOHU2SllrVXdDa3N6ZGp1TW5BeURZVTB0YVE4VGVyUkpJVEhxcFFWbzZvV2hEZXhoOUZQQ1lObXdBU01hQlF6STRsLS0taUxFV0V0MFBHRktmNkJSemVCZjRsZGhmOG9ZaVdGWXNsa01QN25wTHBwWGttSmw3YVJlQWJaaXpKNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRC1IeDR1d3oxUHRKN0VETXl1eEtNeUpHZW5TaUNyX0NNeTZlWENvY0RpdGdGcWpLM1c4djNCbGdXdjBSQnRBbEFWV1pLY2V3eGlZay1XTE54MElVc0hqRjRMLXlmS2pGQ3ZZYnFPZVl6QmhWYXRobmRrT2xtRlg2SVlBLWJlcU5QZFJMbndHbXdwa2w3Xzh6UFBtMA?oc=5).
 
 ## Requirements
 - Python 3.8
