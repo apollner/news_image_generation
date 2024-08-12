@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sao Paulo plane crash: All 62 bodies recovered**
+**‘It Ends With Us’ blooms in No. 1 box office spot**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWo2SE5zcGpIZGhzcGhaVUZfN0g5LXgySDNydldsRUI0STdHemlURXlzSVItQ3ktUTBUSE8wQzVkbThZTlphbnpYcUV5bjRBNmdjaTZBamV1RTVCRTBaV3h1WVloV05UeUhxNDlHQVJPWXhiWmk3RmxGUHkzZ0dVZDhCREdXeE1jczI0MlRMQllTZXVLM2Y4TDJrUS1lcFNxaWRoUS1ZUTJuQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxONzlma0pVNVRKNWhkODdpc21FUVlqbnVFRzJzcEZLREhTOFZKTS0tUUVEN0UybTY5bmE3blpwUm5vS2d3eHBFejF0ZDVPZWNjOFFFUk84Tm1fUFN0VEljTzR1MXVVYmJFSGgzN3lJWlpUNGpibVBuWXlEVFp5Q1pBVGx6RHhzRzV4aGJOeG5YN1d1V1dUclE?oc=5).
 
 ## Requirements
 - Python 3.8
