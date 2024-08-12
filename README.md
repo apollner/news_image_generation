@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sao Paulo plane crash: All 62 bodies recovered**
+**With Olympic gold on the line, Steph Curry, LeBron James deliver for U.S.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWo2SE5zcGpIZGhzcGhaVUZfN0g5LXgySDNydldsRUI0STdHemlURXlzSVItQ3ktUTBUSE8wQzVkbThZTlphbnpYcUV5bjRBNmdjaTZBamV1RTVCRTBaV3h1WVloV05UeUhxNDlHQVJPWXhiWmk3RmxGUHkzZ0dVZDhCREdXeE1jczI0MlRMQllTZXVLM2Y4TDJrUS1lcFNxaWRoUS1ZUTJuQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSC1zanJqcktRNlZkNWQ0eWVQc3lSc2h2cHBXMjNQRkUtQmRpWXJjaWRRRW9tRGM1TlE1QkJRLTdzRDZOR0dXNmw4b1lfeU1hdE9LVVc3QzgydlByRlhMM1k4RGw2LUV3RXc0d1IydVVOdjN4WkJSTldtVEJHQ29xS3NKYklQaTRVMnBzb1B3SkpJbnFFS3A3VjlLVlZKX1JlYjZELTFCa1Z2cHl3Wkktbw?oc=5).
 
 ## Requirements
 - Python 3.8
