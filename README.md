@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry shows otherworldly skills as USA beat France for basketball gold**
+**SpaceX launches 21 Starlink satellites from Cape Canaveral Saturday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTJjdDVBbEp3azVpYXIwNHoxMVl0cXY1WEtFUU9rVGtfMlVMQ2UzZkJvbWUtakowQlZFaWF2T0hnbEpaNV9fdkhNYnBSUHZOcmlsY2VzWTRJMW81Y2ZBSUR1dmh5Z09PTVNIdFlwQVRFSnRiUmlZZU0xb1dCVGZVd2RmS2IxVlhuVllINUhESUprRTAzZkc4eUZ6bWZfUUZpNzJQTUwwNDc2UXFXNEJHMmdB0gGyAUFVX3lxTE1rUWxMY29qV3lPTGlrS0wwMjJZT2l1eHVfMnc2VUJtMkZNWWRBcEpxU18wS0VqZDZOLTRlQWl1N2N4VE5BQ1I5dFpEQzB3ZkNiM1BJRFpjUzJxM1N6aVhCTVh3MkVSOFVIN240aV96RWxjUWIxOUhEb3JMUS02UFh0N3hqakZkYXpkWm5IQnI4clNjVnQybWJLM2J5MVRodXNPQ2lDRk5aanEteXlMTkY1bmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEVYOW4zLWtKTGk3SHNCQTJqWXNjblc3REFpaGNKSk5OdENWQXF0aWprWVJxTWdPMEVIY2tCdV9RUGxPU1ZxZEcyQ1F2cTl4TS1zV0l4OXd1bkxkdzJ2b2JpQ0lFczFWY2dFVnRrYk9XZlRHMGIzcXJuRlptbXVRR3VFRnRNcmhPanVGV2Itemdudw?oc=5).
 
 ## Requirements
 - Python 3.8
