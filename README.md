@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 21 Starlink satellites from Cape Canaveral Saturday**
+**Apple iPhone 16, iPhone 16 Pro Release Date Proposed In New Report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNMEVYOW4zLWtKTGk3SHNCQTJqWXNjblc3REFpaGNKSk5OdENWQXF0aWprWVJxTWdPMEVIY2tCdV9RUGxPU1ZxZEcyQ1F2cTl4TS1zV0l4OXd1bkxkdzJ2b2JpQ0lFczFWY2dFVnRrYk9XZlRHMGIzcXJuRlptbXVRR3VFRnRNcmhPanVGV2Itemdudw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhtVFhJd1VVR1gzdVR4aHg1S2dIWVRySDhkQWpUR1EwenRkc0tZZExISmM3WGJYMkJzLWRRLW9IMTdaRHJVcFd2OXFBYi0yVTF4WVVyNjJ3ZVdGRGVSUW5XQ0JPal9lUmJ3SnczZ1NqbWNtZENwZy1ZRDNNM1lCN3lYS2toVEtHbjBFQU1YbVhTaHU2eDFRYnJtamlUdjdLY0l2eTJ3X2pvRVRZSW9zX0c1VGp2LWV5amc?oc=5).
 
 ## Requirements
 - Python 3.8
