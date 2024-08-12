@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 winners (and 3 losers) from Commanders' preseason loss at NY Jets**
+**President Biden on ending reelection bid, and defeating Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQZDI3d3QwWjBoUnJBS1BXUGdEeFpoMVg0LWp5b2FNSXZwY29fZkcxTGZfWlRfTUVieDFzVFZFX2xxdTN0TnhLU1hQdlpSQTBVR2k3RTl2V1pCWmVob3hUQkg2YWF4SXJrbDVIM0tYS0ZiSjM5SGpMUF9OV1FCQ2dDSzF0R3FHWlk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC3EzNGFXckVMWV9nmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
