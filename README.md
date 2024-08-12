@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walz in the National Guard: A Steady Rise Ending With a Hard Decision**
+**Steph Curry shows otherworldly skills as USA beat France for basketball gold**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE5NYklBTHFqVFpOMWZ1NE1sUENvcTI1a3ZOY1dsdVgzVkh5TTdlbkM4MDJJd2dCTmY5TlFYR2VHbnZYZDN5SEdETG9LRmlwX25tdjhaR0VmdF9lSjN3THZiWU9PcG0yUEtIdW41QV9lZHFobmVrT3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTJjdDVBbEp3azVpYXIwNHoxMVl0cXY1WEtFUU9rVGtfMlVMQ2UzZkJvbWUtakowQlZFaWF2T0hnbEpaNV9fdkhNYnBSUHZOcmlsY2VzWTRJMW81Y2ZBSUR1dmh5Z09PTVNIdFlwQVRFSnRiUmlZZU0xb1dCVGZVd2RmS2IxVlhuVllINUhESUprRTAzZkc4eUZ6bWZfUUZpNzJQTUwwNDc2UXFXNEJHMmdB0gGyAUFVX3lxTE1rUWxMY29qV3lPTGlrS0wwMjJZT2l1eHVfMnc2VUJtMkZNWWRBcEpxU18wS0VqZDZOLTRlQWl1N2N4VE5BQ1I5dFpEQzB3ZkNiM1BJRFpjUzJxM1N6aVhCTVh3MkVSOFVIN240aV96RWxjUWIxOUhEb3JMUS02UFh0N3hqakZkYXpkWm5IQnI4clNjVnQybWJLM2J5MVRodXNPQ2lDRk5aanEteXlMTkY1bmc?oc=5).
 
 ## Requirements
 - Python 3.8
