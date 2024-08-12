@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It Ends With Us,’ a Romance Based on a Best Seller, Soars at the Box Office**
+**Lively-Reynolds Box Office Domination: ‘Deadpool & Wolverine’ Stays No. 1 With $54M, ‘It Ends With Us’ Soars to Huge $50M**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRjF1dmJyTzc2SnFlR0RMb2J6Yk5PZENXemdJR3VuT1dxWVN0VmJwTmxwaVVzNVFOd2UtT0pMRWpSS2JlQVpwZENjVHJJUENka1EzZ1pEbUwwemgxdzRNeF9OeURlY3NpSGVxMWtpTXFGTFhZbkV6b2hFN1V4MVlBRE9pUmk4S2F5?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG5YSGp1bUF3VkgyM2lUUl81VHduWlY2aDlCWUg5V05yZEZ0VVEtSEN2R3V0U05nVkhNVjZNems1R3QzNzZqMG5abmQ0WWZTQUw1QktydzNUeHgwN292SFBYS2J2cDFtZTF0LXJiaEVfbk5ILXNKLW9jTy1raVBfeFlpbkVhMXY3Qll0WW9EMjFTTHpuWTJoTVZzNG9xcFZt0gGmAUFVX3lxTE56YktGcUg1Ry1yQjNSdzFTam9FNkFBUnpIYjlTU0ducGdheFIxMEdoaEFPMGNjcmR5aVp0OVNjNFU0MzkwN0YyTmVtSzJpa29keGU1cHEtTG9TUDRweThqbEt3VjBHSmNHSjZYMmwxcDNHZWlQQ2NGNm9mOXhLQTcwZFVXSnkyalR0T3JQV2x6V0tVQ3czWGN5elNYX2ZQRUJUMXZQdVE?oc=5).
 
 ## Requirements
 - Python 3.8
