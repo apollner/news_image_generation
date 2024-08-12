@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Céline Dion Joins Trolls Condemning Donald Trump for Ironically Playing Her Smash Hit at His Rallies**
+**Debby finally moves out of the US, though some flooding risk and power outages remain**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVppSlZjaktTM3o4OWhHWkt1OXRvNUY3UWhvb1ZadDlXM3RpM3g2cGV0Y3JqYnRILVlpUGlkRFpNRGRmVi1fNXdHZEV5QTdMai0teHc3c29zRy1BR1lXOWNyaV9xa3ZRV0hndVE4aUVHdlVKOWVGX0l0ejVGU0R0Rnk0N1RxbXduWU1oZmpRZnl0MUxtVzF0eDZJMGJwWmFCU0E2cXQ5XzJUUGtEeXFXbXhxQWhtZlFyQWRPQlozLW5tWWNvb1lhZkV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG1zX0RZbThxcG4zdy1jOHh3cmZIQ3U3eDgyY0tFSVhseWtEYWZBZ3c5SmtUNHd0UE91dkpCX2laaXNFTDh6cU1WLTN5YkdKN2cyYTNaX0RvSWxEeUVZSUV1VTUtOWhmUmlRWVloTmJXcjUzeHBleFJ1YmIwOGZKSzhVS0c4SEg0VFFjdGRWMUdqNHVPVGQ0czlsUVJuT3lf?oc=5).
 
 ## Requirements
 - Python 3.8
