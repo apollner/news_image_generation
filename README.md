@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Chiles stripped of bronze medal in floor exercise, US to appeal**
+**SpaceX aborts Falcon 9 rocket launch from Kennedy Space Center on Sunday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNbHJDWnRORTZDb05zSzd5NExIWWRSUElRNS1acm1LUnZOLXFmeFhrT0x4eWNTbHNqZklHMHBhM0FrM09XV1prb2ZmM0xxSWlzYVFzenhLWnpYcnJsbmpBdVppQkh5TlNyUldzcnNJYlVkMTBFWXJUbXExMktuQjhTc3JNY1FlTFZ1djRTanotSE45U1o2eThfc2ZkZm1kZDNod2JsZnZiUDd2YUZSMkJ3ekxoU29OOVRqXzdid0kyc9IBtgFBVV95cUxNSG43OWFQbm1Dc0JyVkZVZ2JfWU1IUk94VWF0TDZEQXJPQVZNZF9BMjRUVWdtX094R3VsTy1OLURHQnJFSnBuQW5henc0RHhHTDFVVVp6RnNBdTMyUEpiTk02ekFYU3dyU0w4ZHZvNnNnTUduZDBNNHJIOUVaMk42c0UwVjdWbm16bXNvUVBHREV3X2VhQk4zMm1NdTNoVVRFV1M0cFN4cFRZbTcxS0RvQWViOG1mUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZm12NVZWUTIwbFZyU2FoTHpmYmlCbUk0MUltUmh1S3Q5S1paZDBrTGxyakhjNFZLcGh4OVpTX1V3U193bUhrUGEwRTVKUVNDcUkxaEwta1otVDhGTnloRG9LYklmVl9DSDctTHdpV0JjTWNfS3pCSVJhc1g4QjRVVnQ0bmRwcmpXSTR2dUQ0ZU1EUHJmLUJR?oc=5).
 
 ## Requirements
 - Python 3.8
