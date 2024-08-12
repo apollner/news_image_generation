@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It Ends With Us’ blooms in No. 1 box office spot**
+**Chiefs' Brown hurts shoulder, to 'miss some time'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxONzlma0pVNVRKNWhkODdpc21FUVlqbnVFRzJzcEZLREhTOFZKTS0tUUVEN0UybTY5bmE3blpwUm5vS2d3eHBFejF0ZDVPZWNjOFFFUk84Tm1fUFN0VEljTzR1MXVVYmJFSGgzN3lJWlpUNGpibVBuWXlEVFp5Q1pBVGx6RHhzRzV4aGJOeG5YN1d1V1dUclE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC15X0EzNzdKa2pjbDBCUUktYlpxbXpRNUw4NGhXMHYxRTUzZFFFMXdfUUV3emZEZkVxM1hXMEk2X2NRR2VZTjd1WEhBZWJacDhRdUx5YnNQRGRuQkl1cXZuOG9kZFRHd0VueDhHcC1kTFBWR3pOelR3UjlYcFZpWXk0VENLa1JCbFZqSWxyZ3BfYUV4U0cweEFR?oc=5).
 
 ## Requirements
 - Python 3.8
