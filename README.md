@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Astronauts. One Space Station. No End in Sight.**
+**Golden Steph: Curry's late barrage seals another Olympic men's basketball title, as US beats France**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC3NIY0RndWZlYkM0mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbGEySDhvdU5yUnJpOG4yRkpQTFlyOHU2SllrVXdDa3N6ZGp1TW5BeURZVTB0YVE4VGVyUkpJVEhxcFFWbzZvV2hEZXhoOUZQQ1lObXdBU01hQlF6STRsLS0taUxFV0V0MFBHRktmNkJSemVCZjRsZGhmOG9ZaVdGWXNsa01QN25wTHBwWGttSmw3YVJlQWJaaXpKNA?oc=5).
 
 ## Requirements
 - Python 3.8
