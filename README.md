@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrating 1 Year of You Asked | A Look Back & Special Giveaway!**
+**JD Vance Repeats ‘Anti-Family’ Criticism of Democrats on Sunday Morning News Show Tour**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiCzdCNVZrMEtiUUNjmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSU92YUFQMk9PeG5VZ0JUMkY1OUJraUFSWmlwb09qWnZYNlNIZU1tVUM2VC1WQmlZMEIteWFTTDM2Zl9IbE1jZnJtTHZXUWsxM3hRYi0wS2RoWmVMVG9ITkwydldrbGtOc0ZCRmRpZlZCNUViVUhkWGRoQ3FhbXVoQkxGSUFiN2J4VV9N?oc=5).
 
 ## Requirements
 - Python 3.8
