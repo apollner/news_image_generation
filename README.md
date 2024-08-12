@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 16, iPhone 16 Pro Release Date Proposed In New Report**
+**‘It Ends With Us,’ a Romance Based on a Best Seller, Soars at the Box Office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQcFhtVFhJd1VVR1gzdVR4aHg1S2dIWVRySDhkQWpUR1EwenRkc0tZZExISmM3WGJYMkJzLWRRLW9IMTdaRHJVcFd2OXFBYi0yVTF4WVVyNjJ3ZVdGRGVSUW5XQ0JPal9lUmJ3SnczZ1NqbWNtZENwZy1ZRDNNM1lCN3lYS2toVEtHbjBFQU1YbVhTaHU2eDFRYnJtamlUdjdLY0l2eTJ3X2pvRVRZSW9zX0c1VGp2LWV5amc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZmtHaS0wU1pieHphMDR6YnF2bFpqcDBxSUswS0cwdTN1VFNEZGE5SVp3YVdmcTVzc2JmRUtuaDFkUzdzVURxUDBrQnZIbWZMRjMwNlJibWtwTFR1VEd3T3hXSEZYRDNDeXFNSjBPZkJyaHo0RVhhbmFXbFY5akdNbFVuVDhXX3h5Z05DX05tMld3YmZpQmY0WUcyUVoyWThwVGlTdFZsbktfb0U4SWRUUGNwc2ctZ2JSR2wwZkpRWktfS2Q1THc?oc=5).
 
 ## Requirements
 - Python 3.8
