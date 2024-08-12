@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Their homes burned in the Camp Fire. Then again in the Park Fire.**
+**Two Astronauts. One Space Station. No End in Sight.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUXQ5TjROYU9vbThxTXlJR2dfMlZnNDZ0RzhaR2ZNdlAxdzhlbm84RDNYLVBlb2lwYnl1czZYVGFXczBsbkhTbEMzQVZMa1kzdFFRU3JxT3B4bW1FUkxIRi0yTG43SDllc3BwRG1YZzZnWFhJNEhrUUJ0VVFGVDhxWUhydUhQWVM3WmxseHpNNDdxSngwT0U5QmRJa0FBRDVVSFdzdkV0RdIBVkFVX3lxTE9HUTVPeElCOWF3ZllJb1Q2b0NGUTQ0SHZWNFpiNUYweDJJUmd5R0dWWmp3TlY4U2pnamg2eGdkV3BGaEY2OFZRc2RCVDlnZ2FxNlFOc1h3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC3NIY0RndWZlYkM0mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
