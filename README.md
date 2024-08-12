@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Debby finally moves out of the US, though some flooding risk and power outages remain**
+**Sao Paulo plane crash: All 62 bodies recovered**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQeG1zX0RZbThxcG4zdy1jOHh3cmZIQ3U3eDgyY0tFSVhseWtEYWZBZ3c5SmtUNHd0UE91dkpCX2laaXNFTDh6cU1WLTN5YkdKN2cyYTNaX0RvSWxEeUVZSUV1VTUtOWhmUmlRWVloTmJXcjUzeHBleFJ1YmIwOGZKSzhVS0c4SEg0VFFjdGRWMUdqNHVPVGQ0czlsUVJuT3lf?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWo2SE5zcGpIZGhzcGhaVUZfN0g5LXgySDNydldsRUI0STdHemlURXlzSVItQ3ktUTBUSE8wQzVkbThZTlphbnpYcUV5bjRBNmdjaTZBamV1RTVCRTBaV3h1WVloV05UeUhxNDlHQVJPWXhiWmk3RmxGUHkzZ0dVZDhCREdXeE1jczI0MlRMQllTZXVLM2Y4TDJrUS1lcFNxaWRoUS1ZUTJuQQ?oc=5).
 
 ## Requirements
 - Python 3.8
