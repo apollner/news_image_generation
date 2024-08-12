@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Olympic gold on the line, Steph Curry, LeBron James deliver for U.S.**
+**Mexican drug lord 'El Mayo' Zambada says he was ambushed and kidnapped before being taken to the US**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxNSC1zanJqcktRNlZkNWQ0eWVQc3lSc2h2cHBXMjNQRkUtQmRpWXJjaWRRRW9tRGM1TlE1QkJRLTdzRDZOR0dXNmw4b1lfeU1hdE9LVVc3QzgydlByRlhMM1k4RGw2LUV3RXc0d1IydVVOdjN4WkJSTldtVEJHQ29xS3NKYklQaTRVMnBzb1B3SkpJbnFFS3A3VjlLVlZKX1JlYjZELTFCa1Z2cHl3Wkktbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0c1MnUyMzhfUzVjWGZ0LXFtTHhybHdxVXhQZHlqYTFuaTZMVkhGMDU5S0E0ak9oTkd1ZFhuX1RTeGlBTU5mQmFSSDlQcGxHZGVXQmNxOG50VnJacUxfeTFwcGFvXzR2LTNGcVNRSUVDUTFqbWRIS3hxb0kwUGZVaGp6dS14TkJ0OTFIVjFHaHpOSkM4M2xsVDZCakFxU0NKRXFpc2Y3MA?oc=5).
 
 ## Requirements
 - Python 3.8
