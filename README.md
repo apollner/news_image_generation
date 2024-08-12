@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs' Brown hurts shoulder, to 'miss some time'**
+**Céline Dion Joins Trolls Condemning Donald Trump for Ironically Playing Her Smash Hit at His Rallies**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOeC15X0EzNzdKa2pjbDBCUUktYlpxbXpRNUw4NGhXMHYxRTUzZFFFMXdfUUV3emZEZkVxM1hXMEk2X2NRR2VZTjd1WEhBZWJacDhRdUx5YnNQRGRuQkl1cXZuOG9kZFRHd0VueDhHcC1kTFBWR3pOelR3UjlYcFZpWXk0VENLa1JCbFZqSWxyZ3BfYUV4U0cweEFR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiygFBVV95cUxQWVppSlZjaktTM3o4OWhHWkt1OXRvNUY3UWhvb1ZadDlXM3RpM3g2cGV0Y3JqYnRILVlpUGlkRFpNRGRmVi1fNXdHZEV5QTdMai0teHc3c29zRy1BR1lXOWNyaV9xa3ZRV0hndVE4aUVHdlVKOWVGX0l0ejVGU0R0Rnk0N1RxbXduWU1oZmpRZnl0MUxtVzF0eDZJMGJwWmFCU0E2cXQ5XzJUUGtEeXFXbXhxQWhtZlFyQWRPQlozLW5tWWNvb1lhZkV3?oc=5).
 
 ## Requirements
 - Python 3.8
