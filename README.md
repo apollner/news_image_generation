@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Details Vast Theme Park Expansion Projects**
+**Nelly Makes Surprise Appearance at Machine Gun Kelly Concert After Arrest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5nUzdRN0dlWlE0Zm00XzAzLUxOV3RTOVRxdjdWanRjd2dsa3ZFT1pVQ09yemFQRjlDZFlzN09xc1NjQTRyNzhQWk1sQnVmWFlsQno3THJORnV6Ynk2QzZKTVg0ZC1oUnVPU0tyTGxrUjgta2lrWWFtcWVvUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPcFFYclFVd08wM21uSDRzSkEzQzBxQjdyVE1YZ25hLWRKY3dBb2w2Yl9uWDllZE5NZDNzSjdyUTVyLXBodVVwakVqMktxaDZ1RGZTQVMza2M4QlhHbDloWmU3MFl3eUtHX2FoSDB0VGp0Z1ZWTG0zdGwxWk1aSWhqTVZFeFFmNDl5OWNhdE9GVjk4Z9IBkgFBVV95cUxPR1dlVE5raWw1bzNNNmpJUFJXRVczVmNxanFId25jRFdVTzkzYzAzcXpraWdINXRXemxLZHJCdmhFUzZSZ2NVNjNPSm9vdnZlVWVOcDRCNHlFWkwwazJuX3dlY0c4dmFqY3ozV1NQcUlxb282VnpSOGlHcTVURmJ3MlE0WU5CQ2dkd2kzM050TF82Zw?oc=5).
 
 ## Requirements
 - Python 3.8
