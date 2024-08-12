@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris says she supports eliminating taxes on tips, like Trump**
+**‘I don’t want to die,’ Uvalde student told 911 dispatcher during mass shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQQl9kXzVNbnFKN0VoX1dYVmZuNVhUZTF4WkZlTXJBUk8zSGFyYm9YQjdoREtlSzhZYVlxdEFoM2ZVZGlzalhrT1FQYm1xdkZPeHdjVnRuSUhnTWVtWWV4UDlXbVF6MV9Qb0NLS18tZnNSODJxWlRrdjc4a1pkS0dLel9oRDZoQnVUMXF3Sl8wdTJKR1RXeXhFNXJTVVpSQzlBSkZKNVV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNTTB6cjNyUmxKU19DN1FBaF8zZFZJVXRIdDJPZExUbnlHRTFPZWtzMFRuWGxlbExZUzJIWVFfYy1UcHRGTERSZnd3aTNrTVdDakIyVFJDdzV6T2NzMnNQbldob2dfeldobmRwQXZpSVFRWnhjTmZ5cU9BVkdtLUowNXFXaFAwcjdOY19uZXR2aXB2Z044YUtuU21YUFlsZw?oc=5).
 
 ## Requirements
 - Python 3.8
