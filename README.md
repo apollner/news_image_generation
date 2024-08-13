@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US orders submarine to Middle East, carrier strike group to sail faster**
+**‘I don’t want to die,’ Uvalde student told 911 dispatcher during mass shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHY4VUdZS29XcmdrN3cwTEI5SEc4ZUVpOFpKcGdNMjJtS1BUOFVJM09sZ2VDT21RejNCTVRSNUZhX1c0eFd3U2Z5TktoYy1IaFNPOFNZZmwwQWRTRXFIRkhNRnhycXNHWmJOS3BKN2c5TW1sWVhETzBXTWVsRXpCTGVaVWZSVUxLTXdfOURKTU1sVEk5dTNUVktHY1VmbnhicXowZ0tiMWY2bGhpSkNjb9IBtgFBVV95cUxPZC0yc3BIUXhHbi14bDhoejkxVlZMZU9oM2FjVXZKdHh5am1fM3lrVDdEWGd6dlZTOTdpNERrRHYydHYxYXQ3VVI1QzFEdVR3VGF6UHZ3Y3dmTEgxaTlkaGM2T245eXVrbnB1N1pRX2MwY3pYZVdSZnVYUXdhWTBVMmZCb1lUYUlkamRiTFBNVzZyYnZwTDJaeWxnakRpdnk5eWZYM0I1d3VXVi01QlkzR1hrbzcwZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHlET0JkcUg3QmdNb3dDakhVdHN2NzBiNFR6cHpHcTNoOVNWYkJvdDNWaHVwZzc3dEVqRnY5WXYxMVhKQ0pfT2M1ZEh6cFBJV0J0TTEwb0FMTnM3cjlXb0ZUWUs4bmZWODFsZmZtZTJfcXh2b0g1WHNQODJnU3lmVEIwZXFJNFh3eUtWOTFDSDVhbTVFTHl1UjRKSmJWQmFQQi1MLWlRVVRENl9wVWdF0gFWQVVfeXFMUDNTaDlpR0REOWRVeGFfMjdRR1ktZWdEd3cwaDJvZTZ6R0NvcU1sbGQ2VUQ4N2Q3QmZBUHhZNjh1WUs4YWlEekpid0hRRWVObU5LRGszV3c?oc=5).
 
 ## Requirements
 - Python 3.8
