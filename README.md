@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘I don’t want to die,’ Uvalde student told 911 dispatcher during mass shooting**
+**Blake Lively reacts to terror plot at pal Taylor Swift’s Eras Tour concert in Vienna: ‘How terrifying’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNMHlET0JkcUg3QmdNb3dDakhVdHN2NzBiNFR6cHpHcTNoOVNWYkJvdDNWaHVwZzc3dEVqRnY5WXYxMVhKQ0pfT2M1ZEh6cFBJV0J0TTEwb0FMTnM3cjlXb0ZUWUs4bmZWODFsZmZtZTJfcXh2b0g1WHNQODJnU3lmVEIwZXFJNFh3eUtWOTFDSDVhbTVFTHl1UjRKSmJWQmFQQi1MLWlRVVRENl9wVWdF0gFWQVVfeXFMUDNTaDlpR0REOWRVeGFfMjdRR1ktZWdEd3cwaDJvZTZ6R0NvcU1sbGQ2VUQ4N2Q3QmZBUHhZNjh1WUs4YWlEekpid0hRRWVObU5LRGszV3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmpzSDMtdXhTcVFCT3FNbHVOVDNOT3BIME4zX0E1X0RYY0ZUNU92RlFZSlNCMWFGX1FpMUlFVDd1LWd3R0ZnR29XdkdPd1BycU9EU29tbGRKMG54dG9MRkdNMlJxcTNyVHpLUGJab0VpYWg5UWpJWFVpWFhCblhrUVBnaUJDLTFrOEdqWFJnX3RSQWNvY0xiZlcwSXJMMzFKTFpFcGU1VklRcXlfczNCOTdISVQ0V0VQ?oc=5).
 
 ## Requirements
 - Python 3.8
