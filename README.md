@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hulk Hogan's Ex-Friend Is Willing to Work With Ben Affleck, Matt Damon on Gawker Film**
+**Firefighters Battle ‘Extremely Dangerous’ Wildfire Near Athens**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBkdk9fcDhGdjgzM1hIekY4c2JWOGNDT09yam9Xck1MZ1ZkTFh2OFFVbmJMYzkzZVBKdVhFNHl0eVNoV3RkN3J0d0t0MFc2alV2MW1OaGxhaUU5aHhaWUVlZzJpZHhCNzFQSHRvT0MwUjdVOHFKalB2bNIBeEFVX3lxTE91MjhTTERsYmFpUmpkTUlLMGNxX0NMSHlEYTN1RkdYYUY1TmZMRHU3YW1TMGN6UEh2TmxnVEpucW13ZW5SWGVYeXdNSDI1d01fWHVpamdvcU1DYTI1TWtyNXVoWWhmLU5za1RnU3U4LVFRYmg1a3pDXw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2FqQUZvamN4T0FtT1NhN25zZWswUFFZTUFVTHY3bTYyYTN4bkxYbGlnSU9YR3V2M2JUb0wxRXVZN01nSlhiNHZ3UGJlZU1YcHZNbEVuS25sUXVBbXZUeENoUmlDWEdacjUzYkRqaGExZkl3U1RQaWUzSTZzSTZmNA?oc=5).
 
 ## Requirements
 - Python 3.8
