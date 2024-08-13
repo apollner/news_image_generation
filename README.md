@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Kate Middleton’s Ring Is a Nod to Early Years of Prince William Romance**
+**4.4 magnitude earthquake hits Highland Park area, shaking felt across SoCal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG9idGVZalgxbkcxbjVMNGVBS1BtU2RrNHdRZlJNMkN6U3ZGV2duOUFxd1dXeWw0aHBYc2pZMlZJcUNnV0JTbU1zZW1LYWIwaG05b0htczZ4ckpId2NsSEc0NlBoT0NmVEdRZGdFd0pkaE91Rm9BTkFWV1hFMVRucnoxejVpMVExYTdlc0ZQRGxETWxHSUx6YVdhcnRNV0J5WDY4NV9GNHI1RUli?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHNFZk9qYVpPcFNGYW1DX1hNYXd4aGZEU3YzeEtPXzRsTmtuR2xHbkVzUmZ6OVFOVjJJU2ZBUzNJQUJZcmN0ZFV1RktfSGhxU20zU0RCbHlScHlTX3ZzWjBlblFDX2tEeHVVRy1HTFhfVUNmZ0xjRlJEdmplLVEwSFV3ZHR2cEgtdmNua1hvYzFHRXM?oc=5).
 
 ## Requirements
 - Python 3.8
