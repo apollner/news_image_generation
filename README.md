@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Swedish Prosecutors Drop Case Against Disqualified Eurovision Entrant**
+**2024 NFL Preseason Week 1 rookie grades: No. 1 overall pick Caleb Williams shines in Bears debut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjk4R1BWSTEwMVBRODlDbFB3NlJCRmJQTFdVMmxUSnhuSE1CcnV0TTdialZwWW0zVExoczN3alNqYU51U0k2WnJHb2hCUFVFUTZLbDVMdDJIQ2MwQXJtbDdlTDdfdFRvNnRnM3BjcjNyc2JUT3hRUkZMRnpkVXFhd0FCclU4Q1VEdWFDNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWEZvWVZzY0FxVmNyZThDVURfbEZOTnBLY2FsZDJuRFF6d2FxNHZuLUhyQ0NEMGJheHJtMWV3RktmcGNkX2pqUDN3b05vRlVmeElNb3NsSE43NTNZQlVjMVpQT3ozcTdTUFpscTE1bW9UOWxxT2Q5NEEyRUdFVjdPcjdTelNQRDBaX3VSb2dycGRmbklFeWJXaV9UTGd4bW0zaXNhZDBKVjRlXzBPQjNHOU1nLW9TM2xwVGJV?oc=5).
 
 ## Requirements
 - Python 3.8
