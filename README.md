@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of America CEO says US consumers could become discouraged unless rates drop soon By Reuters**
+**Greece wildfires: Marathon residents told to flee as heatwave persists**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjhhcV9sbVpZVHdHZE92OHFHNjBBc3lCUkRPYUtram9iNVg2UlRCYnlKR2loQXJnSnpIOGJWeDk0emJrUjZpa2xDYmhmaDJoSWRWbU5CT1E5Ym1DM0JFLTRtYUoyZ0hjc1hsOC1RUUdQMlROcG15RG4ybXk5RmdILVFNSEY4RjFneUtkMWE2ZlZJa1ZTOTRjdkNINVVPT21YZkEwclA2aWpKS0syTUpnTW1Wb2hyYmhLSGdGdTFKRTQ1clFvUm9YWS1CMkoyUVlabVNz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZlI1Q3lEM2tLeHdvV2ViaDJob2d3eTdJTGg3OFViUFRMRURSN0NfWTZhZWY2YnpYakx5N2p1MGR5NzdIYnRQRFREV3J5NTNrZFNBZ3JOOUZMQdIBX0FVX3lxTE5fWlFCNFJCalJrckFud253VHJxWXE5UUF5R19nNkd1bjZ3VXZ6RFRhQXV4QlFmVHFTaVl4dE1qc1NfUnNYaVh4NDRzTE55bXJvMmczTzVoa05mOThESFgw?oc=5).
 
 ## Requirements
 - Python 3.8
