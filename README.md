@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eight cancer doctors among dead in Brazil plane crash – as seven others changed flight at last minute**
+**US orders submarine to Middle East, carrier strike group to sail faster**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjVlb01wOGlFbnRnOTVmNjFyU3Y0aHFhMWFWUDFzbzZHUm16T3h5TzUwd3o4TFVobHRZdFFnMHlrWG9GU1dfdnBPUnRaMTRSVXVscXhtNF8zVFBmdnd0anlYbG9ZdV9yUzY5T0VNU1hZb1RUVDBfNFB4aVhISnpoMVhjSWYtclFRRWdFdm4tMlk0WDBmMTlTQ21pdVVLcy1YbFNXOHE3ejdzRGRTeGxB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOWHY4VUdZS29XcmdrN3cwTEI5SEc4ZUVpOFpKcGdNMjJtS1BUOFVJM09sZ2VDT21RejNCTVRSNUZhX1c0eFd3U2Z5TktoYy1IaFNPOFNZZmwwQWRTRXFIRkhNRnhycXNHWmJOS3BKN2c5TW1sWVhETzBXTWVsRXpCTGVaVWZSVUxLTXdfOURKTU1sVEk5dTNUVktHY1VmbnhicXowZ0tiMWY2bGhpSkNjb9IBtgFBVV95cUxPZC0yc3BIUXhHbi14bDhoejkxVlZMZU9oM2FjVXZKdHh5am1fM3lrVDdEWGd6dlZTOTdpNERrRHYydHYxYXQ3VVI1QzFEdVR3VGF6UHZ3Y3dmTEgxaTlkaGM2T245eXVrbnB1N1pRX2MwY3pYZVdSZnVYUXdhWTBVMmZCb1lUYUlkamRiTFBNVzZyYnZwTDJaeWxnakRpdnk5eWZYM0I1d3VXVi01QlkzR1hrbzcwZw?oc=5).
 
 ## Requirements
 - Python 3.8
