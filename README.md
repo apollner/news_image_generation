@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can You Be Emotionally Reliant on an A.I. Voice? OpenAI Says Yes.**
+**Isaac Hayes' Family Demands $3 Million From Donald Trump Over Song Use at Rally**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE95aWVRZ3VEUFlkMVJFdGNPRnhyTUk2eFZKME1VaktxbElKTUxIQzVVVzZ3cEtTN2R5RjB6bmdoMWZIdW5kNFB6WHNTd0hNd2UyU0hHMXQxaU9YM2dDM3NVOWYwU1ZuZjFDU0FCZnR5Q2lJY2Ni?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjg4M0JRZUkwMkNqLV9jMmF3RHJsOVdFekl6akpRR1hHZHNHbFZhSm5rQk9VeUVhM3VCVnoyVDVULXpzMy1CcjNMamR2LWZDQ1NMMmJrOXhVcHVPZEMtLUFERHkxNTVMQW9Na09TYzVtLWt5TnBTTXVpYXpIZkNvWTNR0gGCAUFVX3lxTE1EREc0cG9VWDl2MmZzRVptRWQ3NUREb1hENm1mQldtWlNpQjN4NUNRZXFnYXAzWHRSVnhSZHFrSWFaZFAyQV9IZzRhNDZpeWhySTItTVcxNWhaTDZlekdYWnB2NGxpdUdVODhBbDE4VHlnWEE5MzFkZWp2RXBlN1AyN3c?oc=5).
 
 ## Requirements
 - Python 3.8
