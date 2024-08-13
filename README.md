@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greece wildfires: Marathon residents told to flee as heatwave persists**
+**Red Sox Outfielder Jarren Duran apologizes for using homophobic slur**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XZlI1Q3lEM2tLeHdvV2ViaDJob2d3eTdJTGg3OFViUFRMRURSN0NfWTZhZWY2YnpYakx5N2p1MGR5NzdIYnRQRFREV3J5NTNrZFNBZ3JOOUZMQdIBX0FVX3lxTE5fWlFCNFJCalJrckFud253VHJxWXE5UUF5R19nNkd1bjZ3VXZ6RFRhQXV4QlFmVHFTaVl4dE1qc1NfUnNYaVh4NDRzTE55bXJvMmczTzVoa05mOThESFgw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVy1MUWo1bVI1dlZXM2U5M1h3b3BBMzF0eGJpMUNwTnJJVkx2S0NiRk9idXp4ZVF5cThZY2dIWEstZmxpRHphbVhsNFJsOGNxanlOVkFYVEp4VFlocTdzU09KZUwxWUc4bW80aW1xajFCU19kSDkxQ0c2SEVJdWYxQU5wR3g2Z3Z0UmZSRnhxZHUwZnVaczZ3eUdzdFFtQ1lsR3dfRTlvTnAtUQ?oc=5).
 
 ## Requirements
 - Python 3.8
