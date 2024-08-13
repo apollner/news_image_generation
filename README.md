@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's bond market rattled as central bank squares off with bond bulls**
+**Stock futures are little changed ahead of key inflation and retail data: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxObUlHRnlTanJPZ2prTTk5SXM1Nk16VUd6TV91eFpQWlA0alRvOGZUX2tyQ2JIaHBib1lhbzB1MVFUdHRNUGc5bGV5UE83MW9yUGZkYXpra0lmNWszeHllN0VvVjF0ZE1HX0pzV3hROFZTQXhfZUtmbzZ4OG1FMEd6cjlGSElVR1hreXRwZURVc0xuQ3JTRmtfTnJKNXQtMC1aLXZmSkNva2VUTHNMUVZRMGtuaENOUUU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE12aXA1SHRtUVRVWmY3NC1TRlhYbnkta1BIcFFyRlhsRDllVHVnQzRCX0RGb1YxbzVCREZMYXYxQ1U2ZjJNTXVnVGdmV0NIR1pkWFBLeS04N0NpaUY0bURXTVJtdl9ENTJWVDdCcVU4aXRHbGkwNWNR0gF8QVVfeXFMT2R4NUJHMlJoS2dpcHc4Y1BqcW9zMHNWM2J2djJWQWU3TVg5VmJsUnVwRDVtdzFHVlk2cy1aVUcycWJ5NTY0b2JfTFZqS3k5dUZ1MWFnVGczNlozQWliYmoyQ3lXM2hieU5GQ3U1dER4ek9fZXdETXpmU3NVQQ?oc=5).
 
 ## Requirements
 - Python 3.8
