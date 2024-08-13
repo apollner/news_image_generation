@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Hacking of Presidential Campaigns Begins, With the Usual Fog of Motives**
+**Can You Be Emotionally Reliant on an A.I. Voice? OpenAI Says Yes.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2RGNXpjMFhYck80N1ZjZDl3eTZ5TllIRjV3Vk1wOFAtbUc4aUZkaldSUG5UV2hZZUsza1JJMWZ0cDQwbVFRNXFENnhZb0NuSVJNdmN5ZmFHYVhmbmlkTmI4cDdjVERXYWFJOTZRcURJQVIxQlhJMG5rNlRuVEJBMm1NX01EZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE95aWVRZ3VEUFlkMVJFdGNPRnhyTUk2eFZKME1VaktxbElKTUxIQzVVVzZ3cEtTN2R5RjB6bmdoMWZIdW5kNFB6WHNTd0hNd2UyU0hHMXQxaU9YM2dDM3NVOWYwU1ZuZjFDU0FCZnR5Q2lJY2Ni?oc=5).
 
 ## Requirements
 - Python 3.8
