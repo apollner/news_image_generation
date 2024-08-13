@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube Music’s ‘personal radio’ mix shares your favorite songs with the world**
+**Evacuations ordered near Athens as Greek authorities try to contain wildfires**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX25xenVTaE1mUVFGSG1WcV9HZVhFT2hUdFNRNlNQUEFyUUJkbWI1clZmWDRyaWRlbEhHU3Y3T2hVUHZOQzM4c0JPTWdSUHkwQ1hmMjFxMmF6b3BHandVSzRVNUFkYVp6cXJYaW1oYnJ1RzZpeC1SV08wWF9JTmxNRFNlUklqbExUaDJKSGJTUGY1Ulo0Z3ZPWk5ENHlXMTNiSlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFhEemRTMjFESDFnWWcxSWpQTkxhX1A4VlpCeDM3cTdYZ3A5QjdWSk51ZlZiOGV2Nld4cEZfZklIQjQxZVN2cGxWN0J3d0t6WjlhR3YyMkt1SGJKYkZtdEhEX3otVEdvUHd3V2pEVTZkMHhLUEJnT1Zqak9xZmdfbG16OXlPOTRvVER2QlBBTUsxZ9IBiAFBVV95cUxQdTI3dm50VEhfcjNZM04yZDJEcUZpLUFGdGFMMF9OcktMbHR4Y0dja3diZjlmdzdoOEt0NkJYLVBNT2VwUlhiRUg3TElkenFJNnZGRkhYR1Qzd0ZzN3Q5czc0V0hLUXI4akNKdkZhVjVyLUFMUXRCY0JhSzV1dVJUUWJzUDhNYTlS?oc=5).
 
 ## Requirements
 - Python 3.8
