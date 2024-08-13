@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Isaac Hayes' Family Demands $3 Million From Donald Trump Over Song Use at Rally**
+**Made by Google 2024: How to Watch the Pixel 9 Reveal and Everything to Know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOQjg4M0JRZUkwMkNqLV9jMmF3RHJsOVdFekl6akpRR1hHZHNHbFZhSm5rQk9VeUVhM3VCVnoyVDVULXpzMy1CcjNMamR2LWZDQ1NMMmJrOXhVcHVPZEMtLUFERHkxNTVMQW9Na09TYzVtLWt5TnBTTXVpYXpIZkNvWTNR0gGCAUFVX3lxTE1EREc0cG9VWDl2MmZzRVptRWQ3NUREb1hENm1mQldtWlNpQjN4NUNRZXFnYXAzWHRSVnhSZHFrSWFaZFAyQV9IZzRhNDZpeWhySTItTVcxNWhaTDZlekdYWnB2NGxpdUdVODhBbDE4VHlnWEE5MzFkZWp2RXBlN1AyN3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1VlVV9ZVVU3eU1JajlnUlZHeGZBU3drY1JPR1JlNnNHV1pVRENUcERzc2tMcHRNdU1JeU9VZWVNeUcxbk90RVozcUkzUVN1eWNpbzlfTXpVNklJUGFiWjAyc2VJYXE3RmpZOGprZnhScWNfMmNBS2F0dGZvdGFCaFR2TmI2VFFlZFRSb2pTbmlYUjJqZ1ZLZnNoblBOSldpN0RQZ3ozd3ZjODJr?oc=5).
 
 ## Requirements
 - Python 3.8
