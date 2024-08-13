@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hi-Fi Rush IP and Tango Gameworks Acquired by Krafton From Xbox, Studio Will No Longer Be Shut Down**
+**Eight cancer doctors among dead in Brazil plane crash – as seven others changed flight at last minute**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxOdlA4QlBkZ21mX3hKUXFRQmhEek11Vm4wbmtKaElpTW9aSnNDUzBrZVNpNFg2eXBETUY1VkhmRHNsUXJONm9GZFAxbG9WRGhWcy1HTU1VU2t5QUJzZDdMTk5VZDNZbFUtQzBjZGFCVzNwQUFsVXdFeDlySnVwa0xNQTFwLUVIeDhTSGZxWnVDTmh6anktOGY0OG82dVNJWHJHS190dXVyYTVBQnY2eklQQ2IwY1hqbElRQjBENDNjRzJncjRWWGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjVlb01wOGlFbnRnOTVmNjFyU3Y0aHFhMWFWUDFzbzZHUm16T3h5TzUwd3o4TFVobHRZdFFnMHlrWG9GU1dfdnBPUnRaMTRSVXVscXhtNF8zVFBmdnd0anlYbG9ZdV9yUzY5T0VNU1hZb1RUVDBfNFB4aVhISnpoMVhjSWYtclFRRWdFdm4tMlk0WDBmMTlTQ21pdVVLcy1YbFNXOHE3ejdzRGRTeGxB?oc=5).
 
 ## Requirements
 - Python 3.8
