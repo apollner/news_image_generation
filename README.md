@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Jones clarified why he doesn’t feel urgency to sign Cowboys WR CeeDee Lamb. But how clear is it?**
+**Swedish Prosecutors Drop Case Against Disqualified Eurovision Entrant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0drdXc1Q1RxYmZ1ZW4yVlNhbFM5amJtcWpwRnVUUVVhWExXZmVWekY0VlNERElKWUhJRVd5Um9hN1JrVy1WM1RoSmZJOFN0VGtjSGxYWDFUMnRTWU9kYlJ5TklUZmM2djRHeUZOenNENzdqSzM3MVFTdUdtcHlUcmRwS3ltNkUxQlItbEg2bm9qTXdiVlNTZDFhSWJkNzNkX05vQ2Z3MFhYd2twVjR1VDd6dmJUWTkzRjZYUWtJTy1nUUxJYVRoWWV2YlpiVW1GSzR2OUpB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQSjk4R1BWSTEwMVBRODlDbFB3NlJCRmJQTFdVMmxUSnhuSE1CcnV0TTdialZwWW0zVExoczN3alNqYU51U0k2WnJHb2hCUFVFUTZLbDVMdDJIQ2MwQXJtbDdlTDdfdFRvNnRnM3BjcjNyc2JUT3hRUkZMRnpkVXFhd0FCclU4Q1VEdWFDNA?oc=5).
 
 ## Requirements
 - Python 3.8
