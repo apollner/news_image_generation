@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4.4 magnitude earthquake hits Highland Park area, shaking felt across SoCal**
+**5 cases of Legionnaires' disease linked to cooling tower in downtown Lincoln, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHNFZk9qYVpPcFNGYW1DX1hNYXd4aGZEU3YzeEtPXzRsTmtuR2xHbkVzUmZ6OVFOVjJJU2ZBUzNJQUJZcmN0ZFV1RktfSGhxU20zU0RCbHlScHlTX3ZzWjBlblFDX2tEeHVVRy1HTFhfVUNmZ0xjRlJEdmplLVEwSFV3ZHR2cEgtdmNua1hvYzFHRXM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm5rNERxOGdRZDlva3Jnc056MFpXdUJvNHlsVnZWcERZQkpkcVhmbC1oR0tkNW1rc09LdjM4ZDBfSjZBQ2dfOG5yVkdhUXQ1XzJXZGt6RmM4YXZBV01TMWw5aVNDWVp3UlBfelJ3cWN4MzVKNmVQZDBZbFFqWHNaNlhqZWxBXzRQQS1vakFkcw?oc=5).
 
 ## Requirements
 - Python 3.8
