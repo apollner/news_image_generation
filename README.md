@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All the Marvel News from D23 2024**
+**Paris closes out Olympics with star-studded show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnZtRjUtcWdsdHlWVTBUTk5vQmxiSllUVl9JQVVSSWNqUHp3RlotY0hxSzBnamlfUmpZeHZ6MDlTNTdjZDhtbFRwTWNFVmMyT0lMOUJkRlNtQ3JUVG1tcGlKQ2JkVDNUeHBJSUZtR0U0NlZkWHpkOWpNcm1rUnl2dld1bnE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0pHTGtZYkJVcWVnMWJWTEw5d2czUDBsekdmVkZBdWEtcDdESE9XNnc2MnlqS09xdER6VWx6c3Z6Tmlid2VQNEFscmNZZGZUNm5NdE1hX0JHa1Y3RzhMZnRBVlZON0lCYU5JR0IyTXlOSU1wcUV3QlZETWRwT2NNc1JER2xSdnlCSXY2dzdCaW5aSWROYW1JZTBoS2o4X1FZb1E?oc=5).
 
 ## Requirements
 - Python 3.8
