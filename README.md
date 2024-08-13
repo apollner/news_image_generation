@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO to decide this week if mpox Africa outbreak is a global emergency**
+**The Hacking of Presidential Campaigns Begins, With the Usual Fog of Motives**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDZINF9xaUZpNHk4T3g4WjRZRzIzalp1bnZ3YUlFTWwzTzlwdkMyZUN1LTRvb2dpTTJadGgwUXpFVXU2WWprRUo4cFc5R1hQeGlwa2hpZFZJU0drN3M3aU0weTBPZG5RbGtiSjNlc1hZMkRVbnZoNWRYNWlmT3Q1N19KNG5FZ1NGQkFla0Vxb05odEd3NDFoa1NKVk1YVEV1djVTRw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2RGNXpjMFhYck80N1ZjZDl3eTZ5TllIRjV3Vk1wOFAtbUc4aUZkaldSUG5UV2hZZUsza1JJMWZ0cDQwbVFRNXFENnhZb0NuSVJNdmN5ZmFHYVhmbmlkTmI4cDdjVERXYWFJOTZRcURJQVIxQlhJMG5rNlRuVEJBMm1NX01EZw?oc=5).
 
 ## Requirements
 - Python 3.8
