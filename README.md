@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 series event: How to watch and what to expect**
+**European leaders urge restraint amid expected Iran response towards Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxORzEtTHU3dHFrZTRCejFDSUs2UWpvWTQyLUVwclkwTFc4RkczYkh3NnNMTFNtQzFSbk5DcG1SN2hBb3BVYkNkOGZjVC0tY0tuajFMNUtRcWl2TnB1VlNhSEQwclBXcXp5X0thd01VdkxjbEYwMDhVUnZNVXJVRTgwbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2pOb1lnZWUzMERvWGkwcmk5TUJNMWJUc3FzaWQzV3VkZElMdy1pV3pqZWNSeFJEU1pkV013bWNDZm9OVmVudWYwclB2eDhJM3ZFNUZDZjNudXBxS3dsLWhSMXJqWXZqblNVQ1psVXJxRS1HWW1nSm1DUWRyX1ducEpJVTFKZnBqN0hNRW9fZGdhS0FydmZmZzltSEZ0UXNpWmUwS2RJMTA3SGlYeHfSAbMBQVVfeXFMTzYwdUNua0VPVU9ycHlxOWxFbG9lU29mVXgtOWdWVThwVmpleXhhR1ZONFF6blFYMk5PMVhQdU9RT3ZNUC0xR3RpR0JYeFUzU1RuT3ZvWkNUbVYtWGZ0SF85OUZvMEROWjFuU2tfVm00LXNtYU5JUkhLY0VEOWliYThCUGdRVklEY3BqZC1kNG5pckg1ckZNc1liUUxUY1JMbzZfa0JrTlF3QlBPNGxQZ3VhQkU?oc=5).
 
 ## Requirements
 - Python 3.8
