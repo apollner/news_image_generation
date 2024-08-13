@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential Tropical Cyclone 5 forms in Atlantic, system may be a tropical storm by Monday**
+**Bank of America CEO says US consumers could become discouraged unless rates drop soon By Reuters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVllha2JsVDhHRmdpZ0tjSmpHeWpaN1R6dXlLa1VQZHhBNDBIWHhNckxKeDM5aGk1VTAyQVVvTkVlNnNJNWNWRjlmQzYzWVhzb3duTXd4MW1tcVB5eUVvMW9zRUFaWTloOW9Eem8wbUJkXzhmbWlHX250Q0c0TkVFVkdXYnBNX2s2QWJSYW9GMmJ4eVVRampINThMa2ZxYWRuajd0NVpXNUJKMFNMWU9tUXVkbDZsbDFiREZmODhLcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYjhhcV9sbVpZVHdHZE92OHFHNjBBc3lCUkRPYUtram9iNVg2UlRCYnlKR2loQXJnSnpIOGJWeDk0emJrUjZpa2xDYmhmaDJoSWRWbU5CT1E5Ym1DM0JFLTRtYUoyZ0hjc1hsOC1RUUdQMlROcG15RG4ybXk5RmdILVFNSEY4RjFneUtkMWE2ZlZJa1ZTOTRjdkNINVVPT21YZkEwclA2aWpKS0syTUpnTW1Wb2hyYmhLSGdGdTFKRTQ1clFvUm9YWS1CMkoyUVlabVNz?oc=5).
 
 ## Requirements
 - Python 3.8
