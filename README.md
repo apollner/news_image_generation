@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Made by Google 2024: How to Watch the Pixel 9 Reveal and Everything to Know**
+**Jerry Jones clarified why he doesn’t feel urgency to sign Cowboys WR CeeDee Lamb. But how clear is it?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNV1VlVV9ZVVU3eU1JajlnUlZHeGZBU3drY1JPR1JlNnNHV1pVRENUcERzc2tMcHRNdU1JeU9VZWVNeUcxbk90RVozcUkzUVN1eWNpbzlfTXpVNklJUGFiWjAyc2VJYXE3RmpZOGprZnhScWNfMmNBS2F0dGZvdGFCaFR2TmI2VFFlZFRSb2pTbmlYUjJqZ1ZLZnNoblBOSldpN0RQZ3ozd3ZjODJr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQ0drdXc1Q1RxYmZ1ZW4yVlNhbFM5amJtcWpwRnVUUVVhWExXZmVWekY0VlNERElKWUhJRVd5Um9hN1JrVy1WM1RoSmZJOFN0VGtjSGxYWDFUMnRTWU9kYlJ5TklUZmM2djRHeUZOenNENzdqSzM3MVFTdUdtcHlUcmRwS3ltNkUxQlItbEg2bm9qTXdiVlNTZDFhSWJkNzNkX05vQ2Z3MFhYd2twVjR1VDd6dmJUWTkzRjZYUWtJTy1nUUxJYVRoWWV2YlpiVW1GSzR2OUpB?oc=5).
 
 ## Requirements
 - Python 3.8
