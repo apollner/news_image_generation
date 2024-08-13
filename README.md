@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sox Outfielder Jarren Duran apologizes for using homophobic slur**
+**All the Marvel News from D23 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVy1MUWo1bVI1dlZXM2U5M1h3b3BBMzF0eGJpMUNwTnJJVkx2S0NiRk9idXp4ZVF5cThZY2dIWEstZmxpRHphbVhsNFJsOGNxanlOVkFYVEp4VFlocTdzU09KZUwxWUc4bW80aW1xajFCU19kSDkxQ0c2SEVJdWYxQU5wR3g2Z3Z0UmZSRnhxZHUwZnVaczZ3eUdzdFFtQ1lsR3dfRTlvTnAtUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUnZtRjUtcWdsdHlWVTBUTk5vQmxiSllUVl9JQVVSSWNqUHp3RlotY0hxSzBnamlfUmpZeHZ6MDlTNTdjZDhtbFRwTWNFVmMyT0lMOUJkRlNtQ3JUVG1tcGlKQ2JkVDNUeHBJSUZtR0U0NlZkWHpkOWpNcm1rUnl2dld1bnE?oc=5).
 
 ## Requirements
 - Python 3.8
