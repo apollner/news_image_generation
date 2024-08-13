@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk clashes with EU over X ‘disinformation’ ahead of Donald Trump interview**
+**Vance backs Trump's support for a presidential 'say' on Federal Reserve's interest rate policy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE83VktnMlN1M0xjV1VCeWk0NUVtTFcyMUhRUnRKT3o1aU9iN3ZhTlNhRERtR1JJSW5KQ3BxcDVPVFM0UDJVSFJCMUlMb1I4V2dNeHo5aTE3N1EyRVg2dUtrUGpkQzZtMVdEbERqSHVlN1M?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG5BYTlSQ0ViLVotNUk3RHpsaGV5RXhITW4tM0FzdVJIalItVEMxR1I2R3lWR2lsNzdJU2VJN3VKZzNOVHZUQld3b1BocmdVcTc0YWRiaHJaRWUxTHZpOFNZSmdRLVVrSVRHME52cU5vUGNCZTNTY1d6OW9vV1FDdnVvTUpvUXZqamR5dnJWR2dBdlUwM2tEZ1YybWdtZ0NHOE4yMUpma29JR3FFSmxWLdIBtgFBVV95cUxOazljQW5VYTRWNnhyVWNOTnAxWkcteFgyRzdQOUpza2tKUElNdktiTHQ4clF6djJqemFpUFZmak9hZXZKTlBTTE1ac204a1lYNWRRcmVkb1lwN3VMQmtpNVpQTVczRkE0bWtsN0poTWFPQXhlLXZfSFFVLWRCVUYyai1wRlJJYlVHajVqcFFYSXBGNENVU1J1U2lIUHNfSkh0VTl1V1hKdXQtM3ZjeWtCT3RtVW1lQQ?oc=5).
 
 ## Requirements
 - Python 3.8
