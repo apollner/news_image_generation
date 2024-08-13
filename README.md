@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families of Brazilian plane crash victims gather in Sao Paulo as French experts join investigation**
+**Potential Tropical Cyclone 5 forms in Atlantic, system may be a tropical storm by Monday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORUVLZ3VHMGhqV2ZPUXEwMDlEQXljeWVMWXNvczNJRldxRkFmdmZ1OUliWk9NYXQ0R0ZnNm5nalB5WUJ1M0Y4aHN4RWxpNnRVNFFMUS0tSHpxNUNyeVNnczlBWnZpVVNIYVdNUDZDSkJGSl9jYnBaM21FaEZwRHJHZDhBZjRJOE5qWngyZTROa1NScUVrM05WS0x1RWpSUm10N2RHcEFnTVo?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVllha2JsVDhHRmdpZ0tjSmpHeWpaN1R6dXlLa1VQZHhBNDBIWHhNckxKeDM5aGk1VTAyQVVvTkVlNnNJNWNWRjlmQzYzWVhzb3duTXd4MW1tcVB5eUVvMW9zRUFaWTloOW9Eem8wbUJkXzhmbWlHX250Q0c0TkVFVkdXYnBNX2s2QWJSYW9GMmJ4eVVRampINThMa2ZxYWRuajd0NVpXNUJKMFNMWU9tUXVkbDZsbDFiREZmODhLcw?oc=5).
 
 ## Requirements
 - Python 3.8
