@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firefighters Battle ‘Extremely Dangerous’ Wildfire Near Athens**
+**Adani Group shares shed billions after Hindenburg allegations against regulator**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNY2FqQUZvamN4T0FtT1NhN25zZWswUFFZTUFVTHY3bTYyYTN4bkxYbGlnSU9YR3V2M2JUb0wxRXVZN01nSlhiNHZ3UGJlZU1YcHZNbEVuS25sUXVBbXZUeENoUmlDWEdacjUzYkRqaGExZkl3U1RQaWUzSTZzSTZmNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQREEwbG55RlVQRk8tUlF6MTNvbzZUeGp3aXdHVXRSMWs5R08tbTJSblJlU1pkLW9sS1BNLWQ5bkpCam9zdGlWaThIQkVTZGZCN2dhSGxzcVlYZFpIQlNENE1RUVlRSk1HWFZLRmFRZ1hWMk10SFM4UUhHaS16QzRwRThsS0F5elMyUFdrN21ISDVFYXBDNjEta2RWYjNpd1FPcnhPQ3NaVWRkZzTSAbABQVVfeXFMTlFiWDBObXJUUHNEN3ZUVWZnNUhTUUdoM05FUVZUWTRSVWIxb0Z1aC1kMVFYUmh3d1dXc1lxYW9PSzRqSDZST1hiUTRlZmpJeWFuVWNYNEZzQ3dmTVBmVGZJaGZGb29TaXBaTEVJdDJRbjZlOVRTZnFiY1A2VzhROV96anB2TXloSnJnMGRSU3BTNU1BSEJLSFJNY212Y3hOaHA3bjJaRDJyMnVGMHhPM2I?oc=5).
 
 ## Requirements
 - Python 3.8
