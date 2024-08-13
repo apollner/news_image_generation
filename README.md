@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European leaders urge restraint amid expected Iran response towards Israel**
+**WHO to decide this week if mpox Africa outbreak is a global emergency**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNV2pOb1lnZWUzMERvWGkwcmk5TUJNMWJUc3FzaWQzV3VkZElMdy1pV3pqZWNSeFJEU1pkV013bWNDZm9OVmVudWYwclB2eDhJM3ZFNUZDZjNudXBxS3dsLWhSMXJqWXZqblNVQ1psVXJxRS1HWW1nSm1DUWRyX1ducEpJVTFKZnBqN0hNRW9fZGdhS0FydmZmZzltSEZ0UXNpWmUwS2RJMTA3SGlYeHfSAbMBQVVfeXFMTzYwdUNua0VPVU9ycHlxOWxFbG9lU29mVXgtOWdWVThwVmpleXhhR1ZONFF6blFYMk5PMVhQdU9RT3ZNUC0xR3RpR0JYeFUzU1RuT3ZvWkNUbVYtWGZ0SF85OUZvMEROWjFuU2tfVm00LXNtYU5JUkhLY0VEOWliYThCUGdRVklEY3BqZC1kNG5pckg1ckZNc1liUUxUY1JMbzZfa0JrTlF3QlBPNGxQZ3VhQkU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOaDZINF9xaUZpNHk4T3g4WjRZRzIzalp1bnZ3YUlFTWwzTzlwdkMyZUN1LTRvb2dpTTJadGgwUXpFVXU2WWprRUo4cFc5R1hQeGlwa2hpZFZJU0drN3M3aU0weTBPZG5RbGtiSjNlc1hZMkRVbnZoNWRYNWlmT3Q1N19KNG5FZ1NGQkFla0Vxb05odEd3NDFoa1NKVk1YVEV1djVTRw?oc=5).
 
 ## Requirements
 - Python 3.8
