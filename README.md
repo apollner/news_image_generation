@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense secretary orders submarine to Middle East, accelerates arrival of strike group ahead of anticipated Iran attack**
+**How Kate Middleton’s Ring Is a Nod to Early Years of Prince William Romance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSW5ZSHA4anBtYTdvVzFJY25IUHlvdTMtSm5vc3dQTDlQUVB6YlpDN2gwcDFBQVhVLXhVQlZ5MkRqUVBQWEZtajZrUGdoZll6M0xkejlNdVVYMVdEYW9SajRuN0RNbFZZWHpJNXlvazNtZk5jVW5LOHU1SjQyYXg3MzJORXNPYmdsYzl4ZXc1VdIBhgFBVV95cUxQTkZENmFWdW9oaVEzbVlQN3BFdThxdGdtTGpFSHRjWTc2bXhrTEIwVDdpRWhMVmFmV2I4YjNiOGNZdzBFcVdHR05EMGFXMzhIQXBUOUhWYnVVU2VCQW9taTZXb2tLb2szaTFIUkxRODY2SGJadDVqMEhRQUJsbGs0bG5udXN2dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNeG9idGVZalgxbkcxbjVMNGVBS1BtU2RrNHdRZlJNMkN6U3ZGV2duOUFxd1dXeWw0aHBYc2pZMlZJcUNnV0JTbU1zZW1LYWIwaG05b0htczZ4ckpId2NsSEc0NlBoT0NmVEdRZGdFd0pkaE91Rm9BTkFWV1hFMVRucnoxejVpMVExYTdlc0ZQRGxETWxHSUx6YVdhcnRNV0J5WDY4NV9GNHI1RUli?oc=5).
 
 ## Requirements
 - Python 3.8
