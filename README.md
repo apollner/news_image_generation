@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 cases of Legionnaires' disease linked to cooling tower in downtown Lincoln, officials say**
+**Elon Musk clashes with EU over X ‘disinformation’ ahead of Donald Trump interview**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm5rNERxOGdRZDlva3Jnc056MFpXdUJvNHlsVnZWcERZQkpkcVhmbC1oR0tkNW1rc09LdjM4ZDBfSjZBQ2dfOG5yVkdhUXQ1XzJXZGt6RmM4YXZBV01TMWw5aVNDWVp3UlBfelJ3cWN4MzVKNmVQZDBZbFFqWHNaNlhqZWxBXzRQQS1vakFkcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE83VktnMlN1M0xjV1VCeWk0NUVtTFcyMUhRUnRKT3o1aU9iN3ZhTlNhRERtR1JJSW5KQ3BxcDVPVFM0UDJVSFJCMUlMb1I4V2dNeHo5aTE3N1EyRVg2dUtrUGpkQzZtMVdEbERqSHVlN1M?oc=5).
 
 ## Requirements
 - Python 3.8
