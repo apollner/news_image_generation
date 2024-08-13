@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple says Patreon must switch to its billing system or risk removal from App Store**
+**YouTube Music’s ‘personal radio’ mix shares your favorite songs with the world**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQckkwZ0F0QW1rdjFySkR1VjRaNDg1VlRudU5SMmJ5VU1rQ1JXX2NIUFNWcUJaVXk2TWV0MFlCaENiVno1aG56VjFwVXVkMGdHNGhFNWd3cWltNWJmN19SVl95M09CeHh4QlRvUXpWRlBQdFp2b2t2NzZyV0VPRW5Cb0pIUUJxYzBfWEloSFpJWWJwNjBzUVFWRGJCSldCNEZqVnN1TGEwM3VkQ2NzUnpHSkZpRjhRTVBkcXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPX25xenVTaE1mUVFGSG1WcV9HZVhFT2hUdFNRNlNQUEFyUUJkbWI1clZmWDRyaWRlbEhHU3Y3T2hVUHZOQzM4c0JPTWdSUHkwQ1hmMjFxMmF6b3BHandVSzRVNUFkYVp6cXJYaW1oYnJ1RzZpeC1SV08wWF9JTmxNRFNlUklqbExUaDJKSGJTUGY1Ulo0Z3ZPWk5ENHlXMTNiSlE?oc=5).
 
 ## Requirements
 - Python 3.8
