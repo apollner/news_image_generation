@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuations ordered near Athens as Greek authorities try to contain wildfires**
+**Defense secretary orders submarine to Middle East, accelerates arrival of strike group ahead of anticipated Iran attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFhEemRTMjFESDFnWWcxSWpQTkxhX1A4VlpCeDM3cTdYZ3A5QjdWSk51ZlZiOGV2Nld4cEZfZklIQjQxZVN2cGxWN0J3d0t6WjlhR3YyMkt1SGJKYkZtdEhEX3otVEdvUHd3V2pEVTZkMHhLUEJnT1Zqak9xZmdfbG16OXlPOTRvVER2QlBBTUsxZ9IBiAFBVV95cUxQdTI3dm50VEhfcjNZM04yZDJEcUZpLUFGdGFMMF9OcktMbHR4Y0dja3diZjlmdzdoOEt0NkJYLVBNT2VwUlhiRUg3TElkenFJNnZGRkhYR1Qzd0ZzN3Q5czc0V0hLUXI4akNKdkZhVjVyLUFMUXRCY0JhSzV1dVJUUWJzUDhNYTlS?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOSW5ZSHA4anBtYTdvVzFJY25IUHlvdTMtSm5vc3dQTDlQUVB6YlpDN2gwcDFBQVhVLXhVQlZ5MkRqUVBQWEZtajZrUGdoZll6M0xkejlNdVVYMVdEYW9SajRuN0RNbFZZWHpJNXlvazNtZk5jVW5LOHU1SjQyYXg3MzJORXNPYmdsYzl4ZXc1VdIBhgFBVV95cUxQTkZENmFWdW9oaVEzbVlQN3BFdThxdGdtTGpFSHRjWTc2bXhrTEIwVDdpRWhMVmFmV2I4YjNiOGNZdzBFcVdHR05EMGFXMzhIQXBUOUhWYnVVU2VCQW9taTZXb2tLb2szaTFIUkxRODY2SGJadDVqMEhRQUJsbGs0bG5udXN2dw?oc=5).
 
 ## Requirements
 - Python 3.8
