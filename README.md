@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Boeing's Starliner test flight got here and what NASA might do to bring astronauts home**
+**Google Pixel 9 series event: How to watch and what to expect**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAJBVV95cUxPSTFFWUZuUVZ0OUdkZlBoVkhwZWRuaHVHZC14bjhEM1QzSXM4eGdjSk5JdGxqdWhSOE5wQTI1WEdEbFU3LWwwTEZDc0wwLWlSLXQ2SnNHUkZMN1J5U29rbm5YYmVpSXJQX21QWmEwamhCSVI1SDkxUWxCX2c3b3B4THFpTzZOdXhSOThjaG9IUXBhc1RRTnBzM0RRME5GQkRsSTRRMkhoczJDWTROelgxNl9xSFluLXZLVGVfSGJtMm41V19aYXBTRnp6NG9paGpudG5KcGFKb1JOUDQtV3d2LVRxQXMtSWUxa0IxSzY1WEUyOE5FbFNSeW50VExPOS15?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxORzEtTHU3dHFrZTRCejFDSUs2UWpvWTQyLUVwclkwTFc4RkczYkh3NnNMTFNtQzFSbk5DcG1SN2hBb3BVYkNkOGZjVC0tY0tuajFMNUtRcWl2TnB1VlNhSEQwclBXcXp5X0thd01VdkxjbEYwMDhVUnZNVXJVRTgwbw?oc=5).
 
 ## Requirements
 - Python 3.8
