@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Likely Won't Charge for Apple Intelligence Features Until At Least 2027**
+**‘The Bachelor’: Grant Ellis Named Season 29’s Leading Man After Exit From Jenn Tran’s Season**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE1EMlRBTUhqNzVscnN3RzBvOGRaV240eE9vZGxqS25QbU1BSUxQcEhIbDlEclE0N1dSbDY1aGlEY0k1VmZ4a3Ewc0x1b2NkdzU4SXBRUWc4SDhpMERDWFlQWU9DMVFCUjFCRERTWUdaUUplbHpx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkFqOE5aN0NoYkY0YWFmMUU3M051YV81bnRYV0l6U0tlWUhXOS01NWRjTEdyUHFkODh6M1RnMGtEazlDc09NODVDM2ZRclhnZTFSaHZtelhGVkVweF9QSmszOHFqMUNMak04cXdidGRfSlBYaHBfRUh1a1ZQRlh4WnVTT1ZQNHBpbkVr?oc=5).
 
 ## Requirements
 - Python 3.8
