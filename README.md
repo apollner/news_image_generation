@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk interview of Trump marred by technical issues**
+**Police release bodycam from outside Uvalde classroom shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWW1TTzVFcGk1bEh5SEZISjlUeGJ4NTRDSERuSndhazQ0ZWR1cXE2NEowNnB0XzcxV0F6ZTA1RHZfQjl2R0M2RzA0TWFZWWhTSlpWU2tSeUgycWNMdHlORXZXT0FaX0JldklJNjR6bGVxMWhIY09YZE9ndGZFYUx3UmsyQVI5WTR1SG9EMWdCSFk5Z19mb0dLUw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GQ2FMSmIyZW02NjBlU2NkN25TMTNybmdSX0ZxN0Zhb2Z1N0Q1R0w4YU1YVExYZWZtQ001MURBcUJReEFodFIxcFJZc0FwbVF6Uk1hNDVKSQ?oc=5).
 
 ## Requirements
 - Python 3.8
