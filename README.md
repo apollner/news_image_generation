@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cancer deaths among men predicted to increase 93% by 2050, study finds**
+**Martian subsurface harbours oceans of life-giving liquid water**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTTBlXzRhSUYzMHE4SUFvRUJJSmg4dFkwY3pmZE9XZ2wyaFJaaEF5RWw0SDFiU2VWang1d2hDb0hYQWVYNEp3LWphc2RjOC1IX25XTzBIRGxxZlhjVnh6dDZBTGo4SjNsRmxlcE93WFhfdjNV0gF6QVVfeXFMTVlyZG9BSUEyQjF5dDB3b2E1aWEzemE4T0VCbTZVVzI3MGw4WmtQOEszTEtFUTV3bTlzRkROQmxwSGI5dk4tUTBSTkplMzdGdkRzNzJKLW5MblR1Mjc2eFhTWXRVYXpFNzRlSFlGMUdNQXVfY2RWaDJHdHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1RUZWNyRXBqVE4yNk1BNVJ5WEJDZGdicXU3TmFpcTUtdWItemtLV2lOM01wa21MMHV3Y1ozLVJPMzhpdXNTNk1OM0xVcGtKOVRRUkN4WUd4WUpuSi03Z1lZTy13NFBBNmM2aV9yQ3UtUURfTHhoYXJDd0VpT0VET3BIVm9QNHlWaEhvRzd1UGpwakVxVkpUaWhMS2JUNkN0TW1oZmZn?oc=5).
 
 ## Requirements
 - Python 3.8
