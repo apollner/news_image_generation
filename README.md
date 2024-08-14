@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘I got it in mint’: Young people are dumping Apple for the Galaxy Z Flip6. Should you?**
+**Former Colorado clerk Tina Peters, one-time hero to election deniers, convicted in computer breach**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UbW1jUy1qWlFmaUt0NTVMbmJBVlZtaEl5VmV2b29ndXMyY0kzOWFYQUV1UXhMYUdWWTY4NU9pakJVaC15QThFZERxeVRfTlJla2UwU09vS0RqM1hPSVdDM3JyeVdYazhkbDhVNEtR0gFzQVVfeXFMTXhNQmxtYjlOZXF0NEhWZnNXbk1LS3Y1dG9MbVdrdkUxeXZCZ19mV1FsTGtKZno2bVRJUUh2VzRnYXlhVFNleElScVV3U0FHNVVTVWJBNDFDNWk5RTdCUEFxZHpvV1JKUmpZZVNESHVCb25ZYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0p3cFQ2OEwzU3ZpSEI3bDU2ZDRheGZGOEpwelg0VkRsNkQtVVVmMlcxNmg1ejRTdVJCZWR2UkstS0d2bFhyS0dvUlBHNjBubjNoMm9zaThfd1RqTW1nYl9LeVhaLXRseXhmS2piUThYUzcyY0dBNlA4OXdXdTZWZDJWcE9aaXlvUmZGZjhGclQ0YVBzWlVDZS1IZ1Q?oc=5).
 
 ## Requirements
 - Python 3.8
