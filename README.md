@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teenager wearing a helmet and bulletproof vest randomly stabs 5 people at a cafe in Turkey**
+**Russia strikes back at Ukrainian forces in Kursk region**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPZzRfTm1HUFZjVVg1Ui1GWXhYcU1Sd3FuMkFvbVd6UW9fSWxlbEZNdGhMbG9QeTQ5XzhwQ24za041alJnMVhPb3g2U1Z2Qk42WFhRLUUzcVM5YkliWmkxcnF1cVVoYzhSbDF5SEl1bkZpMlVUQVdHRFZ4NC1BY1NQQkxhX1duVWVGU2FFQV9SNk5mN0hJOHF5SGk1ZTBPMmM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQm5JNW0yRno2MTRnY01xclRhcFdXdzFYSXVyUlFMR0VfNnNuRXAydnREWG9QZm1jVEJYV2ZreWpDRFg3Tksyc3ZINTNEVnNBdzNiWmxPOTFQWkNzRzdyZ04zOVo0Q1hseXQ0UlhxQThlbFBZQWU5ZTB2SnBOcVp4NVdYSGlMTklkdk4zcDFKazF1eGJWLXRLdUpfZWoyM3hHODZGbjNjME8?oc=5).
 
 ## Requirements
 - Python 3.8
