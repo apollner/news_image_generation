@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Africa CDC declares mpox a public health emergency**
+**9 Things Musk and Trump Said About Climate Change, Annotated**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQk5KOUtzLXhHVDBmbFR6MUp0NEFvdDJaeVNPVWgyaS1kV3E1X2tYdUVXOHFNeGtYN1JtdlFEYmVzX1hSQzJpUU1LVkNsdVRFbmdQTjlpRDEzMEVTdDFibU5qOTVvbjlqekNvY3M0eWtudnpHZW5EQzV3blhpNnJzbjV5c2pvV291UVAwMUM0UmNTUTRnWmfSAZsBQVVfeXFMUHcxX0czWkJzd1Q5MEdQNjNxMzlqM3daWFZmRXN4cDVTc2tWTjl3UTRwTlh1MjRGc1VZQTJVaUVwZXV4clpVSnd4bl9VOWJialIyRVctT0VlaUFxWkV5TDVReGIyTlNoMXhSSUN2TERfWS1TU0hKMkRDTWs0WGFvbnlESkdyLUlhX1R3ZXRlc21NWHA3NFVydUx3Y0k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Y1RWblc4T010VEc3OHBOaEt5eUVfM19qOEdJakZFVTRybHBXb1V0bFVHLWNnNUJJQVNHcm1OektrelhWel9qNG0wWm5RbGw4d3N4aDdtNjhkM2NUaEYySFBfMG1DaHFtejRUZnBsdzhRV203Z1RUZ0dmZw?oc=5).
 
 ## Requirements
 - Python 3.8
