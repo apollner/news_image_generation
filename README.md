@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Murder case brought against Bangladesh's ex-PM**
+**How much cheese should you eat a day? A nutrition expert weighs in on dairy.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tY1kwM0JoUGV6SGpIQmx1OEZfR2pDaGlwZzhrMlI0ck00ZTNGdHFDeGJHR3JmdUpiQUZQREdkNHFTOUxHWVFVdVBMMXBkS1FiRGVCd2NKblRYQdIBX0FVX3lxTE1MYTI0T1JwbWt3OEVsdlBNWGVmTmRpa19sbnhaRXlaUnhCTTRvYWo3ODdlMVVqSUlJOTRFQ3drdm1JcWtXT2RVMEJqblU4Q0JrZVp4VzY5MDkwOTA5NlU4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU5fMlk4SmI5d2czMVBiS1ZnaGNPRnNHdjFMNXplRVZiVEN5TW1YZGxYVTF5R2x6bEpvZW40TW05akNQRk93V29SMXFaRU9NOXVpM3pjb3VaeEdYNTYwQXVUMHRSRUF3MnVNMG9YcS1ST29PTlVXUFRod2NnS1JrNEtXbUJkaXlfazczaldzLXFiTFpX0gGaAUFVX3lxTFA1N3ZHUHpvVGJCdzVmOGtmNkJ6OXM2aDNlY1lQXzFLOVVHZHN2LUNYNzRpYmdzOWRhS0FWMjd1QmV2R285SDcyaVFaY1FjUy0yT1E5a25xTzZKandWTWUzaWpGaWViaDlUUExoSFRhaWZxUzBjbTZkY3pPYUluT2NlaFRxMzUyeFl0QjE3QmFHbXV5VjVXdW5RVHc?oc=5).
 
 ## Requirements
 - Python 3.8
