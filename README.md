@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio officer who fatally shot pregnant 21-year-old Ta’Kiya Young charged with murder**
+**Starbucks Ousts CEO, Names Chipotle Boss as Replacement**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWhsaElESWVUc1dmUjdCR0dicXFTb0xsaDkteDN1TEVFMjFVb0d1VDJSbFNzSFAteXJPTUxNMjhxNk94RGpRMlQ4a25SQnNlbHg3NlY5NFJkZXgxVXdpZHBHMlFWREhIOXQ2Qk5rNEhPWnI4Q0FrYVVQQjBkSW9nMDNhYk0xUW85TG9FLTYzMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNHNJNkMwVVFLekFKaVFHc2FVN0RPalZ0TnBLd0FMNnE4T0gtaWh3ZjVtclNBbDVZUG50SVAxdk01a3dDQm5NbE5YSzlvcnhYWDN4NjlGMUFvRWhYNmFVejh2UE5FVExoS1oxaEZDdGEySGFxckR2c3VDc2Q1Z1V1MVVzV1dvTFJpQVhqOHRJbFFIaEMzclNGeUwyOVQ3WlU5?oc=5).
 
 ## Requirements
 - Python 3.8
