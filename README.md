@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Hacked Roger Stone and Used His Email to Try and Breach Trump Campaign Staff**
+**Hidden ocean on Mars: Researchers suggest water could be 20km beneath the surface**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOSUlaUEMtbzcwRDBzUXI5LXFOTGFVLW9RcEd2TkdySG1DVk8yRGctNlcwRXZGRXdzZmprT1E1WWQ0NXZvd0NaU2VVVEtXMDdXQjRHeWt5c2ZKN2oyd29QRF9DUjJsYU5HZWszV0NVSXZVTXNEZE5XQTNNS0ZXT0ZQemxFcFluTXFvMFk5Sy1ZeDlXRm1qN1k3ZkVPaFFtYUxTYXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC1dtRXR4NXFDSWpBmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
