@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Men's cancer deaths to rise by 93% globally by 2050**
+**Africa CDC declares mpox a public health emergency**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGdKMGxKZXoxYWJoWUg2aHVMc0pRT1dlQWJIb2djMGplbDVWZ29Ed2xLX0VDQWlaaWNRVUxHa3BlZUNDQzJuR0RXNEFwRVplZ1BzeUYzbWhyTjYyTFlaa1BzSUctU1FiZWFNRXI5Y1BIaXhHdTFvQWpEOUphR3dPN095TEE0YVpYc0xNQTlheURZb3d1YjZ6Z195Wlc1NUVaMVpVQlRR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQk5KOUtzLXhHVDBmbFR6MUp0NEFvdDJaeVNPVWgyaS1kV3E1X2tYdUVXOHFNeGtYN1JtdlFEYmVzX1hSQzJpUU1LVkNsdVRFbmdQTjlpRDEzMEVTdDFibU5qOTVvbjlqekNvY3M0eWtudnpHZW5EQzV3blhpNnJzbjV5c2pvV291UVAwMUM0UmNTUTRnWmfSAZsBQVVfeXFMUHcxX0czWkJzd1Q5MEdQNjNxMzlqM3daWFZmRXN4cDVTc2tWTjl3UTRwTlh1MjRGc1VZQTJVaUVwZXV4clpVSnd4bl9VOWJialIyRVctT0VlaUFxWkV5TDVReGIyTlNoMXhSSUN2TERfWS1TU0hKMkRDTWs0WGFvbnlESkdyLUlhX1R3ZXRlc21NWHA3NFVydUx3Y0k?oc=5).
 
 ## Requirements
 - Python 3.8
