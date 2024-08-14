@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Ramps Up Smartphone Push With Latest Pixel Devices**
+**‘I got it in mint’: Young people are dumping Apple for the Galaxy Z Flip6. Should you?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU9PSDhabFlrU2FiQ0pyVUNUQ2NMdFQ1R0JhYXBURFUzbGg1cTBpWnU0cE9wLVBjelJvY0p3WDg3bGFmS3NKZU1TZ3RHeUtjYlRjel8tbHQwOXBocWZGRW1OZnRjdGJqQXRkdEQyREVWR0xySDl2QXBnZFhaVzdzQmtIOXBaQ00tQnB3T0EwQU1UYXRYaVFkOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibkFVX3lxTE1UbW1jUy1qWlFmaUt0NTVMbmJBVlZtaEl5VmV2b29ndXMyY0kzOWFYQUV1UXhMYUdWWTY4NU9pakJVaC15QThFZERxeVRfTlJla2UwU09vS0RqM1hPSVdDM3JyeVdYazhkbDhVNEtR0gFzQVVfeXFMTXhNQmxtYjlOZXF0NEhWZnNXbk1LS3Y1dG9MbVdrdkUxeXZCZ19mV1FsTGtKZno2bVRJUUh2VzRnYXlhVFNleElScVV3U0FHNVVTVWJBNDFDNWk5RTdCUEFxZHpvV1JKUmpZZVNESHVCb25ZYw?oc=5).
 
 ## Requirements
 - Python 3.8
