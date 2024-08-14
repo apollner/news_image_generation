@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia strikes back at Ukrainian forces in Kursk region**
+**How to watch the Made by Google event stream and Pixel 9 announcement**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQm5JNW0yRno2MTRnY01xclRhcFdXdzFYSXVyUlFMR0VfNnNuRXAydnREWG9QZm1jVEJYV2ZreWpDRFg3Tksyc3ZINTNEVnNBdzNiWmxPOTFQWkNzRzdyZ04zOVo0Q1hseXQ0UlhxQThlbFBZQWU5ZTB2SnBOcVp4NVdYSGlMTklkdk4zcDFKazF1eGJWLXRLdUpfZWoyM3hHODZGbjNjME8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE50MkJKdVl0ci05bTkySFl3VUlfeDlRWHNrU1F0TnJJbEJzWGtKVDF3NWRKY2w4SkhudFJwWHlMMG1zd2tEemdFMUtKbXY2TlBGaGw5VEk3a2RxU1M5dDBrNm1YV2pVM3VIdDgtWUE3TUhpZE9pVEJxbg?oc=5).
 
 ## Requirements
 - Python 3.8
