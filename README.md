@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ocean with life-giving liquid water found on Martian subsurface in stunning discovery**
+**5 cases of Legionnaires' disease may be linked to cooling tower in downtown Lincoln, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUExCTTg5Um1nT3VHSUtLYTBLSUgzQmozakhqTGdFbkdNN3Rzd09seDJBUVRybnRRUkNZRFgxOXNXOTJSLUlyUFNTMFRwWjZoYkdQRE5fYkxTNEs1NjBvTXNkMnk5bVlCMWJQRURBeDdxSFBkcGYxdGtqaDc1eWVxdHN1T0U4eWIwWjAyQTRyVU5neThCSGhRVENrdzJNVlZoNllsODI5S3ZueklIOUlLMWhUTTltMGs5bnlsRVphR3drYVA2UlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm5rNERxOGdRZDlva3Jnc056MFpXdUJvNHlsVnZWcERZQkpkcVhmbC1oR0tkNW1rc09LdjM4ZDBfSjZBQ2dfOG5yVkdhUXQ1XzJXZGt6RmM4YXZBV01TMWw5aVNDWVp3UlBfelJ3cWN4MzVKNmVQZDBZbFFqWHNaNlhqZWxBXzRQQS1vakFkcw?oc=5).
 
 ## Requirements
 - Python 3.8
