@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martian subsurface harbours oceans of life-giving liquid water**
+**Greece fires: Fresh evacuation alert in place as threat continues**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1RUZWNyRXBqVE4yNk1BNVJ5WEJDZGdicXU3TmFpcTUtdWItemtLV2lOM01wa21MMHV3Y1ozLVJPMzhpdXNTNk1OM0xVcGtKOVRRUkN4WUd4WUpuSi03Z1lZTy13NFBBNmM2aV9yQ3UtUURfTHhoYXJDd0VpT0VET3BIVm9QNHlWaEhvRzd1UGpwakVxVkpUaWhMS2JUNkN0TW1oZmZn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMDdEZUFvb3R5VnBxQ0hySm94RlhUc1E5dG54SGV6U0dfQlAtdGU5dmtWUUdiY3R2MlhrZ2VUR0V2ZExBakpuZGJjRnByZUFBWUZtTDBlZnZuQdIBX0FVX3lxTE53QjF1VzBMRDZETGo2YThmM3VkRFJYR3RIM2ZxQkFxWXhyblAtR0tXNTVBa0dRNVVqNnY1X1M0dExqNUVYaWgxeVZxLUJ3Tm9PMy01Z2JzSUJxVGJZQjZj?oc=5).
 
 ## Requirements
 - Python 3.8
