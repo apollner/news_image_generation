@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**9 Things Musk and Trump Said About Climate Change, Annotated**
+**Murder case brought against Bangladesh's ex-PM**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFB0Y1RWblc4T010VEc3OHBOaEt5eUVfM19qOEdJakZFVTRybHBXb1V0bFVHLWNnNUJJQVNHcm1OektrelhWel9qNG0wWm5RbGw4d3N4aDdtNjhkM2NUaEYySFBfMG1DaHFtejRUZnBsdzhRV203Z1RUZ0dmZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tY1kwM0JoUGV6SGpIQmx1OEZfR2pDaGlwZzhrMlI0ck00ZTNGdHFDeGJHR3JmdUpiQUZQREdkNHFTOUxHWVFVdVBMMXBkS1FiRGVCd2NKblRYQdIBX0FVX3lxTE1MYTI0T1JwbWt3OEVsdlBNWGVmTmRpa19sbnhaRXlaUnhCTTRvYWo3ODdlMVVqSUlJOTRFQ3drdm1JcWtXT2RVMEJqblU4Q0JrZVp4VzY5MDkwOTA5NlU4?oc=5).
 
 ## Requirements
 - Python 3.8
