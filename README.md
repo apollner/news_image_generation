@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How much cheese should you eat a day? A nutrition expert weighs in on dairy.**
+**Paramount is shutting down its TV studio as part of a new wave of layoffs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxQcU5fMlk4SmI5d2czMVBiS1ZnaGNPRnNHdjFMNXplRVZiVEN5TW1YZGxYVTF5R2x6bEpvZW40TW05akNQRk93V29SMXFaRU9NOXVpM3pjb3VaeEdYNTYwQXVUMHRSRUF3MnVNMG9YcS1ST29PTlVXUFRod2NnS1JrNEtXbUJkaXlfazczaldzLXFiTFpX0gGaAUFVX3lxTFA1N3ZHUHpvVGJCdzVmOGtmNkJ6OXM2aDNlY1lQXzFLOVVHZHN2LUNYNzRpYmdzOWRhS0FWMjd1QmV2R285SDcyaVFaY1FjUy0yT1E5a25xTzZKandWTWUzaWpGaWViaDlUUExoSFRhaWZxUzBjbTZkY3pPYUluT2NlaFRxMzUyeFl0QjE3QmFHbXV5VjVXdW5RVHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmprU0g0LS1iOW5pbGVoOHBsTjdsa2JUckF1amRCdVNfdVhOMzhxMXhETFphcXgwREFyZ09MV2tsUFU3dm5DZTg3aUktMGFpTWxqa05YNlVSRkJMRjI1bl9BVFNyODJqWkNzQlQ5dUs3Ym9BS3pFSGFKaTRUX0dlWW1aUjNXMWw0a2dsYk1hUQ?oc=5).
 
 ## Requirements
 - Python 3.8
