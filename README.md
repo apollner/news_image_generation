@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vince Vaughn makes rare appearance with kids at Hollywood Walk of Fame: 'Most important thing in the world'**
+**Martian subsurface harbours oceans of life-giving liquid water**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNHNQWV9DMU9MVzFKQzdlZndpVU14TU8tMXMxREZJaDJhVkVfMVNQZGpDRFJSLUN5cThiNWxNUVc3Z1F3YlhGbVBMMC1Ba1htWmRzaExud0hjVk95RFV2SGJwTklqdEptWnpXSmRSOG9aZm45TjQxblg3a2Q5cEFKSG9HencyQjlXYVVhZUJFelk5aGtHanNjOFplTHZmcVpDU1R4SUhpRDRJR3JURVBoemVzWDMwSkdQQWREalNzM1psUdIBxwFBVV95cUxQQWpsQ21TTE1JcWVON2t1c3pRRWlJd0Z2UkU1ZXI1aS1STEJCcWlwX05FRE9QSnFnSGM2UnhmZnZ4a1RlZ1RmNlQ3RXFmMWhVWXpOendpdlM0a0R3aDlhcXpEOVotaFNGblMwbEtfMW9ucXIwdTJ4THdTUXF2anl6a2p4TUhPaEYzOG5PQV9DQkJDY2hmTmJpcW53N29FTDBqbVhGbVZ1N29NYU8zUHhzUFZsNXBYVjdUMTF4X0hlcEJUN1p3dHpV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1RUZWNyRXBqVE4yNk1BNVJ5WEJDZGdicXU3TmFpcTUtdWItemtLV2lOM01wa21MMHV3Y1ozLVJPMzhpdXNTNk1OM0xVcGtKOVRRUkN4WUd4WUpuSi03Z1lZTy13NFBBNmM2aV9yQ3UtUURfTHhoYXJDd0VpT0VET3BIVm9QNHlWaEhvRzd1UGpwakVxVkpUaWhMS2JUNkN0TW1oZmZn?oc=5).
 
 ## Requirements
 - Python 3.8
