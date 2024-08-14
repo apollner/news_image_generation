@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 1 grades for first-round rookies: Who impressed, disappointed and surprised in NFL debuts**
+**News outlets were leaked insider material from the Trump campaign. They chose not to print it**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYTJlTVhYZjBrZnd2OVJ2NE56S3M3TmZYd0dJM1hIWTd0ZmxOa2syUVBZdUJLRVV4cVBFeU04UUo2WXpPY3M3NDVaeTNaVXZhM0J4dFpVLV9mZXJDSlJJYzdhSXBuLTVvR2swX25pS0s3UF9CM0pIamtRMlQ1Y3lFV3ZTRTE1QV9TZ1h3T2l3cmtlWHo1T3ZxYnA0OHNlcE1qV0RzOWRwN3A3Z1lkeENqdFBPekJ5S3RIcFNFei1ZMW1pTF9VekRpTHRMNGd0emkzWmVBc2FLc3QtQdIB3wFBVV95cUxQemFFMEs4aUF3STFyVnJBTE94RFQ2RmFWamZKVElmblZXa3VOWnY5M0o5dlI5N3l3YU0teXVWWEU1WmIzdzdzbmd6QUtrY0RpWi15cXBRaXNDOVpER3pwcVpWV2VsNi1lM281N3hYT2FKMHlWRlpOU3A1YzRSbTNjOUZUTTNUREtGVDRneVFzRzJncXZudkd1eDZZaXRGZnF4LWl5WC0tUEZJeVV0UWRnTzRMS3d3c2Jja0VIQjQ5QUtrZF8zNF92eDZ2QW9BLXdaLXJLY25NdDFuemZHbjJR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNallxb05HeXExU1JKUzJzeS15b2hGbkpwSDJUc096QV9XczB1TXdqS2ZORTZRbHc2YzhhZnh6VHphLThmNjFNdjBVcnM4T0lNT0NqM2oxeWxWUEJaMmdEdXhzQ2U0UzZSYl91RE5WV3diQU5pWFZlM2R0S2pZYVhKUlZKVDh6Wmx0VlFYd0RCMW5ZVnAtQjM4?oc=5).
 
 ## Requirements
 - Python 3.8
