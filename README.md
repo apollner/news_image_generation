@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump is returning to X for a live interview with the platform’s owner, Elon Musk**
+**Disney Channel's 'Hannah Montana' Alum Miley Cyrus Apologizes To Mickey Mouse For "Malfunction" Era**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGIyWmxZU3ZvUzlhcm1PSVZxTXpxeVVDRmtaMVlSLUhldUUxS1RENkp4emFkMHA2c3RmZW5iTVBJZ1JraXF3b1JfNjNzUFRxQ2lxa1EyYlVYcEJnTXlWbnhMWUxOMkY3UE9KcENJMXh5TmhVOHVvYnV6Q1hWcFhXRjFfS241ZmFDTHR2TmdZbWNwMnNNdm5DejdMMC03VGNMVnJZVndR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPVUpuZXVFa1NQWDRxUUtwaWNrNXlPajBlQzRSanZhUm1yUzNZTjVRQ19PSDVhSW1UTXV6SUJwT1FZWkI4TUMzakItRS1HMS00R1hVMXVUaWFiUmJVWjBwamRIU2h1Mm5BRXlzNGloLXh2Ymh6cTEwVXhma0FZR1JidE45RjRyRnV4MmRXSnRlUDN6UEd3dW4xYmt4SEtodkFWT1hBOHRCSHFwUHRuMXNkbnVvb0RTUXNrN3c?oc=5).
 
 ## Requirements
 - Python 3.8
