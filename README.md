@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris backs ending taxes on tips, echoing Trump proposal**
+**Cancer deaths among men predicted to increase 93% by 2050, study finds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9iV1IxU1ExbG41RWMzOGNfMzZCQlN3R2RVTEVITnYtczNoaE1KSmhnVGJNdllQcW00YVdEYXNRZ19mbkdiVG1WdDQtQWt2R3BfcUdISXlLS3cxT3RaRGdicHVnMlpha1M4YzFLNDFuX29wOE84dC1Vck05TELSAYIBQVVfeXFMT25ueGpRN0d5S3IwTzFxRUZvSHJONUdNU1pCXzhVYnhJNEpWSVFKWXhrZHNGUlQtNmJvYzlyNTcxaGNZT1dMU2tucmtuVTV4NXU1LWVHZlBwSGdMTU9URjBVYnRydzlNUXFwOWpIc2JENFM0VjFzLWY4M1dKSHptUDUwUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE1fTTBlXzRhSUYzMHE4SUFvRUJJSmg4dFkwY3pmZE9XZ2wyaFJaaEF5RWw0SDFiU2VWang1d2hDb0hYQWVYNEp3LWphc2RjOC1IX25XTzBIRGxxZlhjVnh6dDZBTGo4SjNsRmxlcE93WFhfdjNV0gF6QVVfeXFMTVlyZG9BSUEyQjF5dDB3b2E1aWEzemE4T0VCbTZVVzI3MGw4WmtQOEszTEtFUTV3bTlzRkROQmxwSGI5dk4tUTBSTkplMzdGdkRzNzJKLW5MblR1Mjc2eFhTWXRVYXpFNzRlSFlGMUdNQXVfY2RWaDJHdHc?oc=5).
 
 ## Requirements
 - Python 3.8
