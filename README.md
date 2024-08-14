@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Martian subsurface harbours oceans of life-giving liquid water**
+**Google Ramps Up Smartphone Push With Latest Pixel Devices**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ1RUZWNyRXBqVE4yNk1BNVJ5WEJDZGdicXU3TmFpcTUtdWItemtLV2lOM01wa21MMHV3Y1ozLVJPMzhpdXNTNk1OM0xVcGtKOVRRUkN4WUd4WUpuSi03Z1lZTy13NFBBNmM2aV9yQ3UtUURfTHhoYXJDd0VpT0VET3BIVm9QNHlWaEhvRzd1UGpwakVxVkpUaWhMS2JUNkN0TW1oZmZn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU9PSDhabFlrU2FiQ0pyVUNUQ2NMdFQ1R0JhYXBURFUzbGg1cTBpWnU0cE9wLVBjelJvY0p3WDg3bGFmS3NKZU1TZ3RHeUtjYlRjel8tbHQwOXBocWZGRW1OZnRjdGJqQXRkdEQyREVWR0xySDl2QXBnZFhaVzdzQmtIOXBaQ00tQnB3T0EwQU1UYXRYaVFkOQ?oc=5).
 
 ## Requirements
 - Python 3.8
