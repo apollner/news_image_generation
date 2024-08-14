@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hidden ocean on Mars: Researchers suggest water could be 20km beneath the surface**
+**Ukraine claims to control 1,000 sq kms of Russian territory**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC1dtRXR4NXFDSWpBmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WSzhaN0xOWU5FRlpJS2tkS01samVWcHR6RTRsZFNNUTQtSUlGWWNnUXZWZnJCVkI5UGRLb3NfdlQxaExDME55YVJ4bERxa2ZnT3ZiUE5sd0p2QdIBX0FVX3lxTE93cHFDa1FuUHAzRTRtanFSTGNpZ24yYlBuWnJUQXBzcDJwNmdPUjhpOWdGb2VPRm1tVXVDRzRoU09MR0VhTlhMZF9kVVdtenRTeTU3OXZaTGxPbWt6SGZR?oc=5).
 
 ## Requirements
 - Python 3.8
