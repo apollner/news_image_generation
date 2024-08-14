@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Greece fires: Fresh evacuation alert in place as threat continues**
+**5 diagnosed with Legionnaires' disease in New Hampshire, health officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMDdEZUFvb3R5VnBxQ0hySm94RlhUc1E5dG54SGV6U0dfQlAtdGU5dmtWUUdiY3R2MlhrZ2VUR0V2ZExBakpuZGJjRnByZUFBWUZtTDBlZnZuQdIBX0FVX3lxTE53QjF1VzBMRDZETGo2YThmM3VkRFJYR3RIM2ZxQkFxWXhyblAtR0tXNTVBa0dRNVVqNnY1X1M0dExqNUVYaWgxeVZxLUJ3Tm9PMy01Z2JzSUJxVGJZQjZj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPN19yWHpwLU9UMzdDQzg4dUg1Rm9FLVhPb1hkX2U3Q0ZzTnRDVU1KN0pZN2hNY1VFSnFoMktKbUZEdDVzQ3lZTGF0M3Fqb1dzbU9iRzV0Qzh0Y2U2SFpkWTRKWlJVV2d2ekxmRVFiVDRRZkVIODRuSUx0eFQtZFRMb3JJdllkc2tGLXdQUER6ZkVrdWdsaDNpcjBDVzNLRXNQdzZEbFRwcVRDNmN40gGyAUFVX3lxTE9RaldlbHdYWVZjZmd4S21ua2tkUWtJRkstM05wOFBGdDdfMDJXN0pFZ1BlZmtaV0dhMzQ0WFpmaFpBN3FUa2V4VXRtZ3VDTE85dXc2bG9XQWtZNmpjUUdSaGJWNHZfWm05NnZtTXFpOUU0MFdQV3A3QUJNbm40QXVzN0dNS3Q4Wm1jYVIwY1dXc2FaTHluU0VrYmtjMXZWTkpfbnp6V3plVTJlR2I3cjdJS0E?oc=5).
 
 ## Requirements
 - Python 3.8
