@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Made by Google event stream and Pixel 9 announcement**
+**Tropical Storm Ernesto is plowing through Caribbean islands. Here’s where it could go next.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE50MkJKdVl0ci05bTkySFl3VUlfeDlRWHNrU1F0TnJJbEJzWGtKVDF3NWRKY2w4SkhudFJwWHlMMG1zd2tEemdFMUtKbXY2TlBGaGw5VEk3a2RxU1M5dDBrNm1YV2pVM3VIdDgtWUE3TUhpZE9pVEJxbg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGRKSEtKVlhzeERibkhPUHhMUU9XaVRsNXA3VXNud0t2Y2F6dXlWR2FuT1lzV3NuZm5sOUtsWVlfSVNZaXpBN090ck1randCVlNnQnFNX2RxU2o4WjBqN0FkeHExXzhxVlZXbnpTdTVRLUMtUF80VUxOTUx4WlE1UHJnTkxvRngtTktmcmJqRWJkamNodHdDVXJ6aVNRbmN3ZW9EdA?oc=5).
 
 ## Requirements
 - Python 3.8
