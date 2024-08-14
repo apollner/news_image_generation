@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police release bodycam from outside Uvalde classroom shooting**
+**Barack Obama Shares 2024 Summer Playlist: Charli XCX, Tems, 2Pac, Nick Drake, and More**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GQ2FMSmIyZW02NjBlU2NkN25TMTNybmdSX0ZxN0Zhb2Z1N0Q1R0w4YU1YVExYZWZtQ001MURBcUJReEFodFIxcFJZc0FwbVF6Uk1hNDVKSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnFxc0Q4bl9rdUxiQW03dWFnRDZ1Wl9rT1FmN2pEZV9pdVc4VVBJTWFubGEwaXhPcTM4RkFDX2FEaFVwQ0Vqbi1FbEpuVmFSbVp6RzVTOXpicXZQVnlKT1FXeEJWbWk5N2Z0QXhPNGVoc29YZ1o2QnJjNXlpTDYwMU9HRDA3YjlRZUwzbjZmM1hOVlRTR0d4VDlJdm1BUFQyZENOc3RabWFacFlqMEE?oc=5).
 
 ## Requirements
 - Python 3.8
