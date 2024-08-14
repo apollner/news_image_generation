@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow jumps 300 points as first of two major inflation reports this week comes in light: Live updates**
+**Study: Men's cancer deaths to rise by 93% globally by 2050**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE8zempVQmRYYkN2TjQ2dHkzMGdhcFJScnZObk41OFp1S2loSUZCUThWRVhoT3gzUHBmOERHWkJLV0hxcXVLMVBNMXltRF9xYmVaV3NYUld3dC13ajBrVlN6LURvUHJKSnZHdlljVkkwNVFnUzl0VFNV0gF8QVVfeXFMTk1zX09BdjIxbFF4cTd6a3Yyd0pvekVSbFlvbWppcXEwMkdIazlFTWdTOXJJdUpTQ2hNXzVsaWFOYlNpcGhiRXVSYjFpd1NMNHM1cXNLeXloWXNTY2JBMkg2ZHBrZnhXOWNkR3FUQlFkWTRfdHJ0Ql9OV3NObQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGdKMGxKZXoxYWJoWUg2aHVMc0pRT1dlQWJIb2djMGplbDVWZ29Ed2xLX0VDQWlaaWNRVUxHa3BlZUNDQzJuR0RXNEFwRVplZ1BzeUYzbWhyTjYyTFlaa1BzSUctU1FiZWFNRXI5Y1BIaXhHdTFvQWpEOUphR3dPN095TEE0YVpYc0xNQTlheURZb3d1YjZ6Z195Wlc1NUVaMVpVQlRR?oc=5).
 
 ## Requirements
 - Python 3.8
