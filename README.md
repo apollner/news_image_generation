@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**News outlets were leaked insider material from the Trump campaign. They chose not to print it**
+**Ocean with life-giving liquid water found on Martian subsurface in stunning discovery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNallxb05HeXExU1JKUzJzeS15b2hGbkpwSDJUc096QV9XczB1TXdqS2ZORTZRbHc2YzhhZnh6VHphLThmNjFNdjBVcnM4T0lNT0NqM2oxeWxWUEJaMmdEdXhzQ2U0UzZSYl91RE5WV3diQU5pWFZlM2R0S2pZYVhKUlZKVDh6Wmx0VlFYd0RCMW5ZVnAtQjM4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPUExCTTg5Um1nT3VHSUtLYTBLSUgzQmozakhqTGdFbkdNN3Rzd09seDJBUVRybnRRUkNZRFgxOXNXOTJSLUlyUFNTMFRwWjZoYkdQRE5fYkxTNEs1NjBvTXNkMnk5bVlCMWJQRURBeDdxSFBkcGYxdGtqaDc1eWVxdHN1T0U4eWIwWjAyQTRyVU5neThCSGhRVENrdzJNVlZoNllsODI5S3ZueklIOUlLMWhUTTltMGs5bnlsRVphR3drYVA2UlE?oc=5).
 
 ## Requirements
 - Python 3.8
