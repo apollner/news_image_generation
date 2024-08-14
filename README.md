@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance backs Trump's support for a presidential 'say' on Federal Reserve's interest rate policy**
+**Donald Trump is returning to X for a live interview with the platform’s owner, Elon Musk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPUG5BYTlSQ0ViLVotNUk3RHpsaGV5RXhITW4tM0FzdVJIalItVEMxR1I2R3lWR2lsNzdJU2VJN3VKZzNOVHZUQld3b1BocmdVcTc0YWRiaHJaRWUxTHZpOFNZSmdRLVVrSVRHME52cU5vUGNCZTNTY1d6OW9vV1FDdnVvTUpvUXZqamR5dnJWR2dBdlUwM2tEZ1YybWdtZ0NHOE4yMUpma29JR3FFSmxWLdIBtgFBVV95cUxOazljQW5VYTRWNnhyVWNOTnAxWkcteFgyRzdQOUpza2tKUElNdktiTHQ4clF6djJqemFpUFZmak9hZXZKTlBTTE1ac204a1lYNWRRcmVkb1lwN3VMQmtpNVpQTVczRkE0bWtsN0poTWFPQXhlLXZfSFFVLWRCVUYyai1wRlJJYlVHajVqcFFYSXBGNENVU1J1U2lIUHNfSkh0VTl1V1hKdXQtM3ZjeWtCT3RtVW1lQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGIyWmxZU3ZvUzlhcm1PSVZxTXpxeVVDRmtaMVlSLUhldUUxS1RENkp4emFkMHA2c3RmZW5iTVBJZ1JraXF3b1JfNjNzUFRxQ2lxa1EyYlVYcEJnTXlWbnhMWUxOMkY3UE9KcENJMXh5TmhVOHVvYnV6Q1hWcFhXRjFfS241ZmFDTHR2TmdZbWNwMnNNdm5DejdMMC03VGNMVnJZVndR?oc=5).
 
 ## Requirements
 - Python 3.8
