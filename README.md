@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Bachelor’: Grant Ellis Named Season 29’s Leading Man After Exit From Jenn Tran’s Season**
+**Harris backs ending taxes on tips, echoing Trump proposal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUkFqOE5aN0NoYkY0YWFmMUU3M051YV81bnRYV0l6U0tlWUhXOS01NWRjTEdyUHFkODh6M1RnMGtEazlDc09NODVDM2ZRclhnZTFSaHZtelhGVkVweF9QSmszOHFqMUNMak04cXdidGRfSlBYaHBfRUh1a1ZQRlh4WnVTT1ZQNHBpbkVr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9iV1IxU1ExbG41RWMzOGNfMzZCQlN3R2RVTEVITnYtczNoaE1KSmhnVGJNdllQcW00YVdEYXNRZ19mbkdiVG1WdDQtQWt2R3BfcUdISXlLS3cxT3RaRGdicHVnMlpha1M4YzFLNDFuX29wOE84dC1Vck05TELSAYIBQVVfeXFMT25ueGpRN0d5S3IwTzFxRUZvSHJONUdNU1pCXzhVYnhJNEpWSVFKWXhrZHNGUlQtNmJvYzlyNTcxaGNZT1dMU2tucmtuVTV4NXU1LWVHZlBwSGdMTU9URjBVYnRydzlNUXFwOWpIc2JENFM0VjFzLWY4M1dKSHptUDUwUQ?oc=5).
 
 ## Requirements
 - Python 3.8
