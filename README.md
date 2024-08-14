@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 cases of Legionnaires' disease may be linked to cooling tower in downtown Lincoln, officials say**
+**Ohio officer who fatally shot pregnant 21-year-old Ta’Kiya Young charged with murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZm5rNERxOGdRZDlva3Jnc056MFpXdUJvNHlsVnZWcERZQkpkcVhmbC1oR0tkNW1rc09LdjM4ZDBfSjZBQ2dfOG5yVkdhUXQ1XzJXZGt6RmM4YXZBV01TMWw5aVNDWVp3UlBfelJ3cWN4MzVKNmVQZDBZbFFqWHNaNlhqZWxBXzRQQS1vakFkcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQdWhsaElESWVUc1dmUjdCR0dicXFTb0xsaDkteDN1TEVFMjFVb0d1VDJSbFNzSFAteXJPTUxNMjhxNk94RGpRMlQ4a25SQnNlbHg3NlY5NFJkZXgxVXdpZHBHMlFWREhIOXQ2Qk5rNEhPWnI4Q0FrYVVQQjBkSW9nMDNhYk0xUW85TG9FLTYzMA?oc=5).
 
 ## Requirements
 - Python 3.8
