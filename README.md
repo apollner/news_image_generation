@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount is shutting down its TV studio as part of a new wave of layoffs**
+**Africa CDC declares mpox outbreak a public health emergency**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmprU0g0LS1iOW5pbGVoOHBsTjdsa2JUckF1amRCdVNfdVhOMzhxMXhETFphcXgwREFyZ09MV2tsUFU3dm5DZTg3aUktMGFpTWxqa05YNlVSRkJMRjI1bl9BVFNyODJqWkNzQlQ5dUs3Ym9BS3pFSGFKaTRUX0dlWW1aUjNXMWw0a2dsYk1hUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxON3A2TWZ0SzZTV2UzMjlyX2pvaF9TNlFhbzExQ2hpR0FDeVVnYWY3SGRJcG5DLXcySWU0d1I0eEhGRXVKQ0pZVkN3b2Q5Y1I3S0VVMjRPT0oyWk1EQ2NhUUxObjZScjhIRzFiSEtzVWlhZ0NuaUhmV0Z2VGpheXFZd3BmNFd2UkUtcWw3UU9hLUc4a0gzSjN4cXdQRzYyVnlNRWVjTDczRk8zVHNrNnNxbkxzYw?oc=5).
 
 ## Requirements
 - Python 3.8
