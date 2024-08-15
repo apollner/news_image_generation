@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joaquin Phoenix’s Last-Minute Exit Sparks “Huge Amount of Outrage” Among Hollywood Producers**
+**Week 1 Results + Scorecards | Dana White's Contender Series Season 8**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxOZUE2bDV5QnY1V0ZveUxiOVQzbm96WUNqZ2xsVGMzM2x3T1F2RjdUZ2dYZm1KcnU5TnRiVzFLNGhIS1liM1B1ZGJQZFRaUGpwT3VxUUthZzV5M1U2YVRZQzlSUU1xbnR4eWpGRjlGR2xZMWswZ1VyRDlHTVFXakFidnFCVnRhOU9pUlBURXBhZFhCS0JVekhQa2cyY9IBoAFBVV95cUxPamxKNGN3ejg4aUhsNlJEeUx5MWpiV2ZScThJVDNtVEVHQ2VCYXpNREtoT0UxeWpheG1fV3ZJOV9tRjFlYVZjRUlkYXZsWXRYRi1wTjNqeFpMR2l0MWJfZGNtMWg2NUxjeEdTY3hyUjB0SGFTMG5ncUpSX0JtQjdfVlc1LVBYMzZkeVBmenBweFRaQmc2cUVxRkpBak9PWG9i?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUV4UUlHaWVwV3VESm5wWGhHTmctNHktZGxXdFBMWlVELWY5dHJrTktRa0I2ajFxWl91NzZjYlNUN3ZtRTQyLXBjMmh3ai1XREo3clZMTW5kWmMxZk9VVmJZZXpRTDFPSS10NVJaYUhzWEFLQWpBeWFOY2EyUjJMTG5PajlobTJ1N1lienFyTWxpQQ?oc=5).
 
 ## Requirements
 - Python 3.8
