@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US considers a rare antitrust move: Breaking up Google**
+**The Taliban are celebrating 3 years in power, but they’re not talking about Afghans**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS25PWE0xUkxiMjZMMnRjRngxbGphT3FoM0M1N0ZLX3ZIYlFvRXE0NU5qNW5hazExeGZESmhRalpyZVlrbndBMXEtM3RHX2pHejREWU9vNnZzZHZTTllYNnZlMGJWd1JYa2d3blBhRFVhMk9JaDZUMXhrY243TmNUOS1PSlM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnprRWlNMnNaVWptNS1HZVFDdTZFS1BaRlBZSmtLVkZ5TTVibERtRGNWdW1ZQ18wYXViOGNZRjlWRjJOTEtMd24tYWhrN3ZmZFJ3XzVESVBhUXBOeXh1cVhOc3IzNjA0a3FyWXZtS3JfWGR2OUlFTVdzdUdsZUlJX09YNW5TU2NBWGliajU5WVhURTFxbTBWbFFjSGFvNElIMDZxSFZ3?oc=5).
 
 ## Requirements
 - Python 3.8
