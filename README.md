@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ernesto To Become A Hurricane, Threaten Bermuda**
+**US considers a rare antitrust move: Breaking up Google**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0FzRkJKVE5mS2N5SDhaVXMtbGhHQlAzbVhia2h0NEVQY1FHdVF3RVJHMjMwOFo3RXhpNGxTVnZOeUtVb3NDdzc5Z2lfMzU3MjNFbFF1WWM2dUZZMTJCaTJWZmExaWJObkVIRGlrNWpxaEhNSDJpRVo0dnJzTGpWdGJVRmhPN1FlcjNOdzRVSm5ILXpTWXItbUs1SzA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxNS25PWE0xUkxiMjZMMnRjRngxbGphT3FoM0M1N0ZLX3ZIYlFvRXE0NU5qNW5hazExeGZESmhRalpyZVlrbndBMXEtM3RHX2pHejREWU9vNnZzZHZTTllYNnZlMGJWd1JYa2d3blBhRFVhMk9JaDZUMXhrY243TmNUOS1PSlM?oc=5).
 
 ## Requirements
 - Python 3.8
