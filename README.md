@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees’ Jazz Chisholm Jr. has UCL injury, placed on 10-day IL - The Athletic**
+**Vikings rookie J.J. McCarthy out for season after successful meniscus surgery on right knee**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOaVd2VTl5eXZCNXEwZUx1SWVseGNTcjYzY2I0bV9QV0pwdGt5aXlDUWR1Nmp1LXpUczRrRUFjUGFRRmRYVGwxdU4zSXZwMjluSjNNYWp5cEZRVmhFNDg4aTJLVWltdWV1c3pBYVpraFg5UjY5cDFLUDJtcE9Va3k5ekE1Nll2emVCUFRTUkI4QXljQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGUyWE5SZUxZT2wtZ3BrLWRjYllrdDRvY1ZORGhkMEI1WjVRUnhpYjIyRmk1T245dzBrMEctRm9aS1p6VjJBYjVyaWdsSDQyNDd5dnhyUXgwY0NIVTlsUWt1M09uS2hRYWxBTEczZ0cycGUzVXJvMW94bFZJcEhBSFN1N2drM1pRazhEOHBCNWpFLS01NWlqa2tLWQ?oc=5).
 
 ## Requirements
 - Python 3.8
