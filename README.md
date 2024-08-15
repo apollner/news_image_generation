@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It Ends With Us' Justin Baldoni Hires Crisis PR Vet As Blake Lively Rumors Swirls**
+**Mars Reaches Deal for Cheez-It and Eggo Maker Kellanova**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNpeURPaVFIQ2g2QkVSTjJ0SVdLY1ExN1pPLUZDWXVxN1FYal9uUVZ2SHFYTUNLcnNKcVVIQVAwcmx6ZzJKR0wySnpyb01PVDRtdzMwN3U2UGVEQUtTdnhrOW84TDNHam5tRElZQmQ0RWswd3A0bS0xcVlvdjNPdTNnRnprczlScV9vTVkzMndQbjNnMzVDVy1GUmVGWjhL?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGx2WEg0MjFnZjVWcGxyVnFjQVJfSUFUTTJ4aVdwSHVodHVsZmlJMGxQbTVpREl6SDZYOHhmdFNOeXFtbExvSGZMWVpjckZyRW1uMXZUTDFEM0ZPdHFoSnhPWGw1X1NmZHVmcTRKZ2lYMW5iblVBLTlUd1Bub2NxU1JlVHotVlBpY21ZVC1XN01hRi1yQmVSdUk5RzdjZTB6c0d5VWJxaDNHX1dJ?oc=5).
 
 ## Requirements
 - Python 3.8
