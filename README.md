@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 1 Results + Scorecards | Dana White's Contender Series Season 8**
+**Judgment day for Thai PM Srettha as court rules on dismissal case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUV4UUlHaWVwV3VESm5wWGhHTmctNHktZGxXdFBMWlVELWY5dHJrTktRa0I2ajFxWl91NzZjYlNUN3ZtRTQyLXBjMmh3ai1XREo3clZMTW5kWmMxZk9VVmJZZXpRTDFPSS10NVJaYUhzWEFLQWpBeWFOY2EyUjJMTG5PajlobTJ1N1lienFyTWxpQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2pXRnYtek1UWWdmeGRUUUZkVUJKUk9wOEZIcUVTVkFWTzBRcGFsNk1YalpNMVE2X2pHZnZqMWRBZHNNRV9qV2xjWHNlQmUyQmNpMzZodHozZy16cXhWTTF6bzZ5aXlWRVRsMG96eTFOUUwzVlJrMTdFMzFzZVNidnV1VnZXNC1kUTgtcEltblhyZkc2RXBXMWVOV2tORFBZSjlCakRhUERseDVhOUhv?oc=5).
 
 ## Requirements
 - Python 3.8
