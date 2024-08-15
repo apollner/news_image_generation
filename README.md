@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Starbucks Fired Laxman Narasimhan A Year After His Appointment As CEO**
+**The Taliban have ruled Afghanistan for 3 years. Here are 5 things to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxObjR2Y3ZhOXgtZnkzZFFmVndaMEZ4ZWFLazAyVVM1RWp0eGlBQWR6eENfMHMtc3d1ZFFkNVpRSUp4RS01NTJLVEN5X09SZXdTeWJwVGZESGY0VlZib2FrX3llYlo3VHpfZkM3cWhrQmpudjA5dG1nYWRzcjBIOF90XzFEd0N4eUNjMEFRb1d1cGhydXN2UHQ0eU9aM2xZOEVqMFlLTGZaLXNEaEJzc2xPdHhJNNIBuwFBVV95cUxOZmdvTjBsS09HRzVSWVYyV3RtQXVPYmFZRWdVRy1tNmNFdGJUeW53eEFzNExvemhfdmtjS2M2bEM1WmxHTHM2UW1pam9lbkQtT0pIekNmbng2MFJHMFo0WnpXY3poZzI3U2d6UVhuUFExUkttSzEzVl82cy15TDZGUUZIUW1wVVFRWjZOTUhidVloZGI4NnN3RnA4dE9RVVZRMGhOMXdhN1NVTEhoNkkxY1dWbkYtZ0pnZ2Jz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNblNRcGFlWFVMREtlNWh6WmZJSWpsXzNoUTVwa2VVd3c5bTRrQTZqa0l0RHprZ01iamJKZEN4QklPYlh6SVk1OWttNUpEX1dIa0FSQTRqNldVeW03MWRQODR0NnhaRkZqOTN4SjE4MWVhSkJjaW1od3hrNnpTemFtOVdkZmFxZEZfVE1SRmZ0RTRNOEZUMS13YUpaSUNhVktYb3lrdExoNEhHdmZrQVVraTROUQ?oc=5).
 
 ## Requirements
 - Python 3.8
