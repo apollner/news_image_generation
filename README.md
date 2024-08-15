@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Flat Ahead Of Imminent CPI Inflation Data; Nvidia Nears Key Level (Live Coverage)**
+**Ernesto To Become A Hurricane, Threaten Bermuda**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXkxby01Y1R6ZElsRHk0YnAzZDU2VV9jTk90dmlVQ0RsSWlVeDJRdkszbnRKZ3BNREhVNkktMTNlZTdzeTFyeGNWbzhhcWZPc1l2am9UQkRzbEFXTWYzaG83ZWl4NDhQZTNvNDdkQ3pmTjBkNEtWR2hoQklzc3NidXRqSHE2WHdyT3pzVEItTTNFMnV5YzlwMUljaVhtTkkzRVpTM0tR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNb0FzRkJKVE5mS2N5SDhaVXMtbGhHQlAzbVhia2h0NEVQY1FHdVF3RVJHMjMwOFo3RXhpNGxTVnZOeUtVb3NDdzc5Z2lfMzU3MjNFbFF1WWM2dUZZMTJCaTJWZmExaWJObkVIRGlrNWpxaEhNSDJpRVo0dnJzTGpWdGJVRmhPN1FlcjNOdzRVSm5ILXpTWXItbUs1SzA?oc=5).
 
 ## Requirements
 - Python 3.8
