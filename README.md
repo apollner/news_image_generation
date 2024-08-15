@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cooling July Inflation Sets Stage for Fed’s September Rate Cut**
+**Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R2UTZNSGJ1c3lTR1FXZVpoS0dvT1Z6cFdZZ0YxWjhTRVdWVFlveE54SmlDd1pjcDFJUVk3aGc4SlVNSW96aWtxMzUwU3Vac0dscTNzYjlPQ1hTcmozVkVHUjhTSnlQYUFnbU9IcEczS2dYek5LVnZ1M3A5dzc4VVhUb19vbFUwYU1qaHBoWjExR2dVazA4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHZyUTVaZWNpcWp4UTJiRVZzX1Q3SVZ0RGRyUC1PandKb2ZFd2R4ZC1nR1h4RlFJRElsVHdLbUlXaGtRZTltU0VtMGVIWnl6YzRTSm1yQVZibXJQUm1fWjFzaVZJaUJ4dEFoSWExYjRkMDRiQ1NCbUFHNmFWcVNSRG1n?oc=5).
 
 ## Requirements
 - Python 3.8
