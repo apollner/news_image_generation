@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas to stay out of Gaza truce talks, Iran considers Israel attack**
+**Cooling July Inflation Sets Stage for Fed’s September Rate Cut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxNZjVkcnpkMkJiSGVrbXhKZ1JQRHU3MXZ2UWhhYnFMcVVhaDhXc0Z5bWZnOUF1NWZyWkZ3QzVNamNxZkx6ZnNveC0wZnVMM1MyZW5pQkRJUURKaXdTeHMwbnpqb1JRYUIydjE3eUpUNTlqZGNaNmE5WGU5LWpvTkVZR0hQV2taajZtY0RpRy1RWUp6R3RpQnVKUFVSR25hd3BSMElSSWRnTlVYdURuSFY3RVFEWDk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R2UTZNSGJ1c3lTR1FXZVpoS0dvT1Z6cFdZZ0YxWjhTRVdWVFlveE54SmlDd1pjcDFJUVk3aGc4SlVNSW96aWtxMzUwU3Vac0dscTNzYjlPQ1hTcmozVkVHUjhTSnlQYUFnbU9IcEczS2dYek5LVnZ1M3A5dzc4VVhUb19vbFUwYU1qaHBoWjExR2dVazA4?oc=5).
 
 ## Requirements
 - Python 3.8
