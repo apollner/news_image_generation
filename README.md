@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Men’s cancer deaths expected to spike more than 90% by 2050, study finds**
+**Israeli minister denounced for prayer call at Jerusalem holy site**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3F3LW5qOGp3dE0yT1VWYWtIZWdONFdPX01GVXNjQS1KVW1ReXNlM2x4cGpkTmRMUV9XUWdfbWtFbnJRY0x1VnRITlZxeUFUYU5EYW1VVlFwOVNKQnp3d2wwUlR2bHhVZ3M4VVVBSkJnekdjZ3dSRXVfNEZka1ctNGo1Si1lOE5L0gGOAUFVX3lxTFBsWEpYV0tsV0RLNXRSTE1SLXpCb25HbmRjRlJ6cG53VFdaUGxVYjV1SnZVYXBESTVwckNpenExUF96MVNXVW5BZ0M2NFBHQUI4bnl6SjdKdkJ6Ym1fSlNfVGI4SUpGVE16ZzctRUJCYzJGZlZVUFQ2clJJeTN5NDhQLTVOc1dyMExkeW1NbUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ec3pvMjVYVFpCcDRvVlZOLWhGeEJmMHpSS3BvQmRRYmp6Sm5RUW5JV2hxYmktcHJ0M2pBWDAtZ3pwa3pRYm1GRG5PT1VYZnZrVGtKN2RqVmpXZ9IBX0FVX3lxTE9IRGpTazJuZDV0bUtSTXZUVFNUVHFYYTZXSk5ieWlxcWo5SlNHY2hIMEVHRVJWR0pTaVItRThIdWNlT3FjS3Z0V3U0ZEk1NWJDOFBGRF85cDk5alpNYWNj?oc=5).
 
 ## Requirements
 - Python 3.8
