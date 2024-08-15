@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Agents find more than 2,300 pounds of meth hidden in celery at Georgia farmers market**
+**'It Ends With Us' Justin Baldoni Hires Crisis PR Vet As Blake Lively Rumors Swirls**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0EtWjBBU2gwMkpvajlmOXZjQkZ6MFZ1U3pDNTRSVDVwOEN2emFvT296WWtGR0Mxd3ZicVpjVWRnNGE3SFd6X1B4bmU4V21QcFo4cXYxLWFhc0tGcEZtUEJoUXlmQ2t2V0VBRzFvTk13VG0wVXk2ODdzZl9VSURVeFRB0gGHAUFVX3lxTE1GSTBRbU4tYzJveFVjQVptMzdTYktyM1BtR25sRV9COUt5U0UxcjdxVXI0NV9WRGVlY0l4UGRNUjRKb2V6WE94czY3UTF1QlNDbWxsQXY1N2ZCX2lwcWJGci01dGVqZDM4dDBDTnVsSWZuclRHcjdZX3VkbTAyU2JIT05zUV9WWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVNpeURPaVFIQ2g2QkVSTjJ0SVdLY1ExN1pPLUZDWXVxN1FYal9uUVZ2SHFYTUNLcnNKcVVIQVAwcmx6ZzJKR0wySnpyb01PVDRtdzMwN3U2UGVEQUtTdnhrOW84TDNHam5tRElZQmQ0RWswd3A0bS0xcVlvdjNPdTNnRnprczlScV9vTVkzMndQbjNnMzVDVy1GUmVGWjhL?oc=5).
 
 ## Requirements
 - Python 3.8
