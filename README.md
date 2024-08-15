@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasa astronauts latest: Update on Boeing Starliner crew stuck in space**
+**Ukraine says it has taken more ground and prisoners during its advance into Russia border region**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyX3FuQTRNNGhYRXRLX1pZdnc0Y1VkbXEwWEN2R0R5a2pzTU5CSVdNUkZEcFV4TkpmVzdWcXJfS3JJXzdFWmVfTkh4RnpNeHRqOEF4Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZqaDdObmdaUDJ5bzFZd0ZjZ1hEWGFlNURUTlVycjZGUnNXZHhPREZQcFlwbU5vMEtHOVFSQ1lGcGh5RG02MkJYci1yU1BDRi04UVlNNFFZVGdna08ybG55TlZBQ3ZfU2R5TWlvU3VGSm1lbXZla2Z1TGcwQjJMRXdQTm10UkVwZUlpVHduaWgzY184V05MTG93?oc=5).
 
 ## Requirements
 - Python 3.8
