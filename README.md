@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mpox never stopped spreading in Africa. Now it’s an international public health emergency. Again.**
+**Mars to buy maker of Pringles and Pop-Tarts in snack food megadeal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnJKdUp0SGotWkdCOU5IVHZicmlfaU41ZDZ3MXdCX3hMUkJQMGhZcFpHZUZTZE5QQ0ViVXVOdUxzaVZQQmJmVTlPRlYwRXZDeThXVDZCTHRScG9LbzZWUEI5ZE9FN0UwSW5ySndTUGxWQTNiTzc5cHRaQzB2RlBTN1pBMDd1d3hyZTZ0a2NiUHhwX3cxQ0ZDSk4yRUR4ckEx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNS3JqRTlKZkpFUk5wem1icUk0RWVENzE1TGUwbENHNWlENUszQVdUeXRaSEVZSnRNQmFSWHhBQkJSeDNXdTczWmFyVl9sX3dDRzNtb3p6VWVkeENqXzVBVjZqcnBVaUJ0TDJYNmFudmI4RUFTTHRBN0tJTHVPS2FRNVYtaWduMkU?oc=5).
 
 ## Requirements
 - Python 3.8
