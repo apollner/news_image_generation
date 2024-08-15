@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liquid water detected on Mars — but it's buried deep beneath the red planet's surface**
+**Mpox never stopped spreading in Africa. Now it’s an international public health emergency. Again.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3hPZVZ6RmdlaHRERlhnenZPM1NjMjBtT1VDOG4wZGhKOUZFT25FYzhGOGs1SVNTT00tRE1FYi1HNFhsYTNpZ2VjbU14cjNqTFVLdW5YaXhzd19zRksyNy1UQ0ZEUGVCT2tyOTN2eWRtNDV1TG02ZWFaS1hyM3hLMk9YbFB6YXJxUVVweUFGcS1TYW1JQ2pnSmlEZ1NUdGtvMDBBX1hJTE40UEdOSHhhMm9ZR3hkY00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnJKdUp0SGotWkdCOU5IVHZicmlfaU41ZDZ3MXdCX3hMUkJQMGhZcFpHZUZTZE5QQ0ViVXVOdUxzaVZQQmJmVTlPRlYwRXZDeThXVDZCTHRScG9LbzZWUEI5ZE9FN0UwSW5ySndTUGxWQTNiTzc5cHRaQzB2RlBTN1pBMDd1d3hyZTZ0a2NiUHhwX3cxQ0ZDSk4yRUR4ckEx?oc=5).
 
 ## Requirements
 - Python 3.8
