@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge rules with Jewish students, says UCLA can't allow them to be barred from accessing campus after protests**
+**Nasa astronauts latest: Update on Boeing Starliner crew stuck in space**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGVuWHlBbUxWMUs4ZjRWUGdhT1hhWDRMbXozVVNUMjM0YmFGSkdlUllVbHM5cnY3VnNyWGQwSDNHWWJRYnZZT2VkbkhsTGF3V0hjSVVQVUNJVTZLYWJRSFhKUUVlOEd0TnB1LXVOcXpTejRwaUtIamVaQ2xBY29tZmFBRTlVeXV3eFhvRGdVSHlhb0dCTnl6TmgwMWo0NERWNHFldFdEX3RncEFhb0g0R2E2YmV4SlNDTlHSAVZBVV95cUxNaGJLQnRuS2VyR1BUSFhOSG03cS0wSlNJRUhBS2hEVFdvR0xwRUxEaEltWHotLUZBUVRJSUtjY1JlajZEdTRGYy11SjI4WDVQQlJyOWVGQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVEFVX3lxTFAyX3FuQTRNNGhYRXRLX1pZdnc0Y1VkbXEwWEN2R0R5a2pzTU5CSVdNUkZEcFV4TkpmVzdWcXJfS3JJXzdFWmVfTkh4RnpNeHRqOEF4Zw?oc=5).
 
 ## Requirements
 - Python 3.8
