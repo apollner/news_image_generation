@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judgment day for Thai PM Srettha as court rules on dismissal case**
+**U.S. plans to sell $20 billion in weapons to Israel over several years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ2pXRnYtek1UWWdmeGRUUUZkVUJKUk9wOEZIcUVTVkFWTzBRcGFsNk1YalpNMVE2X2pHZnZqMWRBZHNNRV9qV2xjWHNlQmUyQmNpMzZodHozZy16cXhWTTF6bzZ5aXlWRVRsMG96eTFOUUwzVlJrMTdFMzFzZVNidnV1VnZXNC1kUTgtcEltblhyZkc2RXBXMWVOV2tORFBZSjlCakRhUERseDVhOUhv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPeC1uX2J6MFpmMFhIejc3SUdkRk5wZmlYRWVSRGVKZENCd0J3ZmJ6a1hvTE80NlNMV24yZG84aENHMnl2OXcxdXRtM3NYeUM3R2xCZ09JdVlsVEhESmlXZ3NUY1Z5aklGeHhLcUxLTEVjekJiR2ZENC1CN0JNSklBXzU0ajFlV28?oc=5).
 
 ## Requirements
 - Python 3.8
