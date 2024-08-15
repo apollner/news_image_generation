@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liquid water detected on Mars — but it's buried deep beneath the red planet's surface**
+**The competing theories of the Nord Stream explosions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3hPZVZ6RmdlaHRERlhnenZPM1NjMjBtT1VDOG4wZGhKOUZFT25FYzhGOGs1SVNTT00tRE1FYi1HNFhsYTNpZ2VjbU14cjNqTFVLdW5YaXhzd19zRksyNy1UQ0ZEUGVCT2tyOTN2eWRtNDV1TG02ZWFaS1hyM3hLMk9YbFB6YXJxUVVweUFGcS1TYW1JQ2pnSmlEZ1NUdGtvMDBBX1hJTE40UEdOSHhhMm9ZR3hkY00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRUhfSUc1SDBRYXdOaWhwdEZWb1ltbFdPcGlLNHJtVkFHeGJONXNJSGJJV2F4OGpidVJzNXNRU1JqeHZwUFlBODN2YWF0YXc4Rkpjc2gwT2I4NGRpUENtdThGMHBfT19nVUhLd0ZGNjU?oc=5).
 
 ## Requirements
 - Python 3.8
