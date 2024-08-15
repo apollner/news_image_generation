@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US approves $20 billion Israel weapons package, including fighter jets**
+**Paramount is shutting down its TV studio as part of a new wave of layoffs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnVVclViblJER2czSmdydFpwVGlpUmp0Z0cyZXczQVRHSG4xUG1qWUJPUGRZY1loZlIyUlNPSm01V3JETnRCaXNUQk91SUZHRkZ6WnYxSjRMblNEbGtTd3hqX1J6VGhJMkhTaUV0cHVjeU9RamNxTGl1NHhRdXFnTExPUTluNFliWi1ReEJteVE3TnNSa1o5V3lRX09jM1hwU2RWOWx5U0lZRVJ1dkhuckF1OXdUWkY5bTAw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmprU0g0LS1iOW5pbGVoOHBsTjdsa2JUckF1amRCdVNfdVhOMzhxMXhETFphcXgwREFyZ09MV2tsUFU3dm5DZTg3aUktMGFpTWxqa05YNlVSRkJMRjI1bl9BVFNyODJqWkNzQlQ5dUs3Ym9BS3pFSGFKaTRUX0dlWW1aUjNXMWw0a2dsYk1hUQ?oc=5).
 
 ## Requirements
 - Python 3.8
