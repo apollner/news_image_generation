@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan's Kishida announces he will not run in September, paving the way for a new prime minister**
+**Liquid water detected on Mars — but it's buried deep beneath the red planet's surface**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk5JLXFQNk5DLWVkd2hWWmVJUVNqOWhzR09vRjJnbDRHdVhrcllzYngybzFYSVpVSUYxOTFtN3FqZzBxYkxVRWU1MmZSN0pvS09CVTdVcHVrWDRzMTlYczl6bFRfZ0w1X19pM19VMUhlT1hpQkgwb2hPTHVFTk52RWR6ZGVlcGlxLXNDaVZBczFNdzdzUHhQUDVBQVFOOXVwbTVaS1Y1STBlUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3hPZVZ6RmdlaHRERlhnenZPM1NjMjBtT1VDOG4wZGhKOUZFT25FYzhGOGs1SVNTT00tRE1FYi1HNFhsYTNpZ2VjbU14cjNqTFVLdW5YaXhzd19zRksyNy1UQ0ZEUGVCT2tyOTN2eWRtNDV1TG02ZWFaS1hyM3hLMk9YbFB6YXJxUVVweUFGcS1TYW1JQ2pnSmlEZ1NUdGtvMDBBX1hJTE40UEdOSHhhMm9ZR3hkY00?oc=5).
 
 ## Requirements
 - Python 3.8
