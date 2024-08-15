@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Taliban have ruled Afghanistan for 3 years. Here are 5 things to know**
+**'Squad' member Ilhan Omar wins congressional primary**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNblNRcGFlWFVMREtlNWh6WmZJSWpsXzNoUTVwa2VVd3c5bTRrQTZqa0l0RHprZ01iamJKZEN4QklPYlh6SVk1OWttNUpEX1dIa0FSQTRqNldVeW03MWRQODR0NnhaRkZqOTN4SjE4MWVhSkJjaW1od3hrNnpTemFtOVdkZmFxZEZfVE1SRmZ0RTRNOEZUMS13YUpaSUNhVktYb3lrdExoNEhHdmZrQVVraTROUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbTFocTYyLTNRNTJHT2hVd2QzSjk2RzdvWlJDTmVNTV9UQUlSUy16Nk56YnpPU0k3R0M3VFRXdUZ6NTYxT1FHSE9LdnI4dTVWSnh5VlI3ZGVxUdIBX0FVX3lxTE54NjVDMmRSWmR6d05GcmZoYlI3SWxoOTRpNUlMbXJCM0hOWDJDVmNTOHVGNktaeXEwczBQbUEtZ3ZSTGFPMVZ3dWNzRkdnTU0wcVNtcG9DUnl0VkhXdkJV?oc=5).
 
 ## Requirements
 - Python 3.8
