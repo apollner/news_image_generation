@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars Reaches Deal for Cheez-It and Eggo Maker Kellanova**
+**Dow Jones Futures Flat Ahead Of Imminent CPI Inflation Data; Nvidia Nears Key Level (Live Coverage)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNdGx2WEg0MjFnZjVWcGxyVnFjQVJfSUFUTTJ4aVdwSHVodHVsZmlJMGxQbTVpREl6SDZYOHhmdFNOeXFtbExvSGZMWVpjckZyRW1uMXZUTDFEM0ZPdHFoSnhPWGw1X1NmZHVmcTRKZ2lYMW5iblVBLTlUd1Bub2NxU1JlVHotVlBpY21ZVC1XN01hRi1yQmVSdUk5RzdjZTB6c0d5VWJxaDNHX1dJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXkxby01Y1R6ZElsRHk0YnAzZDU2VV9jTk90dmlVQ0RsSWlVeDJRdkszbnRKZ3BNREhVNkktMTNlZTdzeTFyeGNWbzhhcWZPc1l2am9UQkRzbEFXTWYzaG83ZWl4NDhQZTNvNDdkQ3pmTjBkNEtWR2hoQklzc3NidXRqSHE2WHdyT3pzVEItTTNFMnV5YzlwMUljaVhtTkkzRVpTM0tR?oc=5).
 
 ## Requirements
 - Python 3.8
