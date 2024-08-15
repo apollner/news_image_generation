@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paramount is shutting down its TV studio as part of a new wave of layoffs**
+**Men’s cancer deaths expected to spike more than 90% by 2050, study finds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPcmprU0g0LS1iOW5pbGVoOHBsTjdsa2JUckF1amRCdVNfdVhOMzhxMXhETFphcXgwREFyZ09MV2tsUFU3dm5DZTg3aUktMGFpTWxqa05YNlVSRkJMRjI1bl9BVFNyODJqWkNzQlQ5dUs3Ym9BS3pFSGFKaTRUX0dlWW1aUjNXMWw0a2dsYk1hUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3F3LW5qOGp3dE0yT1VWYWtIZWdONFdPX01GVXNjQS1KVW1ReXNlM2x4cGpkTmRMUV9XUWdfbWtFbnJRY0x1VnRITlZxeUFUYU5EYW1VVlFwOVNKQnp3d2wwUlR2bHhVZ3M4VVVBSkJnekdjZ3dSRXVfNEZka1ctNGo1Si1lOE5L0gGOAUFVX3lxTFBsWEpYV0tsV0RLNXRSTE1SLXpCb25HbmRjRlJ6cG53VFdaUGxVYjV1SnZVYXBESTVwckNpenExUF96MVNXVW5BZ0M2NFBHQUI4bnl6SjdKdkJ6Ym1fSlNfVGI4SUpGVE16ZzctRUJCYzJGZlZVUFQ2clJJeTN5NDhQLTVOc1dyMExkeW1NbUE?oc=5).
 
 ## Requirements
 - Python 3.8
