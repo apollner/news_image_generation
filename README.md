@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Squad' member Ilhan Omar wins congressional primary**
+**MAP: These 27 states at ‘very high’ COVID wastewater levels**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tbTFocTYyLTNRNTJHT2hVd2QzSjk2RzdvWlJDTmVNTV9UQUlSUy16Nk56YnpPU0k3R0M3VFRXdUZ6NTYxT1FHSE9LdnI4dTVWSnh5VlI3ZGVxUdIBX0FVX3lxTE54NjVDMmRSWmR6d05GcmZoYlI3SWxoOTRpNUlMbXJCM0hOWDJDVmNTOHVGNktaeXEwczBQbUEtZ3ZSTGFPMVZ3dWNzRkdnTU0wcVNtcG9DUnl0VkhXdkJV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmx3bGNVaUppNEkzYTl6Ni1zTEZ0Z1JHLW93ZC1Gb1JYaUVzR2RITE1lX2F2Y3pWMmVTakhpMjNYdERTbHRXak8weUEyOHRsYV8wVU5QX0dLdUU3QXozNENXWlVEbTNydGlwTW1YUEQ4N0JLcmdJdGtpSXZwNk5Jb3ZGNDJIeEpuRm1CT1l2V09qeHBJRF9Rd0pjNU1WV1M0VndnVjVKN1VnNnZFTFhTZkZDZ9IBuAFBVV95cUxQenAtS25udGw2a1ZUVTVJS3pMcVBBeVQxM3ppMWptZk5oWTdVdnpEUy1WNHU4SlpBNGhKOVd4QU9zZ3hmdU5QQXZHakVXWTc2cXljcUZQZzZveXdyWGg0R1FHeG5OWTFQWG01ek96cWpUUzllLUg5R1piTHJhZVo1TkUyZE04WHpmaEt3eHRIUGh4cG9lM2F4aFlidjhVY0lseFlkeUhnT21nQ1lZVUJMaTlQOFZkZ1dq?oc=5).
 
 ## Requirements
 - Python 3.8
