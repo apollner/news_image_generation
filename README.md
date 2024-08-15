@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce grew out his hair because of Taylor Swift, says Patrick Mahomes**
+**Judge rules with Jewish students, says UCLA can't allow them to be barred from accessing campus after protests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3h5dk1ybkppdGtMWjVQb2gtQWFaZkJwRTNUc0hSNkVRajRmYVZONXhQYkQybkNWWWtOZTZLZE1MVmlHSGxBMVpGLUY0VGcwRWw4dnhKSlphLVRVeVhLc2xIRm5sQVlzVE5VcjF2enFiWms5WUxDenZKMEEwWjBNUkxQSWt4SzM4MFBVMmFIWE5pMHhaZWlaeEt5TGJQUmtRT2pnTHpDY0lvQkhKTFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGVuWHlBbUxWMUs4ZjRWUGdhT1hhWDRMbXozVVNUMjM0YmFGSkdlUllVbHM5cnY3VnNyWGQwSDNHWWJRYnZZT2VkbkhsTGF3V0hjSVVQVUNJVTZLYWJRSFhKUUVlOEd0TnB1LXVOcXpTejRwaUtIamVaQ2xBY29tZmFBRTlVeXV3eFhvRGdVSHlhb0dCTnl6TmgwMWo0NERWNHFldFdEX3RncEFhb0g0R2E2YmV4SlNDTlHSAVZBVV95cUxNaGJLQnRuS2VyR1BUSFhOSG03cS0wSlNJRUhBS2hEVFdvR0xwRUxEaEltWHotLUZBUVRJSUtjY1JlajZEdTRGYy11SjI4WDVQQlJyOWVGQQ?oc=5).
 
 ## Requirements
 - Python 3.8
