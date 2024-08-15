@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees 3B Chisholm likely to IL with UCL injury**
+**US approves $20 billion Israel weapons package, including fighter jets**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFFPOE1YTVdYMFoxSGFwcjJ2QzZWa25qSXZtOExtdG11TEZqOWE0Zy1KQlBIcWVWMnNxRFkwUk9Tb1U3ZUVKa3hXNDlWdnJQZ2RDMXF5dkJNaXp1NFE2U3doNi1MUmJYTkhqSnEtN3l5U2NHeXI3c3JQVE5NWmdkMzlnVWZzbXpSS1hmVmxQcllsT05kU0diQg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTnVVclViblJER2czSmdydFpwVGlpUmp0Z0cyZXczQVRHSG4xUG1qWUJPUGRZY1loZlIyUlNPSm01V3JETnRCaXNUQk91SUZHRkZ6WnYxSjRMblNEbGtTd3hqX1J6VGhJMkhTaUV0cHVjeU9RamNxTGl1NHhRdXFnTExPUTluNFliWi1ReEJteVE3TnNSa1o5V3lRX09jM1hwU2RWOWx5U0lZRVJ1dkhuckF1OXdUWkY5bTAw?oc=5).
 
 ## Requirements
 - Python 3.8
