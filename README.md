@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MAP: These 27 states at ‘very high’ COVID wastewater levels**
+**Tropical Storm Ernesto expected to become hurricane anytime now north of Puerto Rico**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmx3bGNVaUppNEkzYTl6Ni1zTEZ0Z1JHLW93ZC1Gb1JYaUVzR2RITE1lX2F2Y3pWMmVTakhpMjNYdERTbHRXak8weUEyOHRsYV8wVU5QX0dLdUU3QXozNENXWlVEbTNydGlwTW1YUEQ4N0JLcmdJdGtpSXZwNk5Jb3ZGNDJIeEpuRm1CT1l2V09qeHBJRF9Rd0pjNU1WV1M0VndnVjVKN1VnNnZFTFhTZkZDZ9IBuAFBVV95cUxQenAtS25udGw2a1ZUVTVJS3pMcVBBeVQxM3ppMWptZk5oWTdVdnpEUy1WNHU4SlpBNGhKOVd4QU9zZ3hmdU5QQXZHakVXWTc2cXljcUZQZzZveXdyWGg0R1FHeG5OWTFQWG01ek96cWpUUzllLUg5R1piTHJhZVo1TkUyZE04WHpmaEt3eHRIUGh4cG9lM2F4aFlidjhVY0lseFlkeUhnT21nQ1lZVUJMaTlQOFZkZ1dq?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHdHVm0wSHVXbkw2Z3dUc2dWSHVmT2xtMV9xQnZ6WTRzdW05ZUwtT09NTXBxWi11QTdlYnZFRk1aMEI5NHgxNUExdEdFblN0VEt5ekZSN1h0Z19Ed2pqVjBUb0ZnbDRCb1dqa21Zb3M5cURGMEZpRXFxVVprUkU3U3pDWV9yUdIBiwFBVV95cUxOLUFjSUpOM05jMXk1OXoxY3oxeTdoSkhvb3ZYVC02eUIzU1Y2Ym5aNlJTcHBZbi1icm1tTEpCempkOU1Fa0ViWFlBVlE2RFhQejhjOTN6UEJjeVl3VG91VnBVNHhDX3hSTElRMkpZVXNjLWp5VzcxSjUwdmRuSDF6TG9tekdOVFVxRVpr?oc=5).
 
 ## Requirements
 - Python 3.8
