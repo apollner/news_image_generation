@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Taliban are celebrating 3 years in power, but they’re not talking about Afghans**
+**Patrick Mahomes Says Travis Kelce Finally Grew His Hair Out Thanks to Taylor Swift’s Influence**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnprRWlNMnNaVWptNS1HZVFDdTZFS1BaRlBZSmtLVkZ5TTVibERtRGNWdW1ZQ18wYXViOGNZRjlWRjJOTEtMd24tYWhrN3ZmZFJ3XzVESVBhUXBOeXh1cVhOc3IzNjA0a3FyWXZtS3JfWGR2OUlFTVdzdUdsZUlJX09YNW5TU2NBWGliajU5WVhURTFxbTBWbFFjSGFvNElIMDZxSFZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTk3LXFvcmZwVG9rR3RvMTNpR1FCQzFFVjlmcS14OUc1S0s5bFZEQWN0ZXE3T3o3NGxjU1RnalR6TWNMR2VUejl2SzFJX3JUU19aQ055b18wZlVORUZMbmRXTHFMVXgxYmtCV0laVnBHV0luSjNDdEtBLWtzRWVxZFJwOXdyQy12c3dhNUpHamJuUkhqRWswUHVraTN5YTN1YkRRZFFnWFI1ZUVrZXFYbE04VQ?oc=5).
 
 ## Requirements
 - Python 3.8
