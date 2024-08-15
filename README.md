@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Africa CDC declares mpox outbreak a public health emergency**
+**Yankees 3B Chisholm likely to IL with UCL injury**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxON3A2TWZ0SzZTV2UzMjlyX2pvaF9TNlFhbzExQ2hpR0FDeVVnYWY3SGRJcG5DLXcySWU0d1I0eEhGRXVKQ0pZVkN3b2Q5Y1I3S0VVMjRPT0oyWk1EQ2NhUUxObjZScjhIRzFiSEtzVWlhZ0NuaUhmV0Z2VGpheXFZd3BmNFd2UkUtcWw3UU9hLUc4a0gzSjN4cXdQRzYyVnlNRWVjTDczRk8zVHNrNnNxbkxzYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFFPOE1YTVdYMFoxSGFwcjJ2QzZWa25qSXZtOExtdG11TEZqOWE0Zy1KQlBIcWVWMnNxRFkwUk9Tb1U3ZUVKa3hXNDlWdnJQZ2RDMXF5dkJNaXp1NFE2U3doNi1MUmJYTkhqSnEtN3l5U2NHeXI3c3JQVE5NWmdkMzlnVWZzbXpSS1hmVmxQcllsT05kU0diQg?oc=5).
 
 ## Requirements
 - Python 3.8
