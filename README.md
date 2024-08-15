@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says it has taken more ground and prisoners during its advance into Russia border region**
+**Japan's Kishida announces he will not run in September, paving the way for a new prime minister**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTzZqaDdObmdaUDJ5bzFZd0ZjZ1hEWGFlNURUTlVycjZGUnNXZHhPREZQcFlwbU5vMEtHOVFSQ1lGcGh5RG02MkJYci1yU1BDRi04UVlNNFFZVGdna08ybG55TlZBQ3ZfU2R5TWlvU3VGSm1lbXZla2Z1TGcwQjJMRXdQTm10UkVwZUlpVHduaWgzY184V05MTG93?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk5JLXFQNk5DLWVkd2hWWmVJUVNqOWhzR09vRjJnbDRHdVhrcllzYngybzFYSVpVSUYxOTFtN3FqZzBxYkxVRWU1MmZSN0pvS09CVTdVcHVrWDRzMTlYczl6bFRfZ0w1X19pM19VMUhlT1hpQkgwb2hPTHVFTk52RWR6ZGVlcGlxLXNDaVZBczFNdzdzUHhQUDVBQVFOOXVwbTVaS1Y1STBlUQ?oc=5).
 
 ## Requirements
 - Python 3.8
