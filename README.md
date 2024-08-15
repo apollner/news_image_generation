@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I Chatted With Google's Gemini Live AI Voice Chat**
+**Travis Kelce grew out his hair because of Taylor Swift, says Patrick Mahomes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC09ZaFF4Rl9VeE53mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ3h5dk1ybkppdGtMWjVQb2gtQWFaZkJwRTNUc0hSNkVRajRmYVZONXhQYkQybkNWWWtOZTZLZE1MVmlHSGxBMVpGLUY0VGcwRWw4dnhKSlphLVRVeVhLc2xIRm5sQVlzVE5VcjF2enFiWms5WUxDenZKMEEwWjBNUkxQSWt4SzM4MFBVMmFIWE5pMHhaZWlaeEt5TGJQUmtRT2pnTHpDY0lvQkhKTFE?oc=5).
 
 ## Requirements
 - Python 3.8
