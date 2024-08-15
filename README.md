@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes Says Travis Kelce Finally Grew His Hair Out Thanks to Taylor Swift’s Influence**
+**Cooling July Inflation Sets Stage for Fed’s September Rate Cut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUTk3LXFvcmZwVG9rR3RvMTNpR1FCQzFFVjlmcS14OUc1S0s5bFZEQWN0ZXE3T3o3NGxjU1RnalR6TWNMR2VUejl2SzFJX3JUU19aQ055b18wZlVORUZMbmRXTHFMVXgxYmtCV0laVnBHV0luSjNDdEtBLWtzRWVxZFJwOXdyQy12c3dhNUpHamJuUkhqRWswUHVraTN5YTN1YkRRZFFnWFI1ZUVrZXFYbE04VQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNT1R2UTZNSGJ1c3lTR1FXZVpoS0dvT1Z6cFdZZ0YxWjhTRVdWVFlveE54SmlDd1pjcDFJUVk3aGc4SlVNSW96aWtxMzUwU3Vac0dscTNzYjlPQ1hTcmozVkVHUjhTSnlQYUFnbU9IcEczS2dYek5LVnZ1M3A5dzc4VVhUb19vbFUwYU1qaHBoWjExR2dVazA4?oc=5).
 
 ## Requirements
 - Python 3.8
