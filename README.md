@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Listen live: NASA providing update about troubled Boeing Starliner astronaut mission today**
+**What Chipotle CEO's move to Starbucks means for coffee giant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQdHZyUTVaZWNpcWp4UTJiRVZzX1Q3SVZ0RGRyUC1PandKb2ZFd2R4ZC1nR1h4RlFJRElsVHdLbUlXaGtRZTltU0VtMGVIWnl6YzRTSm1yQVZibXJQUm1fWjFzaVZJaUJ4dEFoSWExYjRkMDRiQ1NCbUFHNmFWcVNSRG1n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkVlaVBKM2Z4RGJPOEktcXZWLTFEcWp5d0pBRVBBSkNtWm90amtRTmlMbWpzVjVMYzFvM0NjSEhpRXRKeWJlRWpXRUQ4cnVIdkdCV0xiLVR6OU1iWXpKTHdEUG84RFBfQnRvYVQxbHVwb0hNbXlkS21QVlpRbHdtejlHZlFRRTVN?oc=5).
 
 ## Requirements
 - Python 3.8
