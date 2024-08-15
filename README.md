@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Chipotle CEO's move to Starbucks means for coffee giant**
+**I Chatted With Google's Gemini Live AI Voice Chat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQkVlaVBKM2Z4RGJPOEktcXZWLTFEcWp5d0pBRVBBSkNtWm90amtRTmlMbWpzVjVMYzFvM0NjSEhpRXRKeWJlRWpXRUQ4cnVIdkdCV0xiLVR6OU1iWXpKTHdEUG84RFBfQnRvYVQxbHVwb0hNbXlkS21QVlpRbHdtejlHZlFRRTVN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC09ZaFF4Rl9VeE53mAEB?oc=5).
 
 ## Requirements
 - Python 3.8
