@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia sentences American woman to 12 years for donation aiding Ukraine**
+**Mpox never stopped spreading in Africa. Now it’s an international public health emergency. Again.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9tdGk0aDg1dFY0OEM1QnV2Q3ZodXNTaWN6TmZRaW9IakdMN1lkV0NsU2RKQ0dfY2Fheldfa2RrRW9ERGh4RzJ2X3ZWWEstZVpXMnJXTWpSTk1FVTBQTzNLbmZhTjBXcDFIa3ROOThSN0RaWlFzTjg3UWt3NlY5WDRPX2dkVDNvN3hoaUZSWHFNRXkyaE93cw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnJKdUp0SGotWkdCOU5IVHZicmlfaU41ZDZ3MXdCX3hMUkJQMGhZcFpHZUZTZE5QQ0ViVXVOdUxzaVZQQmJmVTlPRlYwRXZDeThXVDZCTHRScG9LbzZWUEI5ZE9FN0UwSW5ySndTUGxWQTNiTzc5cHRaQzB2RlBTN1pBMDd1d3hyZTZ0a2NiUHhwX3cxQ0ZDSk4yRUR4ckEx?oc=5).
 
 ## Requirements
 - Python 3.8
