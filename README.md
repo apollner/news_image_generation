@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mpox never stopped spreading in Africa. Now it’s an international public health emergency. Again.**
+**Matthew Perry’s Assistant and Doctors Charged With Getting Him Ketamine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSnJKdUp0SGotWkdCOU5IVHZicmlfaU41ZDZ3MXdCX3hMUkJQMGhZcFpHZUZTZE5QQ0ViVXVOdUxzaVZQQmJmVTlPRlYwRXZDeThXVDZCTHRScG9LbzZWUEI5ZE9FN0UwSW5ySndTUGxWQTNiTzc5cHRaQzB2RlBTN1pBMDd1d3hyZTZ0a2NiUHhwX3cxQ0ZDSk4yRUR4ckEx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFkxeEl5eFJLdHJnQlh0bTVtVldBTmlYNWJLYlc5MFQxLVYtMTM2cjg4VUFwbzlUX1c2SUJ0N25rRmNKTjhoSGZYX3NVUklOWjBDdzhiYV81Rl92WkVuZW43bmNpeERWSXZOWk8wZDV6ZjZkRWtPREozcGxNRFBCOXU4MGg2TDNVNlhIY0phUQ?oc=5).
 
 ## Requirements
 - Python 3.8
