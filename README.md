@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I see a lot of denial': C-suite advisor says business bosses still expect a Trump win**
+**Columbia University president resigns after Gaza protests turmoil**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVIzX25GamkzdXp5YzhBT014UW90bFY4enpxcXMzRFhXdHVEbG8tTUxUY0p2Tm92YUYtOEJ4QXd6TFFIUkd3SVAtbk1CVlpkcnp5QjUwbG5veTJnUFA1Ukd1T3U4UUhjRFhPTmVtTS1YUVBqR0NvSFlmMHFzWDZWdGlXSWduWVpFRU1aUS1nY2l0NnRpS1RKYzh3LXZhdUnSAaQBQVVfeXFMTUxZVjNPNE44aFQybGo3eUZfY3hRX0VFVUY5QnNnYWlSWWJsNFJTSEFsNFRBT2hqSzVrcG1RTndlLXhpMW1MMFcwNTZodlhManBXMkh1aEo4SGZLcDNBZVdmNk9mdHVBYkV5UkMzZmxPcG45VVJMU2hkc1RpVmhmTF9pMURGU3Q5TUJtczFqdHVOTkpSdXJHVGU4cXVUTS03MkF1S0I?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jUGdzTTRWQ0UyQ2ljSUJuTHE4MXB5VlZycnlleUY4TzhCNmQ0UGhSQ0VyRHpZcTB1RnpYNTAzbmlKVjkzQkh5MEVfd3RVbEtsd2pOYmFwbU1kQdIBX0FVX3lxTE4yTl9ZSkQ2Y3YwV1VOSzR3Zl93YlMtbWVoOFpZODlYd0hVUDRkcEJJWXh5anEzRlI1QVNteDNuUUhsRXhaZzlwU2ZzTy1aUEJQSjR4eFExdDBkNWRmRTdZ?oc=5).
 
 ## Requirements
 - Python 3.8
