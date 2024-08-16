@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gena Rowlands, veteran actor who brought husband John Cassavetes' films to life, dies at 94**
+**Austin Dillon’s NASCAR playoff berth revoked after wrecks ‘crossed a line’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRm1BU0dxWjZCUkYtb3p3bDk1NkRBMk9RSmpPenN4eDFNYnlfSHNPMDE2aHlQREZtZFNvUkhSekxWMWlKMC1NazFmUDVrUFZJMTJnN3A5Z2xmMVF1bWdvT0c1ODM0TzlPTlBreVB0c2Y3Z2w2aDEtRVllYVloN2RqZnRNUjlpbFVIUlhCV0xRcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNrTlFqMmZXU1JTT1U4YnhELV96ZDVvMzNYeWxjeGtpU1NFODZrd0VvcnAwREo2VXB3a29Wc2t4eWxCWmxpM1RlclAwY3BEcVhmdDdMZFlkTVJFZG1saDRXcF9GdDJLZlRuSkVnT2RXY0Z2WHIwUHRrU1BUUlZ4NkVBVzFWRWNUNVl2a0t5b3NydVA0U1lYd29n?oc=5).
 
 ## Requirements
 - Python 3.8
