@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Ernesto knocked out power to half of Puerto Rico and is strengthening as it heads toward Bermuda**
+**Disney Argues Wrongful Death Suit Should Be Tossed Because Plaintiff Signed Up For A Disney+ Trial**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXg3RFUyQ21URmZsY01JRF9iYXdvb1JRWDBWZ3hpMUhvYm9XM2FGUHdIb081TFNFT29nazZtMmxUZlRacHMwTlRzTHJtMmRGcVpJQzhLTUlkamY5bllvUGx6cEhvRzlpQTl5TFJ1Q25IZkVRZTVsR1NNUUp0aC1JTGd0NUZKNGlyVEhNYUVUQjZUd9IBiAFBVV95cUxQd21leFhWdjZBWlpEMFM5YlpYcXZCZDBSOHFiSVpSSXpFdmN0Z0g2bGk0VWxhSGlfM2hiS19HZ1E4VkQ3aHA2NTd6amswY1VJRFJNYmEtMXR2NUlrV2ZvY3pmNlRpZ1VGT19VUjdRNk14MjZpdDdnWktyWEpJc2VsMFlMV1VVMzlf?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHY5ZWljcnhqOS1lSUxoTDdsWG5TeUJrU3NOUF9mR0JDWE80dTBSSXdLTmFzNHhWc3pSN050WFJvZUFDeDVjWVV4eDZEcnZYNGdLRlRvZVFob1Uwc0RFNEJva3ZzdHNkdFc4NlpLYTVYZzdnXzNIUXY4UmF1bnNpTVhycFBVNTg1QVFVRkg0eGZnUHB2T2pyM011bm9lWEt3WlhvZnRQZmpSWjTSAbABQVVfeXFMTlJZSnRkbnluX2hGdTc1VTRRaFIxVEpGZEVSM3hMbE1Fc0ZiSHpFYlMtOEN4VHhKMEl4OHpJYVk2aEVRa3lqaGR2TG5LdTRISEE1NTZHYnVwRFIwRVd3MENfRFBkRnJMcTJHcHM4UU5BS3VJalh2S2FERjNBcE94dzdJOTVqZXlqVzVHMTBSNTZwVi1WS3Vyc2cyTzhJbml6ZzFkM0w5YXp2eVUxYWtfUXI?oc=5).
 
 ## Requirements
 - Python 3.8
