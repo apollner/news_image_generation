@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Chiles says ‘unjust’ stripping of Olympic bronze has led to racist abuse**
+**Projecting Aaron Judge's career home run total: Where Yankees slugger could finish on all-time list of legends**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHpRWVdRWl9iTjBlcXZaY0VMcFhDRFdLQnRDY0ZPYTl3eEdydUJtVWR1U1NuS1VqOE1oS1VrRDZOcVZPOEFEdjhBeTZJcDVSTUstUkxxLWZZOTBnVk1VaXZ6dl9SZU9LQVZWcTVlRmFWRjQ2UC1NNjJKM0xYdUl4dGNnUFVMc0FLVmJwSF9ubG5abE9FMGI2SXI3dF9Jc04tMzlHZVFtekY0Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc2ViY0hTNkw1bE9VdzJPU01sSVVHeTVjU3ZKZjJMQndlRmpXTnpZZjZtRTZ4V1NWT09DZjNKcUcwdlFPdDhMMk5lNnU1dWpEWG1HWURaaWMxNmVnVzUzUkQ4WVRXd1ZZd0N0NXo5aUk4ODhFbUcwODRnVk5UYzlnUGN0WU9VUktQTVhuYXFONDJXOE53d3dqOEhfOGZtZWxyeHlzbm9kY0hWZmgtTHVJbWpfNktmVjhnVmFqaXE4b1V6Q2p3Q3A1bU9oV3h5RG15c2hMZVk3MUdOWm8x0gHiAUFVX3lxTE1rMEdlVGhPQjRjT2RDS0x6VFRPZDJhSXlpbmZVeW9DVlNhR3Bhc2pZVjVJWHFXVU9NVjBRTFdYSVNyc3EtcDBkTjhJaEdqY0hhOTIxTHdHQWRJZk41OHRYSndvVldZSWh2V1J5OHhtQjJ2a0hKUWNGRVFFZ3lZUXZBbE1SNUdvbVNianVMM3o4QUtvLVMzdG92UzZ4UmluRGkzNktOWTlJdU1NS1RjV1JVRzk1NktXbUY5a2lLNjZocnlZeU1pNTdieG9hSWhJbXFhVGZvdzZ4Y0RXNG9iZnRiQWc?oc=5).
 
 ## Requirements
 - Python 3.8
