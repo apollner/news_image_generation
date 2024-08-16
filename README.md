@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney argues wrongful death suit should be tossed because plaintiff signed up for a Disney+ trial**
+**Israel-Gaza war: More than 40,000 killed in Gaza, Hamas-run health ministry says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1Oa1FsRFR2RV8tdkVRVklCMy1obXpqLVU2MzR6NjlHejNWcXZuc0RaajI5WGl5NVlaZHl2dEZkSVZyeUlxakJlR0VsSElHRlZxcDdZX2FPT0d2OWlMSF84NUtiTFpSdlZFUVBXelhud3VwaHlyT1pZSGlaNEFRb2NMSW5QajNJNTB1VmdMOHlIN0hsbXR1WVBjYmItWm12VXdxemExTnozeTA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMDUyc2RFNGNHcng0VzBrSTRyNG5ZVVVrcjlNNjJLU1pSZkNwSkhDQW5YU1A0LXg5TGpRNE9Wb2xCbC1xaTVWOUVQLW5CUG5EODJNS29UcEZXZ9IBX0FVX3lxTFBmOE9ITFZGdUNGU24wUkJNNDNEVThSMHZEQ0cxQzA5Nnp2SnhOU2R5dF9XNXpqRzBUdFdYdkFCZ2Fxai1xaF9hbTBXYVpLUTQ1RXduZnBvcHRyRlJKTlNr?oc=5).
 
 ## Requirements
 - Python 3.8
