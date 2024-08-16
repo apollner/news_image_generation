@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wally Amos, 88, of cookie fame, died at home in Hawaii. He lost Famous Amos but found other success**
+**New Jersey governor to name former aide the caretaker for Bob Menendez’s Senate seat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSEZmMXJPOVJGWWR4YVE2ZHBjNHhMckVFUVpmcGNpSnlaOGlsNzliVnZ0dks3MFhDcTJyXzdPNTdnLUxRQV92aWI1bXBwNkhUdFFFZklWRGpZSzljVnJvQURtWXhoVlNueS1sSHZUSXNTWHVQN00wMVJITE5FMzl0cVRyX3ZGRi1SSXlPLUUwdVljRGtlQUZBcjRqcDQ4SDgyR2p4R0lFaE1LMW11b2tmTTJMUkhnY0t1T3BVcmJnTmJqN3lmT0wtdEN3RzdFTEFHZl9TRXZSb0NIcVVLbTEyNQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxORVNiUFlCcTRENDdSMGlkbnVwb2h6RFRCWW95c3pULVUxamRTejNWaHVpR0tMcDNNSjVqYS1GMDBpa2RPMUR3RHFrWDJDcHk4RFJ4R193cTNxaUw3NFh3Z0E2N2pEZlFxbnFacFlIUWptZFVPdEhHVE82X2Z2MmhNMWhMNUdvOFZia1E?oc=5).
 
 ## Requirements
 - Python 3.8
