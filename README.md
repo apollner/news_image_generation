@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza cease-fire talks resume in Qatar without Hamas in attendance**
+**Hidden-camera video captures Project 2025 co-author talking about plans for second Trump term**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdHBleXlLWGxvUlh6ZENNTzIzSGhvZ3FGSFJTazJaQndXQnJXYmFYUm9kYldiOGFoSi12cmZTZVRXaTJlY3BkbU5uLVdTR1F1dVo1bzlwUkpFMGxESWo1TXBqd2V4dE1rVUFFdzNvWDNKVGNOVjl3RnVObW9fQ0tPRUxtQk5aZlhlT2Y4UVQxM2k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxNenJqVlJZenpTLTB1emlKOEFSYjRTRkhqLWt2UHo4YlVmVjRfZl9wSE5IWGx6WVNSVWZLN3ptREU3MVpsRk02RUF1Sk5kZjlDZVRrVHcydVBJNnlTVld2LTM3c3UwUnR1Mi1fdjJDS2o5SUVLZGRmemxzSXpHTnN6WnNNckN6aVV3Qi1kOQ?oc=5).
 
 ## Requirements
 - Python 3.8
