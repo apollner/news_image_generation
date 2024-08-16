@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Kamala Harris’ polling lead last? Our polling expert explains.**
+**Dramatic new discovery on Mars shatters Elon Musk's plans for red planet: 'Dangerous illusion'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWR0dW9JV1MwWThSZ1k4aXExWWszaDdNNHUtS2M2bWU0cTF4cGVTWUczMWt6dHY4TW9YNlozbEpNczdCczlpVDRHVjlmeGY4OGIwQmw5aXdxY1JCNlRubm1qTGdSempHMDhTX0N1anJZdXBvc21IcTAwV0FYUVJOWFNjb2xYT2t6VWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXNJNDYxQ0U0T1g1NW1ZdlVVT194Q29nUE1wUlVPbUZrYkFjYmlDUlpVajh1c0tja1NGdDZTRHhIUVZrVnlSczdDN2pmbzViWXJwUGtmc2pVdWlDREtYaUN1UmJ5N3ROY2kxRFNaYmRod0lRV3ZaNmVGTV95YnFwTm5QOTZIckFNbkVNTTRBZE0zQVBkVWVvMm1pYTE0YWtGZm9MWUF1MEpQYkdkT0lfTlhiSnQ0R1ZDckZWV2JJR3VqOUdIRG1ReG9tVQ?oc=5).
 
 ## Requirements
 - Python 3.8
