@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 charged in drug investigation into Matthew Perry's ketamine death: DOJ**
+**Russia sentences American woman to 12 years for donation aiding Ukraine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQdIBlAFBVV95cUxNMEZJWVFkVVVvbUt6cE56TFBNM2o2MWt1ZTA3U25jUDJXam9TS2tyX0JQb19FRzZPVWxkdktjN3ZoNUdOaFRpU3Y5cm92WmlLMWVseS0wTk5hMmlhOVR4ZGw5Z3RDZ0Rua0VTcnhPeDZVaUtUX3l2dExHY2lJNFIyNGRMXzNyMUxyQURqZVY3bElNNWxF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeU9tdGk0aDg1dFY0OEM1QnV2Q3ZodXNTaWN6TmZRaW9IakdMN1lkV0NsU2RKQ0dfY2Fheldfa2RrRW9ERGh4RzJ2X3ZWWEstZVpXMnJXTWpSTk1FVTBQTzNLbmZhTjBXcDFIa3ROOThSN0RaWlFzTjg3UWt3NlY5WDRPX2dkVDNvN3hoaUZSWHFNRXkyaE93cw?oc=5).
 
 ## Requirements
 - Python 3.8
