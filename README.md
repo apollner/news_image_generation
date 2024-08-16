@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings rookie J.J. McCarthy out for season after successful meniscus surgery on right knee**
+**Jim Harbaugh’s interest in Colin Kaepenick as member of coaching staff implies plenty**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGUyWE5SZUxZT2wtZ3BrLWRjYllrdDRvY1ZORGhkMEI1WjVRUnhpYjIyRmk1T245dzBrMEctRm9aS1p6VjJBYjVyaWdsSDQyNDd5dnhyUXgwY0NIVTlsUWt1M09uS2hRYWxBTEczZ0cycGUzVXJvMW94bFZJcEhBSFN1N2drM1pRazhEOHBCNWpFLS01NWlqa2tLWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlY4Zk5SOS13alNaSEtpV0JELTkxT1NVcFFwb1gxUEE0UEtTZ29mS0w1OVpkN0I0ZGJZcjlwWUV5UTZDM2ZTVk1jRi04NnR0a29ZVkVRQzlaeHBjeUFyaVRsUXFJNU5oVnpBX0wtVURhTENlb08yTE9UVG9JLUQ3a2JVWGdzczJraHA1a1NCelVqR01ZOXdicUUwNGtqMW9lSzJLUlVQbEhDUXBnSHNHZEhsVE5IZ2wycFFFbG5nZVpTVDl2U1pGM2dZOVoxdDVwcUkyZlJ1a0pjbElfbUR3?oc=5).
 
 ## Requirements
 - Python 3.8
