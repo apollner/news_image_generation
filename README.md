@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine gambled on an incursion deep into Russian territory. The bold move changed the battlefield**
+**Matthew Judon trade winners, losers and grades: How did Patriots, Falcons fare in deal?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPUzJBUHBiblVjSmsyR3RuaTMyTllIZTdFamNNbXhSNWowZzBqWVlRcjRKUmg0V09CNEpBd1dXaHQ1ZExTd1Q3b0tsaTRVUVF6YXo4M3ZyUDJldjdQNEdYTkdjMjg0NnM0Q1J6NXNUUElfcXgwTFJianNwcnhCYjVnVjZFa3F3emUydFdJUVg5dEFNaGx6c0FOVTFtUFh1Q1JrS0JUQS1YdnVIdkExb1lJYy1Kbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXZ0TVUyQjJIMGFjeG9iOGtNRW5Zbm9TUFpzQks1dlhubFNXZ09OQTBmZGNsYjRpSlJJTkFYLWo5RUJZRVdIVllDamg0WFdaeHhKSWc5VDFtZEJyWXJqWEk4NmxJOVB6c3RPQzR4UmpUb0I2YU9GaDc0TV83Z0RDc1F5ejRyTDFleUFabm5MeVZpMjE0LTQ0ZVFIQWFBU2RTYUh4QXlHenNYZGFYRWlXcnhKSnE1d3daOFRBZmk5SzdEaFE3eklqVg?oc=5).
 
 ## Requirements
 - Python 3.8
