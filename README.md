@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Jersey governor to name former aide the caretaker for Bob Menendez’s Senate seat**
+**Disney argues wrongful death suit should be tossed because plaintiff signed up for a Disney+ trial**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxORVNiUFlCcTRENDdSMGlkbnVwb2h6RFRCWW95c3pULVUxamRTejNWaHVpR0tMcDNNSjVqYS1GMDBpa2RPMUR3RHFrWDJDcHk4RFJ4R193cTNxaUw3NFh3Z0E2N2pEZlFxbnFacFlIUWptZFVPdEhHVE82X2Z2MmhNMWhMNUdvOFZia1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTk1Oa1FsRFR2RV8tdkVRVklCMy1obXpqLVU2MzR6NjlHejNWcXZuc0RaajI5WGl5NVlaZHl2dEZkSVZyeUlxakJlR0VsSElHRlZxcDdZX2FPT0d2OWlMSF84NUtiTFpSdlZFUVBXelhud3VwaHlyT1pZSGlaNEFRb2NMSW5QajNJNTB1VmdMOHlIN0hsbXR1WVBjYmItWm12VXdxemExTnozeTA?oc=5).
 
 ## Requirements
 - Python 3.8
