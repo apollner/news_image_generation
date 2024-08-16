@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quantifying The AVX-512 Performance Impact With AMD Zen 5 - Ryzen 9 9950X Benchmarks Review**
+**'I see a lot of denial': C-suite advisor says business bosses still expect a Trump win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90cTBvLVlNQ1h1V2pWR1JVMURDcVY0YmkyNDVYOExQb0ZLQ2hFaTc3cU1sc2ZNOXdQR2gtbTdUUmhnQUdsRV94TlBjZXpSRGxpSFFwVTNhM0lNcE50LTBQS2E2eWk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWVIzX25GamkzdXp5YzhBT014UW90bFY4enpxcXMzRFhXdHVEbG8tTUxUY0p2Tm92YUYtOEJ4QXd6TFFIUkd3SVAtbk1CVlpkcnp5QjUwbG5veTJnUFA1Ukd1T3U4UUhjRFhPTmVtTS1YUVBqR0NvSFlmMHFzWDZWdGlXSWduWVpFRU1aUS1nY2l0NnRpS1RKYzh3LXZhdUnSAaQBQVVfeXFMTUxZVjNPNE44aFQybGo3eUZfY3hRX0VFVUY5QnNnYWlSWWJsNFJTSEFsNFRBT2hqSzVrcG1RTndlLXhpMW1MMFcwNTZodlhManBXMkh1aEo4SGZLcDNBZVdmNk9mdHVBYkV5UkMzZmxPcG45VVJMU2hkc1RpVmhmTF9pMURGU3Q5TUJtczFqdHVOTkpSdXJHVGU4cXVUTS03MkF1S0I?oc=5).
 
 ## Requirements
 - Python 3.8
