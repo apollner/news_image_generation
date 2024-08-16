@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Judon trade winners, losers and grades: How did Patriots, Falcons fare in deal?**
+**Austin Dillon’s NASCAR playoff berth revoked after wrecks ‘crossed a line’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXZ0TVUyQjJIMGFjeG9iOGtNRW5Zbm9TUFpzQks1dlhubFNXZ09OQTBmZGNsYjRpSlJJTkFYLWo5RUJZRVdIVllDamg0WFdaeHhKSWc5VDFtZEJyWXJqWEk4NmxJOVB6c3RPQzR4UmpUb0I2YU9GaDc0TV83Z0RDc1F5ejRyTDFleUFabm5MeVZpMjE0LTQ0ZVFIQWFBU2RTYUh4QXlHenNYZGFYRWlXcnhKSnE1d3daOFRBZmk5SzdEaFE3eklqVg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNrTlFqMmZXU1JTT1U4YnhELV96ZDVvMzNYeWxjeGtpU1NFODZrd0VvcnAwREo2VXB3a29Wc2t4eWxCWmxpM1RlclAwY3BEcVhmdDdMZFlkTVJFZG1saDRXcF9GdDJLZlRuSkVnT2RXY0Z2WHIwUHRrU1BUUlZ4NkVBVzFWRWNUNVl2a0t5b3NydVA0U1lYd29n?oc=5).
 
 ## Requirements
 - Python 3.8
