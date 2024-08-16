@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Argues Wrongful Death Suit Should Be Tossed Because Plaintiff Signed Up For A Disney+ Trial**
+**Wally Amos, 88, of cookie fame, died at home in Hawaii. He lost Famous Amos but found other success**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHY5ZWljcnhqOS1lSUxoTDdsWG5TeUJrU3NOUF9mR0JDWE80dTBSSXdLTmFzNHhWc3pSN050WFJvZUFDeDVjWVV4eDZEcnZYNGdLRlRvZVFob1Uwc0RFNEJva3ZzdHNkdFc4NlpLYTVYZzdnXzNIUXY4UmF1bnNpTVhycFBVNTg1QVFVRkg0eGZnUHB2T2pyM011bm9lWEt3WlhvZnRQZmpSWjTSAbABQVVfeXFMTlJZSnRkbnluX2hGdTc1VTRRaFIxVEpGZEVSM3hMbE1Fc0ZiSHpFYlMtOEN4VHhKMEl4OHpJYVk2aEVRa3lqaGR2TG5LdTRISEE1NTZHYnVwRFIwRVd3MENfRFBkRnJMcTJHcHM4UU5BS3VJalh2S2FERjNBcE94dzdJOTVqZXlqVzVHMTBSNTZwVi1WS3Vyc2cyTzhJbml6ZzFkM0w5YXp2eVUxYWtfUXI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSEZmMXJPOVJGWWR4YVE2ZHBjNHhMckVFUVpmcGNpSnlaOGlsNzliVnZ0dks3MFhDcTJyXzdPNTdnLUxRQV92aWI1bXBwNkhUdFFFZklWRGpZSzljVnJvQURtWXhoVlNueS1sSHZUSXNTWHVQN00wMVJITE5FMzl0cVRyX3ZGRi1SSXlPLUUwdVljRGtlQUZBcjRqcDQ4SDgyR2p4R0lFaE1LMW11b2tmTTJMUkhnY0t1T3BVcmJnTmJqN3lmT0wtdEN3RzdFTEFHZl9TRXZSb0NIcVVLbTEyNQ?oc=5).
 
 ## Requirements
 - Python 3.8
