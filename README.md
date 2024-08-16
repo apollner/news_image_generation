@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas ceasefire talks: A timeline of obstruction**
+**Jordan Chiles says ‘unjust’ stripping of Olympic bronze has led to racist abuse**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHZpMGFxNk5UWFU3bGdpb2tvLWlIRm5JVjlJdjYxeVZ6U1p2XzV1bG9wWk1tOTV3WEF6TGc0NUZKRU5nUEZtcklNeEpqdjhsRFdFaWo4SHlYbjJOeVU5R1E5TE5kV1E2RHluV2pKUzJyM1luMG9XNUxnUTdXVEliNFhVTlNmMHRvUXdyaDdNNnhnYnlWUG1PWi1iMNIBoAFBVV95cUxOUHh2OUlnZ2pXS3I5al9MWXN3ZVpwNVdTNEUzWmp0RVlZTjZnUElUWS1VOUtBWkpOVFlubFFYQjdCa3Z2eVVmTFJTMjRCanYtNmNuUHJuRGRWbHQ2bGllNHFTOGlVeTd2TDkyalczV0JGTDU4a3NNclgyQnFTZ1hqTHpqLU43bmJYUGNwMjFaMXlLWkF1WTRpMmlKZVZDZ0NN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHpRWVdRWl9iTjBlcXZaY0VMcFhDRFdLQnRDY0ZPYTl3eEdydUJtVWR1U1NuS1VqOE1oS1VrRDZOcVZPOEFEdjhBeTZJcDVSTUstUkxxLWZZOTBnVk1VaXZ6dl9SZU9LQVZWcTVlRmFWRjQ2UC1NNjJKM0xYdUl4dGNnUFVMc0FLVmJwSF9ubG5abE9FMGI2SXI3dF9Jc04tMzlHZVFtekY0Zw?oc=5).
 
 ## Requirements
 - Python 3.8
