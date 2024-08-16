@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UCLA can’t let protests block Jewish students from campus, judge rules**
+**Report: Apple Developing Robotics-Supported Display for Videoconferencing, Home Security**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWdRaGF4MmFPVllqbkExRXIxVUJyckVzeWdJMmhhSHJXZGRxc09lbnliZ3RJSGhjaVhUTE9uWjhzTjk5LVRvMjZrdWVXcHlFY2JRWWdyYkM0MzBEczdRVjdqUW1vNHpGWkN4cjhOd29vbVR3dFVvMWc5WHFDR05tYlBOWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxQVnhnU215RkV5bjJLMDhBWTBuY0lkNTJrc1FxbWpTNko5eDRaSldxNU5YckpJWk5ENEJBV0ZRUmdzT0JGV0p3ZHpGMkYyWE15V0hibU5qOUc4SS1CRGJua1FXWVZ6WGtSZHlJU21veng3dlphLTMwTlY4cU9JSURUY3pPWC1VM0wzXzBqYW5iSGcwdi0tOEVBRldUS053TF9QenV0ODFmZU5oNVl6V21tRThBVW9NeWRXQ1ZuMjdR?oc=5).
 
 ## Requirements
 - Python 3.8
