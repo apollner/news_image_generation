@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Nasdaq, S&P 500 lead market rally after retail sales, jobs data**
+**5 charged in drug investigation into Matthew Perry's ketamine death: DOJ**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNTNfVHlmWm01SGlpUUVlVmVhVk13LTdHaTY2dXhiem9qYXVEeGVoam14X3h5SkpIdTRTeDhHcmN5b3dQbFRscmZxUlE3UUVKWEFjZ1JuYkQtSjR5TjY2aUpOdlZXVl9JQzBvZlVJYUF4RW9HRndvVHVNcnJNaXdfUEZwd21TOXFwa1VZaGhtZkVZQ0J3RTlUS3gyZnk4U2pmUDJ0dnpESHl0T1hxMW9vRVpZSk9FZHU4MWlQVGt6RHA2OUk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQdIBlAFBVV95cUxNMEZJWVFkVVVvbUt6cE56TFBNM2o2MWt1ZTA3U25jUDJXam9TS2tyX0JQb19FRzZPVWxkdktjN3ZoNUdOaFRpU3Y5cm92WmlLMWVseS0wTk5hMmlhOVR4ZGw5Z3RDZ0Rua0VTcnhPeDZVaUtUX3l2dExHY2lJNFIyNGRMXzNyMUxyQURqZVY3bElNNWxF?oc=5).
 
 ## Requirements
 - Python 3.8
