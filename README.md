@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: More than 40,000 killed in Gaza, Hamas-run health ministry says**
+**Biden administration releases prices of 10 drugs in Medicare negotiations, says U.S. will save $6 billion in first year**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMDUyc2RFNGNHcng0VzBrSTRyNG5ZVVVrcjlNNjJLU1pSZkNwSkhDQW5YU1A0LXg5TGpRNE9Wb2xCbC1xaTVWOUVQLW5CUG5EODJNS29UcEZXZ9IBX0FVX3lxTFBmOE9ITFZGdUNGU24wUkJNNDNEVThSMHZEQ0cxQzA5Nnp2SnhOU2R5dF9XNXpqRzBUdFdYdkFCZ2Fxai1xaF9hbTBXYVpLUTQ1RXduZnBvcHRyRlJKTlNr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPRXhfb0NXZGJlVEFKbndJZmhtQnQ1X2xZY05nLVQxeTZyTXZVby1mWlR6ME1GVW1rQ0hTT0o3dFhPZjlBYVBjaW9zOEFxdFhTU1hPRUJuNXRPenhXd3RBdmJ2SlA3VUVlem9mMHA1eG1YTlY5QUFxUDRqQkpxOFdzWFRaWlR4Qy0taEJXOE1MLXJsZkt6S3VwVDd5YnFOclZmeTB6bU9tb9IBrAFBVV95cUxOdFlaTkUzWnE0Y2tpTzJHT1ZiZUJSVWE1M05oVEYzOWxGX3R6ckI0Z0JCVGM5TUxhZzJoMUdMcVdwbW5aeDAxVTFLZU91X1JQTF9wU1FpYWFvNVpJbC1lWV91WFZ0VnNFRDI2Zm9PMWJ5d3EtMGNaTGk5M09GWkhjRzNMcDFGNFhhZGU0WUVaU2FITkNxTlZMYVFWOEI2RW9HMFM0OXRTamszTG5f?oc=5).
 
 ## Requirements
 - Python 3.8
