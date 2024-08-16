@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Columbia University president resigns after Gaza protests turmoil**
+**5 charged in drug investigation into Matthew Perry's ketamine death: Source**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jUGdzTTRWQ0UyQ2ljSUJuTHE4MXB5VlZycnlleUY4TzhCNmQ0UGhSQ0VyRHpZcTB1RnpYNTAzbmlKVjkzQkh5MEVfd3RVbEtsd2pOYmFwbU1kQdIBX0FVX3lxTE4yTl9ZSkQ2Y3YwV1VOSzR3Zl93YlMtbWVoOFpZODlYd0hVUDRkcEJJWXh5anEzRlI1QVNteDNuUUhsRXhaZzlwU2ZzTy1aUEJQSjR4eFExdDBkNWRmRTdZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQQ?oc=5).
 
 ## Requirements
 - Python 3.8
