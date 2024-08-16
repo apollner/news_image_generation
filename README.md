@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Judon trade winners, losers and grades: How did Patriots, Falcons fare in deal?**
+**Israel-Gaza war: More than 40,000 killed in Gaza, Hamas-run health ministry says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcXZ0TVUyQjJIMGFjeG9iOGtNRW5Zbm9TUFpzQks1dlhubFNXZ09OQTBmZGNsYjRpSlJJTkFYLWo5RUJZRVdIVllDamg0WFdaeHhKSWc5VDFtZEJyWXJqWEk4NmxJOVB6c3RPQzR4UmpUb0I2YU9GaDc0TV83Z0RDc1F5ejRyTDFleUFabm5MeVZpMjE0LTQ0ZVFIQWFBU2RTYUh4QXlHenNYZGFYRWlXcnhKSnE1d3daOFRBZmk5SzdEaFE3eklqVg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxMDUyc2RFNGNHcng0VzBrSTRyNG5ZVVVrcjlNNjJLU1pSZkNwSkhDQW5YU1A0LXg5TGpRNE9Wb2xCbC1xaTVWOUVQLW5CUG5EODJNS29UcEZXZ9IBX0FVX3lxTFBmOE9ITFZGdUNGU24wUkJNNDNEVThSMHZEQ0cxQzA5Nnp2SnhOU2R5dF9XNXpqRzBUdFdYdkFCZ2Fxai1xaF9hbTBXYVpLUTQ1RXduZnBvcHRyRlJKTlNr?oc=5).
 
 ## Requirements
 - Python 3.8
