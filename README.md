@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austin Dillon’s NASCAR playoff berth revoked after wrecks ‘crossed a line’**
+**Disney Argues Wrongful Death Suit Should Be Tossed Because Plaintiff Signed Up For A Disney+ Trial**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNrTlFqMmZXU1JTT1U4YnhELV96ZDVvMzNYeWxjeGtpU1NFODZrd0VvcnAwREo2VXB3a29Wc2t4eWxCWmxpM1RlclAwY3BEcVhmdDdMZFlkTVJFZG1saDRXcF9GdDJLZlRuSkVnT2RXY0Z2WHIwUHRrU1BUUlZ4NkVBVzFWRWNUNVl2a0t5b3NydVA0U1lYd29n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHY5ZWljcnhqOS1lSUxoTDdsWG5TeUJrU3NOUF9mR0JDWE80dTBSSXdLTmFzNHhWc3pSN050WFJvZUFDeDVjWVV4eDZEcnZYNGdLRlRvZVFob1Uwc0RFNEJva3ZzdHNkdFc4NlpLYTVYZzdnXzNIUXY4UmF1bnNpTVhycFBVNTg1QVFVRkg0eGZnUHB2T2pyM011bm9lWEt3WlhvZnRQZmpSWjTSAbABQVVfeXFMTlJZSnRkbnluX2hGdTc1VTRRaFIxVEpGZEVSM3hMbE1Fc0ZiSHpFYlMtOEN4VHhKMEl4OHpJYVk2aEVRa3lqaGR2TG5LdTRISEE1NTZHYnVwRFIwRVd3MENfRFBkRnJMcTJHcHM4UU5BS3VJalh2S2FERjNBcE94dzdJOTVqZXlqVzVHMTBSNTZwVi1WS3Vyc2cyTzhJbml6ZzFkM0w5YXp2eVUxYWtfUXI?oc=5).
 
 ## Requirements
 - Python 3.8
