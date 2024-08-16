@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Harbaugh’s interest in Colin Kaepenick as member of coaching staff implies plenty**
+**Will Kamala Harris’ polling lead last? Our polling expert explains.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMlY4Zk5SOS13alNaSEtpV0JELTkxT1NVcFFwb1gxUEE0UEtTZ29mS0w1OVpkN0I0ZGJZcjlwWUV5UTZDM2ZTVk1jRi04NnR0a29ZVkVRQzlaeHBjeUFyaVRsUXFJNU5oVnpBX0wtVURhTENlb08yTE9UVG9JLUQ3a2JVWGdzczJraHA1a1NCelVqR01ZOXdicUUwNGtqMW9lSzJLUlVQbEhDUXBnSHNHZEhsVE5IZ2wycFFFbG5nZVpTVDl2U1pGM2dZOVoxdDVwcUkyZlJ1a0pjbElfbUR3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxOOWR0dW9JV1MwWThSZ1k4aXExWWszaDdNNHUtS2M2bWU0cTF4cGVTWUczMWt6dHY4TW9YNlozbEpNczdCczlpVDRHVjlmeGY4OGIwQmw5aXdxY1JCNlRubm1qTGdSempHMDhTX0N1anJZdXBvc21IcTAwV0FYUVJOWFNjb2xYT2t6VWc?oc=5).
 
 ## Requirements
 - Python 3.8
