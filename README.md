@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dramatic new discovery on Mars shatters Elon Musk's plans for red planet: 'Dangerous illusion'**
+**Wally Amos, Creator of Famous Amos Cookies, Dies at 88**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOdXNJNDYxQ0U0T1g1NW1ZdlVVT194Q29nUE1wUlVPbUZrYkFjYmlDUlpVajh1c0tja1NGdDZTRHhIUVZrVnlSczdDN2pmbzViWXJwUGtmc2pVdWlDREtYaUN1UmJ5N3ROY2kxRFNaYmRod0lRV3ZaNmVGTV95YnFwTm5QOTZIckFNbkVNTTRBZE0zQVBkVWVvMm1pYTE0YWtGZm9MWUF1MEpQYkdkT0lfTlhiSnQ0R1ZDckZWV2JJR3VqOUdIRG1ReG9tVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMickFVX3lxTFBWbWstS2ZmbnBIS09Ea3BwSHdXZEpwdDg5TWxvNnM4Wk1lTlFRcFlQbjIwdmNPYWZMd01aZldRdUJoRDREZkZGS281LXMtN21yQW1WZ2dGdVJaSW1uenhWUnBvTGxqaTQzUFRhYUJEUW5Fdw?oc=5).
 
 ## Requirements
 - Python 3.8
