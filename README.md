@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump attacks Harris policies - and persona - as allies push for messaging shift**
+**Harris to focus on grocery costs, child tax credit in economic agenda, advisers say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSUI3bzhrZEVlZkh0cE9XTUJmNWVoVEdvODdUbnNBX05VSXFHMVhNTlVfNEgwX1VFSkpYQjlzeWx4YVA4d1ZpVkVhSmR6T3F3UmZxd2RjZnpIWURreTlHSllxZzhZMGNvUDA4TFlabDB3Q0hCSTNKRFFBMmQ2ZXphSW5jbnpqQnZQWGcycXdjc2hnanRKMHR1cmp2dHpNSDdr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3Q5SWhBLUhhMWpScU5ySHlYQ2l0U0NUY1dFWXNPUXNwcFVvUXo1eVJORWlLQjRxWVhaTGZESDdKUjh0OUdQLUNRbThGcWgyYml5Z2xiRmNZcy03eTdtSVhOTllQcnBhR2licG53RlNUaldWNGlzTU80dUF0aWJWczhGbXJzdzZpUUZLTGJhYnZEbUEzMk9uVFA4U0kzb2VmLVl6SkR5ZFFyUlVGOXBUN2dJMEh5QTlVc1U0?oc=5).
 
 ## Requirements
 - Python 3.8
