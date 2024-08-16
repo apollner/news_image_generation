@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hidden-camera video captures Project 2025 co-author talking about plans for second Trump term**
+**5 charged in drug investigation into Matthew Perry's ketamine death: Source**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxNenJqVlJZenpTLTB1emlKOEFSYjRTRkhqLWt2UHo4YlVmVjRfZl9wSE5IWGx6WVNSVWZLN3ptREU3MVpsRk02RUF1Sk5kZjlDZVRrVHcydVBJNnlTVld2LTM3c3UwUnR1Mi1fdjJDS2o5SUVLZGRmemxzSXpHTnN6WnNNckN6aVV3Qi1kOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQQ?oc=5).
 
 ## Requirements
 - Python 3.8
