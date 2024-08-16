@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austin Dillon’s NASCAR playoff berth revoked after wrecks ‘crossed a line’**
+**UCLA can’t let protests block Jewish students from campus, judge rules**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdnNrTlFqMmZXU1JTT1U4YnhELV96ZDVvMzNYeWxjeGtpU1NFODZrd0VvcnAwREo2VXB3a29Wc2t4eWxCWmxpM1RlclAwY3BEcVhmdDdMZFlkTVJFZG1saDRXcF9GdDJLZlRuSkVnT2RXY0Z2WHIwUHRrU1BUUlZ4NkVBVzFWRWNUNVl2a0t5b3NydVA0U1lYd29n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPQWdRaGF4MmFPVllqbkExRXIxVUJyckVzeWdJMmhhSHJXZGRxc09lbnliZ3RJSGhjaVhUTE9uWjhzTjk5LVRvMjZrdWVXcHlFY2JRWWdyYkM0MzBEczdRVjdqUW1vNHpGWkN4cjhOd29vbVR3dFVvMWc5WHFDR05tYlBOWQ?oc=5).
 
 ## Requirements
 - Python 3.8
