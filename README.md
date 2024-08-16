@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris to focus on grocery costs, child tax credit in economic agenda, advisers say**
+**Hurricane Ernesto knocked out power to half of Puerto Rico and is strengthening as it heads toward Bermuda**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3Q5SWhBLUhhMWpScU5ySHlYQ2l0U0NUY1dFWXNPUXNwcFVvUXo1eVJORWlLQjRxWVhaTGZESDdKUjh0OUdQLUNRbThGcWgyYml5Z2xiRmNZcy03eTdtSVhOTllQcnBhR2licG53RlNUaldWNGlzTU80dUF0aWJWczhGbXJzdzZpUUZLTGJhYnZEbUEzMk9uVFA4U0kzb2VmLVl6SkR5ZFFyUlVGOXBUN2dJMEh5QTlVc1U0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRXg3RFUyQ21URmZsY01JRF9iYXdvb1JRWDBWZ3hpMUhvYm9XM2FGUHdIb081TFNFT29nazZtMmxUZlRacHMwTlRzTHJtMmRGcVpJQzhLTUlkamY5bllvUGx6cEhvRzlpQTl5TFJ1Q25IZkVRZTVsR1NNUUp0aC1JTGd0NUZKNGlyVEhNYUVUQjZUd9IBiAFBVV95cUxQd21leFhWdjZBWlpEMFM5YlpYcXZCZDBSOHFiSVpSSXpFdmN0Z0g2bGk0VWxhSGlfM2hiS19HZ1E4VkQ3aHA2NTd6amswY1VJRFJNYmEtMXR2NUlrV2ZvY3pmNlRpZ1VGT19VUjdRNk14MjZpdDdnWktyWEpJc2VsMFlMV1VVMzlf?oc=5).
 
 ## Requirements
 - Python 3.8
