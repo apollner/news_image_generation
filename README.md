@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry’s Assistant and Doctors Charged With Getting Him Ketamine**
+**Israel-Hamas ceasefire talks: A timeline of obstruction**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFkxeEl5eFJLdHJnQlh0bTVtVldBTmlYNWJLYlc5MFQxLVYtMTM2cjg4VUFwbzlUX1c2SUJ0N25rRmNKTjhoSGZYX3NVUklOWjBDdzhiYV81Rl92WkVuZW43bmNpeERWSXZOWk8wZDV6ZjZkRWtPREozcGxNRFBCOXU4MGg2TDNVNlhIY0phUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHZpMGFxNk5UWFU3bGdpb2tvLWlIRm5JVjlJdjYxeVZ6U1p2XzV1bG9wWk1tOTV3WEF6TGc0NUZKRU5nUEZtcklNeEpqdjhsRFdFaWo4SHlYbjJOeVU5R1E5TE5kV1E2RHluV2pKUzJyM1luMG9XNUxnUTdXVEliNFhVTlNmMHRvUXdyaDdNNnhnYnlWUG1PWi1iMNIBoAFBVV95cUxOUHh2OUlnZ2pXS3I5al9MWXN3ZVpwNVdTNEUzWmp0RVlZTjZnUElUWS1VOUtBWkpOVFlubFFYQjdCa3Z2eVVmTFJTMjRCanYtNmNuUHJuRGRWbHQ2bGllNHFTOGlVeTd2TDkyalczV0JGTDU4a3NNclgyQnFTZ1hqTHpqLU43bmJYUGNwMjFaMXlLWkF1WTRpMmlKZVZDZ0NN?oc=5).
 
 ## Requirements
 - Python 3.8
