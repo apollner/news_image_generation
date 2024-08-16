@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wally Amos, Creator of Famous Amos Cookies, Dies at 88**
+**Gena Rowlands, veteran actor who brought husband John Cassavetes' films to life, dies at 94**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMickFVX3lxTFBWbWstS2ZmbnBIS09Ea3BwSHdXZEpwdDg5TWxvNnM4Wk1lTlFRcFlQbjIwdmNPYWZMd01aZldRdUJoRDREZkZGS281LXMtN21yQW1WZ2dGdVJaSW1uenhWUnBvTGxqaTQzUFRhYUJEUW5Fdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNRm1BU0dxWjZCUkYtb3p3bDk1NkRBMk9RSmpPenN4eDFNYnlfSHNPMDE2aHlQREZtZFNvUkhSekxWMWlKMC1NazFmUDVrUFZJMTJnN3A5Z2xmMVF1bWdvT0c1ODM0TzlPTlBreVB0c2Y3Z2w2aDEtRVllYVloN2RqZnRNUjlpbFVIUlhCV0xRcw?oc=5).
 
 ## Requirements
 - Python 3.8
