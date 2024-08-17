@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The US is experiencing its largest summer Covid wave in at least two years**
+**Woman charged in alleged scheme to steal Graceland, extort Elvis Presley family**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE10d1J1bFA4WUx6a3JaQjhWZHZlaVlhaXBlZWJaUUlaVkpwcERxOUdCQV9aYW5Ib3M1OTd4c3M3ZWFDYzhnUnJBWHJJbGlYNnlGQ2FlU2hHLVBmV2wweTBuc0NITlB3eGFsOW9EZjAwS2w4VjRrYi1IbFNFai1kajDSAXZBVV95cUxQdGNNTUplWWdSV2NBTjFZd0tsaE9QaEI1OFBlMXJXTW9VaW1PQUVyV3lBd1NrclE5R2kyTUhDMWxMVF9rX2FGZlk4TzRVRkt0NWZWN1ZhZVZIbDdUY2kxR0kzdFJaWDd1aGZSTDNpNkdqWXVnczJ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxNei00TFl2Ml81VE1HUk5CU211M3dkOXJMbkhqd1FjLUh6ZnlPQ1JBdldqNVJ5YWlHSHJ0OThwYV9pRHA2RHkyRVhuelF4TUFja0JlRWsxV0hBS2k0UkJoaEJ5c1l5WVJ0dzl0aXQ0OTVuQ1dmT1NmRmg1WmhtODdkZXhPMVBjak1UQ3FjRzZPbWhsemd3ZzFuTGhLWmJpNXJfN1lGT0laTFdmdjEwS1FqVVl2RFpQRGlRa0HSAVZBVV95cUxQOGkwUUhGUkxDdVl4S0RZRy12WHo4WktPT2JJMGxrRDYxOVpObkgzX2RGRjY1LUJMWDF2bFlDa0syelVqTkktYVhURlJlaDdqRzhkX2x1QQ?oc=5).
 
 ## Requirements
 - Python 3.8
