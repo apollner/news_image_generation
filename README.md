@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024-25 NBA schedule release: Knicks-Celtics on opening night, Lakers-Warriors highlight of Christmas slate**
+**As Harris and Biden Take a Victory Lap on Drug Costs, She Sets the Pace**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNk5SSTEwbncyYWJOdXhWMTVCel9idUg4WlFFaEpFd05pbU9KNm50cldCUGppdTF1WENsZHBETzlieEtiTzZtNjdGRi1ySTd0MXBCdHR4S3hGMG5TeHNiUWxIME1WNnJ4Mm9McnowLWNtZ3NpYmxnYTRLZjFzUFpKU3NtSkF4YUpSc2dwM2cwcDdKMERENDc1eVgtNUpBZE8wNjNHUVlJRUdQeG1JNjByQTB1dTdzam5HQm1ONGdkR0FzaFlZRlpXbWNZdjBjMG9DQV9NODhwRTTSAd4BQVVfeXFMT1djVkY4SjIxVU1ZemYwSHBpWlJBYnRoUXlZZXh5enhqZlV2N09SSndGM09kS2lPd1lQQnM5TmU2bTBYUG1pUzhPamJqRkpNREhSTnpuZmJTY2t5THpZczVaV1ZvT0NOWFltMERKVDZfbFVfMFBVcUk4anR1dWRZQmtuWVAtY21kUzhIdnpyajlqd0MyeExmZGxMVDh1R2lEYUVyeUY0STdyaU1NdXFzREJrdmliV3AyNUV5bVA1ZlpNX2gwVjk5Qk5SdFVuUjhVRC0taDJVYU1PWjlDVTB3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEM5SE9JeXNZZVZBM3lHdUJneS1XZXlzeFliM0R0Q1RBdUFjZTJWcUdVZzQ2cFVvLVpJMmZoNVNiTVVaaFMwR2RPOVlXeVRYNXdmZ0pXb0I3UFBKeHdqclU4TmFTYjNMeXUyYjZjZmk2OGpmejE3Qy15dkMxVzFpWGVSal9sWTNRU0tiNk9B?oc=5).
 
 ## Requirements
 - Python 3.8
