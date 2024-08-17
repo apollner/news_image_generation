@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behold, Diablo is fully playable in your browser**
+**Lincoln’s massive digital dash fits right into the new Navigator**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnExbXNpM2gybFozbGVuZS1JQUZXeVVNelJ5QWNfT3IwSUg4VFZHRV9TVzROOHJKeGd3TnBSeUMtTHBIbHJrc0ZsdlNrbFJ0ZnpucXZNb00tcHZlX2ZTSmY2bGxzUmpNQXNocXZfS3RWUm5aWUlOODRVTXRaUl9Lbk84ZENiMVA0OWVmcTNhYWs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUjJ4XzA4TE9jQW92dzFPZW8yY3NBR3NEcDZYNkVIR1Jha1p4ZEtYQWFJcXlDbGhuREVnMzZKNkNyUlRsV0FqNWw4M2w1OHRjSXI3dzc1bVRMREtZNjc5cW9GZkhTbkoxYTRQVEVnZV9ITjVaZWJIaDUzQ0pjQklHOHhRR1lxRnhrVlJrSXF5Y3pfeW5KcFViOUZJYmRMMjJxYUlJMQ?oc=5).
 
 ## Requirements
 - Python 3.8
