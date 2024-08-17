@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots' Jerod Mayo: Drake Maye showed 'great composure' in preseason outing vs. Eagles**
+**Hurricane Ernesto ramps up to Category 2 as it churns towards Bermuda, poses dangers for coastal US**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmZfZHNPZ1lDMEhhTV9EdUNEY0Rqem5fS3IwVWNmaVRfaDE4MndNY1dZNWhoa08zMTRtSV9wNy1OdWJPTms3M3p2LUk5Ym10ODU4R1pSVjVoNWVfZ1ZnaXViTFoxdlVmNUhobXlWeVJBZWwtZTU0cndkOEhhRVlMZjZRdTNqS1RsclpBRGllUVFvdHA0bFNTbF9PSjRXRjBYWUwwVnVKQmRPUkNv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3hSZjktbGJCY2x0bV93Ty10bXlYdWJXU3pkVGNjVmU3U1JQdmlSUFQyUmtxLXpuN2R0N1dzUDZBMFota255X290QVZQUjZqYmc1WWFraVc3My1KWWFtLWpiM1ptVjhyZmRaRURZb1ZTYnFkSU5iM3ZkWmFFOXBsYUJJd0ZlX2p2aXkyVk5ram9wWElTR05WUVNqTGFPMWxlWVHSAZgBQVVfeXFMT3BuQkhUMW1nczVtOVhsdnBheFVodGM1a2hoNVBKbEZxZHc5cnY1akVuemtzOFhKVGZqbmszbEpYeVYwby1fT2p2WUphZ0s2T0dMc2VkdlhVMENOQ1VJUHRwTE0zblNnTW54bzNWSUF3azc0TUJJNGFWS25sUVJsOVhITTF6ejlyY2xUZmJ0eUZMOERhNVo2VUs?oc=5).
 
 ## Requirements
 - Python 3.8
