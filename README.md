@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High-stakes Gaza ceasefire talks have ended. Here’s what to know**
+**The US is experiencing its largest summer Covid wave in at least two years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGZvUWtRRVJwemx2alFqM1dUQ1dUTmxvYTJ5WExpb2pIRE04aWlKdk9pTzFuUmRuVVFuUE5oMDdmM2dvbnE4MGVIRmZZN3RTQnlKTXhnMkxoWmg1MnBGQzQ3WUdMNkRyOHdGTEliQXUxVzhJUUlHOFRRbllUdWh6OUVocTVpYkZDcEFCRFJidDhTNGlhSnA5N1NCT09XVHRXWVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE10d1J1bFA4WUx6a3JaQjhWZHZlaVlhaXBlZWJaUUlaVkpwcERxOUdCQV9aYW5Ib3M1OTd4c3M3ZWFDYzhnUnJBWHJJbGlYNnlGQ2FlU2hHLVBmV2wweTBuc0NITlB3eGFsOW9EZjAwS2w4VjRrYi1IbFNFai1kajDSAXZBVV95cUxQdGNNTUplWWdSV2NBTjFZd0tsaE9QaEI1OFBlMXJXTW9VaW1PQUVyV3lBd1NrclE5R2kyTUhDMWxMVF9rX2FGZlk4TzRVRkt0NWZWN1ZhZVZIbDdUY2kxR0kzdFJaWDd1aGZSTDNpNkdqWXVnczJ3?oc=5).
 
 ## Requirements
 - Python 3.8
