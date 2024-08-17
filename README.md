@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hires new aides but defends his personal attacks on Harris**
+**Groundbreaking Brain Chip Allows Man With ALS to "Speak" Again**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1U5ZlJOZ2UwUEpFWWFoQTE1SmUwOEVxSnlVc0tlZzJPRXZNMGNlV2xaRkpKMzlONEk3ZkFyMkp0UUhvQWhLemZpMmdJUG43ZWFKbm1lOUN2T1FVMUhzaWNnZGplM2FuNU85dmNROGhhdjktbFB1ZEN3NlVFVlJsbXdtUFBWYlhhVDVPV3VzcTkxZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9manI5NVZrN0cxNjhKYndwYmxIZFd6RF9lak4xV2V4VTZzODh3SzU1Z0N5LWtKMEo5QVIxc19sYUpLcEl4ZnROUl92enNmLXdCZWpuSUdJeFJZODNDME9yN2d3ZTc?oc=5).
 
 ## Requirements
 - Python 3.8
