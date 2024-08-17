@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump hires new aides but defends his personal attacks on Harris**
+**Marvel Fires Back Over ‘X-Men ’97’ Creator’s Claim He Was “Stripped” of Season 2 Credit, Cites “Egregious” Investigation Findings (Exclusive)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1U5ZlJOZ2UwUEpFWWFoQTE1SmUwOEVxSnlVc0tlZzJPRXZNMGNlV2xaRkpKMzlONEk3ZkFyMkp0UUhvQWhLemZpMmdJUG43ZWFKbm1lOUN2T1FVMUhzaWNnZGplM2FuNU85dmNROGhhdjktbFB1ZEN3NlVFVlJsbXdtUFBWYlhhVDVPV3VzcTkxZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOOUdtbXRZd3RuLTZkbndaTW92NXd4LXBKbzJvMU1uUmJBSDBBOTdxU1hVYUJhYUJORmpVajZOY0ZwTmgxeHNjQmlPbklfa1hUM05DODdmektqTjBkS3RKT3BzNHZINmx3ZzJCUnpnZ3oydFZUVHdqcnZYUFBKbU9icU5NVEM5VzY2TUtEVFpBYm9WYWpEemtFcmFnVEFyQdIBowFBVV95cUxNNi00Q3lSYmUyanNDNDhCSnRqT2pqaFFiS3lyQVMxemhuLU9LdHo4WGppRXVXUG5yMlQ0SEdZdldfN2hWR21xSE1RdzJJSHlxSEpfUEMtdlRaYmM5R0gtd2VpLUgyVEJHVnp2WjhoVV80RGxGN2YyU0lSVWQzZlNqc3IxZGNTLWF4Mmo3THlsd3gwOHJiMEdvcHFfU01KMTdpcTJB?oc=5).
 
 ## Requirements
 - Python 3.8
