@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel Fires Back Over ‘X-Men ’97’ Creator’s Claim He Was “Stripped” of Season 2 Credit, Cites “Egregious” Investigation Findings (Exclusive)**
+**Diplomacy takes center stage as Iran holds off retaliation against Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOOUdtbXRZd3RuLTZkbndaTW92NXd4LXBKbzJvMU1uUmJBSDBBOTdxU1hVYUJhYUJORmpVajZOY0ZwTmgxeHNjQmlPbklfa1hUM05DODdmektqTjBkS3RKT3BzNHZINmx3ZzJCUnpnZ3oydFZUVHdqcnZYUFBKbU9icU5NVEM5VzY2TUtEVFpBYm9WYWpEemtFcmFnVEFyQdIBowFBVV95cUxNNi00Q3lSYmUyanNDNDhCSnRqT2pqaFFiS3lyQVMxemhuLU9LdHo4WGppRXVXUG5yMlQ0SEdZdldfN2hWR21xSE1RdzJJSHlxSEpfUEMtdlRaYmM5R0gtd2VpLUgyVEJHVnp2WjhoVV80RGxGN2YyU0lSVWQzZlNqc3IxZGNTLWF4Mmo3THlsd3gwOHJiMEdvcHFfU01KMTdpcTJB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0RQOVNreHpwSlZyYTFodHV3OVFVZU5sT2JoYlM5OWJpWDBjWW00UVVJdk5PTDJKYUMzaWxTVjlSc3dOQnl4cXdTaDRleE9LR0hId1hSUUZIdmZOemFLR3ExN19EWVlWMndSRTU3aGxkMm9kYjdiSzhPSGQ2d2kxMy1STTB3TWszWkdycWhsMkpFOXV2Wm5JVlV0cXdkNjJQVGp3ejlR0gGrAUFVX3lxTE9tT0pwUVdIMmNyckJPU0YtZ0g0TDhtNTF1c3l3b2JzVGlsb1pSbUthT0puSkFLS250dHZwS0RScDNZRHI1Yi1nWTRGOW5mUXdIc3g5UWcySUFxbHJYMEZlelZSR1RXSWZ1eVBWNXJYakpRcHZvb1pCWmNycUJTTExfRmFLQ083eHBXTzBiY3g3eFFnMjE3LS1JM1FrMXFFTnVoN1ZmUDFnQ1NUNA?oc=5).
 
 ## Requirements
 - Python 3.8
