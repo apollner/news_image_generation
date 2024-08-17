@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lincoln’s massive digital dash fits right into the new Navigator**
+**Matthew Perry’s Assistant and Doctors Charged With Getting Him Ketamine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUjJ4XzA4TE9jQW92dzFPZW8yY3NBR3NEcDZYNkVIR1Jha1p4ZEtYQWFJcXlDbGhuREVnMzZKNkNyUlRsV0FqNWw4M2w1OHRjSXI3dzc1bVRMREtZNjc5cW9GZkhTbkoxYTRQVEVnZV9ITjVaZWJIaDUzQ0pjQklHOHhRR1lxRnhrVlJrSXF5Y3pfeW5KcFViOUZJYmRMMjJxYUlJMQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPNFkxeEl5eFJLdHJnQlh0bTVtVldBTmlYNWJLYlc5MFQxLVYtMTM2cjg4VUFwbzlUX1c2SUJ0N25rRmNKTjhoSGZYX3NVUklOWjBDdzhiYV81Rl92WkVuZW43bmNpeERWSXZOWk8wZDV6ZjZkRWtPREozcGxNRFBCOXU4MGg2TDNVNlhIY0phUQ?oc=5).
 
 ## Requirements
 - Python 3.8
