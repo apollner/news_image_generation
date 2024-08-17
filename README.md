@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerod Mayo on Matthew Judon trade: “We’ve gone years without having a premier rusher”**
+**Patriots' Jerod Mayo: Drake Maye showed 'great composure' in preseason outing vs. Eagles**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS0pSWUNfd0ZfNzdfX2VhS0Y3R1dMdUxjS1dVcWR2UzVDNU5xVDc3WjltOGZoZGZuNkJPMWIxUmtya1EtUG5zY0hxWFRNRkQ5bzQ5TlhaTG92TUxoU3I0Ri1MUC1ueE10NGcyelRuOUNMdklEcGxTVFZoQ3JzZFBOLU1CRXFWTjhyNkNaYUdQQl9KX0N5OVEwOWJnalk5Rm9uSDZTckVOSXE5ZGE3OVZHcjgxY0FRSnhDXzU4QlpWeHNaU2J6bVNBQ08xQXh2R3N3d0cwVm9saFBneVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmZfZHNPZ1lDMEhhTV9EdUNEY0Rqem5fS3IwVWNmaVRfaDE4MndNY1dZNWhoa08zMTRtSV9wNy1OdWJPTms3M3p2LUk5Ym10ODU4R1pSVjVoNWVfZ1ZnaXViTFoxdlVmNUhobXlWeVJBZWwtZTU0cndkOEhhRVlMZjZRdTNqS1RsclpBRGllUVFvdHA0bFNTbF9PSjRXRjBYWUwwVnVKQmRPUkNv?oc=5).
 
 ## Requirements
 - Python 3.8
