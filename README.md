@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five people — including his assistant and two doctors — arrested in Matthew Perry’s ketamine death after police probe**
+**Marvel Fires Back Over ‘X-Men ’97’ Creator’s Claim He Was “Stripped” of Season 2 Credit, Cites “Egregious” Investigation Findings (Exclusive)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUZYZE54dnFUVEozM2p4VHhLQXF2Zk0xc3VuelRPaUtEVWdscE52UjB2TGg4aWxYRGY5ZUpCTnItbHBZaWZOdklIeEY1RDdYWG40VkVvdmhzZDU5S3hxM05FYnYzU2ZRUlZiY2N2dHZCZUtkZ2FEeTlrRmQ3dlZUSVJSODRZWTZPOWs2bVU2SndORjdfUnh5WmFULWUyT3hDU25yX0d1TWFEVHIyNURjUlZrb1FSbDY3VXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOOUdtbXRZd3RuLTZkbndaTW92NXd4LXBKbzJvMU1uUmJBSDBBOTdxU1hVYUJhYUJORmpVajZOY0ZwTmgxeHNjQmlPbklfa1hUM05DODdmektqTjBkS3RKT3BzNHZINmx3ZzJCUnpnZ3oydFZUVHdqcnZYUFBKbU9icU5NVEM5VzY2TUtEVFpBYm9WYWpEemtFcmFnVEFyQdIBowFBVV95cUxNNi00Q3lSYmUyanNDNDhCSnRqT2pqaFFiS3lyQVMxemhuLU9LdHo4WGppRXVXUG5yMlQ0SEdZdldfN2hWR21xSE1RdzJJSHlxSEpfUEMtdlRaYmM5R0gtd2VpLUgyVEJHVnp2WjhoVV80RGxGN2YyU0lSVWQzZlNqc3IxZGNTLWF4Mmo3THlsd3gwOHJiMEdvcHFfU01KMTdpcTJB?oc=5).
 
 ## Requirements
 - Python 3.8
