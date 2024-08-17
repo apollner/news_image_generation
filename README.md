@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Groundbreaking Brain Chip Allows Man With ALS to "Speak" Again**
+**Hurricane Ernesto turns its attention to Bermuda, will churn up dangerous beach conditions for East Coast**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9manI5NVZrN0cxNjhKYndwYmxIZFd6RF9lak4xV2V4VTZzODh3SzU1Z0N5LWtKMEo5QVIxc19sYUpLcEl4ZnROUl92enNmLXdCZWpuSUdJeFJZODNDME9yN2d3ZTc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3hSZjktbGJCY2x0bV93Ty10bXlYdWJXU3pkVGNjVmU3U1JQdmlSUFQyUmtxLXpuN2R0N1dzUDZBMFota255X290QVZQUjZqYmc1WWFraVc3My1KWWFtLWpiM1ptVjhyZmRaRURZb1ZTYnFkSU5iM3ZkWmFFOXBsYUJJd0ZlX2p2aXkyVk5ram9wWElTR05WUVNqTGFPMWxlWVHSAZgBQVVfeXFMT3BuQkhUMW1nczVtOVhsdnBheFVodGM1a2hoNVBKbEZxZHc5cnY1akVuemtzOFhKVGZqbmszbEpYeVYwby1fT2p2WUphZ0s2T0dMc2VkdlhVMENOQ1VJUHRwTE0zblNnTW54bzNWSUF3azc0TUJJNGFWS25sUVJsOVhITTF6ejlyY2xUZmJ0eUZMOERhNVo2VUs?oc=5).
 
 ## Requirements
 - Python 3.8
