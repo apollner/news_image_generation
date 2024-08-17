@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed will cut rates in September, with a hint of more cuts to come, says Crossmark Global's Bob Doll**
+**Insight: Bangladesh student protesters eye new party to cement their revolution**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0FsaUhRcUFMWnhJmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1I5anNiOEtPU2ZWSE5MRGlFWGdXWnNMMVdoVF9keVNHalVOeU1IUFhuQ2xkTndvODJOdUpGY2FYamJSdWVEN0lWLXBFRjZqYnhKRlVGVGptMU1CekFIaTNWMkV3bE1maVJ1dEhlS2dzOEl5OHQzX09zUFdKVFMxckZsU0oxbTAya19KRjY5X2Izc0RyS2M0U3RaUFFnTEFDY0l2ZHhua1ZFWnBBMkgwcDdsWDFwMDV1M2IzcUdDSDQ?oc=5).
 
 ## Requirements
 - Python 3.8
