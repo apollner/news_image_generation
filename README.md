@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dinosaur-killing asteroid was likely a giant mudball, study says**
+**Fed will cut rates in September, with a hint of more cuts to come, says Crossmark Global's Bob Doll**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWVuX3NQSHRGM3lOUEY5cUxQZXBQcFg0WHJWNi1CMXMzT1dWWXRlRmZpWFZ1X2dmRVpmZGF0T2tUR1dNRmtSSXMtb1h3T3lxSnNEdU1KYTd5aTVmcFVmNndudnY4SUt0SUI5WUthM3ZJcm9mSEJMRllYRmRUemNrRG1xZHlod1pCVUZwMkZ0Qi1UZnE0dy1CWFRRONIBkgFBVV95cUxQRXR5VjJFUnMtSE1ZVUdMdmZtM0JrZVlXWnNHSWdUcXAzRk5fSmhLREpwSWVfdUdUdktHc2xzYWFEakdhd1NyQnpSQncta0RZbGdfVkZNd3NJN3NRSjJsUl9xLXZtYUYxaFhSeHpmSl9NV2dubTNiamtadmloVEhSY3p4dVFDM3d0WnB6cHdFMzlRUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0FsaUhRcUFMWnhJmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
