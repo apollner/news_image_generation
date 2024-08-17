@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Now that mpox is a global health emergency, will it trigger another pandemic?**
+**Dinosaur-killing asteroid was likely a giant mudball, study says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHlSWTJBaUEtTGgwQ1VfYk9NaGJTWnlUWElIZTdydmF3ZHlqcnQ0dGoyQU5waGpDT0oteGVaZ0pXQXJ4aUpudTdIbW0wSWpLODhIQXNTZFNQLW93My1wazh6TnViQWRXOGw0X1hfX3dGVU9OeHFiMXVnSUc1WGVuSk1mSGVreFgxVWQ4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWVuX3NQSHRGM3lOUEY5cUxQZXBQcFg0WHJWNi1CMXMzT1dWWXRlRmZpWFZ1X2dmRVpmZGF0T2tUR1dNRmtSSXMtb1h3T3lxSnNEdU1KYTd5aTVmcFVmNndudnY4SUt0SUI5WUthM3ZJcm9mSEJMRllYRmRUemNrRG1xZHlod1pCVUZwMkZ0Qi1UZnE0dy1CWFRRONIBkgFBVV95cUxQRXR5VjJFUnMtSE1ZVUdMdmZtM0JrZVlXWnNHSWdUcXAzRk5fSmhLREpwSWVfdUdUdktHc2xzYWFEakdhd1NyQnpSQncta0RZbGdfVkZNd3NJN3NRSjJsUl9xLXZtYUYxaFhSeHpmSl9NV2dubTNiamtadmloVEhSY3p4dVFDM3d0WnB6cHdFMzlRUQ?oc=5).
 
 ## Requirements
 - Python 3.8
