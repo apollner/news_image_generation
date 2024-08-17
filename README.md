@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ketamine Queen’ charged in Matthew Perry’s overdose death is a Mafia superfan**
+**Gaza ceasefire negotiations to resume as Israel orders new evacuations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxObmZKeHlCYlIzdlBfYWw5SHhxeXNpVUw5clpKZGJsRlVSdG5nM3ZsaDc5NUI0Vmp1cEItRFRNMFJMSUVEOFJxYkF1RlRoUUt0SEtzeDZ1TEVVeTFHWmhqdE9aSlZjN3JPajA3V2YyZHZhZmgyazhrYUxDU3BNNndXdEctYmNOX1pfTlMzaWhMVkdkX2VxYWZQQkRJZXJ3dDlWcXdQc2tR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlN2eVZZNEx5dE9saFZrS1d4T2FWWHBvbkg4RGZRUU9aUF9Ta2FXcTZ1eEx4TzVhbDAycTJsbl9RSzVNeU0tdkR0WHdrVnNUdkYzNlM0RC1rNklGa3FlSHB2QW5YX2tuWUJVTmw3cFlPTXB6X2t3UTZVc1ZnTFYxb0hyTXNpQjBRT3cwanZrMVg4ejRqM1l0UlhEOUQtdkUwb2dhOFM0X19EcGNuREJCdXlpMXlTazdFUkc5ZHpZWDhiTVk?oc=5).
 
 ## Requirements
 - Python 3.8
