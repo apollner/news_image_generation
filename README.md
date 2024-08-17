@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says civilian award is ‘much better’ than Medal of Honor**
+**Cadillac reveals new 'Opulent Velocity' performance EV concept**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRS1KUER2Q3VCV0k1NF9VYXdiZmVTV1VPN3pVNDladUVBbmlyUURmVlo1RTJoN0NMY2dqeTAwYURNRUR2SGxLbU9ydm5GVlBHbFJZZXR3ZF9vR21oWWY4dzVFMmJwdEV1QUExMm9hbzVoZjRweWVPTHhHWdIBckFVX3lxTFA2ZWFsdXJBS2xCbWFkenBDYVhYVzR6LWNMYzZFQmJmZ3F0b0J5Tmo0WHp2YWVlUjFYTWdCekowZWZrQUdWQWVWem5Dek9YMWZBVEFMRXhJY0FLRkpweHZnUXVEeVJfaDNTQ0gxZ1Z1SmkzQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmlNR2MybUZVS2loWVo2cGxIQko5akx4OTQ1SlNEQnNDRmpHVUlQN2FuXy1NME1zeXlqazhOLVJhdUVpQk92a2tWZjRvTExyanhwZ1lWU29FUzhVdl9iNXVsLWlEOFVDaC12Ylk3WWM0bGVzSE5Hamp0SVQ3TG9LZWtRS3NzYW51b0ZSVllOakVScVlQeFVfUWd3R3ppbEhK0gGmAUFVX3lxTFBLNEVIWHBGbnVZZzE2aEVxMWdrWnBUTzJneVRpWlFiNEtTLUFwY3RPV2xCaWNkcW8zMksxeWxRdEgyVzBDcjdDUmZfUjlNdU9waTBVVmRNQ1BYOFNzVzJQR2UtOGdBdERmWTdZYUN1aGRzbVJQd1VhS2w0dFZFbzdvS3F6Y29za29NeHl2SnIzNTdmQVpjcXNLb2c1Zy1IanZyLTlqLXc?oc=5).
 
 ## Requirements
 - Python 3.8
