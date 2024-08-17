@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel Fires Back Over ‘X-Men ’97’ Creator’s Claim He Was “Stripped” of Season 2 Credit, Cites “Egregious” Investigation Findings (Exclusive)**
+**LeBron James, Steph Curry set to star on TV as NBA unveils 2024-25 schedule**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOOUdtbXRZd3RuLTZkbndaTW92NXd4LXBKbzJvMU1uUmJBSDBBOTdxU1hVYUJhYUJORmpVajZOY0ZwTmgxeHNjQmlPbklfa1hUM05DODdmektqTjBkS3RKT3BzNHZINmx3ZzJCUnpnZ3oydFZUVHdqcnZYUFBKbU9icU5NVEM5VzY2TUtEVFpBYm9WYWpEemtFcmFnVEFyQdIBowFBVV95cUxNNi00Q3lSYmUyanNDNDhCSnRqT2pqaFFiS3lyQVMxemhuLU9LdHo4WGppRXVXUG5yMlQ0SEdZdldfN2hWR21xSE1RdzJJSHlxSEpfUEMtdlRaYmM5R0gtd2VpLUgyVEJHVnp2WjhoVV80RGxGN2YyU0lSVWQzZlNqc3IxZGNTLWF4Mmo3THlsd3gwOHJiMEdvcHFfU01KMTdpcTJB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOMnFZY0l4X1V4T2xLbjhuYmo4NWdJR2ZUdm1qRERyeGZDRXNRaXYxNmhGUHc5UWsxT1ZGbHZ2UktQT3ZiTk9XZ0REZWQ4T0xNc3pEYk80Z3dVNFlmVUVMNXJSTGFTUFlNeFo4dWdzdDZjeEEyb1gtLS1yYjlmaUZmX0tLVWszZEItcm5ZeTdOWQ?oc=5).
 
 ## Requirements
 - Python 3.8
