@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Beat the hell out of them," Biden says in first joint event with Harris**
+**Behold, Diablo is fully playable in your browser**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9INnozZjByc1pkZzg0NHBGSGthWTRZdUNSZjFEZEZrMmtUMGNrdVBfV0EzQWZjZEJNVldXYTRuWHVSNEFKbWlGUnJuS0psUVFHMkRHQW1DVGdLREdFN3h5aVVNQkRlYkZaMGxlOG9CcHQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnExbXNpM2gybFozbGVuZS1JQUZXeVVNelJ5QWNfT3IwSUg4VFZHRV9TVzROOHJKeGd3TnBSeUMtTHBIbHJrc0ZsdlNrbFJ0ZnpucXZNb00tcHZlX2ZTSmY2bGxzUmpNQXNocXZfS3RWUm5aWUlOODRVTXRaUl9Lbk84ZENiMVA0OWVmcTNhYWs?oc=5).
 
 ## Requirements
 - Python 3.8
