@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says civilian award is ‘much better’ than Medal of Honor**
+**Kamala Harris plans tax breaks for families to ease cost of living crisis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRS1KUER2Q3VCV0k1NF9VYXdiZmVTV1VPN3pVNDladUVBbmlyUURmVlo1RTJoN0NMY2dqeTAwYURNRUR2SGxLbU9ydm5GVlBHbFJZZXR3ZF9vR21oWWY4dzVFMmJwdEV1QUExMm9hbzVoZjRweWVPTHhHWdIBckFVX3lxTFA2ZWFsdXJBS2xCbWFkenBDYVhYVzR6LWNMYzZFQmJmZ3F0b0J5Tmo0WHp2YWVlUjFYTWdCekowZWZrQUdWQWVWem5Dek9YMWZBVEFMRXhJY0FLRkpweHZnUXVEeVJfaDNTQ0gxZ1Z1SmkzQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSkVXVXB1aDAwek9WRjd1RnV0OTZhcjBOb3M2WmF4Z0xQRzRQYWdDbVZzUEp4YlRNSWpnOU8ya3J6YkF1N0Rwd1c1MHgxaEJLWXZGT3hjd3daNlBFQlNrZ0VZbTMxZmllNjlaNGZ5czU?oc=5).
 
 ## Requirements
 - Python 3.8
