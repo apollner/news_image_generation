@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Negotiated drug prices for Medicare are here**
+**5 charged in Matthew Perry's ketamine death as new details emerge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOUlZON2NGWXpXbWxNUmVnZWdlbnFVdWs0ZktHQ2p4RlNReFp0Y3hQZ09USVdNZFdtMHg3Tk1vWEt5SHp3dV9SOFg2X3BVS0pxZ3F5U0tzY0NlQWNXY0N3Qm12bkthRzd4TF9ySDJtVWJrVU5RUWctdzlTeVkwa1lLVW9EVlBWNXVWNUxjYjg5UE1fMzR4RGk3NERhUGpJUdIBowFBVV95cUxOMmFEV1FnbGtrLVh6dE5rTzJTQUw3SU5tNmFPcTNadnBvMDZnWU9zMER6MG5nT3JrWWRscGRzYzkxa2hpcHFFVEFFdUdMUjQ5NEZueGFaMjNDWlZ4Rl9UdWZuUjZraTg1UXRrTVd2VkY3b2FGRHAtNTZ3Q2FCcWZvUFRGcVhKMm9EN3ZqWGQ4NzlIQ3J5MlZVV081SFZaeVJlU1JR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQQ?oc=5).
 
 ## Requirements
 - Python 3.8
