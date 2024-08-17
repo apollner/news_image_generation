@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Ernesto ramps up to Category 2 as it churns towards Bermuda, poses dangers for coastal US**
+**What do marijuana, the death penalty and fracking have in common? Harris shifted positions on them**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3hSZjktbGJCY2x0bV93Ty10bXlYdWJXU3pkVGNjVmU3U1JQdmlSUFQyUmtxLXpuN2R0N1dzUDZBMFota255X290QVZQUjZqYmc1WWFraVc3My1KWWFtLWpiM1ptVjhyZmRaRURZb1ZTYnFkSU5iM3ZkWmFFOXBsYUJJd0ZlX2p2aXkyVk5ram9wWElTR05WUVNqTGFPMWxlWVHSAZgBQVVfeXFMT3BuQkhUMW1nczVtOVhsdnBheFVodGM1a2hoNVBKbEZxZHc5cnY1akVuemtzOFhKVGZqbmszbEpYeVYwby1fT2p2WUphZ0s2T0dMc2VkdlhVMENOQ1VJUHRwTE0zblNnTW54bzNWSUF3azc0TUJJNGFWS25sUVJsOVhITTF6ejlyY2xUZmJ0eUZMOERhNVo2VUs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW1kWklYaDdDRTk3WF9aZklHcV83YkVvbVEwTHp5Ny0xbXdLeWdiM2dkd3c4ckFEVzkzX3laUXFVMmt1WXp2UmxYMHNnU1M5TFFfeGcyMnkxcnRXX1FVeW9wZEpfNGVoaFdxSlBlMGd5OUlEUUEtRm91R2FnOHV6VmhRTHhXNnd4aG9hdTBhVkZpQjV5Nk1zWnZDZGdSOHRjUlUyeG9pUl90UF9NbjBBaERyUGV4QQ?oc=5).
 
 ## Requirements
 - Python 3.8
