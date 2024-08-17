@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 charged in Matthew Perry's ketamine death as new details emerge**
+**Trump hires new aides but defends his personal attacks on Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS1R0TlpEMlFyUTFUeXd2Q3gtSGRpU3NYNlVrak1vM1ZuZnlxOGZrT0ttU3JFR1NQcy1xTy1LU0NWYVMxRTJWUWJ2aGo2MHZWbEUyaUFxdjR2WXY3eE9uNHVBdEluaGJLMGk3c2E0aV9FOHA1YlVQWVBycjJzX21WTWtWOF9VLVZmNkQ3RWkzQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1U5ZlJOZ2UwUEpFWWFoQTE1SmUwOEVxSnlVc0tlZzJPRXZNMGNlV2xaRkpKMzlONEk3ZkFyMkp0UUhvQWhLemZpMmdJUG43ZWFKbm1lOUN2T1FVMUhzaWNnZGplM2FuNU85dmNROGhhdjktbFB1ZEN3NlVFVlJsbXdtUFBWYlhhVDVPV3VzcTkxZw?oc=5).
 
 ## Requirements
 - Python 3.8
