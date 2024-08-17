@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diplomacy takes center stage as Iran holds off retaliation against Israel**
+**Harris economic plan features new tax cuts, housing incentives and price caps**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0RQOVNreHpwSlZyYTFodHV3OVFVZU5sT2JoYlM5OWJpWDBjWW00UVVJdk5PTDJKYUMzaWxTVjlSc3dOQnl4cXdTaDRleE9LR0hId1hSUUZIdmZOemFLR3ExN19EWVlWMndSRTU3aGxkMm9kYjdiSzhPSGQ2d2kxMy1STTB3TWszWkdycWhsMkpFOXV2Wm5JVlV0cXdkNjJQVGp3ejlR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXlzb0MxT0tBaVctUmg4TTBUQmFxSDNOSTFJQUMtT3dxeG5GbnVKa0xWSnp1TVNhaTF2NS1Tc3BLcVZNanVoeVNNR1VfUWdEQXgwZXR2SGp2Z1FrMmdwVmxrX0c4Vm4xVVhWd3d6aHE3U0pp?oc=5).
 
 ## Requirements
 - Python 3.8
