@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman charged in alleged scheme to steal Graceland, extort Elvis Presley family**
+**High-stakes Gaza ceasefire talks have ended. Here’s what to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxNei00TFl2Ml81VE1HUk5CU211M3dkOXJMbkhqd1FjLUh6ZnlPQ1JBdldqNVJ5YWlHSHJ0OThwYV9pRHA2RHkyRVhuelF4TUFja0JlRWsxV0hBS2k0UkJoaEJ5c1l5WVJ0dzl0aXQ0OTVuQ1dmT1NmRmg1WmhtODdkZXhPMVBjak1UQ3FjRzZPbWhsemd3ZzFuTGhLWmJpNXJfN1lGT0laTFdmdjEwS1FqVVl2RFpQRGlRa0HSAVZBVV95cUxQOGkwUUhGUkxDdVl4S0RZRy12WHo4WktPT2JJMGxrRDYxOVpObkgzX2RGRjY1LUJMWDF2bFlDa0syelVqTkktYVhURlJlaDdqRzhkX2x1QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGZvUWtRRVJwemx2alFqM1dUQ1dUTmxvYTJ5WExpb2pIRE04aWlKdk9pTzFuUmRuVVFuUE5oMDdmM2dvbnE4MGVIRmZZN3RTQnlKTXhnMkxoWmg1MnBGQzQ3WUdMNkRyOHdGTEliQXUxVzhJUUlHOFRRbllUdWh6OUVocTVpYkZDcEFCRFJidDhTNGlhSnA5N1NCT09XVHRXWVE?oc=5).
 
 ## Requirements
 - Python 3.8
