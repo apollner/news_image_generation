@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cadillac reveals new 'Opulent Velocity' performance EV concept**
+**High-stakes Gaza ceasefire talks have ended. Here’s what to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVmlNR2MybUZVS2loWVo2cGxIQko5akx4OTQ1SlNEQnNDRmpHVUlQN2FuXy1NME1zeXlqazhOLVJhdUVpQk92a2tWZjRvTExyanhwZ1lWU29FUzhVdl9iNXVsLWlEOFVDaC12Ylk3WWM0bGVzSE5Hamp0SVQ3TG9LZWtRS3NzYW51b0ZSVllOakVScVlQeFVfUWd3R3ppbEhK0gGmAUFVX3lxTFBLNEVIWHBGbnVZZzE2aEVxMWdrWnBUTzJneVRpWlFiNEtTLUFwY3RPV2xCaWNkcW8zMksxeWxRdEgyVzBDcjdDUmZfUjlNdU9waTBVVmRNQ1BYOFNzVzJQR2UtOGdBdERmWTdZYUN1aGRzbVJQd1VhS2w0dFZFbzdvS3F6Y29za29NeHl2SnIzNTdmQVpjcXNLb2c1Zy1IanZyLTlqLXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPUGZvUWtRRVJwemx2alFqM1dUQ1dUTmxvYTJ5WExpb2pIRE04aWlKdk9pTzFuUmRuVVFuUE5oMDdmM2dvbnE4MGVIRmZZN3RTQnlKTXhnMkxoWmg1MnBGQzQ3WUdMNkRyOHdGTEliQXUxVzhJUUlHOFRRbllUdWh6OUVocTVpYkZDcEFCRFJidDhTNGlhSnA5N1NCT09XVHRXWVE?oc=5).
 
 ## Requirements
 - Python 3.8
