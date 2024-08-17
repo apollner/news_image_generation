@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google's Big Pixel Event Puts the Pressure on Apple's iPhone 16**
+**Trump says civilian award is ‘much better’ than Medal of Honor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRkZqa3RvbXh1UDVycDlJV1NNc1lOWHRpU01GZEhUMzdKYzFwbFZ2RXBFOHVMU1Eyd2VERklTTWhjYS0xMzgyc20zOUV6cU05bVNDWXNORmFoYzQ1QWd0bzFhdWRYNk1wWjg1cEwyT1gxRUJXZHJabFdYakwwNGpROFdIaHlVcFd0bjFDUHVoZGZrZkhDclRuODE1TQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5JRS1KUER2Q3VCV0k1NF9VYXdiZmVTV1VPN3pVNDladUVBbmlyUURmVlo1RTJoN0NMY2dqeTAwYURNRUR2SGxLbU9ydm5GVlBHbFJZZXR3ZF9vR21oWWY4dzVFMmJwdEV1QUExMm9hbzVoZjRweWVPTHhHWdIBckFVX3lxTFA2ZWFsdXJBS2xCbWFkenBDYVhYVzR6LWNMYzZFQmJmZ3F0b0J5Tmo0WHp2YWVlUjFYTWdCekowZWZrQUdWQWVWem5Dek9YMWZBVEFMRXhJY0FLRkpweHZnUXVEeVJfaDNTQ0gxZ1Z1SmkzQQ?oc=5).
 
 ## Requirements
 - Python 3.8
