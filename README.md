@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris plans tax breaks for families to ease cost of living crisis**
+**Now that mpox is a global health emergency, will it trigger another pandemic?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBHSkVXVXB1aDAwek9WRjd1RnV0OTZhcjBOb3M2WmF4Z0xQRzRQYWdDbVZzUEp4YlRNSWpnOU8ya3J6YkF1N0Rwd1c1MHgxaEJLWXZGT3hjd3daNlBFQlNrZ0VZbTMxZmllNjlaNGZ5czU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRHlSWTJBaUEtTGgwQ1VfYk9NaGJTWnlUWElIZTdydmF3ZHlqcnQ0dGoyQU5waGpDT0oteGVaZ0pXQXJ4aUpudTdIbW0wSWpLODhIQXNTZFNQLW93My1wazh6TnViQWRXOGw0X1hfX3dGVU9OeHFiMXVnSUc1WGVuSk1mSGVreFgxVWQ4?oc=5).
 
 ## Requirements
 - Python 3.8
