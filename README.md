@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris Plans to Ban Grocery ‘Price Gouging.’ What Does the Evidence Say?**
+**Woman charged in brazen plot to extort Elvis Presley’s family and auction off Graceland**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQTTN3RWY0amJjVldQWXpZcXdoR0V4WnhIb1g5ODFiUDRBUl9UWkRpNlE2UkdkemlBQmRfb3p1NWlwUG81N01pdVRlUmJBT3ZLQWhDaW9ZbFdoMGZ1aWI3ZWVpaVZnOGcwZ2lNWFJGeEExR1Bzc0xnSExDT3VhcDhmU25wMjZ5MFdVMnJXckdGajk0R0pQRU1BMkhn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNG04T3JOTnN4RlVkYm56UDF2c2VqY2ozaUtlZWlpZXhjVDhHUGVZMm1OenloaFl4Z3BlWVFEMlRFczFKVGxlUmYzMXNUSlJGb0JfbDItd2NFaWFZZ0FkdzB4VFJXSldNU2lSSHZTM1NpU0c1UnkyMXl3WTVzTWIwZGI3OVFHT3k1ZmVCbk1sZ1llYjg5LVZmYlJuOEVIaWRV?oc=5).
 
 ## Requirements
 - Python 3.8
