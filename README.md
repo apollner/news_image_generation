@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Harris and Biden Take a Victory Lap on Drug Costs, She Sets the Pace**
+**Five people — including his assistant and two doctors — arrested in Matthew Perry’s ketamine death after police probe**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQbEM5SE9JeXNZZVZBM3lHdUJneS1XZXlzeFliM0R0Q1RBdUFjZTJWcUdVZzQ2cFVvLVpJMmZoNVNiTVVaaFMwR2RPOVlXeVRYNXdmZ0pXb0I3UFBKeHdqclU4TmFTYjNMeXUyYjZjZmk2OGpmejE3Qy15dkMxVzFpWGVSal9sWTNRU0tiNk9B?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQQUZYZE54dnFUVEozM2p4VHhLQXF2Zk0xc3VuelRPaUtEVWdscE52UjB2TGg4aWxYRGY5ZUpCTnItbHBZaWZOdklIeEY1RDdYWG40VkVvdmhzZDU5S3hxM05FYnYzU2ZRUlZiY2N2dHZCZUtkZ2FEeTlrRmQ3dlZUSVJSODRZWTZPOWs2bVU2SndORjdfUnh5WmFULWUyT3hDU25yX0d1TWFEVHIyNURjUlZrb1FSbDY3VXc?oc=5).
 
 ## Requirements
 - Python 3.8
