@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris economic plan features new tax cuts, housing incentives and price caps**
+**History shows investors should keep a tight leash on risk once the Fed cuts rates, strategist says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5PMXlzb0MxT0tBaVctUmg4TTBUQmFxSDNOSTFJQUMtT3dxeG5GbnVKa0xWSnp1TVNhaTF2NS1Tc3BLcVZNanVoeVNNR1VfUWdEQXgwZXR2SGp2Z1FrMmdwVmxrX0c4Vm4xVVhWd3d6aHE3U0pp?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTlneU5Ba1J5Q3lEcjJRUWNVTC13cGxJSTZadzlSNklQSm5xU2lrbGR1cHpwcE90N1YteDZyRjdtM3I0N3ctMkptX21rWHZjUnBiWmhlbkxvdnd0RUU1N19zZU1GUGdOdW42dGU0cjVWQUdZSFh1cmV4RjU1T3JBaXM2RzFzSGttZHJEbkhBWTNRMFZPVnhRaWZrMTRscGZFbi1qdU9aS1RmNl9lMnFvNXptNUIxQk1SLVY3VFlOQzVJbUp2Sk9VaTgzdWllXzJTZTJjUlpyNA?oc=5).
 
 ## Requirements
 - Python 3.8
