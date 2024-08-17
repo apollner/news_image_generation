@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What do marijuana, the death penalty and fracking have in common? Harris shifted positions on them**
+**Diplomacy takes center stage as Iran holds off retaliation against Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPZW1kWklYaDdDRTk3WF9aZklHcV83YkVvbVEwTHp5Ny0xbXdLeWdiM2dkd3c4ckFEVzkzX3laUXFVMmt1WXp2UmxYMHNnU1M5TFFfeGcyMnkxcnRXX1FVeW9wZEpfNGVoaFdxSlBlMGd5OUlEUUEtRm91R2FnOHV6VmhRTHhXNnd4aG9hdTBhVkZpQjV5Nk1zWnZDZGdSOHRjUlUyeG9pUl90UF9NbjBBaERyUGV4QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ0RQOVNreHpwSlZyYTFodHV3OVFVZU5sT2JoYlM5OWJpWDBjWW00UVVJdk5PTDJKYUMzaWxTVjlSc3dOQnl4cXdTaDRleE9LR0hId1hSUUZIdmZOemFLR3ExN19EWVlWMndSRTU3aGxkMm9kYjdiSzhPSGQ2d2kxMy1STTB3TWszWkdycWhsMkpFOXV2Wm5JVlV0cXdkNjJQVGp3ejlR?oc=5).
 
 ## Requirements
 - Python 3.8
