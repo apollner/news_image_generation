@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**History shows investors should keep a tight leash on risk once the Fed cuts rates, strategist says**
+**‘Ketamine Queen’ charged in Matthew Perry’s overdose death is a Mafia superfan**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTlneU5Ba1J5Q3lEcjJRUWNVTC13cGxJSTZadzlSNklQSm5xU2lrbGR1cHpwcE90N1YteDZyRjdtM3I0N3ctMkptX21rWHZjUnBiWmhlbkxvdnd0RUU1N19zZU1GUGdOdW42dGU0cjVWQUdZSFh1cmV4RjU1T3JBaXM2RzFzSGttZHJEbkhBWTNRMFZPVnhRaWZrMTRscGZFbi1qdU9aS1RmNl9lMnFvNXptNUIxQk1SLVY3VFlOQzVJbUp2Sk9VaTgzdWllXzJTZTJjUlpyNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxObmZKeHlCYlIzdlBfYWw5SHhxeXNpVUw5clpKZGJsRlVSdG5nM3ZsaDc5NUI0Vmp1cEItRFRNMFJMSUVEOFJxYkF1RlRoUUt0SEtzeDZ1TEVVeTFHWmhqdE9aSlZjN3JPajA3V2YyZHZhZmgyazhrYUxDU3BNNndXdEctYmNOX1pfTlMzaWhMVkdkX2VxYWZQQkRJZXJ3dDlWcXdQc2tR?oc=5).
 
 ## Requirements
 - Python 3.8
