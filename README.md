@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Titans' Key has 6-game ban overturned**
+**Former Rep. George Santos expected to plead guilty on charges related to campaign fraud**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFNHSkQ0VzFLVkhLZmI0Zm9ESi1LdGxwaWJBc3B2UG10aU45cmR1RFBuYU5ockxKZGtwYzBfeTlwdTR0TkJZckNKLWkwUXZmaHRjMXEzUVNUZXMxLXFub191U0x6Y19vTjJmQjR5UndVMHg3VTc5aW9SZzNEMmtQWlM4Szl1TlZRSFlUbzZDVlk2NUM4V1hJamhfYWlOd28?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDFuMFRvOHpSSWtUVkpXeUZnWHFuZ2YtX1BkdDVYN0RMVjhBTXlwY3ZDb01fNFhSOGgyQmFRNVVIOG5FZmNfc3hEbXFaUnRteEFLVjdqZ1dHUjB2ZkRJR0VCWGI5V3NwN3dITDNLTWlydjVyOVFPa0lLdGZtOUJmX2ZJRVRDRXdGQmN5a292cnR6ZlRXaUJHSUk0RVFwY1A0WlBVcGUxMmtad9IBVkFVX3lxTE5XLTRfVGx4RGpSLTVOUWdIUUZuVUhOQkxiRGpHYTVKZkdpdExDRnVJVTJ6MWlGTWRsM3d3b0Y2d3NSamhyX19ZRGtWdEFaZWVLNTlrSGxR?oc=5).
 
 ## Requirements
 - Python 3.8
