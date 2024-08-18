@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Progress 89 spacecraft delivers supplies to stranded astronauts on ISS**
+**Duchess Meghan Changes into a Fabulous Oscar de la Renta Gown for a Private Luncheon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lVXljanNPRm1xM0Zka1FKUndiSDF4RjJreEdIX0g2ZHN5NkJKQTk2ckhsNkcwaF9CMVotcTkySjhKdGRVSzRha2FmWVRfdVBuQVNXb0F4RQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2daUmRJZW1IeHBKeHFMOTJTR3ZmVzZZWlM5NUhmVjdNTWp0aTZiRC1vNW1QZkdwcW5PV2ZybGtTQ2xIQUFONWFaR3FrazhpRTlTTzZFRVNsajQxaDhRT3RjaGFFcDAtOXlvMDdfOTcyMXNOWTdrd0t4VDdOR24zdEthOUI0VVBEd0x1YU1MWF82RVdtQUpxWUtrWVlWSnlUMkdoeGhWRUJfams2cTk1WnBSZE5uaEdPcWNUZGRNRlhnZ0hsOVBKcUdvRlQ5TW0yN3c?oc=5).
 
 ## Requirements
 - Python 3.8
