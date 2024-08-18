@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matthew Perry’s ‘Ketamine Queen’s Other Victim Revealed**
+**Looking to Freeze Your Credit After the National Public Data Breach? Here’s How**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVNqMGVKZmp6cWlkdlNyMm9fYWRWb1lCS2NmWFRfOXlHOXV3UmtMaXNTT1FRb0p0cFU4bXVIdnRXSWtiaU03Q2FQSEFWdklSUWtjQi1VU3BxWWNGb1hJM3BBdGRJYVh5NUZiR0VNcVVHVG1WMWFqQkNacXFGRzhzdEs4ZVJma2RPVXBVTVVJMk13N251ZDNTbmZ0Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXd1eUFIQTlRWTd6Q2l6SDc0TTBTdGNIbVJfVmpqendFQVRTcEhJV1k0bGRxMXhoeDBtWUhha2ZHeUlRNmJLRHkwaE1EMk1jRXFCUzJycm41bUxyR25aMTVkNnNJblBYYUZGUExvUlgya2xPUDVVa3o1Uk5wSXhzRkVHSzRZaDNlU0lvWUpqZnRjckFzekJYVDdIWld4NFVYZXEwcGE3X2ViNTZOYkZuQlNjdktLOFc0UkxPaDE2Q0h0WDVnT0lrem82RQ?oc=5).
 
 ## Requirements
 - Python 3.8
