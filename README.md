@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dakota Johnson, Chris Martin speak out about rumored split**
+**National Public Data admits it leaked Social Security numbers in a massive data breach**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxONExBTWFtMVU2b3BGakF6b2JMMWJ0ZnZIT0pRTVVwWmtPYWk5dWhGVnp3REk2UWtqVjlYYmdTajVPU2gtTElmUXlXbzlUWUVqQXdRcERYUHJpNkVxN0xyLThSVUhUZnZFYXlHZ1FUMTFCeXFuZlYzcWkwTnJ2S09kd0ZSYlBnYjFSbTZyb3QzamZyc1XSAZgBQVVfeXFMTk1JUFk2cmg0NTVvZ1BQTHlDWUJIUXpYTnB2XzFfMlR5RHpvQllrZGFMSU5zZW9ZOTB3VVk3ZHBuQW4wN0ZBSWlQSnhrNVJJWkM5WkdzaU1kblI2RmhoSV9CeWNaODVvYURKNEVPNF9mWWJlVjFLd2E5UDhaUTdHUEhwbFRnaWZTLVRUT0V6dEx0MGJCVFByNW8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2RnbHljYldoOFJUVmVxWUhhM0V4czNlQkNNaGRnNXFBaExpQ2x5eE1ORkpHamdFUzVrOXlRaVpQeHdtUndjRnVkT2xsdHFQY0RySWVEaFptTEN4Q1ZUMjk4ZmRQTUg4UHZza01VU084Z1pOZ1o2ZHVFc0xCNXpIQjEwcTZGQUpETFBJcnFycUtqZFB3YXdv?oc=5).
 
 ## Requirements
 - Python 3.8
