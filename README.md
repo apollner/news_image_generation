@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Do not undermine Gaza ceasefire deal, warns Biden**
+**Matthew Perry’s ‘Ketamine Queen’s Other Victim Revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZnYxZTBCS0t4S3M0dTJuamFQVkVqeGxwSTdnUHExcHFGZktZV0lsZUpGLVNPSmpxMm1jbXZfM1d6NGZ2ak43MHpkUWVsQzhfNW9CSm5ka1hyd9IBX0FVX3lxTE5BdkoySW5uZWdiQkJVSE91b2dwNXZwOXRvNlM0REZob1g2aUhwcXpsMnRRYURvV1I2VmhtT3hvWGxSVkxmNHBNbkZRQXgzNFlzUXhucGFWZ1ZVbEdFNVEw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVNqMGVKZmp6cWlkdlNyMm9fYWRWb1lCS2NmWFRfOXlHOXV3UmtMaXNTT1FRb0p0cFU4bXVIdnRXSWtiaU03Q2FQSEFWdklSUWtjQi1VU3BxWWNGb1hJM3BBdGRJYVh5NUZiR0VNcVVHVG1WMWFqQkNacXFGRzhzdEs4ZVJma2RPVXBVTVVJMk13N251ZDNTbmZ0Zw?oc=5).
 
 ## Requirements
 - Python 3.8
