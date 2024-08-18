@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza ceasefire progress is an illusion, says Hamas**
+**Box Office: ‘Alien: Romulus’ Hatches $18 Million Opening Day**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVGkwTC1QZ0MyRm5IQ3YwWGNRdmdxTmxKcUFFN0lyTlpMQUJqRFZwR01yYXVZWjZhNlQ1Zm1BU3R6UGhUQmloYXRha3BvWXo4UE8ydmd3ZjVDZ9IBX0FVX3lxTE9jZVFOX3hNaldPSk9mcHRjMGwwTDI4bTM5blhxRHRlNk85ZkhudlV1Tk1EN3NaM3NlR0wzQmpXMFdzV1JLRkZ0SFJraFB0U3NzR1BGZlZWLW5pdU9FS3Jj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSU5oMFg1V1paMm0wRHZ5MU4tQzhaaExaWXNTTDNQUHIyRUJCUmxrd0F5WXk1bzNicHJkY3FmenJMaFEzTUhYOWlsWXhhUERkSTlWeFFSNDkyQjFOMms2YlVxcUluTnQ2X2JfSF9NS2ZRVVdZeDY1blZjaGVjWGdvZThtd2TSAYoBQVVfeXFMTndtajRrWEliSm5vUkFGZ2RTRzljVk9icHFYbXdIeU1oUU9zWW5LQUJvSWllLWdoRDhlNGtCWXR2TmJlcGhVYm5wc3RBS21ObklzRHEyUVJteWlpTnpGYXo0ZGJGTHlCYkJYdEd2VlZvNEx3dS1kTTktUEVZMk1SUWRhOFVRVVJFSXZ3?oc=5).
 
 ## Requirements
 - Python 3.8
