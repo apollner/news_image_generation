@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Says Civilian Award Is ‘Much Better’ Than Medal of Honor**
+**National Public Data admits it leaked Social Security numbers in a massive data breach**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZfS1NjeEhoWDNjM0FCREZ1UEJjbUNBNk1TMEZGMXRVYzljb0QtRURFMUJ6TlVIV1p2RGk2cXpkNjFVbm9OUXgydWttZFVRbnVaaTF4bVJkcl95LWZ1VGNrdk4yZWdrbVQ3eFY3bUw2VDFwWEk5SlRfQWFrc09hUzUtTEdleHZqUzY2WGZsWVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2RnbHljYldoOFJUVmVxWUhhM0V4czNlQkNNaGRnNXFBaExpQ2x5eE1ORkpHamdFUzVrOXlRaVpQeHdtUndjRnVkT2xsdHFQY0RySWVEaFptTEN4Q1ZUMjk4ZmRQTUg4UHZza01VU084Z1pOZ1o2ZHVFc0xCNXpIQjEwcTZGQUpETFBJcnFycUtqZFB3YXdv?oc=5).
 
 ## Requirements
 - Python 3.8
