@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ketamine Queen’ Jasveen Sangha went on luxurious trip to Japan just days after Matthew Perry died**
+**Israel-Gaza ceasefire progress is an illusion, says Hamas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHRNcFZwZ0MzSHAtY2FabGNzaEQ1OFA5dVBxWkR3NmVSR2xnbldKckc2NDNQTmNVYVNyXzRoTkxfbHFWeWppT2hrR3kxUkpWRzlDSjNiUTJBNWw5b3FPRXAzT0VCQzJlb2xYaE16RUd2TTFyTWZlVkVVY1lsTGpVQ3VhOFpJdV9mdDRjVS13aDB3R3RZa1YyTm1hMG9vWWpNOW5GVFV6UmJwdG1uMDRkUllxcDV1OU52VmwxVjJB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVGkwTC1QZ0MyRm5IQ3YwWGNRdmdxTmxKcUFFN0lyTlpMQUJqRFZwR01yYXVZWjZhNlQ1Zm1BU3R6UGhUQmloYXRha3BvWXo4UE8ydmd3ZjVDZ9IBX0FVX3lxTE9jZVFOX3hNaldPSk9mcHRjMGwwTDI4bTM5blhxRHRlNk85ZkhudlV1Tk1EN3NaM3NlR0wzQmpXMFdzV1JLRkZ0SFJraFB0U3NzR1BGZlZWLW5pdU9FS3Jj?oc=5).
 
 ## Requirements
 - Python 3.8
