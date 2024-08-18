@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Alien: Romulus’ Hatches $18 Million Opening Day**
+**Source: Titans' Key has 6-game ban overturned**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSU5oMFg1V1paMm0wRHZ5MU4tQzhaaExaWXNTTDNQUHIyRUJCUmxrd0F5WXk1bzNicHJkY3FmenJMaFEzTUhYOWlsWXhhUERkSTlWeFFSNDkyQjFOMms2YlVxcUluTnQ2X2JfSF9NS2ZRVVdZeDY1blZjaGVjWGdvZThtd2TSAYoBQVVfeXFMTndtajRrWEliSm5vUkFGZ2RTRzljVk9icHFYbXdIeU1oUU9zWW5LQUJvSWllLWdoRDhlNGtCWXR2TmJlcGhVYm5wc3RBS21ObklzRHEyUVJteWlpTnpGYXo0ZGJGTHlCYkJYdEd2VlZvNEx3dS1kTTktUEVZMk1SUWRhOFVRVVJFSXZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOOFNHSkQ0VzFLVkhLZmI0Zm9ESi1LdGxwaWJBc3B2UG10aU45cmR1RFBuYU5ockxKZGtwYzBfeTlwdTR0TkJZckNKLWkwUXZmaHRjMXEzUVNUZXMxLXFub191U0x6Y19vTjJmQjR5UndVMHg3VTc5aW9SZzNEMmtQWlM4Szl1TlZRSFlUbzZDVlk2NUM4V1hJamhfYWlOd28?oc=5).
 
 ## Requirements
 - Python 3.8
