@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Essay | How on Earth Did NASA Leave Two Astronauts in Space?**
+**2024-25 NBA schedule: Which teams have most nationally televised games, and the reasoning behind it**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNamtKalFWY0F3MkZCckdZY0Vsb3ZBNkVGRElEdm9WMVd5TTFIVVlTdVVmZi1GbUZoMkZUR3BhdVFfT3l0VElhLUxtaHBxdzQ4cUZ2RFQ0cFBMbl9SNFVkUVJkLVpFVXR5ZlRFSFp2dDAzdjY0ek13Z205elpReERwZy1RZkRmQTNLMnFXZk8zMXNnOHNERnRjYy1LZk9ZSm9nVjQxYmFVbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEVWa1c5d2tPb1JSMHNhR0pObDdHd2tlVEd3cHJfYXdrSnpINzRMLXBqRy1jRWc1OEpuWmZLRnpaWm41QkxacFQ4OVI5NXRRaGZ2OTZLczJWODRrOWJzYkMxQ3pFd3FwTU1Wb251bUloRFZ3dEJfUlo5TkoxUlJseDJOXzVUYjJZZmxqeUk3djZFQ0JEOXFIS0g0OWlQZGtjMkVZRkpjMVM0QmJjQUNjZFpOT0tLZENWc1JCY09SWWZuOXJra2lKU0RlU2gwZ9IB0wFBVV95cUxPQXpzejU5RGEtZTByaklMRlpNclNjQ0ROdXJBbTVXUjc1OWxkUE1PLUs0Tmd1QmRCQ25WMkNIU1V1VTdmUjN3MHZUbFNxNGJIWnJRSjlyT3F5QkVZbXhSd2ZhZG0yOHJrNDVRVHFwaDhIbXZhaktTX3BPNHZHQTZTbUh6em15S3J0aDZuMXpNX3FNQk8xZzBVYVA0bXIxRjJzeHY2c2w5ODFCQWpvN09EZ3pmWkhpS2pYZ3lDdEh0UHVqUGFILTNFbEtIaHlibmdhejdn?oc=5).
 
 ## Requirements
 - Python 3.8
