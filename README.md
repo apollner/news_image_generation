@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman charged in brazen plot to extort Elvis Presley’s family and auction off Graceland**
+**Dinosaur killer was a rare asteroid from unusually far away, study shows**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNNG04T3JOTnN4RlVkYm56UDF2c2VqY2ozaUtlZWlpZXhjVDhHUGVZMm1OenloaFl4Z3BlWVFEMlRFczFKVGxlUmYzMXNUSlJGb0JfbDItd2NFaWFZZ0FkdzB4VFJXSldNU2lSSHZTM1NpU0c1UnkyMXl3WTVzTWIwZGI3OVFHT3k1ZmVCbk1sZ1llYjg5LVZmYlJuOEVIaWRV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYi15UVBZV2RkVHNWaW9UX0g4TGNuX09HYlRNcGR6UFZ2blNfSFZIVmFmMnQtaW5ZZlNYTVg3RVdZVDVqdHBTMzRTREliN3N0UTg1cDE1S1FGN1VnVjlJMy1IaDZLeWJwMlNHZTBVZWJlUUs1S3VjUjJWemZGQzY2MC1ZdTZSNVBPRTZvYkxBVHhndHFZOGsxazY0UVNUSGRMZzNNQ2NxYlJKeG8tdExaRm9oTdIBVkFVX3lxTE51VGNYcncxVVRCU3p6cklOOHdTeUJXQVZ6ZHFadmpwb1oyZk5uNWdQWnFyVGtGajFuUXZfWjlTWV9RZDNGcmNxb3JLWjc0ak9mbVo1M0FR?oc=5).
 
 ## Requirements
 - Python 3.8
