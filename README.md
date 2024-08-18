@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Duchess Meghan Changes into a Fabulous Oscar de la Renta Gown for a Private Luncheon**
+**At least 17 Palestinians killed in Israeli strike in central Gaza, health officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR2daUmRJZW1IeHBKeHFMOTJTR3ZmVzZZWlM5NUhmVjdNTWp0aTZiRC1vNW1QZkdwcW5PV2ZybGtTQ2xIQUFONWFaR3FrazhpRTlTTzZFRVNsajQxaDhRT3RjaGFFcDAtOXlvMDdfOTcyMXNOWTdrd0t4VDdOR24zdEthOUI0VVBEd0x1YU1MWF82RVdtQUpxWUtrWVlWSnlUMkdoeGhWRUJfams2cTk1WnBSZE5uaEdPcWNUZGRNRlhnZ0hsOVBKcUdvRlQ5TW0yN3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXF2TTRZMG1kUVFQRlpGX19fbG1RSkJ2MU54aTQ3YWxkT0tiaE1Ob0dxWFV0MFlZanRmT0tKQWZHQVhLeGprUDVDZVhuV0kzTnUyN2xhNjI3S3NRbFJWakdDM216YUZnVVNBNkRmTmZ0OFA1SHp0QVV5OVJVQVRJaDd4cV9kQThjdzE2Zmk3ejIzWHVfYU1id3JGek42NXFsRVFBNEpoZWp0aEpETThrRG13dGc3RHhrdld4VEtnUjkxVWtveGU3cFZIQQ?oc=5).
 
 ## Requirements
 - Python 3.8
