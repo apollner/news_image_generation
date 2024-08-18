@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dinosaur killer was a rare asteroid from unusually far away, study shows**
+**Pain-free smear tests to be rolled out in US in WEEKS - and it's hoped they will slash cervical cancers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQYi15UVBZV2RkVHNWaW9UX0g4TGNuX09HYlRNcGR6UFZ2blNfSFZIVmFmMnQtaW5ZZlNYTVg3RVdZVDVqdHBTMzRTREliN3N0UTg1cDE1S1FGN1VnVjlJMy1IaDZLeWJwMlNHZTBVZWJlUUs1S3VjUjJWemZGQzY2MC1ZdTZSNVBPRTZvYkxBVHhndHFZOGsxazY0UVNUSGRMZzNNQ2NxYlJKeG8tdExaRm9oTdIBVkFVX3lxTE51VGNYcncxVVRCU3p6cklOOHdTeUJXQVZ6ZHFadmpwb1oyZk5uNWdQWnFyVGtGajFuUXZfWjlTWV9RZDNGcmNxb3JLWjc0ak9mbVo1M0FR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZFbGRJdHZ2UVVvZFYyZVFBcmpTdFJzTnhaUmI2YkJKQVItZ00weklsbGFjUHZjMjBYZ3JRZ0Fra0p2WGxaUmZsSEFiaEM4STgyYVdmckROYjhZQVZaV2syLWhWZDVSek02c0VXYmlNWEQ3Q29pVTFxamZPOHhZNEF3RnlLdkZXUWp0MDUxYmgzM3hWZkNMMnFhRFY5WGFacDFPMTJENnZLMlFqaUs2TUxpRlh3NVFHQm5Xd9IBwgFBVV95cUxNYkE0Sk56LXdTX3lVcXVLUzhvemhFQ1FsMF9Sb3V0MDIya09odHk5bkhRWWZ0TldiWHlSeFA3N3RnNzB5cERyMW8zTFJhVUYwNmJtTzB2QTFCdS1PQTZiWE1UMGwwVDhra09NSnVpSnhxSE5CY1NPYlQ2cmxvRFRIeUVaYmhpUThzZ3dsdmFud3JaaEhWRlRZRmxpY002TzJVMmIxNnlGU2dtdUdyM2REQ05FLVNPY2MwOVduVTYxRk93dw?oc=5).
 
 ## Requirements
 - Python 3.8
