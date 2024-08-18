@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI’s new voice mode let me talk with my phone, not to it**
+**Kansas school employee locked teen with Down syndrome in closet, storage cage, lawsuit says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEhmODlYdGRkWF9lTDlyRjRnVlZXUklUNzgyS0lfbkRRYmJ4MklSbFIzQk1HclcxZ296RC0xX0k0T2dQUkk0a3I5VFBzdk94eG0tQ2FVRkx2d3Z5STV3NTAyZWtxQnowYXZOX015d2Z1VC1JT0ZGOW9yMTdHTTlWZGUtTlNHYmNXeDQ3Zlh4SmcwdzZKMXd3Zg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2dSeXhrbVFWa3hiam54b0gwenBiZ2ZsMmJSb3F1WS1ZZUxLRmh1Z2NWNlA4MWVJSVBEQ3p6RlE0aGF0NXMwWWJvQmpzbWRKendKd1FpWnVzTmo4NXVUWFgySVFBUDNzT0xlU01jSkVKVTFnOTFVQ3hDWWd1OUdxZ21XWHhSMU1mZkdDVVNKeGU1MWJjSEhwV3liN1h4YmhFMUtIRGVaSGQ5Z9IBrwFBVV95cUxObFJ5TkVvYVlDX0YtYklwX08zc3RGVlhYaGpiWUlZd3JNLXJqbTR2ZDIzaFh3S0R0RFdlWmlzUzN1dy1qVWNPdW1RMUFLdm5UVXFHN0lzSTRVMUVTbXh6UWd5VlVzVzFYQXYtQVhvZlRJam10Ny1tbW1EQzM4clhXNVRxc1lYaFpzTmVxeVFCUUZjWXQ3V0RoV0I2QzNSTUhlQ1ozOW1KSHFiQ1R6VFgw?oc=5).
 
 ## Requirements
 - Python 3.8
