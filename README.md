@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Public Data admits it leaked Social Security numbers in a massive data breach**
+**Kamala Harris proposes ban on ‘price gouging’ on groceries in economic plan: Live**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2RnbHljYldoOFJUVmVxWUhhM0V4czNlQkNNaGRnNXFBaExpQ2x5eE1ORkpHamdFUzVrOXlRaVpQeHdtUndjRnVkT2xsdHFQY0RySWVEaFptTEN4Q1ZUMjk4ZmRQTUg4UHZza01VU084Z1pOZ1o2ZHVFc0xCNXpIQjEwcTZGQUpETFBJcnFycUtqZFB3YXdv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXFNTGMyQU1iTi1qN2wwcm9lVWQtcVl5RVRjUUp3WEZoZUVaM3RmYU41RUlYMDlsTVQzTnVtSmVFQUJBUU10N2NGbFpvWC1DT2VLZ1B4ZktVMk9mUUdoZ0FFYWtnam9lUzF1R01EQndlczlobjF1Ry1vcC1tZW9sa3diUlMzZEFfMTc2NjVHb3phVlNJY3U4VnhoOXJvT1gyNmYzNk5mWTBJUnB6QlZCSTZkSzRSYmFMQnJZcg?oc=5).
 
 ## Requirements
 - Python 3.8
