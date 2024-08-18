@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service**
+**Do not undermine Gaza ceasefire deal, warns Biden**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMy13NExfbEM4Q1F6bUVrM2h2bVo3NXNBWFp6MlJKY3JPdk9ZWEhuSDVFNm8ycUpVYlZFdEtXb3N6cUtyS012MjhKNERyRFhSN0paZ1lwaVgxSEQ0RDRJcFZCQktIdEdHanhQOWR5XzluQm5FNEk1dGFjWVhjVXN5c1hfYnNjc0JaR1MtUEJQdkZvSUx4c1JkMmZib2pZVjFLYWFDVHBqM2NXOXFEdEtEaEc2dHRwZjZfS2NfZA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LZnYxZTBCS0t4S3M0dTJuamFQVkVqeGxwSTdnUHExcHFGZktZV0lsZUpGLVNPSmpxMm1jbXZfM1d6NGZ2ak43MHpkUWVsQzhfNW9CSm5ka1hyd9IBX0FVX3lxTE5BdkoySW5uZWdiQkJVSE91b2dwNXZwOXRvNlM0REZob1g2aUhwcXpsMnRRYURvV1I2VmhtT3hvWGxSVkxmNHBNbkZRQXgzNFlzUXhucGFWZ1ZVbEdFNVEw?oc=5).
 
 ## Requirements
 - Python 3.8
