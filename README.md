@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WATCH: IAF strikes Hezbollah weapons warehouse, military buildings in southern Lebanon**
+**Essay | How on Earth Did NASA Leave Two Astronauts in Space?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wRWFfelFhQkFqNi1YSzZHbVJlVW5mSnJqaHh2T0NEN3RlSFRuLW51SGY0UzdhUDBjTEN0bV9vekY1ODRrNmhQTDlKS051MHM5eE9ycU5iUE5tbFNMZnF3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNamtKalFWY0F3MkZCckdZY0Vsb3ZBNkVGRElEdm9WMVd5TTFIVVlTdVVmZi1GbUZoMkZUR3BhdVFfT3l0VElhLUxtaHBxdzQ4cUZ2RFQ0cFBMbl9SNFVkUVJkLVpFVXR5ZlRFSFp2dDAzdjY0ek13Z205elpReERwZy1RZkRmQTNLMnFXZk8zMXNnOHNERnRjYy1LZk9ZSm9nVjQxYmFVbw?oc=5).
 
 ## Requirements
 - Python 3.8
