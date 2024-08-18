@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida woman convicted of fatally shooting neighbour**
+**Massachusetts to "seize control" of St. Elizabeth's from Steward; deals reached on 4 other hospitals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFcXRpWnRtVW9jd083MWR0cDQtbXR4TzVYTl9GOHMwODl1LXFfMUVVZzBoaDkwa0dUc3pNZExyUVlqcHBrX3A0cHRyRGlBQ0RzeDB2Mk45SWFBQdIBX0FVX3lxTFA2NTFHbW8wTTBfSkdZV2xuM1F3OUtIcDB3Nm5LOWJIMnpILWx1TVdzd3dsRXViRUtMNUZJVzJHUEtrenRaQkZ1OFgzak1kTWdFSFliNnVoaWMtYjBjc1k4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNcDc3TmlLUWxnZjhCWHRXWHY0UXQxZlI2Mm9iQkktbGhvbXNhR202eXhzRkZKOHk0enZ5RjNTNFVGNlhQVFowTEs3dC1sSUZZZF8tUUJ3ZThfaWQ4cEp1ckJqUnozc1VKUElibG5XcHdMeTE0ZURJS1BYdHFCbExWQURJRkZoRnlUQ3FSNEd3U2UzUkdmRHNHM2h5NHpPUdIBowFBVV95cUxObzZ4TzdlR0FrS1BheTNaM2ZUeFlkbzVjYXZ1S1FVYUpSVDBYZHREYmstbDRIMW1qWjJxS0FyaTRxYXFHNzcwQmdCX2t3dVFMeWxCS3NfejdRWE1WTG1HZkZLZDNtdXR6NS1acmdGN2JFRU9oNFVXRHhCSlh1UVVLODNmX1VESlI1eV9JdVA2VWN0LWVDSjVlb0h2SUlFTWdjRk9N?oc=5).
 
 ## Requirements
 - Python 3.8
