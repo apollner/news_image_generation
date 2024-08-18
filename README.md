@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the NY Giants vs. Houston Texans preseason game for free**
+**‘Ketamine Queen’ Jasveen Sangha went on luxurious trip to Japan just days after Matthew Perry died**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFNaOC1yZmJqNXRKN2VYVTBOczJjNG01aEEzNVE2d1plVzEyMk1UcTdMb0dldkllZms0RWVseUNnY3VuaDRpdDlvWDQyUnNRTDVVbFprc1E0SXdRLXFPUXBvMEJFVllob3hoU0JGTnhkRUx5d0ZTRTMyVUtEd2FSbGFJb203WkE4ZmJudEYzN2NES1dMTlNZMHN3X1hOMWh5?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHRNcFZwZ0MzSHAtY2FabGNzaEQ1OFA5dVBxWkR3NmVSR2xnbldKckc2NDNQTmNVYVNyXzRoTkxfbHFWeWppT2hrR3kxUkpWRzlDSjNiUTJBNWw5b3FPRXAzT0VCQzJlb2xYaE16RUd2TTFyTWZlVkVVY1lsTGpVQ3VhOFpJdV9mdDRjVS13aDB3R3RZa1YyTm1hMG9vWWpNOW5GVFV6UmJwdG1uMDRkUllxcDV1OU52VmwxVjJB?oc=5).
 
 ## Requirements
 - Python 3.8
