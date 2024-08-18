@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preseason Week 2 Recap: Immediate fantasy football takeaways from Saturday's games**
+**Hurricane Ernesto makes landfall in Bermuda, weakens to Category 1**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGdyRVBYRWJjNVRFV1c1cWhiV0JPRnIzaDhsSGxqeE9jaGhBSVlyMlJEcnFDREI3M2FwWnFSQUlBeUdDU01ZXzdGZGZ6aEQyTHRXRFMwMnJMRFRLbUtIdEEyZXdNVXo4eTdMeWNLNGZacnpFeWVmeFEtYnZ6Uk5yWGlKUUZrQWR2M0k0OEFBSEdYYkJsNFpCUGszRGx6T1NsSnQ3VDBDSXdyUEhyTmpuSHVKcnIyRXZNbkpXWEhjUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2psUDY5ZllLd1ZJMkxWNDdwbmVOWVlSb0prYVU5azBNcDZMNjctTWswWG5YWW44VXBYeGlvTnRLeVBaMmdyUjBqVHpRaGswQ2FZNnpvTXNCdFduN3lwWXp3eVVOVlVHSFJ3QXhiN1ZTamRCNFRWV3VEWHhlN2VKQ01wUVhJcFJXNE96TEtpU3NtQzhyWkxtZExibEV3WHdyVVQtTmwwY9IBrAFBVV95cUxQYUtfdkRJcUlsVHdvRXBLcmVkVHRSZENNQl9SOFlZVXJibXc5bHBGdWJSeUVrdDVkeXhIRE9aN25ZQXhCV3o3cHZwNFAwUGtlWEdHUmpDYzdwekxtcDFtMHgyWDdXbHlDcDk4QkJ5Mm5uT1NVWDE4RE5JdXoxRjE5NGNDZjRVRV85X2dZekF5cGZMb0hhYmJnQWRvR281Q3BUQU1rcDZPalNwRG1I?oc=5).
 
 ## Requirements
 - Python 3.8
