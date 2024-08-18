@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Looking to Freeze Your Credit After the National Public Data Breach? Here’s How**
+**Israeli strike kills at least 10 in southern Lebanon in one of the deadliest incidents since October 7**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOSXd1eUFIQTlRWTd6Q2l6SDc0TTBTdGNIbVJfVmpqendFQVRTcEhJV1k0bGRxMXhoeDBtWUhha2ZHeUlRNmJLRHkwaE1EMk1jRXFCUzJycm41bUxyR25aMTVkNnNJblBYYUZGUExvUlgya2xPUDVVa3o1Uk5wSXhzRkVHSzRZaDNlU0lvWUpqZnRjckFzekJYVDdIWld4NFVYZXEwcGE3X2ViNTZOYkZuQlNjdktLOFc0UkxPaDE2Q0h0WDVnT0lrem82RQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1pPTTJtMmIzRHR0UFlsRUZTamk4VG56aUJmeWFLem5uSnFfbXZQbGo1dHlFS0RySWJydVZNc0ZHaTI4cF9MLVEzMUhBc2VzZ280X0p3VDJMQkhCaENIWTJSMTRxMzdfY3lKWlVGWHM5R21BekFjY2hhN3JJUWxYLTVSUmg1Z3ZLeGJXOVVBS2F5SFFrcURBZ2d1TWVfUmhx0gGXAUFVX3lxTFBJTE1rcGRGQnhzaGlFM2NCMlBDRWt3bjEtRkNKRHdKQkpMLUVLemVmNENDOXl6SDJzVmZSS3dicDhOM01yTkI1R3Qyd2JPX2NUZDRhUXZuSkxNTWhYNVV1Q3dhb0FaWDg3c3VpSUhVVnFtVVgtLVAzdDRUbmxYeXNiWnhPUnJiYlRrU1Q2TzVNOXZvRzQ2UXc?oc=5).
 
 ## Requirements
 - Python 3.8
