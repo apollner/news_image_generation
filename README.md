@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for August 16 drawing: Jackpot rises to $464 million**
+**WATCH: IAF strikes Hezbollah weapons warehouse, military buildings in southern Lebanon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVU3RlVUaVlqeDl0Z3NoWGEzR0hLZ2FSdTc1VmE1WG1Bb2h6eXJmc240WWI3dDE4Ny1CWUtjaFptWXBFR1NhZXFqRXFoV2thOHhvQkxvbEJiUklYUnNTa2FTTFhhOEQwcFNFU09lSFd2QzN0NXNvdVF6R0dfbEFyY0VGOE5fWnI5S2RNZ2dpdVF5LTRUT2ZlVlBVN3FteUU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wRWFfelFhQkFqNi1YSzZHbVJlVW5mSnJqaHh2T0NEN3RlSFRuLW51SGY0UzdhUDBjTEN0bV9vekY1ODRrNmhQTDlKS051MHM5eE9ycU5iUE5tbFNMZnF3?oc=5).
 
 ## Requirements
 - Python 3.8
