@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Public Data admits it leaked Social Security numbers in a massive data breach**
+**Essay | How on Earth Did NASA Leave Two Astronauts in Space?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQR2RnbHljYldoOFJUVmVxWUhhM0V4czNlQkNNaGRnNXFBaExpQ2x5eE1ORkpHamdFUzVrOXlRaVpQeHdtUndjRnVkT2xsdHFQY0RySWVEaFptTEN4Q1ZUMjk4ZmRQTUg4UHZza01VU084Z1pOZ1o2ZHVFc0xCNXpIQjEwcTZGQUpETFBJcnFycUtqZFB3YXdv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNamtKalFWY0F3MkZCckdZY0Vsb3ZBNkVGRElEdm9WMVd5TTFIVVlTdVVmZi1GbUZoMkZUR3BhdVFfT3l0VElhLUxtaHBxdzQ4cUZ2RFQ0cFBMbl9SNFVkUVJkLVpFVXR5ZlRFSFp2dDAzdjY0ek13Z205elpReERwZy1RZkRmQTNLMnFXZk8zMXNnOHNERnRjYy1LZk9ZSm9nVjQxYmFVbw?oc=5).
 
 ## Requirements
 - Python 3.8
