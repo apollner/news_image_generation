@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris proposes ban on ‘price gouging’ on groceries in economic plan: Live**
+**Mega Millions winning numbers for August 16 drawing: Jackpot rises to $464 million**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXFNTGMyQU1iTi1qN2wwcm9lVWQtcVl5RVRjUUp3WEZoZUVaM3RmYU41RUlYMDlsTVQzTnVtSmVFQUJBUU10N2NGbFpvWC1DT2VLZ1B4ZktVMk9mUUdoZ0FFYWtnam9lUzF1R01EQndlczlobjF1Ry1vcC1tZW9sa3diUlMzZEFfMTc2NjVHb3phVlNJY3U4VnhoOXJvT1gyNmYzNk5mWTBJUnB6QlZCSTZkSzRSYmFMQnJZcg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQYVU3RlVUaVlqeDl0Z3NoWGEzR0hLZ2FSdTc1VmE1WG1Bb2h6eXJmc240WWI3dDE4Ny1CWUtjaFptWXBFR1NhZXFqRXFoV2thOHhvQkxvbEJiUklYUnNTa2FTTFhhOEQwcFNFU09lSFd2QzN0NXNvdVF6R0dfbEFyY0VGOE5fWnI5S2RNZ2dpdVF5LTRUT2ZlVlBVN3FteUU?oc=5).
 
 ## Requirements
 - Python 3.8
