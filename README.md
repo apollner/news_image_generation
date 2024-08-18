@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Preseason Week 2 Recap: Immediate fantasy football takeaways from Saturday's games**
+**Goldman Cuts US Recession Risk Following Retail Sales, Jobs Data**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGdyRVBYRWJjNVRFV1c1cWhiV0JPRnIzaDhsSGxqeE9jaGhBSVlyMlJEcnFDREI3M2FwWnFSQUlBeUdDU01ZXzdGZGZ6aEQyTHRXRFMwMnJMRFRLbUtIdEEyZXdNVXo4eTdMeWNLNGZacnpFeWVmeFEtYnZ6Uk5yWGlKUUZrQWR2M0k0OEFBSEdYYkJsNFpCUGszRGx6T1NsSnQ3VDBDSXdyUEhyTmpuSHVKcnIyRXZNbkpXWEhjUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxONHVrUkktT2ozOHpRZW5XMzhkaU9YRW41V0hSRVFiQlZMaUl0OFJQc19UZ1ZxWktWZDFKN2JUM3hUbU9tLWNHc0laVHRmU215QllVSlQ3WTRYZktXZWhSUnFhWENrYTdSYlg4MlhNd3RqejBqNTZGcTFnTVoxMHBFN1RCSmdoc0R3cHE2LWJVRWdHUlNjZWgyNnRBcV9pSV9LWkcwS1dvX0VlTkdpWFhWQk81SGw?oc=5).
 
 ## Requirements
 - Python 3.8
