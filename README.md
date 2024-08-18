@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 305 predictions -- Dricus du Plessis vs. Israel Adesanya: Fight card, odds, prelims, preview, expert picks**
+**OpenAI’s new voice mode let me talk with my phone, not to it**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPajlZR1ZLNWN1dVBrdHhsMEVmSEdhVkU3Sk5rZy03ZVhhQ25wUXVHb3dnaTZjWXIwMkpiOFRRcG82MTZKSTY2YU85S3g5WWRZaV9BNWtUTXRSSkx5R3hqVnh4YW1Wd1ZLZ2wxQ3RlZTdOYVZ1VUxUVE1JckJ6eVdBckoyejhadTFjQkVzdDlNbkdaVDYxbjVrM0didXp0NVJWcWEyTkNIb1daOE5pVUN1Qms1N3hERkJJTkxCdjhxd3hma3ZpWVdnR3pZWmw5OU5zVXFV0gHYAUFVX3lxTE9rMHk4ZkxqaUZLMkJzSDhFdU42MTVrQjJreVdTdVl6SzhOMzZHelhHc3NpcVNGQWdscHM3NFJ2cU1ySlBaSVhVMEtNcDBMcWY5SUk3WnJ1SkVtb21hZWVsMzJHNGt6VlFKQ3E1SnIzTlpUNF9HOVBrdXdqcXpUTWVqdlJzT3p3Mlk1cEpxOUNXUW5ZWWRrN3Ztb1ptWUMxcTEzclp6d3cwN2lpOTRSQnVHMEtHVjM1aXZGbWdER2xmbFE5Wl9URGRlUXlGNHBuMGlCM3ZDYkJsdA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPcEhmODlYdGRkWF9lTDlyRjRnVlZXUklUNzgyS0lfbkRRYmJ4MklSbFIzQk1HclcxZ296RC0xX0k0T2dQUkk0a3I5VFBzdk94eG0tQ2FVRkx2d3Z5STV3NTAyZWtxQnowYXZOX015d2Z1VC1JT0ZGOW9yMTdHTTlWZGUtTlNHYmNXeDQ3Zlh4SmcwdzZKMXd3Zg?oc=5).
 
 ## Requirements
 - Python 3.8
