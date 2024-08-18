@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Rep. George Santos expected to plead guilty on charges related to campaign fraud**
+**Preseason Week 2 Recap: Immediate fantasy football takeaways from Saturday's games**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSDFuMFRvOHpSSWtUVkpXeUZnWHFuZ2YtX1BkdDVYN0RMVjhBTXlwY3ZDb01fNFhSOGgyQmFRNVVIOG5FZmNfc3hEbXFaUnRteEFLVjdqZ1dHUjB2ZkRJR0VCWGI5V3NwN3dITDNLTWlydjVyOVFPa0lLdGZtOUJmX2ZJRVRDRXdGQmN5a292cnR6ZlRXaUJHSUk0RVFwY1A0WlBVcGUxMmtad9IBVkFVX3lxTE5XLTRfVGx4RGpSLTVOUWdIUUZuVUhOQkxiRGpHYTVKZkdpdExDRnVJVTJ6MWlGTWRsM3d3b0Y2d3NSamhyX19ZRGtWdEFaZWVLNTlrSGxR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGdyRVBYRWJjNVRFV1c1cWhiV0JPRnIzaDhsSGxqeE9jaGhBSVlyMlJEcnFDREI3M2FwWnFSQUlBeUdDU01ZXzdGZGZ6aEQyTHRXRFMwMnJMRFRLbUtIdEEyZXdNVXo4eTdMeWNLNGZacnpFeWVmeFEtYnZ6Uk5yWGlKUUZrQWR2M0k0OEFBSEdYYkJsNFpCUGszRGx6T1NsSnQ3VDBDSXdyUEhyTmpuSHVKcnIyRXZNbkpXWEhjUQ?oc=5).
 
 ## Requirements
 - Python 3.8
