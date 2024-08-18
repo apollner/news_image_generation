@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 17 Palestinians killed in Israeli strike in central Gaza, health officials say**
+**How to watch the NY Giants vs. Houston Texans preseason game for free**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXF2TTRZMG1kUVFQRlpGX19fbG1RSkJ2MU54aTQ3YWxkT0tiaE1Ob0dxWFV0MFlZanRmT0tKQWZHQVhLeGprUDVDZVhuV0kzTnUyN2xhNjI3S3NRbFJWakdDM216YUZnVVNBNkRmTmZ0OFA1SHp0QVV5OVJVQVRJaDd4cV9kQThjdzE2Zmk3ejIzWHVfYU1id3JGek42NXFsRVFBNEpoZWp0aEpETThrRG13dGc3RHhrdld4VEtnUjkxVWtveGU3cFZIQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUFNaOC1yZmJqNXRKN2VYVTBOczJjNG01aEEzNVE2d1plVzEyMk1UcTdMb0dldkllZms0RWVseUNnY3VuaDRpdDlvWDQyUnNRTDVVbFprc1E0SXdRLXFPUXBvMEJFVllob3hoU0JGTnhkRUx5d0ZTRTMyVUtEd2FSbGFJb203WkE4ZmJudEYzN2NES1dMTlNZMHN3X1hOMWh5?oc=5).
 
 ## Requirements
 - Python 3.8
