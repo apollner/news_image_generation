@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024-25 NBA schedule: Which teams have most nationally televised games, and the reasoning behind it**
+**Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxQOEVWa1c5d2tPb1JSMHNhR0pObDdHd2tlVEd3cHJfYXdrSnpINzRMLXBqRy1jRWc1OEpuWmZLRnpaWm41QkxacFQ4OVI5NXRRaGZ2OTZLczJWODRrOWJzYkMxQ3pFd3FwTU1Wb251bUloRFZ3dEJfUlo5TkoxUlJseDJOXzVUYjJZZmxqeUk3djZFQ0JEOXFIS0g0OWlQZGtjMkVZRkpjMVM0QmJjQUNjZFpOT0tLZENWc1JCY09SWWZuOXJra2lKU0RlU2gwZ9IB0wFBVV95cUxPQXpzejU5RGEtZTByaklMRlpNclNjQ0ROdXJBbTVXUjc1OWxkUE1PLUs0Tmd1QmRCQ25WMkNIU1V1VTdmUjN3MHZUbFNxNGJIWnJRSjlyT3F5QkVZbXhSd2ZhZG0yOHJrNDVRVHFwaDhIbXZhaktTX3BPNHZHQTZTbUh6em15S3J0aDZuMXpNX3FNQk8xZzBVYVA0bXIxRjJzeHY2c2w5ODFCQWpvN09EZ3pmWkhpS2pYZ3lDdEh0UHVqUGFILTNFbEtIaHlibmdhejdn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQMy13NExfbEM4Q1F6bUVrM2h2bVo3NXNBWFp6MlJKY3JPdk9ZWEhuSDVFNm8ycUpVYlZFdEtXb3N6cUtyS012MjhKNERyRFhSN0paZ1lwaVgxSEQ0RDRJcFZCQktIdEdHanhQOWR5XzluQm5FNEk1dGFjWVhjVXN5c1hfYnNjc0JaR1MtUEJQdkZvSUx4c1JkMmZib2pZVjFLYWFDVHBqM2NXOXFEdEtEaEc2dHRwZjZfS2NfZA?oc=5).
 
 ## Requirements
 - Python 3.8
