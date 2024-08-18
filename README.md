@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pain-free smear tests to be rolled out in US in WEEKS - and it's hoped they will slash cervical cancers**
+**Trump Says Civilian Award Is ‘Much Better’ Than Medal of Honor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQUDZFbGRJdHZ2UVVvZFYyZVFBcmpTdFJzTnhaUmI2YkJKQVItZ00weklsbGFjUHZjMjBYZ3JRZ0Fra0p2WGxaUmZsSEFiaEM4STgyYVdmckROYjhZQVZaV2syLWhWZDVSek02c0VXYmlNWEQ3Q29pVTFxamZPOHhZNEF3RnlLdkZXUWp0MDUxYmgzM3hWZkNMMnFhRFY5WGFacDFPMTJENnZLMlFqaUs2TUxpRlh3NVFHQm5Xd9IBwgFBVV95cUxNYkE0Sk56LXdTX3lVcXVLUzhvemhFQ1FsMF9Sb3V0MDIya09odHk5bkhRWWZ0TldiWHlSeFA3N3RnNzB5cERyMW8zTFJhVUYwNmJtTzB2QTFCdS1PQTZiWE1UMGwwVDhra09NSnVpSnhxSE5CY1NPYlQ2cmxvRFRIeUVaYmhpUThzZ3dsdmFud3JaaEhWRlRZRmxpY002TzJVMmIxNnlGU2dtdUdyM2REQ05FLVNPY2MwOVduVTYxRk93dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPM0ZfS1NjeEhoWDNjM0FCREZ1UEJjbUNBNk1TMEZGMXRVYzljb0QtRURFMUJ6TlVIV1p2RGk2cXpkNjFVbm9OUXgydWttZFVRbnVaaTF4bVJkcl95LWZ1VGNrdk4yZWdrbVQ3eFY3bUw2VDFwWEk5SlRfQWFrc09hUzUtTEdleHZqUzY2WGZsWVQ?oc=5).
 
 ## Requirements
 - Python 3.8
