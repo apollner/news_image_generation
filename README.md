@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stranded in Space? NASA Doesn’t See the Starliner Astronauts That Way.**
+**Trans teens file lawsuit challenging New Hampshire law banning them from girls’ sports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXlaWTJIRjc1RHZEaFo4QzZnYzVSRDVsbDVtRVhyMVg0NGlGSzk0dXFIX29fdnBxTkMyZ2hJRHd2WTVhNTFvOXdNVkVWdzhhbTRpZHdkWWRlMHA1U1FTMXJIdFJnajZvZnVqS24yY09tT3ZYbGF3TGRHZGY0OWxadXhfUl9WYjA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX3ZaYVgzY2xwSWh2TGVOaEphRmJrYm03TkMzUG9uYmd2MUdlWm5IZkxyU2M4RVlFLWtiN05LbXJNekRDaElVeHVZcXJJTHhIUlYxWFdTUXRmd0w1UXRwS0VMMWk1SGpjUFp5dnExdXN0akpxWjRIb2FaUFQ1MzBwR1JfLWtSdXZ4c1drdVY1NXlONnh1QlNEekNhaUxHUElpOFpNTC02dldFWjE0MzdkTUVZazFlTjJxbC1qOEJfUnFXcndXc2Y3QnkwdzFBNFRY?oc=5).
 
 ## Requirements
 - Python 3.8
