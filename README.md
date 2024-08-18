@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris surges with Black voters in key battleground states but gaps remain**
+**Stranded in Space? NASA Doesn’t See the Starliner Astronauts That Way.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTW1qOFJHUWpCVEJuRExKbGxSYkQ2MkhGdHBSR1hwMnJTXzVnWDVxeERRczQxYjNpa0UwMnlVS0d4Y1hhNjVucFpnRzNMcC1VaktFZXByOHlIdW9zRXRkSWxRTzVTTmtvc2ZUQno4cDhCRHQ3TzZyQUtvLV9yTkdRdHduWHk1cElmRE1TZnFndmg5MXJOU1lGZzJ5UTNRSzd4anJXeGFfSnpiWHNSY0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXlaWTJIRjc1RHZEaFo4QzZnYzVSRDVsbDVtRVhyMVg0NGlGSzk0dXFIX29fdnBxTkMyZ2hJRHd2WTVhNTFvOXdNVkVWdzhhbTRpZHdkWWRlMHA1U1FTMXJIdFJnajZvZnVqS24yY09tT3ZYbGF3TGRHZGY0OWxadXhfUl9WYjA?oc=5).
 
 ## Requirements
 - Python 3.8
