@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers' offense struggles under Russell Wilson, Justin Fields**
+**‘Crazy’ Robert De Niro leaps off a yacht on his 81st birthday in daughter Drena’s tribute**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV250VUVUS0JnRTNxSHplMVNJY2taSTV2ajRLbDIyNThOMTllYkJJTWlsejh4emdXWEF0TlVzWFhhMUN4TzlWSV9RTGFqamQ3d1BxYlRUMFhCM0R3eUNvSTdkTjdPM2w4YS1lM1lfWWhTUldoXzdTV2pmRWtZQmk1Q2NobUphZlhsMWxfWEpDN3M5aU5pY3YwY2JMX2xBWmxmY2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPQUx4NWpTd1RqdEhBRWg1MHBsMktHbVBJUGpFS3Z0TWdNU2ZFR3RLZno2Y1RpMVRyd3ZNalcxbGU1cHV1WGNsa1hjMmljX2VZVldzZGtfVGRRVE5IRlZ1blMtMHdlZ2YzOW4xbmx3NElFT3A2cWlHMWF2WGdqQks2b0RuMldlenJEZHZDTkNUWW56czRzaG9uVVBFTjdtZw?oc=5).
 
 ## Requirements
 - Python 3.8
