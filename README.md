@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3,000 evacuated from Russia's Kursk region as Ukrainian incursion continues**
+**Some India doctors stay off job after strike over colleague's rape and murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzlfc3FaTm9jamgzXzlwS2Fia2ZNcUZYOE9Jc0FaMkFQVC1iVkdGZXNaY1RVU3JmV1pWdnoydThvM1VBWHVfWDAyakNjeF9PT0NkbG5DTjR6SWV4SVEzcndrVmxzdVh4QUhoMm1pNzVrX0taWHBtNXJrRzlUbEV0UzdaN2hPNFpvUlFOVTVwQ1lGYzBZNGNuX2t6bGh3TTNBX3ZTYlltOHVVNVd2T3ZnblRGMmg1UG9vUHk0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXRqLXR6U01peDY0QkF1czI0c0ljcUVuLWYyZTE0eU1lRXdremxEVmRsRS1IQ0dLTGJIRW9uSkVGQi1ldU1jMFFYcEU3WmllajEtc0JYakJnbFdSWTR6bzJXRkxsX2JjenRGZ3dtYm11Z0V3YzRSbVBIM3pIbE1tUmUwLWczRjVLSDU4QnpOc0ZnelVOanA0UjZuQ21td1lEQTQtQmUzZw?oc=5).
 
 ## Requirements
 - Python 3.8
