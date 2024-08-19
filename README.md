@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Face the Nation: Beshear, Goolsbee, Milgram**
+**As Blinken arrives in Israel, Netanyahu vows to stick to demands on hostage talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2pjbWhGTElsTnV3mAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU9XOER4bDlnRlFiVnJmbkZta094WXJvVTFOS1JTREhISkJOUzdVUDZqZWs2ZmtwWENnbmh1Zmx6RGFDUXhwRUpTU3Z6ZDdMUFRWQjZ4WUFhSHpPNkw1VGFUNkRLUFZkTWlwR2Q0MGkwMWdpR2RuSEl0SGZ1bERQdG1oSFZVNE1UTDVCTjh3aVZSQ2NMMGpON3lybmJ0YkZORmJyUHVfYm03NDlVeTlYTFVn0gG3AUFVX3lxTFBOSm05TGZqZ0FGRXZnbmNJdWpMX0Y0eXhoenhKLTZiOTVDZ0NOelAxZGZlQm91RlVfWXRLall6ekxmeGI0cVI3MERXREpTaER5OTl5STZYaV9fb2JyTndMdXhHR0ttLUZ0d0EtUWRfVmdQYzV6OGNVdjVzUG8wYjJGZG10cDlGT3ZCblJWdmdPRnBmTGxGd1JES2pxeW1nMEV4d2hOZzdVS3R4V1k1b21ZWmd6QUNzWQ?oc=5).
 
 ## Requirements
 - Python 3.8
