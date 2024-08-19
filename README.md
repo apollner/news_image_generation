@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders tab Minshew to start at QB in Week 1**
+**‘Resurrected’ Democrats look toward 2024 convention with renewed hope**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE9VbXdvSEN0VWdFN0dkS3k5QkZFT01VUnBfUHB1YVJwYkNMY2VaZ0JNanB3QnNES2ZBWm1WU1ZZNXd5X0h6eGVpMndtUW1yelQzTGZKVGZpYUxoazlnYmNhVVB2NjlNRFdtdTJMUnpFeXdaV3NicEVCZEVtZEx1blBwc1NlbDNqR185SnpkUTZWcXAtSHpr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm9IUzlFRXpBd3ZlTjB6SDFUSEZRRlRPQVVzaFpBc3ZuR2hGYkpVYlVFa0lxUTEwaTR3OFIxcXpOamZYLTJpaENfanBMbTQ4a0VLVmVLQVMxb2kyckxDQXBjMndpbXNlaDBGV2YzLWZWRDV2NzFYMTlXdDIwbjc2bFllVVFuZEc4UmYxbkdKWHp2VDB6SG8xMnRn?oc=5).
 
 ## Requirements
 - Python 3.8
