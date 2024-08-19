@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19’s summer surge shows no signs of slowing down**
+**Paetongtarn Shinawatra becomes Thai prime minister after royal signoff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE1WR0tlTnRYbHFPNHNfNWM5NUFTelN3aTBEY2N2NFNvdkczNXU0Ni1aaTZ2c05uYU14a0d0MU1ZTzFXYXNQd3hWWlhVX2VIaFZSUGRVa2YtTHpLLTRwY1JJTHdwQWlFc2lHUDB3b1l2QdIBdEFVX3lxTFBQMlFEaHBlSEE3NXZJd3FoR2RRSUppRjFlcWttRWdvQm10NU1laU5jTzg3anY3TGIxRGVBV05WYkV3b3czOW1CWDYzNFRLYTRCT2xwanp2Y2dFWURDWWNKa2ltMVE2N0hXTURGQVd1RTV1Y1VV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVhfSHBPY0EtQWJMNHpyMEtUSHFGNk42Z1ZVckRYd2hwaGZHMW4tSzVqd0NIWHpIUTJJQk5hbk1Kamd3SnIydERpWUZ0ZWxkNnJoR1JBQ2I5bWpKSFlEYUdKaVozM0xQcXFfRWw2ai1oUjY0ZlkwWDFuZmI0RWZRS1NwTVVBX0hvQ0I5bXM2RUpqai1kYURVVXlMNXV4QmVqNFB2UU1HQzlaZjNLN01hdzZuRkM3SzA?oc=5).
 
 ## Requirements
 - Python 3.8
