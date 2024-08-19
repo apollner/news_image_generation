@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves $30 at-home syphilis test in US as cases see disturbing spike: report**
+**Israeli strike kills at least 17 Palestinians in central Gaza, health officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXY3cXpjM1U2cS1yQ2plS3BYWkYwMEJNaDFOOW1RNzhVUXZZS3hscnRoNlhDeTRIdkV2YkpOT1NFR1FjbWVCWXh2MTFvSHk4dVNLXzNiY2dDaWV2VmdVMTBmajQ3Q0hGem50dGo1UXFHQTJPbEdDVmpub2lnZkF6ZXhSVHQ1aE8wRDZTaERuS1ZsTzVqYmhPNURzeW1meXZjdzlqZUVjOXlyV1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXF2TTRZMG1kUVFQRlpGX19fbG1RSkJ2MU54aTQ3YWxkT0tiaE1Ob0dxWFV0MFlZanRmT0tKQWZHQVhLeGprUDVDZVhuV0kzTnUyN2xhNjI3S3NRbFJWakdDM216YUZnVVNBNkRmTmZ0OFA1SHp0QVV5OVJVQVRJaDd4cV9kQThjdzE2Zmk3ejIzWHVfYU1id3JGek42NXFsRVFBNEpoZWp0aEpETThrRG13dGc3RHhrdld4VEtnUjkxVWtveGU3cFZIQQ?oc=5).
 
 ## Requirements
 - Python 3.8
