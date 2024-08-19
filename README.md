@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Russia looked the wrong way as Ukraine invaded**
+**Video: Patrick Mahomes Completes Behind-the-Back Pass to Travis Kelce, Stuns NFL Fans**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNRUpVVjlqckdRN0g4UW0wZlIxd3NiVVJMQ01PdmVicnk4azUtZ0ZseV9ydUpCZ2x4eTNtOWhPQ0xEWktjcHN6WWlfTFlXalF3dFJiNnQzSzMwRkljVHlFWHdpZ0Jmcm9IQ1A2RXlCUUpleUdGc3RkWTV0V0o5dU1oamhhWXRnajFJLUhaVmFMRXh3M3FSeVdz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1JYTF9RSDlOblFjN0pqemtkTGltRjI5U2RyWThKTXN4V1dSci1pbTMzS3lPd1NpdXpjRzhnbW5RRU5BM2tISC1zUFhvZGloVFppbkZSRkw0ZHBWelY3U1MzWjM3Q0V5aktOdmMtc1FOTER2Tnpwa25VdE9pZHJEdDlLWXNpZnI3cS1mMS04YUJQT25ZT3l6MnNwY1VSaG00UTdvVENydFNueHJKUHNQMVI3bW5YRVhyTXFNcWJtR0d6QUFMYzJn0gHcAUFVX3lxTE90YmNOUGFiN2NwYlhyZE96Y3J1TzNNR1pJdTJKY2VObWI2THdZUi0xRFR1X0N1X19SMW9CbW1XcUc5VExjclFKMExKeHc5Y3M1ZEN6X1RHdnFQOHQ4VXJyTTBHZ2d5a1V1cHNuLXRvQW0yZDRfMm1zRUpfb1ZPWEtaM2dXVFQ3a2haWHozZ29FekxDWXFzYU1WUXFTXzBMWE9fRmtKMElEc01EV1pMa2xpZzRLRlV0cTE3bVNoQVkxaml2WmpSaEg0bVRRdFNUS3BpdzFZZ3NuZ0ZlcFE?oc=5).
 
 ## Requirements
 - Python 3.8
