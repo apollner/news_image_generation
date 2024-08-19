@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign reset goes awry in Pennsylvania as he attacks Harris | US elections 2024**
+**Google Pixel 9 series hot take - GSMArena.com news**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3JEMmNZRmRmdmJSRWpmTGhaR0F4dTAtZlVhelV1dmhHRk9yN1M1RVp6TS13N2lRRjd1REJ4d2xaRTRjU2NnOExxM3YwVG1KNVJfcC1Lb2gyemxSemtYM0RVSXZiWWhIaWdZT0p0OVJWNWFORlBIdmVkSEhHcXZHazhuZWhERzQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE54enN4U2p2QlhJWndUYnMtNjhkdDdvZHlYamZJWUNpTl9YQVA5ODk4U3BXR1hsS3VOczAtckM1OEpodFhBaU51czhNUXhGQVFFV2xMdkNic2tWeVFzc0Z1VUJ1RUhkM2FGZ3hhUnNZYllTc0VITjQxRmlB0gF2QVVfeXFMTjBOS1RFaWpPYjI2d1RBeHRVWGYtd0NsU3lXZmE0N1VUakFHR3pPM3B6MFU2RktKMnJBSFUzc1MycjRXYnlwSl9waV9KZkl5OVd0VmZpWXIyazg1MjlSMnlwS2Yzd25DMXJScS1adFNNbGNQZFhGdw?oc=5).
 
 ## Requirements
 - Python 3.8
