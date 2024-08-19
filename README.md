@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some India doctors stay off job after strike over colleague's rape and murder**
+**Donald Trump: ‘I’m Better Looking than Kamala’ and Don’t Say I Ramble**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZXRqLXR6U01peDY0QkF1czI0c0ljcUVuLWYyZTE0eU1lRXdremxEVmRsRS1IQ0dLTGJIRW9uSkVGQi1ldU1jMFFYcEU3WmllajEtc0JYakJnbFdSWTR6bzJXRkxsX2JjenRGZ3dtYm11Z0V3YzRSbVBIM3pIbE1tUmUwLWczRjVLSDU4QnpOc0ZnelVOanA0UjZuQ21td1lEQTQtQmUzZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNTlFkcERUTnlyVGhiS3FQMk1FVXNJTFQtMHlJWng4OFU3VWxEcUxLLVdVVFBHYVpjRG5VZlNWeDlyUFpTeHhlMTBMZS1zdEZWX2dBSFhHZkk5ZkJ4eEVJUzkwRUNiYXp3Mjdhd0hNdmF0UmZIWktYVnZ1dWp6OFZYcHVuMVdxTUNTeFJzZjFmbEcwMGZiZjZ4QUJR?oc=5).
 
 ## Requirements
 - Python 3.8
