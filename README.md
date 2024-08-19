@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign reset goes awry in Pennsylvania as he attacks Harris | US elections 2024**
+**National Public Data confirms massive data breach included Social Security numbers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3JEMmNZRmRmdmJSRWpmTGhaR0F4dTAtZlVhelV1dmhHRk9yN1M1RVp6TS13N2lRRjd1REJ4d2xaRTRjU2NnOExxM3YwVG1KNVJfcC1Lb2gyemxSemtYM0RVSXZiWWhIaWdZT0p0OVJWNWFORlBIdmVkSEhHcXZHazhuZWhERzQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZVRWV3R2xKM1ZHVTJaZHA3MVY0QWc2WVZSZmc5QU9NU3lPa2gzUGp5NXQ2TlNkQlpCRnFVYlRfV25rSzhMQUUxWlVGZzQxYWlfeHppLWJTQmg1cjZleUdJeFFnMFVqVFdTN0ZfWlJlaG4wSVJqbXctQTNQNHJxbWZfZjNQd0l5TDBqZGozNkRJNUdSSXJPV2JrZDN3Q2gxZ2tucERWZ0hITkk5aFVv?oc=5).
 
 ## Requirements
 - Python 3.8
