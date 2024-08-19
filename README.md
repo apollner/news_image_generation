@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of activists expected in Chicago for Democratic convention to call for Gaza ceasefire**
+**Antony Blinken heads to Israel for Gaza ceasefire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3VSQllBYngtSWVXa3dLSEJ1SWgtZkVUNkZleXR2d0ltMF9TVjlic19yNVBZQWpfSDgzNkJMd0dBNEN0a3ItZEJiTW9uX3J5SEZObmNnNmRpSmpIbVNTQ1JuX3BKT1JLTC02eDRIaWRmdVdtUlBIUDc1R0kxb0ZKVnJqeTNDN2tRLWVqU08yS1p4T2tzNGh6ajlwOU84aFFEbHFBNnZFeGJ5UVk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pM1cxMVhyenlVSDhEcXZJWW8zN2daMVJEV0ZXOERXeXVvVWFVTUpBTjNLN2VSRm9FMExGY0tRWXhFYUpaN1h1UlcyWGVHMGxpdW1jLWFEYzFJZ9IBX0FVX3lxTFBLbDAxUDVuVXBocDBKTnFvcXhfUXNtcFdBRjBsNjlUWnF0SGE2LUtsRGp2OTlFWFFIZG5JQnpGQWpvSVppTy01YVVHUDZsbXdDQTNrZGxkaC1TYkRQcjU0?oc=5).
 
 ## Requirements
 - Python 3.8
