@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First permitted protest to begin in the Loop on eve of Democratic Convention, closures in place**
+**'Slapped Cheek Virus' On The Rise In US. All About Parvovirus B19**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTmZvMG1KcldoVDNOT0txUUlhNHJmSnBXOExZcTJtVDFpS3FhREtzNE1VR1NRR2R0VHdnY1FkeHo3ZGpjSGdaYVM2S0VKclE2UWxzOVIzVWplNWwwd05MZDRzQXBjQ2g4R3pySHF2bkR2aUMxek53M2tuY0pTekN2SzVxUWdnUEJkYmdlektvekFwa05lSFJJQUZWOFhzYTIyRmpzU1lUQUdnRnZVb0pXMDdVVERwZE1scG5neHBtOFFpcTZWNTdSNG5zSEY4cmo5NF9HdGNDWnh5S2NWems4NFZ0VQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXdHZjctejVtWTdmcnMzbHFhdHN6YWloVDhUUG41MUpDRlZKY0hOYV9qTWhqY2FoVWtGZGlRY2ZlQ2hTV3N0NTc3Vl9JQ281aUtONGlTdVp4eWt2QTc2cC1RYjdxSkh0YU10UFUtMUl6bnhqMTgxalVGUGZiaGtXeEo1VGtnU2VyN1h1RWN2aGRoUFJUSWd6TC1TR0VSNmVWTlN0U9IBrAFBVV95cUxPXzZlcW5xYkRuTElaRXE3LTdsNkZlWnNLd2hYTU56bWFKZDJlUE1USV85d0hnOHVtMXBUVmlLSHNoZXRCTHNCLU5vb3VxcWxLdnVMVEhWNVFMbkZHdW1YYkJjbzFqckNjSE8tU1oyTVk1X2l5MDBtd0xKUkZZU29vVjB3R0cwMlRSamIzdmxOQ2xqWkdoYVYwUEk4RHp5R29ERVpWcTI0MW5RT0ZL?oc=5).
 
 ## Requirements
 - Python 3.8
