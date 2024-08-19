@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos expected to plead guilty in federal fraud case in New York**
+**Hurricane Ernesto weakens into tropical storm as it moves away from Bermuda over open waters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXVRQzVpcmtFRUVTbVUzeGtPM1A1SVF2MENFYXhGQ2xWcGZJb3g4NmQ0cG1XaEp3WXJqMHh2eUJUVVVEYXJ2WGZ0NllfX1JsQk9jQTI3VUpGdzdJaW1PdGpmd2NHd0ZKeWdjcWRiTXl1SkpfUVRlbWxyWEpmejBCMm9n0gGHAUFVX3lxTFBpUDlGSExocWxtOXlJQUNWYnY3OFFuemkxOHEtUDZNLWVVRUxMVFE2NnNXY215OXhwM1pwOVAxeUVOOUdXQVg5QmVpU1ZVR3daUEhwRzFlbG9HT3VUS3RlUEI4LThuTFh4eW02VnczekxOTzFZNzFfQ2pBY0U1UUVDdXM0dWNacw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ3Q3cUYwQ24tai1BUzZKRTd5M2c0emVDOE8ydTVTekJTVHQxUmM0YUJRUzJ6a1NJVENsdkwwbmJ1VlN3NXJGamI4V3F5bEJlSGdDN0JjZWpqcVFJVnNKdnoxMlZWLVllQVp2QUZJVnN0YXNJdzBEY2IxbTVxclhFMURLelZZMTdoVHFWa3NB?oc=5).
 
 ## Requirements
 - Python 3.8
