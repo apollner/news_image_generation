@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 series hot take - GSMArena.com news**
+**George Santos expected to plead guilty in federal fraud case in New York**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE54enN4U2p2QlhJWndUYnMtNjhkdDdvZHlYamZJWUNpTl9YQVA5ODk4U3BXR1hsS3VOczAtckM1OEpodFhBaU51czhNUXhGQVFFV2xMdkNic2tWeVFzc0Z1VUJ1RUhkM2FGZ3hhUnNZYllTc0VITjQxRmlB0gF2QVVfeXFMTjBOS1RFaWpPYjI2d1RBeHRVWGYtd0NsU3lXZmE0N1VUakFHR3pPM3B6MFU2RktKMnJBSFUzc1MycjRXYnlwSl9waV9KZkl5OVd0VmZpWXIyazg1MjlSMnlwS2Yzd25DMXJScS1adFNNbGNQZFhGdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXVRQzVpcmtFRUVTbVUzeGtPM1A1SVF2MENFYXhGQ2xWcGZJb3g4NmQ0cG1XaEp3WXJqMHh2eUJUVVVEYXJ2WGZ0NllfX1JsQk9jQTI3VUpGdzdJaW1PdGpmd2NHd0ZKeWdjcWRiTXl1SkpfUVRlbWxyWEpmejBCMm9n0gGHAUFVX3lxTFBpUDlGSExocWxtOXlJQUNWYnY3OFFuemkxOHEtUDZNLWVVRUxMVFE2NnNXY215OXhwM1pwOVAxeUVOOUdXQVg5QmVpU1ZVR3daUEhwRzFlbG9HT3VUS3RlUEI4LThuTFh4eW02VnczekxOTzFZNzFfQ2pBY0U1UUVDdXM0dWNacw?oc=5).
 
 ## Requirements
 - Python 3.8
