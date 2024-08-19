@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken heads to Israel for 9th time since Oct. 7, hoping to close hostage-truce deal**
+**3,000 evacuated from Russia's Kursk region as Ukrainian incursion continues**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxNRnNPMTEzR3lwbjRwQVdxNnhSaUkzS2luaEZKcnNhUnlBbDBoVmREc1BycjBIdUNwNTk1Nksxb1MyMzJmVnR3TW14YTE4MVlVM28wc090UVY3Y1MxM3A2YkN3T3BzdGpjWHRnVFpMZWpzTzRvT3NWU3hxV2poeVo2RHNmbDc0SkNQbE1uSnFhUkhkV2RJYmlqcVcyRGxoM09sQUxTMnZxbldxSlQwbjNWeWp0M03SAboBQVVfeXFMTXAxeVJVOUUydzIyQXFmT0xMUG5mamJWeHRWY2lUSk1iQ01hNmR0ZUM2anJUMGJ0ZnVsQXh3OUpjTkt3NndMR3ppODQ4LXJZcjVPdE5BeEp1NG5xRHIyVDJWSVd2c1JVVmpwbVplRFR6STVXUjAtY3lQNVJsa0ZUbDBoWHRSV1FOQkdYM09CU3BZa2o5aVhFR2RJZWpCTjZmMHYzZGhDNnRaeVI5ckswWkhZYWJkc1dGekdB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzlfc3FaTm9jamgzXzlwS2Fia2ZNcUZYOE9Jc0FaMkFQVC1iVkdGZXNaY1RVU3JmV1pWdnoydThvM1VBWHVfWDAyakNjeF9PT0NkbG5DTjR6SWV4SVEzcndrVmxzdVh4QUhoMm1pNzVrX0taWHBtNXJrRzlUbEV0UzdaN2hPNFpvUlFOVTVwQ1lGYzBZNGNuX2t6bGh3TTNBX3ZTYlltOHVVNVd2T3ZnblRGMmg1UG9vUHk0?oc=5).
 
 ## Requirements
 - Python 3.8
