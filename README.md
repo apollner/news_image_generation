@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats on defensive after Kamala Harris’s economic plans poorly received**
+**iPhone 16 Pro’s new color could be called ‘Desert Titanium’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTjNvSndRd1dYWjNxQ1hOT3NzMFpMUXFEUUZvMWJncm9KTmVvYmQwNlhkWTc3ZGt4eHFtNkt2ZkduYXc3bnY5WmZ6LXgzdG9DalhXSm15V2FnMzUxb091MU9Ma3I2b3B4WlZfV01Xcm4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkcktLWU9BdnVuWDFSdFhXaThEQnhXay1ueGRYREhMWVJFZF9nOFNOU2ItY3ZMR3U0akZFaDU5VDVIZ0tQQk9BUXFFSVdyNTdmaFNQSjRiSmpxT00zQzFoaVNTcm8?oc=5).
 
 ## Requirements
 - Python 3.8
