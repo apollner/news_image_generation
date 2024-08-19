@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes throws behind-the-back pass to Travis Kelce in preseason loss**
+**Dricus Du Plessis Beat Israel Adesanya Physically and Mentally at UFC 305**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOMVlmTk1DWEJJcU9yY0I5b2Y2al90RWpGTUVyUl9Ddy13dG0zamxGMHhXQ1NoQUlReW1BMGlyODlneHBib3pXX0xta050bjdjVkxqbGJSQzVmYUt2R2RjaGlZWjRndkpaekJVOE95Wk45cDRJMWx4SDdmUjVpWGl1MmpMQ0kwMXpGR1FIYlQ5SEpPVlVnb0FGa1lnUkdCUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2Rud1pGNmMtVVhMMUl0cHJfOWcwcVNpX0tjV0VkRGtvb1I1RTAzTzV1OXR1YXUzOXdhMGdkdUJ2ajdGWGRwZEVWMkdWYzlRNG9sVkRRR3VDdjdWUy13Y2tROUsxZE5ZRGtQZW54aGxFQW9LclZzLUdtTkdXT2lkRUg3c0I5cjVwaWZwb0JYUTFBNU9jaEcydXBQdzM1N0dSOTUxQUJ0WmFaVjlka1pTYnVhRkdHS1B1OEHSAc8BQVVfeXFMT3NYVW1OVFRNa2hXaTJlQVk4TGh4SV9UX1hVdnJ5aUZTRzBmclJKWms5SDBlbUxreHpHVHpIbThJN0U0ZEUtT21aSDdjTUFtNEMtZXJKaFNETTFKSkh3cUdrVWZRM1pLQ1dTVWpEblU3dDNpdDRaNjBlamhzTjR5MWY3aW5xc245SzBJUzFMX0xTa1NWUk05bXBIRjd3VGlXMlVzT3R1T3A5RGQzOGMySkR6cDc0Zkg0RHFiWGo1bWJJdURkTnU5RGswUlBmX1BJ?oc=5).
 
 ## Requirements
 - Python 3.8
