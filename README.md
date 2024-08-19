@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mahomes pulls off behind-the-back pass to Kelce**
+**FDA approves $30 at-home syphilis test in US as cases see disturbing spike: report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQR1BBektocUYzamRReWVvUnZXRWdUZ0ZQRWtIci1tVWlqRFRrQW1mLVhZTDBwSE12dVhrM0M5S3BKd0pyYUZ3eGdFRV9JZmtEbm01aGxZOWVVMkJFMUFVaHpuWUxYWDdNX1BqazBUczdNMWlIRkJtMDBhOXduMVFEMEpGcFJrNFlxTDdXQk5Fd2VGQU0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXY3cXpjM1U2cS1yQ2plS3BYWkYwMEJNaDFOOW1RNzhVUXZZS3hscnRoNlhDeTRIdkV2YkpOT1NFR1FjbWVCWXh2MTFvSHk4dVNLXzNiY2dDaWV2VmdVMTBmajQ3Q0hGem50dGo1UXFHQTJPbEdDVmpub2lnZkF6ZXhSVHQ1aE8wRDZTaERuS1ZsTzVqYmhPNURzeW1meXZjdzlqZUVjOXlyV1E?oc=5).
 
 ## Requirements
 - Python 3.8
