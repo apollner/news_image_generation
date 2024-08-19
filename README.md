@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paetongtarn Shinawatra becomes Thai prime minister after royal signoff**
+**George Santos expected to plead guilty in federal fraud case in New York**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVhfSHBPY0EtQWJMNHpyMEtUSHFGNk42Z1ZVckRYd2hwaGZHMW4tSzVqd0NIWHpIUTJJQk5hbk1Kamd3SnIydERpWUZ0ZWxkNnJoR1JBQ2I5bWpKSFlEYUdKaVozM0xQcXFfRWw2ai1oUjY0ZlkwWDFuZmI0RWZRS1NwTVVBX0hvQ0I5bXM2RUpqai1kYURVVXlMNXV4QmVqNFB2UU1HQzlaZjNLN01hdzZuRkM3SzA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXVRQzVpcmtFRUVTbVUzeGtPM1A1SVF2MENFYXhGQ2xWcGZJb3g4NmQ0cG1XaEp3WXJqMHh2eUJUVVVEYXJ2WGZ0NllfX1JsQk9jQTI3VUpGdzdJaW1PdGpmd2NHd0ZKeWdjcWRiTXl1SkpfUVRlbWxyWEpmejBCMm9n0gGHAUFVX3lxTFBpUDlGSExocWxtOXlJQUNWYnY3OFFuemkxOHEtUDZNLWVVRUxMVFE2NnNXY215OXhwM1pwOVAxeUVOOUdXQVg5QmVpU1ZVR3daUEhwRzFlbG9HT3VUS3RlUEI4LThuTFh4eW02VnczekxOTzFZNzFfQ2pBY0U1UUVDdXM0dWNacw?oc=5).
 
 ## Requirements
 - Python 3.8
