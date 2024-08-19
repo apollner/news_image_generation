@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats on defensive after Kamala Harris’s economic plans poorly received**
+**Tropical Storm Ernesto forecast to strengthen to hurricane again as it heads towards Newfoundland**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTjNvSndRd1dYWjNxQ1hOT3NzMFpMUXFEUUZvMWJncm9KTmVvYmQwNlhkWTc3ZGt4eHFtNkt2ZkduYXc3bnY5WmZ6LXgzdG9DalhXSm15V2FnMzUxb091MU9Ma3I2b3B4WlZfV01Xcm4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3RTb3lsdjhPYV95ek82bmVPb2ZnUU5RamNLMFU3ZTdZX3B5VDFBQzB3WDBjODBtM0luVEVfajQ1ZWU2X2VTUkJTc3NzUUtvNkFxSEl3UTZCYWFnbHphcC1Ka1FHMzB2LVY5TmJvc3VUTmJKekdZV05lSVdHX0xGQldPaldyQVQtZk5iRWtybnJ1QjhGOFdnUHlQY05fX2hQaWc?oc=5).
 
 ## Requirements
 - Python 3.8
