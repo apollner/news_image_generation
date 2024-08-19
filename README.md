@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL preseason, Week 2: What We Learned from Saturday's games**
+**Trump campaign reset goes awry in Pennsylvania as he attacks Harris | US elections 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOM1FIQmp6MVBOLWVwWjFlemRaM0MweHRNMXJQVy1QM2NVaFZQQTBPcHRNek9kcnFZVVo0cmkwRjNfek9xamw1dzNCNUhxTExXbDBiMC03RDl3bkczREdDNHVDR1dkYnJXYnJlanFXa1k1RlFFZnRHbC1wRnpPU1RhaENselBEWnA3eVQ4cG1QMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3JEMmNZRmRmdmJSRWpmTGhaR0F4dTAtZlVhelV1dmhHRk9yN1M1RVp6TS13N2lRRjd1REJ4d2xaRTRjU2NnOExxM3YwVG1KNVJfcC1Lb2gyemxSemtYM0RVSXZiWWhIaWdZT0p0OVJWNWFORlBIdmVkSEhHcXZHazhuZWhERzQ?oc=5).
 
 ## Requirements
 - Python 3.8
