@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Public Data confirms massive data breach included Social Security numbers**
+**COVID-19’s summer surge shows no signs of slowing down**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZVRWV3R2xKM1ZHVTJaZHA3MVY0QWc2WVZSZmc5QU9NU3lPa2gzUGp5NXQ2TlNkQlpCRnFVYlRfV25rSzhMQUUxWlVGZzQxYWlfeHppLWJTQmg1cjZleUdJeFFnMFVqVFdTN0ZfWlJlaG4wSVJqbXctQTNQNHJxbWZfZjNQd0l5TDBqZGozNkRJNUdSSXJPV2JrZDN3Q2gxZ2tucERWZ0hITkk5aFVv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE1WR0tlTnRYbHFPNHNfNWM5NUFTelN3aTBEY2N2NFNvdkczNXU0Ni1aaTZ2c05uYU14a0d0MU1ZTzFXYXNQd3hWWlhVX2VIaFZSUGRVa2YtTHpLLTRwY1JJTHdwQWlFc2lHUDB3b1l2QdIBdEFVX3lxTFBQMlFEaHBlSEE3NXZJd3FoR2RRSUppRjFlcWttRWdvQm10NU1laU5jTzg3anY3TGIxRGVBV05WYkV3b3czOW1CWDYzNFRLYTRCT2xwanp2Y2dFWURDWWNKa2ltMVE2N0hXTURGQVd1RTV1Y1VV?oc=5).
 
 ## Requirements
 - Python 3.8
