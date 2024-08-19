@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Crazy’ Robert De Niro leaps off a yacht on his 81st birthday in daughter Drena’s tribute**
+**First permitted protest to begin in the Loop on eve of Democratic Convention, closures in place**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPQUx4NWpTd1RqdEhBRWg1MHBsMktHbVBJUGpFS3Z0TWdNU2ZFR3RLZno2Y1RpMVRyd3ZNalcxbGU1cHV1WGNsa1hjMmljX2VZVldzZGtfVGRRVE5IRlZ1blMtMHdlZ2YzOW4xbmx3NElFT3A2cWlHMWF2WGdqQks2b0RuMldlenJEZHZDTkNUWW56czRzaG9uVVBFTjdtZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTmZvMG1KcldoVDNOT0txUUlhNHJmSnBXOExZcTJtVDFpS3FhREtzNE1VR1NRR2R0VHdnY1FkeHo3ZGpjSGdaYVM2S0VKclE2UWxzOVIzVWplNWwwd05MZDRzQXBjQ2g4R3pySHF2bkR2aUMxek53M2tuY0pTekN2SzVxUWdnUEJkYmdlektvekFwa05lSFJJQUZWOFhzYTIyRmpzU1lUQUdnRnZVb0pXMDdVVERwZE1scG5neHBtOFFpcTZWNTdSNG5zSEY4cmo5NF9HdGNDWnh5S2NWems4NFZ0VQ?oc=5).
 
 ## Requirements
 - Python 3.8
