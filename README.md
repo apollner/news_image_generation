@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: New video shows Ukraine striking deep inside Russia**
+**Raiders tab Minshew to start at QB in Week 1**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0JMdExfVXFSdjZkTy1RVm9FU2dMOWxjb3JJSmJJSjR2MmxYZmJfdFVfbE5MNGR5REZCTGlER2VjT0dJc2hteHJfbFMxTEd1Q3FyMjUxZkd4Zi04d1ZMYW9NbnNuRHZ6VFpTbW8tOURJZmZOQzkzWnFQU0tSTDNTSHdYRW9WNnhxQWl6NTZDdTRibjJEbVFacThLWkEwOVpUMUVLSzliRklDUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOWE9VbXdvSEN0VWdFN0dkS3k5QkZFT01VUnBfUHB1YVJwYkNMY2VaZ0JNanB3QnNES2ZBWm1WU1ZZNXd5X0h6eGVpMndtUW1yelQzTGZKVGZpYUxoazlnYmNhVVB2NjlNRFdtdTJMUnpFeXdaV3NicEVCZEVtZEx1blBwc1NlbDNqR185SnpkUTZWcXAtSHpr?oc=5).
 
 ## Requirements
 - Python 3.8
