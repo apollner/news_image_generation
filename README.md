@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Pro’s new color could be called ‘Desert Titanium’**
+**Biden heads to Chicago for a hero’s goodbye**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkcktLWU9BdnVuWDFSdFhXaThEQnhXay1ueGRYREhMWVJFZF9nOFNOU2ItY3ZMR3U0akZFaDU5VDVIZ0tQQk9BUXFFSVdyNTdmaFNQSjRiSmpxT00zQzFoaVNTcm8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9qc2wyOFlwbnNQblY1eEkwTkFvQ3RtQ3lCekNNcmM5bjJmYTB6cjNxZkRjVHFKekt0NFI0dUpMbUV3WjZJVGpQTmZKTjlnR002YjZfY0V4a0VNVTEwX0g1SHRidzI2cjR0MDVlTTc3T2tMMXBDdnQ0ZWMzXzM?oc=5).
 
 ## Requirements
 - Python 3.8
