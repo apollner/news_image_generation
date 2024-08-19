@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden heads to Chicago for a hero’s goodbye**
+**Thousands of activists expected in Chicago for Democratic convention to call for Gaza ceasefire**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9qc2wyOFlwbnNQblY1eEkwTkFvQ3RtQ3lCekNNcmM5bjJmYTB6cjNxZkRjVHFKekt0NFI0dUpMbUV3WjZJVGpQTmZKTjlnR002YjZfY0V4a0VNVTEwX0g1SHRidzI2cjR0MDVlTTc3T2tMMXBDdnQ0ZWMzXzM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX3VSQllBYngtSWVXa3dLSEJ1SWgtZkVUNkZleXR2d0ltMF9TVjlic19yNVBZQWpfSDgzNkJMd0dBNEN0a3ItZEJiTW9uX3J5SEZObmNnNmRpSmpIbVNTQ1JuX3BKT1JLTC02eDRIaWRmdVdtUlBIUDc1R0kxb0ZKVnJqeTNDN2tRLWVqU08yS1p4T2tzNGh6ajlwOU84aFFEbHFBNnZFeGJ5UVk?oc=5).
 
 ## Requirements
 - Python 3.8
