@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: New video shows Ukraine striking deep inside Russia**
+**FDA approves $30 at-home syphilis test in US as cases see disturbing spike: report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0JMdExfVXFSdjZkTy1RVm9FU2dMOWxjb3JJSmJJSjR2MmxYZmJfdFVfbE5MNGR5REZCTGlER2VjT0dJc2hteHJfbFMxTEd1Q3FyMjUxZkd4Zi04d1ZMYW9NbnNuRHZ6VFpTbW8tOURJZmZOQzkzWnFQU0tSTDNTSHdYRW9WNnhxQWl6NTZDdTRibjJEbVFacThLWkEwOVpUMUVLSzliRklDUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXY3cXpjM1U2cS1yQ2plS3BYWkYwMEJNaDFOOW1RNzhVUXZZS3hscnRoNlhDeTRIdkV2YkpOT1NFR1FjbWVCWXh2MTFvSHk4dVNLXzNiY2dDaWV2VmdVMTBmajQ3Q0hGem50dGo1UXFHQTJPbEdDVmpub2lnZkF6ZXhSVHQ1aE8wRDZTaERuS1ZsTzVqYmhPNURzeW1meXZjdzlqZUVjOXlyV1E?oc=5).
 
 ## Requirements
 - Python 3.8
