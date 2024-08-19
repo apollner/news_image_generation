@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antony Blinken heads to Israel for Gaza ceasefire talks**
+**Democrats on defensive after Kamala Harris’s economic plans poorly received**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pM1cxMVhyenlVSDhEcXZJWW8zN2daMVJEV0ZXOERXeXVvVWFVTUpBTjNLN2VSRm9FMExGY0tRWXhFYUpaN1h1UlcyWGVHMGxpdW1jLWFEYzFJZ9IBX0FVX3lxTFBLbDAxUDVuVXBocDBKTnFvcXhfUXNtcFdBRjBsNjlUWnF0SGE2LUtsRGp2OTlFWFFIZG5JQnpGQWpvSVppTy01YVVHUDZsbXdDQTNrZGxkaC1TYkRQcjU0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTjNvSndRd1dYWjNxQ1hOT3NzMFpMUXFEUUZvMWJncm9KTmVvYmQwNlhkWTc3ZGt4eHFtNkt2ZkduYXc3bnY5WmZ6LXgzdG9DalhXSm15V2FnMzUxb091MU9Ma3I2b3B4WlZfV01Xcm4?oc=5).
 
 ## Requirements
 - Python 3.8
