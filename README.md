@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3,000 evacuated from Russia's Kursk region as Ukrainian incursion continues**
+**Steelers' offense struggles under Russell Wilson, Justin Fields**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYzlfc3FaTm9jamgzXzlwS2Fia2ZNcUZYOE9Jc0FaMkFQVC1iVkdGZXNaY1RVU3JmV1pWdnoydThvM1VBWHVfWDAyakNjeF9PT0NkbG5DTjR6SWV4SVEzcndrVmxzdVh4QUhoMm1pNzVrX0taWHBtNXJrRzlUbEV0UzdaN2hPNFpvUlFOVTVwQ1lGYzBZNGNuX2t6bGh3TTNBX3ZTYlltOHVVNVd2T3ZnblRGMmg1UG9vUHk0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQV250VUVUS0JnRTNxSHplMVNJY2taSTV2ajRLbDIyNThOMTllYkJJTWlsejh4emdXWEF0TlVzWFhhMUN4TzlWSV9RTGFqamQ3d1BxYlRUMFhCM0R3eUNvSTdkTjdPM2w4YS1lM1lfWWhTUldoXzdTV2pmRWtZQmk1Q2NobUphZlhsMWxfWEpDN3M5aU5pY3YwY2JMX2xBWmxmY2c?oc=5).
 
 ## Requirements
 - Python 3.8
