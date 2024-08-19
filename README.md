@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike kills at least 17 Palestinians in central Gaza, health officials say**
+**Trump campaign reset goes awry in Pennsylvania as he attacks Harris | US elections 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXF2TTRZMG1kUVFQRlpGX19fbG1RSkJ2MU54aTQ3YWxkT0tiaE1Ob0dxWFV0MFlZanRmT0tKQWZHQVhLeGprUDVDZVhuV0kzTnUyN2xhNjI3S3NRbFJWakdDM216YUZnVVNBNkRmTmZ0OFA1SHp0QVV5OVJVQVRJaDd4cV9kQThjdzE2Zmk3ejIzWHVfYU1id3JGek42NXFsRVFBNEpoZWp0aEpETThrRG13dGc3RHhrdld4VEtnUjkxVWtveGU3cFZIQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3JEMmNZRmRmdmJSRWpmTGhaR0F4dTAtZlVhelV1dmhHRk9yN1M1RVp6TS13N2lRRjd1REJ4d2xaRTRjU2NnOExxM3YwVG1KNVJfcC1Lb2gyemxSemtYM0RVSXZiWWhIaWdZT0p0OVJWNWFORlBIdmVkSEhHcXZHazhuZWhERzQ?oc=5).
 
 ## Requirements
 - Python 3.8
