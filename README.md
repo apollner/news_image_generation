@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves $30 at-home syphilis test in US as cases see disturbing spike: report**
+**Federal Judge Grants Fubo Request to Block Disney, Fox, Warner Bros. Discovery Sports Bundle**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaXY3cXpjM1U2cS1yQ2plS3BYWkYwMEJNaDFOOW1RNzhVUXZZS3hscnRoNlhDeTRIdkV2YkpOT1NFR1FjbWVCWXh2MTFvSHk4dVNLXzNiY2dDaWV2VmdVMTBmajQ3Q0hGem50dGo1UXFHQTJPbEdDVmpub2lnZkF6ZXhSVHQ1aE8wRDZTaERuS1ZsTzVqYmhPNURzeW1meXZjdzlqZUVjOXlyV1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFB3ZFpmNHJ3TGx5dzBTQk5aOEhabFJ3ZV9zTDBFYjdpUkhONEZLLUFCaEE3M05XX3hLZTFKbWUzcFNxNnZPNVJZcm5NTlVJaDNjamhHdUN5LWd6LTZRU1JtUHNBQ2l0WGJhWXJVS3RXb215R2k2V3VYRg?oc=5).
 
 ## Requirements
 - Python 3.8
