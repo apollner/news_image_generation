@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is speaking at the DNC in Chicago? Here's what we know so far**
+**Patrick Mahomes throws behind-the-back pass to Travis Kelce in preseason loss**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPWmtaZzlWMlI5MHZTSUd6UlBzemd3VHN2dnVUZ3FEQUxvS3pvT3kyQmR3WVBCYjUxVlhkWjU3QTJ2NlFMdlJ3OVk5S3lCMm0tNllmY0d3Ul81c2xzSE5nbTkxRkkwQ1EzS29DWHdLa3dqM2o4LXA0aXl2MV9Pd2dXcXhxVWwxLXB2c2oxNmNnZ3NTZ1BEM0ZnQnZxZlRJSzcyb2pfaWFzN2JacHJTLW9kQ0F1bkZYcGPSAb8BQVVfeXFMUFpFOWdaSlBlZC1reXZvbkd0UFpNcGtUT0JGMWluSTNMVlVGa2tCb3JHNlNlQ2dTYkswbVkyMERveklLSUtWbENROHV0M25ESE43NDJHalJtM29XaTFaa1VKVGUyenZxTm90VXVPUkVKUXhlS1hWc3doOVBobXgxTGNFLVFRcWxXaGRJZ3RfX3h2YlFEVlhPb2RJenJDa19GMEpNTURBTTBrWkw3RTViSU5yS0YtOHN1UjdGeVhwX0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOMVlmTk1DWEJJcU9yY0I5b2Y2al90RWpGTUVyUl9Ddy13dG0zamxGMHhXQ1NoQUlReW1BMGlyODlneHBib3pXX0xta050bjdjVkxqbGJSQzVmYUt2R2RjaGlZWjRndkpaekJVOE95Wk45cDRJMWx4SDdmUjVpWGl1MmpMQ0kwMXpGR1FIYlQ5SEpPVlVnb0FGa1lnUkdCUQ?oc=5).
 
 ## Requirements
 - Python 3.8
