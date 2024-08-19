@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Slapped Cheek Virus' On The Rise In US. All About Parvovirus B19**
+**Democrats on defensive after Kamala Harris’s economic plans poorly received**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXdHZjctejVtWTdmcnMzbHFhdHN6YWloVDhUUG41MUpDRlZKY0hOYV9qTWhqY2FoVWtGZGlRY2ZlQ2hTV3N0NTc3Vl9JQ281aUtONGlTdVp4eWt2QTc2cC1RYjdxSkh0YU10UFUtMUl6bnhqMTgxalVGUGZiaGtXeEo1VGtnU2VyN1h1RWN2aGRoUFJUSWd6TC1TR0VSNmVWTlN0U9IBrAFBVV95cUxPXzZlcW5xYkRuTElaRXE3LTdsNkZlWnNLd2hYTU56bWFKZDJlUE1USV85d0hnOHVtMXBUVmlLSHNoZXRCTHNCLU5vb3VxcWxLdnVMVEhWNVFMbkZHdW1YYkJjbzFqckNjSE8tU1oyTVk1X2l5MDBtd0xKUkZZU29vVjB3R0cwMlRSamIzdmxOQ2xqWkdoYVYwUEk4RHp5R29ERVpWcTI0MW5RT0ZL?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JTjNvSndRd1dYWjNxQ1hOT3NzMFpMUXFEUUZvMWJncm9KTmVvYmQwNlhkWTc3ZGt4eHFtNkt2ZkduYXc3bnY5WmZ6LXgzdG9DalhXSm15V2FnMzUxb091MU9Ma3I2b3B4WlZfV01Xcm4?oc=5).
 
 ## Requirements
 - Python 3.8
