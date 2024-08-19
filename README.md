@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos expected to plead guilty in federal fraud case in New York**
+**Watch: New video shows Ukraine striking deep inside Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPeXVRQzVpcmtFRUVTbVUzeGtPM1A1SVF2MENFYXhGQ2xWcGZJb3g4NmQ0cG1XaEp3WXJqMHh2eUJUVVVEYXJ2WGZ0NllfX1JsQk9jQTI3VUpGdzdJaW1PdGpmd2NHd0ZKeWdjcWRiTXl1SkpfUVRlbWxyWEpmejBCMm9n0gGHAUFVX3lxTFBpUDlGSExocWxtOXlJQUNWYnY3OFFuemkxOHEtUDZNLWVVRUxMVFE2NnNXY215OXhwM1pwOVAxeUVOOUdXQVg5QmVpU1ZVR3daUEhwRzFlbG9HT3VUS3RlUEI4LThuTFh4eW02VnczekxOTzFZNzFfQ2pBY0U1UUVDdXM0dWNacw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY0JMdExfVXFSdjZkTy1RVm9FU2dMOWxjb3JJSmJJSjR2MmxYZmJfdFVfbE5MNGR5REZCTGlER2VjT0dJc2hteHJfbFMxTEd1Q3FyMjUxZkd4Zi04d1ZMYW9NbnNuRHZ6VFpTbW8tOURJZmZOQzkzWnFQU0tSTDNTSHdYRW9WNnhxQWl6NTZDdTRibjJEbVFacThLWkEwOVpUMUVLSzliRklDUQ?oc=5).
 
 ## Requirements
 - Python 3.8
