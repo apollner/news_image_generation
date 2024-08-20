@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024 live: Harris, Walz wrap up Pennsylvania bus tour as Trump plans DNC counter events**
+**Latest home washed out to sea in Outer Banks was owned by Pa. residents: report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWJ5Z2FpcW91R0lQOS1EQ0VjQkY1OFd3c051LUZuYUl3d3JPamxneWRFTEw3NFgySC04d3ZOVGcxT1BqUGVqUlJmdzNCeExFQldvWTZRakxqazZNb2k4M2ROR0JwaklTNFkzTUIxZGNPMkx0cXdSanF0b2RraEk5b05OaTJMN2haQTYzSnlvQUdvVzlFdXliWG0tTERibzgtNGNVUjdXRmlRN2YtenR2eFFxYjFJU1MtV0JB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxpRG5ZQXFuNVVmN2FrMXl0WXdoMlNZV0IxbExJZ0JxSWNFT1hqWGw1OU5BSkh3MTZXQ0F0aEJ4QktLSDdCR2pER2d1QkdpLTVxZnctRG5EMHYwMFVENW1uek96czg0R1RWcDhoeWVWNjJ3U1QxZnRXeFUzbTJmWHhuODhYSmlVcGExRXhNMFdOOXpfSXZpMlRQWThWb0d3Z3VVQmlzaE5UUkNzV2Jtcl96U3YtWGIyREhNSNIB0AFBVV95cUxOblhvcDRiM3E5Vnc0SlVNdVRxWC1wWnJVU0pZUE1aSlJNZkJsUExqZmZSaFNzbUwxbUM5RmVzUHF2bzVQLTFfTGw3UDRJT3JBRkRXQ2lXLVFNd3p4TzhBOHJLZGZ2M1NncS1fRzFnb19lMjhDbUM4MEFMalpvYVpnNVF3OWlEQWhXSzB6bDRvdVdBRFlPQ3ZpbzBMRFRvdl9ucG9iNmEydDd4ZnB3RDlwZGFqVGZoWS12NDZOa2V0aVJTd2I1TWdIUE1mNW1DY0xh?oc=5).
 
 ## Requirements
 - Python 3.8
