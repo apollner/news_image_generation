@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six people missing and one dead after tornado sinks luxury yacht off Sicily**
+**Hamas claims Tel Aviv attack as Blinken promotes cease-fire in Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQc9IBkgFBVV95cUxPc0JWR2MzS1FzSUU0TVVWakhLdjlOaE5KSG01SW84WWVvNWpPNVNNUkdzNkhSN2xzVTZ0ZFlGbkNlWWttdENLQ0tjb0daZ0RLSmtBY2dOMXZ4bHFsdGdteTZEblJwMTEwaDhscXRUT2FBNEJtM05JT204TXJ6d3QzZjJURkdEbXROeFpDUmZoaExtQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXlodnhoUWtZT2RkMkRpNG5WTWF0clNLUWoyaGx3N3NmU01KdndtR0w0TnE2UzZnT2RNd0FlMDJSSWhpbjFibkNIbEJTRWtpb2lBNVYtUGVraUF4ZGRJYUNSbU5sQVNYZkliaHVLR3R3ampXd2ZLaE9XY2g5NDNWcFBLOG5FWS1RdTBPMVhuQzZLZw?oc=5).
 
 ## Requirements
 - Python 3.8
