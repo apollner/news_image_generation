@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia-Ukraine war: List of key events, day 906**
+**Deadly storms batter the Northeast and cause severe flash flooding, submerging cars and prompting water rescues**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxON0lmelFQM0x5T2pLSEM5THlBOG9tSzR4SFIzbkFqT09vVGhaWXRRdnJ3azU1elNBbk9BbGFhMXVWOHBxNlp2WFhnekxScE9lRWlJMW5yV2k3TS1RUHJMdVBqRUtmUS0tRkwzUFJheFQ4ZTZLN09iSGtsV05sY3BjN0dtZTRzbGUyQ0E2R2dnSdIBlAFBVV95cUxPSXNQZV84MkV6eGlQbjdRdVIyalRyclM0Tzc4R200TlhPcUxrOHlBWURNWXZuaUYxbjFUOXNtM3FsaXpLR05OR0p3OWpMU0JMMzI1MVJRVEdrT096Z081bmczNWhBZGhrSTdrZ3M1SmdQRHB1SDhTTkdid0UyYWlIaFVYcE5RaFZ2c1hSclMxdVVRRXRu?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPekppX1BqcU1WN0NKSjVFdWVTTjB4bTNCV1M3UUVfeG1PSWd2ZksxV2xrNG1CUDAtMS1YdXI1STFxaHdRV2J6ZlNXUzJRaTVwVTZTOVMzZXFDQ05tdnBUTFdFdVFtampxakRzNVRjdGNzSzBzaUtoanlZWFBhaGJkemJMdUxWZ0R4aEVRYzlxbE1DX0FDOWgyU3dHaTVabmNHcmk0UlVOc2daVzdiQWd0U0NrYW0xRDNYdmfSAVZBVV95cUxQMll0aTRYSFpTMnlJU0RocV9sSWpnSmRrd19xRW9WOVJYd3cwWVh6OWVMVUVZcks4eWRxenNFS2RMWkt6SEZtWUlXMHYxYVdCbzkwMUxxQQ?oc=5).
 
 ## Requirements
 - Python 3.8
