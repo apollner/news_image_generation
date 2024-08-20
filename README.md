@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Resurrected’ Democrats look toward 2024 convention with renewed hope**
+**Harris and Walz make phone calls, rally volunteers on Pennsylvania bus tour before DNC in Chicago**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm9IUzlFRXpBd3ZlTjB6SDFUSEZRRlRPQVVzaFpBc3ZuR2hGYkpVYlVFa0lxUTEwaTR3OFIxcXpOamZYLTJpaENfanBMbTQ4a0VLVmVLQVMxb2kyckxDQXBjMndpbXNlaDBGV2YzLWZWRDV2NzFYMTlXdDIwbjc2bFllVVFuZEc4UmYxbkdKWHp2VDB6SG8xMnRn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTk1JR2hwYWdjcUF2M3F6V2liakFrSVEyajhTd2xjVTFfMncwQ0x5N3VzWjBvMFJoeEFtS3NLZ0VTb0ZDOWFneDRvUHUwLWJ5aFk2TThKbTA5a1lzNWRlbUlPZzNWeC1XVTJqT2pfa3hITHVGcEphNDFySHVqWVhZU2VTSl9HdjVwUXRIaTZFYjdOcmExVnRydmF0UWNXb3dGQzg5Tw?oc=5).
 
 ## Requirements
 - Python 3.8
