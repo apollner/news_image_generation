@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google app experiments with this potentially controversial UI change (APK teardown)**
+**Blinken says Israel has agreed to US proposal to close remaining gaps on ceasefire deal and calls on Hamas to do the same**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5fb0d4bE9vN2pJNHpGcmxGVFdFdDA4d0t1UzVJZGNPUzRjV3RGR09MTmVKYjB6ZHgwcHRvd0VaUnk5UFN1enlUNUtxMTdDeGFNc2lfYUV2QU9UVkxqRXM0a2x6UXZkcDZDLVpNdkNtQUpnV1pD?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVdIbS1kS2cwRHdoR3lVa1RhZjlhalpaQVI4UFRuVkNHcGxUOU5IMWhtam9rU18xQWJoVEZHOU43UVQ5U0RMYmd2UEFRMEg3di1UQ3lCeVJQRUw4LVlILVFBU0lmN3VIWXBoV29zUWtYRnpuOXJibVpfNXd4XzUwaElJcVViQlVUT0dPVnh3ZUdYUHdodWVvbHFsSEdzVnZZ?oc=5).
 
 ## Requirements
 - Python 3.8
