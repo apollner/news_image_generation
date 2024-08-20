@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken: It's "decisive moment" in Mideast cease-fire talks**
+**Election 2024 live: Harris, Walz wrap up Pennsylvania bus tour as Trump plans DNC counter events**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYks5VWNJZ1JlN2ZRV3l2OW5zaks2ZGp5V1hNb2xicDQwTlRTY0Q3NWhXaW9jRllxbFFOTVNuNWZjMGd3WFNoQTZuRTBVWnFBN3h1Yk1VWmVoeEs2eVlUY0sta2daYlc4Zkg0OG5qQ1EzOTVteVlUOEJWUk9QYWRNcmJybVQyLTRhZmxyLWVKaHZGSlBQek43MVFmZFfSAaIBQVVfeXFMTzcydnh4S1VkXzlkbzBKQWlDZHZuWkJ0eDNyNEpmcWVfZkNVVDMyTEloWjMxNjNuc3ZSZGdKUVVPQzE2VWc1VkUwOTl2SDdoUkdaTU1tYkFGcVZNd3FUNmVMNUFUakk1SXZzN2xacDNSekFPTGEwc2VYcmxOSlprMmJhNmNHeWUzeEdTSlJ4V0JReHJvLW9uNGtmWEtiMXNwM1Nn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWJ5Z2FpcW91R0lQOS1EQ0VjQkY1OFd3c051LUZuYUl3d3JPamxneWRFTEw3NFgySC04d3ZOVGcxT1BqUGVqUlJmdzNCeExFQldvWTZRakxqazZNb2k4M2ROR0JwaklTNFkzTUIxZGNPMkx0cXdSanF0b2RraEk5b05OaTJMN2haQTYzSnlvQUdvVzlFdXliWG0tTERibzgtNGNVUjdXRmlRN2YtenR2eFFxYjFJU1MtV0JB?oc=5).
 
 ## Requirements
 - Python 3.8
