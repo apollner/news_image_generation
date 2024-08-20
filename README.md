@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken says Israel has agreed to US proposal to close remaining gaps on ceasefire deal and calls on Hamas to do the same**
+**Which Celebrities Will Be at the DNC?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVVdIbS1kS2cwRHdoR3lVa1RhZjlhalpaQVI4UFRuVkNHcGxUOU5IMWhtam9rU18xQWJoVEZHOU43UVQ5U0RMYmd2UEFRMEg3di1UQ3lCeVJQRUw4LVlILVFBU0lmN3VIWXBoV29zUWtYRnpuOXJibVpfNXd4XzUwaElJcVViQlVUT0dPVnh3ZUdYUHdodWVvbHFsSEdzVnZZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUNZd1RVOUFIaVc4b3lCZ2U0Y3V1RGduY3B6ZTRES2NfWF9lQkg2eXpjZlFNMU5HVldyOVpFSDc4WmdQVlFIN2dYeTRFVXlkSC1HT3FkZWZ3NTc0Z0JOd09ESlNVMkJFX2FCVHg3cmJlUEU2akxZQlM3cHpaZ01MT1duN2dmcEdSX3c?oc=5).
 
 ## Requirements
 - Python 3.8
