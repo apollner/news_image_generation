@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Long COVID Linked to Brain Inflammation and Low Cortisol**
+**Six people missing and one dead after tornado sinks luxury yacht off Sicily**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Sd2NpTFNQbUhmLTlBQjEyRzJPT0FDUHBITkQwNlpCTjVsY3VwcEpXb3RydW1Jc3A0ZlhHYktuSkkyN29wcnFxRXM2czBwTGU5YkM4ODNaSnI0QXNZbTNlb0xoaHpFZU94aDdUVXFSZXBndF9GSnlF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQc9IBkgFBVV95cUxPc0JWR2MzS1FzSUU0TVVWakhLdjlOaE5KSG01SW84WWVvNWpPNVNNUkdzNkhSN2xzVTZ0ZFlGbkNlWWttdENLQ0tjb0daZ0RLSmtBY2dOMXZ4bHFsdGdteTZEblJwMTEwaDhscXRUT2FBNEJtM05JT204TXJ6d3QzZjJURkdEbXROeFpDUmZoaExtQQ?oc=5).
 
 ## Requirements
 - Python 3.8
