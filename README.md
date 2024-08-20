@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas claims Tel Aviv attack as Blinken promotes cease-fire in Israel**
+**Long COVID Linked to Brain Inflammation and Low Cortisol**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXlodnhoUWtZT2RkMkRpNG5WTWF0clNLUWoyaGx3N3NmU01KdndtR0w0TnE2UzZnT2RNd0FlMDJSSWhpbjFibkNIbEJTRWtpb2lBNVYtUGVraUF4ZGRJYUNSbU5sQVNYZkliaHVLR3R3ampXd2ZLaE9XY2g5NDNWcFBLOG5FWS1RdTBPMVhuQzZLZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1Sd2NpTFNQbUhmLTlBQjEyRzJPT0FDUHBITkQwNlpCTjVsY3VwcEpXb3RydW1Jc3A0ZlhHYktuSkkyN29wcnFxRXM2czBwTGU5YkM4ODNaSnI0QXNZbTNlb0xoaHpFZU94aDdUVXFSZXBndF9GSnlF?oc=5).
 
 ## Requirements
 - Python 3.8
