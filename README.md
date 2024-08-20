@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Too many people, not enough management: A look at the chaos of 'overtourism' in the summer of 2024**
+**Celebrity Hosts for This Week’s DNC Revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0hCSFFGNWdqM2VGbnY3UzRORG8xaTZadjlEWWNaTlN3aUxuZWMzUjEwdU8ya2M1X0M4MlJocU10LVFiSWQ3OS1zeVBvTmltbFVNanRkMmJEbHNTQTVjdlpvTkRtN3ZSZTU3Y21HWkhhZkJnYlZya0QzOXdqZ3lvb2xlY2ZnUXJpT194aW5PMXNSay1SRGYxSTVvWW9QTVlWX3dtSjd3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0g2RG50VzQ4U1hoVUpoNDlRN2NBdzNwbUVWV19fWnlMSkxCWEdlZmhwLVY3NGc2cjBVckRBZTJFR2RvcnU4aTFXZ0dEMXY2eHRuUXJBTGtXQkh0QlJsbTg2b3VxV2s0RmtpOWFaSmozb0JleHlzRlpIbHdPRDVlYzBtUm8xZ215d1FDSE9lSFJkSlpHZVh2aDZuVkdSTzVLdU9Ga2VwNWhoVjBCbXcwOWJjUkdsZw?oc=5).
 
 ## Requirements
 - Python 3.8
