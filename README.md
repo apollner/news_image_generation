@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delight and despair as yellow jersey battle goes down to the wire on Alpe d'Huez - Tour de France Femmes gallery**
+**‘It didn’t happen’: Becky Hammon denies mistreating pregnant Aces player**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHlWYXU3TnRqNGNTb2Q2QWVzV3BUTUlVNnZ3LVdpV2F1MXZjdGJacDY4cG83bFY5NXJwX29IelJIYjNUSGstRGJlTE1PWlZOc3RYejhRX0t3UXB1SVQzUDkxRWI3Y2dRWS1nQm9YODBob0lFUzF2SDNxZWdkajhRREVEbWkxcUhZdGVpQ2lLLWF6QVgzLVJyUy1BWkJjNFhYalFNZXRBZHFXRzU5YTF1VXBDRjJUcDY3YVZXNGFiVkJfR201NTBwVWwxN0dNa0I5b01NZVUzZ2oxTlV1NWxwbQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmg2WmJHcGZqZnVXMXBBVFR5YmVESFZ0ZzFtUktmdC1mXzYxT2dnVW90a3RwMUhfNDMtQm01YmNBc1dQRU85OTRvN1lkc1VfTmRoVkVMZEVnU3JvZkJXVW1DdU5hRWRDSWVjS0RGMU5SUHFnNlJIV0M2b1pmSndKbHJpZkNtNFR0Qkl1TGFldFlIUEhGRjd1bExFX0tOT0VIak5sTE9zYXI2UXNueGh5SVQzdHlaZkxCOW1wZkdVVQ?oc=5).
 
 ## Requirements
 - Python 3.8
