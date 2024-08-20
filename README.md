@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to see August's rare super blue moon**
+**Blinken: It's "decisive moment" in Mideast cease-fire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVlRV1UyNWJuRWNXeGd5RkljMzJNTnJEYWJIQzQ3Mm1UdUxVN3NUZ3FvZC11ajRHSlFXd18tY29kT0FvZHpuZG4tcjRKbG1zbF9pcTEteXJZemVhUXh0MTFPUlNQelB1RUhmMkRKOC0wVWNXQ1lFaWlWeWZfa3Vka1gzTTZDQ2tCR0JUOVptMnZfWlV3ek5Gdmh3MEpGdmFKaHhkd1V2akFQMUN2LVduUFl3ZXByU3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNYks5VWNJZ1JlN2ZRV3l2OW5zaks2ZGp5V1hNb2xicDQwTlRTY0Q3NWhXaW9jRllxbFFOTVNuNWZjMGd3WFNoQTZuRTBVWnFBN3h1Yk1VWmVoeEs2eVlUY0sta2daYlc4Zkg0OG5qQ1EzOTVteVlUOEJWUk9QYWRNcmJybVQyLTRhZmxyLWVKaHZGSlBQek43MVFmZFfSAaIBQVVfeXFMTzcydnh4S1VkXzlkbzBKQWlDZHZuWkJ0eDNyNEpmcWVfZkNVVDMyTEloWjMxNjNuc3ZSZGdKUVVPQzE2VWc1VkUwOTl2SDdoUkdaTU1tYkFGcVZNd3FUNmVMNUFUakk1SXZzN2xacDNSekFPTGEwc2VYcmxOSlprMmJhNmNHeWUzeEdTSlJ4V0JReHJvLW9uNGtmWEtiMXNwM1Nn?oc=5).
 
 ## Requirements
 - Python 3.8
