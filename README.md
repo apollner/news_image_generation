@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gay man says he was assaulted by Shake Shack employees after kissing his boyfriend at D.C. location**
+**Watch: Patrick Mahomes makes behind-the-back pass after Travis Kelce messes up route**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGc1dkJXQ0pXbWYyWHAwdEIyTnprOHFYNmRiT0h2QmVwZVE3VDZIdzJzQ0FwUEF4T1JSSUxOV2xZZkVuMHpQdFoxcHVXdkM3Z05CU2diekpBWHVnX3psYU96MXdXWTZUeml0WlpmZThPbGV1Q0hYRlFXSkZpVnpoYlBDTHc3eWpfRERONjBFVkVfRlF3NzRhcG5UZ0sxV01PVzd5cnl2T0dWWV9VZkpSUExYdW1fWnBqci1aeXN30gFWQVVfeXFMTVYyOGxVYzZvZE12bzlfYTJaQVl2S1NMM1lkLXdYd0xENmQ5YkxkU2ZuMnAtb2dsaXFoRWRPQUJHV2ZqeW41UEdWY0Q1T0hfSE1LZmNXeHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0cyQVFGLWlnWjl0cnBIYnBMdjZZdUV3NXF0WmZfNjY3alBiWWpHcEQtN1k4UUdzQnJaMzdWb2g1TDhDRHZFWV93OTd5WGctdktVeHlnZS1RUjFNX0pqRzItWFp2ay13dzY5X3d5UEdhVFdmcmJENGV5ODZwRFp6cy16TjU5ZktRU2tMZHg5Q3d4OENyT0NpM0ZqME00enE2Y2hQZDB6MkNIaUVwWDUzNkYtMEJiYjJwRWMzM19YOA?oc=5).
 
 ## Requirements
 - Python 3.8
