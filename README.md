@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angry Steelers fans blast Russell Wilson for dismal preseason performance against the Bills: 'Starting to thin**
+**What does Bitcoin smell like? AI startup wants to ‘teleport’ digital scents**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPRHlnQ0R6a2QxOWZCdENKcUF3SW94M2R6THBfNmJVVEZjc3FKMUpSRERVaW1GZHgzNWZTRVNIMFBFM2w5RHpwX21lSDIwa1hBN1BScnpqQkxjOXJsajBad2l3dVRqNEJ5U3pqNkttdGFGMU9Md3NaUHhLTmpmbXJ2NHRReTVKUnBFcm5WUm1aMGRrVm0xcnlJRkYteDVEX2g1ZWU3NE0ybmp0dzRBVTJPcU5YTVU3M3PSAbwBQVVfeXFMT0ltVktYMkk3UlM4dnItN2RCQkZkV0Y4UDcxWmFsaHltLUttTWFGenduSndzNXVISmQ4U2UybHBiZ2NfUGRPTFJOaFc5ZXpBYzFpVEE2NHRGVFVqd2JxS3ljMFU3cFRWUXFzc0t0SFV3SHNRc3Mzbl9iWERuRHFEV0RUY3JOVkZxOEQ4d25QR20yM1NnazJ0eGxIaWNCR1ltSGczc1otX0xIUnROaHJ1akwtLTRCOFpCTVNUelM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkdxVG9jZ3d1Q282WFlTaXIzQUVEZ1RabThPUkJQWG1oWDNwcVROUWY5UUdDVFFoT3NGX2FlcGhtcTN3dlM2SHVUY1VjaUFmZUhYSG1RYXp0Z0FNX0ZyUFE4eG9mVkg2WnNaZUp6eTNqQTdxSGttV1RKTnZReXQzVTJlaGdPdWc1LWxVUDdsY1UwMDNLVnNtaE93?oc=5).
 
 ## Requirements
 - Python 3.8
