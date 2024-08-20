@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Patrick Mahomes makes behind-the-back pass after Travis Kelce messes up route**
+**Chinese, Philippine ships collide in South China Sea**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0cyQVFGLWlnWjl0cnBIYnBMdjZZdUV3NXF0WmZfNjY3alBiWWpHcEQtN1k4UUdzQnJaMzdWb2g1TDhDRHZFWV93OTd5WGctdktVeHlnZS1RUjFNX0pqRzItWFp2ay13dzY5X3d5UEdhVFdmcmJENGV5ODZwRFp6cy16TjU5ZktRU2tMZHg5Q3d4OENyT0NpM0ZqME00enE2Y2hQZDB6MkNIaUVwWDUzNkYtMEJiYjJwRWMzM19YOA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1JCQm1JNFA5R0pDLXp4c2lVTUpLWnJwSFM4aEJ6OG1PemdKd2NQUUZZTHloVXJJSmZGenM3Z1k1TmNUQ2tvV01wOFpERDFqMUNuX1h3ckt2clpNX2dxM2NnVFFGODF6enpsRm1SS0dVTVVKTVJmeGtSSk9qQUdiMWZpNHdxOTl2LWhVMtIBjAFBVV95cUxNYmo1d3hJY01PZlJTeTZKd1hCZDZ1emlRNFpKQk1jSW5IU0xkbDBaQlRBZ21zWGY3d3ZCUHo0VTlORmxOcnNTNnpObFJ4Y2JVZGdUU2tWWWxrMzY3SmVIMUFNMHIwel83bXoyQ1U4bURTTm82TW5pb05aWE16NFNFV2NMbDNTMmNBdGJNdg?oc=5).
 
 ## Requirements
 - Python 3.8
