@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Walz make phone calls, rally volunteers on Pennsylvania bus tour before DNC in Chicago**
+**Stock futures rise slightly after S&P 500 notches best week of the year: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTk1JR2hwYWdjcUF2M3F6V2liakFrSVEyajhTd2xjVTFfMncwQ0x5N3VzWjBvMFJoeEFtS3NLZ0VTb0ZDOWFneDRvUHUwLWJ5aFk2TThKbTA5a1lzNWRlbUlPZzNWeC1XVTJqT2pfa3hITHVGcEphNDFySHVqWVhZU2VTSl9HdjVwUXRIaTZFYjdOcmExVnRydmF0UWNXb3dGQzg5Tw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1tWm91all0ZDJqYlppd3VPa0hBWlk5RGlIcEhLeWpOTnhhZHlSV2V0Ulc5T3lGUUExMXJGMEh0NlJtb01Tc2tCR3VvQkpqcDlGbFRXTk94VERqNmNXWnZBejJLLWJkZ0VQZm9vQWFHUW5KWEtUWUFv0gF8QVVfeXFMUHItUmhBTE5faS05cHI0ZERiWUdhQlZnM3lwbHpBamJCeG1FUTNVeWlpYnVKckFyU21XWmZ3N2tKdy1UWGkwOG81cllUaHFId2VGS19YT1o5MzBIak11SndkWnl5X0lQc3owd0Nzejh2R1VrNS03U3oxb0w2YQ?oc=5).
 
 ## Requirements
 - Python 3.8
