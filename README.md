@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YG Organizes Peace Walk Between Rival Gangs, Takes Them To Burger Shop**
+**A look ahead to this week's Democratic National Convention in Chicago**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE84XzVDMk5nS3VFWGhIMklNVDV0ajZFbWJUVnhybkpCVGU4VHZRTjFEYnFvNm5HbjktWnpSNXBzVWVXTmdWOThhOHV3cnVzeTlWTFEycExUbXJsTExwNXhfN3phMHFLeU56aklOYllLeVFoZ3k2RDI1NU1n0gF6QVVfeXFMUG1hcVBYcGZLNmlWZUlVT2sxemJIc2FoNzA5MVpRTUwwN2lwWHA1MGZMV2FabUxTX1V3N1JYWUdGVGJnLW5lUnF5ckhpNmNwTFhkZlN4aGp0STJJRjBZUDc0anZ3VUllbk1Jd2phcHUzbnBZZGN6aW5uSEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxORXJ6cy1QY3oxTnM3VW9QRGVCY2NaWkF5WXI0TGNqdUhUblo0M3dFUWwtdEtpUFR3UzRNTzBXVXdfNnlTd2JXaEJNejM0cUNIWElQTXltX1ZqM1dUZ1pJeGpzRDExSVRta2p6S1pWSHotdFNNNGNoUDh4U0h6VXJrM2FGc1BZR2pGSXhwd3NycHNKSUhubjhIZWlTUmF0SHljWmF5Z9IBqgFBVV95cUxQOFpBaldGZHotcWtkUE1rMzRGNHdiU0VfMC05cVhFLXp4MndQZ1JzVVJENVM2ejFxT1FQNVkzZlpZOUpwZE51Z25vdDRaaXQ2UWs2Zk1fZ0lIZTMzdThMVmYtZklJeFVFRE5CelFLOGZJcG1YdS11S0RpcUlFcUNZd0Y2WDNWenNNSU5IMDByQTZtNXFBYVo2X29Nb2EzTmxDSFladWg4TXB0dw?oc=5).
 
 ## Requirements
 - Python 3.8
