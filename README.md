@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Which Celebrities Will Be at the DNC?**
+**Six people missing and one dead after tornado sinks luxury yacht off Sicily**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUNZd1RVOUFIaVc4b3lCZ2U0Y3V1RGduY3B6ZTRES2NfWF9lQkg2eXpjZlFNMU5HVldyOVpFSDc4WmdQVlFIN2dYeTRFVXlkSC1HT3FkZWZ3NTc0Z0JOd09ESlNVMkJFX2FCVHg3cmJlUEU2akxZQlM3cHpaZ01MT1duN2dmcEdSX3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQc9IBkgFBVV95cUxPc0JWR2MzS1FzSUU0TVVWakhLdjlOaE5KSG01SW84WWVvNWpPNVNNUkdzNkhSN2xzVTZ0ZFlGbkNlWWttdENLQ0tjb0daZ0RLSmtBY2dOMXZ4bHFsdGdteTZEblJwMTEwaDhscXRUT2FBNEJtM05JT204TXJ6d3QzZjJURkdEbXROeFpDUmZoaExtQQ?oc=5).
 
 ## Requirements
 - Python 3.8
