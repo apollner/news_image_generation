@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas, Islamic Jihad claim responsibility for bomb blast in Tel Aviv**
+**Exclusive: Conservative Republican endorses Harris, calls Trump a threat to democracy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWRfQUpGcGc5dFBUVjFnckhLQzc2ZlJkSTd6MVk2R1dBOFpXb0UtemVZN2RNUlVwUDBlZU5LVnpvRG1KX3pJQjZRbUdVTi0xbWRYQklxR2ZuaWN4aDJmTmFadlczVzJJbTlTWXJCbk14TEpwcHdhOGktYkdHM19kN1NCTmM0UE5qQ2xRTDh6cUNVemI3MWZTOEJvenc4ZWd2bzZaWU1sZ2N4eGd5VWdZdXRNRzdIdzJNbXQwMg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlVwV2E0YU1KSEpFdllWZ083MFN2ZFNjLTJ2S0lGM2pCVm85Z1dMRHlUVjBuVW8wMXpJWHB5dGtWejJ4RkdTYVM0YWxWNXZUYzNvLVdzZUZvTG5qZ3BsLUhjQnFiQkU4NnVnSVVxZ1U0MlI3WWEyUHRZMWp2RjFiWGlpS2JnRkZlUHNzVDBwLWU2dXd3NllTOUFfQURtNWJpSmFhVWZkWlpQOS1ObldWV3I2RUpxdC1yTWFyYl9vZEpxUQ?oc=5).
 
 ## Requirements
 - Python 3.8
