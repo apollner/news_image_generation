@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken warns now may be the last chance to get a cease-fire in the Israel-Hamas war**
+**One dead, Britons missing after yacht sinks off Italian coast**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxORjVxaUR0M1dzYUlhdjBfcUdIVHZwS0N3Nm1rQUF1RlBHeEVjUVRmdm45QUxQQWlqWFRNZVl2TF9kX1djMUsxN3lmNmN2Ymd0dGJrRXZCWDVEbzVfWHpJUDU0QWYyR2sxd1NSaFBXY1htV0IzV0ZqclhlX00xTFJfYWt6S2tJMVVmZm0xenAyNkdMaGpaU0cxVE5VVG9pbmVTbTJ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dUFrV0V6Z08tRUdXdVlnM0hTOFE1S014NzBMWHRTU2VIMGk4Zk41cURtZUIwTm5sOTBHY3piUGtIWlhUWUs1NDFSWkJ0QUNZdmtrZXVUQTVyUdIBX0FVX3lxTE5EemxoNVhQbG5mNHpGSGhvNTNQazR0YTRLRDFOelZoN0tOZk43M01iVndiM05pQlpIajRPcGdKa3dqUlFBaGtxUGt2Tml5SEtDTWdLYXJpODh2S09sLTJN?oc=5).
 
 ## Requirements
 - Python 3.8
