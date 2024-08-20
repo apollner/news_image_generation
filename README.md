@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese, Philippine ships collide in South China Sea**
+**Russia-Ukraine war: List of key events, day 906**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1JCQm1JNFA5R0pDLXp4c2lVTUpLWnJwSFM4aEJ6OG1PemdKd2NQUUZZTHloVXJJSmZGenM3Z1k1TmNUQ2tvV01wOFpERDFqMUNuX1h3ckt2clpNX2dxM2NnVFFGODF6enpsRm1SS0dVTVVKTVJmeGtSSk9qQUdiMWZpNHdxOTl2LWhVMtIBjAFBVV95cUxNYmo1d3hJY01PZlJTeTZKd1hCZDZ1emlRNFpKQk1jSW5IU0xkbDBaQlRBZ21zWGY3d3ZCUHo0VTlORmxOcnNTNnpObFJ4Y2JVZGdUU2tWWWxrMzY3SmVIMUFNMHIwel83bXoyQ1U4bURTTm82TW5pb05aWE16NFNFV2NMbDNTMmNBdGJNdg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxON0lmelFQM0x5T2pLSEM5THlBOG9tSzR4SFIzbkFqT09vVGhaWXRRdnJ3azU1elNBbk9BbGFhMXVWOHBxNlp2WFhnekxScE9lRWlJMW5yV2k3TS1RUHJMdVBqRUtmUS0tRkwzUFJheFQ4ZTZLN09iSGtsV05sY3BjN0dtZTRzbGUyQ0E2R2dnSdIBlAFBVV95cUxPSXNQZV84MkV6eGlQbjdRdVIyalRyclM0Tzc4R200TlhPcUxrOHlBWURNWXZuaUYxbjFUOXNtM3FsaXpLR05OR0p3OWpMU0JMMzI1MVJRVEdrT096Z081bmczNWhBZGhrSTdrZ3M1SmdQRHB1SDhTTkdid0UyYWlIaFVYcE5RaFZ2c1hSclMxdVVRRXRu?oc=5).
 
 ## Requirements
 - Python 3.8
