@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft closes off a Windows 11 requirements workaround**
+**Google app experiments with this potentially controversial UI change (APK teardown)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTFByR3Z6czMyT042NDJhRW1Zejg5ZTRHZWV2Qkh3ZWd4OVZReTNMTGRfLTdqcUNVWWgxYmpzYlRzbEpKSU53ODZBTjkyQ2FyQnUtSUFwSGd6cXBJZkhKcDFoWjF6cERvQjdhN05DeFFpMDNlclpQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5fb0d4bE9vN2pJNHpGcmxGVFdFdDA4d0t1UzVJZGNPUzRjV3RGR09MTmVKYjB6ZHgwcHRvd0VaUnk5UFN1enlUNUtxMTdDeGFNc2lfYUV2QU9UVkxqRXM0a2x6UXZkcDZDLVpNdkNtQUpnV1pD?oc=5).
 
 ## Requirements
 - Python 3.8
