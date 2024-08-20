@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A look ahead to this week's Democratic National Convention in Chicago**
+**When to see August's rare super blue moon**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxORXJ6cy1QY3oxTnM3VW9QRGVCY2NaWkF5WXI0TGNqdUhUblo0M3dFUWwtdEtpUFR3UzRNTzBXVXdfNnlTd2JXaEJNejM0cUNIWElQTXltX1ZqM1dUZ1pJeGpzRDExSVRta2p6S1pWSHotdFNNNGNoUDh4U0h6VXJrM2FGc1BZR2pGSXhwd3NycHNKSUhubjhIZWlTUmF0SHljWmF5Z9IBqgFBVV95cUxQOFpBaldGZHotcWtkUE1rMzRGNHdiU0VfMC05cVhFLXp4MndQZ1JzVVJENVM2ejFxT1FQNVkzZlpZOUpwZE51Z25vdDRaaXQ2UWs2Zk1fZ0lIZTMzdThMVmYtZklJeFVFRE5CelFLOGZJcG1YdS11S0RpcUlFcUNZd0Y2WDNWenNNSU5IMDByQTZtNXFBYVo2X29Nb2EzTmxDSFladWg4TXB0dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPSVlRV1UyNWJuRWNXeGd5RkljMzJNTnJEYWJIQzQ3Mm1UdUxVN3NUZ3FvZC11ajRHSlFXd18tY29kT0FvZHpuZG4tcjRKbG1zbF9pcTEteXJZemVhUXh0MTFPUlNQelB1RUhmMkRKOC0wVWNXQ1lFaWlWeWZfa3Vka1gzTTZDQ2tCR0JUOVptMnZfWlV3ek5Gdmh3MEpGdmFKaHhkd1V2akFQMUN2LVduUFl3ZXByU3c?oc=5).
 
 ## Requirements
 - Python 3.8
