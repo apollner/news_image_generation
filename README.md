@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dricus du Plessis retains UFC middleweight belt against Israel Adesanya, who touted Africa as the winner**
+**Microsoft closes off a Windows 11 requirements workaround**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZsRVlRZ3J6SktzN3BTam1pYWVkVElqWUFtaFVSSE5kWUFLOFVvVFN2M09mbXEyc1BLRWVRdjZZdVFUeWdwVFMwdHFFOUZtb19XTHh5WlJYS1FxUWVHeVg2cnhwS3JrS0xwMXFtOTBXQk1FQ19XeGttRjdxRkVpaXNlbkJKSS1LQU85VTZKOVBVLVUtLWU1VTd3UjMycXhoMWloWdIBmwFBVV95cUxNT0drUy1YMDVrWkxjTmVRbDl6WUM2NGdIM1J6YVJFcXFzZFgtUUpvRXF4VEZxTnNydjk1U25uMm43X3NDQ3M1TFhUVmowZEg0RjlPSGdaS0p4eHRSS2gtb3d3MVZSMXNFSXRRU20yVU9MWFFZZ3dMSE9SMVZJZlhnRWM2OXlqUEF4X3pLeFBKTFBxSGhtRURuY1B2Yw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTFByR3Z6czMyT042NDJhRW1Zejg5ZTRHZWV2Qkh3ZWd4OVZReTNMTGRfLTdqcUNVWWgxYmpzYlRzbEpKSU53ODZBTjkyQ2FyQnUtSUFwSGd6cXBJZkhKcDFoWjF6cERvQjdhN05DeFFpMDNlclpQ?oc=5).
 
 ## Requirements
 - Python 3.8
