@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It didn’t happen’: Becky Hammon denies mistreating pregnant Aces player**
+**Hamas, Islamic Jihad claim responsibility for bomb blast in Tel Aviv**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmg2WmJHcGZqZnVXMXBBVFR5YmVESFZ0ZzFtUktmdC1mXzYxT2dnVW90a3RwMUhfNDMtQm01YmNBc1dQRU85OTRvN1lkc1VfTmRoVkVMZEVnU3JvZkJXVW1DdU5hRWRDSWVjS0RGMU5SUHFnNlJIV0M2b1pmSndKbHJpZkNtNFR0Qkl1TGFldFlIUEhGRjd1bExFX0tOT0VIak5sTE9zYXI2UXNueGh5SVQzdHlaZkxCOW1wZkdVVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPMWRfQUpGcGc5dFBUVjFnckhLQzc2ZlJkSTd6MVk2R1dBOFpXb0UtemVZN2RNUlVwUDBlZU5LVnpvRG1KX3pJQjZRbUdVTi0xbWRYQklxR2ZuaWN4aDJmTmFadlczVzJJbTlTWXJCbk14TEpwcHdhOGktYkdHM19kN1NCTmM0UE5qQ2xRTDh6cUNVemI3MWZTOEJvenc4ZWd2bzZaWU1sZ2N4eGd5VWdZdXRNRzdIdzJNbXQwMg?oc=5).
 
 ## Requirements
 - Python 3.8
