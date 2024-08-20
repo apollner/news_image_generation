@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 2024 Democratic National Convention starts today. Here's what to know.**
+**Blinken warns now may be the last chance to get a cease-fire in the Israel-Hamas war**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTW1KSUl6T3lDLUIxUXlfSTNqME0yWm13WEhMSHp1Zi1yUFdJMTN1TERnOTBFVWE4ZHB5dloxMlBjeFNpUTRmdG9SSENWUFB1Ylg1ZURQMVhKdzJITFJtbi0tT1NCclVFaExVYzZVNk1ISERfdzJPNzF3a3FTOHlJV2RCSlXSAYoBQVVfeXFMUGZpRHFsSWh6bzU1SUs3U0NOUDdnNm9UN083ckU0c3hNb1ZmZ1pVU2JVRmRMODl6U1hvMW5PMWF5T2JTMDVJTVZSZUVEZGRSdTZuQW1jaHpEUFBVd1FRZ0o5R2FhVmp6dDNBMjdyVnFBVW1DRTltM1ctdUlldExWMEh5VVF4NnlWelln?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxORjVxaUR0M1dzYUlhdjBfcUdIVHZwS0N3Nm1rQUF1RlBHeEVjUVRmdm45QUxQQWlqWFRNZVl2TF9kX1djMUsxN3lmNmN2Ymd0dGJrRXZCWDVEbzVfWHpJUDU0QWYyR2sxd1NSaFBXY1htV0IzV0ZqclhlX00xTFJfYWt6S2tJMVVmZm0xenAyNkdMaGpaU0cxVE5VVG9pbmVTbTJ3?oc=5).
 
 ## Requirements
 - Python 3.8
