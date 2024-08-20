@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Bachelor Alum Ben Higgins' Wife Jessica Clarke Is Pregnant With Their First Baby - E! Online**
+**Celebrity Hosts for This Week’s DNC Revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ1JBU0E1Y252QjlJSy1KT1podk90b2lVeHA5Z1FFbFE2Zi1BVUZwVm9Uc0p3RE1WekU2d0poU1p6TjRobEJRRnQ3S2R5cDFxaHEtbmw4b2NVMUJnODRXX3ZwSmpQRk1qUkpldERtcjZRYXpsdzljUVlBSEcweWh5V0VwNm5qLXdYa2owTFNvdUJyc1RzaXR6OWhxWnA0cmNmOHZrSzhlblFHaktvZjlQcWY3c3RFcndiaE9GMw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0g2RG50VzQ4U1hoVUpoNDlRN2NBdzNwbUVWV19fWnlMSkxCWEdlZmhwLVY3NGc2cjBVckRBZTJFR2RvcnU4aTFXZ0dEMXY2eHRuUXJBTGtXQkh0QlJsbTg2b3VxV2s0RmtpOWFaSmozb0JleHlzRlpIbHdPRDVlYzBtUm8xZ215d1FDSE9lSFJkSlpHZVh2aDZuVkdSTzVLdU9Ga2VwNWhoVjBCbXcwOWJjUkdsZw?oc=5).
 
 ## Requirements
 - Python 3.8
