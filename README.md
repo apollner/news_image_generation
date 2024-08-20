@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legendary TV talk show host Phil Donahue dies at 88**
+**Delight and despair as yellow jersey battle goes down to the wire on Alpe d'Huez - Tour de France Femmes gallery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTFBoZlJxMjNVc2VsdzROeU8zUEdEbFh5ZnJhOWlESEVLeDdCaEFkS0tUN0d2dl9kWUI4T3k1a0dBLUJCSzdnUXA2ajJDb2pyRE9mNTNKWWx5elNtYVhMamZnQ0V3X0dzellHcWZsWWVBN3hFTGhW?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSHlWYXU3TnRqNGNTb2Q2QWVzV3BUTUlVNnZ3LVdpV2F1MXZjdGJacDY4cG83bFY5NXJwX29IelJIYjNUSGstRGJlTE1PWlZOc3RYejhRX0t3UXB1SVQzUDkxRWI3Y2dRWS1nQm9YODBob0lFUzF2SDNxZWdkajhRREVEbWkxcUhZdGVpQ2lLLWF6QVgzLVJyUy1BWkJjNFhYalFNZXRBZHFXRzU5YTF1VXBDRjJUcDY3YVZXNGFiVkJfR201NTBwVWwxN0dNa0I5b01NZVUzZ2oxTlV1NWxwbQ?oc=5).
 
 ## Requirements
 - Python 3.8
