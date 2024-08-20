@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What does Bitcoin smell like? AI startup wants to ‘teleport’ digital scents**
+**‘Resurrected’ Democrats look toward 2024 convention with renewed hope**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkdxVG9jZ3d1Q282WFlTaXIzQUVEZ1RabThPUkJQWG1oWDNwcVROUWY5UUdDVFFoT3NGX2FlcGhtcTN3dlM2SHVUY1VjaUFmZUhYSG1RYXp0Z0FNX0ZyUFE4eG9mVkg2WnNaZUp6eTNqQTdxSGttV1RKTnZReXQzVTJlaGdPdWc1LWxVUDdsY1UwMDNLVnNtaE93?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm9IUzlFRXpBd3ZlTjB6SDFUSEZRRlRPQVVzaFpBc3ZuR2hGYkpVYlVFa0lxUTEwaTR3OFIxcXpOamZYLTJpaENfanBMbTQ4a0VLVmVLQVMxb2kyckxDQXBjMndpbXNlaDBGV2YzLWZWRDV2NzFYMTlXdDIwbjc2bFllVVFuZEc4UmYxbkdKWHp2VDB6SG8xMnRn?oc=5).
 
 ## Requirements
 - Python 3.8
