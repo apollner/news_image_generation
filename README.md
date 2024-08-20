@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrity Hosts for This Week’s DNC Revealed**
+**Ukraine aims to create Kursk ‘buffer zone,’ Zelensky says, as Kyiv’s forces blow up second Russian bridge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0g2RG50VzQ4U1hoVUpoNDlRN2NBdzNwbUVWV19fWnlMSkxCWEdlZmhwLVY3NGc2cjBVckRBZTJFR2RvcnU4aTFXZ0dEMXY2eHRuUXJBTGtXQkh0QlJsbTg2b3VxV2s0RmtpOWFaSmozb0JleHlzRlpIbHdPRDVlYzBtUm8xZ215d1FDSE9lSFJkSlpHZVh2aDZuVkdSTzVLdU9Ga2VwNWhoVjBCbXcwOWJjUkdsZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFhGV2VuY3phTUNQTGtZLWlUbnd6NV9GMWx4MzlrR0hKbVJJa1RvbnBWQktUMFlkXzhKRTIzMDNZOFZRNlpqTVlVOG9XVTFWMmxjRVcyY01Vem5XZVRHRGF1NFp4SmhjWnZqTzhnYzFnOXNQSWgzX0UyeXl5LUhoU3ZYZ2xfTEo5QlZIcUg0c0kwZU9UclpV0gGOAUFVX3lxTE85R3lfWFBVcUVrckRsaThXRlVBU21vQktJSDNmZkFUeFJiY3dwVzNQd2NGZ1JDc0R3SEtnZkhSaE43M1FTeUhoUEVNbXh4WksxNGRsbVFZNDV2LURhenJBay12Z0ljNVdOLVg1N1VNb2hBNGdWQkxJSVNTQ0NNZkZ3TXV0OUd3TUxyODNQUUE?oc=5).
 
 ## Requirements
 - Python 3.8
