@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One dead, Britons missing after yacht sinks off Italian coast**
+**Legendary TV talk show host Phil Donahue dies at 88**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE45dUFrV0V6Z08tRUdXdVlnM0hTOFE1S014NzBMWHRTU2VIMGk4Zk41cURtZUIwTm5sOTBHY3piUGtIWlhUWUs1NDFSWkJ0QUNZdmtrZXVUQTVyUdIBX0FVX3lxTE5EemxoNVhQbG5mNHpGSGhvNTNQazR0YTRLRDFOelZoN0tOZk43M01iVndiM05pQlpIajRPcGdKa3dqUlFBaGtxUGt2Tml5SEtDTWdLYXJpODh2S09sLTJN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTFBoZlJxMjNVc2VsdzROeU8zUEdEbFh5ZnJhOWlESEVLeDdCaEFkS0tUN0d2dl9kWUI4T3k1a0dBLUJCSzdnUXA2ajJDb2pyRE9mNTNKWWx5elNtYVhMamZnQ0V3X0dzellHcWZsWWVBN3hFTGhW?oc=5).
 
 ## Requirements
 - Python 3.8
