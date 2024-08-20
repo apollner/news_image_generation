@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It didn’t happen’: Becky Hammon denies mistreating pregnant Aces player**
+**The 2024 Democratic National Convention starts today. Here's what to know.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmg2WmJHcGZqZnVXMXBBVFR5YmVESFZ0ZzFtUktmdC1mXzYxT2dnVW90a3RwMUhfNDMtQm01YmNBc1dQRU85OTRvN1lkc1VfTmRoVkVMZEVnU3JvZkJXVW1DdU5hRWRDSWVjS0RGMU5SUHFnNlJIV0M2b1pmSndKbHJpZkNtNFR0Qkl1TGFldFlIUEhGRjd1bExFX0tOT0VIak5sTE9zYXI2UXNueGh5SVQzdHlaZkxCOW1wZkdVVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPTW1KSUl6T3lDLUIxUXlfSTNqME0yWm13WEhMSHp1Zi1yUFdJMTN1TERnOTBFVWE4ZHB5dloxMlBjeFNpUTRmdG9SSENWUFB1Ylg1ZURQMVhKdzJITFJtbi0tT1NCclVFaExVYzZVNk1ISERfdzJPNzF3a3FTOHlJV2RCSlXSAYoBQVVfeXFMUGZpRHFsSWh6bzU1SUs3U0NOUDdnNm9UN083ckU0c3hNb1ZmZ1pVU2JVRmRMODl6U1hvMW5PMWF5T2JTMDVJTVZSZUVEZGRSdTZuQW1jaHpEUFBVd1FRZ0o5R2FhVmp6dDNBMjdyVnFBVW1DRTltM1ctdUlldExWMEh5VVF4NnlWelln?oc=5).
 
 ## Requirements
 - Python 3.8
