@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 305 notebook: Exec Dave Shaw on Perth's no-brainer top moment, the judge relieved mid-event, more**
+**Gay man says he was assaulted by Shake Shack employees after kissing his boyfriend at D.C. location**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQM3JuMnBxV1NSbE9WbjhTRnpIR2xLdmpaQm90djdSOUxJV2xEWldHZTY0VmE2ZnlzY0xSR0NCb280dk81U0s0ak0wQ3gxaWRwazVTSVI0aWFxUE5Yemo2c0FxUjgtZk0wbnpNTjc0bE5RR0F1WWdKVlZ2OGpDUkdjUXQ5SmRBQ1dVXzUxNFdpTUZJQzRtLXdiTkh0MldfSHJ2NTBYczhjNnhmaDU5ZjNWVXI2OE5FMUU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxNTGc1dkJXQ0pXbWYyWHAwdEIyTnprOHFYNmRiT0h2QmVwZVE3VDZIdzJzQ0FwUEF4T1JSSUxOV2xZZkVuMHpQdFoxcHVXdkM3Z05CU2diekpBWHVnX3psYU96MXdXWTZUeml0WlpmZThPbGV1Q0hYRlFXSkZpVnpoYlBDTHc3eWpfRERONjBFVkVfRlF3NzRhcG5UZ0sxV01PVzd5cnl2T0dWWV9VZkpSUExYdW1fWnBqci1aeXN30gFWQVVfeXFMTVYyOGxVYzZvZE12bzlfYTJaQVl2S1NMM1lkLXdYd0xENmQ5YkxkU2ZuMnAtb2dsaXFoRWRPQUJHV2ZqeW41UEdWY0Q1T0hfSE1LZmNXeHc?oc=5).
 
 ## Requirements
 - Python 3.8
