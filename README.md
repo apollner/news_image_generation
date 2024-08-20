@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Conservative Republican endorses Harris, calls Trump a threat to democracy**
+**Dricus du Plessis retains UFC middleweight belt against Israel Adesanya, who touted Africa as the winner**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdlVwV2E0YU1KSEpFdllWZ083MFN2ZFNjLTJ2S0lGM2pCVm85Z1dMRHlUVjBuVW8wMXpJWHB5dGtWejJ4RkdTYVM0YWxWNXZUYzNvLVdzZUZvTG5qZ3BsLUhjQnFiQkU4NnVnSVVxZ1U0MlI3WWEyUHRZMWp2RjFiWGlpS2JnRkZlUHNzVDBwLWU2dXd3NllTOUFfQURtNWJpSmFhVWZkWlpQOS1ObldWV3I2RUpxdC1yTWFyYl9vZEpxUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPMmZsRVlRZ3J6SktzN3BTam1pYWVkVElqWUFtaFVSSE5kWUFLOFVvVFN2M09mbXEyc1BLRWVRdjZZdVFUeWdwVFMwdHFFOUZtb19XTHh5WlJYS1FxUWVHeVg2cnhwS3JrS0xwMXFtOTBXQk1FQ19XeGttRjdxRkVpaXNlbkJKSS1LQU85VTZKOVBVLVUtLWU1VTd3UjMycXhoMWloWdIBmwFBVV95cUxNT0drUy1YMDVrWkxjTmVRbDl6WUM2NGdIM1J6YVJFcXFzZFgtUUpvRXF4VEZxTnNydjk1U25uMm43X3NDQ3M1TFhUVmowZEg0RjlPSGdaS0p4eHRSS2gtb3d3MVZSMXNFSXRRU20yVU9MWFFZZ3dMSE9SMVZJZlhnRWM2OXlqUEF4X3pLeFBKTFBxSGhtRURuY1B2Yw?oc=5).
 
 ## Requirements
 - Python 3.8
