@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures rise slightly after S&P 500 notches best week of the year: Live updates**
+**YG Organizes Peace Walk Between Rival Gangs, Takes Them To Burger Shop**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1tWm91all0ZDJqYlppd3VPa0hBWlk5RGlIcEhLeWpOTnhhZHlSV2V0Ulc5T3lGUUExMXJGMEh0NlJtb01Tc2tCR3VvQkpqcDlGbFRXTk94VERqNmNXWnZBejJLLWJkZ0VQZm9vQWFHUW5KWEtUWUFv0gF8QVVfeXFMUHItUmhBTE5faS05cHI0ZERiWUdhQlZnM3lwbHpBamJCeG1FUTNVeWlpYnVKckFyU21XWmZ3N2tKdy1UWGkwOG81cllUaHFId2VGS19YT1o5MzBIak11SndkWnl5X0lQc3owd0Nzejh2R1VrNS03U3oxb0w2YQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE84XzVDMk5nS3VFWGhIMklNVDV0ajZFbWJUVnhybkpCVGU4VHZRTjFEYnFvNm5HbjktWnpSNXBzVWVXTmdWOThhOHV3cnVzeTlWTFEycExUbXJsTExwNXhfN3phMHFLeU56aklOYllLeVFoZ3k2RDI1NU1n0gF6QVVfeXFMUG1hcVBYcGZLNmlWZUlVT2sxemJIc2FoNzA5MVpRTUwwN2lwWHA1MGZMV2FabUxTX1V3N1JYWUdGVGJnLW5lUnF5ckhpNmNwTFhkZlN4aGp0STJJRjBZUDc0anZ3VUllbk1Jd2phcHUzbnBZZGN6aW5uSEE?oc=5).
 
 ## Requirements
 - Python 3.8
