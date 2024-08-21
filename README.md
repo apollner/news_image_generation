@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Let us use long-range weapons, Zelenskyy says after Ukraine strikes 3rd Kursk bridge**
+**NFL preseason Week 2 fantasy takeaways**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHZaTHhfTFQ3Q0djQU82U05jUGpCVmhlNXZfeGEwMjNJVXZVWWdaX1d1N0VpbHpLaDdnZkZhMmRxdDJVc05iUmV5Q3A2Mk93VFJ6aFFrSF9QLUdTTV9OUzVoX1J6TWtId0duQ2l0MXFyTXJzWUdaYUJfelB2M2k1aUNCYk52LWVIR2wtU3VrMl9yc3VOU0hhUDlfRFJVYldtWEtvNk43azFKcW5iRG5xTUE5UF80LTdkckE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjdlWXYtQlhUeTRHM0p5OWZDck9QNXZlM0gwM2ZmLWxqdVFyejlIYXNOdGtZSmd4VEpiNzlYWUl3bWNqNDFUUElxdjk4VXA5bXd3NlNnNHAxdlA0T0YtTWxrSER1SENrT204VzhMa05OdGs0czU2Y21GeDNPazNieDZOZ2hWUVRqMktNYzJicw?oc=5).
 
 ## Requirements
 - Python 3.8
