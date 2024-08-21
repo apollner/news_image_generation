@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obamas to headline day 2 of Democratic National Convention**
+**‘It Ends With Us’ actor Brandon Sklenar addresses online ‘negativity’ after backlash related to the film**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNcFhSa0xlejUtMDA2c0o4NXNobDdla3FzYVVaWlNSMGtNT3k3OGt1bmRkMmIxeC1uUGdBZE45R09FMmJWRWtVdXJSbVRLdmI0X3NaWHNTcjBtSTNORHppQW02UmNmQUZSRGFvaHZnSTN1NUQ0bUd4dFEtMWp6eTBuc1JmRm02bURvaHNfaG9wS2ZVejllUTZCLQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEtESGRYaWExZDgxbXp5RklDbVYxbDNzT1FyNy1YLV9WSlV4azhwSERDeDJqUTVjNnpPTF9JYlBMVlBQa3JpV2VPUUFqMS1lYkFlSFpUa3Juc09hdW1uZ0psc2lyVUNpTkJOVXpqbW1CeExDZC0taVNkc3lCcUZCQm5hcDRCaF9DZ1ZWakVSYmrSAYcBQVVfeXFMT24tQVpNQ0NRb3M2UC05Z3NCb0FCTy1VVVF0TmdWOXp0ZHR3SHh4YTk4UUNKN0tucXgwZ0t4VW9LdlktRVdSbmRzQ3JMZXV1LW5SNjgxUXZsc21CTG55ajNkeTVBWnRNWUlHNjBtcVBiUXJ2Zlh4Tzhmc0IwN0NDMWRHaEFuT2JF?oc=5).
 
 ## Requirements
 - Python 3.8
