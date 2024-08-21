@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu, accused of 'abandoning' hostages, says cease-fire deal may not happen**
+**Gamescom Opening Night Live 2024: all the news, trailers, and announcements**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjBNc01hSE1FWmI3Y2tQZE5zQWJ5MU13bWQxUWppTllQT0VUZk5YcWUxOHVrS1NTVW9VTnJ0UTllQ2xUcFJnem1PUElMM0x0YmtJeVhUdnJRSkI4cHk3QXB1UEExYXhoMU0xdzdnUDVOUmt4YmlaQkNGTkpnX0I2WU1QOFpoNE9HSDFKZFdaa0VwNURSd0lzMTIwa1BaVkM0Z09BWDRudnZtZF9ZUUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUxubG95UWxXcjZvTUFVZG1iNjFib1Vvcm1ZdGE0ekFvVHVKZmRGaFphTjlHNGdHMXFfbUdHRTNIYW1YdjI4TExwNlc2M2ZybUVQSXRmeUYwdlpBTkFMcjM1OUlSZ1NiWVBHQWU1cFZuWmZrX05JbGIwY3phLTJaS2hPV0pqUDA?oc=5).
 
 ## Requirements
 - Python 3.8
