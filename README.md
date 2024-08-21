@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It Ends With Us’ actor Brandon Sklenar addresses online ‘negativity’ after backlash related to the film**
+**Hamas says Biden shows ‘blind bias’ toward Israel in cease-fire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEtESGRYaWExZDgxbXp5RklDbVYxbDNzT1FyNy1YLV9WSlV4azhwSERDeDJqUTVjNnpPTF9JYlBMVlBQa3JpV2VPUUFqMS1lYkFlSFpUa3Juc09hdW1uZ0psc2lyVUNpTkJOVXpqbW1CeExDZC0taVNkc3lCcUZCQm5hcDRCaF9DZ1ZWakVSYmrSAYcBQVVfeXFMT24tQVpNQ0NRb3M2UC05Z3NCb0FCTy1VVVF0TmdWOXp0ZHR3SHh4YTk4UUNKN0tucXgwZ0t4VW9LdlktRVdSbmRzQ3JMZXV1LW5SNjgxUXZsc21CTG55ajNkeTVBWnRNWUlHNjBtcVBiUXJ2Zlh4Tzhmc0IwN0NDMWRHaEFuT2JF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVdNT25ua3ZHT045cjQ3QU5TQ29EaWdXRnBobTNaNERxYU12NlZKcXBpREtXYjhSZ0dWYkR5bGhwaWw1cGVCY0ZBNFhPY0c5MFIyZTJlelAwUndIc2lPUGRnX1ozUmRYSmdsRXZFcTlEZkxOVzVjeExYTWZlRkFXTFBiUHhPQms?oc=5).
 
 ## Requirements
 - Python 3.8
