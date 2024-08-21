@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Plan B: Why SpaceX Could Finish Boeing’s Starliner Mission**
+**‘No warning’ before Gaza City school strike : AJE correspondent**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHNMQVNqQTd0Z0I3MXV1N3lDX0V0TGplWGY4UFlRTHdycWR6dldvcXltZV9KT2QzX3M5Z0QycHR3SzdCd0QtdlE4UXJkbmRRaERZbXBGM3daMHhiMjJOdDRPOXVXYlZkODc2bEdGY0p4TkFiT2dxT3lFaVlacFREMnNCLVpxalFBMVYyUmNIa3hqSHVxbGFkZldFVkxEa29oMUZWNGZ5VGhVN1d0U25CQk5pX3V0cDQ0dFZ0UTJCT25aUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC1MyZDJYNU9USHNnmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
