@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Search resumes for Mike Lynch, others missing after yacht sinks off Sicily**
+**August’s supermoon is the first of four lunar spectacles**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVDR0aU9CcjVwQnFrZWFuNzhoT1UyVFdFX1ZxeVUyTmxlakNmbHFQbld0b3FUbFNKRndhS29vTUZHZTVzSTIydTZWWVlvdENwaWdZUzczQWR1cVBKb3FfVTF5eXNwdXhQcl9NSEszUUQycWNNQVpOZ1JmaEFnLWJhX3c0UFZSVjMzNkNjdXlaN29PZDNEZ0phY1A5c0dlVjZQejVfalVpdFRiQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPaWQ3ZlltM21rUThFeHhvYWo1a0ljS1VwcktyVzRBajc1RWJqRGVMVjZHUU42VUhkWWhJM1AyQzFIZ0dXa3ZYdGdBeTZnelc4TVMxMUZvMTlrUVNuUE5jSGp4bkdjUWR6Q055RDZxNUhNM1VYV2hjZUZvd1RIU3g0ODRzUWxnUQ?oc=5).
 
 ## Requirements
 - Python 3.8
