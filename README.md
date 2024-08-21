@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New fencing goes up outside DNC a day after pro-Palestinian protesters breach outer barrier**
+**Army and police missed chances to intervene before Maine mass shootings, final report says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBEdXJobi1zRjVNdFVhbUx3S2ZmUG1YUEJRSkNqZm93N1pxTjR3TWhDMV9VeUs5VFFXS1RDejBEak5WVC1zNjRacEptV0hZVWF4dzFQQ3pROWEyOTBLQmRjZkJLU3cwck9UOWdQd01sd1M2TUJnNGZQaNIBb0FVX3lxTE9jTTRxUmRPVlh0VGtDX1ZldEp6aFRJWC12eUVUeGFfc2dFaVNVMlR5Q1otOG50Wno5VzdTMzJ1YUpXMUk2NE5nOXQ4T2pMSnFxN2tPZ0JlcVRmY0gyRTFLV0h2Q2wtb1RlN3kxU3lNRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1UtdnR3cmNUNWJ1bXRTWUtWN2h2X2NBVjdkMXIzSHJnd3Izb1RQeV9rUDN0el8wZ0JDS0dQOXlYLVB0SFItWFY2ZFpJNkZhclVZS09vbG5DZVRMUkpFR2w4RWJOczZlSGI4QkFTVzJRZjJkNC1sUkdrZTVMcHFoQnBTdDRkR0EzVk5DLWxNb2lmUVYwemotclNsOHNGU1gxZHlV?oc=5).
 
 ## Requirements
 - Python 3.8
