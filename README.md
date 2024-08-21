@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gamescom Opening Night Live 2024: all the news, trailers, and announcements**
+**Harley-Davidson hits brakes on DEI**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUxubG95UWxXcjZvTUFVZG1iNjFib1Vvcm1ZdGE0ekFvVHVKZmRGaFphTjlHNGdHMXFfbUdHRTNIYW1YdjI4TExwNlc2M2ZybUVQSXRmeUYwdlpBTkFMcjM1OUlSZ1NiWVBHQWU1cFZuWmZrX05JbGIwY3phLTJaS2hPV0pqUDA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXVZVVZKR24xMlVnNlp6V2NjTVhGT09JT09KY1BzV1B3OXJJdDZSa3VIN3RkOTNobzQ5M2RCaTMtSzF6SnAtVThjSXBzOTg1X1p4LVM1VE16bGZvTDlTNHZTdVBlaHl6MkptYmJ6b3B2R3pxeWxJN21kMmpORE41RE9MZG1NSDFLQ2lVXzFYUdIBlAFBVV95cUxPbDVoekJkbWFrVC1DdGpUdi04R0R2YmU0MmhiQV9hLTRILTFZSGZ0Um9ZZEY0U1FhLW5mQ2dHX3lkamZwZ0JxY1ZFbURJa256ZW9aOGttQ3JCWDdQQmFMeXlUSmF3ZzRzbG03TGN0MTNETTNoaEd6VjVvNkNEYUlWOTlaVmtHdV9LMGNQcmc3aGV3Tkcx?oc=5).
 
 ## Requirements
 - Python 3.8
