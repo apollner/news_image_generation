@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First at-home syphilis antibody test gets FDA authorization as STD cases spike in US**
+**Floods from ‘training thunderstorms’ lead to dramatic rescues and 2 deaths in Connecticut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGY4cl94eHZ6RmZuQ3dRQXMyN0F1dUdMWEpQdGZyRHNZTUxiXzlxUERYVmpTTlY5eDlNYVZxSFZyU0RWMm9ZUkxNamgtZmpUcGxVeTBIMXhvNmRyRWdRMC14cktmQXoyZTR1aW5JQkdDeGhiY3B4YUdDekVDVjA4eDlaaHZ1Z1p2ekhNU21jMXAzOHhveHJhMWM4eDZfYlFvVmxFZlVqQWJwUdIBrwFBVV95cUxNVkJBZG9JV2F0cUFaY2hZc1pWWDNlZHRxSzgycjJtai0yYmZCYTFYN3lNQ2E3bmhFcDV5a20zMTkwd2pMbzRDN1AtZGhiTktSMVJ4Wk5kWWhCa3F6Wmp3M2RFUzgyR1VmY0tjbHp1aTMyMGlSN0RMYWw4VVVQNkhxcXVnamhodmwxaVJneXB1dDNFMWF2OXIxOVRURTJkcXBTUlNpMmtFd3Z5VzFfU0hN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmpEcnI2YjJwdU9jTExCR09JRHl2cm5NNmZ3eTFZdDZvdUJxTkFGazliVWZJMHpMdE9yY0xNeDVqSEY3MWtwZWo2eWhCbWE4dFkwdkRKLUdMcXh2V3UxRmtKMnk4LXFlbjRFQTlDWGRSQTlwbmtFaWl4UWthQ2VWTFRiYzd4MXRvaTg4UF90Q3VDM0hvZy1JUE0wVQ?oc=5).
 
 ## Requirements
 - Python 3.8
