@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Floods from ‘training thunderstorms’ lead to dramatic rescues and 2 deaths in Connecticut**
+**Six people missing, including British tech tycoon Mike Lynch, and one dead after tornado sinks luxury yacht off Sicily**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPRmpEcnI2YjJwdU9jTExCR09JRHl2cm5NNmZ3eTFZdDZvdUJxTkFGazliVWZJMHpMdE9yY0xNeDVqSEY3MWtwZWo2eWhCbWE4dFkwdkRKLUdMcXh2V3UxRmtKMnk4LXFlbjRFQTlDWGRSQTlwbmtFaWl4UWthQ2VWTFRiYzd4MXRvaTg4UF90Q3VDM0hvZy1JUE0wVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQcw?oc=5).
 
 ## Requirements
 - Python 3.8
