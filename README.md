@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Santos reaches plea deal, pleads guilty to wire fraud and identity theft**
+**Two men charged with murder of General Hospital actor Johnny Wactor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTFBhdVdfYXJFWk91TXVjdENrUkdvOHZNWGVUNVU2aG4xY1JYa3VTN2dsZFdpdFFVSldPQ1k5cVpMUk5lQzRMWEh5ckNkSncyWnNLQnByaEwzNkVKbjJ6MUFOYWZyZURjS0U5dWVrVTNJakZiS0YyUGFJ0gF8QVVfeXFMTnRJbU9xamI0SkhYQmVmRlRYLUZYbG9JZzVsTHRQaUg0Rm5Fc0RwbFdxdWZUay1pZVY3MlBDR2EtRUhpNm83Z0F4b1Z6Q1Vta1hhcVJONS1qRHl3YjRaSnRyNHZNQ0dxcXo3ZXZZT3k0YWVQYVlaMmJIOW9weQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFMyMWgwb0ljNzV5QUdNb29SNDNzTjQ0bWV4a0NMZmtwbDFrcjJiaGR5aGJHb3FCLUVyVUhLOWtNcUQxcUxseTdYemZ5VUNKalhHQmkxbFpRY1hrRmxib3RmbU9jbGJCc2NCcEE0SXdlcmVUQi1CMnZPdzc4RExhSENqUHdJelV3YXVR?oc=5).
 
 ## Requirements
 - Python 3.8
