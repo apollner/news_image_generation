@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Todd Phillips Laughs Off ‘Absurd’ Critics of ‘Joker: Folie à Deux’ Budget**
+**Ukraine has destroyed or damaged all three bridges over Russia's Seym River, Russian sources say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxObXROc1hZWkFIV094OHhXWDAza1VhMzJZdW5kNk5qc3BTcDdzRXVMVXRmb09LbGE4a1dLZXJhOVFGSDNEdFd4aTZHTENzanFHVy10eEV6aHVNTjdmU3B1bEtFZnczWnBQemJyOXNsOXNubjQ3UTlYNG5iZmFiaDlNRXQ1VnZSUnJhZ3ZVNkNPdWk1cGVpaTRjUWFYVXVqcXZCV0FRTnVna213cUZlVllZalJMTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHR5N0FrR2cyUDJVcXJ5aXJlb3JVVEh4V1VVeEJPWW5Ra21kQVkzMFpkZG5OaU1GeDNyQjNuR21iX1N0M2NnVnJXN21CU01ERDNIVVhfMUduSEZVZ01iRHFkUS1DZmg5eXFQQXpYUlZsRjYzdnhBb2tLWGN4RlljckFXb0wzU0k3VU1kajdPUjFuNUdHLUpaZm9JT0U2M3VZSVRncjZvU0Y5Z9IBrwFBVV95cUxPNGI5X0VnckVPNFY2T0RlWEhjUWJ1dHlyN0piQzA3M0NMOWROQzJtVHRjTUVnNGZhaUlNdDVEZ21DZkZTNXMzWTBLZ2ZmRHF2M1RRMEpXRXRTd1VPZHlHVnJmSmphY3VmdG5IVTluMWZIUVdSS1hQQW91WHJNUGY3c3JPT2o2QU45N0l5Y0hFSU03cmlqN2luRDhvdU1mSVZNb0FVRTc4QUI3RFM5eGpF?oc=5).
 
 ## Requirements
 - Python 3.8
