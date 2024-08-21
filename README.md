@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Army and police missed chances to intervene before Maine mass shootings, final report says**
+**Hamas says Biden shows ‘blind bias’ toward Israel in cease-fire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQd1UtdnR3cmNUNWJ1bXRTWUtWN2h2X2NBVjdkMXIzSHJnd3Izb1RQeV9rUDN0el8wZ0JDS0dQOXlYLVB0SFItWFY2ZFpJNkZhclVZS09vbG5DZVRMUkpFR2w4RWJOczZlSGI4QkFTVzJRZjJkNC1sUkdrZTVMcHFoQnBTdDRkR0EzVk5DLWxNb2lmUVYwemotclNsOHNGU1gxZHlV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVdNT25ua3ZHT045cjQ3QU5TQ29EaWdXRnBobTNaNERxYU12NlZKcXBpREtXYjhSZ0dWYkR5bGhwaWw1cGVCY0ZBNFhPY0c5MFIyZTJlelAwUndIc2lPUGRnX1ozUmRYSmdsRXZFcTlEZkxOVzVjeExYTWZlRkFXTFBiUHhPQms?oc=5).
 
 ## Requirements
 - Python 3.8
