@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six people missing, including British tech tycoon Mike Lynch, and one dead after tornado sinks luxury yacht off Sicily**
+**First at-home syphilis antibody test gets FDA authorization as STD cases spike in US**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQc9IBkgFBVV95cUxPc0JWR2MzS1FzSUU0TVVWakhLdjlOaE5KSG01SW84WWVvNWpPNVNNUkdzNkhSN2xzVTZ0ZFlGbkNlWWttdENLQ0tjb0daZ0RLSmtBY2dOMXZ4bHFsdGdteTZEblJwMTEwaDhscXRUT2FBNEJtM05JT204TXJ6d3QzZjJURkdEbXROeFpDUmZoaExtQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbGY4cl94eHZ6RmZuQ3dRQXMyN0F1dUdMWEpQdGZyRHNZTUxiXzlxUERYVmpTTlY5eDlNYVZxSFZyU0RWMm9ZUkxNamgtZmpUcGxVeTBIMXhvNmRyRWdRMC14cktmQXoyZTR1aW5JQkdDeGhiY3B4YUdDekVDVjA4eDlaaHZ1Z1p2ekhNU21jMXAzOHhveHJhMWM4eDZfYlFvVmxFZlVqQWJwUdIBrwFBVV95cUxNVkJBZG9JV2F0cUFaY2hZc1pWWDNlZHRxSzgycjJtai0yYmZCYTFYN3lNQ2E3bmhFcDV5a20zMTkwd2pMbzRDN1AtZGhiTktSMVJ4Wk5kWWhCa3F6Wmp3M2RFUzgyR1VmY0tjbHp1aTMyMGlSN0RMYWw4VVVQNkhxcXVnamhodmwxaVJneXB1dDNFMWF2OXIxOVRURTJkcXBTUlNpMmtFd3Z5VzFfU0hN?oc=5).
 
 ## Requirements
 - Python 3.8
