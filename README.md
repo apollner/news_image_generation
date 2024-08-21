@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas says Biden shows ‘blind bias’ toward Israel in cease-fire talks**
+**Netanyahu, accused of 'abandoning' hostages, says cease-fire deal may not happen**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVdNT25ua3ZHT045cjQ3QU5TQ29EaWdXRnBobTNaNERxYU12NlZKcXBpREtXYjhSZ0dWYkR5bGhwaWw1cGVCY0ZBNFhPY0c5MFIyZTJlelAwUndIc2lPUGRnX1ozUmRYSmdsRXZFcTlEZkxOVzVjeExYTWZlRkFXTFBiUHhPQms?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjBNc01hSE1FWmI3Y2tQZE5zQWJ5MU13bWQxUWppTllQT0VUZk5YcWUxOHVrS1NTVW9VTnJ0UTllQ2xUcFJnem1PUElMM0x0YmtJeVhUdnJRSkI4cHk3QXB1UEExYXhoMU0xdzdnUDVOUmt4YmlaQkNGTkpnX0I2WU1QOFpoNE9HSDFKZFdaa0VwNURSd0lzMTIwa1BaVkM0Z09BWDRudnZtZF9ZUUE?oc=5).
 
 ## Requirements
 - Python 3.8
