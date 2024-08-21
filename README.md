@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 leak just spilled the specs and prices on all four models**
+**Bodies of six Israeli hostages retrieved from Gaza, Israel says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2VlNTlYRjBVVXRPdTE0b2JRc25rNWhYS0xiTk9UQmpWczNQWGIzb3E2WTllb2lUSmVETExrVHhQVnFmVkN5QkNxVTNZTXd4TUVRVDJsNkRyMGpxUmNYMFhBQlBVVTluLTdhQnZ3NjljeTYtM0RZZGpIbzZPTFlBWjVhcXpONVBETG9UdVh2b1ZhelJzdlFYc25pV21MbGd0azlyVGhYOWJiclQ0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdExucW16UzZEakNhOFNqZklEQlNyUGFsOVI5YjhvNnNaTUxkSzN0YlFMSVI2TWxaOElWblotZ1V0TUpvSEZFdXFyVUlBVmV4Q2wzbDdYVl9hc1BvTXdxMVpTOHVLY0JhZ3pSRkpQVVVFX3hJNE1sUERfOU9HWE5TUHhFUEFLd1ItWU800gGCAUFVX3lxTE1tbU45bGw3MkpzNFJvcTBuQWNnQlo5dnJYclJvWVZtQjRPQVBrU1ZnVm54bTdBUUVQTTcxMDhmckJFZTFqRXpPYndaQU5mU25lWWRhNE5IbWFJdjhfQmhEdERnQXlJaDZfc3oxME03cEsyQndvR0k5dUFwS0VXMk1Wc0E?oc=5).
 
 ## Requirements
 - Python 3.8
