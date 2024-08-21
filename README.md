@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘No warning’ before Gaza City school strike : AJE correspondent**
+**Stellantis says union can't strike over Belvidere, claims it hasn't violated commitments**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC1MyZDJYNU9USHNnmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHNYRlJHamZLazdOX1dvanVGUVRsSDM4c0pnRFl4WjBQVjFtdm5hTU5sVmZNWi0zVVdsUzdFa0xWdEJJOXdFTGY5bWNWZFp3QnFRTTByMnk5ZU5MMEEwbE1nV1Nod2UxOTIzemJPeXA4OGlwU0pneWdiQS1MQUFZZjZzc0luS0hhd21RUnZNTUM1Q0k3c0czNGlCZFBmNm81YWpQRkZaZmdndV9xZDY3WDZLLUg4REZDYlh3SVFYdFJsOTg5enow?oc=5).
 
 ## Requirements
 - Python 3.8
