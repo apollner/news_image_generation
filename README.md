@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Union slashes planned tariffs on China-made Tesla EVs, other Chinese firms**
+**NASA's Plan B: Why SpaceX Could Finish Boeing’s Starliner Mission**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDU0WU9VU3h2Qno4VGl1UTU4YXFfRHFzcTZYeEdjSnU4bzh1eFVreU9TeE9td3lSN1Q0ZnQ1YmxBMHNCc1ZvRWZhN29IOGdzWnJ3dmVEOG9HMlZxV3ZIbHBBLW9QX2ZDb1RZMDdHZVFJcm5TTlI4NV9yekFZZ1h2eVFXWnUtZmltSi1LN1p0a005S2tqNXZ6ejVyYzktYXfSAaQBQVVfeXFMTVBtc2h6TTFwNGIyOUY5QmNVazRkNkZWdWxnVVlCTXkwbk5aeThPX0VGWVpBV0N4M3g4ZEhlcmVyRTlCOVFGZkRQMUJTdXlDN3YxckxjMUdDcGY1bWZNTVVZMEZTREtReTQxSjRPQVBRZEtMeEdfSlh4RXBrVW9XanBtdFZBNEtJTE0zY0d1VnlKcGV6cW9PdktFOFF0Qm9CZ0tUNG4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMHNMQVNqQTd0Z0I3MXV1N3lDX0V0TGplWGY4UFlRTHdycWR6dldvcXltZV9KT2QzX3M5Z0QycHR3SzdCd0QtdlE4UXJkbmRRaERZbXBGM3daMHhiMjJOdDRPOXVXYlZkODc2bEdGY0p4TkFiT2dxT3lFaVlacFREMnNCLVpxalFBMVYyUmNIa3hqSHVxbGFkZldFVkxEa29oMUZWNGZ5VGhVN1d0U25CQk5pX3V0cDQ0dFZ0UTJCT25aUQ?oc=5).
 
 ## Requirements
 - Python 3.8
