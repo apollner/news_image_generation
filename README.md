@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hillary Clinton tells DNC that Harris will break ‘hardest glass ceiling’**
+**iPhone 16 leak just spilled the specs and prices on all four models**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPSGRWbEVVUVFaNGJQMWdqQ2FRWURwRGt3NWxaMjNjeV85Q0g0d3otNll6Vm9WeE1lZ0E4Q3ZfZUd1d3RvMzVCa0ozbExqV0F4cVlwdE81N29uWFMwRmw0aG9uN2xic25OZEwtdXY4MjF1bDJGenM3R0VGVlF3dHZRTzB2cDU2Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2VlNTlYRjBVVXRPdTE0b2JRc25rNWhYS0xiTk9UQmpWczNQWGIzb3E2WTllb2lUSmVETExrVHhQVnFmVkN5QkNxVTNZTXd4TUVRVDJsNkRyMGpxUmNYMFhBQlBVVTluLTdhQnZ3NjljeTYtM0RZZGpIbzZPTFlBWjVhcXpONVBETG9UdVh2b1ZhelJzdlFYc25pV21MbGd0azlyVGhYOWJiclQ0?oc=5).
 
 ## Requirements
 - Python 3.8
