@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 2 grades for first-round rookies: Malik Nabers has A+ outing; Drake Maye showing promise**
+**New fencing goes up outside DNC a day after pro-Palestinian protesters breach outer barrier**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT3lnNEY3Nml0aEFld3pmbHZsbmN3QmNCWG1EcmtMY0F6SVhsZjVIOVYzR3lydndVY0h2bHZkcnp3NXRiM1dIcXFLZHVfUW4wMFRMWUV0YU5aaENULUVZazN5RUd5YlRXYjZjS0dPZHNXMUdNVm5pVEkxNU9VVmhIdjBCOUQ1ZnYzenVaa2xZanItdmt1cVROckVzT1MtMzdXQmtoandoSUdfbm0zemJubFpzZ1hSbEtrbl9fa21KejFLdTd5b2wweEJRVmtyWTdCNzF2RkVjc9IB3AFBVV95cUxPSEVEODYzVmlDZ0dpd0lQa0pfSjJDWk9QbWt3UE1Ra1VHNTNZb2RJWFp6UWVOLXVzSnA3em1kaWhDd3ZFV2RXV0FyX0VEeHhrb2t0ZUoybm5jZzF4Z2xrV1dfM2lLNXNISElLNzh6eUFlOEVTeU1fakJtb003cXc1dnpmQUstRTd1WWNVSWNsbE9BcUdhUC15dFE3SzFkaFNDeklELTNVS0p4clFxbWpJNzNLd29MZWZ4SXp6aFktSVV5NXdhc08zb21sa05KNWZlNDlHYmRabkJrTUhT?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBEdXJobi1zRjVNdFVhbUx3S2ZmUG1YUEJRSkNqZm93N1pxTjR3TWhDMV9VeUs5VFFXS1RDejBEak5WVC1zNjRacEptV0hZVWF4dzFQQ3pROWEyOTBLQmRjZkJLU3cwck9UOWdQd01sd1M2TUJnNGZQaNIBb0FVX3lxTE9jTTRxUmRPVlh0VGtDX1ZldEp6aFRJWC12eUVUeGFfc2dFaVNVMlR5Q1otOG50Wno5VzdTMzJ1YUpXMUk2NE5nOXQ4T2pMSnFxN2tPZ0JlcVRmY0gyRTFLV0h2Q2wtb1RlN3kxU3lNRQ?oc=5).
 
 ## Requirements
 - Python 3.8
