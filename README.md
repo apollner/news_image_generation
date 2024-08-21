@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harley-Davidson hits brakes on DEI**
+**‘It Ends With Us’ Star Brandon Sklenar Slams Rumors That Are ‘Vilifying’ Blake Lively, Colleen Hoover and More: ‘It’s Been Disheartening to See the Amount of Negativity’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXVZVVZKR24xMlVnNlp6V2NjTVhGT09JT09KY1BzV1B3OXJJdDZSa3VIN3RkOTNobzQ5M2RCaTMtSzF6SnAtVThjSXBzOTg1X1p4LVM1VE16bGZvTDlTNHZTdVBlaHl6MkptYmJ6b3B2R3pxeWxJN21kMmpORE41RE9MZG1NSDFLQ2lVXzFYUdIBlAFBVV95cUxPbDVoekJkbWFrVC1DdGpUdi04R0R2YmU0MmhiQV9hLTRILTFZSGZ0Um9ZZEY0U1FhLW5mQ2dHX3lkamZwZ0JxY1ZFbURJa256ZW9aOGttQ3JCWDdQQmFMeXlUSmF3ZzRzbG03TGN0MTNETTNoaEd6VjVvNkNEYUlWOTlaVmtHdV9LMGNQcmc3aGV3Tkcx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzMtVVpHbG45T2dFdFBuc2plQ1Z2eUhITGsxT1U1T1YzYS00b2ZIQ0lfYXJZTzU5VmhtNlZDd0g3MnhvdE5yX2k2WG9hZlJ6cnNyU2ZLRnowV1ZqWlhUcExNNXA5QkU0UWxKaWtBcEZyNkEyRGFzU3JCTFdlSTZndlpXYTg0dUxacjQteXZXTEU5WWk4S0ZLcmxSd1dySG81bW5QTzh6SmRoTDhC0gGyAUFVX3lxTFBxd3NwMWdHLWNVTk1oYndjU3JSaFpKaFowalV6QlExOXY2eVZKTWZ4NTEyR2RoTkxuYk16TV9mZGtXa0NZOTRtNTZ6elhyWG9JRU1jVWhfN2QzSFJueDkyaUNsV2ZkaTZkeURvZEhDSW1EaUEtMWdYNGNDMGJmdWhiSzRoOHRWTFMzaUcwY2J4MGZvZ1hxcGM3dlFLOFktQ3NEcGZrX1BhaGZYOUxKV2xSV2c?oc=5).
 
 ## Requirements
 - Python 3.8
