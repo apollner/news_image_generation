@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six people missing, including British tech tycoon Mike Lynch, and one dead after tornado sinks luxury yacht off Sicily**
+**George Santos reaches plea deal, pleads guilty to wire fraud and identity theft**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPM25HLVJUaXFkdHE0eDZKVlZONnQ5WUYtWkZmSm5fZjZlNjVVX1k1OWROM1lnYVFadUp3UHRsUjl0RExPLS1BSDNUVWl4YTdWZ0pJTWxKRU56bW9WUkJyak9iWXpZa1FReVpOVUM5S193WXUtWklfWUtYNTJycGpocXd4RUV4MDNqMkdxa05fUkdCVlFvZjBMYWZQcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTFBhdVdfYXJFWk91TXVjdENrUkdvOHZNWGVUNVU2aG4xY1JYa3VTN2dsZFdpdFFVSldPQ1k5cVpMUk5lQzRMWEh5ckNkSncyWnNLQnByaEwzNkVKbjJ6MUFOYWZyZURjS0U5dWVrVTNJakZiS0YyUGFJ0gF8QVVfeXFMTnRJbU9xamI0SkhYQmVmRlRYLUZYbG9JZzVsTHRQaUg0Rm5Fc0RwbFdxdWZUay1pZVY3MlBDR2EtRUhpNm83Z0F4b1Z6Q1Vta1hhcVJONS1qRHl3YjRaSnRyNHZNQ0dxcXo3ZXZZT3k0YWVQYVlaMmJIOW9weQ?oc=5).
 
 ## Requirements
 - Python 3.8
