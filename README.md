@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bodies of six Israeli hostages retrieved from Gaza, Israel says**
+**Morgan Stanley International chair among 6 missing after luxury yacht sinks in Sicily**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdExucW16UzZEakNhOFNqZklEQlNyUGFsOVI5YjhvNnNaTUxkSzN0YlFMSVI2TWxaOElWblotZ1V0TUpvSEZFdXFyVUlBVmV4Q2wzbDdYVl9hc1BvTXdxMVpTOHVLY0JhZ3pSRkpQVVVFX3hJNE1sUERfOU9HWE5TUHhFUEFLd1ItWU800gGCAUFVX3lxTE1tbU45bGw3MkpzNFJvcTBuQWNnQlo5dnJYclJvWVZtQjRPQVBrU1ZnVm54bTdBUUVQTTcxMDhmckJFZTFqRXpPYndaQU5mU25lWWRhNE5IbWFJdjhfQmhEdERnQXlJaDZfc3oxME03cEsyQndvR0k5dUFwS0VXMk1Wc0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzRmdmxNSFZrRmZHOW5zbkZGS09vSzJPNUFPSnkzZTlYZ3k2ZnNWQ1dSdlI2U0VuZUkwZTQ2azBuUUVkbkJVZGxaX3NsalJ4M1BEc2hXMUdlblM1WnlOZEFWMUpia2lrclZFY3ZBQVM4SklZcjA1V3JlUkZUeklubnVWNUdJS2FkWDFGQnYzRWhDMWlvQlphZ1JSVVppeUZlU3RJZlNLbzfSAa4BQVVfeXFMT1RnX2l0RkJQYmtSQU0tNFl5a2hmdC1TMFRKRHJROWVHX0tnakZJcGprbWdFYXRkYmtVNXMwc0dlbDVHNWtxYm9jMFh1WmVmbGFvQmNwZTQ5a3pZU3dwME85NU5vSmNxWHRJV1lCcWRlalc1VHp0Qm9BOXNjdlJHQTc0Y1BENENkbVJXckxWSDZZdTFTb2cxVUNqZWJhMjRRWEdodTFzTkFYNUhrQVFB?oc=5).
 
 ## Requirements
 - Python 3.8
