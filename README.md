@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine has destroyed or damaged all three bridges over Russia's Seym River, Russian sources say**
+**‘It Ends With Us’ actor Brandon Sklenar addresses online ‘negativity’ after backlash related to the film**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMHR5N0FrR2cyUDJVcXJ5aXJlb3JVVEh4V1VVeEJPWW5Ra21kQVkzMFpkZG5OaU1GeDNyQjNuR21iX1N0M2NnVnJXN21CU01ERDNIVVhfMUduSEZVZ01iRHFkUS1DZmg5eXFQQXpYUlZsRjYzdnhBb2tLWGN4RlljckFXb0wzU0k3VU1kajdPUjFuNUdHLUpaZm9JT0U2M3VZSVRncjZvU0Y5Z9IBrwFBVV95cUxPNGI5X0VnckVPNFY2T0RlWEhjUWJ1dHlyN0piQzA3M0NMOWROQzJtVHRjTUVnNGZhaUlNdDVEZ21DZkZTNXMzWTBLZ2ZmRHF2M1RRMEpXRXRTd1VPZHlHVnJmSmphY3VmdG5IVTluMWZIUVdSS1hQQW91WHJNUGY3c3JPT2o2QU45N0l5Y0hFSU03cmlqN2luRDhvdU1mSVZNb0FVRTc4QUI3RFM5eGpF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEtESGRYaWExZDgxbXp5RklDbVYxbDNzT1FyNy1YLV9WSlV4azhwSERDeDJqUTVjNnpPTF9JYlBMVlBQa3JpV2VPUUFqMS1lYkFlSFpUa3Juc09hdW1uZ0psc2lyVUNpTkJOVXpqbW1CeExDZC0taVNkc3lCcUZCQm5hcDRCaF9DZ1ZWakVSYmrSAYcBQVVfeXFMT24tQVpNQ0NRb3M2UC05Z3NCb0FCTy1VVVF0TmdWOXp0ZHR3SHh4YTk4UUNKN0tucXgwZ0t4VW9LdlktRVdSbmRzQ3JMZXV1LW5SNjgxUXZsc21CTG55ajNkeTVBWnRNWUlHNjBtcVBiUXJ2Zlh4Tzhmc0IwN0NDMWRHaEFuT2JF?oc=5).
 
 ## Requirements
 - Python 3.8
