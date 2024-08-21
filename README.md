@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Myth: Wukong PS5 Gameplay - The First 22 Minutes (Quality Mode)**
+**Trump reposts AI-generated images of Taylor Swift and Swifties appearing to endorse him: ‘I accept’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0ZZSWx6SDJVLWdVmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOHZUV3F4aVNfQUk4cTNFQXhfalJiLVVSRUF5eUFNWElHcHlTc3o5ekZYMWtDcG93YWdldDVSVW95ZlhtNGEyUWs3cGFXUFBMSGF4UkkyN0ZsTEJmakMtS25BckFid1lEVnVDN1FxM0xFbGs3YndzX3VydEstZ0JCTlpzSElWVktDMnR0R1dTYmxPMXRaVTNRVU9paW5vLVFGM2ZONDUzM05Bdw?oc=5).
 
 ## Requirements
 - Python 3.8
