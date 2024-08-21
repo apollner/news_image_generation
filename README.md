@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AOC speaks to the middle class in her first major convention appearance**
+**Black Myth: Wukong PS5 Gameplay - The First 22 Minutes (Quality Mode)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxQbTl4ZDJtVkt6MExnbUFfcVdtZW43Q3hWVkpnWGVqZlJ5cHdPVy04b3NwX3BTLVFnUGthZ1pCdzlJM0hVbGVJRXhsWXB6bDlvUUo5YXBYeFlRSVgxOWIyUVUxOVJoN1p4dVl6Ylcwc3VHU0FPOEEycUZlTEZYWnNzcWRYZmI5ZnJ4VVdyWG03cVBKQWtzOUY4QUhjR1RBUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0ZZSWx6SDJVLWdVmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
