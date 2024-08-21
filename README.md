@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two men charged with murder of General Hospital actor Johnny Wactor**
+**Let us use long-range weapons, Zelenskyy says after Ukraine strikes 3rd Kursk bridge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUFMyMWgwb0ljNzV5QUdNb29SNDNzTjQ0bWV4a0NMZmtwbDFrcjJiaGR5aGJHb3FCLUVyVUhLOWtNcUQxcUxseTdYemZ5VUNKalhHQmkxbFpRY1hrRmxib3RmbU9jbGJCc2NCcEE0SXdlcmVUQi1CMnZPdzc4RExhSENqUHdJelV3YXVR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHZaTHhfTFQ3Q0djQU82U05jUGpCVmhlNXZfeGEwMjNJVXZVWWdaX1d1N0VpbHpLaDdnZkZhMmRxdDJVc05iUmV5Q3A2Mk93VFJ6aFFrSF9QLUdTTV9OUzVoX1J6TWtId0duQ2l0MXFyTXJzWUdaYUJfelB2M2k1aUNCYk52LWVIR2wtU3VrMl9yc3VOU0hhUDlfRFJVYldtWEtvNk43azFKcW5iRG5xTUE5UF80LTdkckE?oc=5).
 
 ## Requirements
 - Python 3.8
