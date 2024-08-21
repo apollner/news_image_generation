@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It Ends With Us’ Star Brandon Sklenar Slams Rumors That Are ‘Vilifying’ Blake Lively, Colleen Hoover and More: ‘It’s Been Disheartening to See the Amount of Negativity’**
+**Todd Phillips Laughs Off ‘Absurd’ Critics of ‘Joker: Folie à Deux’ Budget**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzMtVVpHbG45T2dFdFBuc2plQ1Z2eUhITGsxT1U1T1YzYS00b2ZIQ0lfYXJZTzU5VmhtNlZDd0g3MnhvdE5yX2k2WG9hZlJ6cnNyU2ZLRnowV1ZqWlhUcExNNXA5QkU0UWxKaWtBcEZyNkEyRGFzU3JCTFdlSTZndlpXYTg0dUxacjQteXZXTEU5WWk4S0ZLcmxSd1dySG81bW5QTzh6SmRoTDhC0gGyAUFVX3lxTFBxd3NwMWdHLWNVTk1oYndjU3JSaFpKaFowalV6QlExOXY2eVZKTWZ4NTEyR2RoTkxuYk16TV9mZGtXa0NZOTRtNTZ6elhyWG9JRU1jVWhfN2QzSFJueDkyaUNsV2ZkaTZkeURvZEhDSW1EaUEtMWdYNGNDMGJmdWhiSzRoOHRWTFMzaUcwY2J4MGZvZ1hxcGM3dlFLOFktQ3NEcGZrX1BhaGZYOUxKV2xSV2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxObXROc1hZWkFIV094OHhXWDAza1VhMzJZdW5kNk5qc3BTcDdzRXVMVXRmb09LbGE4a1dLZXJhOVFGSDNEdFd4aTZHTENzanFHVy10eEV6aHVNTjdmU3B1bEtFZnczWnBQemJyOXNsOXNubjQ3UTlYNG5iZmFiaDlNRXQ1VnZSUnJhZ3ZVNkNPdWk1cGVpaTRjUWFYVXVqcXZCV0FRTnVna213cUZlVllZalJMTQ?oc=5).
 
 ## Requirements
 - Python 3.8
