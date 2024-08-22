@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Look Back at Chicago Conventions of Yore**
+**Fantasy Football Rankings: Full PPR RB rankings for 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNVVpGQTBKY2pKQ3o3S2VNSWZfTkwxOWVGblM4TllhQjJPcVBiMTJvTXRxQl9odzB0bFBsNUVUMTJSV0M2akpHM3pWTG9OTURYTmFtbE5rY1BzVWJUcEhiWC11OXl3dkduYzZuUWlhRFNxa09WS09KTTdQZFFKSXhKcFByTl9kM1N0d1lCajlPSU45enZMNUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDI5c09yZ2doN2ZzMll1UmY4NlRhRm02Q0RIdnhhNDhzMEFMQ0FMZTNSSlVmakJWbkpUb1FVdE5fSzJtaUpneVBaQzRybnBWOE1GUnBhUkZNQnNfa2pkaElDNktpNFowYXhnem54dlRuZ2lRYkhNTHlyT1pWWFBPMW8zbS1DbTRjc1FXVTVzN0dfbUlUd2lQczVuRQ?oc=5).
 
 ## Requirements
 - Python 3.8
