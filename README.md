@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Taylor On Why He Didn't Perform At DNC Despite Rehearsing On Chicago Stage: "Sorry To Disappoint"**
+**Target will report earnings before the bell. Here's what to expect**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVpxVXoyYTcwYUFodVNKUGVheTVXd0Yyc2RkdjdiQ3p3Zl9pempFcEVRNGM0OHRHV1NrYk5TNl9LR1dtQkt6aVN5OG9XMGxZWi1sQTJhSEJPcGpGVmlEMmVPbEJJdksyZ2tINW1BQ0ZCZnZZaG5PT3NYN0x1TjQ1X3VkQ0MwOGVweHdtT05Cc3ZjN0ZJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMickFVX3lxTE1pYi1sekFIbHdYWG5fUHJleUx2THpNTEZsallJbnYwc0xicEczWUxKMDhwbzBsRkdoeWVidWI3Vk44VzdwYzZ0TUJhMnpJUThLWVBUTkJVa1Z0RWsxa0E5YW5nNEVWNVdOZmR0X2JoWk5jd9IBd0FVX3lxTE1KLVhNbWlMNXA4Y2JfNHlDczd3LTRkbVRtcG0tcEZLRUFWVDIycDktUGw0a3hlSkdkS3JUZXl5dG4xaVNnTUg1Y0Q5V3k1Rm1JekFpVkdkMXREOHpqeElscERNZ3lCU0pfQjVPb3FNeFhBRlo5RGY4?oc=5).
 
 ## Requirements
 - Python 3.8
