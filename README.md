@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Curry Returns to the Big Screen in Horror Movie ‘Stream’ (EXCLUSIVE)**
+**Rare hypervelocity star may be able to escape the Milky Way**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMk83Wk9GTlNqNUYtb1Q3WlZ1dTM5cVJ2dkw3Wm1taW1mQnpOZlU2NDhIVl9tZm9Ta0ZLdFZsSVY4Ui1FYXZxRUtqVnNLcE9kaGNlLXZuMWhJRGY1Q2dzTjVvOWMzNzRFUDRubTIwNXFtS0dOblRUTFNkU1gzWmlHRzhhS0ItZzjSAYwBQVVfeXFMUGZkRzg2RGNfV0hfRmRKRWd5QnZYMUhpejY5NGRFZkpCUWFrekZUaDRjSVVOdE1nb2FTLTlTUzNYSFBaOVF4c253bjQ5UzZ1ZW9VaXhadjRCVUw1V08wNTBpWDhQeWVSakZnWUV0V0xJbEliVHJFS1hrcjhyUGRuRDE1OC1hWmhwcE5faUM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaldVYUxUcVVqaGhjamhhVFg3QWVTcnpqYXFHWnk2QW9KMi0yS2FQNE5ZY0pUcWhjN3N4akY4akE0OTNhdmtEZzBzV3lEczhPSmp4TU0wNElkMnRma2REY3NxUS1PLTd0R3htdTZCT29aaE1XeUFtWC1SYUZ4cFlNdDdLdWp2RXBrSTdDN0J30gGEAUFVX3lxTE9GQlJSQURyMVNReWFleGJNWWdPLThacW1Fa0NBTlBjY0V3NkRkQ3ZVNHdIM1VzTDhvWDFuNGVoREFnYmhMU2Z0Nkw4VUN3S0h1anBzX3RIMENuOHNwRFlsUG1vbGNObkdaVzY1S3VCbTh6WnVBejZGRkw4ZXg1THRveHVYOQ?oc=5).
 
 ## Requirements
 - Python 3.8
