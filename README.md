@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Brady, Peyton Manning mostly agree on the top quarterbacks in the NFL, with 1 exception**
+**7-Eleven: Japan convenience store giant targeted by rival chain**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFdQSlZFMUpzSE5taVNJc191eEQ2eVRZZm1faEdmcjEzc0RuTkRPd0VQZ0NSY3EwMzUtWjJRNVM4bXBER05fSTJZdG90cG9faU9Kd0g1TmZBWXVrUDJ5ZlBFOGpBLU9BWWdZc3hXTWphOEU2bWpoUXNlRGFlNHR6eUlic3U2QlBIYWd6dXRwSUluN3hMcDgtRFBsbVN5U255dVFhWDROa1d0M1cxS3J5b2NQamhfYWlyakVyS0FIT1hKcTBjNTBuRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejdLZVd2Ykx1S3RodjJZLUpEOHM0LWJ1Q1NoZ3BmTWVCOUxrMmRwcll3cUYzNXJSdzUzcDVrcDFzRmxiWTJHNGt5eWV2bDZqcklQVU1hWW1aZ9IBX0FVX3lxTE1kVFBsc2lydzZfM19nVGxlaTk4Z3F6QXpyTTAyV2ZaLTFZTWpndFNyeW82VTJ5Z3h1THoxWVVNdVNTTW02cEpfM1Z6TU55MVVPZzZJU2wyVEVhQnhvbG9N?oc=5).
 
 ## Requirements
 - Python 3.8
