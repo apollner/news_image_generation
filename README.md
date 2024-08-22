@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican DNC speakers try to prove Harris’ appeal across the aisle**
+**How Honor Designed and Tested the Ridiculously Thin Magic V3 Foldable Phone**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWhDeGlOX1NXaHF0MU0zRTZVYTdfV0dpbkM3MVRBX0Q3dGdpY2RQcG4xLWIzNi1nNEdqOFhGZ0pGc3h6aDZURTltcFlyZ3FTWEs0U2hlS1JCclZPeFRCdWNzYXRqZFhzWGlNMkFQellueDc4czhtam12OTZnbE8wTlNZcTlLRGdfVTJGSWNodHhuX1VBT3QxVldHVy1ZZGhBekh3UGxCeG85NnVBSFJ6TEEwNDdkRXdwcGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTF9zR0dKVi1XWjU5NTlCcGFSOE9Bd2tBLWxOdkpBc2ZKYndkME9uSWtpR2gtY3V1SVluaEwzT0xsUndUSjBpa0FLdzNZVjVGZVE1Uml6TEhxWldwOGp3aTZ4QnVYcFJLQlg0Tm1IZUR0aDhPR1JJbVM1NkxiLVVQMmRhcElCSU0zZGNfS2c3X3VscmpFcGZtZ09paGc4dl9kOGdRVVdKbEFxYm9QZ3c?oc=5).
 
 ## Requirements
 - Python 3.8
