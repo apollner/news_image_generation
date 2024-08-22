@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman nearly bitten by tiger after climbing over fence at New Jersey zoo**
+**Google Pixel 9 Pro Review For Photographers: ALL-IN on AI!**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1RPUWNtZkFyZWVxdllfUVdic0tkbDE5WnBmNFBqRmlPTkE2c29fREM3M3praXkxemQtYlpLZFk0WlR6NnkwLXVzcG9iVnA1T3YwNTBIOGJUUDJTNW9iS0IyWDlWWDFzM2hUeDFVZGdjYlVxWFotanJ0aWNHQ1VCMzhEM01TMV93QXdFN3B4MHNPU25TZEM1bzRfV2hXUFJXd2ptTl9R0gFWQVVfeXFMTXhoUVB1RGhrbWFyZVJwNDE1ZElDVjllQjRObFdVXzFGTnJlN3U5SF9mcXhEUGdWRjg0SXI2QjFTNXg2OV9ST3hIVF9mTXgwaDNIeXJyQVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC195VlV0bjFUdW9vmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
