@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman nearly bitten by tiger after climbing over fence at New Jersey zoo**
+**Target Q2 results illustrate consumer still 'choppy': Analyst**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1RPUWNtZkFyZWVxdllfUVdic0tkbDE5WnBmNFBqRmlPTkE2c29fREM3M3praXkxemQtYlpLZFk0WlR6NnkwLXVzcG9iVnA1T3YwNTBIOGJUUDJTNW9iS0IyWDlWWDFzM2hUeDFVZGdjYlVxWFotanJ0aWNHQ1VCMzhEM01TMV93QXdFN3B4MHNPU25TZEM1bzRfV2hXUFJXd2ptTl9R0gFWQVVfeXFMTXhoUVB1RGhrbWFyZVJwNDE1ZElDVjllQjRObFdVXzFGTnJlN3U5SF9mcXhEUGdWRjg0SXI2QjFTNXg2OV9ST3hIVF9mTXgwaDNIeXJyQVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXRzaUxrSHk2ZlVSdjAyX3p5alE1aWpTV211NHdDanVCeWs5ZTU1Q096Y3g1R19DQ3BCamdvRThpUklQZ1RMSkpZTTRJQWM0TW41QzRoY29xN3dUQi1TSWxhQVg4cXpqbUNnc2NMV214Q0xpcnBzYjRKWjhWY0RYUl9mdm4tWHcxTkVPRg?oc=5).
 
 ## Requirements
 - Python 3.8
