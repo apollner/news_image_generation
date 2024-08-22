@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's slow response to the Kursk attack could test the patience of some of his backers in Russia**
+**World No 1 Jannik Sinner penalised after twice testing positive for banned substance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3VEWFo1SmtNbVFqRVJQME1iam1xc0gteEVlX2VELXlNYUZtbDEwVnJqcnFjUnJZekRWaHNITDd4VUhDTWhpWmNBaXFCUHhxU2xvN3NsYUQ1UDMySkhtWEFqOWxwSTlKOGJrZHdGT050QXFGSk0xQzJ3Z1NiVlEwU0F3R1VpQVVBTVptSkMyMmxEdlZFMG1qWjJZU3RackxuMEtTY0MxRjN6QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXJQYUE0STlXVkhZekZhWFVtT2RxUWk0dkEzMW9wblk4bVFMOFd5eHI3ZVZMdlZkVExja3VGOHd4STJuaEp0azB3RVo0ZnYtZm5yWjhJMUZselNIQXBsM3pRZmszTkZXQ2Q3M2VYRGJuUnhPdkNOSzJ0TmZ2S2RvWVNDSFpXNU4zc0lPWEVYRjg5NnNRRDdFX3p2Ym5iUHRm?oc=5).
 
 ## Requirements
 - Python 3.8
