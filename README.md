@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine attacks Moscow in one of largest-ever drone attacks on Russian capital as war intensifies**
+**COVID-19 cases spike in Maine as wastewater shows ‘very high’ levels of virus**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxObDlPTTJRQ2NRWmZZZVpSbkZKS1lDMGJMTVV2MkJEZHl3NE1ydFRmeXI3U050a1MwQWdSbzh3TWlMN1hUOUhzVnVXbUtnVVh0RllPVEtHaDBfSDd3eVZkVkRyb1BsRk5VXy1ZMkNBYmxMQlFaOGVKVjhianNaWVFKbzN4U1gxWC02WWd0akNjak1nN1lIZW9tWkEzQzNHYllDLXZVOExobzdHemVtenNZWG5uZTcxUFd2LW9rSA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxOclJ6cjNHeTZldnBGS1k1OC1HQjNZXy1NSnl5WlQ2NHhQMGxQclBEYmsyMnhGQUU1SXhmSUJydUFtZ1NvbTFrWUYxcFhqR0NPQjUyS1dtbXV4azNKRTVWS0d3SkJycDczU20wcV9ZZktPOHhYRnNZbVJad1ZxeWxiU2JIUkt3LUpyMmoweGtoQXgwb0JDLWNNbGJSS2xsSVR3RHFJLW9MNVVkVEJnZktIWS1mSm4wQQ?oc=5).
 
 ## Requirements
 - Python 3.8
