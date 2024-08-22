@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bernie Sanders’ tough love for the Harris campaign**
+**Minnesota Vikings’ Brian Flores wants to ‘grow’ after Tua Tagovailoa criticism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFrczhuRDFiM1Y5NUZCQ18wZVd3Tm51RFRZcjM2Ry1XTm5hRENZRXZBa2lTRVNFTThKcmRLSGoyV052QlBHQ2xZd29sMTN0aHFPNDRoM1ZLcTJBcFpFQUpHZGZjZElEMVdsa2drR2lad2V2TDNzbDdkTWliZkpRSDRrV3RaVUVublhSd05NcGM2cHJqYzVjNF9FaTlQQVh3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGlxTThkWlFqNmZNODF6SHAxc0VWc3pJWk1ST3Z0eTdFcDhhcERoZzI0ZWplUG1GSFF0dG9hNUREU1dTNXVCU1RWZTBMYjQ4S0RYRWloVWg2ZlMwUDJlWHNxQW1QUUxMeHRiUlEySmZSZmEtenNUelFFUlZ6NFdzb3E0RHNhd3FpT0d0S2xQOHlidlFmNGF1dFZB0gGQAUFVX3lxTFBHbVROZ3VlWklINm1CdDZzMnltTi1XMDlOZWpvVE5KOHhBN1dfR3VzOS1QUXVtZ3VnQ29KbU1TNXYxSExiaUxLNW1yREQ2ZWF4bVFMSmM5RzQxbnVJZWxNMUtCemx5ejNGZDdYeWJCQldwVWQ3Q1I3VFpvUzdROEhZXy14WERvU2tLMzA3eE9yXw?oc=5).
 
 ## Requirements
 - Python 3.8
