@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Honor Designed and Tested the Ridiculously Thin Magic V3 Foldable Phone**
+**'NATO's Sinister Role...': Russian Spy Agency Reveals Shocking Details About West's Kursk Ploy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTF9zR0dKVi1XWjU5NTlCcGFSOE9Bd2tBLWxOdkpBc2ZKYndkME9uSWtpR2gtY3V1SVluaEwzT0xsUndUSjBpa0FLdzNZVjVGZVE1Uml6TEhxWldwOGp3aTZ4QnVYcFJLQlg0Tm1IZUR0aDhPR1JJbVM1NkxiLVVQMmRhcElCSU0zZGNfS2c3X3VscmpFcGZtZ09paGc4dl9kOGdRVVdKbEFxYm9QZ3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC2c2ZEMtWXF6Zk5RmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
