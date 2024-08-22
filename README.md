@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez has filed for divorce from Ben Affleck**
+**‘Minimal’ chance Mike Lynch and other missing yacht passengers are alive, says coastguard**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkd5eEp1Z2FiZ2Nrdjk1bW5HTm8yMlBUOGo2S21mTU5qUHdxTzl6NFd6aUlpZzVpMUxZM0dGN3M1OVBfc2NYSl9fVzNwZk1lYUJVT09kOVRXT19Fd0hISXdBbmVRQS1FQVFpYzlDRm96SFdrWUhLei1Kd2JCbUd2SGlsbGFZREJUUDZ6TjJGcHNraGh30gGLAUFVX3lxTE5FMEJld1BIZS1lQnZqSE55LVctQnpJdnZ0cG9oWElmd05jRVZPRjIwbFFQa3ZuUGNEWjgwajJGMlhCSTRjRU9aYkMtNFpVMFNyNURCOU5sVE41ZXdHSTRKSG9GRWVtMGQ5Zzd2RlBmNUR3LXhWRWxha3ZOWnFCWFJkSndhVEF0bFprMEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE55U2NTNTFNV3MwVldwUkZCeTUyUXpFb0dnOUNnZHlXeUZCVGw2RHRnTlh3enZhUlFYN2pxamVqMThqS2hxUFYyemd6VUNvZGJfRnl6VExzenF3UnhwNkF0U3E3UkZhOEd3MGViZmVpYXM?oc=5).
 
 ## Requirements
 - Python 3.8
