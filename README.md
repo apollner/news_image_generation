@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple iPhone 16, iPhone 16 Pro Release Date Claimed In Controversial New Report**
+**India’s lunar lander unearths evidence the moon had a magma ocean**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmg3UXBGYnB1N1BmNUZvUkh3RXdnYXE5S050bUJXMUFOWU9GZ2lyLTNtV3otak1wbDhfaUdXX2ZtNlBYbmpnOG9UZlR1SHFJY3BFUzZDb09FdnpIT0ZzVEVUMDdXSHRWOTZzUTdlM1ZyQW1WQU50QnZOVnJtOUtqSUtXcEZIc1hnMEVyWlQ2SXdlZHVSNlQyX3dtczFFTThMLXhXSF9PemN4UGdFVHVZX3ZTZ1J0ZVlYS1pJU1l0azNHY0ozOExDUlB1aw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxObUhUMlRVbVoyVnk1QXhYRVRudDN2eHpYNml6VTd1Z285UWNrcUlPdUtFeFhkMFJxVmpyNHUtQnF4RW16TWdYbWt6X0RVMEdERzI5eWRRQnpYMEo4b0Izc3pKRVplcjI1a0VrYjBUbmM5Z2FRT3RSLUJoVEhoMDRRSTkyTm9nazJfWlQwbmJEMzE?oc=5).
 
 ## Requirements
 - Python 3.8
