@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Carroll could coach “tomorrow,” but he’s currently not “desiring it”**
+**Jennifer Lopez has filed for divorce from Ben Affleck**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDJlOXZ3aldPY1loaFR4d2JwdTBKUVRtX0tSMTJ2dG9jSGs4V3ZJem1RMzhZMDZQUEdscjJvR25xUlpMVVRqUkp1RkJBdFBfMmw4STNXcXJnUzRFLVFZcWN0enJrT09EV0VqTWdzbU1OZ2VSakdORjJkTVR4NVZ3MUxuRUFaYUZxdl93T2J6MGtLOHpTdEVfbzZleEh5Wkh5VzN0Y1hjMDVfSnh4NDZTbjRnWFEtZzU4SWQzdFRqb21YSTZVSFVlRg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOZkd5eEp1Z2FiZ2Nrdjk1bW5HTm8yMlBUOGo2S21mTU5qUHdxTzl6NFd6aUlpZzVpMUxZM0dGN3M1OVBfc2NYSl9fVzNwZk1lYUJVT09kOVRXT19Fd0hISXdBbmVRQS1FQVFpYzlDRm96SFdrWUhLei1Kd2JCbUd2SGlsbGFZREJUUDZ6TjJGcHNraGh30gGLAUFVX3lxTE5FMEJld1BIZS1lQnZqSE55LVctQnpJdnZ0cG9oWElmd05jRVZPRjIwbFFQa3ZuUGNEWjgwajJGMlhCSTRjRU9aYkMtNFpVMFNyNURCOU5sVE41ZXdHSTRKSG9GRWVtMGQ5Zzd2RlBmNUR3LXhWRWxha3ZOWnFCWFJkSndhVEF0bFprMEE?oc=5).
 
 ## Requirements
 - Python 3.8
