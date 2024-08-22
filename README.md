@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target will report earnings before the bell. Here's what to expect**
+**Bernie Sanders’ tough love for the Harris campaign**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMickFVX3lxTE1pYi1sekFIbHdYWG5fUHJleUx2THpNTEZsallJbnYwc0xicEczWUxKMDhwbzBsRkdoeWVidWI3Vk44VzdwYzZ0TUJhMnpJUThLWVBUTkJVa1Z0RWsxa0E5YW5nNEVWNVdOZmR0X2JoWk5jd9IBd0FVX3lxTE1KLVhNbWlMNXA4Y2JfNHlDczd3LTRkbVRtcG0tcEZLRUFWVDIycDktUGw0a3hlSkdkS3JUZXl5dG4xaVNnTUg1Y0Q5V3k1Rm1JekFpVkdkMXREOHpqeElscERNZ3lCU0pfQjVPb3FNeFhBRlo5RGY4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFrczhuRDFiM1Y5NUZCQ18wZVd3Tm51RFRZcjM2Ry1XTm5hRENZRXZBa2lTRVNFTThKcmRLSGoyV052QlBHQ2xZd29sMTN0aHFPNDRoM1ZLcTJBcFpFQUpHZGZjZElEMVdsa2drR2lad2V2TDNzbDdkTWliZkpRSDRrV3RaVUVublhSd05NcGM2cHJqYzVjNF9FaTlQQVh3?oc=5).
 
 ## Requirements
 - Python 3.8
