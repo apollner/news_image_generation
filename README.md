@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Rankings: Full PPR RB rankings for 2024**
+**Tom Brady, Peyton Manning mostly agree on the top quarterbacks in the NFL, with 1 exception**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDI5c09yZ2doN2ZzMll1UmY4NlRhRm02Q0RIdnhhNDhzMEFMQ0FMZTNSSlVmakJWbkpUb1FVdE5fSzJtaUpneVBaQzRybnBWOE1GUnBhUkZNQnNfa2pkaElDNktpNFowYXhnem54dlRuZ2lRYkhNTHlyT1pWWFBPMW8zbS1DbTRjc1FXVTVzN0dfbUlUd2lQczVuRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNFdQSlZFMUpzSE5taVNJc191eEQ2eVRZZm1faEdmcjEzc0RuTkRPd0VQZ0NSY3EwMzUtWjJRNVM4bXBER05fSTJZdG90cG9faU9Kd0g1TmZBWXVrUDJ5ZlBFOGpBLU9BWWdZc3hXTWphOEU2bWpoUXNlRGFlNHR6eUlic3U2QlBIYWd6dXRwSUluN3hMcDgtRFBsbVN5U255dVFhWDROa1d0M1cxS3J5b2NQamhfYWlyakVyS0FIT1hKcTBjNTBuRQ?oc=5).
 
 ## Requirements
 - Python 3.8
