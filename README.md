@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sonos Can't Release Old App for Customers Unhappy With Design Changes**
+**Republican DNC speakers try to prove Harris’ appeal across the aisle**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTFBIMVBQNW9IdDlIeFR1eDEzZW9FeE9qOG9obFRFQVdsRlRqTl9CSFFZRmk0Mkc0ZDkzOUJIZTZWOHJlQUVQbkx5cm1SUVZFZmNNb3VVemgzQ0FROHlJbTJIeXMtbTlNY0RKX004bnh1TGZ3RUFZZVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWhDeGlOX1NXaHF0MU0zRTZVYTdfV0dpbkM3MVRBX0Q3dGdpY2RQcG4xLWIzNi1nNEdqOFhGZ0pGc3h6aDZURTltcFlyZ3FTWEs0U2hlS1JCclZPeFRCdWNzYXRqZFhzWGlNMkFQellueDc4czhtam12OTZnbE8wTlNZcTlLRGdfVTJGSWNodHhuX1VBT3QxVldHVy1ZZGhBekh3UGxCeG85NnVBSFJ6TEEwNDdkRXdwcGc?oc=5).
 
 ## Requirements
 - Python 3.8
