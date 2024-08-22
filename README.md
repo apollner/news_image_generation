@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Day 3 of the Democratic National Convention**
+**Google Pixel 9 Pro Review For Photographers: ALL-IN on AI!**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjR6QXY2ZnQ5Y0pWbDdPZ2hPNUZxMXkycVh0Mzh6eHhxSm41MlJBa2FTX2RDMUI1eU9YUlVpeHllNi1uODRPX1l2SC1ydTdtTkdCUEsxa0lmckVCRzU3M01NdE1QYWRqYThGT2lXZlRVTHEzZ1RZRG54dHd0ZUVjTEY5ZTgtRDBpbzRtYjhWMHZseHN6WDZnRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC195VlV0bjFUdW9vmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
