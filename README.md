@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A bridge too far? Blinken’s desperate bid for a hostage-ceasefire deal**
+**Woman nearly bitten by tiger after climbing over fence at New Jersey zoo**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWV9rRTdFWGZYQjlBektzSDRBaERlaUdyZTdnckZZZEhncEhuaGlSVXBmcWpGbVh2dTYzYldBYlNpRzdvbW41d1NWTFljNS1WSnRFYmNXSFlyRWFDSzUyWkxRQ2JuUVNvSl9JYVdGLWZaQkRsSG5lbFZuQ0RReWhwOG9ORjdkd2w2V3JiZU5wbHJDUl9PalhZU093V1dGMGVH0gGmAUFVX3lxTE1kdlpuLUJRTFl2ZzlaSHQ2bG1GSnQ1WlhqTjVwOXFKZmJ5RHhrWDY4OVNjLWdXejRycUZUZFBzaFNhT0N3WUtoWTRMaXJ4NmNLSko3SHJoNjdwdHBrb0hxaWNCc3NhdllteXF3dndnQTlsalktamY5V3Bod1pxemY1d2Z6YnM0ajEzVGR0MTBaRXlCb1p6bWloYnVSUXBNdDZpbnViMVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1RPUWNtZkFyZWVxdllfUVdic0tkbDE5WnBmNFBqRmlPTkE2c29fREM3M3praXkxemQtYlpLZFk0WlR6NnkwLXVzcG9iVnA1T3YwNTBIOGJUUDJTNW9iS0IyWDlWWDFzM2hUeDFVZGdjYlVxWFotanJ0aWNHQ1VCMzhEM01TMV93QXdFN3B4MHNPU25TZEM1bzRfV2hXUFJXd2ptTl9R0gFWQVVfeXFMTXhoUVB1RGhrbWFyZVJwNDE1ZElDVjllQjRObFdVXzFGTnJlN3U5SF9mcXhEUGdWRjg0SXI2QjFTNXg2OV9ST3hIVF9mTXgwaDNIeXJyQVE?oc=5).
 
 ## Requirements
 - Python 3.8
