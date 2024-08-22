@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**COVID-19 cases spike in Maine as wastewater shows ‘very high’ levels of virus**
+**The Obamas return to their hometown to get Democrats fired up for Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxOclJ6cjNHeTZldnBGS1k1OC1HQjNZXy1NSnl5WlQ2NHhQMGxQclBEYmsyMnhGQUU1SXhmSUJydUFtZ1NvbTFrWUYxcFhqR0NPQjUyS1dtbXV4azNKRTVWS0d3SkJycDczU20wcV9ZZktPOHhYRnNZbVJad1ZxeWxiU2JIUkt3LUpyMmoweGtoQXgwb0JDLWNNbGJSS2xsSVR3RHFJLW9MNVVkVEJnZktIWS1mSm4wQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbi1DTWx4NTVFUGxYcWdlRnltcnh4anRrWm1aVWIyMlhHa0dUODdtUzRUZW9IOENyRFNjdTFwWkVYai1sRm9ZVnlydjlDSkoxVnJzRHRMeGlFZlctVkREbmt3bFd1RWY3d2RUT21ncVJpRmJmLVF1WEFIeHhuajdtR1ZfOGNvTUJxT0I4WnRHYTYtUlNKTXdTb3FfZG1RM3BEblBiNWZ1SkTSAVZBVV95cUxPVUxXZTJEMU1kUEd3NS05SHZSc2pIR3B4R0pqX1Yya3ZBRXRfdDVYYnNXWklWOE1KUzhmSlZXNkVfNVF5ZW1BRVB3d08tUTVZdmlDQUpSUQ?oc=5).
 
 ## Requirements
 - Python 3.8
