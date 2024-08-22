@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richard Simmons' Cause of Death Revealed**
+**Day 3 of the Democratic National Convention**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPclN0VVdaWGVEb0xzeDYzQXBqcko2RHNWWkt5bjBQdEd1bnF1SEh1Rkx5VlhLY0M1eWYzNFRfZ0VCZWFzYlpab1ZjbWRXMDUyU0dSbE84RjU5dG9QVVBZQmo1bU01dDlvX1NFaDJRVm1sNGZhU2VKbERMcU9LcTctOVZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSjR6QXY2ZnQ5Y0pWbDdPZ2hPNUZxMXkycVh0Mzh6eHhxSm41MlJBa2FTX2RDMUI1eU9YUlVpeHllNi1uODRPX1l2SC1ydTdtTkdCUEsxa0lmckVCRzU3M01NdE1QYWRqYThGT2lXZlRVTHEzZ1RZRG54dHd0ZUVjTEY5ZTgtRDBpbzRtYjhWMHZseHN6WDZnRQ?oc=5).
 
 ## Requirements
 - Python 3.8
