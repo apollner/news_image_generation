@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two slices of ham a day can raise type 2 diabetes risk by 15%, research suggests**
+**Kamala Harris allies say plan to ban ‘price gouging’ has been misconstrued**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTRFS3A0S2g2YXFHS1hjYnVGTTNXaE4yMU5xUTNQOXZ0cExRRndMc0VQTmxpVnpwM05DNEtYSTdBZlNKY01tZFZmWktRdWVxYV9ucG1FcVN2MGsxRE00d25iQ3hTWVBiem9WM2Q2T3kyVExOZW5iZXVrT21HOGRQc2RPVlhwZGhRekppTFRCUkxXRURvN0hVbzhhQlRrNW5Nd1k0bVFzV2JOaVFzZTM3b3hNa1BFMnRTck9jMDAwcnpIeXRHVzVycDMyT0ZUMkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNajBJb0VUQk9ucDJsODNEWHNlbXdIaDdkd0lvUnA4TDA4RXBsWmJQM294Nm9CYWNRNjlGQUVOV3JLYXB3emJfLTNFeW44Z2F6dDM5Y1Q2SXo5VG9hTmQyTm13VjJHZXpkSmpRTEJZdWVNSXNuVWRBRGl1WXE3WjJ1Ml9TNGtvUnVIaWxQSS1hWTVfdw?oc=5).
 
 ## Requirements
 - Python 3.8
