@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 Pro Review For Photographers: ALL-IN on AI!**
+**Richard Simmons' Cause of Death Revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC195VlV0bjFUdW9vmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPclN0VVdaWGVEb0xzeDYzQXBqcko2RHNWWkt5bjBQdEd1bnF1SEh1Rkx5VlhLY0M1eWYzNFRfZ0VCZWFzYlpab1ZjbWRXMDUyU0dSbE84RjU5dG9QVVBZQmo1bU01dDlvX1NFaDJRVm1sNGZhU2VKbERMcU9LcTctOVZ3?oc=5).
 
 ## Requirements
 - Python 3.8
