@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas says Biden shows ‘blind bias’ toward Israel in cease-fire talks**
+**James Taylor On Why He Didn't Perform At DNC Despite Rehearsing On Chicago Stage: "Sorry To Disappoint"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVdNT25ua3ZHT045cjQ3QU5TQ29EaWdXRnBobTNaNERxYU12NlZKcXBpREtXYjhSZ0dWYkR5bGhwaWw1cGVCY0ZBNFhPY0c5MFIyZTJlelAwUndIc2lPUGRnX1ozUmRYSmdsRXZFcTlEZkxOVzVjeExYTWZlRkFXTFBiUHhPQms?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVpxVXoyYTcwYUFodVNKUGVheTVXd0Yyc2RkdjdiQ3p3Zl9pempFcEVRNGM0OHRHV1NrYk5TNl9LR1dtQkt6aVN5OG9XMGxZWi1sQTJhSEJPcGpGVmlEMmVPbEJJdksyZ2tINW1BQ0ZCZnZZaG5PT3NYN0x1TjQ1X3VkQ0MwOGVweHdtT05Cc3ZjN0ZJ?oc=5).
 
 ## Requirements
 - Python 3.8
