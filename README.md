@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Target Q2 results illustrate consumer still 'choppy': Analyst**
+**Apple iPhone 16, iPhone 16 Pro Release Date Claimed In Controversial New Report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMXRzaUxrSHk2ZlVSdjAyX3p5alE1aWpTV211NHdDanVCeWs5ZTU1Q096Y3g1R19DQ3BCamdvRThpUklQZ1RMSkpZTTRJQWM0TW41QzRoY29xN3dUQi1TSWxhQVg4cXpqbUNnc2NMV214Q0xpcnBzYjRKWjhWY0RYUl9mdm4tWHcxTkVPRg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxOZmg3UXBGYnB1N1BmNUZvUkh3RXdnYXE5S050bUJXMUFOWU9GZ2lyLTNtV3otak1wbDhfaUdXX2ZtNlBYbmpnOG9UZlR1SHFJY3BFUzZDb09FdnpIT0ZzVEVUMDdXSHRWOTZzUTdlM1ZyQW1WQU50QnZOVnJtOUtqSUtXcEZIc1hnMEVyWlQ2SXdlZHVSNlQyX3dtczFFTThMLXhXSF9PemN4UGdFVHVZX3ZTZ1J0ZVlYS1pJU1l0azNHY0ozOExDUlB1aw?oc=5).
 
 ## Requirements
 - Python 3.8
