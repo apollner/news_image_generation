@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Blocks F.T.C.’s Noncompete Rule**
+**Two slices of ham a day can raise type 2 diabetes risk by 15%, research suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFhsYkxLRXdXTDd0SmdQb0RYSHZ1a1U1eWM0a3RBbVd4Q0ZQTTIwQXk4d2l3bk83aWJzZjM5VnZDQXFFWWN6SS1yem1FYmFBaUJZeXJpN2pqQkM5RjhSY2VHU3dsVG5QOGlxMHhHR0RRcEpZdDEwRU1hQjhGalI2dE1VWUc5akhQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxOLTRFS3A0S2g2YXFHS1hjYnVGTTNXaE4yMU5xUTNQOXZ0cExRRndMc0VQTmxpVnpwM05DNEtYSTdBZlNKY01tZFZmWktRdWVxYV9ucG1FcVN2MGsxRE00d25iQ3hTWVBiem9WM2Q2T3kyVExOZW5iZXVrT21HOGRQc2RPVlhwZGhRekppTFRCUkxXRURvN0hVbzhhQlRrNW5Nd1k0bVFzV2JOaVFzZTM3b3hNa1BFMnRTck9jMDAwcnpIeXRHVzVycDMyT0ZUMkE?oc=5).
 
 ## Requirements
 - Python 3.8
