@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris allies say plan to ban ‘price gouging’ has been misconstrued**
+**Hamas says Biden shows ‘blind bias’ toward Israel in cease-fire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNajBJb0VUQk9ucDJsODNEWHNlbXdIaDdkd0lvUnA4TDA4RXBsWmJQM294Nm9CYWNRNjlGQUVOV3JLYXB3emJfLTNFeW44Z2F6dDM5Y1Q2SXo5VG9hTmQyTm13VjJHZXpkSmpRTEJZdWVNSXNuVWRBRGl1WXE3WjJ1Ml9TNGtvUnVIaWxQSS1hWTVfdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPcVdNT25ua3ZHT045cjQ3QU5TQ29EaWdXRnBobTNaNERxYU12NlZKcXBpREtXYjhSZ0dWYkR5bGhwaWw1cGVCY0ZBNFhPY0c5MFIyZTJlelAwUndIc2lPUGRnX1ozUmRYSmdsRXZFcTlEZkxOVzVjeExYTWZlRkFXTFBiUHhPQms?oc=5).
 
 ## Requirements
 - Python 3.8
