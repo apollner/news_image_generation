@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Taylor On Why He Didn't Perform At DNC Despite Rehearsing On Chicago Stage: "Sorry To Disappoint"**
+**Sonos Can't Release Old App for Customers Unhappy With Design Changes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVpxVXoyYTcwYUFodVNKUGVheTVXd0Yyc2RkdjdiQ3p3Zl9pempFcEVRNGM0OHRHV1NrYk5TNl9LR1dtQkt6aVN5OG9XMGxZWi1sQTJhSEJPcGpGVmlEMmVPbEJJdksyZ2tINW1BQ0ZCZnZZaG5PT3NYN0x1TjQ1X3VkQ0MwOGVweHdtT05Cc3ZjN0ZJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTFBIMVBQNW9IdDlIeFR1eDEzZW9FeE9qOG9obFRFQVdsRlRqTl9CSFFZRmk0Mkc0ZDkzOUJIZTZWOHJlQUVQbkx5cm1SUVZFZmNNb3VVemgzQ0FROHlJbTJIeXMtbTlNY0RKX004bnh1TGZ3RUFZZVE?oc=5).
 
 ## Requirements
 - Python 3.8
