@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'NATO's Sinister Role...': Russian Spy Agency Reveals Shocking Details About West's Kursk Ploy**
+**Pete Carroll could coach “tomorrow,” but he’s currently not “desiring it”**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC2c2ZEMtWXF6Zk5RmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeDJlOXZ3aldPY1loaFR4d2JwdTBKUVRtX0tSMTJ2dG9jSGs4V3ZJem1RMzhZMDZQUEdscjJvR25xUlpMVVRqUkp1RkJBdFBfMmw4STNXcXJnUzRFLVFZcWN0enJrT09EV0VqTWdzbU1OZ2VSakdORjJkTVR4NVZ3MUxuRUFaYUZxdl93T2J6MGtLOHpTdEVfbzZleEh5Wkh5VzN0Y1hjMDVfSnh4NDZTbjRnWFEtZzU4SWQzdFRqb21YSTZVSFVlRg?oc=5).
 
 ## Requirements
 - Python 3.8
