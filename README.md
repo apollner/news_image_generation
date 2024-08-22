@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**There's a Problem With Rescuing the Stranded Astronauts: SpaceX and Boeing Spacesuits Aren't Compatible**
+**Judge Blocks F.T.C.’s Noncompete Rule**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3RrcmEydTRDYVdFYWZGVXMyd2RWcDhtNmJnRVphVkwzZHJtcXNvb0U3Q2U5NThqbHQ1eklpc0VWcXNhczlVVlFmOE1LTEtKam5TZV9wdXRaZDNLSzhrYk1TczR5WnV5SVVnWGZkbTRMLXRZTGk5eGpIRm1aTFF3aEFMS1A?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSFhsYkxLRXdXTDd0SmdQb0RYSHZ1a1U1eWM0a3RBbVd4Q0ZQTTIwQXk4d2l3bk83aWJzZjM5VnZDQXFFWWN6SS1yem1FYmFBaUJZeXJpN2pqQkM5RjhSY2VHU3dsVG5QOGlxMHhHR0RRcEpZdDEwRU1hQjhGalI2dE1VWUc5akhQ?oc=5).
 
 ## Requirements
 - Python 3.8
