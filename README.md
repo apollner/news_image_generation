@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sun star DiJonai Carrington calls out WNBA for not promoting sold-out win over Sparks at TD Garden**
+**James Taylor On Why He Didn't Perform At DNC Despite Rehearsing On Chicago Stage: "Sorry To Disappoint"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVHVBcnpYUVlaeTlNS3g3UHptVnpNNkJqTGlZUG9tRjk5LXAzNVZSalQ1dktqQlNIZWE1UWlJR1BRVlA4UWw3TmJmVkt3aEY5Y0tBWExGWHJ3UHVjVE1XTDlCS08zeWptMDdETlhPX3NjZl9WaVI4VHVvd3g1eDJwX2V5aEI3S0tiYUU0SENBVlVUMmEzamhsVGhqQnVDeUtPSDFrNW5PdzB3Uk1qcXNUSURoSHFZanlDdDU3NXVJNGs2WFpUT0ZWT0Z1UmdhV0VmSVJlbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOWVpxVXoyYTcwYUFodVNKUGVheTVXd0Yyc2RkdjdiQ3p3Zl9pempFcEVRNGM0OHRHV1NrYk5TNl9LR1dtQkt6aVN5OG9XMGxZWi1sQTJhSEJPcGpGVmlEMmVPbEJJdksyZ2tINW1BQ0ZCZnZZaG5PT3NYN0x1TjQ1X3VkQ0MwOGVweHdtT05Cc3ZjN0ZJ?oc=5).
 
 ## Requirements
 - Python 3.8
