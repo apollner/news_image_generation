@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bernie Sanders’ tough love for the Harris campaign**
+**Putin's slow response to the Kursk attack could test the patience of some of his backers in Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTFrczhuRDFiM1Y5NUZCQ18wZVd3Tm51RFRZcjM2Ry1XTm5hRENZRXZBa2lTRVNFTThKcmRLSGoyV052QlBHQ2xZd29sMTN0aHFPNDRoM1ZLcTJBcFpFQUpHZGZjZElEMVdsa2drR2lad2V2TDNzbDdkTWliZkpRSDRrV3RaVUVublhSd05NcGM2cHJqYzVjNF9FaTlQQVh3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3VEWFo1SmtNbVFqRVJQME1iam1xc0gteEVlX2VELXlNYUZtbDEwVnJqcnFjUnJZekRWaHNITDd4VUhDTWhpWmNBaXFCUHhxU2xvN3NsYUQ1UDMySkhtWEFqOWxwSTlKOGJrZHdGT050QXFGSk0xQzJ3Z1NiVlEwU0F3R1VpQVVBTVptSkMyMmxEdlZFMG1qWjJZU3RackxuMEtTY0MxRjN6QQ?oc=5).
 
 ## Requirements
 - Python 3.8
