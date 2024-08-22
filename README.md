@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Obamas return to their hometown to get Democrats fired up for Harris**
+**Woman nearly bitten by tiger after climbing over fence at New Jersey zoo**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbi1DTWx4NTVFUGxYcWdlRnltcnh4anRrWm1aVWIyMlhHa0dUODdtUzRUZW9IOENyRFNjdTFwWkVYai1sRm9ZVnlydjlDSkoxVnJzRHRMeGlFZlctVkREbmt3bFd1RWY3d2RUT21ncVJpRmJmLVF1WEFIeHhuajdtR1ZfOGNvTUJxT0I4WnRHYTYtUlNKTXdTb3FfZG1RM3BEblBiNWZ1SkTSAVZBVV95cUxPVUxXZTJEMU1kUEd3NS05SHZSc2pIR3B4R0pqX1Yya3ZBRXRfdDVYYnNXWklWOE1KUzhmSlZXNkVfNVF5ZW1BRVB3d08tUTVZdmlDQUpSUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPN1RPUWNtZkFyZWVxdllfUVdic0tkbDE5WnBmNFBqRmlPTkE2c29fREM3M3praXkxemQtYlpLZFk0WlR6NnkwLXVzcG9iVnA1T3YwNTBIOGJUUDJTNW9iS0IyWDlWWDFzM2hUeDFVZGdjYlVxWFotanJ0aWNHQ1VCMzhEM01TMV93QXdFN3B4MHNPU25TZEM1bzRfV2hXUFJXd2ptTl9R0gFWQVVfeXFMTXhoUVB1RGhrbWFyZVJwNDE1ZElDVjllQjRObFdVXzFGTnJlN3U5SF9mcXhEUGdWRjg0SXI2QjFTNXg2OV9ST3hIVF9mTXgwaDNIeXJyQVE?oc=5).
 
 ## Requirements
 - Python 3.8
