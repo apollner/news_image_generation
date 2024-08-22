@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7-Eleven: Japan convenience store giant targeted by rival chain**
+**There's a Problem With Rescuing the Stranded Astronauts: SpaceX and Boeing Spacesuits Aren't Compatible**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejdLZVd2Ykx1S3RodjJZLUpEOHM0LWJ1Q1NoZ3BmTWVCOUxrMmRwcll3cUYzNXJSdzUzcDVrcDFzRmxiWTJHNGt5eWV2bDZqcklQVU1hWW1aZ9IBX0FVX3lxTE1kVFBsc2lydzZfM19nVGxlaTk4Z3F6QXpyTTAyV2ZaLTFZTWpndFNyeW82VTJ5Z3h1THoxWVVNdVNTTW02cEpfM1Z6TU55MVVPZzZJU2wyVEVhQnhvbG9N?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3RrcmEydTRDYVdFYWZGVXMyd2RWcDhtNmJnRVphVkwzZHJtcXNvb0U3Q2U5NThqbHQ1eklpc0VWcXNhczlVVlFmOE1LTEtKam5TZV9wdXRaZDNLSzhrYk1TczR5WnV5SVVnWGZkbTRMLXRZTGk5eGpIRm1aTFF3aEFMS1A?oc=5).
 
 ## Requirements
 - Python 3.8
