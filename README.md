@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World No 1 Jannik Sinner penalised after twice testing positive for banned substance**
+**Minnesota Vikings’ Brian Flores wants to ‘grow’ after Tua Tagovailoa criticism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPSXJQYUE0STlXVkhZekZhWFVtT2RxUWk0dkEzMW9wblk4bVFMOFd5eHI3ZVZMdlZkVExja3VGOHd4STJuaEp0azB3RVo0ZnYtZm5yWjhJMUZselNIQXBsM3pRZmszTkZXQ2Q3M2VYRGJuUnhPdkNOSzJ0TmZ2S2RvWVNDSFpXNU4zc0lPWEVYRjg5NnNRRDdFX3p2Ym5iUHRm?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGlxTThkWlFqNmZNODF6SHAxc0VWc3pJWk1ST3Z0eTdFcDhhcERoZzI0ZWplUG1GSFF0dG9hNUREU1dTNXVCU1RWZTBMYjQ4S0RYRWloVWg2ZlMwUDJlWHNxQW1QUUxMeHRiUlEySmZSZmEtenNUelFFUlZ6NFdzb3E0RHNhd3FpT0d0S2xQOHlidlFmNGF1dFZB0gGQAUFVX3lxTFBHbVROZ3VlWklINm1CdDZzMnltTi1XMDlOZWpvVE5KOHhBN1dfR3VzOS1QUXVtZ3VnQ29KbU1TNXYxSExiaUxLNW1yREQ2ZWF4bVFMSmM5RzQxbnVJZWxNMUtCemx5ejNGZDdYeWJCQldwVWQ3Q1I3VFpvUzdROEhZXy14WERvU2tLMzA3eE9yXw?oc=5).
 
 ## Requirements
 - Python 3.8
