@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing**
+**The US says an Israel-Hamas ceasefire is close. What’s really happening?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOU21XTzRpU0dFSENleUh0NGdRNHpzTFpsMlc5bnVmU20ycktZaXV5MEhOd1BsWTUtU1pCWGxoZjFrWHVoRVcwbTdvbkxjaExONHFRQXhmblczdEpKdDdKNTV3bDZPaG9SVWMxZW15VTJxc2hCNm5NUmlURm9idXdIOWYyMTJkRmgtSjVxUzY4Z2NoTXYtcWpZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRIV1hDMEFWSnpoQ2QxRFlUUHZhWU5GRi1wZGZPQU9zN0tBald6TzR1X29MamljeVhldi04dUFWUnR4Q0xFbkVzNFFEREhIeV92bERiV1ZUYno2VkVSaFM5X081dVo4X2laVzRwSjdQWU1BUlhJVVZ3SjlVT0Fqcy1FcC1jZ25vZk1OZHhoSjdmdUktQkE?oc=5).
 
 ## Requirements
 - Python 3.8
