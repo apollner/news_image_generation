@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An unusual object is moving so fast it could escape the Milky Way. Scientists aren’t certain what it is**
+**Donald Trump, Back at an Outdoor Rally, Returns to Familiar Habits**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNaldVYUxUcVVqaGhjamhhVFg3QWVTcnpqYXFHWnk2QW9KMi0yS2FQNE5ZY0pUcWhjN3N4akY4akE0OTNhdmtEZzBzV3lEczhPSmp4TU0wNElkMnRma2REY3NxUS1PLTd0R3htdTZCT29aaE1XeUFtWC1SYUZ4cFlNdDdLdWp2RXBrSTdDN0J30gGEAUFVX3lxTE9GQlJSQURyMVNReWFleGJNWWdPLThacW1Fa0NBTlBjY0V3NkRkQ3ZVNHdIM1VzTDhvWDFuNGVoREFnYmhMU2Z0Nkw4VUN3S0h1anBzX3RIMENuOHNwRFlsUG1vbGNObkdaVzY1S3VCbTh6WnVBejZGRkw4ZXg1THRveHVYOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTk1a3k1UTBDT1NMRFN1TW91M1NnaUNtaWJrUEhKc3B1Z3otSGxfV1RCVkZheVprbFVuYi1iNENzb2dySEN0cW0wSDZabHozRVd5Y0lVN0xNLWhoVHhfTFNveG96ek8wRUF2TW9TUFdmWU4tU1UxNkNLUGN2dUthb0d6X24?oc=5).
 
 ## Requirements
 - Python 3.8
