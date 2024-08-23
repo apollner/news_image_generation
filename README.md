@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parents of American held by Hamas appeal for hostages' release during Democratic convention**
+**Moscow comes under one of Ukraine’s largest drone attacks as fighting rages in Kursk, eastern Ukraine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEtSSURfT1B3OFZfczNwZ1pfY2o5bGdNcWl1VWNCdmVBZ2FfM1BlLXVKallKT2FCaVFXQ3pVdnRWM1NwaEcxVUgwZXlKMUVEYWotVDA2bVk4MmIwSUZuXzN5elZLS2YtdDZHeWl0NWQ4Z29ZTnBzbjJ5N1Q3VkJtc1ZXWldEa1VOYy1KelVUOFZmdzBrQ0syc1ZDTjNFVHV3TUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxORzd3eXJMS0p0QlRWc1RoeEF0emI2US11NW5pTUVCMU9zZ1JwVHJVd0hpSlREQTU0aGJYT2owcXVLM0NvYWI5M2MwMnBQSkt6ZUEyMzk1Z0pXWlJEeHR4ZzJEWnpIRWVsYzNld1M5UGFjcXk4ZTBVbUJXaWl4WUZWNkY3aklNZ3JiZElTZDNDWWRBVjJqamQ2UG4ybEc4RU4wMlBIYVBvOVcxdnc4N0R6MVAwSmNvTkY2WTlmd0FMSnVuc1FCczZiU0VhSklLNjDSAdQBQVVfeXFMTUc0M1UzUXNRUzFDNFZVdTlQNngzeDNwb0UwUl9yZGFwVmZWNFc4UUtXdkc5ZGVnMk9tOFJfZThQeDRGMEhJU3JieGx1N3JvOVptamwtdTZ5cjJFcTd5TFRBM1U1azg0Q1doMDBfc0N4WU5uemFEaVFYOG5RMjhROFgtZFFIV3B3XzJGUW0zenFaTFRkZXc3YU1HSHhPazlKSDF6Zm9oRXBjcUNIR21pQmk1emdockpuSEZ1RkJZTEg4WmFZOGtRRHZndHlDNnJIMU9JbUw?oc=5).
 
 ## Requirements
 - Python 3.8
