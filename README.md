@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moscow comes under one of Ukraine’s largest drone attacks as fighting rages in Kursk, eastern Ukraine**
+**Harris’ running mate Tim Walz talks of ‘bringing the joy’ in his national introduction at DNC**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxORzd3eXJMS0p0QlRWc1RoeEF0emI2US11NW5pTUVCMU9zZ1JwVHJVd0hpSlREQTU0aGJYT2owcXVLM0NvYWI5M2MwMnBQSkt6ZUEyMzk1Z0pXWlJEeHR4ZzJEWnpIRWVsYzNld1M5UGFjcXk4ZTBVbUJXaWl4WUZWNkY3aklNZ3JiZElTZDNDWWRBVjJqamQ2UG4ybEc4RU4wMlBIYVBvOVcxdnc4N0R6MVAwSmNvTkY2WTlmd0FMSnVuc1FCczZiU0VhSklLNjDSAdQBQVVfeXFMTUc0M1UzUXNRUzFDNFZVdTlQNngzeDNwb0UwUl9yZGFwVmZWNFc4UUtXdkc5ZGVnMk9tOFJfZThQeDRGMEhJU3JieGx1N3JvOVptamwtdTZ5cjJFcTd5TFRBM1U1azg0Q1doMDBfc0N4WU5uemFEaVFYOG5RMjhROFgtZFFIV3B3XzJGUW0zenFaTFRkZXc3YU1HSHhPazlKSDF6Zm9oRXBjcUNIR21pQmk1emdockpuSEZ1RkJZTEg4WmFZOGtRRHZndHlDNnJIMU9JbUw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0J0anlIdHVtck1Ra2xJOFNENWJEMHNHS0lrYVVqVklIdFN0Umg0MXhfY0NsaEZZSDBLVDFmUWRhTHkxUG5FUUN5bjRMUzA2SmpURWtSa1ZFWTFoS2s4NmVNUUNobGRzcjdrWXNybTlvVXlFcmNfamw1aXRFV2FkRTB4SDFLMm1GNDRiaG9aOVdIT2c1ckk2VC1PdFgwUTRBTVA0eXFOUGc2VDZrUjF3?oc=5).
 
 ## Requirements
 - Python 3.8
