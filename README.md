@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michelle Obama belittles Trump in starry convention turn**
+**Moscow sees one of Ukraine's largest drone attacks as fighting rages in Kursk and eastern Ukraine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CV3ZwZnNxQW5RU1hjcXpVNUQ3Y1RjVW5ud0plNC11OXhUWEh3Y050aTI4MTJCSjVxdWNMUFNoS2VTcFU0TnRyV3hwazVOaEwzZjJ4bkVobzBZUdIBX0FVX3lxTE9QSTIzOGxreTIxVWMydzMzMlpCczZSZFpXVDFyVTNmaXQ4cE5vMDI1Y2s1UHprdHkwQVhnNjVHb1JrbHhSWUw3VGVoSFAzaW5qZ055dWJodElLQm42ZVgw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE83V3lJY1RFVjNwZWExekJpSnl3RmlqVVZhSWRnSVJUUkxkZzhpTVl1dHdvRUJiZHJKUW1YODR0R2UyV1dZU1Y2amRhajVTeE9lZnJyLWFGM0I1UmF2Ny1DNVo0MG9jTmxfak9qTkdydUgwRjB0aGVQUkxPNVUxZ1k?oc=5).
 
 ## Requirements
 - Python 3.8
