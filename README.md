@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hundreds of proposals in Project 2025 match Trump's policies**
+**Joey Votto, former MVP and face of Reds, officially retires**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUzZIT2hnMm5xem41OE4zWlc5bWRDSVpocE01VUNBaHVONFJGR2JTc3RTSlN0YWtOaXFJdV9yendRbF9zOENEcHBqRUFvU2FscEl6SWhsRjhVZ3J6amlaRFgyMk1wUzRmdjhEeVlmcENOTmtmWkHSAXtBVV95cUxNWmNsbm1RVWpMWUpiN2s1M3JZcEVGeHJiTTdyT1RBTTg0eFJJVjdxVi16VkF5Nl9RQUMzNmNvdDNLdU5qdVc5Tjc1SjgtWEN5RWp4MjRwX1lKY3plUDd0MFJrRGZCbFY5OXE3VW5SbnhTMzVzUW40a3FmbG8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyd21ja1VIQmtFZlBLU0w0eEExdXJkcEpES2NINEwzVW56T2NQYU1oQjlhbzVRX0RYVVpjckJLZWMtSVZiSDhJNzBTa3FmQ0RXcW5EY2dlTjJQZDBOZmdXSWlCbXZmRklG?oc=5).
 
 ## Requirements
 - Python 3.8
