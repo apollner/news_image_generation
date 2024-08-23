@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump, Back at an Outdoor Rally, Returns to Familiar Habits**
+**Divers recover 5 bodies from wrecked superyacht off Sicily; 1 still missing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTTk1a3k1UTBDT1NMRFN1TW91M1NnaUNtaWJrUEhKc3B1Z3otSGxfV1RCVkZheVprbFVuYi1iNENzb2dySEN0cW0wSDZabHozRVd5Y0lVN0xNLWhoVHhfTFNveG96ek8wRUF2TW9TUFdmWU4tU1UxNkNLUGN2dUthb0d6X24?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOU21XTzRpU0dFSENleUh0NGdRNHpzTFpsMlc5bnVmU20ycktZaXV5MEhOd1BsWTUtU1pCWGxoZjFrWHVoRVcwbTdvbkxjaExONHFRQXhmblczdEpKdDdKNTV3bDZPaG9SVWMxZW15VTJxc2hCNm5NUmlURm9idXdIOWYyMTJkRmgtSjVxUzY4Z2NoTXYtcWpZ?oc=5).
 
 ## Requirements
 - Python 3.8
