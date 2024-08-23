@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will the Bo Nix choice work in Denver? How the Broncos, Sean Payton came to their starting QB decision**
+**Hundreds of proposals in Project 2025 match Trump's policies**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWxjV2VYOFNFZGlsMnIyMW5JS2hHenNPRXJSMHlWQTRxYTBkUW5US3NOYVMxU2tGQ3hyUllOSklOOUhrRy1wZVZVVUNRV2gyWlBfWm1ZMWpJUnNCRVFZTDQ4Z0V2RmdBQWZLZlpjdTF3X3EzLUU2ajNWeUpPc2FmVl9HaEQ2VHVQaUJMTDNjZVNDVm96eDRmcjVwMW5fUkFmVl9uZVFqcDdqOGw0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTFBCUzZIT2hnMm5xem41OE4zWlc5bWRDSVpocE01VUNBaHVONFJGR2JTc3RTSlN0YWtOaXFJdV9yendRbF9zOENEcHBqRUFvU2FscEl6SWhsRjhVZ3J6amlaRFgyMk1wUzRmdjhEeVlmcENOTmtmWkHSAXtBVV95cUxNWmNsbm1RVWpMWUpiN2s1M3JZcEVGeHJiTTdyT1RBTTg0eFJJVjdxVi16VkF5Nl9RQUMzNmNvdDNLdU5qdVc5Tjc1SjgtWEN5RWp4MjRwX1lKY3plUDd0MFJrRGZCbFY5OXE3VW5SbnhTMzVzUW40a3FmbG8?oc=5).
 
 ## Requirements
 - Python 3.8
