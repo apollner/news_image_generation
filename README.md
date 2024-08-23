@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mapped: Which countries have reported mpox cases so far?**
+**Sources: Eagles trade for Commanders' Dotson**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYThHdGFwcWZxMlNOY19VY2lRZmE4RDlzcHFZZExraEdTV1RZRHFfdC1XUTBfT29FcmJ4VUxxQlpnX2JBbmRFSmxTcWR0SDF2dVJmdG5MQXloVnEwRUExRml2MENZYXN5YmktZ3NJckNsdHVIWkJBUS1wdzE5cXQzc0x4cU15bWI2YUQzZUMyN1Y5YzNBLTZHS3h3b9IBoAFBVV95cUxPaF9JLS1nOGY4R0tWbVRka2JUZG04QXVOLVhMNjliVGZ0U3U1ck92RTBIejFxOGZlNndHSnY4NVIwZHhwSDMyS2tBS3pocEhCWGkwaGZFLUNWV3JCaUVJcXN3UG5HemcxZHYzdVNiWG1QUTVYcW1NMGRwSmNMM3R4Y2twT0RpLV9BTkFOSVFjQ3JxYnlVWV9XVF82ZTI3eFRr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPalRBNEFITDZTVm11Z1U5RlJtOEtnOFRTblNYSXlMUXZyTUtoRm9LZ0h1Q2pCMXQ2Nm1uYkxMTWtyZlNmUXFvNHBuUXpjLTlHOENxczZaUWJmeTI5NllocmJpX0lNQWJxb1BqVkJSMXhhdF80MDFxcmFnTVNRX1RvUDFlRUQwVWJpUU1OQnhYcXE?oc=5).
 
 ## Requirements
 - Python 3.8
