@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign deletes Freedom video after Beyoncé blocks use of song**
+**Ukrainian Drones Hit Russian Military Airbase as Kyiv Escalates Long-Range Strikes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZk5teHR3MlZlZWhlc21kRmZleFRaRmt6YWZuSUstS0ZYNFdwU1BGRm1ILW5OZXBabGwxMWRsVF9kMUFoblYzam5uNm9UVnhEejQtVmhiWDVFYzNiQnY0THZGbnJzSWcwbkhGNm8zZ0FUOXlkSi1DRkRhc0stREpaWGNHVXBVSTlSX0Q3c0xpRUhMdTZ2T200a0sxcWdXSzZJZ2htYmJtT1NsWVNpNGVsNmx3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjkyVjVxZzVobVpweXdhTTdiMHktU1owYWFUQ1hmTHNBMkJwOHdRbWc0NEt2Qnd3Nm5iN3hiTF8zbTZ5Ujd0b3VzSHFXalBraWhpTDNHdHloRl9MaVcxQm1KdWpwNFM4Y1BWdkhRUTZOcXRUQ2ZPUjJ0dktNZ3VLUnd2czNmZHF4WEo2VE53akdwbENLUTY4N2VXbFR2M25BNG5aLXplWkczdHpfS2lwejR6WFp4elZx?oc=5).
 
 ## Requirements
 - Python 3.8
