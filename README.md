@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. expected to drop out of race by end of week, plans to endorse Trump: Sources**
+**How Kamala Harris Is Preparing for the Biggest Speech of Her Life**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSm5ydWN2NW9fU1lCYklIeFpqUWZ1SUREMDZQSWF5TTFydC1vRXJ3U2NqXzg4T2pIU3JzblBtNGcweDhjcFRhSjI1bmxnTjh2WEN0OEdxeEkydkxUUlNsckV0NVUxQnAyZXJZWW9HYzBhOWJZQ2k2Vl9NVjFrNTFFM3h0eEc4RkdXY2xEMDNPanhkZlXSAZgBQVVfeXFMTlNVc19OdkpoNWYtV05rOWEwWWJYQXBGTTEwek1qc2JUNGdaQ0hEMkxtOFNVVGxvR2dLR1hBSm5saUdsMVR4T1E3aklGdWVqX2JUYms0ZnZUaXJvc2RJN01kQWRNcTVtaHZHVEFNUjk4N3RCdVdzM1NoV2lraVhTVWkxMU9leFpWNTFVdGNGdjdiWXZucmRtN0s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE5oLUxoSmlfSzBtNkxKcDFGVkV1cGN2RW11Smx2VTlyRjRhVXh1dG1CQ1FrQ0Z0LU1pMm9mZGxRQS1oV20xX0g0S3htSlJXazd2c3lXeWxwSHBmN3dKRU5OVjMxZjRmX1lWbTRxZmx6aHhJU1ZwOEh3TlRYOEFidw?oc=5).
 
 ## Requirements
 - Python 3.8
