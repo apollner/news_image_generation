@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Did J.Lo and Ben Affleck Break Up?**
+**Here's everything to expect from Fed Chair Powell's speech Friday in Jackson Hole**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1h3NWlqdlBwM3htaThqWHhxN0ZTVDRNYXIxcUJXbWowX1ZJZUd0SjN6MXFBX0gxNHM5QWRRTnBmNlVMdkV0RVF6X2xwMHNub3dSZWtQc0xRZGd6SWRJcENGcjNnc1MwdmdFM2xXOTRqa0kwMDVYelE3LVFIblJjVFIxYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHQ1c0pfS1cwN1ZBUTkyU0lyUF95VmxNZEFlQmVzenhfZmgyaTNnZ2JjeUJVNUU2RmR3UXJRcFEzaHZnZ3FsYU5LYldKSEU5d05XdEEtRFE0TURVV1NCY3hmZUptbk0zOGtMR0tsSXpjQUN4cDRoT2hzNDZ1SzhxWFRmV1BmOFFLcE9FVU5fTS1sZldSRV9OZFhZNEtCdFQ2VkV6RHo4QkZKSnBVdndoU2FLbUhDdzTSAbwBQVVfeXFMTzJqLXBoVU44c2VRc1hCMnBUOEdjUnRzUkFTaHdtNFB6RVdzbWxmVUlYY2lpc3JubjMzX3RteXN1bW5pdENWNFhTSjJVNlFkNzZ6SUJkeWFNYWxnaExWblhfOFp3bjR4T2ZmREhKWV9hQmY2Uk9IWUU2bDhmRTRKMjY5VkduVGR4RVFxNmNaTE5EVkZuaXhUaUI3Vlk4MTlKakZMSXloQ3JDS0JmQUFBUmdFVWtNQ2xkN2RTVkQ?oc=5).
 
 ## Requirements
 - Python 3.8
