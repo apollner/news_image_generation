@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Israeli demands for troops in Gaza blocking truce deal, sources say**
+**Why Did J.Lo and Ben Affleck Break Up?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXNUQ2pONHZuSndYN0paZkRfV3FvZmo4U3E3eWt5YlhuX3A4Y0JEOW80akFCOGt3M1dQekVod3AwTndBRDQwVXdBNjZZSzNCWEZwM2t1bGRBZllsazIwaXJ1a3N3VUdndEVoNUl2VUtDdzNmZlh4anA2ZnpPUm9PQ2pROWRmMkF1WHZoRlBUNjAxR3VkREFITTUzMzF6WmR5RGVVQWxMM3JmLWZHTVVicURuMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1h3NWlqdlBwM3htaThqWHhxN0ZTVDRNYXIxcUJXbWowX1ZJZUd0SjN6MXFBX0gxNHM5QWRRTnBmNlVMdkV0RVF6X2xwMHNub3dSZWtQc0xRZGd6SWRJcENGcjNnc1MwdmdFM2xXOTRqa0kwMDVYelE3LVFIblJjVFIxYw?oc=5).
 
 ## Requirements
 - Python 3.8
