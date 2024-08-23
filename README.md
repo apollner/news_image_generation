@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rising Democrats angle for 2028 and beyond in Chicago**
+**Bo Nix named Broncos’ starting quarterback**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNRHRQQlpybGdIN25Xa2xzSUdsVGcxZjUyWWladXpNTUM4QmxsM0dfMm1vUGlYbFY2dTh6U1FISlJBVjBMNU1OZThPa0lhdTRibDlpYlNuMDZ5c3hmSkJJQm91UU1DRDRoMHIzNkkwR2JzSUhPTE5mVHlRaUF1akdfZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQTEdETFBabnl0ZFBzQ05RRFpWYjgwLTJiNUtIaVhfMk4tNktuOWpYREk5QUZOLW5yZjZWQ21CZWpSb0w5djd2VVpsMHNoVWcyeUduNEtDOTVXdzBSSGVVOWhZYjZvWFE3N1RCQkpoUENUcnVZeHNWaHVhTjFXZGt4NG9B?oc=5).
 
 ## Requirements
 - Python 3.8
