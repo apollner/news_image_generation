@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Kamala Harris Is Preparing for the Biggest Speech of Her Life**
+**Alleged ringleader among 7 arrested in deaths of 53 migrants smuggled into Texas in tractor trailer in 2022**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE5oLUxoSmlfSzBtNkxKcDFGVkV1cGN2RW11Smx2VTlyRjRhVXh1dG1CQ1FrQ0Z0LU1pMm9mZGxRQS1oV20xX0g0S3htSlJXazd2c3lXeWxwSHBmN3dKRU5OVjMxZjRmX1lWbTRxZmx6aHhJU1ZwOEh3TlRYOEFidw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQME9lR21zQklvYzhsbHNwbm9qM0YxcVJ3WkRsMDNveGlRbzNQSFU1bDRHS3pnaXdrc1IyZXBxOWlZOWVvU2ZJM1dkS3pCelYtRUpEaWRPNDNKalpCRklqOGxMR3MzT0tTSlJQdUJ1VjB4a1RsT0psNVhqYWE1aWxIT2FhZ0ZRZ2oyQVNvUm9HUDEwT3dzR0Noa011UEg5Z2h4NGpoRjhqdzRpX1Z0NHJoWDl3SVPSAboBQVVfeXFMTklaS3JaZXdubnVEYlc5VnBIRnBuVWx4VnYzVDJiVDBvb1RlcFdqR1hxS21FRFFyWEdUUHFIVTNvY1JSY01HUk1pY214aDFSQy1zdkw2bTBJM0NmRkVtc0l4dlYxbzFDczBES2tNekQ2eW9ZQ25hR3dzT3NsR0wzUzE2SVVubEQtWkwxc2RhRlhmNkc4bTd4MGdUY0RGVlUta1dRMElvNXh5WkMyRl9NUTVOVC1iSkZWUXF3?oc=5).
 
 ## Requirements
 - Python 3.8
