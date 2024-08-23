@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joey Votto, former MVP and face of Reds, officially retires**
+**Michelle Obama belittles Trump in starry convention turn**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SQ1lfRnFiSm9oSFEyYkcxOGI1MnRTSnZTWkR1emIzdnZFQ1dxdDltMU1CVjFxRlRCX0tDUWh0bFRBUUlPeTlqWjZYWjNxZmpqQWwtM3dYdzB6SG9fZURkTW9VNmtOUV84RFZpZ0hpdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CV3ZwZnNxQW5RU1hjcXpVNUQ3Y1RjVW5ud0plNC11OXhUWEh3Y050aTI4MTJCSjVxdWNMUFNoS2VTcFU0TnRyV3hwazVOaEwzZjJ4bkVobzBZUdIBX0FVX3lxTE9QSTIzOGxreTIxVWMydzMzMlpCczZSZFpXVDFyVTNmaXQ4cE5vMDI1Y2s1UHprdHkwQVhnNjVHb1JrbHhSWUw3VGVoSFAzaW5qZ055dWJodElLQm42ZVgw?oc=5).
 
 ## Requirements
 - Python 3.8
