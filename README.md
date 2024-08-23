@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The US says an Israel-Hamas ceasefire is close. What’s really happening?**
+**Will the Bo Nix choice work in Denver? How the Broncos, Sean Payton came to their starting QB decision**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWRIV1hDMEFWSnpoQ2QxRFlUUHZhWU5GRi1wZGZPQU9zN0tBald6TzR1X29MamljeVhldi04dUFWUnR4Q0xFbkVzNFFEREhIeV92bERiV1ZUYno2VkVSaFM5X081dVo4X2laVzRwSjdQWU1BUlhJVVZ3SjlVT0Fqcy1FcC1jZ25vZk1OZHhoSjdmdUktQkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWxjV2VYOFNFZGlsMnIyMW5JS2hHenNPRXJSMHlWQTRxYTBkUW5US3NOYVMxU2tGQ3hyUllOSklOOUhrRy1wZVZVVUNRV2gyWlBfWm1ZMWpJUnNCRVFZTDQ4Z0V2RmdBQWZLZlpjdTF3X3EzLUU2ajNWeUpPc2FmVl9HaEQ2VHVQaUJMTDNjZVNDVm96eDRmcjVwMW5fUkFmVl9uZVFqcDdqOGw0?oc=5).
 
 ## Requirements
 - Python 3.8
