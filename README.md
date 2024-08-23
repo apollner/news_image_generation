@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Eagles trade for Commanders' Dotson**
+**FDA Approves and Authorizes Updated mRNA COVID-19 Vaccines to Better Protect Against Currently Circulating Variants**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPalRBNEFITDZTVm11Z1U5RlJtOEtnOFRTblNYSXlMUXZyTUtoRm9LZ0h1Q2pCMXQ2Nm1uYkxMTWtyZlNmUXFvNHBuUXpjLTlHOENxczZaUWJmeTI5NllocmJpX0lNQWJxb1BqVkJSMXhhdF80MDFxcmFnTVNRX1RvUDFlRUQwVWJpUU1OQnhYcXE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGV4V1pWNXh1SmdkS2JpSUNsOTNQMXhxS2MwSl9wYnpWQ19sYVdmbHNraC0zQmlVdVVJVmVGT1YyN3JwNURzYjFoTldtWFc4M214X2xQM0Ffb0N6NkJKQ0NDX2hxc2FXN3JJLTJMTXVWb0pBMVlBaVI1YzRmaTdvWGF2SjA1Y0t3QU1MYlpHc3JNa1A3bk96RDBZZm15aXVrakxBclV5alRRXzU2R2lOc0pPT3B4eUdBbnRhZGIyaDVwamtFRVB5M3VtLVJUMm1zYVlpTDBFWGRBbEk?oc=5).
 
 ## Requirements
 - Python 3.8
