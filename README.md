@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA Approves and Authorizes Updated mRNA COVID-19 Vaccines to Better Protect Against Currently Circulating Variants**
+**Who's performing at DNC Thursday night? Pink, The Chicks are set. What about Beyoncé, Taylor Swift?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdGV4V1pWNXh1SmdkS2JpSUNsOTNQMXhxS2MwSl9wYnpWQ19sYVdmbHNraC0zQmlVdVVJVmVGT1YyN3JwNURzYjFoTldtWFc4M214X2xQM0Ffb0N6NkJKQ0NDX2hxc2FXN3JJLTJMTXVWb0pBMVlBaVI1YzRmaTdvWGF2SjA1Y0t3QU1MYlpHc3JNa1A3bk96RDBZZm15aXVrakxBclV5alRRXzU2R2lOc0pPT3B4eUdBbnRhZGIyaDVwamtFRVB5M3VtLVJUMm1zYVlpTDBFWGRBbEk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMl9hSk5JUlNHTll5dmJKSlBXQXJkdmlVRTFZdllnZWhRNDBOR0JhNlJJMUpQalZJQzNPRGh5OXpkOXlDRE9OWDVoZ3owbWlYU1V4RTlGSjExbmxjTnlSLUE0NkNjcUN3VEJSN1VXOFh2bmRiRzBpZFdaMUNsaHU0Zi1WVzFmTHJlbWNDaGNyWi1xZWQ5MGlxYkI0eEVUcmtRNWtGbUJiV1B0MUdTQzlaTXotYlhQbVplNEJ6Sml1ZGhSUFhTU0tYLXY5NjFmY1Q5Z3QtNnZldnhyVjJfaG9zb2ZOTQ?oc=5).
 
 ## Requirements
 - Python 3.8
