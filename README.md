@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen sues Detroit judge who detained her after falling asleep during courtroom field trip**
+**Parents of American held by Hamas appeal for hostages' release during Democratic convention**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3J2bEZPRlZsN0xjbEtLbFNFMHpyV01PUmc0dHFpU0RSM2VfbWN3Q25QZEtJdEh4Zl9LeHFZZWo5QkVfUVF4NTlybDFLNFp3MW1JZ1B1VWdtd0VudXh1dXp2ek1HRUV1V3N3MDBFNUtLM1RDeE4wUEllaXF2MDBqV1RVRmt1ckJBdmcwejNBTkFISVNubzJTNDFhUnF2Vmo3U0VBRDZKcTJvdEJRUFNIVnU2UTViM0dNUGRHQ1J3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEtSSURfT1B3OFZfczNwZ1pfY2o5bGdNcWl1VWNCdmVBZ2FfM1BlLXVKallKT2FCaVFXQ3pVdnRWM1NwaEcxVUgwZXlKMUVEYWotVDA2bVk4MmIwSUZuXzN5elZLS2YtdDZHeWl0NWQ4Z29ZTnBzbjJ5N1Q3VkJtc1ZXWldEa1VOYy1KelVUOFZmdzBrQ0syc1ZDTjNFVHV3TUE?oc=5).
 
 ## Requirements
 - Python 3.8
