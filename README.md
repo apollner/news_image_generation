@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian Drones Hit Russian Military Airbase as Kyiv Escalates Long-Range Strikes**
+**RFK Jr. expected to drop out of race by end of week, plans to endorse Trump: Sources**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjkyVjVxZzVobVpweXdhTTdiMHktU1owYWFUQ1hmTHNBMkJwOHdRbWc0NEt2Qnd3Nm5iN3hiTF8zbTZ5Ujd0b3VzSHFXalBraWhpTDNHdHloRl9MaVcxQm1KdWpwNFM4Y1BWdkhRUTZOcXRUQ2ZPUjJ0dktNZ3VLUnd2czNmZHF4WEo2VE53akdwbENLUTY4N2VXbFR2M25BNG5aLXplWkczdHpfS2lwejR6WFp4elZx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSm5ydWN2NW9fU1lCYklIeFpqUWZ1SUREMDZQSWF5TTFydC1vRXJ3U2NqXzg4T2pIU3JzblBtNGcweDhjcFRhSjI1bmxnTjh2WEN0OEdxeEkydkxUUlNsckV0NVUxQnAyZXJZWW9HYzBhOWJZQ2k2Vl9NVjFrNTFFM3h0eEc4RkdXY2xEMDNPanhkZlXSAZgBQVVfeXFMTlNVc19OdkpoNWYtV05rOWEwWWJYQXBGTTEwek1qc2JUNGdaQ0hEMkxtOFNVVGxvR2dLR1hBSm5saUdsMVR4T1E3aklGdWVqX2JUYms0ZnZUaXJvc2RJN01kQWRNcTVtaHZHVEFNUjk4N3RCdVdzM1NoV2lraVhTVWkxMU9leFpWNTFVdGNGdjdiWXZucmRtN0s?oc=5).
 
 ## Requirements
 - Python 3.8
