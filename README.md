@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arkansas Supreme Court upholds rejection of abortion rights petitions, blocking ballot measure**
+**FDA expected to approve new COVID booster: What to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHNJNmxzQWhKb1Y4T2ROU1loa3JPTVh2LXdUZTQ3QnMtdnVGU2lmTWNHazhpeDFmUUVQV0ZYU1g3ZUxHNFdfbEcwaUNSOUktcEUwUkpXOUZkMUk4bE1BRmlIRThiVG5ud3djMnFEMXFUZ3E4YkktMnhkUWtFNkJkekFYQ0lNaDNLcXJnak9FTE9WcTNFZWVvOS1Cc19xS0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEtNWVl4R1RIQWNtQkEySGpBZDg3OXg1c0d5OEs4Z2xLV3N3UUotRmhvcWNwUUVOMno4akNPM2RGdEFCeFA3UmxnWnlzaFdKYUlSRUVWR0RXeGJ5VUlYeXpnVC1XdzlwVzZlZ2RfR0NKOXlPVmhlY2RFenhSSkNTUWF1am4tOHNWeFdEVDFkRjE4LWNIb21maEJXUdIBZEFVX3lxTFB5cGxCSnBDWWgtR3pJWXdKU3NKQlB3ek16cENSRnJ2OURUY1lzTlhHX2NYTjRvOEhvb0trSnIzay01OWo0aDlKX1hacnlBdFBtQ0VrVVJMbVBxV0tvLWt1d2lLQ0Q?oc=5).
 
 ## Requirements
 - Python 3.8
