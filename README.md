@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA expected to approve new COVID booster: What to know**
+**Mapped: Which countries have reported mpox cases so far?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEtNWVl4R1RIQWNtQkEySGpBZDg3OXg1c0d5OEs4Z2xLV3N3UUotRmhvcWNwUUVOMno4akNPM2RGdEFCeFA3UmxnWnlzaFdKYUlSRUVWR0RXeGJ5VUlYeXpnVC1XdzlwVzZlZ2RfR0NKOXlPVmhlY2RFenhSSkNTUWF1am4tOHNWeFdEVDFkRjE4LWNIb21maEJXUdIBZEFVX3lxTFB5cGxCSnBDWWgtR3pJWXdKU3NKQlB3ek16cENSRnJ2OURUY1lzTlhHX2NYTjRvOEhvb0trSnIzay01OWo0aDlKX1hacnlBdFBtQ0VrVVJMbVBxV0tvLWt1d2lLQ0Q?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxOYThHdGFwcWZxMlNOY19VY2lRZmE4RDlzcHFZZExraEdTV1RZRHFfdC1XUTBfT29FcmJ4VUxxQlpnX2JBbmRFSmxTcWR0SDF2dVJmdG5MQXloVnEwRUExRml2MENZYXN5YmktZ3NJckNsdHVIWkJBUS1wdzE5cXQzc0x4cU15bWI2YUQzZUMyN1Y5YzNBLTZHS3h3b9IBoAFBVV95cUxPaF9JLS1nOGY4R0tWbVRka2JUZG04QXVOLVhMNjliVGZ0U3U1ck92RTBIejFxOGZlNndHSnY4NVIwZHhwSDMyS2tBS3pocEhCWGkwaGZFLUNWV3JCaUVJcXN3UG5HemcxZHYzdVNiWG1QUTVYcW1NMGRwSmNMM3R4Y2twT0RpLV9BTkFOSVFjQ3JxYnlVWV9XVF82ZTI3eFRr?oc=5).
 
 ## Requirements
 - Python 3.8
