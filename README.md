@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who's performing at DNC Thursday night? Pink, The Chicks are set. What about Beyoncé, Taylor Swift?**
+**Exclusive: Israeli demands for troops in Gaza blocking truce deal, sources say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMl9hSk5JUlNHTll5dmJKSlBXQXJkdmlVRTFZdllnZWhRNDBOR0JhNlJJMUpQalZJQzNPRGh5OXpkOXlDRE9OWDVoZ3owbWlYU1V4RTlGSjExbmxjTnlSLUE0NkNjcUN3VEJSN1VXOFh2bmRiRzBpZFdaMUNsaHU0Zi1WVzFmTHJlbWNDaGNyWi1xZWQ5MGlxYkI0eEVUcmtRNWtGbUJiV1B0MUdTQzlaTXotYlhQbVplNEJ6Sml1ZGhSUFhTU0tYLXY5NjFmY1Q5Z3QtNnZldnhyVjJfaG9zb2ZOTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXNUQ2pONHZuSndYN0paZkRfV3FvZmo4U3E3eWt5YlhuX3A4Y0JEOW80akFCOGt3M1dQekVod3AwTndBRDQwVXdBNjZZSzNCWEZwM2t1bGRBZllsazIwaXJ1a3N3VUdndEVoNUl2VUtDdzNmZlh4anA2ZnpPUm9PQ2pROWRmMkF1WHZoRlBUNjAxR3VkREFITTUzMzF6WmR5RGVVQWxMM3JmLWZHTVVicURuMA?oc=5).
 
 ## Requirements
 - Python 3.8
