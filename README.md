@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. expected to drop out of race by end of week, plans to endorse Trump: Sources**
+**Joey Votto, former MVP and face of Reds, officially retires**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQSm5ydWN2NW9fU1lCYklIeFpqUWZ1SUREMDZQSWF5TTFydC1vRXJ3U2NqXzg4T2pIU3JzblBtNGcweDhjcFRhSjI1bmxnTjh2WEN0OEdxeEkydkxUUlNsckV0NVUxQnAyZXJZWW9HYzBhOWJZQ2k2Vl9NVjFrNTFFM3h0eEc4RkdXY2xEMDNPanhkZlXSAZgBQVVfeXFMTlNVc19OdkpoNWYtV05rOWEwWWJYQXBGTTEwek1qc2JUNGdaQ0hEMkxtOFNVVGxvR2dLR1hBSm5saUdsMVR4T1E3aklGdWVqX2JUYms0ZnZUaXJvc2RJN01kQWRNcTVtaHZHVEFNUjk4N3RCdVdzM1NoV2lraVhTVWkxMU9leFpWNTFVdGNGdjdiWXZucmRtN0s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE5SQ1lfRnFiSm9oSFEyYkcxOGI1MnRTSnZTWkR1emIzdnZFQ1dxdDltMU1CVjFxRlRCX0tDUWh0bFRBUUlPeTlqWjZYWjNxZmpqQWwtM3dYdzB6SG9fZURkTW9VNmtOUV84RFZpZ0hpdw?oc=5).
 
 ## Requirements
 - Python 3.8
