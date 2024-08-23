@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris has never had an Obama 2004 moment. Tonight’s speech is her chance.**
+**Trump campaign deletes Freedom video after Beyoncé blocks use of song**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemptSzFyd2luZ2F3WWpGN2l4VnFMVmhkaElXRnB5VFE3Y1B0Nm5PRTJkcEJrWEVxbU9RdWRCMFY2cjA5a3dVbmZEY0hiZlFYd3pDMUlHQ090U1lwZlR1N2NPVF9XU29lb0JFak9LRXd1OS1mLTZrdzBuQmxhMThEdlJpWmJ0TWRl?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxPZk5teHR3MlZlZWhlc21kRmZleFRaRmt6YWZuSUstS0ZYNFdwU1BGRm1ILW5OZXBabGwxMWRsVF9kMUFoblYzam5uNm9UVnhEejQtVmhiWDVFYzNiQnY0THZGbnJzSWcwbkhGNm8zZ0FUOXlkSi1DRkRhc0stREpaWGNHVXBVSTlSX0Q3c0xpRUhMdTZ2T200a0sxcWdXSzZJZ2htYmJtT1NsWVNpNGVsNmx3?oc=5).
 
 ## Requirements
 - Python 3.8
