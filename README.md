@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joey Votto, former MVP and face of Reds, officially retires**
+**Teen sues Detroit judge who detained her after falling asleep during courtroom field trip**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyd21ja1VIQmtFZlBLU0w0eEExdXJkcEpES2NINEwzVW56T2NQYU1oQjlhbzVRX0RYVVpjckJLZWMtSVZiSDhJNzBTa3FmQ0RXcW5EY2dlTjJQZDBOZmdXSWlCbXZmRklG?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3J2bEZPRlZsN0xjbEtLbFNFMHpyV01PUmc0dHFpU0RSM2VfbWN3Q25QZEtJdEh4Zl9LeHFZZWo5QkVfUVF4NTlybDFLNFp3MW1JZ1B1VWdtd0VudXh1dXp2ek1HRUV1V3N3MDBFNUtLM1RDeE4wUEllaXF2MDBqV1RVRmt1ckJBdmcwejNBTkFISVNubzJTNDFhUnF2Vmo3U0VBRDZKcTJvdEJRUFNIVnU2UTViM0dNUGRHQ1J3?oc=5).
 
 ## Requirements
 - Python 3.8
