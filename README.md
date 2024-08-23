@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Did J.Lo and Ben Affleck Break Up?**
+**Who's performing at DNC Thursday night? Pink, The Chicks are set. What about Beyoncé, Taylor Swift?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1h3NWlqdlBwM3htaThqWHhxN0ZTVDRNYXIxcUJXbWowX1ZJZUd0SjN6MXFBX0gxNHM5QWRRTnBmNlVMdkV0RVF6X2xwMHNub3dSZWtQc0xRZGd6SWRJcENGcjNnc1MwdmdFM2xXOTRqa0kwMDVYelE3LVFIblJjVFIxYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMl9hSk5JUlNHTll5dmJKSlBXQXJkdmlVRTFZdllnZWhRNDBOR0JhNlJJMUpQalZJQzNPRGh5OXpkOXlDRE9OWDVoZ3owbWlYU1V4RTlGSjExbmxjTnlSLUE0NkNjcUN3VEJSN1VXOFh2bmRiRzBpZFdaMUNsaHU0Zi1WVzFmTHJlbWNDaGNyWi1xZWQ5MGlxYkI0eEVUcmtRNWtGbUJiV1B0MUdTQzlaTXotYlhQbVplNEJ6Sml1ZGhSUFhTU0tYLXY5NjFmY1Q5Z3QtNnZldnhyVjJfaG9zb2ZOTQ?oc=5).
 
 ## Requirements
 - Python 3.8
