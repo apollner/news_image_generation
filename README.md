@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. is set to speak in Arizona hours before Trump as questions swirl around a possible alliance**
+**Black Myth: Wukong continues its dominance with new milestone**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVU0cmgyc2Y5dHBkOWxWbml6aHBwemZlUXVFQm5wOEhReFFoNmRJNm9XT0hfY0oxUmRQb0tRbXQteW9rTnRJZGhkVEYzdFpzSFZPNWtzaVBQbG05VW1JdDhhR1pGUE40MlpReFdCXzQtNmM3RHNaY0ZMaTZOSHVkcG1hODRCVl9tRkF1YmdjZGg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQllTclVJT1BLS2dZaHVJOFZsYkl0RmoxX0dLWm1qUWJDZGlDMVdqSkdOUFI4MU9oZ0tEME5taUQ5X3VITDdPSzZVQWJVZmRvXzRWU3lycHVsRHZHZWpGcm1OQ3FNaURjRVU1WjlKWE9NdEI3LWV3VE1wR2dNbklYVlphbzUza05XTVpFbVNUdw?oc=5).
 
 ## Requirements
 - Python 3.8
