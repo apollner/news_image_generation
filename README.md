@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nestle replaces CEO Schneider with company veteran Freixe**
+**Canada moves to end rail shutdown quickly; CN workers to return to work Friday**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1RWSlp2b0dlajVlR05tLS13WDl2RjNrRnRXSU5rRzNfeHp4U3VYZjFZRWZyOGtudk50WEd6MzRnMEc0MGl1V2VWdDh5aFFicVdzNHFlMklyV0kzc3FxY2VmQktlbnJ5c01XNTQ4SUlBNE9HZWd4OUU5bG83bUFhelNNNDhwdl9iQXRBUXU0a3ZJZDBQOU5oVE9kYW5hUGdOUV9Ddm9QWUxNd3JRQ0dOR2FGVERBdFJqMkY5OWhreGg5cXdU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTZrM1BUOWgtY25pUjFYR0xQUlhjVHJtak1GckVSbDJoaGZHVDhYRFQxODZ2OTRMeUhDN2hrb3Fndjc5ZzVQMVBkYWo2VVhrRFkzU3dZZ2NJNWd4UTZLY0xCMjFUTXlSVm5SWjJIQVhRWlJNZU9RQW1qQXdBRHptRXgxSzItdGppMUtJeERxdHFvOU00TUQ0TGhwSjFkV19q0gGmAUFVX3lxTE0yckNpdkVmdWwwMHdrdEgxUXFYdGZ6UDhXS2Z1U00xalJQbE9UZTdWM1dQSFpRZk5WQ3lMNlYzazlNY0NJOGZPSklSR0diU0pTcGZaV1AxNGJLM0xoV1JzS1JhRTU5MV9CVU1QSnJRdGUxbXMzYS1YbVBRWHl4WlowQjJuODBKUFNWeC1qY0lhbjlWTEFvZEM2MmRtejJuVFMzbVZaUnc?oc=5).
 
 ## Requirements
 - Python 3.8
