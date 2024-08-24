@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Growing health emergency over new, more deadly strain of Mpox**
+**Arizona may require proof of citizenship on state voter forms for now**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC251M1VvZGNnZ3UwmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlHMGE3NUI5TkRrOHFueC13QzUtdm5mMC1SeEhxSTdhQXhDRE8wQ29JVmZrSzZSYTVXa19WazY0RDBGYzdPdzJBMUxJdHh5QUk4QjlZZ09kcWlFMWRUWnpwNVRPTmZhMHExNHpRdmNkTEVvdjFKZldWbXF5MTVoTUhIOVZFWGRCdnFCTnprWDQ0STczd3BUYw?oc=5).
 
 ## Requirements
 - Python 3.8
