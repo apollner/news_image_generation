@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. will again offer free at-home Covid tests starting in late September**
+**Our Newest Major Pop Star Is Raunchy, Sarcastic, and Fully in Command**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNTlBudVZwcWl0TXVaUXpGSDFPVS1RbllUMkk5RVpFM0NjVWx1MXA0N1RRbWxtbUUzRjJhUm9DSWtLNU1xS2o0UWVGamdoY0NXekZwMURJRkYyLWhIS3hDNlY0U1dBZUxxTVFzeG5jdEI3UXRYYmZTNV9VQzBiRnFUYW5BaFRucTdlRmtWQTl1cjZQRmNIeklDSkMtVDFtOHZwUldxd2NXY9IBrAFBVV95cUxPNWtqcDRwVUlZbHNVcUJzT211X3BqYTJPQ0RWY25yMHVlb2JQdnc4RXp1VEhJdFdPNVBPUGFKdUpKLVRfYnRsTlBjcmUtTHp3bkFKX2YwX2EycWRnbl80TVowVE1DSXRYaHZVV2RTTHYzUnNXbGVLaTZzVmM5a1doMkNXbDNiVTBrVHlxbEFpWmNISERLUi1vb0ZQUngyX3JmR0VzQURTaWJYNi1K?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXdWczVwRkxyNUpwM21udFdJSUI3eHZjQkxnSjJ1WUdXMWhQVFNLbWk0ZzQyNDJPMWpXZ0NMc1RGWHVyWk41UnFkMDVTai1xb1FsYks0Ti1ha2hGandzMTVhODRQTGt4UWpYSE1aQ0JsZmVNSTZGSkl3TEdabUlCZVB2bnBReUd6RVRaUzl1UzNfMWZX?oc=5).
 
 ## Requirements
 - Python 3.8
