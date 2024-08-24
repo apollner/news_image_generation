@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Modi in Ukraine: Diplomatic tightrope for Indian PM as he visits Kyiv after Moscow**
+**Russian ambassador says US plans to give Ukraine carte blanche on weapons**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcThBLVJ3TkdaMjBNc2gzM0w0T0FjZk95U1ZwYWFWaXlsODBZbkpUWVRNTTJTZFhYTW15Qkx0ME5SaE54Q1QxZi1ySzZFLTQ2a2M0ZFE2bHBmd9IBX0FVX3lxTE8zMlpvenU2U01sNTBXYXV2LUhCcjJkVXE1XzhldlZkQzJJdC1EZ1E0NmVUZnBsTUZXZWFwTURvYXdVV1dqT3UyWGlycTUxWXYwa0dfYWlvcHFHbjhBY3Rr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLXFtUUtBS0xhT2w1b291bXBpbXhhMm11Q0JVOUZ1RHJnM2JSQmJzM29Ha3phWXllY2lmUWZvSDNzMXlZVEtMUGlXd0NJazl5aHREZDJRSUZ3Vk93UG9fTmpFMGd1Wi1CMnl2NUMwNFQ5RmVkWUlzN3J1ZllUbjd6UFpvdi1FY3BXNTF6V21WcFl5Q3daWkFIb2pTa1kwWklZcTJjS3Z0UDFuaWF4YnVHeGM0YUFNSWs?oc=5).
 
 ## Requirements
 - Python 3.8
