@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela’s Supreme Court certifies Maduro’s claims that he won presidential election**
+**Former Rep. Adam Kinzinger tries to convince his fellow Republicans to vote for Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjBTLUdxTGFtWnpOMUpneDlZUWRJU1U3NTR4ajRmdDdDczk3OHpueEkwRHVIRDk0NFpCclFCODZSaVVIN0t1M3N2NVRHRzZsUnZUMjBEeVRLb05hVXlLSGthVncySk9BZUQ0Q1NTOXUzeUh2aG9zM0J4enFzeUMxQ1ZfbDJ1TGxpeW9Ec0ZiMk9uekJzdDYyTy13YUVrV29KTzJ1ZkJLb0JwZWUxVFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxON2h5eC1OdVJzQl9BdmR5bG1LQnhqVnpJMWRnV3RVenJNQjhBVGdYS25ZMDFUWVl4YzhDcjVsbE5Tb2dMWXI4cTZpRFZ3S1dUVW1mVUNfa3pibVNVZGZCTi15alU4ZFBIanVUckU1UC03OWQwcWZoMFhsdzBlemtYdVNfLVR5cE5pUy1mMFpzYTNOYzI0S1I1VmE4NzI1THlJYVg1TkM0eUl6UQ?oc=5).
 
 ## Requirements
 - Python 3.8
