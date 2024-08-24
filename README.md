@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who's performing at DNC Thursday night? Pink, The Chicks are set. What about Beyoncé, Taylor Swift? Surprise guest?**
+**Gus Walz broke the internet with his tearful love for his dad. Then the bullying began**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMl9hSk5JUlNHTll5dmJKSlBXQXJkdmlVRTFZdllnZWhRNDBOR0JhNlJJMUpQalZJQzNPRGh5OXpkOXlDRE9OWDVoZ3owbWlYU1V4RTlGSjExbmxjTnlSLUE0NkNjcUN3VEJSN1VXOFh2bmRiRzBpZFdaMUNsaHU0Zi1WVzFmTHJlbWNDaGNyWi1xZWQ5MGlxYkI0eEVUcmtRNWtGbUJiV1B0MUdTQzlaTXotYlhQbVplNEJ6Sml1ZGhSUFhTU0tYLXY5NjFmY1Q5Z3QtNnZldnhyVjJfaG9zb2ZOTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjJYTi10bTJSMkU3RUVGUm1lX01YWnB0US1oSHJ1UlNxWGxfTjdsMXhTQnk1OFRZdElLakh3WE4wZVBxc2N5QTBkZTRLekdVRENxZkVjdUFnTjZWT0lrVGtCdUZzdWNyeEoxcUNRMEE3SXp3YmpfOGNyTEppaGIxb2pBN0xNR21aRjBMNW8xWWlZcU9FTWZ5VzRtTjFobmJUaEpSWFJocW9XYVpTSmtDM3BsYWkwZktodWZYWjRlSkVNTEdleVRUa2hSRDNyRXB0dGhiZzFVaG1meTNhTWJybzFDM2RDNFNjdmZINW5KSUlRaEVvdUZzUE9EMWJmZElvNEpwa3NR?oc=5).
 
 ## Requirements
 - Python 3.8
