@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta's chief operating officer will leave the airline**
+**Colorado bans reporter from questioning Sanders**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiakFVX3lxTE13eXIxVGhMV1F3WTJhN0pNaDRUMDFkb2otSUoxQ2lVNmZrcU80bGNUYlBFNUNDRXpuS1loaHREUmtDd1JXTUlYc0pSNHYtYmVndHcySkg0OGJFOU5hd0s0T0lEbzE3OUV3SWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVdVeEpyLWl2eU5oMGhxbjA4RGlpeEkwODktMjh6S08yWEcwa1RuM29fWGdscmxnejZUNDBuZUZYa0l6Vml1bE9FcHV4R08yVDlwWmNEWl9sem5iSXFYNFZYVFQ0TEFvQ1RVQTJ6RTV1RVZyWDduR0NuaGhMY2ZuODRraG9DbnIzMHBDS1dJblpTZGI3RHlTdUpNanNoLVhZeGpfbkdTbkxtVWZLUE9Jeg?oc=5).
 
 ## Requirements
 - Python 3.8
