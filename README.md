@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country act The Chicks to sing US anthem at Democratic convention**
+**Spacesuits of Boeing-launched astronauts stranded on space station are incompatible with SpaceX craft**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObzNzVGZkMl9JdjBYbXRNRWxlQUdoZnRNT3UxZmVCT3FDeVlzWnJnZHQ0X3MzTXY3NTdHczJxYkUySXhmaEdSeFN5bUZqalF4SjdDVWVuYUJjMDJWWXNtVTNBSVJHSC11RmkxN05maFVmNV9XTHFCVTk2NGp4cF9lQXFJX1A3YTB6SEhpX0Q0ZG9YSW1EQkhKRFNrdWFPNHI0N3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDc3SzlQeEdycUwtb2xQWmxWNk52OG51c21US21lYXhjV2tFM2J1YS1WWW85VVYtNXp4YWVBY3FObVZVSjBOM1Z0Q0pFSjFLd1FiZnZheEZGeGZzeDNpc0JzS2IycnNWZGQ3RU1McmFRNXF3TjlfVTVST0k1Wk1yRG1RTXVFRXVPNm9yVkdDeVc4NmdXLU82MUJNMzgtcGprTmlKOE1CV2FlZE01NUlmaVdVWdIBuAFBVV95cUxOdWRmaWdmSVM5Wk1LZGE0Wlg3ZU55OGQ2NTg0NzZ2bWJiT2wxQkZQS2RIbXZxOFpBNE5XNUdyZ3I2c3Z2Zmg4ZlNVblZMdGpUOFdKZm5JcUxFUzhPdXFnaUw2U3pkdHJ2TFNpY3VQbzVDQ1dsekkzUkliNUx4U2V5a2ItOWxXUFJYMm8wMzdnbHUwaWVHSGVoa2dCQ2syZFFnVmpwYlNRYmIxQ200bmF3X01nNy1HLVlM?oc=5).
 
 ## Requirements
 - Python 3.8
