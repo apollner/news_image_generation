@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris accepts Democratic nomination and Donald Trump visits the border: Morning Rundown**
+**RFK Jr. is set to speak in Arizona hours before Trump as questions swirl around a possible alliance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTNkUC1wNzAzSGVoSElaT2tDRXdidzFCTmVYdmZfODd3cjgyRmRvNFlNb2J0MVowSzFjcGt2UmlxMUgwTnBCMTVkVmZFOEJvUkNtNHhSaUpOM0N3ajZGbXJONDE3eGFNRzJSaURwaUR6ZHBJMEN6TE1PeFVIdFhxTWE5ZEFIa1NHcW5aZVEwZ0l6NzRBN2N0QWVWQkh4MmliV25pX3N1R1BqbE9EZEI00gFWQVVfeXFMUGpVdW5LenNVaEgzYVBwek1nMVNWbWpQdHZ5T1gtdFNXVlNRSWJjWFMyQXJkdmxobDRrNHE1X3N5RG9heEVqdHdLdEdfTWxFV1g2RzBPbWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNLVU0cmgyc2Y5dHBkOWxWbml6aHBwemZlUXVFQm5wOEhReFFoNmRJNm9XT0hfY0oxUmRQb0tRbXQteW9rTnRJZGhkVEYzdFpzSFZPNWtzaVBQbG05VW1JdDhhR1pGUE40MlpReFdCXzQtNmM3RHNaY0ZMaTZOSHVkcG1hODRCVl9tRkF1YmdjZGg?oc=5).
 
 ## Requirements
 - Python 3.8
