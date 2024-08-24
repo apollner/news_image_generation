@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spacesuits of Boeing-launched astronauts stranded on space station are incompatible with SpaceX craft**
+**Kamala Harris pays tribute to Joe Biden: 'Forever thankful'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDc3SzlQeEdycUwtb2xQWmxWNk52OG51c21US21lYXhjV2tFM2J1YS1WWW85VVYtNXp4YWVBY3FObVZVSjBOM1Z0Q0pFSjFLd1FiZnZheEZGeGZzeDNpc0JzS2IycnNWZGQ3RU1McmFRNXF3TjlfVTVST0k1Wk1yRG1RTXVFRXVPNm9yVkdDeVc4NmdXLU82MUJNMzgtcGprTmlKOE1CV2FlZE01NUlmaVdVWdIBuAFBVV95cUxOdWRmaWdmSVM5Wk1LZGE0Wlg3ZU55OGQ2NTg0NzZ2bWJiT2wxQkZQS2RIbXZxOFpBNE5XNUdyZ3I2c3Z2Zmg4ZlNVblZMdGpUOFdKZm5JcUxFUzhPdXFnaUw2U3pkdHJ2TFNpY3VQbzVDQ1dsekkzUkliNUx4U2V5a2ItOWxXUFJYMm8wMzdnbHUwaWVHSGVoa2dCQ2syZFFnVmpwYlNRYmIxQ200bmF3X01nNy1HLVlM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWkR2bXNTdlRMb3ZFMkJsalFGc1hRNERsV1l0NXhpeVE1M1lCR0hqc2tCbksyZW9NNk5DR3Nwb1RvSUdBYmwweDZIMk1pRnlGSngwRk13?oc=5).
 
 ## Requirements
 - Python 3.8
