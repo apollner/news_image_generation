@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris takes on Gaza war, tyranny in Democratic convention finale**
+**Nestle replaces CEO Schneider with company veteran Freixe**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmM3X2V5WjQ0TXR1QzQ4VEVEOFByaXZ1SUVndFVRZFVzd2MxdDdZbHp0dXhuSXhRQkJLb1c5bWlkSXpXUi1pY25IdVkyYjdTMGQydUluVndpdmYyOE5rb2FoRDBxaTdNWjBzOHlBNlJLaXIycktmNmUzV0k1YkwtbXMzdUpyYlZzMzFyMlBJTURGV09vVkk2ZGpBSGNpb1NzU240c1hB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU1RWSlp2b0dlajVlR05tLS13WDl2RjNrRnRXSU5rRzNfeHp4U3VYZjFZRWZyOGtudk50WEd6MzRnMEc0MGl1V2VWdDh5aFFicVdzNHFlMklyV0kzc3FxY2VmQktlbnJ5c01XNTQ4SUlBNE9HZWd4OUU5bG83bUFhelNNNDhwdl9iQXRBUXU0a3ZJZDBQOU5oVE9kYW5hUGdOUV9Ddm9QWUxNd3JRQ0dOR2FGVERBdFJqMkY5OWhreGg5cXdU?oc=5).
 
 ## Requirements
 - Python 3.8
