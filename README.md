@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powell at Jackson Hole: 'The time has come' for the Fed to soon begin reducing interest rates**
+**Democrats close the Biden playbook on Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjFfM3A5WDhTcGpGT003SlRZZExPYjJvYjBlTUItNVVQTzBVWTFFaER4dWRNRl9wMllNQWpsdFRtYjQ4X0JrM2NzbjhtWWM4cV90bXkwRGJNYVdjTWhkcWpBSE5BVXBmbnM5X1ItajVRUnZOalQzNW01S3Raak5pNE5BWE5OckpBUDVvdDhuc0RYQnNJTkJON0lyaVlwSk45cTJNR0czODdDWENSOVllOHRHQUNTdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTFBxaEU2QlRpakZvaUl6SWFuNVdBbVNTV1pDcm9USENOQTMzRmVfeWY1NGgxT200Z1hLVFdIMFFSZFRFcHFjRFhjVzVzN2Z3czBHREVTVlBsR2FUbUx6bnpWYlZEUTNNLWVmSVdzVnlvdFh4VHpEWVJzLXdPdXN4XzA?oc=5).
 
 ## Requirements
 - Python 3.8
