@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellar in practice, Burrow skips preseason finale**
+**Growing health emergency over new, more deadly strain of Mpox**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFMxSnFmdExFNUd6ZzM5NUNYOWJrS3NNNG5VNW1lcEJDREdoS2FUTWk1RUlxVWhEdEJjR0d5bXZCc1BQdFZlR0ZITTdsdkljVFZFRE9TMUJIQXQzdG5UaWV0OG81QWFYV1p2cHNYYUJWdG9LRnd2T25iZFlmRkczSjRoZXZRWmJPcVdiWTl3T240cy1yR1FqeFAyM0owZHB6UXkwVUFR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC251M1VvZGNnZ3UwmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
