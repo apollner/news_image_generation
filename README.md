@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Myth: Wukong continues its dominance with new milestone**
+**Powell at Jackson Hole: 'The time has come' for the Fed to soon begin reducing interest rates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQQllTclVJT1BLS2dZaHVJOFZsYkl0RmoxX0dLWm1qUWJDZGlDMVdqSkdOUFI4MU9oZ0tEME5taUQ5X3VITDdPSzZVQWJVZmRvXzRWU3lycHVsRHZHZWpGcm1OQ3FNaURjRVU1WjlKWE9NdEI3LWV3VE1wR2dNbklYVlphbzUza05XTVpFbVNUdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRjFfM3A5WDhTcGpGT003SlRZZExPYjJvYjBlTUItNVVQTzBVWTFFaER4dWRNRl9wMllNQWpsdFRtYjQ4X0JrM2NzbjhtWWM4cV90bXkwRGJNYVdjTWhkcWpBSE5BVXBmbnM5X1ItajVRUnZOalQzNW01S3Raak5pNE5BWE5OckpBUDVvdDhuc0RYQnNJTkJON0lyaVlwSk45cTJNR0czODdDWENSOVllOHRHQUNTdw?oc=5).
 
 ## Requirements
 - Python 3.8
