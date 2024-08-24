@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats close the Biden playbook on Trump**
+**Prosecutor says ex-sheriff’s deputy charged with manslaughter in shooting of an airman at his home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTFBxaEU2QlRpakZvaUl6SWFuNVdBbVNTV1pDcm9USENOQTMzRmVfeWY1NGgxT200Z1hLVFdIMFFSZFRFcHFjRFhjVzVzN2Z3czBHREVTVlBsR2FUbUx6bnpWYlZEUTNNLWVmSVdzVnlvdFh4VHpEWVJzLXdPdXN4XzA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaTJralFIZm9BQ0dzRlNzNjZEWXlzQ0NvYnMyb2ttTnY3QkxWMDRBVldiZXBpT1RQdkhxQ0ZraXRpZXRsbmJlZ3g0OWpBejJGaUNQUXRySDMxSEUxLVN5NnFpTEdGN2hEWmd5X0NHQklFQkRFR1Q3UHoxZGdnY03SAXZBVV95cUxOVERmVmQybjZWdUNQaFdQOFc4WkZtNDczcXgyMHVha1M3Sm51VHdoNVZ0UHlxWGJIWjBaS2NuMkhiaUpWNXlrNGh1Z0Ficm05WG1rV3ZJNlBSVHgzbzdRVkdwN1hzUHE2cTVITjFUZC1mek00QTBn?oc=5).
 
 ## Requirements
 - Python 3.8
