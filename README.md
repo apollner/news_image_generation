@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris pays tribute to Joe Biden: 'Forever thankful'**
+**Canada forces arbitration in freight train labor dispute to avert economic crisis. Union cries foul**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYWkR2bXNTdlRMb3ZFMkJsalFGc1hRNERsV1l0NXhpeVE1M1lCR0hqc2tCbksyZW9NNk5DR3Nwb1RvSUdBYmwweDZIMk1pRnlGSngwRk13?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFBWTTduSFhIdDdPODZjYnQ1MFpaQl9qREJxV29NSXVCU2FEWE1pZFZhWWtJQko5UlU4eHR6S2JKWGNYSE9hRW5BaUY3c2pWdm5pRGhFVkhERzZVYzhkQ2xVYlJCM0VVS2NaYlJxc29JS1MwZlh6UVdIazJDNEh2VktlMGp5cV9ycTh0VHd3?oc=5).
 
 ## Requirements
 - Python 3.8
