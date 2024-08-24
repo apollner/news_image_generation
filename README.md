@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta Air COO Mike Spanos to leave carrier, WSJ reports**
+**Kamala Harris accepts Democratic nomination and Donald Trump visits the border: Morning Rundown**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wm5XelhZZU1DMWxwbVNkV3Q2MUdvVE1nLU55NjBIbU1NTmpuZm5zb3VMcjlZZVhQcDE2VlNnUGppUjR1SXdIcTVXRWpweDNEZmwwTVhVdGlndkJsam9HUFhSNjliOW0tY1FSR1NrSlM1TXQ0aGFkUXNWMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTNkUC1wNzAzSGVoSElaT2tDRXdidzFCTmVYdmZfODd3cjgyRmRvNFlNb2J0MVowSzFjcGt2UmlxMUgwTnBCMTVkVmZFOEJvUkNtNHhSaUpOM0N3ajZGbXJONDE3eGFNRzJSaURwaUR6ZHBJMEN6TE1PeFVIdFhxTWE5ZEFIa1NHcW5aZVEwZ0l6NzRBN2N0QWVWQkh4MmliV25pX3N1R1BqbE9EZEI00gFWQVVfeXFMUGpVdW5LenNVaEgzYVBwek1nMVNWbWpQdHZ5T1gtdFNXVlNRSWJjWFMyQXJkdmxobDRrNHE1X3N5RG9heEVqdHdLdEdfTWxFV1g2RzBPbWc?oc=5).
 
 ## Requirements
 - Python 3.8
