@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 DNC: Watch live coverage of Day 4 of the Democratic National Convention in Chicago**
+**What will wide receiver Jahan Dotson's impact be with Eagles?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNckppYjhfUlNuSHlwNklSSDhOaHF3cTRCbkFHVzg0RDUzOFN2SXBBTnRCZGVUNkkzMDBIOHdBckIxMHlvUVZsZFFRa1pqNzk4ODNnaTlsMk9jMlJmeFVvcFZWV25LMndHRVhjNkdRMkdxeEFsUTgxM016VXB6ZzAzbVpNRmhnaTJtbVB1eXdCbDUyR3dqTGIxeE9ydFdRWFNVXzJ3T0hvOTdyOEkzc041Ni1TaUFOeFliZ2JRTGtESkktS2M3bGFxZmRPNHdzODV0azdBUHln0gHeAUFVX3lxTFBmZWlBbzJ3ZEdpZW5XM3RNOU5YejZmVUgtYUt4R3EtaGszWFNwU2xwZDRZUFB3MHlFTDVydHhWT0ZWQllQakgzX3hBVXdCWHp4VGVEY2FLWHhEZ2I5NHJXMGRKbE9lc2VmY1ZmTFFna0l3aWdkSDF2ZjFjSzVWN2NrbTV3ZHlxRWtfSXU4U045M2NrS1Q1M3EySVZRT254UG5OWHo0M1ktT3RwdTlsa1VFZTB2QlJadUlOeVlWMF90OFdGN24wa1dDQUxwVUZLU29aLWJLYXJEWjRyeE5kdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbFVMeVZPVlVuaWEySUx6dEl0QjZRS21VQk92Q2xnclhIc3M3UWFEWHNDaGxXQ1dmOUNUZmgyZjhNTmhrYWtzeGVZNGVybFRaX2ZJcWpIWkstZkRWS21RdDFYWWM0YktRemZJRlhqbFN0NlJLWkIxaGRBOUY5eTRfRnF2a1dXTDRGNHZkeFJwSmttZVJjMEphY3RRVkFlSkVRckR2UlozTUhrand4YWVqeVRR?oc=5).
 
 ## Requirements
 - Python 3.8
