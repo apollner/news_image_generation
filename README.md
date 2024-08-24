@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris to deliver keynote address on final night of DNC**
+**Country act The Chicks to sing US anthem at Democratic convention**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMi1Wa19KcEpWSXFDZFNZNGZSRkxnNHVkaXZ6Z0NnQUNPUDBtWG02cVRwWkJKUG15VXF0S1REeFRyVmFCaEJDbUFjTzNSUU5OMzEzbkpWUUlvMngzZXEzM3UwNEJJcnpiZEhXNWNoRkU5RmFHMXBWdW1pTzVlX3gtRUZ1STQ2Yi10aTNZT0JNXzdycGI5UWJiTw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObzNzVGZkMl9JdjBYbXRNRWxlQUdoZnRNT3UxZmVCT3FDeVlzWnJnZHQ0X3MzTXY3NTdHczJxYkUySXhmaEdSeFN5bUZqalF4SjdDVWVuYUJjMDJWWXNtVTNBSVJHSC11RmkxN05maFVmNV9XTHFCVTk2NGp4cF9lQXFJX1A3YTB6SEhpX0Q0ZG9YSW1EQkhKRFNrdWFPNHI0N3c?oc=5).
 
 ## Requirements
 - Python 3.8
