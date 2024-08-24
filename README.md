@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's SpaceX testing breakthrough tech in risky spacewalk**
+**Harris takes on Gaza war, tyranny in Democratic convention finale**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUs1RndoaWxHUHZrc0hsbGZ3YkVKd0cyV0psQnBYLXN3NWp1S21FMEZkQXlIYmtjM0tYY2lfOThvWG5Ib1NiNEw4MjkwSVJsXzdXOWM0Wm41RTdjZnZKc0w1NGNHa3pMZXhDalhrMDRDTEJXeXdqOGpodGFzSnpmYmJEcUNWaHZoMTQ2RXlzTzlzNTJ3M1FfNEY5NWVYU0xjU3BoWnFEYm9mVUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmM3X2V5WjQ0TXR1QzQ4VEVEOFByaXZ1SUVndFVRZFVzd2MxdDdZbHp0dXhuSXhRQkJLb1c5bWlkSXpXUi1pY25IdVkyYjdTMGQydUluVndpdmYyOE5rb2FoRDBxaTdNWjBzOHlBNlJLaXIycktmNmUzV0k1YkwtbXMzdUpyYlZzMzFyMlBJTURGV09vVkk2ZGpBSGNpb1NzU240c1hB?oc=5).
 
 ## Requirements
 - Python 3.8
