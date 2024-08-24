@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada forces arbitration in freight train labor dispute to avert economic crisis. Union cries foul**
+**Country act The Chicks to sing US anthem at Democratic convention**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdFBWTTduSFhIdDdPODZjYnQ1MFpaQl9qREJxV29NSXVCU2FEWE1pZFZhWWtJQko5UlU4eHR6S2JKWGNYSE9hRW5BaUY3c2pWdm5pRGhFVkhERzZVYzhkQ2xVYlJCM0VVS2NaYlJxc29JS1MwZlh6UVdIazJDNEh2VktlMGp5cV9ycTh0VHd3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObzNzVGZkMl9JdjBYbXRNRWxlQUdoZnRNT3UxZmVCT3FDeVlzWnJnZHQ0X3MzTXY3NTdHczJxYkUySXhmaEdSeFN5bUZqalF4SjdDVWVuYUJjMDJWWXNtVTNBSVJHSC11RmkxN05maFVmNV9XTHFCVTk2NGp4cF9lQXFJX1A3YTB6SEhpX0Q0ZG9YSW1EQkhKRFNrdWFPNHI0N3c?oc=5).
 
 ## Requirements
 - Python 3.8
