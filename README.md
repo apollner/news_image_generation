@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada moves to end rail shutdown quickly; CN workers to return to work Friday**
+**Musk's SpaceX testing breakthrough tech in risky spacewalk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOUTZrM1BUOWgtY25pUjFYR0xQUlhjVHJtak1GckVSbDJoaGZHVDhYRFQxODZ2OTRMeUhDN2hrb3Fndjc5ZzVQMVBkYWo2VVhrRFkzU3dZZ2NJNWd4UTZLY0xCMjFUTXlSVm5SWjJIQVhRWlJNZU9RQW1qQXdBRHptRXgxSzItdGppMUtJeERxdHFvOU00TUQ0TGhwSjFkV19q0gGmAUFVX3lxTE0yckNpdkVmdWwwMHdrdEgxUXFYdGZ6UDhXS2Z1U00xalJQbE9UZTdWM1dQSFpRZk5WQ3lMNlYzazlNY0NJOGZPSklSR0diU0pTcGZaV1AxNGJLM0xoV1JzS1JhRTU5MV9CVU1QSnJRdGUxbXMzYS1YbVBRWHl4WlowQjJuODBKUFNWeC1qY0lhbjlWTEFvZEM2MmRtejJuVFMzbVZaUnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUs1RndoaWxHUHZrc0hsbGZ3YkVKd0cyV0psQnBYLXN3NWp1S21FMEZkQXlIYmtjM0tYY2lfOThvWG5Ib1NiNEw4MjkwSVJsXzdXOWM0Wm41RTdjZnZKc0w1NGNHa3pMZXhDalhrMDRDTEJXeXdqOGpodGFzSnpmYmJEcUNWaHZoMTQ2RXlzTzlzNTJ3M1FfNEY5NWVYU0xjU3BoWnFEYm9mVUE?oc=5).
 
 ## Requirements
 - Python 3.8
