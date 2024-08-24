@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep: “Beyoncé Was Never Scheduled” to Attend DNC (Exclusive)**
+**Ann Coulter Deletes Post Mocking Gus Walz After Backlash From Rosie O’Donnell & Ana Navarro**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmdRNjhFcDc2cjFLQVM1R25DM1QxakNfNVAwV24xNVhUb09GQnNUYkh6bUZXa0p4NUpZLXpHMHRhOWVtdU5XMzBjYXNTY053dWU2TjZCNnJ2ZmRycTlZUjBQRUx0all3ZF9tNzZKT1hGdkJrMEUtajJfRzU2eXVaVTUyejVNcVRNX2daZWhaa3JJaTVzSWI2VTRSSdIBoAFBVV95cUxPeWVtMGVRbUp6SWdmSjVjem10emlUVnpoTTd2TW5BcVhWZkNVM3NUV0U1WU5ydDhxWFQybXVPZHlCdEpLcEJGeHhpajZlQTcycWpPNXJjUWk1aVplal9TWmllc2tBXzRYOEJVXzBFMndBcnlDbTZXRjFpdUxUQUN1TTgyRGx4RmEwc1NwSmg3dEpBWFEteGFIbjFEbDlTZXcy?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVZkZ3Y1YmR1U0dfeHNlanViWGd1Zk5sYU9IZ08tWUZnRzFJOXp2WHh1VmJQcF9Ca2xYckU5ZkZMMDJrT3FGalhQRkgtYUR5eVZYelh3UzU2aFRaSU9MdFNiQ3B2Rl9UT0tYU2FycUlBRThhX0FkTTdTNVFFNEoybHhRTzBDSFBNVDJ4Uk9KaWIxQ3lESGVoSlg3ZTA3bllTelNYX1ItQ2VGSWZ3eGlKZktPcE85VWlPVHc?oc=5).
 
 ## Requirements
 - Python 3.8
