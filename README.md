@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutor says ex-sheriff’s deputy charged with manslaughter in shooting of an airman at his home**
+**Former Tennessee officer accused in Tyre Nichols' death to change plea ahead of trial**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTFAyaTJralFIZm9BQ0dzRlNzNjZEWXlzQ0NvYnMyb2ttTnY3QkxWMDRBVldiZXBpT1RQdkhxQ0ZraXRpZXRsbmJlZ3g0OWpBejJGaUNQUXRySDMxSEUxLVN5NnFpTEdGN2hEWmd5X0NHQklFQkRFR1Q3UHoxZGdnY03SAXZBVV95cUxOVERmVmQybjZWdUNQaFdQOFc4WkZtNDczcXgyMHVha1M3Sm51VHdoNVZ0UHlxWGJIWjBaS2NuMkhiaUpWNXlrNGh1Z0Ficm05WG1rV3ZJNlBSVHgzbzdRVkdwN1hzUHE2cTVITjFUZC1mek00QTBn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXh5N2lSeHFKT2o0T1h1dDFRSE95YktRejVYN2pha2VBODhrLTczZlgwYndoSk51clZlN25MbTk4OHdza1BQb3ZYaEZMR3pQSXVZajAtdGh2TWdtVUVjTjlYd1RGQlBERk1kMzVnT2VfcUNqMC1GdDRJdUNCSzRSVjd0UWpDSGVVWW1DRXE3TDVzeEhTYy1VUTFDM0ZCZXMwdndpa1BDMNIBrAFBVV95cUxOQ2JrUHU0c3ozYk1aa0JlblNlOEJEZjkxMGg1QjVCSTdYa3k5ZXdmdm51TXFOcV9FQ2pNS3BnZEFvTVZSekxENnRvS0VCVHZ6akp0UkpwdTREYndPeG9oYjlWVnBTWkZfXzFIQloteU5SSThKeWotZXBrd1ZZc05ZVl9ieXZxOHFVd0ZDUTBiNlVxSGJyWFZKUzB5c0JhbEpBYzU0aTVnQUtjcUF2?oc=5).
 
 ## Requirements
 - Python 3.8
