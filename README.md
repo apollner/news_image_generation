@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Sullivan to make first China visit as US national security adviser**
+**Delta Air COO Mike Spanos to leave carrier, WSJ reports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE1aR2QxMkhJUkxOX1VoakNYTFNPZks1emw4ODZzRHdkWkZBNW9YakVpdm9UU3BQVmkwaVpGTzhoSDEwSDhkbkdjZWkzOFZWMkw5aWRWdlJsQk1tQWpvSmhvaGk1RENxZ3Q1ZU53enI4VjU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Wm5XelhZZU1DMWxwbVNkV3Q2MUdvVE1nLU55NjBIbU1NTmpuZm5zb3VMcjlZZVhQcDE2VlNnUGppUjR1SXdIcTVXRWpweDNEZmwwTVhVdGlndkJsam9HUFhSNjliOW0tY1FSR1NrSlM1TXQ0aGFkUXNWMA?oc=5).
 
 ## Requirements
 - Python 3.8
