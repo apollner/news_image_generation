@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**You can once again buy Pixel 9 Pro Fold for October delivery, Best Buy opens pre-orders**
+**Harris to deliver keynote address on final night of DNC**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNLVl2S1A3X0drTVFtbHlBWE9LYnV4eDJiOGhIVy1HREoxNGtJeWNjY2xOMHVpeHZXX09pSEJpUE5vQXAwX2dSdGpYRzZSeE9ZaWJSVHpicFl6RWNKSzZXQTFrM2hlaGZGbWpTQ2tMT3E3MkRMLWppTDhoaDF0SEYxQlJ0TUYwN1hEaHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMi1Wa19KcEpWSXFDZFNZNGZSRkxnNHVkaXZ6Z0NnQUNPUDBtWG02cVRwWkJKUG15VXF0S1REeFRyVmFCaEJDbUFjTzNSUU5OMzEzbkpWUUlvMngzZXEzM3UwNEJJcnpiZEhXNWNoRkU5RmFHMXBWdW1pTzVlX3gtRUZ1STQ2Yi10aTNZT0JNXzdycGI5UWJiTw?oc=5).
 
 ## Requirements
 - Python 3.8
