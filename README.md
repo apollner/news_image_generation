@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ann Coulter Deletes Post Mocking Gus Walz After Backlash From Rosie O’Donnell & Ana Navarro**
+**Stellar in practice, Burrow skips preseason finale**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVZkZ3Y1YmR1U0dfeHNlanViWGd1Zk5sYU9IZ08tWUZnRzFJOXp2WHh1VmJQcF9Ca2xYckU5ZkZMMDJrT3FGalhQRkgtYUR5eVZYelh3UzU2aFRaSU9MdFNiQ3B2Rl9UT0tYU2FycUlBRThhX0FkTTdTNVFFNEoybHhRTzBDSFBNVDJ4Uk9KaWIxQ3lESGVoSlg3ZTA3bllTelNYX1ItQ2VGSWZ3eGlKZktPcE85VWlPVHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOcFMxSnFmdExFNUd6ZzM5NUNYOWJrS3NNNG5VNW1lcEJDREdoS2FUTWk1RUlxVWhEdEJjR0d5bXZCc1BQdFZlR0ZITTdsdkljVFZFRE9TMUJIQXQzdG5UaWV0OG81QWFYV1p2cHNYYUJWdG9LRnd2T25iZFlmRkczSjRoZXZRWmJPcVdiWTl3T240cy1yR1FqeFAyM0owZHB6UXkwVUFR?oc=5).
 
 ## Requirements
 - Python 3.8
