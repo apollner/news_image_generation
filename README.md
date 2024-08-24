@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-checking Day 4 of the DNC: Roundup from PolitiFact**
+**Rep: “Beyoncé Was Never Scheduled” to Attend DNC (Exclusive)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ1hhOWM2MHlGZkt3QW94cnFvS1ozSHkwRDJRdkpGcTVpQWk5QVozV25yQUNqSTBxUjVXWU50LUNNUHg3eHRTWWdmR1F3RW8tdEVJM1NsdUotQkVqbEp1UXhpTXk5amtOZE9PYS1JQ21GbDB3dlFDM2xPaGR3ODhrZmVRcVAzQjBQNlNsYXlNeERNd045RG1ZcNIBngFBVV95cUxQa1BiMjlkUERjdnhXam9FZG1aem5LRFItUmdUZ1haeFplN0IteHNTWkRVOU8wbzBPVEF5N3JRR2ZMU3hPQzgxWGIxZFcwNHZYYzBqYktPNjB2OGQ2WlFUaEpqRjI0WmJTRUJTdURSU2NMR2lqZVpPaDdySnJFNzBtNVh3VUdCS3Ntb1RWeng4a2RzQVFWa0tWWlVJbzVmUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPbmdRNjhFcDc2cjFLQVM1R25DM1QxakNfNVAwV24xNVhUb09GQnNUYkh6bUZXa0p4NUpZLXpHMHRhOWVtdU5XMzBjYXNTY053dWU2TjZCNnJ2ZmRycTlZUjBQRUx0all3ZF9tNzZKT1hGdkJrMEUtajJfRzU2eXVaVTUyejVNcVRNX2daZWhaa3JJaTVzSWI2VTRSSdIBoAFBVV95cUxPeWVtMGVRbUp6SWdmSjVjem10emlUVnpoTTd2TW5BcVhWZkNVM3NUV0U1WU5ydDhxWFQybXVPZHlCdEpLcEJGeHhpajZlQTcycWpPNXJjUWk1aVplal9TWmllc2tBXzRYOEJVXzBFMndBcnlDbTZXRjFpdUxUQUN1TTgyRGx4RmEwc1NwSmg3dEpBWFEteGFIbjFEbDlTZXcy?oc=5).
 
 ## Requirements
 - Python 3.8
