@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country act The Chicks to sing US anthem at Democratic convention**
+**Venezuela’s Supreme Court certifies Maduro’s claims that he won presidential election**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxObzNzVGZkMl9JdjBYbXRNRWxlQUdoZnRNT3UxZmVCT3FDeVlzWnJnZHQ0X3MzTXY3NTdHczJxYkUySXhmaEdSeFN5bUZqalF4SjdDVWVuYUJjMDJWWXNtVTNBSVJHSC11RmkxN05maFVmNV9XTHFCVTk2NGp4cF9lQXFJX1A3YTB6SEhpX0Q0ZG9YSW1EQkhKRFNrdWFPNHI0N3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjBTLUdxTGFtWnpOMUpneDlZUWRJU1U3NTR4ajRmdDdDczk3OHpueEkwRHVIRDk0NFpCclFCODZSaVVIN0t1M3N2NVRHRzZsUnZUMjBEeVRLb05hVXlLSGthVncySk9BZUQ0Q1NTOXUzeUh2aG9zM0J4enFzeUMxQ1ZfbDJ1TGxpeW9Ec0ZiMk9uekJzdDYyTy13YUVrV29KTzJ1ZkJLb0JwZWUxVFE?oc=5).
 
 ## Requirements
 - Python 3.8
