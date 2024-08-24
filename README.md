@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Volgograd: Four officials dead in Russian jail hostage-taking**
+**Delta's chief operating officer will leave the airline**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oRzg0VkwwYTNpSUl4Mmk2N2M4eGN5V3FKZkxXbHEyTnF4aVY3cGc5NlZIUGI2M3FkT3hXWlU0SmtnZ3Vld0lDajJnbzNXZFFSOHlxVHRScmJpd9IBX0FVX3lxTE1VX1Q5M0szU2IzSjltWEZwamFXODVXTDUzVF9OWTc0Y2NRaFlXVUFxTm9fZTI4MXBqakk2T3BQNE5IcC11S3BaUW9RYTE4X0JWaXF1cmJSN2J5TkxqTXVR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiakFVX3lxTE13eXIxVGhMV1F3WTJhN0pNaDRUMDFkb2otSUoxQ2lVNmZrcU80bGNUYlBFNUNDRXpuS1loaHREUmtDd1JXTUlYc0pSNHYtYmVndHcySkg0OGJFOU5hd0s0T0lEbzE3OUV3SWc?oc=5).
 
 ## Requirements
 - Python 3.8
