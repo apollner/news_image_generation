@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gus Walz broke the internet with his tearful love for his dad. Then the bullying began**
+**Democrats refused to give Palestinian Americans DNC speaking slot**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjJYTi10bTJSMkU3RUVGUm1lX01YWnB0US1oSHJ1UlNxWGxfTjdsMXhTQnk1OFRZdElLakh3WE4wZVBxc2N5QTBkZTRLekdVRENxZkVjdUFnTjZWT0lrVGtCdUZzdWNyeEoxcUNRMEE3SXp3YmpfOGNyTEppaGIxb2pBN0xNR21aRjBMNW8xWWlZcU9FTWZ5VzRtTjFobmJUaEpSWFJocW9XYVpTSmtDM3BsYWkwZktodWZYWjRlSkVNTEdleVRUa2hSRDNyRXB0dGhiZzFVaG1meTNhTWJybzFDM2RDNFNjdmZINW5KSUlRaEVvdUZzUE9EMWJmZElvNEpwa3NR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE1mZXdaNzZBX2FUU1kxREczTVVlUWhyaUZGLXplRVhYdUtWTG02OW43VEcyT3IyZEdzdUpKUnZOa0hVUW1mU0pFdGY3WUs2c0lidjRUUTBGMWdpNDdfSi1INUF2bE1FWEJKLUlILWhSYy13TGhKMGVwektTUQ?oc=5).
 
 ## Requirements
 - Python 3.8
