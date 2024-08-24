@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian ambassador says US plans to give Ukraine carte blanche on weapons**
+**Ann Coulter Deletes Post Mocking Gus Walz After Backlash From Rosie O’Donnell & Ana Navarro**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxOLXFtUUtBS0xhT2w1b291bXBpbXhhMm11Q0JVOUZ1RHJnM2JSQmJzM29Ha3phWXllY2lmUWZvSDNzMXlZVEtMUGlXd0NJazl5aHREZDJRSUZ3Vk93UG9fTmpFMGd1Wi1CMnl2NUMwNFQ5RmVkWUlzN3J1ZllUbjd6UFpvdi1FY3BXNTF6V21WcFl5Q3daWkFIb2pTa1kwWklZcTJjS3Z0UDFuaWF4YnVHeGM0YUFNSWs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOcVZkZ3Y1YmR1U0dfeHNlanViWGd1Zk5sYU9IZ08tWUZnRzFJOXp2WHh1VmJQcF9Ca2xYckU5ZkZMMDJrT3FGalhQRkgtYUR5eVZYelh3UzU2aFRaSU9MdFNiQ3B2Rl9UT0tYU2FycUlBRThhX0FkTTdTNVFFNEoybHhRTzBDSFBNVDJ4Uk9KaWIxQ3lESGVoSlg3ZTA3bllTelNYX1ItQ2VGSWZ3eGlKZktPcE85VWlPVHc?oc=5).
 
 ## Requirements
 - Python 3.8
