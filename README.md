@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Our Newest Major Pop Star Is Raunchy, Sarcastic, and Fully in Command**
+**Charges filed against officer who shot, killed Roger Fortson**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNZXdWczVwRkxyNUpwM21udFdJSUI3eHZjQkxnSjJ1WUdXMWhQVFNLbWk0ZzQyNDJPMWpXZ0NMc1RGWHVyWk41UnFkMDVTai1xb1FsYks0Ti1ha2hGandzMTVhODRQTGt4UWpYSE1aQ0JsZmVNSTZGSkl3TEdabUlCZVB2bnBReUd6RVRaUzl1UzNfMWZX?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzVrbVA1M0lrQ0dwNHlRYnVpVmxPUXhYbEp0RXZrSE9lQ1FoY05ROFhma2Mxa0lBa3MwOFFSWHczWVVaWjdpUDBFSk00dEdEWmJrYWJydUpvaGxkd1hFTTJMRWJvSEdkd3JJU0lKTDFIVUpoV0FyeUJCQWxiVmtMZG5pSnM1eEwxWU11Qk40WDYyY0RwdzNCOFprX2U?oc=5).
 
 ## Requirements
 - Python 3.8
