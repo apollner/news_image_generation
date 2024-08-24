@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona may require proof of citizenship on state voter forms for now**
+**Modi in Ukraine: Diplomatic tightrope for Indian PM as he visits Kyiv after Moscow**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXlHMGE3NUI5TkRrOHFueC13QzUtdm5mMC1SeEhxSTdhQXhDRE8wQ29JVmZrSzZSYTVXa19WazY0RDBGYzdPdzJBMUxJdHh5QUk4QjlZZ09kcWlFMWRUWnpwNVRPTmZhMHExNHpRdmNkTEVvdjFKZldWbXF5MTVoTUhIOVZFWGRCdnFCTnprWDQ0STczd3BUYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcThBLVJ3TkdaMjBNc2gzM0w0T0FjZk95U1ZwYWFWaXlsODBZbkpUWVRNTTJTZFhYTW15Qkx0ME5SaE54Q1QxZi1ySzZFLTQ2a2M0ZFE2bHBmd9IBX0FVX3lxTE8zMlpvenU2U01sNTBXYXV2LUhCcjJkVXE1XzhldlZkQzJJdC1EZ1E0NmVUZnBsTUZXZWFwTURvYXdVV1dqT3UyWGlycTUxWXYwa0dfYWlvcHFHbjhBY3Rr?oc=5).
 
 ## Requirements
 - Python 3.8
