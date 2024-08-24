@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charges filed against officer who shot, killed Roger Fortson**
+**Volgograd: Four officials dead in Russian jail hostage-taking**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzVrbVA1M0lrQ0dwNHlRYnVpVmxPUXhYbEp0RXZrSE9lQ1FoY05ROFhma2Mxa0lBa3MwOFFSWHczWVVaWjdpUDBFSk00dEdEWmJrYWJydUpvaGxkd1hFTTJMRWJvSEdkd3JJU0lKTDFIVUpoV0FyeUJCQWxiVmtMZG5pSnM1eEwxWU11Qk40WDYyY0RwdzNCOFprX2U?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oRzg0VkwwYTNpSUl4Mmk2N2M4eGN5V3FKZkxXbHEyTnF4aVY3cGc5NlZIUGI2M3FkT3hXWlU0SmtnZ3Vld0lDajJnbzNXZFFSOHlxVHRScmJpd9IBX0FVX3lxTE1VX1Q5M0szU2IzSjltWEZwamFXODVXTDUzVF9OWTc0Y2NRaFlXVUFxTm9fZTI4MXBqakk2T3BQNE5IcC11S3BaUW9RYTE4X0JWaXF1cmJSN2J5TkxqTXVR?oc=5).
 
 ## Requirements
 - Python 3.8
