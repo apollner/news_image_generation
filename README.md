@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Backlash erupts over criticism of Tim Walz’s emotional son: ‘families are everything’**
+**‘Deadpool & Wolverine’ Pulling Feathers Off ‘The Crow’ & Putting ‘Blink Twice’ To Sleep As Summer Winds Down – Saturday AM Box Office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFJpMXBUR1VZaXFOb0d3MUluYjNEaVRMWXplOHBoQkF4a092c1JURVNSem9HcV9rOTN0Sy1EQ2pjTDRmR2w3S3p1VVB1bk5nZGxIN1lFX21rZnhNXzhJeTl5QmZaZ3lDWGRvVHNLRDMwYnFkWnRkUnhZMU1jZ3F0UV9BWWJ1MU9aUU1IZFB0QlNwcDJkLWJWLU42NGVhN18wMEJqSWlkclF0bU5qVHdaWlczb1d2S3B1bkdr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkdzMVRBeGZfYVM2NDlnTnREOUlNbXZmRnBJMXVzWGR5bWk0TTVyT0FBR2F5TWZNYktMVXV6cFF2Q0NkT3h0Y090blYwSi1uS0VYUXR2ZUkzWGZtckNTWVVVYmltVXBnT0dERjhGUVRtYmJXMU0zT0J2V05EbHY0LTBtYU52ZmJ5NE1QdjNtUFBYTmxPQXc2Zg?oc=5).
 
 ## Requirements
 - Python 3.8
