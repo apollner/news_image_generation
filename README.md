@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Time has come’ for US Federal Reserve to cut interest rates, says Powell**
+**Eminem Betting Favorite To Date Jennifer Lopez After Ben Affleck Divorce**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNS10bHFId0Z3Njh4OFlCempTRnV3em9Nc3YwOVRwWTNfcld3R2ZLUlhVQVlhRUJuekQyWkNPaEpFUmkzQkUxU2E1d2wydHIwdVNCdU55Ymk3OFZIM0szS25ZMTZjYWY4amE1SDhtSFNjVzltMlZzaHhkVWU4bHJBOF9oVkVXMUZpNjNPUVNTMGludVV4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2w5anhPTWc0elA1SDE4X012azAzZkpONkMtZUhuUU44SjJULTBpNkFUY1N3aWpjSERfWFFxSld6WDBTTDFWNjBXTGdUZnVKRVVGZFJ3QzNEMVhRNkw2cnZQN1dqbHVsalNQaTBrcWphb3BqcDdTU0ZQYmp2WTdCZGR3MWPSAYQBQVVfeXFMTmg0OTlkZi1jNlB2eVlJM0dMTU5oMHl4ZDZlNExnWGRmc1lKUEExUUVEM0QyYWQzQWxVWHBDbU1uY2RMamQ5VGFsWUNZYnFaRzVPUnRlVDlmcWFTalZLNjY1OHJ0bWQ5N0ZSOXBqRUJ3Y3RvYlNESG83ZTBSdXdzS0FoX0Et?oc=5).
 
 ## Requirements
 - Python 3.8
