@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Foolish Kevin Costner, Francis Ford Coppola certainly made a splash -- in the worst way possible**
+**QB Watson to sit out Browns' preseason finale**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTVJUjU5MVFNcTBpYXFOV3NWWDJESnlEOEtVc0E1cS1BM0hWdDFRQ2F5Nkt2Wm9yMGI5T3ZrUGNNTlVHOGFHeXhuWG1xWGQ2dS1HR1Rra0VLOVJZTWV5dV9JQjljSFlRcWsxeTN2ck84cTBRNERhUXByX2FOb3lkUTZWeWZSV1lKeXZTandkbXVHRjhkZU1DOVItLVdDOG9nSlI5cXMtcDVDZmZVTWV0em1yTjVIQjBrRnQzaWYzVXRHRnJaUUlBeXRuQ2c3QVRYQ0FV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUW9GRWxyN0ZGRHBDc003QjJSa2JTSEI4RWZQN04zTjdKOVI5U2pOMGFRU2dUaHgycGxoN0NYMVpJa2Y3Z2lfbnotSDcwOE9Mb2Z2YjJiMEhRVDJaU2FNSXI3WU1iUlpSQm1YbkQ4dzh3dC10SE9UOU9lUUxsc0VzZUV4UEJ3RU84MTNNRHFnY3c0ZFVYVkM5cGk2bnNrS2h2?oc=5).
 
 ## Requirements
 - Python 3.8
