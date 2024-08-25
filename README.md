@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mpox in Burundi: On the frontline of the fight to halt the spread**
+**Apple event reportedly September 10 — iPhone 16, Apple Watch 10 and AirPods 4 to launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcjFSMjVHUFNaY3VNTjZ3MmlHOXVEdzZUVmt6Tnl1WlN2ZjBpdmMyWmktMnZieGJSeHJDdUx4aVVLVDRsU2lwVjQyYVp5eVRnOGJobzJGTmlKQdIBX0FVX3lxTE5iMDZkY2F4OTNtSDVkcGt4S0otUmhjR3NES241ZVV4czlPbDR0TVAxTGR5Zl9hekpETmh6NmZkeDlHdTJ3ZnpiemNnUHh0YlRxZENEcU9XZUlFX0UxaFFv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3hENThUV1BmVW9hLUluOHFOV25SMTkwZmpHZlpLN1NyMDZtWnR6clpfaXVBbk9vWjNRU0lEemg4RUl1WXR3bnJkSFc4MldVSGp0NmZVRXM5QWUxczE0QVdyOGk2YVp0SG1FSGVRREkwZk5CSHp6VHRmdTZWdmdndVF6WUpwOUZPRGVhRWlocVZHNVdmeDRHSkRMaFg?oc=5).
 
 ## Requirements
 - Python 3.8
