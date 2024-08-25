@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three dead after knife attack at German street festival; suspect still at large**
+**Tropical Storm Hone and Hurricane Gilma tracker: Map and projected storm path**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0gza1E3NHBveURvZFpEajU0SVU3S09OX2hzQ3lpYzladUkxbHpGbUVPdlhKbXZsajZzUUV2S3g0Rk1mZEpraGRYVU5KS0RVSnlYeHN4blV2X0dIUjNJNUFENmh4YUZBbDRkM2NLbnV0TU9xYzBjTTVMSGVuaWhhenBLWEpIdWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjQ0bUZkbnUxc0o4WlNBOEJid2RmZTFVRFdHNzlOTzJvRkZDTmgxYlNMT3VOaFlPRFJfN19EWXQwZnlMc3pSNk8wc0tzeDVnZkYwRHpsaVRsY285YUM2MUJQTlFiWE1ScDNiQWROQllGczNScUg3QTgxak56ZEx6SGNZMkFtR3BZVV9Z?oc=5).
 
 ## Requirements
 - Python 3.8
