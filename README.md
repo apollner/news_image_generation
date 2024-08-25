@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez's friends claim singer tried to salvage failed relationship -- but Ben Affleck 'has a darkness to him'**
+**As Matthew Perry’s PA prepares for prison, Hollywood assistants spill all about what they have to do for their bosses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2x6a09VZmpCbktBZHRqdEFYRFJhTng2QTZkM09QaXhuZ3lXSVIxT3pqRU00OFlaZWxRM29fOXA3dk9jRWxRRWFxQndnYVB2YjBhTjZTMlNFaDJiSC04elVlaE5zd0pGRmNDRkdtSTd0eHBsN2J5RjJiaHdyd184N3oyNnV0VjdYMjQycVlCT3NteTVOYUk0TEpaVElqUldlSE1Gcg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxObjZlM0I4RTlvUFlpUnF1RkVHN3JpNDdmczRrR3hTVkotMFV0eXVORmhaNnlFZmxmZ0dRUVNONmZkdXRhaVc2QUNzcHZ2N04yTzgwNjZ0aGdMeElpZnRLdkdmb3RwRTMyUjFUaFVEYVYyTU9IRkppSmx1dWE3bHYtV1JNNFhqSkZaVjhVZTJIYzJFekdKX1dOd3dRemMzdHVH?oc=5).
 
 ## Requirements
 - Python 3.8
