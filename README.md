@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple event reportedly September 10 — iPhone 16, Apple Watch 10 and AirPods 4 to launch**
+**Valve officially announces Deadlock, a game ‘in early development’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3hENThUV1BmVW9hLUluOHFOV25SMTkwZmpHZlpLN1NyMDZtWnR6clpfaXVBbk9vWjNRU0lEemg4RUl1WXR3bnJkSFc4MldVSGp0NmZVRXM5QWUxczE0QVdyOGk2YVp0SG1FSGVRREkwZk5CSHp6VHRmdTZWdmdndVF6WUpwOUZPRGVhRWlocVZHNVdmeDRHSkRMaFg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zVUtjN1ZGTnB2Q0ZNaE1wMXJqT3FJRVY4cFhkMU1rSzBGQjNkRXVJQ3U2ZVNkOG11ZFNzZzZiR1BpYlphbzZUUzNSS3VtdzdWTUtqekZCS2Z0elVNT0JIX0ZEVGJMUlhMZzZ3dnlGWERJbmVQMVF6ajJJZw?oc=5).
 
 ## Requirements
 - Python 3.8
