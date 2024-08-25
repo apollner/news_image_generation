@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**QB Watson to sit out Browns' preseason finale**
+**F1 Dutch GP: Norris takes dominant pole from Verstappen**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUW9GRWxyN0ZGRHBDc003QjJSa2JTSEI4RWZQN04zTjdKOVI5U2pOMGFRU2dUaHgycGxoN0NYMVpJa2Y3Z2lfbnotSDcwOE9Mb2Z2YjJiMEhRVDJaU2FNSXI3WU1iUlpSQm1YbkQ4dzh3dC10SE9UOU9lUUxsc0VzZUV4UEJ3RU84MTNNRHFnY3c0ZFVYVkM5cGk2bnNrS2h2?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGg0UjlNOFFTY2t4OXFlUHNzbHZKWE9HSU10ejEyQllRcmFiUTlVMVM5dVQyVWczbkJRYVgwUG80MnZtMkk3cDhHajdIS1A3SmxDc0tIcnktYWUtQ2NieEU2aWNZd0RZWTdmSUo5U3FCT1p1enpzVUJFejF5cS16cmhDQWdoakhNb2dWS1JScEEzOWhSU29JMFpOdzVFcGFR?oc=5).
 
 ## Requirements
 - Python 3.8
