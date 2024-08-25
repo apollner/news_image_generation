@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Muslim Women for Harris-Walz disbands after Palestinian speaker denied a slot at DNC**
+**Israeli airstrikes kill dozens in Gaza on the eve of high-level cease-fire talks in Egypt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxPYnE1ellYS1hwOHJZNEtiVjJLY1dLUjdMaUdlVVlXZU9oaW9yR05pYktyQjI2ZV9jOUJCak42c0c3NzN5UlBjWGxja3JnN3VoX1h6d2ZLWEx3NzlPTmZiX1NGTEJwNzl1YlltVTI3RXMzWjVKNE1ITENHcndNZlQ2MmxRNWs1Q2tSTEFtTUM0eFBDcTNyU2lQa05EbG1rSWNBeXdaNmZLamFqOFR4Yzc0MUdn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNajF6Q2I1SFpMbWFCM0ZaMTlWQ0M5amp4aEIzU01udnZuSTBXWFVlNXVnandobjhtcXl2Sm9zWjl6XzMyb1NCUjFJUXVPSnhDdFBYbTZ1RmQ4cE9Yc25ETkp3WjhEMXNqY0VhTGwxSVpHZ3YzbXlxNnVXbEluSGtFa3VVelVhRnM2SEtqRm9NT2RQTmg1cllOTXFCcHQ5Uk9SYUN2WVRnSQ?oc=5).
 
 ## Requirements
 - Python 3.8
