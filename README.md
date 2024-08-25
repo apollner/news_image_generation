@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Alaska Airlines pilot who tried to down flight while on magic mushrooms trip wants to fly again**
+**Israeli evacuation orders cram Palestinians into shrinking 'humanitarian zone' where food is scarce**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWDZsWlpxd1Y2dFRuWS1oNmF2VGJ4eGRWTnl1MXpBMm50Zm5RX0lLSXdUaTViNzVqZ1k3dlNsTnl2eVBIN2dLX2drZm1fV2tsVW1vNzdkWEFrY1lhWW8zM1dGZVp2akJQZXBTNklkZDRadW1NbUlDQTRKS05uSnUxVHNsY0JOejhMVWlGaE9raHFaX0dOYlVNT2l2STR3Rm1NQm9KQWdEckZZbVk2UExWYUp2d21hUEd1eVNTcXBneGtzS2NXUUQ4WnJiS3hSYW10UjEydVhTWHNqRDhoa1I2VWp5ay0wR0oyVEVN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FROU5fSE5HNEhjbnIxNEVSTTEzNXFOSzFJb2xwVEFOdE9NMnFDZi1wYkl2QkdOMk01SmFDNUVpZUw4ODR5ODQ5M01VN3lyVXBVM3B6TzMwbEVCSU91VzllUUwyalNYM1NKaVktX0FVT2w0QTFwU3I1MVZtVC1jdER4eDFWcW9KYktXTkZkNUZ5Z2dhY3VFWkNCTVRWbWNDQ28tZFdXZ182OEk?oc=5).
 
 ## Requirements
 - Python 3.8
