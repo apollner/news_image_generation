@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem Betting Favorite To Date Jennifer Lopez After Ben Affleck Divorce**
+**Tropical Storm Hone and Hurricane Gilma tracker: Map and projected storm path**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPN2w5anhPTWc0elA1SDE4X012azAzZkpONkMtZUhuUU44SjJULTBpNkFUY1N3aWpjSERfWFFxSld6WDBTTDFWNjBXTGdUZnVKRVVGZFJ3QzNEMVhRNkw2cnZQN1dqbHVsalNQaTBrcWphb3BqcDdTU0ZQYmp2WTdCZGR3MWPSAYQBQVVfeXFMTmg0OTlkZi1jNlB2eVlJM0dMTU5oMHl4ZDZlNExnWGRmc1lKUEExUUVEM0QyYWQzQWxVWHBDbU1uY2RMamQ5VGFsWUNZYnFaRzVPUnRlVDlmcWFTalZLNjY1OHJ0bWQ5N0ZSOXBqRUJ3Y3RvYlNESG83ZTBSdXdzS0FoX0Et?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjQ0bUZkbnUxc0o4WlNBOEJid2RmZTFVRFdHNzlOTzJvRkZDTmgxYlNMT3VOaFlPRFJfN19EWXQwZnlMc3pSNk8wc0tzeDVnZkYwRHpsaVRsY285YUM2MUJQTlFiWE1ScDNiQWROQllGczNScUg3QTgxak56ZEx6SGNZMkFtR3BZVV9Z?oc=5).
 
 ## Requirements
 - Python 3.8
