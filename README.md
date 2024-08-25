@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danny Jansen to join Red Sox’s lineup at start of suspended game vs. Blue Jays, play for both teams - The Athletic**
+**Jacksonville Jaguars vs. Atlanta Falcons | 2024 Preseason Week 3 Game Highlights**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtnRDFJTWZTVm40VEMyVWp4VU5icVNETVdVc09mcUVUVXk3RXBjWndrMy1rR1hDZ3VyTnpqU2dtTU1LUzJGTVFQbl94ZlFDaW9sZkhiT1IyUjlvaWpqQTNtNUFUU3JaYkkxUmJFdjBHRG81UENZMkM5UElQQm11Nl83UHhCVXJzb3I0R3VtNFNYVUtXVEp5NHJBQ3pXUFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiCzkyOTI4RUFHcU9VmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
