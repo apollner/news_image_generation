@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrikes kill dozens in Gaza on the eve of high-level cease-fire talks in Egypt**
+**After Kennedy’s Endorsement of Trump, the Two Signal a New Alliance**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNajF6Q2I1SFpMbWFCM0ZaMTlWQ0M5amp4aEIzU01udnZuSTBXWFVlNXVnandobjhtcXl2Sm9zWjl6XzMyb1NCUjFJUXVPSnhDdFBYbTZ1RmQ4cE9Yc25ETkp3WjhEMXNqY0VhTGwxSVpHZ3YzbXlxNnVXbEluSGtFa3VVelVhRnM2SEtqRm9NT2RQTmg1cllOTXFCcHQ5Uk9SYUN2WVRnSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFpZbXk3X3lQdTZuejJQVTZ0ai1EMnRZMTJKeFVRTi12RnRfT1ZMV0FHQTdqOUdTUXRqQXVVYWU2M2s0NlRPbWNrRGhDME1BUTBWdlVKbWpiZHVJZ0FXdVJsMEpDbTZqQWlQOXIxS3NNRjM0MV9USWZFZkszMk54bGJxV3hQMmUza0xVbm1vOExWckk?oc=5).
 
 ## Requirements
 - Python 3.8
