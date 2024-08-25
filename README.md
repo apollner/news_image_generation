@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Danny Jansen to join Red Sox’s lineup at start of suspended game vs. Blue Jays, play for both teams - The Athletic**
+**Musk's SpaceX testing breakthrough tech in risky spacewalk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtnRDFJTWZTVm40VEMyVWp4VU5icVNETVdVc09mcUVUVXk3RXBjWndrMy1rR1hDZ3VyTnpqU2dtTU1LUzJGTVFQbl94ZlFDaW9sZkhiT1IyUjlvaWpqQTNtNUFUU3JaYkkxUmJFdjBHRG81UENZMkM5UElQQm11Nl83UHhCVXJzb3I0R3VtNFNYVUtXVEp5NHJBQ3pXUFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUs1RndoaWxHUHZrc0hsbGZ3YkVKd0cyV0psQnBYLXN3NWp1S21FMEZkQXlIYmtjM0tYY2lfOThvWG5Ib1NiNEw4MjkwSVJsXzdXOWM0Wm41RTdjZnZKc0w1NGNHa3pMZXhDalhrMDRDTEJXeXdqOGpodGFzSnpmYmJEcUNWaHZoMTQ2RXlzTzlzNTJ3M1FfNEY5NWVYU0xjU3BoWnFEYm9mVUE?oc=5).
 
 ## Requirements
 - Python 3.8
