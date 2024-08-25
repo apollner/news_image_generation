@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy opens manslaughter investigation into Sicily yacht sinking**
+**NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXc4VkdMSzFhcElFSm5OUGRiSUZFbnNyeWRBejR4d0prRVVlVkUzZV9JQ3ktakJfTXl2Z09JaWplY0FXMXpHOGJhOG1oOUc5aWt6ZE4zd1ZRWFlrWTkyZmo4WXc4VUtHMDJfbGFoOHVWY21rRXVfSENxZGJ3SHRhNEVQekQzSThaU1FmQ1BLVzVmZ1MwVGRMUExn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm5EVm9Ld2lEZ2FUTW5heGlhV1Q4ZUstS1QzU2w1ZlRTeFkwRk83YlZGODNEdE83TnBmdEo4cUVwdHJwRTNkZ2Z6cTlFbDJGQWJlTy14MDZoeHgwVEM2dnFucUFmMmFsYU1TZV9qZlg0ZkY5N1dTZFdlcGxJMkdIc01WYWxUU3pJdy1LWi1TejE5VjRhQ1hZVER2T0dsa0JpaE0zSHcxOA?oc=5).
 
 ## Requirements
 - Python 3.8
