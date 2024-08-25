@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northeastern towns issue voluntary lockdown to prevent spread of mosquito-borne disease**
+**Apple event reportedly September 10 — iPhone 16, Apple Watch 10 and AirPods 4 to launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQSTJpd1p4dENEWnBxSm1wRU52YlBzS3pJVzhaT1Zqb2QwT2t6MERUT29la1hIXzBQSWdCbWcxS2JGVlV5bTRYRzhNNEJkLUxPdWs0WjF4LUxEY1JNUnpDcXp6RmUxS01tTDZwYlNXdmlxOXZKeW85Q0FrMU1EWUg5dU1KZFpsLWtITmZ2VEZMQlJxZ1IyQUcwMlFJU2Y0U2RISlBNS2ZFSEFNc2VDb01JQXNR0gG3AUFVX3lxTE9VdWxIR1Bfa2xiMTRVUnRkNWp3Vi1Kd0ltYWp6cm5KVmFLWTFzOHNjV2RhX1B4VS1rN1ZCdWtFUlpGRml0MnhhRjQtME9uSjJZblE1aHRDNEZmWlJDVW9ObTg4c09uSW0yZWtfQ3NwRjdsbHJMTm54Y0Z4RUctdWxFVVVnYkVheDhPRGhWTFlVazVST0p1RjBEMGtjY1FHWUwzVGJMRnFUWERVS0Fad29iR1dnQ3E1QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3hENThUV1BmVW9hLUluOHFOV25SMTkwZmpHZlpLN1NyMDZtWnR6clpfaXVBbk9vWjNRU0lEemg4RUl1WXR3bnJkSFc4MldVSGp0NmZVRXM5QWUxczE0QVdyOGk2YVp0SG1FSGVRREkwZk5CSHp6VHRmdTZWdmdndVF6WUpwOUZPRGVhRWlocVZHNVdmeDRHSkRMaFg?oc=5).
 
 ## Requirements
 - Python 3.8
