@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Deadpool & Wolverine’ Pulling Feathers Off ‘The Crow’ & Putting ‘Blink Twice’ To Sleep As Summer Winds Down – Saturday AM Box Office**
+**Jennifer Lopez's friends claim singer tried to salvage failed relationship -- but Ben Affleck 'has a darkness to him'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxOTkdzMVRBeGZfYVM2NDlnTnREOUlNbXZmRnBJMXVzWGR5bWk0TTVyT0FBR2F5TWZNYktMVXV6cFF2Q0NkT3h0Y090blYwSi1uS0VYUXR2ZUkzWGZtckNTWVVVYmltVXBnT0dERjhGUVRtYmJXMU0zT0J2V05EbHY0LTBtYU52ZmJ5NE1QdjNtUFBYTmxPQXc2Zg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2x6a09VZmpCbktBZHRqdEFYRFJhTng2QTZkM09QaXhuZ3lXSVIxT3pqRU00OFlaZWxRM29fOXA3dk9jRWxRRWFxQndnYVB2YjBhTjZTMlNFaDJiSC04elVlaE5zd0pGRmNDRkdtSTd0eHBsN2J5RjJiaHdyd184N3oyNnV0VjdYMjQycVlCT3NteTVOYUk0TEpaVElqUldlSE1Gcg?oc=5).
 
 ## Requirements
 - Python 3.8
