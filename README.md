@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk's SpaceX testing breakthrough tech in risky spacewalk**
+**German police hunt attacker who stabbed 3 people to death at festival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdUs1RndoaWxHUHZrc0hsbGZ3YkVKd0cyV0psQnBYLXN3NWp1S21FMEZkQXlIYmtjM0tYY2lfOThvWG5Ib1NiNEw4MjkwSVJsXzdXOWM0Wm41RTdjZnZKc0w1NGNHa3pMZXhDalhrMDRDTEJXeXdqOGpodGFzSnpmYmJEcUNWaHZoMTQ2RXlzTzlzNTJ3M1FfNEY5NWVYU0xjU3BoWnFEYm9mVUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVFfRXVGTm9zM3BUakhraHR3Y2pOOVJnZjFHM3NUUkNGMW1QRmVGZ0NZeEFsYXdjSjJEeF9RekczVkV3UWlwU1dlQm8tWjcxejNuU25rbWY4MFF1cEtRRS1CVGRlOVVTcWQzZE9GZy1kekRKZEFTeEViZUI0ZTk1aGllTjJQdDkyaGpxOTFob2prOHRSTnVV0gGOAUFVX3lxTE1fVF9qQW5udlc3RzBMUUhEUUJqQW5CV1lmdFlwbnd6dWd6N1hVMVBTWktzWnEtVkpWdHhpY2dsdjVvLU9jT2ZMVnBJbWRiaFlFbFJfanpiWXlNa1o0a3hhNG15SW4tSzQtVUp3a1VvdnVtMGNGU2NOck9YbGU3VmY2SllycldaOHZMRVh2bUE?oc=5).
 
 ## Requirements
 - Python 3.8
