@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly superyacht sinking off coast of Sicily investigated as possible manslaughter**
+**Danny Jansen to join Red Sox’s lineup at start of suspended game vs. Blue Jays, play for both teams - The Athletic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNV1B3NGtpV1VlN2RWb2o1NGt6NG9JVVQtOC1XdXl6MkdEcEJ1MWo1MEF6SWhxM3M1STB6N0pkVk1sb09wRzFZTlA0dzJUSGJqNDB5SjZDMm5iS01sR1lqeDlfV2tYbXZWMXoyNEotaVRJMWM4ekRFTXA5THB6QUtwNGFlZURQaWtpbUQ4bFN2Ukc3RDNYN2doV19rdVVWWjdtN01teEln0gGrAUFVX3lxTFBXc1JpODd4Ny1PWlBabkprNXpyRVZhemZiVHBRbXBwcWRUUDRMUnQxYkJONy0ydU12b3lZUnJhVW1IYWF0S1p0M1FQdmRZMXNlTUhSTUFGWnY1VTZUMVlfSmlZWUhtRXNSSXExRHNIWHVWZEg2REstMzFwd2k5REFDVDgyUHU4M0ZkbmR5VWI2Q3RJdVFjNDVINFpvMGtGTlBraWtiZk9faXdLVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtnRDFJTWZTVm40VEMyVWp4VU5icVNETVdVc09mcUVUVXk3RXBjWndrMy1rR1hDZ3VyTnpqU2dtTU1LUzJGTVFQbl94ZlFDaW9sZkhiT1IyUjlvaWpqQTNtNUFUU3JaYkkxUmJFdjBHRG81UENZMkM5UElQQm11Nl83UHhCVXJzb3I0R3VtNFNYVUtXVEp5NHJBQ3pXUFE?oc=5).
 
 ## Requirements
 - Python 3.8
