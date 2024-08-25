@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Matthew Perry’s PA prepares for prison, Hollywood assistants spill all about what they have to do for their bosses**
+**Backlash erupts over criticism of Tim Walz’s emotional son: ‘families are everything’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxObjZlM0I4RTlvUFlpUnF1RkVHN3JpNDdmczRrR3hTVkotMFV0eXVORmhaNnlFZmxmZ0dRUVNONmZkdXRhaVc2QUNzcHZ2N04yTzgwNjZ0aGdMeElpZnRLdkdmb3RwRTMyUjFUaFVEYVYyTU9IRkppSmx1dWE3bHYtV1JNNFhqSkZaVjhVZTJIYzJFekdKX1dOd3dRemMzdHVH?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFJpMXBUR1VZaXFOb0d3MUluYjNEaVRMWXplOHBoQkF4a092c1JURVNSem9HcV9rOTN0Sy1EQ2pjTDRmR2w3S3p1VVB1bk5nZGxIN1lFX21rZnhNXzhJeTl5QmZaZ3lDWGRvVHNLRDMwYnFkWnRkUnhZMU1jZ3F0UV9BWWJ1MU9aUU1IZFB0QlNwcDJkLWJWLU42NGVhN18wMEJqSWlkclF0bU5qVHdaWlczb1d2S3B1bkdr?oc=5).
 
 ## Requirements
 - Python 3.8
