@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German police hunt attacker who stabbed 3 people to death at festival**
+**Boeing Starliner’s astronauts have been in limbo for months. NASA may soon make a decision on their return from space**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPOVFfRXVGTm9zM3BUakhraHR3Y2pOOVJnZjFHM3NUUkNGMW1QRmVGZ0NZeEFsYXdjSjJEeF9RekczVkV3UWlwU1dlQm8tWjcxejNuU25rbWY4MFF1cEtRRS1CVGRlOVVTcWQzZE9GZy1kekRKZEFTeEViZUI0ZTk1aGllTjJQdDkyaGpxOTFob2prOHRSTnVV0gGOAUFVX3lxTE1fVF9qQW5udlc3RzBMUUhEUUJqQW5CV1lmdFlwbnd6dWd6N1hVMVBTWktzWnEtVkpWdHhpY2dsdjVvLU9jT2ZMVnBJbWRiaFlFbFJfanpiWXlNa1o0a3hhNG15SW4tSzQtVUp3a1VvdnVtMGNGU2NOck9YbGU3VmY2SllycldaOHZMRVh2bUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzRTZHVJdFhFY05jUXpicVduUDBpX1lVaU5FNHhlUGF3bmRBNnBlcW9QcGFNZ3NjVzNpTlVWVE5hVW9fUkpIa1hvZVFEYzF1VWZFZlZTelNsQjNLdmUzdnZFbDJCcVlQSGstaG9qLXR5d2E5bnNEMVkzRVRWSmpMeEg5VTdiek9wMm5VX0dmcFhRVlnSAYoBQVVfeXFMT2dnRGJxRWp6Ym9hNmhrMEk4cm5ucTQxVVBVZDRsd3p4T0s3OUNXQU9TWlM5MGxjZUt2M3Aza290Y0JPVkNrWDZWaHRvaEE2Y0hGTlZiUTh0ckRDMXdnTG4yeVROR0lRc25QZVFSM1NTMzhhalhVNDBnRGdLZzZIdjViaDYtRzNSQVpR?oc=5).
 
 ## Requirements
 - Python 3.8
