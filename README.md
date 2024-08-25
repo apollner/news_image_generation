@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez's friends claim singer tried to salvage failed relationship -- but Ben Affleck 'has a darkness to him'**
+**Florida State vs. Georgia Tech live stream, where to watch, TV channel, prediction, pick, spread, odds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2x6a09VZmpCbktBZHRqdEFYRFJhTng2QTZkM09QaXhuZ3lXSVIxT3pqRU00OFlaZWxRM29fOXA3dk9jRWxRRWFxQndnYVB2YjBhTjZTMlNFaDJiSC04elVlaE5zd0pGRmNDRkdtSTd0eHBsN2J5RjJiaHdyd184N3oyNnV0VjdYMjQycVlCT3NteTVOYUk0TEpaVElqUldlSE1Gcg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMld2U1FxZmtDbDl2SmpEbzFlYzNFUG5OYXVPVkNtdVp5Y0NJZVdUcm9uWTFKWUF4VE5Od0V6Tl9BN1B4ZmxYcGRPaFFmMWNRdXY1WXczSzRxUzRsVGV0NF85TTc3Rm5oRWVadnc4bWxNWVJ5NEdCZmhYejhkdXB0MmZHc3hndGoycTZWMUI5a3hMYVVqM2kxUVNSOUlteE5mb3dVSEo4MktvTnc4LVVQOUhqUWhsS3FDYVNxb01xSXlRS3JOemZGZldoVzlzRWFRRDJMX1JqVGdUMUZu0gHiAUFVX3lxTE1CZWFISWZmVHdXSTBXNFhzMjdESzh5QTgwLTI3NlZQb2lfM3liSkZFNFc2bHo5MGFwRUs3YW9KdVJvVVpXMW1QN01zWGthOU55ZnFYYkhybEd3NVJYcS1yaVk3cDhUdjdwUUxLWjZoclVCZ051RnNXWmhzX1Y3eHBoOHBVVk90ZHZocUIxS3d5b0cxeEk0bXBDVUFlU3htVGhZa1RGY2NPbEp0LUpsck1KUThJdFRnZzhtS29mX1V1U2JYbnQ2QlM1dk9pakZmZ1RVSjJfLXFOSDlBZDdZMl90VEE?oc=5).
 
 ## Requirements
 - Python 3.8
