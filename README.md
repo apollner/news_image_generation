@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli evacuation orders cram Palestinians into shrinking 'humanitarian zone' where food is scarce**
+**NASA's long-awaited decision on Starliner is imminent**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FROU5fSE5HNEhjbnIxNEVSTTEzNXFOSzFJb2xwVEFOdE9NMnFDZi1wYkl2QkdOMk01SmFDNUVpZUw4ODR5ODQ5M01VN3lyVXBVM3B6TzMwbEVCSU91VzllUUwyalNYM1NKaVktX0FVT2w0QTFwU3I1MVZtVC1jdER4eDFWcW9KYktXTkZkNUZ5Z2dhY3VFWkNCTVRWbWNDQ28tZFdXZ182OEk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ1BQLU9uZVVxcG9SZDlZSlJvM0k1TEhvdXFWQ1lRQkRXVkdzVk0tQlR4ZGJXVndhLV90TTJiaUM0eVZmUFJFWjZkZFJjcmZ6dlFHcVVqbUJVZ09vSjl1cXRPTVk5WG9JelY1UkZ6Y0VRUU9qNFRJeV9FNFhodUtTVkFreFJpdHJOVW5yNnc4R3Babm5zZE5fVklmVUNmNmlRS1RCalF2ZFY?oc=5).
 
 ## Requirements
 - Python 3.8
