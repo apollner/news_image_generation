@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A photo captures what Harris’ nomination could mean for young girls**
+**Three dead after knife attack at German street festival; suspect still at large**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPS056a0N6a3I1MXVPdE9YQnZoTjBWR3cwTWxPa3hyX0ctZXVWbXF5dS1Ka1hWR2RfbERDZVNzdWlWWUhYenRBb0UxYjdMMnF1enlFS3VMVm9VVEhLSm5hN0w3NGpuSlozTGV5cVVVS250VExaTUNzNmpCN3JXbW5vbEJNVEZlOXkzT1N3MGEzRlJwMVJ4WkZEV9IBjwFBVV95cUxPai1FLWhKQkZqOXFoTmo3RkptT1JQVHRnMWh6aWNSaDdpOU0zU21XbkpTSG9fcHdjR2NaeVFxYU1mUzFsUm1VTktGRHJLSlpxWUZFUW12WU9GOXNRREVQdUlIMjdQaGlSOWh1bnNSRHoxT2FGWjZhYmh3cU05Y0otQUtGT3BlSUJBM0FJT3o0dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxNc0gza1E3NHBveURvZFpEajU0SVU3S09OX2hzQ3lpYzladUkxbHpGbUVPdlhKbXZsajZzUUV2S3g0Rk1mZEpraGRYVU5KS0RVSnlYeHN4blV2X0dIUjNJNUFENmh4YUZBbDRkM2NLbnV0TU9xYzBjTTVMSGVuaWhhenBLWEpIdWc?oc=5).
 
 ## Requirements
 - Python 3.8
