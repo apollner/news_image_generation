@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin and Hailey Bieber welcome their first baby — revealing the news with adorable photo**
+**Tropical Storm Hone and Hurricane Gilma tracker: Map and projected storm path**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcXFkX09aRG9OMTNwVUpjaHNlcGhwRVJZc2JWWVFmWmdEamtsN2h4U3ZzZ2hZaUx4bk1neUZHNE8zYzlTc0tkbHh0U0p3WWNrSDI3ZlFmTVVzQzc5SERrZlVNbDVvSDZBOXNVS3RWOWlrYUhXTFM3RUtNQWM0M3hvS2tOQUZZY0gxVE5aU1ZNYjdxd3BWVVExYzZ4c1AtU2J5aU0xZG9B?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMjQ0bUZkbnUxc0o4WlNBOEJid2RmZTFVRFdHNzlOTzJvRkZDTmgxYlNMT3VOaFlPRFJfN19EWXQwZnlMc3pSNk8wc0tzeDVnZkYwRHpsaVRsY285YUM2MUJQTlFiWE1ScDNiQWROQllGczNScUg3QTgxak56ZEx6SGNZMkFtR3BZVV9Z?oc=5).
 
 ## Requirements
 - Python 3.8
