@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner’s astronauts have been in limbo for months. NASA may soon make a decision on their return from space**
+**Ex-Alaska Airlines pilot who tried to down flight while on magic mushrooms trip wants to fly again**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzRTZHVJdFhFY05jUXpicVduUDBpX1lVaU5FNHhlUGF3bmRBNnBlcW9QcGFNZ3NjVzNpTlVWVE5hVW9fUkpIa1hvZVFEYzF1VWZFZlZTelNsQjNLdmUzdnZFbDJCcVlQSGstaG9qLXR5d2E5bnNEMVkzRVRWSmpMeEg5VTdiek9wMm5VX0dmcFhRVlnSAYoBQVVfeXFMT2dnRGJxRWp6Ym9hNmhrMEk4cm5ucTQxVVBVZDRsd3p4T0s3OUNXQU9TWlM5MGxjZUt2M3Aza290Y0JPVkNrWDZWaHRvaEE2Y0hGTlZiUTh0ckRDMXdnTG4yeVROR0lRc25QZVFSM1NTMzhhalhVNDBnRGdLZzZIdjViaDYtRzNSQVpR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWDZsWlpxd1Y2dFRuWS1oNmF2VGJ4eGRWTnl1MXpBMm50Zm5RX0lLSXdUaTViNzVqZ1k3dlNsTnl2eVBIN2dLX2drZm1fV2tsVW1vNzdkWEFrY1lhWW8zM1dGZVp2akJQZXBTNklkZDRadW1NbUlDQTRKS05uSnUxVHNsY0JOejhMVWlGaE9raHFaX0dOYlVNT2l2STR3Rm1NQm9KQWdEckZZbVk2UExWYUp2d21hUEd1eVNTcXBneGtzS2NXUUQ4WnJiS3hSYW10UjEydVhTWHNqRDhoa1I2VWp5ay0wR0oyVEVN?oc=5).
 
 ## Requirements
 - Python 3.8
