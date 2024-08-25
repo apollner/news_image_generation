@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida works to cull invasive Burmese python population in the Everglades: "We can't do this alone"**
+**Jennifer Lopez's friends claim singer tried to salvage failed relationship -- but Ben Affleck 'has a darkness to him'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxOcFViMVBBend5TEV5N2dKUWUyTlFaTnF1Wkh2aG1xZk1ack0zQjRRWFV4czBKdFgyWTB2N1d3Y1MtX1UtWF9MS2N6Z3Y3NDFWNzVZNWRmSS1ROWdLaGU0bVFCMFZxMTZLV0NndzhvdlpfY3Z2OGU1X0U4UWFRT3V3ZHA3Z1otZ9IBiwFBVV95cUxOVHVlOEs0cWZTMTJnTHVMMDNiT2xCYWJoR0g4amt3RHB4NUdmT3BUSHRVemRfZ1VkLWViclZXZjNFeU1JWnpFUnVRbXNaeWlwT2UxT0o5ZFhad2FsYzM1dUdFNDZiMk5oWGxqM0Zad0VrcWV3dHdFak5NbVJidlRyZzFHWjR1czNrRmpr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxON2x6a09VZmpCbktBZHRqdEFYRFJhTng2QTZkM09QaXhuZ3lXSVIxT3pqRU00OFlaZWxRM29fOXA3dk9jRWxRRWFxQndnYVB2YjBhTjZTMlNFaDJiSC04elVlaE5zd0pGRmNDRkdtSTd0eHBsN2J5RjJiaHdyd184N3oyNnV0VjdYMjQycVlCT3NteTVOYUk0TEpaVElqUldlSE1Gcg?oc=5).
 
 ## Requirements
 - Python 3.8
