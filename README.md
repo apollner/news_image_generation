@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple event reportedly September 10 — iPhone 16, Apple Watch 10 and AirPods 4 to launch**
+**‘Time has come’ for US Federal Reserve to cut interest rates, says Powell**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNM3hENThUV1BmVW9hLUluOHFOV25SMTkwZmpHZlpLN1NyMDZtWnR6clpfaXVBbk9vWjNRU0lEemg4RUl1WXR3bnJkSFc4MldVSGp0NmZVRXM5QWUxczE0QVdyOGk2YVp0SG1FSGVRREkwZk5CSHp6VHRmdTZWdmdndVF6WUpwOUZPRGVhRWlocVZHNVdmeDRHSkRMaFg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPNS10bHFId0Z3Njh4OFlCempTRnV3em9Nc3YwOVRwWTNfcld3R2ZLUlhVQVlhRUJuekQyWkNPaEpFUmkzQkUxU2E1d2wydHIwdVNCdU55Ymk3OFZIM0szS25ZMTZjYWY4amE1SDhtSFNjVzltMlZzaHhkVWU4bHJBOF9oVkVXMUZpNjNPUVNTMGludVV4?oc=5).
 
 ## Requirements
 - Python 3.8
