@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Kennedy’s Endorsement of Trump, the Two Signal a New Alliance**
+**Italy opens manslaughter investigation into Sicily yacht sinking**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFpZbXk3X3lQdTZuejJQVTZ0ai1EMnRZMTJKeFVRTi12RnRfT1ZMV0FHQTdqOUdTUXRqQXVVYWU2M2s0NlRPbWNrRGhDME1BUTBWdlVKbWpiZHVJZ0FXdVJsMEpDbTZqQWlQOXIxS3NNRjM0MV9USWZFZkszMk54bGJxV3hQMmUza0xVbm1vOExWckk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNWXc4VkdMSzFhcElFSm5OUGRiSUZFbnNyeWRBejR4d0prRVVlVkUzZV9JQ3ktakJfTXl2Z09JaWplY0FXMXpHOGJhOG1oOUc5aWt6ZE4zd1ZRWFlrWTkyZmo4WXc4VUtHMDJfbGFoOHVWY21rRXVfSENxZGJ3SHRhNEVQekQzSThaU1FmQ1BLVzVmZ1MwVGRMUExn?oc=5).
 
 ## Requirements
 - Python 3.8
