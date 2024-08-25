@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Valve officially announces Deadlock, a game ‘in early development’**
+**Danny Jansen to join Red Sox’s lineup at start of suspended game vs. Blue Jays, play for both teams - The Athletic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE4zVUtjN1ZGTnB2Q0ZNaE1wMXJqT3FJRVY4cFhkMU1rSzBGQjNkRXVJQ3U2ZVNkOG11ZFNzZzZiR1BpYlphbzZUUzNSS3VtdzdWTUtqekZCS2Z0elVNT0JIX0ZEVGJMUlhMZzZ3dnlGWERJbmVQMVF6ajJJZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOVmtnRDFJTWZTVm40VEMyVWp4VU5icVNETVdVc09mcUVUVXk3RXBjWndrMy1rR1hDZ3VyTnpqU2dtTU1LUzJGTVFQbl94ZlFDaW9sZkhiT1IyUjlvaWpqQTNtNUFUU3JaYkkxUmJFdjBHRG81UENZMkM5UElQQm11Nl83UHhCVXJzb3I0R3VtNFNYVUtXVEp5NHJBQ3pXUFE?oc=5).
 
 ## Requirements
 - Python 3.8
