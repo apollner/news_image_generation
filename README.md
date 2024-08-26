@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peter Dinklage Is Hopeful 'The Toxic Avenger' Film Will Release To "Have Its Day In The Toxic Sun"**
+**'Curb Your Enthusiasm' star Cheryl Hines trolled online after husband RFK Jr. endorses Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGhORUxmMTJrb2FFMDBFRk9mNUtCaE10R0V6M3ZYRWJLNHZSNDBoejhvZVVYaS1IWjVmMnZOSFZqOWFEaGVjTFo2OEZtMk1hbHpWSXREeHZ4MXdsYVNvSk9zR3JDR0lNOEE1Z2ZXWTJnbk1EcHA0bXFDT1MwTVFrU2VDeGtxaExaVFpiYklRSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVEwRzVyeEpaRkxhUjlPZFlPUzUyQWl6bTc1WExCSW1wc001M3UyRlBGV0pLcHV3NUpscGI0dXlXTGYxTFhzM1dsTkg2VzJ1RDJMMEo1aHFzQ2FiQjdKdWxrMzI0V3V1YXZTRGZhLWMyeFhCOVBpQWRvdjQ2X3h3MVU0MGItRllaUG1JQWxFZHdaMGVQX1M2Tk1NaWtKMEg1QXdRbko2Umltdw?oc=5).
 
 ## Requirements
 - Python 3.8
