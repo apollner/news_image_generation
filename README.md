@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr. Anthony Fauci Recovering From West Nile Virus Infection**
+**British safety adviser for Reuters killed in Russian strike on Ukraine hotel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFJBVi0tTExnM1kxQXJPRmNxWldJdlo3MFZzV0t3M1I3Vkd4YmI3clZ3Y3JpV3lsX296UjZtUGNIMUpUTFEwR05uWTBqblpJX3l6VXRlLXZpMXdiUWR4eVRUd0JfeEpJZ283V2NRTG01c09HMWdfak9Sc1h5aTczS3JKMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjdTZko4bkt2aGpaWXB5QWpSbHlydE9FUXhTd0xOQjlkVHdUeTV6OW1zb2FYNHB1VDZvVTgzTVZGZktOX3ROQXB1eGRHMnQ1WThnSGk3Q1p1Z3RhZWhYNmExWXQxQWVIUmU5empiaUhKLTREc2Fjc1B5aWVSdDUzRV9zOEhuSjlzbDQyWDdnb0p6ZUc2SE00ZWlKSDRURTg?oc=5).
 
 ## Requirements
 - Python 3.8
