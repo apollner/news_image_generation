@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Loop: iPhone 16 Pro Design Leaks, Goodbye Apple ID, Confusion Over iPhone 16 Launch Date**
+**IDF orders new evacuations in Gaza after overnight raids kill 36**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlhQdTIwWFBwQ1VvNHlaaXJ0ZG52WUY5ZGpNczBGamh5U1BuMVc1MHBJRW1Ec0ZlUUpPQml6YVJWY19KcjFvRWNyRGRzTlFrUXhMSHBLTUVGbVItTGpObVM3RmUwYjRQRUg4NHNuTHpwV2dPdnJNMW9fdjgzY0pvNGR3SlB5RlBrSTBUQjRsNFNLRUdSNWV2UUVqaE9zd2c2dkhBdk10d1hFOHZXeUlFcEVUZG9wOGlTN05XQnVaUTYzZ0lxMlFPVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiakFVX3lxTE0yMHlFdUxFUUt5eThGVTNlOW05N04xVEhITEFNSXBad0t6Y3o0SXVXcldqeWctZ2N4LUpZa2wzNkZmREZwQldnMU50d1pSQWlteWpGeDQwZEdaMzJVOEVzT2VFdWZQb1d5cVE?oc=5).
 
 ## Requirements
 - Python 3.8
