@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida State's flop and Georgia Tech's big win lead college football Week 0 winners and losers**
+**The 10 Senate seats most likely to flip in 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3kwSGl3cE9veGJkUXpyRTRqbVhRZUJFX2VySUdRUms2UWUwaF9fXzVOQ3VrWk9KWHlKVUIwTjJRWkVLWGhwNDNlMXR0SS1sSXMxQUNOMGcwcTJuQjd1M3lsNlJvSGU2M2kxanpJa01CYmhFc2hMWXF1VHFOSW9yeWgzWC1TQ3JWY0kwaEZ0R0lhNjR5X2Z2OUZZd2l4alFFNm5BWlluQTJZZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkRaa0VlVzdOWEpzdVFLamF2M09BVVZUanhDTXNfbG4wdGw4cXZCeUNLNkphVTJVUDlrdVBfWm9PX0I3RjVrQ1VDTzBEUlpTTFRlRVBqOVpXNW81Q0RGRjFiMzBMNlJRQmUxMFF0Q2xMZ2Y4N1pOQUV1NlBSYlp2cUdvUlhBRFVJRVlV0gGCAUFVX3lxTE04Y3ZYbndveTRsQTY2cV9KZElmV1pnRF9zN0szMXpEOHR4eXNpdWhWUDBnbWZaV2hUUVdJbThUamd2UF9mbVJJdEtwMDhLcVFZZ01BMzhLLUFzcGVDbms3c0VoLVI2SzN1a045anhWRlpBQVVXb3NBMFdybkJ3QkFMRFE?oc=5).
 
 ## Requirements
 - Python 3.8
