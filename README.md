@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daring SpaceX Polaris mission aims for first spacewalk by private citizens**
+**RFK Jr. says Trump endorsement not out of revenge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPemJsQ2pZUzk5RnhLSlkwWDBrX1h3cW9HV2FKWEg1eVBFa20tMnFHS2ZScGpVUDFFVmllYjZXVXVOQm91Q3ZzaWdQT1J2LXlJUDRMQW9GT2xaMVhHWnFKaXl6XzJxZ0gydVNPZ1BYdW1zN3Zrc1c4OE9xc3BfZEhvemJfMllyQnpwU1d3TWFsOEo1dXk5cWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWVUSG5xMUsxM3ZoVDI4TEE2N2hOOTYtcDJsY1BobEZWZXhsdWxNeldfRGhJUm01N0x1N0hpWmpSdXZkMTQwbU05aFg2YUo3aTRneXNsVEdzS3EwZjFXVnU5WmNKS0F4eG5Cb2VJUVI1YndCNWdySkVIWWdVUy1RczY1LUxqYmNOSE00?oc=5).
 
 ## Requirements
 - Python 3.8
