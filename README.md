@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL preseason Week 3 takeaways, 53-man roster predictions: RB Deuce Vaughn makes strong case for Cowboys**
+**NASA to keep Starliner crew in space until 2025, with SpaceX handling return**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGlkMXQ2UzdKZDV1VHRaamJ0R0kxZ0l5Q3lrNFVVeE95WWR1WjNGbGZOemZISGJUcUxDVml4V3AzWmZydWNtMWQySGFrWV9NN2s0bHljQVNNeXc3b3ViMzV6LUNONXU4ZTg5bkxkMXE2ZWF1eFlVQm5SakJtNk5sQXlZM1gxVmZsUUJxbUNwR3BDS1R4SW41ZlBHMEZXc2V2LXFqZHhjUlI4OVdjU0JBa1RzZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkthbFJCMUdxUVNpSnhqZ2lGMFNZa3F6WDQ3R3hxTnZJRmlYQzExZmczQm5WTXUwSjZGdkF0SExpOGcxYVNZaGpzakE4S2tuTTNRWEswMjh2eEd3SG5admVWMXlGYUlZVUk3aklaOXNfRWZtblVCUXBGNWNqREFHVUVQU01DZ3czYkE?oc=5).
 
 ## Requirements
 - Python 3.8
