@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Curb Your Enthusiasm' star Cheryl Hines trolled online after husband RFK Jr. endorses Trump**
+**Israel attacks southern Lebanon, Hezbollah launches rockets at Israel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeVEwRzVyeEpaRkxhUjlPZFlPUzUyQWl6bTc1WExCSW1wc001M3UyRlBGV0pLcHV3NUpscGI0dXlXTGYxTFhzM1dsTkg2VzJ1RDJMMEo1aHFzQ2FiQjdKdWxrMzI0V3V1YXZTRGZhLWMyeFhCOVBpQWRvdjQ2X3h3MVU0MGItRllaUG1JQWxFZHdaMGVQX1M2Tk1NaWtKMEg1QXdRbko2Umltdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVl9jamN0dkx2c1dkUUVnODFqaTZxeEUwUUU2WXlmbVA5dmlNT2ZGLXBtSHY4b0J5Z21aTE85SDRlaGVIODNKb1R5Vnk2akQzSkdoZ0YtSGV1V2JmNTA1WE5rRDZteTFwSGhZZVJWdC1LdnBNTm02VWFTVVp0c3I0XzZKSzhXY1lvdGZYSzFYN1ltTllDWk1tOUpPcllvcUtPN1VHb1dPdWxDNk9GeVZGaU9n0gG3AUFVX3lxTFBnVFlsdXlFQnlJamZPV0RkS09UYlJvTk9qb0I4UXgwTEwwaGN3WGtsMUVmdTg2NHBjWHI1SDJNbU1tVmU3SGFBZEN6NmtLWDlfamVuNEZjN3BKNF9IdERfZExZTVlLNDJGM1hCRnppTVBKclNJYXBOWWxTWk9tb3ZYRERCZnp0RVl0aWlCMDRESi1zUXlJaTRMaWF2d3BlYndqdi1MQ29TOXpheTRFTm5fTHNYX21TYw?oc=5).
 
 ## Requirements
 - Python 3.8
