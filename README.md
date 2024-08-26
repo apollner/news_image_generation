@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches ‘preemptive’ strikes in Lebanon as Hezbollah fires back hundreds of rockets**
+**Ukraine has captured scores of Russian soldiers in Kursk offensive, videos show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3BJUHBNc3BOMzRmMmhzLUhuaDJaakZKX2dPZ3RCYVkxNnNiaFZBcTVzMTFyRE1LM1lpYWxpUzc0YndvYlBzeHVUb2dfRVpsYlhFc21LQWZFTlJkTDM1NzFnbzNpNUVqQUk3REhqd3RPUktVVGxDNElVcmZGbXVTaWY3WW1haEFUd1lzZHVWLTMyNGp5VjR3UzlR0gGQAUFVX3lxTE42WGxpdFF6TjRqcndxbHJYWDFBS3liWFhiU3llbm40alp1eUNvTFFzUFUtdUNVbE5ObU53YXVLTFZseEQwZE9yX0M2cUVIblAwY0x1T2N6THdTN0ZhX3o5UDBsemVVb1ByTEtqakxuVGszeURsX3dEWl9yYXlhSUtTdzA1T3JtYzlyUlZnWWRRTA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFBZUDkxS1BJVjZsZGJjajFydl9HRWM3NjlBQU9UQ1M2LW5LeVp3aFVNRHNIdW44MDFnajF1a3hwanQ5ZW0zZDdkZlQxazE3WEVfTGhaSGswX1R1ZUtjNlJoVGQyLUZORm93Snk5cEV0MGh4STE0aC1XbG9GNUJhaHZpWmY5ZUMyajRnejg2Yw?oc=5).
 
 ## Requirements
 - Python 3.8
