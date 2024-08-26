@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slipknot bandmember Sid Wilson has ‘sustained burns across his body’ in an accident and is ‘recovering’**
+**NFL preseason Week 3 takeaways, 53-man roster predictions: RB Deuce Vaughn makes strong case for Cowboys**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNOURTY0FubnZNa0xDSDd0TmZGU0NZQTZ6NDFQSGhsOGY2RU1jdm5wQlZSZm9lUGZOQjZlZ2szQ2UtQ014cmJzNjZnQWdPRzRpT2pVRlFzMEwwckwtSUZyU0JHU0JBYjVTbDVIX3lKUEhkMzR5WWRhUGRUa1JjUUVtM3FXbDdpR3Zudl8tSWd6RTY1R1R6a01ZV29zZExvZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGlkMXQ2UzdKZDV1VHRaamJ0R0kxZ0l5Q3lrNFVVeE95WWR1WjNGbGZOemZISGJUcUxDVml4V3AzWmZydWNtMWQySGFrWV9NN2s0bHljQVNNeXc3b3ViMzV6LUNONXU4ZTg5bkxkMXE2ZWF1eFlVQm5SakJtNk5sQXlZM1gxVmZsUUJxbUNwR3BDS1R4SW41ZlBHMEZXc2V2LXFqZHhjUlI4OVdjU0JBa1RzZw?oc=5).
 
 ## Requirements
 - Python 3.8
