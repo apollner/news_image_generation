@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stephen Baldwin reacts to daughter Hailey, Justin Bieber’s baby news after model said she’s not ‘close’ with family**
+**Heat waves, wildfires and now … snow? California endures a summer of extremes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2h4NGdEaHR1NHcwZDJ4dEFlanA0RC1Na0xReFhhdm9oYjh6cnA5bDVQdWpmOVZJV1VaTEpXbHhqbFVLclVDM3RjaUl1aTQ3UFVFVE9YSS1YSlZ3ZUlxbUdMNjFrRnMwSzJ2N0JfNHhxeU15Rk40UG5RRXlmaXhtSFhLSHZsQWgySEJMY3pGLU5qZHhvRE51a1FfcHRFU1F3Tm8w?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1pX1ZUdS0wSHRJMmxfaERpLVZmS09hSnVDNnBMYXd6RUxjZndRLWdZNy1ad21CaFNaNDlZVFo4RTRaLXR2dkhGZmxxbnJnNTNjMWFlNWN4dXdUaWsxQUh6STZkdktJdFhWRmlnUFAzSkhOTHNnUE5YZllGQUN4aTJtYjBkd0ZPZ2ZNVzRWeGlnUHY0NGdaLUdNbWFHNEp2d1E?oc=5).
 
 ## Requirements
 - Python 3.8
