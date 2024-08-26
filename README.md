@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German police say 26-year-old man has turned himself in, claiming to be behind Solingen knife attack**
+**Trump event at wall Obama built highlights an unkept promise**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPenFhRVhsdTMyVXFBLUhsYk5HTVd4cE1KQlU2UmlxWDRTNFk0eVQzSW9OR1Y2R2NoMDI3WUxYcmtiNVhwamt5Y2dfOGpRU19hNkg1cDFCNWowNk5SV3FtMHY5bDF3TGZtNEQ2MFFsbk4tZmtZcVp4MjBmSG40UnNDLTVLQkNLTVlDdm9CVDR3TVh2bWJ5MVp3NTFNYmJyanlCc29WLUpn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdktPSlNuc2luWHNkUGN0dXRPSXRwekp1elVPZmVTUERPdHJabGxXRU9SeEp4QmJUVnVUelE0SmNqcWpsdmJtdXFsNkx5bUlicm92V0VqY0VGOHp2NThvdmFkQVRIeWRwZF9tM3hQUFo5OVZBeE1XdlUtZWtlLTl3VGdIcGxOZlFIZHRSYnNuR0ZCSklReGdjOUVqRXlONFg1c1dQYWR1ZFZ0RDVUN0E?oc=5).
 
 ## Requirements
 - Python 3.8
