@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel attacks southern Lebanon, Hezbollah launches rockets at Israel**
+**Florida State's flop and Georgia Tech's big win lead college football Week 0 winners and losers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxQVl9jamN0dkx2c1dkUUVnODFqaTZxeEUwUUU2WXlmbVA5dmlNT2ZGLXBtSHY4b0J5Z21aTE85SDRlaGVIODNKb1R5Vnk2akQzSkdoZ0YtSGV1V2JmNTA1WE5rRDZteTFwSGhZZVJWdC1LdnBNTm02VWFTVVp0c3I0XzZKSzhXY1lvdGZYSzFYN1ltTllDWk1tOUpPcllvcUtPN1VHb1dPdWxDNk9GeVZGaU9n0gG3AUFVX3lxTFBnVFlsdXlFQnlJamZPV0RkS09UYlJvTk9qb0I4UXgwTEwwaGN3WGtsMUVmdTg2NHBjWHI1SDJNbU1tVmU3SGFBZEN6NmtLWDlfamVuNEZjN3BKNF9IdERfZExZTVlLNDJGM1hCRnppTVBKclNJYXBOWWxTWk9tb3ZYRERCZnp0RVl0aWlCMDRESi1zUXlJaTRMaWF2d3BlYndqdi1MQ29TOXpheTRFTm5fTHNYX21TYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX3kwSGl3cE9veGJkUXpyRTRqbVhRZUJFX2VySUdRUms2UWUwaF9fXzVOQ3VrWk9KWHlKVUIwTjJRWkVLWGhwNDNlMXR0SS1sSXMxQUNOMGcwcTJuQjd1M3lsNlJvSGU2M2kxanpJa01CYmhFc2hMWXF1VHFOSW9yeWgzWC1TQ3JWY0kwaEZ0R0lhNjR5X2Z2OUZZd2l4alFFNm5BWlluQTJZZw?oc=5).
 
 ## Requirements
 - Python 3.8
