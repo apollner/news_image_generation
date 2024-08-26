@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canadian arbitrator orders employees at 2 major railroads back to work so both can resume operating**
+**Peter Dinklage Is Hopeful 'The Toxic Avenger' Film Will Release To "Have Its Day In The Toxic Sun"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdEY3OThTcDAtUnplRW13VWlLRWtFRDJpS2V6eElfTjdhdlA4YXJwVTlJYlNrTWpEOFlrZWcxbFVVTE5sZHZvRkVhSVpVaXh2ajBHSmtCVGtpMjFYSmtibC1IazlsV0RtalFqSWlna1JEUFpIaGRUUmV1ZV82UTNGclNJQ1dIQ0Q1MVpoVzN2T1QtN25mTm5aRlhfand5UQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPUGhORUxmMTJrb2FFMDBFRk9mNUtCaE10R0V6M3ZYRWJLNHZSNDBoejhvZVVYaS1IWjVmMnZOSFZqOWFEaGVjTFo2OEZtMk1hbHpWSXREeHZ4MXdsYVNvSk9zR3JDR0lNOEE1Z2ZXWTJnbk1EcHA0bXFDT1MwTVFrU2VDeGtxaExaVFpiYklRSQ?oc=5).
 
 ## Requirements
 - Python 3.8
