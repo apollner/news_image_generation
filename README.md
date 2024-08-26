@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine has captured scores of Russian soldiers in Kursk offensive, videos show**
+**Dr. Anthony Fauci Recovering From West Nile Virus Infection**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFBZUDkxS1BJVjZsZGJjajFydl9HRWM3NjlBQU9UQ1M2LW5LeVp3aFVNRHNIdW44MDFnajF1a3hwanQ5ZW0zZDdkZlQxazE3WEVfTGhaSGswX1R1ZUtjNlJoVGQyLUZORm93Snk5cEV0MGh4STE0aC1XbG9GNUJhaHZpWmY5ZUMyajRnejg2Yw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFJBVi0tTExnM1kxQXJPRmNxWldJdlo3MFZzV0t3M1I3Vkd4YmI3clZ3Y3JpV3lsX296UjZtUGNIMUpUTFEwR05uWTBqblpJX3l6VXRlLXZpMXdiUWR4eVRUd0JfeEpJZ283V2NRTG01c09HMWdfak9Sc1h5aTczS3JKMA?oc=5).
 
 ## Requirements
 - Python 3.8
