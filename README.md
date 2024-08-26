@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Decides to Bring Starliner Spacecraft Back to Earth Without Crew**
+**Anthony Fauci recovering at home after hospitalization for West Nile virus**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOUm5EVm9Ld2lEZ2FUTW5heGlhV1Q4ZUstS1QzU2w1ZlRTeFkwRk83YlZGODNEdE83TnBmdEo4cUVwdHJwRTNkZ2Z6cTlFbDJGQWJlTy14MDZoeHgwVEM2dnFucUFmMmFsYU1TZV9qZlg0ZkY5N1dTZFdlcGxJMkdIc01WYWxUU3pJdy1LWi1TejE5VjRhQ1hZVER2T0dsa0JpaE0zSHcxOA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkl5WVlFRmZnOW9jSDFsTWNoZDQ3RUNmM1V5YW5kVlQ3RU01NU42X1dwRERnd1hHUHloRWVWODdBVG51Z0FVMldQQTNZVFdtTXpsX0Z6V3V6anFVYnVqc1gxQTAwOHE3Q19iWWpaajdSR2R0bU5sblgzcW83LWdkZlBIV01GX2ZKOE9fV2tR?oc=5).
 
 ## Requirements
 - Python 3.8
