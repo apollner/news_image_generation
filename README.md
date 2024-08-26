@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA to keep Starliner crew in space until 2025, with SpaceX handling return**
+**Canadian arbitrator orders employees at 2 major railroads back to work so both can resume operating**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxNWkthbFJCMUdxUVNpSnhqZ2lGMFNZa3F6WDQ3R3hxTnZJRmlYQzExZmczQm5WTXUwSjZGdkF0SExpOGcxYVNZaGpzakE4S2tuTTNRWEswMjh2eEd3SG5admVWMXlGYUlZVUk3aklaOXNfRWZtblVCUXBGNWNqREFHVUVQU01DZ3czYkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdEY3OThTcDAtUnplRW13VWlLRWtFRDJpS2V6eElfTjdhdlA4YXJwVTlJYlNrTWpEOFlrZWcxbFVVTE5sZHZvRkVhSVpVaXh2ajBHSmtCVGtpMjFYSmtibC1IazlsV0RtalFqSWlna1JEUFpIaGRUUmV1ZV82UTNGclNJQ1dIQ0Q1MVpoVzN2T1QtN25mTm5aRlhfand5UQ?oc=5).
 
 ## Requirements
 - Python 3.8
