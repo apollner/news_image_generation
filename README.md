@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French authorities arrest Telegram CEO Pavel Durov at a Paris airport, French media report**
+**Dr. Anthony Fauci Recovering From West Nile Virus Infection**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXpwYkRULTJlZU52NkdGc2pSOWdtUnI4VGMzci10WnRrSVBLOXdjYTA1ZXZfMWpCRUJLcHNlaWI0YVJlc1VuWHhKWG9wTHE2a2F1b3J4RGRfS0ljSWp4VVlnTWlFMF9qN0VHYjFCSFE4NzlwdWwyaUs0Y2hyb0FxczNlQ1BnQXJ2S2hYWHlha0dsaHVORTlDVXJPWWllNFdSNXA0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFJBVi0tTExnM1kxQXJPRmNxWldJdlo3MFZzV0t3M1I3Vkd4YmI3clZ3Y3JpV3lsX296UjZtUGNIMUpUTFEwR05uWTBqblpJX3l6VXRlLXZpMXdiUWR4eVRUd0JfeEpJZ283V2NRTG01c09HMWdfak9Sc1h5aTczS3JKMA?oc=5).
 
 ## Requirements
 - Python 3.8
