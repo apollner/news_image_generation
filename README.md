@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your lookahead horoscope: August 25, 2024**
+**German police say 26-year-old man has turned himself in, claiming to be behind Solingen knife attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3VHNXQ1dUNla2Z2em5JSjhpMXB0V1dnbTEyYmhFelMwdTFBTFUxcVZIaUd5bXZFZVotY3ZCUVdRM194N3FwWEU4MDRxX1JYYVFlWDZIT3JKRWtZaVd1V2hyeUhFNl94N1BYVWFlVEhRdjVSN09nWmJTb3A4MUl6QmgwLVUxRDRUX1BRcXNaWlJNb09lUE12QXpURWg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPenFhRVhsdTMyVXFBLUhsYk5HTVd4cE1KQlU2UmlxWDRTNFk0eVQzSW9OR1Y2R2NoMDI3WUxYcmtiNVhwamt5Y2dfOGpRU19hNkg1cDFCNWowNk5SV3FtMHY5bDF3TGZtNEQ2MFFsbk4tZmtZcVp4MjBmSG40UnNDLTVLQkNLTVlDdm9CVDR3TVh2bWJ5MVp3NTFNYmJyanlCc29WLUpn?oc=5).
 
 ## Requirements
 - Python 3.8
