@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris Campaign Says It Raised $82 Million During Convention Week**
+**NFL Preseason Blitz: Bryce Young plays in the preseason and has a positive outing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUJPWXN3V0ItSjZFeGVhQ003MVlFRW5lNmxWS3NubWtIemtRb19rZHFJOVJ3RHpDZTJPRElqYlQ0OV95V1BQS09EQUQ4b1FndFVieDBmczIxclJlLUZpMk9wMHZzTTFoOVdCci1BV2pYVEh4OFpKRzhhdE9lb2xhTjBjcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQV2hkdmVVWXV3dExGWXNVa1RBdVpvOU1EN3EydVE1bHMxYUxGb2t0Q21JN0JTaWJXdXpGU0I0dFpRWDdGbHJ5WVE3N2hzWnV0d2o4ejRJb0czc3dwUWxpUjYzSmF0TjYtLTh6OXBrd0pSUDZyc2hVQ0pKOVJBekNhandUdFZPbE1seU9MMlVzMnFhOUttZGRWOGFnbXdjT0dTeDFESDl6TUhvVU1KaENXTTFBN0tIa2pGc2pnNg?oc=5).
 
 ## Requirements
 - Python 3.8
