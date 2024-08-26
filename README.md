@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine has captured scores of Russian soldiers in Kursk offensive, videos show**
+**Editorial: Chicago and the Democrats both rebranded together in a dazzling show of DNC strength**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxNdFBZUDkxS1BJVjZsZGJjajFydl9HRWM3NjlBQU9UQ1M2LW5LeVp3aFVNRHNIdW44MDFnajF1a3hwanQ5ZW0zZDdkZlQxazE3WEVfTGhaSGswX1R1ZUtjNlJoVGQyLUZORm93Snk5cEV0MGh4STE0aC1XbG9GNUJhaHZpWmY5ZUMyajRnejg2Yw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbV9jYkNYa0Z2YVpQdkpHQVlMRWRpMHpra3VsMi16bVRpWTh2dER0bzQ1N1NwaVZzTnhtWmgxcEY4V1MzX0wwY19fYndBeEp6OWo4SzVuMmtxeWpXNGNkNVlMUlU5Tm1XUGJ3ZVAwUVNNeUZiMWlNeWRrU1ZkRXBjMnVyUmxnUXI5VmxUME9WNTQ?oc=5).
 
 ## Requirements
 - Python 3.8
