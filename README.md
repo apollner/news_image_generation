@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 10 Senate seats most likely to flip in 2024**
+**Your lookahead horoscope: August 25, 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkRaa0VlVzdOWEpzdVFLamF2M09BVVZUanhDTXNfbG4wdGw4cXZCeUNLNkphVTJVUDlrdVBfWm9PX0I3RjVrQ1VDTzBEUlpTTFRlRVBqOVpXNW81Q0RGRjFiMzBMNlJRQmUxMFF0Q2xMZ2Y4N1pOQUV1NlBSYlp2cUdvUlhBRFVJRVlV0gGCAUFVX3lxTE04Y3ZYbndveTRsQTY2cV9KZElmV1pnRF9zN0szMXpEOHR4eXNpdWhWUDBnbWZaV2hUUVdJbThUamd2UF9mbVJJdEtwMDhLcVFZZ01BMzhLLUFzcGVDbms3c0VoLVI2SzN1a045anhWRlpBQVVXb3NBMFdybkJ3QkFMRFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3VHNXQ1dUNla2Z2em5JSjhpMXB0V1dnbTEyYmhFelMwdTFBTFUxcVZIaUd5bXZFZVotY3ZCUVdRM194N3FwWEU4MDRxX1JYYVFlWDZIT3JKRWtZaVd1V2hyeUhFNl94N1BYVWFlVEhRdjVSN09nWmJTb3A4MUl6QmgwLVUxRDRUX1BRcXNaWlJNb09lUE12QXpURWg?oc=5).
 
 ## Requirements
 - Python 3.8
