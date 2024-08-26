@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Fauci recovering at home after hospitalization for West Nile virus**
+**Zelensky claims Ukraine will have ability to retaliate against 'any point' in Russia as part of Independence Day message**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkl5WVlFRmZnOW9jSDFsTWNoZDQ3RUNmM1V5YW5kVlQ3RU01NU42X1dwRERnd1hHUHloRWVWODdBVG51Z0FVMldQQTNZVFdtTXpsX0Z6V3V6anFVYnVqc1gxQTAwOHE3Q19iWWpaajdSR2R0bU5sblgzcW83LWdkZlBIV01GX2ZKOE9fV2tR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRDYyQWNsd2p0WXdYOWxCUmpWWU5BSWpUa2ZVbnNGZnBJbXBXLUdocFpNWGloT09abHk0MEtxMVRjaVFYRkMxQ2dMbXQwQkQxby02SEhUQjJsVlBLdDI1ek5qVl9LN2lwdERiVEtnWENHVm1LaGYzdkhPRGRHYVBWMXNSbmEyaUFTNFItMHB3bGNUNlFQZHlqVkVOXzJRYmpnVllOaUpsM01PbjdaRkgzMVVpczRuT25HTE55MG56MF9vVG9ZZVdFTDVCU25tLUd2N3cwM2ltQTRzRVc0ZnZ6ZDVLblhISmZQWmhVMHFTY2dyQQ?oc=5).
 
 ## Requirements
 - Python 3.8
