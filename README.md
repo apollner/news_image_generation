@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian lawmakers hit back at arrest of Telegram chief Pavel Durov in France**
+**Israel launches ‘preemptive’ strikes in Lebanon as Hezbollah fires back hundreds of rockets**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE4zaDh6WG82NFA0Rm84d1FZVml6M2RZd3luQW5KWGQzLTlYWFdQYXdXaXVwdldUcVR0SkplLVNxZjBJWDR5RUpLcVhGSWhYWU1iV3EyZ1BxNE8zSjhBWXMzTG9iVElUNHQ5Unp1ZDZQdWg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3BJUHBNc3BOMzRmMmhzLUhuaDJaakZKX2dPZ3RCYVkxNnNiaFZBcTVzMTFyRE1LM1lpYWxpUzc0YndvYlBzeHVUb2dfRVpsYlhFc21LQWZFTlJkTDM1NzFnbzNpNUVqQUk3REhqd3RPUktVVGxDNElVcmZGbXVTaWY3WW1haEFUd1lzZHVWLTMyNGp5VjR3UzlR0gGQAUFVX3lxTE42WGxpdFF6TjRqcndxbHJYWDFBS3liWFhiU3llbm40alp1eUNvTFFzUFUtdUNVbE5ObU53YXVLTFZseEQwZE9yX0M2cUVIblAwY0x1T2N6THdTN0ZhX3o5UDBsemVVb1ByTEtqakxuVGszeURsX3dEWl9yYXlhSUtTdzA1T3JtYzlyUlZnWWRRTA?oc=5).
 
 ## Requirements
 - Python 3.8
