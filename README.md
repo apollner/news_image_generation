@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Editorial: Chicago and the Democrats both rebranded together in a dazzling show of DNC strength**
+**Harris Campaign Says It Raised $82 Million During Convention Week**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbV9jYkNYa0Z2YVpQdkpHQVlMRWRpMHpra3VsMi16bVRpWTh2dER0bzQ1N1NwaVZzTnhtWmgxcEY4V1MzX0wwY19fYndBeEp6OWo4SzVuMmtxeWpXNGNkNVlMUlU5Tm1XUGJ3ZVAwUVNNeUZiMWlNeWRrU1ZkRXBjMnVyUmxnUXI5VmxUME9WNTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNVUJPWXN3V0ItSjZFeGVhQ003MVlFRW5lNmxWS3NubWtIemtRb19rZHFJOVJ3RHpDZTJPRElqYlQ0OV95V1BQS09EQUQ4b1FndFVieDBmczIxclJlLUZpMk9wMHZzTTFoOVdCci1BV2pYVEh4OFpKRzhhdE9lb2xhTjBjcw?oc=5).
 
 ## Requirements
 - Python 3.8
