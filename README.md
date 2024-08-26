@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF orders new evacuations in Gaza after overnight raids kill 36**
+**Slipknot bandmember Sid Wilson has ‘sustained burns across his body’ in an accident and is ‘recovering’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiakFVX3lxTE0yMHlFdUxFUUt5eThGVTNlOW05N04xVEhITEFNSXBad0t6Y3o0SXVXcldqeWctZ2N4LUpZa2wzNkZmREZwQldnMU50d1pSQWlteWpGeDQwZEdaMzJVOEVzT2VFdWZQb1d5cVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxNOURTY0FubnZNa0xDSDd0TmZGU0NZQTZ6NDFQSGhsOGY2RU1jdm5wQlZSZm9lUGZOQjZlZ2szQ2UtQ014cmJzNjZnQWdPRzRpT2pVRlFzMEwwckwtSUZyU0JHU0JBYjVTbDVIX3lKUEhkMzR5WWRhUGRUa1JjUUVtM3FXbDdpR3Zudl8tSWd6RTY1R1R6a01ZV29zZExvZw?oc=5).
 
 ## Requirements
 - Python 3.8
