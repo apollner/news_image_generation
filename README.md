@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel launches ‘preemptive’ strikes in Lebanon as Hezbollah fires back hundreds of rockets**
+**Slipknot’s Sid Wilson In Recovery After Being Hospitalized For Sustaining ‘Serious’ Burns In Bonfire Accident**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3BJUHBNc3BOMzRmMmhzLUhuaDJaakZKX2dPZ3RCYVkxNnNiaFZBcTVzMTFyRE1LM1lpYWxpUzc0YndvYlBzeHVUb2dfRVpsYlhFc21LQWZFTlJkTDM1NzFnbzNpNUVqQUk3REhqd3RPUktVVGxDNElVcmZGbXVTaWY3WW1haEFUd1lzZHVWLTMyNGp5VjR3UzlR0gGQAUFVX3lxTE42WGxpdFF6TjRqcndxbHJYWDFBS3liWFhiU3llbm40alp1eUNvTFFzUFUtdUNVbE5ObU53YXVLTFZseEQwZE9yX0M2cUVIblAwY0x1T2N6THdTN0ZhX3o5UDBsemVVb1ByTEtqakxuVGszeURsX3dEWl9yYXlhSUtTdzA1T3JtYzlyUlZnWWRRTA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQejdzTWU4TG05VUhmekhGRFhMMUhhekd5cTFJMzQ3bm5seXFZSjVpcy1jYzZuTEw0T1hWVHFmT2phLXkwRmlFVkdjX3RNSXZ0TTVIWXpJSk5vTHZlaGZEa2F1YXpOY1Z4S3NraUhjMnExTEoxaS00R2ZlTUF6Z1dWWmhaTjhtSTdlX2xoWEZDMWhCQQ?oc=5).
 
 ## Requirements
 - Python 3.8
