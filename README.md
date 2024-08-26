@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heat waves, wildfires and now … snow? California endures a summer of extremes**
+**Apple Loop: iPhone 16 Pro Design Leaks, Goodbye Apple ID, Confusion Over iPhone 16 Launch Date**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPeC1pX1ZUdS0wSHRJMmxfaERpLVZmS09hSnVDNnBMYXd6RUxjZndRLWdZNy1ad21CaFNaNDlZVFo4RTRaLXR2dkhGZmxxbnJnNTNjMWFlNWN4dXdUaWsxQUh6STZkdktJdFhWRmlnUFAzSkhOTHNnUE5YZllGQUN4aTJtYjBkd0ZPZ2ZNVzRWeGlnUHY0NGdaLUdNbWFHNEp2d1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlhQdTIwWFBwQ1VvNHlaaXJ0ZG52WUY5ZGpNczBGamh5U1BuMVc1MHBJRW1Ec0ZlUUpPQml6YVJWY19KcjFvRWNyRGRzTlFrUXhMSHBLTUVGbVItTGpObVM3RmUwYjRQRUg4NHNuTHpwV2dPdnJNMW9fdjgzY0pvNGR3SlB5RlBrSTBUQjRsNFNLRUdSNWV2UUVqaE9zd2c2dkhBdk10d1hFOHZXeUlFcEVUZG9wOGlTN05XQnVaUTYzZ0lxMlFPVQ?oc=5).
 
 ## Requirements
 - Python 3.8
