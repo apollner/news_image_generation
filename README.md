@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sinking of a super yacht adds to questions billionaire Mike Lynch wanted to put behind him**
+**Hamas says it rejects new Israeli conditions in Gaza ceasefire talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOamVLc2pxVENkRjVzOGRtV0dQcXlCa2NvMjBFa0RpTUVuR1ZOZGVxa01pYzdaNU1zbWZyNHpYeVZGRGhfelVKSXc0NUlzWXVqekh3NG1LX1BrcmM0V0U3Yl9iNFRJaG9RUVlXWWZOcVdKYURCSTFaa1JCYzlWc2hIbE43aE0tMmhGUmowS21pN3Jzcl9Ocnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXhfVkVuZWdDWkFZTnp6ai1WSGdqeVJNTWRvZllRa2czejRsNXNHQ254Y05HM3RmaFJGelJBd3BHTVg0UG1oWEs5QlhhZ0R3WHhxUG9IdlBKVDFCZFNNZENlaEtOQzU2LWxfeUs5UlRPWUhtS2tSNU83RXFtNGdxeUN2M3dwM3N5WVo3TER6UW42VkJvdDduRGtnOFR6ZVVLdzljY29IeXNmS3A1NlY0UEU4Q0hBQ21ZR2NB?oc=5).
 
 ## Requirements
 - Python 3.8
