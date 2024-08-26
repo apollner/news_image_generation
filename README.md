@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas says it rejects new Israeli conditions in Gaza ceasefire-hostage talks**
+**French authorities arrest Telegram CEO Pavel Durov at a Paris airport, French media report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Oelp5R0hXUUxSeVdPeGZnMXdXa3ZFblNTXzRQb3R4aWQ3UWhtS3M1djZTNTg4WTlYTUdYdVFhVk4yTElLQVJKM0M2Zmd4aF84eW5Ra1YyMUQ4YTY5LXVn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSXpwYkRULTJlZU52NkdGc2pSOWdtUnI4VGMzci10WnRrSVBLOXdjYTA1ZXZfMWpCRUJLcHNlaWI0YVJlc1VuWHhKWG9wTHE2a2F1b3J4RGRfS0ljSWp4VVlnTWlFMF9qN0VHYjFCSFE4NzlwdWwyaUs0Y2hyb0FxczNlQ1BnQXJ2S2hYWHlha0dsaHVORTlDVXJPWWllNFdSNXA0?oc=5).
 
 ## Requirements
 - Python 3.8
