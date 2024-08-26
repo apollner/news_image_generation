@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Slipknot’s Sid Wilson In Recovery After Being Hospitalized For Sustaining ‘Serious’ Burns In Bonfire Accident**
+**Russian lawmakers hit back at arrest of Telegram chief Pavel Durov in France**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQejdzTWU4TG05VUhmekhGRFhMMUhhekd5cTFJMzQ3bm5seXFZSjVpcy1jYzZuTEw0T1hWVHFmT2phLXkwRmlFVkdjX3RNSXZ0TTVIWXpJSk5vTHZlaGZEa2F1YXpOY1Z4S3NraUhjMnExTEoxaS00R2ZlTUF6Z1dWWmhaTjhtSTdlX2xoWEZDMWhCQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTE4zaDh6WG82NFA0Rm84d1FZVml6M2RZd3luQW5KWGQzLTlYWFdQYXdXaXVwdldUcVR0SkplLVNxZjBJWDR5RUpLcVhGSWhYWU1iV3EyZ1BxNE8zSjhBWXMzTG9iVElUNHQ5Unp1ZDZQdWg?oc=5).
 
 ## Requirements
 - Python 3.8
