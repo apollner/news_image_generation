@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump event at wall Obama built highlights an unkept promise**
+**Israel launches ‘preemptive’ strikes in Lebanon as Hezbollah fires back hundreds of rockets**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdktPSlNuc2luWHNkUGN0dXRPSXRwekp1elVPZmVTUERPdHJabGxXRU9SeEp4QmJUVnVUelE0SmNqcWpsdmJtdXFsNkx5bUlicm92V0VqY0VGOHp2NThvdmFkQVRIeWRwZF9tM3hQUFo5OVZBeE1XdlUtZWtlLTl3VGdIcGxOZlFIZHRSYnNuR0ZCSklReGdjOUVqRXlONFg1c1dQYWR1ZFZ0RDVUN0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3BJUHBNc3BOMzRmMmhzLUhuaDJaakZKX2dPZ3RCYVkxNnNiaFZBcTVzMTFyRE1LM1lpYWxpUzc0YndvYlBzeHVUb2dfRVpsYlhFc21LQWZFTlJkTDM1NzFnbzNpNUVqQUk3REhqd3RPUktVVGxDNElVcmZGbXVTaWY3WW1haEFUd1lzZHVWLTMyNGp5VjR3UzlR0gGQAUFVX3lxTE42WGxpdFF6TjRqcndxbHJYWDFBS3liWFhiU3llbm40alp1eUNvTFFzUFUtdUNVbE5ObU53YXVLTFZseEQwZE9yX0M2cUVIblAwY0x1T2N6THdTN0ZhX3o5UDBsemVVb1ByTEtqakxuVGszeURsX3dEWl9yYXlhSUtTdzA1T3JtYzlyUlZnWWRRTA?oc=5).
 
 ## Requirements
 - Python 3.8
