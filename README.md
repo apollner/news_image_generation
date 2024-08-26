@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. says Trump endorsement not out of revenge**
+**Hamas says it rejects new Israeli conditions in Gaza ceasefire-hostage talks**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNWVUSG5xMUsxM3ZoVDI4TEE2N2hOOTYtcDJsY1BobEZWZXhsdWxNeldfRGhJUm01N0x1N0hpWmpSdXZkMTQwbU05aFg2YUo3aTRneXNsVEdzS3EwZjFXVnU5WmNKS0F4eG5Cb2VJUVI1YndCNWdySkVIWWdVUy1RczY1LUxqYmNOSE00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Oelp5R0hXUUxSeVdPeGZnMXdXa3ZFblNTXzRQb3R4aWQ3UWhtS3M1djZTNTg4WTlYTUdYdVFhVk4yTElLQVJKM0M2Zmd4aF84eW5Ra1YyMUQ4YTY5LXVn?oc=5).
 
 ## Requirements
 - Python 3.8
