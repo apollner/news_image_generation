@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris’s campaign has raised $540 million since launch, Democrats say**
+**Israel and Hezbollah trade heavy fire before pulling back, jolting a region braced for war**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOaG5nR2lJcFF0dTBrQTBQbVRsdGFXdDJXak92RFRQNzcwWExRb09rUnoyUXpDaTV2Y3U3V25yOWdJWTIxbTAwOWxiaDZfVTFkZWpWeGdITUx0STVORi1tWkh2NFgtRjVyLVNQWm1BVklnTVdhWmdGTUFYVnFPSENCUHZCRkFtdTIxaEZSanM2WVZFamhITnd3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFl1aDBxcFFCMVRNZWFWbGhpZ3VWMlJKRDY1c250WUdIOW5qa01MT1Z3dkVsb3Y3MUZKUG5aMHhJbXU3Q3pRal9IYXBOOF9tN1JQWlR3SHpZXzRGNVlSMTJ5NDRzRUJ0YUxJb0VEc3hNWGlqWmh5X0FRYWllZTRuNVN3MERVMnZpSFZsYlVpd2k3QUI3Y1VEcVpOQXNZaG5nMmw4aw?oc=5).
 
 ## Requirements
 - Python 3.8
