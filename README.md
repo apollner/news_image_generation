@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTC trial over Kroger-Albertsons merger kicks off, a heat wave comes to the Midwest and the U.S. Open begins**
+**New Boeing CEO Faces Hard Choices After NASA Snubs Starliner for SpaceX**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcnlkaFRwN1NfcEpPQnA2LTdlakY3cDNwTlNfYnR6VXhSMUwxVHdPRktrelRoTnJBYVhaY3Q1QlUzSElOWjlndFFxZUpGRUxQS2RwOWs1OTYxbDVDQ0thLVpPQnVyMmEzUkJ0alZmZExvSW9QSGhXUFZxRmt2dEtSb0Z4VmZDMnR6djlOcU5fTmZmVlp6R2NIYmVkQ2Qyb05haWxkcUx3V1RJS3RPYXFEbjRRRl9WSGEwWklrandHXzNYNWZUWjEwakV4REFVOS1tRTUzWWx1dDNCYTdkTzFKSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUs5a2R2MjBvSjQ2TjNDUnRscW5hbmN0aFFvdmJ0blpWVDU2eDFoZnZsMHNFTnpfMEFadzRrcVhkWXUzbWxxWkdnZWpwYmozRDN1NFFmWjZNU2k5a1NBNWQyQXZVVlNMWnpaXzJZOUxjZzRlOEFXZjBDMTRMMXVka19Fcm9ObVpZdzlGWnhRcEVqX1NaT2k1ZDFubmRjS0xkdkc4MGg3d0J2ajJaam01VVBzclR1UQ?oc=5).
 
 ## Requirements
 - Python 3.8
