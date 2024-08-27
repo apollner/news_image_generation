@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German feds take over festival stabbing case, citing suspected terrorism**
+**Former national security adviser says Trump can be manipulated with flattery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXNDSlRjamQ1bWI0aEJUN20tZWEwbEhUVTB2MGtXRV82czBTakFuUVNWZjBWajIxTS1BWkZURnhRbGs3bXE4Q2VNY2dkbmdIMXFYekN6Rk9lQmpRTG4tcUVqWXk1TkdkTUR5UUJiRk1EaHIzMnRtUFFDNHNxODY1UnpLdHRvWW1KYkZBVXBOQnpURHlybzZCazV1NXozeDg3Yng4VTc0emo?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2JxdFRWT2ZVNlQwRkI3dXlNNmZLb2owd3FqT0RfaWE0d3dzTHJxQ0F4b2pETDNlUWROam1IVklIYXhMNVlmdnN4UUFNWEp5MXVycldoQ0w1azFFWFBBTmk1ZGxQSXdLSlFOMGg3cnpsYUw5ZUw0R2VRV2ZGcUVlb2l3RFpId3k4ajdMN1EzRDBBUQ?oc=5).
 
 ## Requirements
 - Python 3.8
