@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mondo Duplantis breaks his own pole vault world record again, weeks after Olympics gold**
+**China Box Office: ‘Alien: Romulus’ Becomes Hollywood’s Second Biggest Film of 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3JNcTMxM1BqZnBEVU9RYUZRZ2lsWVpic2tGSHkwdnFLbWppVWdkMllpaDc2dGlpOUpTcFRyU0xKTmROUUdLQWRFZExFV2xjbXN0N2ZrV2xjY1pka3FvZDlTenNfUjNfVjlidHpwN19STW82MnZqR0RMTXFmbFExWWh4WGZ5OVh0NUpqclg4VFRQTzFiX1Nqay01UzExazB6YVRjOEhIT0VmWHlTV2FfWUs2MNIBVkFVX3lxTFBGazZwV0V0TTQ0MmJXTTB5aVI3TDhxa21haUNBWmJsSFdJU1NBcUlLdnFLN09CaEF4TGpqZmRIOW5KOVZ5T0dzR1VUY2dIVzhHRXBkaFhn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0RMdW9QVlduMDJxZVU4by1jQzFKb1NPak9oakZxaTRXa2Q4R1VtRGlBRC1YLS1rRVZSQWUtbHM0OUZIYXVQVGs4YVI1VEk0T0t5eFcyTEI5d3BMN0VkdTgxVFpIblJ0WUsxel9wS1RvaDBEd1c2UElfZnJhN0hUQm0xVDVYYW1MQVBXVmYwYkdoUdIBlwFBVV95cUxOZnBldWMtdURscFdkZURuc0s2WmlNbHJvamFWN3RQZWZTdFNFSl9Cemhpall2ek9ra1plWlFZS2p2QVkyNDlMblQwMFFBeTBCQUQwSTVGSXJ0MHVDT0c3Z1ZxTUtmTDc5SnhpNkVOZkg2UzBiWDV6Qm1tWGxxMFlGNnZiOG9kREdBeFlhcVgyS1Q4ekJxQ0Y0?oc=5).
 
 ## Requirements
 - Python 3.8
