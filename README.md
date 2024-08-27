@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British safety adviser for Reuters killed in Russian strike on Ukraine hotel**
+**Mondo Duplantis breaks his own pole vault world record again, weeks after Olympics gold**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjdTZko4bkt2aGpaWXB5QWpSbHlydE9FUXhTd0xOQjlkVHdUeTV6OW1zb2FYNHB1VDZvVTgzTVZGZktOX3ROQXB1eGRHMnQ1WThnSGk3Q1p1Z3RhZWhYNmExWXQxQWVIUmU5empiaUhKLTREc2Fjc1B5aWVSdDUzRV9zOEhuSjlzbDQyWDdnb0p6ZUc2SE00ZWlKSDRURTjSAZYBQVVfeXFMTkNBZEM4Umx1VlBvVDhaOEUzQnlFMFlWa1lGQTBTQl8tTjZTUC1XNVlDWEJjdFBncUZuTlEzSkR0RnkzMXNRQXQyRS15eFRfT2FQMGJJYkswOWxNU2I1ckZMMlZfU21leUluMGxDYnR1OGpMMlRESzRzWHlyQzZtdzdLM2NhMFM4U1IwR1lDWkV2NlhxX213?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOV3JNcTMxM1BqZnBEVU9RYUZRZ2lsWVpic2tGSHkwdnFLbWppVWdkMllpaDc2dGlpOUpTcFRyU0xKTmROUUdLQWRFZExFV2xjbXN0N2ZrV2xjY1pka3FvZDlTenNfUjNfVjlidHpwN19STW82MnZqR0RMTXFmbFExWWh4WGZ5OVh0NUpqclg4VFRQTzFiX1Nqay01UzExazB6YVRjOEhIT0VmWHlTV2FfWUs2MNIBVkFVX3lxTFBGazZwV0V0TTQ0MmJXTTB5aVI3TDhxa21haUNBWmJsSFdJU1NBcUlLdnFLN09CaEF4TGpqZmRIOW5KOVZ5T0dzR1VUY2dIVzhHRXBkaFhn?oc=5).
 
 ## Requirements
 - Python 3.8
