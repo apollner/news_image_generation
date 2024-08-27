@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Boeing CEO Faces Hard Choices After NASA Snubs Starliner for SpaceX**
+**Angelina Jolie & Brad Pitt's Daughter Zahara Flaunts Dance Moves During Sorority Outing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNRUs5a2R2MjBvSjQ2TjNDUnRscW5hbmN0aFFvdmJ0blpWVDU2eDFoZnZsMHNFTnpfMEFadzRrcVhkWXUzbWxxWkdnZWpwYmozRDN1NFFmWjZNU2k5a1NBNWQyQXZVVlNMWnpaXzJZOUxjZzRlOEFXZjBDMTRMMXVka19Fcm9ObVpZdzlGWnhRcEVqX1NaT2k1ZDFubmRjS0xkdkc4MGg3d0J2ajJaam01VVBzclR1UQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXFDRjFuTTNqVGc2TllyUXhGVGxiTDR0bTN5MVJaeTE4N19pMHhJZnpuTzlQUkVnc21OeXZjU3lnXzlacmRhUU1EeHpWRlJnaW9LYTFSR2RWZEdTM2kxQjRaZkFyMDRxVktscVpSSE01TE53cXlMcUFkbUl3SW9ER9IBgAFBVV95cUxNbWVXbERfcTNzcFVkNFFRaXZqMUNpWTRORUNxSmVUQ1M3TzJaSEJCZnlMbXV1d18yZmxkaVUxN2pkV3ZxMWdzbjVpT2NnUzlrbjRiWEFfQUZ4emJtbWt0YjEyZE5raVN5QjktVzdiQmw0TmUxWnpCXzJDaWx2U2VvNg?oc=5).
 
 ## Requirements
 - Python 3.8
