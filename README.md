@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quentin Tarantino Says Alec Baldwin's Partly to Blame For Rust Shooting**
+**Member of British journalist team dies after Russian missile hits hotel in eastern Ukraine**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZk5xSXJNVkRvQWhrV29LUG5OXzBocWk3a0xtYng1TDVZM29vdHB1RWo2UXJROEhfQVNyU1BHcmtjV0gxdHdwV2g4ZzF5MVFqNEU4TmEyaVptYmpkS2cxbWxjLUdpVzU4T1lORmRaRzN6amh2R3lLTExSaWJnVGhLQU5Vb2VWNlNBTndTZ3hrVjltUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1VVdWdtZjh0anU1QURLV0dNa3lsY3F1OFYycW9uNVI0c2g3dm9nS3JrWWN3UVFaSExCVWpWVVN1TFdWTGkzS1lNU0p5V1MwdkJxUFJTTnRyOHpNWHdnc2l1VlRfWDh2VVVaWXRhdm5NdDVZQ0NTcFcyOThPQTdwMkY3Qlh5SHlTMklETW1xSWpCZ0k?oc=5).
 
 ## Requirements
 - Python 3.8
