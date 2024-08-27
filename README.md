@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia shares edge up and dollar down; oil gains**
+**Billy Baldwin Unleashes on RFK Jr. for Endorsing Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbW5nM2Q5ejhmc3FsQzdod1pteEZfdzNTZnRsMDJ0X3I3YU1aNW9JdjRNUzkwZlAzdVBJb2FDS0hrU3ZkaDhSRFVrVmltenZjczlyUlk2WTBJM296Z29UOGlVeTQwRTNYVUpTRnVKcEdIUDRxa3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXZ3ajJqd2RVV3otWkNIY2hhSVlMcjFCa2pBNkQtQ19fTlQ4d2NYeTZEMlZXQVVpd05DODh3ODJWb0lzOElTQTZJVG9JaExJYUd2YU1pZzNBelZLYWdoS25BdWJqY3JGay1zUFlBRk1LM2hyVjN5UHE3T3RCSFNYY3lmanNjTEh4UW9WTnZvb1Z1ZXdUcHQ4X1lha0JsSGs?oc=5).
 
 ## Requirements
 - Python 3.8
