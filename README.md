@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British safety adviser for Reuters killed in Russian strike on Ukraine hotel**
+**German feds take over festival stabbing case, citing suspected terrorism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjdTZko4bkt2aGpaWXB5QWpSbHlydE9FUXhTd0xOQjlkVHdUeTV6OW1zb2FYNHB1VDZvVTgzTVZGZktOX3ROQXB1eGRHMnQ1WThnSGk3Q1p1Z3RhZWhYNmExWXQxQWVIUmU5empiaUhKLTREc2Fjc1B5aWVSdDUzRV9zOEhuSjlzbDQyWDdnb0p6ZUc2SE00ZWlKSDRURTg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbXNDSlRjamQ1bWI0aEJUN20tZWEwbEhUVTB2MGtXRV82czBTakFuUVNWZjBWajIxTS1BWkZURnhRbGs3bXE4Q2VNY2dkbmdIMXFYekN6Rk9lQmpRTG4tcUVqWXk1TkdkTUR5UUJiRk1EaHIzMnRtUFFDNHNxODY1UnpLdHRvWW1KYkZBVXBOQnpURHlybzZCazV1NXozeDg3Yng4VTc0emo?oc=5).
 
 ## Requirements
 - Python 3.8
