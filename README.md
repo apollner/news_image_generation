@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerod Mayo on Patriots QB competition: ‘Drake has outplayed Jacoby’**
+**‘Emilia Perez’ Teaser: Attorney Zoe Saldaña Dances Into Business With Trans Cartel Boss In Jacques Audiard’s Netflix Cannes Prize-Winner**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGRPMTV2VXd4X1Eyc2NoOThtMUFtLTJLT1JKTTFaYjJIaE1SNURIZXdSdGJrOFNGcWNYelBvdXVHRmVIM3NiZ1VvZDZkUl9SNzNzOWNSR09YbWpPdGFJb3VDdV9HNUhFak9lN0s1a2ZMbVVxbmo1OFBiSWF5Y0h6MUpyNjVuZmpnRXZtRk5rN1F1VzZFYThpOUw0TVA4S3BubUdsOTRCdW0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE5MOXJHSkxWT2ZXd19hMG5QV2tlcE83Znl3YnVVb2t2VVNBcTJaOHFGVEduNVEyRldPUVN6WmF6RnlkWGZadlg4eWZBLUxHT1hjRW50Mm9Kcjg3YmwteUc0YmRvYmxEN0dCdDlyYmtPMUpsTkk2QlE?oc=5).
 
 ## Requirements
 - Python 3.8
