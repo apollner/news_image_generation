@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX 'go' to launch private Polaris Dawn spacewalk mission on farthest human spaceflight since Apollo**
+**Sources: Cowboys' Lamb agrees to $136M deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFdQaGNvM2hjNjlVbXhxTHZLUnk3ZWdib29CaFZTeUljM1lKcXhBZmQ5Ykx5TllGTnczUGtxTmVjV3BUZkJhT1pqNmlPUDFHem9HOW1yYnppNldpNDlDbm9BTHR3OHYzeUxaUjFWTDJHd1VGUUpQMjdHREJ2NGZfaVYybVg5akR5TEdNUm51elNkbU9ZQUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDJBdURZQ2lxRjZLNDNualFjZko1OUlmRmpWdFpMSDFyLWdYXy1ReFhMY1FHMWR2WXdZdVE4MWh4Tkg2Unl2X05FWWNZNlk1YU94dzVxS3dyREdfcERRbFR3Qmhzb0NaNnVqQmNFclpQWnJWRGV3R3NoVnF2STZ0SDhzSUhuemZEd3phc3NiQk0yN2ltYkFGaFFHYng2U2lI?oc=5).
 
 ## Requirements
 - Python 3.8
