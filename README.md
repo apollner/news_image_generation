@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine's daring strike on Kursk boosts Kyiv's morale, may put Putin in a box**
+**Jerod Mayo on Patriots QB competition: ‘Drake has outplayed Jacoby’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWlvRnktWjFpYldVaW83N2drRXpHZ01SaXRzS2RGUm9VeTloUVdFQmdQVlVfTFFNS2tKLW9ORkpMMnowRm8xVXg3OXRuSV83TVg4bVFRZ3ctTGh6NkxySWVCRWxsQXBKaThYT19jeUpWVXo2b1BNRnM1TkV5T0lwUHM1Qms3TncwWnJrMVc5V3FJOWtId0RmNTNNYTF5UVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGRPMTV2VXd4X1Eyc2NoOThtMUFtLTJLT1JKTTFaYjJIaE1SNURIZXdSdGJrOFNGcWNYelBvdXVHRmVIM3NiZ1VvZDZkUl9SNzNzOWNSR09YbWpPdGFJb3VDdV9HNUhFak9lN0s1a2ZMbVVxbmo1OFBiSWF5Y0h6MUpyNjVuZmpnRXZtRk5rN1F1VzZFYThpOUw0TVA4S3BubUdsOTRCdW0?oc=5).
 
 ## Requirements
 - Python 3.8
