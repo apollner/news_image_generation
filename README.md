@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Member of British journalist team dies after Russian missile hits hotel in eastern Ukraine**
+**Kennedy Family Comes Out Swinging Against ‘Obscene’ RFK Jr.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1VVdWdtZjh0anU1QURLV0dNa3lsY3F1OFYycW9uNVI0c2g3dm9nS3JrWWN3UVFaSExCVWpWVVN1TFdWTGkzS1lNU0p5V1MwdkJxUFJTTnRyOHpNWHdnc2l1VlRfWDh2VVVaWXRhdm5NdDVZQ0NTcFcyOThPQTdwMkY3Qlh5SHlTMklETW1xSWpCZ0k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhCTWlUbWZZdHpaalY4dmsxNk1aUXhsU09EQnRYWjVGU0ZsVjZpMkNQQ1BQMFZ6UDFCVG51ei1nVjh6QlV2R19kdENiWUg5TmNsNVZsVmIwR0JmWVRzbVBhcjdwYlF5UU5GT2VWOFlfTi00eTVfallkUm9jQnJvdjlpYTlYUHlWV2xTejdOcw?oc=5).
 
 ## Requirements
 - Python 3.8
