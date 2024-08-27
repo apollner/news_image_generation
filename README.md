@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Families flee after new Israeli evacuation orders in Gaza as ceasefire hopes dim**
+**Metal Gear Solid Δ: Snake Eater Hands-On Preview**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFBKUzRSakx2YlRSOWNJdng4TVRRUnlrQTRqUU9HaG0zbV90TldGa2xUakNqbjFhbFQzbnpXWVJlRUNuRGdDQ1lSam1JM280Qlg4ZFhCRVFqemdVSzNKYmJkTlN3RXJkcUFkVVJINElGTlF4LTRMdDNFOWttcnBJVEpkTjF6QXYzLVlXU0JsQzltRkxaaVZscVBaNW14bWFvamk0MjNvY0RxUXljbGw5QVVNcUhsbGFJY2NFMWZHam42OU5BNXRZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0ZnQnlqenVjZlFzmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
