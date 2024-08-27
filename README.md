@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia earnings is an 'an underpriced risk' for markets: BofA**
+**SpaceX’s historic Polaris Dawn mission: how to watch the launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1R2QUNVTmN4U1hEVEJaMnNDeTVYRTYyLVNYLVVzOGRkOHFPMnNPMWhLMDNrN3NEWG9tR29kSWE4WDhscmEyQm5uQUFfdTktbTdQVVlzemRXQllaZVdpX1FjY1c0WHlheDdSUWxDWm03SHBNTlc4ODZSLUdETnFWODB1M2NyTTFscnpNenNnYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNmUyYWlrWldBaktHekljNXhWallMVm1SVmhoNWp1VVVqSm81cGVhdmlKUGxLQmJfa191MlRqZkZGbUNleWRVUkhvUlRXMXhlQTFHSjFrTk93OEpDV2ZoWFFYeUE2N0FCT3pFSHlUXzR6NnJrVXFxcnlpblo1UG5MUGtQNDBtQ2ViTFJGXzZWY3VRNTlnMGF0YmpjY0dKU1VG?oc=5).
 
 ## Requirements
 - Python 3.8
