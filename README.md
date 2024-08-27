@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Metal Gear Solid Δ: Snake Eater Hands-On Preview**
+**Harris’ momentum continues as she ties with Trump in these swing states**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0ZnQnlqenVjZlFzmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFdacDFIOFJKVHhKVkxKNklFX2pYVTF3V1NTQVB5ZU40eFBWWE13eWJ5NkdkVDZ4c2J5eVlwYm5lVjNDVFgyXzd6dzI0YnBSVVFPV2cta1c4cHBsdXZXMDF5UXJnSnQ1c2N4LUNRY3BmSzFLV0UxcGE4d3k4eW1iU21FckNBRjM2VEhtdg?oc=5).
 
 ## Requirements
 - Python 3.8
