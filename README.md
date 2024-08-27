@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matching dinosaur footprints found more than 3,700 miles apart, on different continents**
+**UN says Gaza aid operation temporarily halted due to evacuations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzJLenF5VHlyMUxwelQxN3plYmVTZmVKeXROM2F5M2F6a1pKeXhMaXFlOE5RZlNzdGpnWjlic0pDbV9NcUV1aUtkNENPWnVhTHZVZ3luUFFWd0pETWRiNEl3eDhmQllyRWtnd3NnX19uMFFzc3pKSmE1MGJEUTB6M3dNUndJNGxONE5UUXZTcmxnemRCWGhKZUF0UdIBoAFBVV95cUxNODA5OHVwTHpxY1RCN2ttQnU5eG1XMUdZc044NVVwYTR2TE5QSWt1aXg0RzIzclZLYW5IRDRUNHR4YkdRRWZfWlB3NjBRdGRhWENhSVZON2FFMGpkOURpYWl4OXFWXzVmZ18xazhaLUdINDhCWUhrUWpENmJKOTI4cExjUUlaYVJ5N1FITTRZSHFBRnFtRjJfUFJvWURxZnlu?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMkZ2Rk9UUU9qdDZycXFNUlYxclJKZV9od0hwNWZ0d0wxRlhPUkRyaUxFVnVtUVZielRlT1BsVXVVem5YLVh3YWI1MmV0aUItQjRZWGJDOTB3QdIBX0FVX3lxTE5tZEpoVlVkdXlSdHlQSWVqMUV5VmpMdGpXakxMYjN6bmVtT3BEc3RNekVIQ3JtSFRUWnNRQVZGeDZvNG1JRjZUUVp3Z3hLYjFXUFQxSmx2OGMycnBXaEdF?oc=5).
 
 ## Requirements
 - Python 3.8
