@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches 'nightmare' deadly drone and missile strikes across Ukraine, Kyiv says**
+**Nvidia earnings is an 'an underpriced risk' for markets: BofA**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3gtZXlYYVZ1UklaYWQ1b2Q2MUpHdXB4VFI0LXdoMnhPaFliOXhFdktmQ3ZxNGZHMGZlYTJBS21DN2NWbE9wQUhaR1NiVmNERWl5X0ctRHJqU3UzRXRkWklvcGl6LVZteTcwSDZtYjJQM3JRNlFXWTVDZndHeTNlQUh1Z2hfZThzaEF5TC1FUkl4NnlOaTBmbVpQRnZmU28yZUFoMnZ2VE1GNmpUTmR3Rmx2RnlKNk12SzhR0gHAAUFVX3lxTFBRQUtuZWd6ZGlEbUpYZndPS3JsaVlGN0JMTVdoT25GaVJGWG5VTHJNaTJOdmplSTJjZk1pTFZhN2NxVHdMMzA0MGk2bVFRSC1PdVBfaXZKWElSOFF5Ml9wQkRqUGRwUzZsSHdqTk54ejhqRG1vcGl5c3pWQ0RaaUJRcDJmUUtfa2xVMUpZc1RUY0Q3cEFVSmZMUmRqcHJpbXc2RVZYS21VdXAybFgxNkRFLU1GSTRxUVNlZm1uT1NCLQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPc1R2QUNVTmN4U1hEVEJaMnNDeTVYRTYyLVNYLVVzOGRkOHFPMnNPMWhLMDNrN3NEWG9tR29kSWE4WDhscmEyQm5uQUFfdTktbTdQVVlzemRXQllaZVdpX1FjY1c0WHlheDdSUWxDWm03SHBNTlc4ODZSLUdETnFWODB1M2NyTTFscnpNenNnYw?oc=5).
 
 ## Requirements
 - Python 3.8
