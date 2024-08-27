@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billy Baldwin Unleashes on RFK Jr. for Endorsing Trump**
+**Families flee after new Israeli evacuation orders in Gaza as ceasefire hopes dim**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaXZ3ajJqd2RVV3otWkNIY2hhSVlMcjFCa2pBNkQtQ19fTlQ4d2NYeTZEMlZXQVVpd05DODh3ODJWb0lzOElTQTZJVG9JaExJYUd2YU1pZzNBelZLYWdoS25BdWJqY3JGay1zUFlBRk1LM2hyVjN5UHE3T3RCSFNYY3lmanNjTEh4UW9WTnZvb1Z1ZXdUcHQ4X1lha0JsSGs?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFBKUzRSakx2YlRSOWNJdng4TVRRUnlrQTRqUU9HaG0zbV90TldGa2xUakNqbjFhbFQzbnpXWVJlRUNuRGdDQ1lSam1JM280Qlg4ZFhCRVFqemdVSzNKYmJkTlN3RXJkcUFkVVJINElGTlF4LTRMdDNFOWttcnBJVEpkTjF6QXYzLVlXU0JsQzltRkxaaVZscVBaNW14bWFvamk0MjNvY0RxUXljbGw5QVVNcUhsbGFJY2NFMWZHam42OU5BNXRZ?oc=5).
 
 ## Requirements
 - Python 3.8
