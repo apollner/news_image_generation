@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Telegram founder Pavel Durov — and why was he arrested?**
+**British safety adviser for Reuters killed in Russian strike on Ukraine hotel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0daSFJmcDJPc1k5MU5HNG1MU0lyYVU3S2lyd1lVV1UwQi1QM3QwZ3NPZlRWZUlramR6UDhBNzV1NFIwOTJ2S0w5MXkxYnFqeV9RNEF0M0laaWdoLTdWRjNfd2JadmtvQjUyUEd3SUZFLUJoazdLNkNLUmJIWHFfSzFHTG5UaHFkNWlLcW9ObmllcDdtY3U3Z2RSUlnSAaIBQVVfeXFMT1RhWTdiWVJJT2dNVHpVRjhIQ0JVVHhkQ0xFSzA4ZGo1bDNmbHZRc0k3T1NfRVo3ajhjbUJ4WkpJeE9EeDFDS3h1VXoyaFU3WThESE1UYU9lMlFkRE83di1iNmFLRVlsZlFncDdhMkt2V0FLRk4tRXhsOUl5aEtlYzlmX2laVFljN05TbmNtd0ZZLWlxU0NsU1pJSG52ZXVGdFVB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZjdTZko4bkt2aGpaWXB5QWpSbHlydE9FUXhTd0xOQjlkVHdUeTV6OW1zb2FYNHB1VDZvVTgzTVZGZktOX3ROQXB1eGRHMnQ1WThnSGk3Q1p1Z3RhZWhYNmExWXQxQWVIUmU5empiaUhKLTREc2Fjc1B5aWVSdDUzRV9zOEhuSjlzbDQyWDdnb0p6ZUc2SE00ZWlKSDRURTjSAZYBQVVfeXFMTkNBZEM4Umx1VlBvVDhaOEUzQnlFMFlWa1lGQTBTQl8tTjZTUC1XNVlDWEJjdFBncUZuTlEzSkR0RnkzMXNRQXQyRS15eFRfT2FQMGJJYkswOWxNU2I1ckZMMlZfU21leUluMGxDYnR1OGpMMlRESzRzWHlyQzZtdzdLM2NhMFM4U1IwR1lDWkV2NlhxX213?oc=5).
 
 ## Requirements
 - Python 3.8
