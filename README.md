@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy Family Comes Out Swinging Against ‘Obscene’ RFK Jr.**
+**Mandatory evacuations issued for areas of Ketchikan after landslide**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhCTWlUbWZZdHpaalY4dmsxNk1aUXhsU09EQnRYWjVGU0ZsVjZpMkNQQ1BQMFZ6UDFCVG51ei1nVjh6QlV2R19kdENiWUg5TmNsNVZsVmIwR0JmWVRzbVBhcjdwYlF5UU5GT2VWOFlfTi00eTVfallkUm9jQnJvdjlpYTlYUHlWV2xTejdOcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY1haZUtiTVY5eHJJR2JjNmVTejRYN09vQWJGelZlTHo3ci00Zk5hLWtuVS1fcHc5WlFFTDNyTDRfdnRDTjIwU0xRTjN4WE1tbmRfQ3ZSU2NJV3RWNUNkcFV6d0RCdGlGRUVpdGNYWUx2cVJ4NE81U1Z2bGgydWFqU3RfQlZuNFd0Z0lDTnNhSG03dU0wT2RUQmpIRkp1VmxlY2hiMnhhckttQdIBvgFBVV95cUxONTM0MWpVc1QxN1BzdzhSeXNadWJUMmduSkpubHpJd1NqNXpnM3NlU3dUaXp2MDFiT2pZLTMzVGx5c2RocGZqRGV4WUtzWjRCSHNGOHZTTDhpUEJITzBwR0hnTW9zZTdYOTVwaUx4XzBMQlJEWWtfU0VXMTEzU1Utbl8yY0ZkV2xyaktsRWZvdEpSVk9mWHVMMS0xZFBUdzlieTRjOTZ4OWdQNm5fYTFwZnhLM3JIWlJlNVc1NHFn?oc=5).
 
 ## Requirements
 - Python 3.8
