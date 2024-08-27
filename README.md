@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices to remain elevated as Middle East tensions threaten a wider conflict, CBA analyst warns**
+**Israel and Hezbollah exchange heavy fire in major escalation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT05uSXk2cEVLZGFDendQOFpCb3lnWVJ6aTJEWnpHal9KQXJnSXZHaVZMRFdOeVZIRjF2Q2Rqd25qc3N5TGoySEZEX2VmX1I4a05IRjk5d0M4a1NDaVVVYXdmYm9FR0hWZ3FUV0g3bHNOeEhCM3NMY0RIQjczYXRwYk5keWF0NG9DZ2dwNVlPYXBKdHpyT3J3TG1jODNnc0xmcFRDX0JkenZna3BJMmfSAbMBQVVfeXFMUDJCS0Y1RFpEYzJsWG1oTllYUk5GYy1lQ3Y3ZHBkRHRUVGtPLU4ySUVTd1lVOUgwam40Sl9vSjZmb2tUNGlra1Jabi1LUTIxTkNoLUNiSHkwemxnSGxSM050Q25Sa0FBbV83UFN2enRoU3dxQnZiM1ltNV9ObEM1anUyaUg2SXVDVEpJd1R1ckdEMHpoZUdnUElkcTJlQWlTQmhTaXJVUFRzcW1xQVNzQjR2NkU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdkhFZ0U0NWxieHdraS1BQUw1Z0l4N2VORmNQWE1TS2pLTjl1eGQ5bXh5NnlvdVVqb1dWeU9vN0FvLUJWdjdnR3pJdUJZSVRMNTQ4UXNMeXpQQdIBX0FVX3lxTE9CNFEwU3pjMTdTRUl3NVpWMktoRjlCTTlRdDVEN3hMcTVJY1Q4VDEtSDI1OU5YcVI5TkphcFJBZmptOC1YdjIybWMxM1hQbGpHQ0Mwenh4XzRYR1ZkM0kw?oc=5).
 
 ## Requirements
 - Python 3.8
