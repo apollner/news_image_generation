@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Box Office: ‘Alien: Romulus’ Becomes Hollywood’s Second Biggest Film of 2024**
+**Oil prices to remain elevated as Middle East tensions threaten a wider conflict, CBA analyst warns**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPX0RMdW9QVlduMDJxZVU4by1jQzFKb1NPak9oakZxaTRXa2Q4R1VtRGlBRC1YLS1rRVZSQWUtbHM0OUZIYXVQVGs4YVI1VEk0T0t5eFcyTEI5d3BMN0VkdTgxVFpIblJ0WUsxel9wS1RvaDBEd1c2UElfZnJhN0hUQm0xVDVYYW1MQVBXVmYwYkdoUdIBlwFBVV95cUxOZnBldWMtdURscFdkZURuc0s2WmlNbHJvamFWN3RQZWZTdFNFSl9Cemhpall2ek9ra1plWlFZS2p2QVkyNDlMblQwMFFBeTBCQUQwSTVGSXJ0MHVDT0c3Z1ZxTUtmTDc5SnhpNkVOZkg2UzBiWDV6Qm1tWGxxMFlGNnZiOG9kREdBeFlhcVgyS1Q4ekJxQ0Y0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNT05uSXk2cEVLZGFDendQOFpCb3lnWVJ6aTJEWnpHal9KQXJnSXZHaVZMRFdOeVZIRjF2Q2Rqd25qc3N5TGoySEZEX2VmX1I4a05IRjk5d0M4a1NDaVVVYXdmYm9FR0hWZ3FUV0g3bHNOeEhCM3NMY0RIQjczYXRwYk5keWF0NG9DZ2dwNVlPYXBKdHpyT3J3TG1jODNnc0xmcFRDX0JkenZna3BJMmfSAbMBQVVfeXFMUDJCS0Y1RFpEYzJsWG1oTllYUk5GYy1lQ3Y3ZHBkRHRUVGtPLU4ySUVTd1lVOUgwam40Sl9vSjZmb2tUNGlra1Jabi1LUTIxTkNoLUNiSHkwemxnSGxSM050Q25Sa0FBbV83UFN2enRoU3dxQnZiM1ltNV9ObEM1anUyaUg2SXVDVEpJd1R1ckdEMHpoZUdnUElkcTJlQWlTQmhTaXJVUFRzcW1xQVNzQjR2NkU?oc=5).
 
 ## Requirements
 - Python 3.8
