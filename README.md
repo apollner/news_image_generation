@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie & Brad Pitt's Daughter Zahara Flaunts Dance Moves During Sorority Outing**
+**Ukraine's daring strike on Kursk boosts Kyiv's morale, may put Putin in a box**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXFDRjFuTTNqVGc2TllyUXhGVGxiTDR0bTN5MVJaeTE4N19pMHhJZnpuTzlQUkVnc21OeXZjU3lnXzlacmRhUU1EeHpWRlJnaW9LYTFSR2RWZEdTM2kxQjRaZkFyMDRxVktscVpSSE01TE53cXlMcUFkbUl3SW9ER9IBgAFBVV95cUxNbWVXbERfcTNzcFVkNFFRaXZqMUNpWTRORUNxSmVUQ1M3TzJaSEJCZnlMbXV1d18yZmxkaVUxN2pkV3ZxMWdzbjVpT2NnUzlrbjRiWEFfQUZ4emJtbWt0YjEyZE5raVN5QjktVzdiQmw0TmUxWnpCXzJDaWx2U2VvNg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWlvRnktWjFpYldVaW83N2drRXpHZ01SaXRzS2RGUm9VeTloUVdFQmdQVlVfTFFNS2tKLW9ORkpMMnowRm8xVXg3OXRuSV83TVg4bVFRZ3ctTGh6NkxySWVCRWxsQXBKaThYT19jeUpWVXo2b1BNRnM1TkV5T0lwUHM1Qms3TncwWnJrMVc5V3FJOWtId0RmNTNNYTF5UVE?oc=5).
 
 ## Requirements
 - Python 3.8
