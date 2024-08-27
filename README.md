@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Cowboys' Lamb agrees to $136M deal**
+**How will Nasa return two US astronauts stranded in space?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdDJBdURZQ2lxRjZLNDNualFjZko1OUlmRmpWdFpMSDFyLWdYXy1ReFhMY1FHMWR2WXdZdVE4MWh4Tkg2Unl2X05FWWNZNlk1YU94dzVxS3dyREdfcERRbFR3Qmhzb0NaNnVqQmNFclpQWnJWRGV3R3NoVnF2STZ0SDhzSUhuemZEd3phc3NiQk0yN2ltYkFGaFFHYng2U2lI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2eVpiSmZzVTVxVnhKR1VfVXVtNUkwUDUtbWFMdkg5SVJMdmFVLTQ2SFhkX1p4eXlkc1FWS0kwd2c3NEtYZGR1UjZYaFVJeG5KQ1psZkhLVzYxb1VxRDZFbU1yQ2hSRW1qYjQ5QU56eE8?oc=5).
 
 ## Requirements
 - Python 3.8
