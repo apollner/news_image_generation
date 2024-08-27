@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia strikes energy infrastructure across Ukraine, forcing power outages**
+**American dies in ice cave collapse during Iceland glacier tour**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQa2xXTUt3RFFoY09uUzNaWXBuelJ6d24xWENVU2NheW1MS0M5U3hyTmNNanQxLVZ5Wi1iOXZtWmxiWUFaS05lR2IzZ3U2dHktYnEwdjJZdlFGbkZJeU83NHhyMG42N1FuSUg4cl8wVGdKeXB4dUczdl9ldmpBM1ZLb0QyTjhMbWRFekE1eDhfQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSVVlT1ZNN2ZhZjQ0ZEpFUTRodGVyVDZkMExpUzlrbW43SEFwWFVtd3N1UW9mRU5xRml5ZW1TTGVBT1czTHp1bUpkS3NHZzBWZERZY0ZGcFNUU2hnQkswTkRuQlNLejZsekRWdElPUklvLUJfYlQ4X0NJNnZFQlFZQ2VtSEdQZk9Hd1F4Vg?oc=5).
 
 ## Requirements
 - Python 3.8
