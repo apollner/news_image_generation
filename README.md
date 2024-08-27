@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel and Hezbollah exchange heavy fire in major escalation**
+**Asia shares edge up and dollar down; oil gains**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZdkhFZ0U0NWxieHdraS1BQUw1Z0l4N2VORmNQWE1TS2pLTjl1eGQ5bXh5NnlvdVVqb1dWeU9vN0FvLUJWdjdnR3pJdUJZSVRMNTQ4UXNMeXpQQdIBX0FVX3lxTE9CNFEwU3pjMTdTRUl3NVpWMktoRjlCTTlRdDVEN3hMcTVJY1Q4VDEtSDI1OU5YcVI5TkphcFJBZmptOC1YdjIybWMxM1hQbGpHQ0Mwenh4XzRYR1ZkM0kw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE1qbW5nM2Q5ejhmc3FsQzdod1pteEZfdzNTZnRsMDJ0X3I3YU1aNW9JdjRNUzkwZlAzdVBJb2FDS0hrU3ZkaDhSRFVrVmltenZjczlyUlk2WTBJM296Z29UOGlVeTQwRTNYVUpTRnVKcEdIUDRxa3c?oc=5).
 
 ## Requirements
 - Python 3.8
