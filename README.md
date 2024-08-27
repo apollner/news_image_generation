@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dismantling the Ship That Drilled for the Ocean’s Deepest Secrets**
+**FTC trial over Kroger-Albertsons merger kicks off, a heat wave comes to the Midwest and the U.S. Open begins**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQam9FWldudTBPQnBZSU9Hb25CT1VNMGNkQ1U4WjFkSVlKMlEwclRNM1BFNmtCNmlhby14dTc4RFgtd2x6LWlSRHotUVN4LXdaY3ZORHFjOXROSzZyTXZCYUxLaEFUQkNZeEhqcUowbTZVN3MzSjVGNVBmQUdXVmdiVFhQNVJqM2x2dHJDRmNVTnk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcnlkaFRwN1NfcEpPQnA2LTdlakY3cDNwTlNfYnR6VXhSMUwxVHdPRktrelRoTnJBYVhaY3Q1QlUzSElOWjlndFFxZUpGRUxQS2RwOWs1OTYxbDVDQ0thLVpPQnVyMmEzUkJ0alZmZExvSW9QSGhXUFZxRmt2dEtSb0Z4VmZDMnR6djlOcU5fTmZmVlp6R2NIYmVkQ2Qyb05haWxkcUx3V1RJS3RPYXFEbjRRRl9WSGEwWklrandHXzNYNWZUWjEwakV4REFVOS1tRTUzWWx1dDNCYTdkTzFKSQ?oc=5).
 
 ## Requirements
 - Python 3.8
