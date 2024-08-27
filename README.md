@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy Family Comes Out Swinging Against ‘Obscene’ RFK Jr.**
+**NASA Astronaut Shares Pic Of Moon Over The Pacific: "Mind-Boggling"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGhCTWlUbWZZdHpaalY4dmsxNk1aUXhsU09EQnRYWjVGU0ZsVjZpMkNQQ1BQMFZ6UDFCVG51ei1nVjh6QlV2R19kdENiWUg5TmNsNVZsVmIwR0JmWVRzbVBhcjdwYlF5UU5GT2VWOFlfTi00eTVfallkUm9jQnJvdjlpYTlYUHlWV2xTejdOcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnAwUndyX1kyNEdjMW44dGJtTjc0ZDQwUnh6VG9RRU1EUlJBcXdHVGlJREQ3ZmRZSzZCakRubHBrWlQ4TlZnNWhWeFZjWGhFd1I1cUp4ak50S3dQdnlmeFpOQU1Rd1VUN0E2WWtOTjNBblZMdjhIZjcydTVJSU05czFmYXNNSXg5QXNzRGJSQURrUWxfUjJ1Z21UMGhKaVdabmdR0gGrAUFVX3lxTFBXYmNSQWxqenVVbjBoRVNza1RiZGZkY2hPaF9OMGFya2ZvOWFJYWw0N3hrQnZNa0hyR0g3N2FidExlWVZCRFp4YTNQcXZRR1Yzd094VmVlLUc1TWhaU0tYTld3dmVpeTBfOWw2M3RUWWdnZ3RlUnFQaFU3LXowUHBnVVpwQlplUDhvLWllQUYyQjJhSUxmRmxmUGNiaE50bDFWaEt6ZVR0VUEzYw?oc=5).
 
 ## Requirements
 - Python 3.8
