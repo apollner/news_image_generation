@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerod Mayo on Patriots QB competition: ‘Drake has outplayed Jacoby’**
+**SpaceX 'go' to launch private Polaris Dawn spacewalk mission on farthest human spaceflight since Apollo**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGRPMTV2VXd4X1Eyc2NoOThtMUFtLTJLT1JKTTFaYjJIaE1SNURIZXdSdGJrOFNGcWNYelBvdXVHRmVIM3NiZ1VvZDZkUl9SNzNzOWNSR09YbWpPdGFJb3VDdV9HNUhFak9lN0s1a2ZMbVVxbmo1OFBiSWF5Y0h6MUpyNjVuZmpnRXZtRk5rN1F1VzZFYThpOUw0TVA4S3BubUdsOTRCdW0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZFdQaGNvM2hjNjlVbXhxTHZLUnk3ZWdib29CaFZTeUljM1lKcXhBZmQ5Ykx5TllGTnczUGtxTmVjV3BUZkJhT1pqNmlPUDFHem9HOW1yYnppNldpNDlDbm9BTHR3OHYzeUxaUjFWTDJHd1VGUUpQMjdHREJ2NGZfaVYybVg5akR5TEdNUm51elNkbU9ZQUE?oc=5).
 
 ## Requirements
 - Python 3.8
