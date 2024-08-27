@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Body of Grand Canyon Hiker Is Found After Flash Floods**
+**Dismantling the Ship That Drilled for the Ocean’s Deepest Secrets**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWENpMW1DcTkxa3ZSTU1JdGwxNjdrcmVnVUc4UXhtdFpJSzVJSnZQZlhYUENHb2kwck9oaTFVeFExdGdfLVpycDU1aE5XTERqMk1PcV9FNkxocDZwRjkxamNrQjRVMVdpU296TkE0LTlMaU0yUk9iZTNWbnYzc2ZLcTU2TG0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQam9FWldudTBPQnBZSU9Hb25CT1VNMGNkQ1U4WjFkSVlKMlEwclRNM1BFNmtCNmlhby14dTc4RFgtd2x6LWlSRHotUVN4LXdaY3ZORHFjOXROSzZyTXZCYUxLaEFUQkNZeEhqcUowbTZVN3MzSjVGNVBmQUdXVmdiVFhQNVJqM2x2dHJDRmNVTnk?oc=5).
 
 ## Requirements
 - Python 3.8
