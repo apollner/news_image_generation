@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Emilia Perez’ Teaser: Attorney Zoe Saldaña Dances Into Business With Trans Cartel Boss In Jacques Audiard’s Netflix Cannes Prize-Winner**
+**Telegram Becomes Free Speech Flashpoint After Founder’s Arrest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidkFVX3lxTE5MOXJHSkxWT2ZXd19hMG5QV2tlcE83Znl3YnVVb2t2VVNBcTJaOHFGVEduNVEyRldPUVN6WmF6RnlkWGZadlg4eWZBLUxHT1hjRW50Mm9Kcjg3YmwteUc0YmRvYmxEN0dCdDlyYmtPMUpsTkk2QlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbURxYXdWdEtLTkZKLWhRWjl3Sl9Lc2tmcXlQYWFEaE15bG4waTdPeDkwSENKRkI0bVR3NFNoSk9JdjhKbnlJcUVTQzZ1YmNrcDdZbU9FUzdmb3YtdzN2UGFUdlBFWWY5VHBHRVVUMlcxRGZVdmpmcG9JYWE0YTlJUVlBalVQeWo3TnVIR3RjS3I?oc=5).
 
 ## Requirements
 - Python 3.8
