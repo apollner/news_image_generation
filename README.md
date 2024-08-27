@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How will Nasa return two US astronauts stranded in space?**
+**Russia launches 'nightmare' deadly drone and missile strikes across Ukraine, Kyiv says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFB2eVpiSmZzVTVxVnhKR1VfVXVtNUkwUDUtbWFMdkg5SVJMdmFVLTQ2SFhkX1p4eXlkc1FWS0kwd2c3NEtYZGR1UjZYaFVJeG5KQ1psZkhLVzYxb1VxRDZFbU1yQ2hSRW1qYjQ5QU56eE8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3gtZXlYYVZ1UklaYWQ1b2Q2MUpHdXB4VFI0LXdoMnhPaFliOXhFdktmQ3ZxNGZHMGZlYTJBS21DN2NWbE9wQUhaR1NiVmNERWl5X0ctRHJqU3UzRXRkWklvcGl6LVZteTcwSDZtYjJQM3JRNlFXWTVDZndHeTNlQUh1Z2hfZThzaEF5TC1FUkl4NnlOaTBmbVpQRnZmU28yZUFoMnZ2VE1GNmpUTmR3Rmx2RnlKNk12SzhR0gHAAUFVX3lxTFBRQUtuZWd6ZGlEbUpYZndPS3JsaVlGN0JMTVdoT25GaVJGWG5VTHJNaTJOdmplSTJjZk1pTFZhN2NxVHdMMzA0MGk2bVFRSC1PdVBfaXZKWElSOFF5Ml9wQkRqUGRwUzZsSHdqTk54ejhqRG1vcGl5c3pWQ0RaaUJRcDJmUUtfa2xVMUpZc1RUY0Q3cEFVSmZMUmRqcHJpbXc2RVZYS21VdXAybFgxNkRFLU1GSTRxUVNlZm1uT1NCLQ?oc=5).
 
 ## Requirements
 - Python 3.8
