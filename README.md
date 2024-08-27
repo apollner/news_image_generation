@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska landslide kills 1 person and injures 3 in Ketchikan, authorities say**
+**Jerod Mayo on Patriots QB competition: ‘Drake has outplayed Jacoby’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPazFLSERSVjFQSXZXUUpCQlM4dWlBSlZ6cVEzVV9DV2RwMXpYWklZTm9MM3dXV0pfN3phbklHNEs3TEsydDg4MmNwWmRMbXpoaDZhSE1DdTM2bjd1N2t4bnFhNlJUS1c0TWM2aHczQ1JFcncyVmVDZkFXZm0xRmVNcGNfVVkzbEIzYl9GMW5rTkNzYkh5dDBEaTluZlhIdm8y0gGmAUFVX3lxTE5iN0ZYczRyUUh2TzZNeVR2Y19LY1BJcmZocVFZR0QzLVdmeWlTRjFMd0JBYlhDTkFnZUVWSmlWaG1wYjFkdHNocnZYd20tbWo1c0NmTFE3U254c2NVLU5KaVRRUmplN3RzVWNESTh1Sll4elA0UEJwWEwxalE2YzZZcUNXYnhUSGdFR01EVGljaVV5NHFFUWtIR3FRYUhWMjA4VFlrVFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGRPMTV2VXd4X1Eyc2NoOThtMUFtLTJLT1JKTTFaYjJIaE1SNURIZXdSdGJrOFNGcWNYelBvdXVHRmVIM3NiZ1VvZDZkUl9SNzNzOWNSR09YbWpPdGFJb3VDdV9HNUhFak9lN0s1a2ZMbVVxbmo1OFBiSWF5Y0h6MUpyNjVuZmpnRXZtRk5rN1F1VzZFYThpOUw0TVA4S3BubUdsOTRCdW0?oc=5).
 
 ## Requirements
 - Python 3.8
