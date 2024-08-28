@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Bodies Found in Rice University Dorm Room in Possible Murder-Suicide**
+**Google Pixel 9 Pro Fold retail unit gets unboxed, compared to the original Pixel Fold**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnBVU05qUUhRM1gtcGFpSVg5WWpSRGtpMjRiZW5kZ0U1b3F6X1RlWnQwREI5OXhqNVByQWdQM0lDeUFrSGcxYWduV2hBbFp6WWdSOVBneGZKcmo2dzR6SlVwc3VfV2FENmlCelAyamZEb1lKaHRscko2ZG5BbUIzZ0NR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNWlXSGVKLWF2NVpxMkFQbklXT24zR0FEREhZd0gtNjdXaXp3bWozMXRaa2Jpd3dSdHpURTYydU5BbnpKSnEwTTBsTE1XYy1kX1ZHZ3FIX0hyOU9xa2hiNUU4TU1RSkM3LVJsTlRMWGFoS29Ua0R0Z2ZxNzBMTVl1THhUa3hzTVFLVnNmUE5ibkxxeDV4QjFIZVJScXlwM0kxQjEzeXVHQ2RvVXl0Vy1rblRCOEEyS2U5UmlEQTBValY2dw?oc=5).
 
 ## Requirements
 - Python 3.8
