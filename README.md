@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alison Carey, Mariah’s sister, dies in Coxsackie at 63**
+**Fantasy football 2024 rankings, draft prep: QB, RB, WR, TE picks, cheat sheets, ADP, tiers, from NFL model**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPbXpzQUpqMzZ3cFlDeXpXZ1AydFk1NkY2N1hsZXFlbkVScThOSWNfdlIwX05QZEgza0lvQ056Zlg5cnYtLU9uV2dxTkZBN3dMR1c0TDlrUzY1THBtNjRwYzgxSjNCd1h3WTh4b3RZNWVJUkZldng1RExfbWdSeXRpUEJ6TkZPcmZWZm12RHhkeHB6SXNCTFRPZDJKb1g4Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYkhsNnNzNzJHQl9vNE1IQ2xsZnhRUTdWYXY0OEVnMl9PX2JsTVNLVkgyZjNveVBpSTNKM05saXg5cDF0UmtUeC10WUVtTk1OcW9DZlZZdDJfMWRLamdybGJUYzhaZXFLaV82WFhsQURJNXBwWlFMV0JHS1ZQUHUtMDQ0RkxFVTh5blFxQnlIcjVnVjZ0YVgyRFJicWZaZk1CTHhNdFNjZDMwWG8tSldqLUJVNjQtcWE2Q1BwNWxQMjZwbGFPSW54ZWRURDRvMGJNZzQ4eHAxSmYzS2g2bHI40gHkAUFVX3lxTE9hME1VRHRDZTZwVXQ3V1YwSEhYTjQ2UHdNNzNoVW1mdm9zNlRPWDVSYVJxZmFYeTdLU1JiR3VsNUJKa2xEcVh3QWhNcjdRMlBNaDZsY0xLenVVM0pCMWlmUldlNVNWMlI2cEhBZDRXQUhKQV9JWmlIVVotS19PQUxEcTdSZzM5Z182WFVyNERTdTJaLXhsUzlNV2tKREFjbDhEcF9YcWRQWmdWOW5Ddlg3Tk4xSEwwcFowc1o3SFpTZUlXOEp1ZzVNbHNKTUgwY0NlXzFLNGRhVG5hNnk4UWFkbFhlSw?oc=5).
 
 ## Requirements
 - Python 3.8
