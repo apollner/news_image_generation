@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Michigan, Activists Take Over and Shut Down Student Government**
+**August 2024 Nintendo Switch Game Updates – Nintendo Direct: Partner Showcase 8.27.2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUGpOemljVnN5NTJQam9qa3VDblhEUUh4TXoyZWIzX0ZKalkteWIzVWFRMEVGNU9rbnpDMThla04yMml1cEtxeDg1eW1wdkl1ZFNUVUdWbEIwcXdRMzhSR0pyZWV3OVVmYU9FM3JSMlM3Q0tMZ3Q4YlhMVTRDN092NFBIZHNWSzJh?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiCzNRaXFtelZTcVJjmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
