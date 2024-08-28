@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DNC Executive Producer: Even My Staff Believed Beyoncé Was Coming**
+**Oasis reunion latest: Liam and Noel Gallagher tease comeback with announcement hours away**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTUxV2QzTVUzUklwSWZ0Y2tzRWdJTGtHbHc0Wi1BMnNmZmRSNXpnc053cXlGS3VWOFRVWWlCcVBIazlLMzMzeVhOZ01DV1ZXZXFpM2VRRDNyZG5mMDYxcF9OMVpVRjNFMHpKZWVwZlFxZy05Nzd4OVhDQTJzbEthNm0wWG1FdWhMdlVhN3l6RjRPWGI3bHVHQ2g3b0VQY1VSRHlzQXlvWGphRFVyeVJGbnZoZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVFBXSnVibEZOdnZoZWVsamp4VTVIU2pyYVVHRjc2Nk5ybmhGbXhLSTZyQlhlRmxKbGdjWjdwVGZOdDJlaUhFS1FHSDhxQWdZS3JuTk5KcTlQcFhqaFhGOFRUUWQ0VVoyM3JNQm1Vd1JzWE5SVFdRdFF1bHhmY2wzTUtlUi16VGVzQ1daWkpjZnRLS1VYSzk0WF9QS0VPcDk0R2VGVXRjTktveEJDeGdjZDF0ZkdqcGVKWnhGdndoVDczVnpOd2Uyei1kNEZjUQ?oc=5).
 
 ## Requirements
 - Python 3.8
