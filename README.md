@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Direct Partner Showcase & Indie World Announced For Today, 27th August 2024**
+**Mosquito spraying this week in 13 communities at risk of dangerous virus**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHFYVGhYRU9URnBMcm4tRzBPeWFsRnk3QWFmMGZLOWZvdkVsc1pQb2NySEhSY2xCMTZmWUljZjVaVzZqajFWNEVXWE1NTkVDcXJnc05hbFhSVUxTOFpsOVBEWHh5eXVnRF9Zei1IMGpYWnlwYnNyVWZyTzc4SjRvcjl5cGl0cElSX2ZORTc2T1o5RERTem1YRzFXcnVXU2pBYlpuZzZhMEh1aE5KR3lmbUIzWGdKa2d5R1N2NVB0VkJ0ZHU2TGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0gycXByZUZzVWJwU0RFM0JmcXAyWXJkUTFSTU12VWhBNEN1Tk9RdHFlcmh1SWcxYlQ2a05OV2dnNWJnR0tLa1BwSkhvSHV6MmwzcHlmTkVhUk5NdC1TYXJSelg5UV9wa01CWVZ2REJpRUNwQmRGVl9uNXN5dFl0Zjc1UGZ4TlRhQUloU25QaEJ2UVZhN2FrbGswUQ?oc=5).
 
 ## Requirements
 - Python 3.8
