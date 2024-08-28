@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oasis Reunion: Liam and Noel Gallagher Announce First Concerts in Over 15 Years**
+**The biggest supermarket merger in U.S. history is in the hands of a federal judge**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0pBWVRxN1RkZ0Jyem1LT3p6NXVjaVZSbGFxM1E0cmRBNE9IU1pyM0xlNUdILXZ2VWtGOWNzU2hJbm1DVWg5UVNFZlo3U1daTHBxSUNjbkNCUlJDN1RiLU5FZnZENXlGM1dNT1hVUlB5Wng4bWV1WGptOEs5NXVGZ2hVSTBxU1BwY3UtbUpjVkloNXZL0gGaAUFVX3lxTFBsbl9XNUo3Z1pmRy1SM2xJUWJMWG5QaUtoMXlQajkyRzRvam02NlRBMGpVemZFa1VBdEJJR19HelJhVkgwakwtS3VHa00zWU9nN29ib2Vmc2tmT0VnLU1yb2dZSnJxX2pITlh5Z0dOV1FRd1cybHhzYlN2YVlPbmpBUVUzanBkbmlXVlFRUUpfMzNKMFdPSUUtakE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjZMX29sZnZBcVZNcE9UT1BtY2h4TXNoU0Nlbnd5TFo2OEsxU2Q4dWducGJMX0ZxWTBwaWVtN2JJbzNhLXF2NzdlTF9CUGV1UzBUckM1OG5NNUprb0VnTnZqaXZnWk8yek9oTDNBRHhGbjhsaWpPdlU4Y1ExU0RXb1huM2FyM2d4ZmRGcVRjVHFDM3dZbGl1QnVJajZ3UmRIbWdmeml2d0JqRGFVbm9HdWZaeUZZajcxWHFidU0zVVNHQnc?oc=5).
 
 ## Requirements
 - Python 3.8
