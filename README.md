@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oasis reunion latest: Liam and Noel Gallagher tease comeback with announcement hours away**
+**Alison Carey, Mariah’s sister, dies in Coxsackie at 63**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOVFBXSnVibEZOdnZoZWVsamp4VTVIU2pyYVVHRjc2Nk5ybmhGbXhLSTZyQlhlRmxKbGdjWjdwVGZOdDJlaUhFS1FHSDhxQWdZS3JuTk5KcTlQcFhqaFhGOFRUUWQ0VVoyM3JNQm1Vd1JzWE5SVFdRdFF1bHhmY2wzTUtlUi16VGVzQ1daWkpjZnRLS1VYSzk0WF9QS0VPcDk0R2VGVXRjTktveEJDeGdjZDF0ZkdqcGVKWnhGdndoVDczVnpOd2Uyei1kNEZjUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPbXpzQUpqMzZ3cFlDeXpXZ1AydFk1NkY2N1hsZXFlbkVScThOSWNfdlIwX05QZEgza0lvQ056Zlg5cnYtLU9uV2dxTkZBN3dMR1c0TDlrUzY1THBtNjRwYzgxSjNCd1h3WTh4b3RZNWVJUkZldng1RExfbWdSeXRpUEJ6TkZPcmZWZm12RHhkeHB6SXNCTFRPZDJKb1g4Zw?oc=5).
 
 ## Requirements
 - Python 3.8
