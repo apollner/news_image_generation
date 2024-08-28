@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The biggest supermarket merger in U.S. history is in the hands of a federal judge**
+**Caitlin Clark makes more WNBA history in front of a record crowd as Indiana Fever down Atlanta Dream**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjZMX29sZnZBcVZNcE9UT1BtY2h4TXNoU0Nlbnd5TFo2OEsxU2Q4dWducGJMX0ZxWTBwaWVtN2JJbzNhLXF2NzdlTF9CUGV1UzBUckM1OG5NNUprb0VnTnZqaXZnWk8yek9oTDNBRHhGbjhsaWpPdlU4Y1ExU0RXb1huM2FyM2d4ZmRGcVRjVHFDM3dZbGl1QnVJajZ3UmRIbWdmeml2d0JqRGFVbm9HdWZaeUZZajcxWHFidU0zVVNHQnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcDdralVqaDhSaVdSVzhZNkFnRDNBVDB3dWNwTlUzeEVDekxzQlQ4M2gxaEFHdnpwZGJuLXpvV1RSZ1k3WXJDdWREN2dER19LbFpBdTk2LTRIVXdSWmtiR3FQaGFrS2Ntc3lhWU9RQnBXMlBCV2ZrU1JsZU1tcjVfUUlHXzdZWHFBUEh2WkI2ZmxmYWFNWnl1dGZZYU3SAZMBQVVfeXFMT1VCS1h6bUY3UTlXUkJ0S0lEZ0ZzUVJzNy1aNmpxYlJxcGxtOUo1NkJYUEkwaUFBeEQ0UWRQQjZyRERfT2lxb2hpaDJjT0NkV1o5eDNMNUw3ZWtLa0dTXzBzTnNDTkFza3RvNURfWU9JUHZTenJBUmVKcHZFUXk3eTU2MWlsR3RkUjhQRGFza1FzUkk4?oc=5).
 
 ## Requirements
 - Python 3.8
