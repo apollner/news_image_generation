@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Home prices hit record high in June: ‘Most unaffordable housing market in history’**
+**Judge Pauses Biden Administration Program That Aids Undocumented Spouses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3VYM2RRU3hMZUlPeUVISkNRUVJlN0lkSE8zU2RoQ0l0d1prVnE4cWdkN2JORzcxYTJHd1UyVnZSMDZBak5IM1pfUDFrUjVJdjJBel9QaWVqY0Z2Zi1PYW1mTlBHWGVkdTRLb0s5VzQydTc0LTd3STFyNTJBeTFDSXdKU1RIUHpsSm9USzExY2dsc0U1TmdxUUpSY3pseGRNUFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlhmSFdGclp5dDlXTmIzeHZEbVVZNzllcDh0VnJTOGk2b2FtNjlJT216Y2Rval9fQVhmUk5EcXZUMkJNSU96YjBoWVh0X3hlMXM5cE1GMFZzcm4tQm02LVhiZmg2d1lfdzlubW5Wd0hVT3ZON0FOMnlyLWw5S1A0UGFJVmx3ZDV2SWVEaQ?oc=5).
 
 ## Requirements
 - Python 3.8
