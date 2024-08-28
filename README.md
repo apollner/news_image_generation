@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peloton's former billionaire CEO says he 'lost all my money' when he left exercise company**
+**HMD’s Barbie flip phone goes extremely hard**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVk9mU3NFSnNlTFN6UldlaEJBQ2tqMHBoTWcxRjEtYUNBSXBZRm1ZbTJEWFdRZWdiNjc3ckZaRGd4WjBGOEdBLWM1RlpRei1DV1ZTOGxDVkk4NHpCdFJMWUsyQm9Rb1I3RmVTa2M2dWo1akV6UmNadVk5dVNCaVZUQlhNZzVXOU1XV2hoc3JHb1gyM0E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE1xVUpUQVEzbjhpY0ZlTXpGWC1Ec0J0RzdvTHZFOVRHQThNZXdaUVB6VnVyQmZFLW1MQTZhVnllcWJqc3pkWjVDdnZ4anB6cTVTcTVmYVhxZVdidVZiZDdEaXVpaDMxaWVSTXF6NkNGb3FycVRkTEJiblF3TQ?oc=5).
 
 ## Requirements
 - Python 3.8
