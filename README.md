@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**August 2024 Nintendo Switch Game Updates – Nintendo Direct: Partner Showcase 8.27.2024**
+**Cruz urges Trump to agree to ‘whatever stupid rules’ Harris campaign wants for debate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiCzNRaXFtelZTcVJjmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYW53cENrRUZzMWlheDFXbEtGUWZRUDE4T1RPSjRoUVFGZEcwa3c5Yjc3ZlhFLTdVdE14OThLQTk5ZW1wcVQ2N0Jzc2lDeXNUc2gwdWR0dk15aXZUaERvRzJPdk82VldXdllkRmcyX1JQd0FXTmhQLUtGcy1LTGg2WklFdzdRbG1DajlUekIxY3ItWE1QbXlRbHUwenM?oc=5).
 
 ## Requirements
 - Python 3.8
