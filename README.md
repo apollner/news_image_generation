@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Welcome to the AI-bloatware era, courtesy of the Google Pixel 9**
+**Home prices hit record high in June: ‘Most unaffordable housing market in history’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNSS13NmRJOGI2Y01DVks0Y3NYQ2pxLWxNemRrN1FLYldRVmI5U1dFX01nYXlXbnNVUXBuVjRmbjJRejNvUXhhWWtnZ0VKMGxmaTBPRGhRMHA4MEZjT08wcjhsOGJ0bm11M210TDE1Z1N4bmx6cjJoaEFiMnFxVVZFQ3VSRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3VYM2RRU3hMZUlPeUVISkNRUVJlN0lkSE8zU2RoQ0l0d1prVnE4cWdkN2JORzcxYTJHd1UyVnZSMDZBak5IM1pfUDFrUjVJdjJBel9QaWVqY0Z2Zi1PYW1mTlBHWGVkdTRLb0s5VzQydTc0LTd3STFyNTJBeTFDSXdKU1RIUHpsSm9USzExY2dsc0U1TmdxUUpSY3pseGRNUFE?oc=5).
 
 ## Requirements
 - Python 3.8
