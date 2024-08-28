@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris’s Tax Increases and Cuts Take Shape**
+**Nvidia has become world's 'most important stock,' adding pressure to upcoming earnings report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjZlMFNBNkVGVnhuUEQ5VTJNbjh6RzNHdkE4aFU2YU9BdmROaHJxR05oWno1a3Q3YzZXSk1LcWRYWDMwaU53TE1FT0hEd2RVYVV3YTRFNXhEQ3hUWXFtSzRJQnVnYkktOXJTYUpaVWVJX216T1AtS3JydkxmOXI1M3NTa2htZV9I?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxObkxYeWVGQnA5TktRazRfVDQxdFpVTXRTeWFVX0xwUzE1aFdlUDJiY0cydnUwN2pIM0p3Ri1uaEYtMHFkdHdHR1kwTHZneVlhRkJER2NjQkRWN1BzRXpzSjVmai1Cb1k3Q0hYenowS1hzSzFuTEswdFRXZ3hwU1ZSbFRDb0VGd2pJUEIwdDlOalQ3TnlJNllvNUI3YXN6cnVMWDQtQzBB0gGrAUFVX3lxTE9pUFJhM1I5QUtIOTJYYWxfWjY3bkkteUxwTGE2Zkd1dVUyOWRtMjhYal9EYTJFeDAtckNwZWhSbklCWk54bEJybnBuZUNpQUlOZXlDMnNRMi1JNGJaTm5fTFFDa00xZEVJdDV4TjZFVFNHMmtIR1BLdWJVRXh0Y21KX3ZBWU1TUXJ3Sk9ZYXd4NnRLMFFIRUNITVhRamtLZU42RFlLOTM3Wi1fbw?oc=5).
 
 ## Requirements
 - Python 3.8
