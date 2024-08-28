@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge Pauses Biden Administration Program That Aids Undocumented Spouses**
+**A hostage in Gaza is rescued by Israel after 326 days of captivity**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlhmSFdGclp5dDlXTmIzeHZEbVVZNzllcDh0VnJTOGk2b2FtNjlJT216Y2Rval9fQVhmUk5EcXZUMkJNSU96YjBoWVh0X3hlMXM5cE1GMFZzcm4tQm02LVhiZmg2d1lfdzlubW5Wd0hVT3ZON0FOMnlyLWw5S1A0UGFJVmx3ZDV2SWVEaQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3dwcUZCRDFLanBTc1VaeXMxRlc2ai1LV2J2cjFwLUVCckZEbkxjUTNOQ0UyNnItd3dLNE43NzNFTTRLeVRFSVNzNUMybC0zUE1VanJ0M0h2MFhwRG5PV2JWLW9kM2toRWNYdm9WT2k3ZXZLOWY1QXdMbmRWanhIZ2lIbVRUR1p0ZUIwemJ1SnBWMmV1ZDlyUElzRGxwejA4em8yZVljcHA?oc=5).
 
 ## Requirements
 - Python 3.8
