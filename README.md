@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN says Gaza aid operation temporarily halted due to evacuations**
+**Cowboys will be "smart" with CeeDee Lamb in his return**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RMkZ2Rk9UUU9qdDZycXFNUlYxclJKZV9od0hwNWZ0d0wxRlhPUkRyaUxFVnVtUVZielRlT1BsVXVVem5YLVh3YWI1MmV0aUItQjRZWGJDOTB3QdIBX0FVX3lxTE5tZEpoVlVkdXlSdHlQSWVqMUV5VmpMdGpXakxMYjN6bmVtT3BEc3RNekVIQ3JtSFRUWnNRQVZGeDZvNG1JRjZUUVp3Z3hLYjFXUFQxSmx2OGMycnBXaEdF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2IxYllJRU1XVUtLRUJGUldtSGZRWk9ocmw1MlFMdEN5NUNNZTNQVW5kSW9ieHZRQ0pmYy1DNHVDQkRrcTYzdlZTT0t4TnQ4enVrdmMyMFE1VFI5RUE5TDR1SE5uNXVxTnNoeER0d2lYZVJoam5KZVhPckpTUzdBdXFDUE5rZ04yVHJlUzVmYlJrUk1lX1NQRXh1NHRNTkMtLUtUc09IdUxWTWpaZ2JjRTVyVW0?oc=5).
 
 ## Requirements
 - Python 3.8
