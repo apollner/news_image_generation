@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge halts Biden program offering legal status to undocumented spouses**
+**Top US general says risk of broader war ‘somewhat’ abated after Israel-Hezbollah clash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbV9mTlNRZDd2N1g0blJGdmdySWZIMzNwc3d0a2ExX0c1ZEdCR2l6TFVoRVBldC1naWpraGlIREVWWjlvTVZVY2M4Z3RYNnluWUdWNFpUWUpCbzlwdjlXS2FtaEl2MEU3dmVuRFpnM05DZFoyR25vV2kzLTA2V251VENLa3A4WVdRbV9MNHQtLWg0WGFHUGtOc1JpalpDbTBBNFAwODV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEtidXhXTmtlaVZmMkJBMi11ZmZPbUZhaG1SeFhLQnkxOGJBRE5TZHYzS0JnOVJ3WTRJVlB6aTFTVFMySFNIZmRnVF9MaGs5ZXVfaHVuWHJxaGY2bHFlN2hOU0VSclRkMXVnOEVIcWFyWHNoTGpXWE9sOHJ6d3Z1XzhUMDJZeWVVTi1vRVB2Z1FQbkFJWWN4RGJqU0xLcjlFWjdKM0lCWUFyVjdyaDktckFzdWJDZ9IBuwFBVV95cUxORU5nLTFPb2o3WlBMUF9YRDZKTi0tYzBRM09rcVZ0TTBhWXgwaHc0RF9HS0pici1RUGF6bmxzUDVfWmVhTjZ0MnkyVEtlYWNORnFaN19qNEFYeGM2aVprbVVYQVNyMW9fckwyUHZkdmFOU0VWT29Bd0ZxZFM5OUh2VFRRVTJRWFAtUlNnMEZ5RW0tcURvQkxjeXo5M3VWMktGZTItbE9BRS02NkUxTXpSaVFESFZ2bnJoc0Nr?oc=5).
 
 ## Requirements
 - Python 3.8
