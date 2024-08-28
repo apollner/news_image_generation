@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Lynch yacht latest: Captain of Bayesian ‘under investigation’ for manslaughter and shipwreck**
+**Rice University student killed in apparent murder-suicide, police say, prompting campus-wide lockdown on first day of class**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1JtQ214a1JrVldvaEp6N1ZVMkZLaHJnaGU4cjZtMlFXUGtsVkZ4Vy05ZHJzd1IxX3NwNTUzRDFRSlBCa2hxeG1rV0w0QlNsdmpnMGg1T3pfR0FTNVFvTDdzdlFSMlF2SWF0WW1ENm5zbHlQWnNJRll3a0pEWWNKWDd6UkcxVEtaZGd4VUo4cDRNb25hS0xpZ1p1NmlHeVhtU3JjTEJTMTdTUkROTWlNZGNNVnhXLW93?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1EwcjZ3NGdiMU9sZnlacksxWW1fVTFPdFAxeHJxX3lpZEh0Y3pGSEN0eEpwUWRCWFJmakx3UkxVbEFtTmV6bjNIOTVzd3hxZWozX0lGOFhIV1U4WUQwbkdTTENrc05rYWFZUXhINDBYLWhMYXhrR0N3S2syTDZVbEpHTzQ3SHZfVTdQc0VSb2h6a3ZjQ1HSAYwBQVVfeXFMTlRnd2hkZWtaS05qZ1ZIT0I2V25ZZEVoZlpvUER6blhPRUN0LWVXVXROWS12aUd1akxDOTNGR1BmTGIwcWVBcDRELUt6b2o4YV96Q1RKQ25FWEVXbU1WWHo3U0RaWDR1ZzA1amhzYU82YlJFcWZDTVFlM080SFBPTlJZM2tCamVSanJ4WjM?oc=5).
 
 ## Requirements
 - Python 3.8
