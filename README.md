@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats sue to block new GOP-backed Georgia election certification rules**
+**Judge halts Biden program offering legal status to undocumented spouses**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0JXbjYzeURnQ1RjSVRsNzlKbE1RUWtuc3g2cmE3dENlaW51MW9wSVpXREVYR1pjME9VdzNnZERZaHMwQUs3N0RhbHFlTE5WNXFJb1MtLTdobXoydFdYNnhSMjZWUjlEQ0JQR2dNMVI1OFM5TXpEaWl2bHo5eHo0QmZPb3RKY2pEQkhnZG5nYjZuVFJkQ25TQmxrRlTSAZMBQVVfeXFMT3h5aVJyanB0d3A4U2d2MEdKZmVLSEUxZkJsQWFOMWhnNXhLdkIzNWxLS2xZajU5ejFvTHlPdW9nWC1HQXZXcXBtdjVXWjJ3NERrLUNkbEVOY25wNGFjbWM1YnhoWGlhTWFXRklmZC1zdmxMVWtUUy1PWWNKWldVSnRtTEpIakF4dDY2RnB0RlNtS1hJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNbV9mTlNRZDd2N1g0blJGdmdySWZIMzNwc3d0a2ExX0c1ZEdCR2l6TFVoRVBldC1naWpraGlIREVWWjlvTVZVY2M4Z3RYNnluWUdWNFpUWUpCbzlwdjlXS2FtaEl2MEU3dmVuRFpnM05DZFoyR25vV2kzLTA2V251VENLa3A4WVdRbV9MNHQtLWg0WGFHUGtOc1JpalpDbTBBNFAwODV3?oc=5).
 
 ## Requirements
 - Python 3.8
