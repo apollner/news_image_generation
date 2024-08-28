@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Independent poll shows dead heat in Maryland Senate race**
+**CeeDee Lamb’s Deal With the Cowboys Was Predictable, Plus NFL Cutdown Day Notes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRm0wZlptU2xqZGp6aG40dDdCNVNXclpXdUNKU0MtemYyR1ViS2s2X1hhMENBS1NMdjl3VU1fbkJyaUpteUhJYlB5TmR5MWl2NkRTTm5fWkloR2U4V0l5RE0welE3enppeHpFTGhOMFFyODNtdEU5MnFMMGRuOVo5Z3FremNjNERzdHVxNUVFMm5ZWDFqMEtvRk9aUHo?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQOXdKQTYzR2RfdXFtWW5nbTI4eHN4Z3IzbnJIbUN0el96N0VmT2FIVlNyRTZlNEEtREdqcy1Lb0R3THBoR3NUVVdLV3Nna0s4WUJUSkpRcmMwMzdYaTBWRV84aUp1MXlQQUxfUjAyczhxUV9sbGdmRFJydk5HaEpTVzVCa01uYmJZdmtZYWxTTXFGVVU4eXc?oc=5).
 
 ## Requirements
 - Python 3.8
