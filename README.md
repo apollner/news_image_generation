@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A hostage in Gaza is rescued by Israel after 326 days of captivity**
+**Peloton's former billionaire CEO says he 'lost all my money' when he left exercise company**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3dwcUZCRDFLanBTc1VaeXMxRlc2ai1LV2J2cjFwLUVCckZEbkxjUTNOQ0UyNnItd3dLNE43NzNFTTRLeVRFSVNzNUMybC0zUE1VanJ0M0h2MFhwRG5PV2JWLW9kM2toRWNYdm9WT2k3ZXZLOWY1QXdMbmRWanhIZ2lIbVRUR1p0ZUIwemJ1SnBWMmV1ZDlyUElzRGxwejA4em8yZVljcHA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNVk9mU3NFSnNlTFN6UldlaEJBQ2tqMHBoTWcxRjEtYUNBSXBZRm1ZbTJEWFdRZWdiNjc3ckZaRGd4WjBGOEdBLWM1RlpRei1DV1ZTOGxDVkk4NHpCdFJMWUsyQm9Rb1I3RmVTa2M2dWo1akV6UmNadVk5dVNCaVZUQlhNZzVXOU1XV2hoc3JHb1gyM0E?oc=5).
 
 ## Requirements
 - Python 3.8
