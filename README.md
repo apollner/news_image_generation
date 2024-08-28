@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top US general says risk of broader war ‘somewhat’ abated after Israel-Hezbollah clash**
+**Mitchell, Clark lift Indy to 14th win, most since '16**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEtidXhXTmtlaVZmMkJBMi11ZmZPbUZhaG1SeFhLQnkxOGJBRE5TZHYzS0JnOVJ3WTRJVlB6aTFTVFMySFNIZmRnVF9MaGs5ZXVfaHVuWHJxaGY2bHFlN2hOU0VSclRkMXVnOEVIcWFyWHNoTGpXWE9sOHJ6d3Z1XzhUMDJZeWVVTi1vRVB2Z1FQbkFJWWN4RGJqU0xLcjlFWjdKM0lCWUFyVjdyaDktckFzdWJDZ9IBuwFBVV95cUxORU5nLTFPb2o3WlBMUF9YRDZKTi0tYzBRM09rcVZ0TTBhWXgwaHc0RF9HS0pici1RUGF6bmxzUDVfWmVhTjZ0MnkyVEtlYWNORnFaN19qNEFYeGM2aVprbVVYQVNyMW9fckwyUHZkdmFOU0VWT29Bd0ZxZFM5OUh2VFRRVTJRWFAtUlNnMEZ5RW0tcURvQkxjeXo5M3VWMktGZTItbE9BRS02NkUxTXpSaVFESFZ2bnJoc0Nr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDZpR1d1cjFOaHl2eVBTVHo1d0ZZNVVDSjJQMzVsLVQweW5sWmtQbXJsVUN2RmoyQmdpRmF2cUEwUXo0UzZLeTNkd29WcDcweUdHQ2plSVJOcklXZ2pTQldnV28yQWNUS0RzVWc5cW5KaHlHUWphYnRSVVFBNVlyRFRJaVE0MU9uQTRqVUNOZEF1TnI0QUtwYW04S1U?oc=5).
 
 ## Requirements
 - Python 3.8
