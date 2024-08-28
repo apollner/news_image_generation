@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys will be "smart" with CeeDee Lamb in his return**
+**Captain of sunken Lynch family yacht put under investigation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPb2IxYllJRU1XVUtLRUJGUldtSGZRWk9ocmw1MlFMdEN5NUNNZTNQVW5kSW9ieHZRQ0pmYy1DNHVDQkRrcTYzdlZTT0t4TnQ4enVrdmMyMFE1VFI5RUE5TDR1SE5uNXVxTnNoeER0d2lYZVJoam5KZVhPckpTUzdBdXFDUE5rZ04yVHJlUzVmYlJrUk1lX1NQRXh1NHRNTkMtLUtUc09IdUxWTWpaZ2JjRTVyVW0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEhNOV9mSUR4TFg1QWRIUkN1QlNiWG51VV9DSW94ZG8xVHBFVGx0RnowLXM4RmllV0RiU0lWa2Vhc1hSRGpURGFsVENNZHhmTjRWUkp6ZDgzU1k5ckwyNjdTelNqbXNIS1UxR09UcWs5b01sMV9sNU44YWQ4OUtUNUZLa2RQZVFkbThFY01wRUdvaTYxeVpZWWczOFFqNzEwamZzMnVxdHRKblJWMVZ5NmF5UWpYQ09lTTNYdEY2SlZYQQ?oc=5).
 
 ## Requirements
 - Python 3.8
