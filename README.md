@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL owners gather to consider changes to private equity rules**
+**Kamala Harris’s Tax Increases and Cuts Take Shape**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekZ4V0VRLVdUNENROHFtTHRVWkR3S3hCWmpMcjZ6TmRnX1M5Q3pzbDJLZkNWNHBzNjlDZnF4Z2tDM3JPMk8taWpfVVlBYks3MENobjRDZU5TdmVUVXlYUzJ3dlZKek9NdmVvczk0ckJucWIwZHoyOVdWc0NEa0NnZ1MxckVXTTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSjZlMFNBNkVGVnhuUEQ5VTJNbjh6RzNHdkE4aFU2YU9BdmROaHJxR05oWno1a3Q3YzZXSk1LcWRYWDMwaU53TE1FT0hEd2RVYVV3YTRFNXhEQ3hUWXFtSzRJQnVnYkktOXJTYUpaVWVJX216T1AtS3JydkxmOXI1M3NTa2htZV9I?oc=5).
 
 ## Requirements
 - Python 3.8
