@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With pandemic memories fresh, town’s voluntary curfew to prevent spread of lethal mosquito-borne virus draws ire**
+**Polaris Dawn launch delayed another 24 hours after SpaceX detects helium leak**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxQT3U4ejllX2d0WnJjUWlwU1pNbDFDcGg3Y0xTeXpfU3JsT2IyNUtialVqQ1E0UnNRVDdqN29PcElOWmRZZXkxb0lNSmI2Qk1aOFdhUnR1OVl0TC1WM3dvU0d4RVFhNWFUTG9TZ0c2N3JvTjJXR3BZelpnSWxfMlloSkJlT05MQy01bk9tRWdVbldIb0RuOVVnTFZXejNMa2RZdEkw0gGaAUFVX3lxTFBwYUticWRKOTdGODNzTUI2NHBLNGdlTmVBVVJVN2Q2a1JobjFaTE5Ma3JrRmZERWdSSnpFek9GcnRpdDBDM2pHaWxhMTNuQXZ0Y1hKaUN6V0tYb0t1Y3JUVDM2OXR1OE9JeGZ5aU5mLXhKNmNOT0xEbHFhZE5FcE5odTJuSTk1UmNyTHpBaklOYldtMW9tUFF4cEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNaVZOY1BpeEVsUGxpd3RvZHVfUWc5TjVpdzVhR0ZxcnZXYVZrSE1mbEl6Qm1IX05JSzNWcXZXQTdoU3hWdG51N1lLUlJxN0VLS2dkaXFQX3hnUUFHc19YUVFzNkM4UVpqSDF1WWEzeC1VVUw2RVg0Tms1ZXByUHJoSFZGUDZ5eWx6c2tRMFJuOUlHRGczaDI3eUNpV0hEQ3loaTR4TmtB?oc=5).
 
 ## Requirements
 - Python 3.8
