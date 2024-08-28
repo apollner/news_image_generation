@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Captain of sunken Lynch family yacht put under investigation**
+**Ex-Democrat Tulsi Gabbard endorses Donald Trump in 2024 presidential race**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEhNOV9mSUR4TFg1QWRIUkN1QlNiWG51VV9DSW94ZG8xVHBFVGx0RnowLXM4RmllV0RiU0lWa2Vhc1hSRGpURGFsVENNZHhmTjRWUkp6ZDgzU1k5ckwyNjdTelNqbXNIS1UxR09UcWs5b01sMV9sNU44YWQ4OUtUNUZLa2RQZVFkbThFY01wRUdvaTYxeVpZWWczOFFqNzEwamZzMnVxdHRKblJWMVZ5NmF5UWpYQ09lTTNYdEY2SlZYQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQWGtvMEd0NTZfNnJ5MERmRzd0REI1NG1ZZWd0OGVhNy1OTktwbWxoYW9MRWlNUEhkTzRRellfLVZHUlB4Y0N0T2VpM2tKWndJaVQ3ejFoc2NURkJQU2QzOGVyLWdIUTJxWS11UWZSc3hqbjJTbFNDTXBsT3E0SldJVUViUzlrdXltY3E5WklNY0ZkUHZyUHc?oc=5).
 
 ## Requirements
 - Python 3.8
