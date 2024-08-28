@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Apple iPhone 16 event is officially set for September 9: Apple Watch, AirPods and more**
+**Independent poll shows dead heat in Maryland Senate race**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQjVvLWkzZlZxZkREaTRQNGFacHBjTm5ZSXVPTGJfY1YwdUp1VVdkdi1qckt6ZWpMTEM4UUFKeUVJeHpmOV9BdURpWFBJbmxpMW5WQkJPeUJsME5SSlNpeDh1X2J3MWxGZUZMVmZGd2h3OUxzZU9iQ3Zra1QyWEhhakxvczBnQ0tqd3dsUHdsbzRxVEUxYzIyRlFmdnhyQmtxSTM0cHlUSVoydUsycGlaWUI3ZnVPbEN2MXo4Zk5ZZHdJd3gxMUZrUC1sMDBTdXpqc3BxNWJxWGpDREVUZVN6Sw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNRm0wZlptU2xqZGp6aG40dDdCNVNXclpXdUNKU0MtemYyR1ViS2s2X1hhMENBS1NMdjl3VU1fbkJyaUpteUhJYlB5TmR5MWl2NkRTTm5fWkloR2U4V0l5RE0welE3enppeHpFTGhOMFFyODNtdEU5MnFMMGRuOVo5Z3FremNjNERzdHVxNUVFMm5ZWDFqMEtvRk9aUHo?oc=5).
 
 ## Requirements
 - Python 3.8
