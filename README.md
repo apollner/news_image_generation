@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The biggest supermarket merger in U.S. history is in the hands of a federal judge**
+**NFL owners gather to consider changes to private equity rules**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTjZMX29sZnZBcVZNcE9UT1BtY2h4TXNoU0Nlbnd5TFo2OEsxU2Q4dWducGJMX0ZxWTBwaWVtN2JJbzNhLXF2NzdlTF9CUGV1UzBUckM1OG5NNUprb0VnTnZqaXZnWk8yek9oTDNBRHhGbjhsaWpPdlU4Y1ExU0RXb1huM2FyM2d4ZmRGcVRjVHFDM3dZbGl1QnVJajZ3UmRIbWdmeml2d0JqRGFVbm9HdWZaeUZZajcxWHFidU0zVVNHQnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQekZ4V0VRLVdUNENROHFtTHRVWkR3S3hCWmpMcjZ6TmRnX1M5Q3pzbDJLZkNWNHBzNjlDZnF4Z2tDM3JPMk8taWpfVVlBYks3MENobjRDZU5TdmVUVXlYUzJ3dlZKek9NdmVvczk0ckJucWIwZHoyOVdWc0NEa0NnZ1MxckVXTTQ?oc=5).
 
 ## Requirements
 - Python 3.8
