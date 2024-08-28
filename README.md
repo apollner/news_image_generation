@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mitchell, Clark lift Indy to 14th win, most since '16**
+**Two Bodies Found in Rice University Dorm Room in Possible Murder-Suicide**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDZpR1d1cjFOaHl2eVBTVHo1d0ZZNVVDSjJQMzVsLVQweW5sWmtQbXJsVUN2RmoyQmdpRmF2cUEwUXo0UzZLeTNkd29WcDcweUdHQ2plSVJOcklXZ2pTQldnV28yQWNUS0RzVWc5cW5KaHlHUWphYnRSVVFBNVlyRFRJaVE0MU9uQTRqVUNOZEF1TnI0QUtwYW04S1U?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnBVU05qUUhRM1gtcGFpSVg5WWpSRGtpMjRiZW5kZ0U1b3F6X1RlWnQwREI5OXhqNVByQWdQM0lDeUFrSGcxYWduV2hBbFp6WWdSOVBneGZKcmo2dzR6SlVwc3VfV2FENmlCelAyamZEb1lKaHRscko2ZG5BbUIzZ0NR?oc=5).
 
 ## Requirements
 - Python 3.8
