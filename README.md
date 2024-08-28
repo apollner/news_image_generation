@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Lynch yacht latest: Captain of Bayesian ‘under investigation’ for manslaughter and shipwreck**
+**Oasis Reunion: Liam and Noel Gallagher Announce First Concerts in Over 15 Years**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1JtQ214a1JrVldvaEp6N1ZVMkZLaHJnaGU4cjZtMlFXUGtsVkZ4Vy05ZHJzd1IxX3NwNTUzRDFRSlBCa2hxeG1rV0w0QlNsdmpnMGg1T3pfR0FTNVFvTDdzdlFSMlF2SWF0WW1ENm5zbHlQWnNJRll3a0pEWWNKWDd6UkcxVEtaZGd4VUo4cDRNb25hS0xpZ1p1NmlHeVhtU3JjTEJTMTdTUkROTWlNZGNNVnhXLW93?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0pBWVRxN1RkZ0Jyem1LT3p6NXVjaVZSbGFxM1E0cmRBNE9IU1pyM0xlNUdILXZ2VWtGOWNzU2hJbm1DVWg5UVNFZlo3U1daTHBxSUNjbkNCUlJDN1RiLU5FZnZENXlGM1dNT1hVUlB5Wng4bWV1WGptOEs5NXVGZ2hVSTBxU1BwY3UtbUpjVkloNXZL0gGaAUFVX3lxTFBsbl9XNUo3Z1pmRy1SM2xJUWJMWG5QaUtoMXlQajkyRzRvam02NlRBMGpVemZFa1VBdEJJR19HelJhVkgwakwtS3VHa00zWU9nN29ib2Vmc2tmT0VnLU1yb2dZSnJxX2pITlh5Z0dOV1FRd1cybHhzYlN2YVlPbmpBUVUzanBkbmlXVlFRUUpfMzNKMFdPSUUtakE?oc=5).
 
 ## Requirements
 - Python 3.8
