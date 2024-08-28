@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oasis announce major reunion tour 15 years after warring Gallagher brothers split**
+**Nintendo Direct Partner Showcase & Indie World Announced For Today, 27th August 2024**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnVmVUE4ZzhNelNkdUdqUVRGT0dZWGQwZlQ0MUxmNC1tallwTXVRckx6dHRKeVVjUDFMTjRPdjAzUnZkaHVXeXZid3RTSkFRQ3huVGxUNUVVNERsd0pEVXhjMGdsNVdreklQZWtZZWhEd29ZRi1MMXRMZ1FzeDdFRnVjd2JjamRVdGpiNWdRblFTUVdiRlQtZFdoN1dGbzJNWndFSllzQ2dLQdIBVkFVX3lxTFBKYUN3blpoR0U3cFhHR25KVW0wWkI2cjdoQlBqQUl6MTQxMHFOTVNyMXdOa2ZUcUpWeGdZWW0yN0RTd3MyTjlacWxQYm1NQ0kzdmh2dERR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHFYVGhYRU9URnBMcm4tRzBPeWFsRnk3QWFmMGZLOWZvdkVsc1pQb2NySEhSY2xCMTZmWUljZjVaVzZqajFWNEVXWE1NTkVDcXJnc05hbFhSVUxTOFpsOVBEWHh5eXVnRF9Zei1IMGpYWnlwYnNyVWZyTzc4SjRvcjl5cGl0cElSX2ZORTc2T1o5RERTem1YRzFXcnVXU2pBYlpuZzZhMEh1aE5KR3lmbUIzWGdKa2d5R1N2NVB0VkJ0ZHU2TGc?oc=5).
 
 ## Requirements
 - Python 3.8
