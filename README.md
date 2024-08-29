@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 3 Results + Scorecards | Dana White's Contender Series Season 8**
+**Biden approved Gaza pier despite internal pushback, watchdog finds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSjZ5RlVSMlFVLWlIdVRGQVNPckU2aDFhbnJCRGV4NVh3QTEtZWlBS0V5cW5rS3lMQkR6T1Bmd0NlVFNyOFV4eDBSMm96MXNRMWNjUXl3bEhjTTlVMU1aaGE0MFZ3aG0tckZ5WHh5Uy0xNnBweGJZS3JrWTVDQURmQWtJWTBRMUlsVm9VbTRIR2FFUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2xYYXZCalRxbGJTQUxybnZ2eTBfdGlOUjRGdGItUUtabHczZkZ3a05PV0otaUxOcTQ1SEhVQnh2SW5qOGtzYXBzYXpjeUxPbnhBOEJROWxBX1pKWWFZYXZVeGxvNXo4bHlpQkFybmR5dEFWNUk2Q3Nkd3IwRVV0eEkzYjdIY2JrSHlxbHpzNUhNdw?oc=5).
 
 ## Requirements
 - Python 3.8
