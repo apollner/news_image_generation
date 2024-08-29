@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court rebuffs Biden administration plea to restore SAVE student debt plan**
+**Kyle Shanahan provides updates on Brandon Aiyuk returning to practice and Trent Williams’ situation**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFkxTWdleHRfSlplZmdRXzcxMjExYTdtNjBOaFJuaFVYbnJJbWREbDFPNmpSUWFLNHA4MDhrSkpyVmZ4VjBRUHJldkJHVVJ5WGdIekc5eVhNa3MyalRJZ1M3M21kVDAyUnQyZjEyUUp1RjEzRWJIenBZVGx0ZHd2YTdKS1hkV05aM3o5UTI1eVhZQlJwVFN6bGVOSzFnNGYz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTndTTk9EbC04VTc4LUZYR3BERGwyNG95Zm5pNmFEQm1EY3c1cktMUkg5OWM0QU1jQlBnazJMancxencwclFkeG9aVGNfVmRPbnpaOWtveHVEMzl3dWtJdGZ5M0VIRGdzLUxTbm5jbHV4cmlMRVY4MENMQ05QZEhfZDJmejBaSy11aEVCNFhNb3Jkek9rQkRGVnRmcXJUaGM?oc=5).
 
 ## Requirements
 - Python 3.8
