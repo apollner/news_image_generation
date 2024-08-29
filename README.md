@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. wants off the ballot in 10 states. Some battlegrounds are saying no**
+**Vance backlash reignites as another childless woman comment resurfaces**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBfc2pLbDZEaVIwbzhMeUZPWlRvQXhoeE5Cd04yM1Q3RERnQVo0RW9ZNHpzdG9ucTBvVmc5RUt0NzEtUlZidHJub3ozQjFuZEZxeUJreV9MVEplTllvQUlkOE9SbFJhb25XZFBOd2w3c23SAXZBVV95cUxQUDhaS0wwamtBZFNBV2kxSTh1T1RlRUJZSVZJZzdyLVZKT0RiZDlSelB1czFsY19ENm12OThrT2tKVFNqS2NYbmRYWExQSWRaakxYakJmQ0F4bXFOT1pEdVdMOGxiOGNuZXY3aS1tWnJqb1hxNThn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU54amxtd0pmcE5WdTZqZmNkMUFCQ0RWQ3VPZEdSTHlZY1RpcVExdGtPWnk4eVdnTlZuc1ZJVjJHRERQM0JuOG5DS0luVXRocndIUk1RQWlvMDgwb0wyS09iVFZMazZzajBYekg3a0dGNzJpeERMU29QNE96TEVaV29R?oc=5).
 
 ## Requirements
 - Python 3.8
