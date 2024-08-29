@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disgraced attorney Tom Girardi convicted of stealing $15M from his clients in massive Ponzi scheme**
+**2 workers killed and 1 injured in tire explosion at a Delta Air Lines facility in Atlanta**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlZSEsxVXVtc2lYaS1KcVJwN2xza0tFOER6cVNQTkhZU1BmaHU2SHVERFA5TTZBSFJvMjFPS2MwekwxWnNCT3pzS2l2Y3NsMVZlRWp4YW1yYWx3ZUM4Mm85UTRLNkplbzlMM1p3bHFfMTNkRENVbGhJelNKSFlaR1g1c1Mzd2hTUFJGNXZGX0xnWG5sNlAzd0tXM3FxeTBHeVkzdXdmZVRHTEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2dLR1lvbmpFanB6SGRyd1YzS0pxWUd2czUzd2NiQ2lWRHVSMmxvcjlGelUzRU1tc05hOGVBRzd6VWpoNlhGcVpIaFFZTmp4QzZpRVlOTDR4N2pwZHNDOTJCTFpuLWJPX1dPQ2JPVzc2YmtFNERsX1dGN3piNWZwc19ucXBKbXl3OGd3SlRpb0RxY29qbzVoYlZFLVFfcjZObFZyOE1DbWhDZ0ljVGc?oc=5).
 
 ## Requirements
 - Python 3.8
