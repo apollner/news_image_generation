@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armie Hammer forced to sell truck because he ‘can’t afford’ gas after career-ending cannibalism scandal**
+**Disgraced attorney Tom Girardi convicted of stealing $15M from his clients in massive Ponzi scheme**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFhEZ1I2TWU2YlFoV0dYNXdKSUlEU01LTWVTMS1fNjRuMUFrWnFzbzVRYzFGb2RjalRqMWtBN1VUSGdoYjgtOUwyMVRWTktobFVIa2RsU296NXVsZmN1X21MVVEyX2ZLZWpsSzNFd1ZoeEMtWTdLMWFZNkkyVG9BdFB5a2lEckRjZGh0ZjZNMTRjcDRUZk9oRnJxUi1ZejJ3OXByX1RhalI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlZSEsxVXVtc2lYaS1KcVJwN2xza0tFOER6cVNQTkhZU1BmaHU2SHVERFA5TTZBSFJvMjFPS2MwekwxWnNCT3pzS2l2Y3NsMVZlRWp4YW1yYWx3ZUM4Mm85UTRLNkplbzlMM1p3bHFfMTNkRENVbGhJelNKSFlaR1g1c1Mzd2hTUFJGNXZGX0xnWG5sNlAzd0tXM3FxeTBHeVkzdXdmZVRHTEE?oc=5).
 
 ## Requirements
 - Python 3.8
