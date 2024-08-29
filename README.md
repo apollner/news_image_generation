@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**HMD’s Barbie flip phone goes extremely hard**
+**Ryzen speed boosts get backported to Windows 11 23H2 with optional update**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE1xVUpUQVEzbjhpY0ZlTXpGWC1Ec0J0RzdvTHZFOVRHQThNZXdaUVB6VnVyQmZFLW1MQTZhVnllcWJqc3pkWjVDdnZ4anB6cTVTcTVmYVhxZVdidVZiZDdEaXVpaDMxaWVSTXF6NkNGb3FycVRkTEJiblF3TQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPU2UxMkl2MkJyYTZTc2RXNXVfNlRPcl83Ym5ranAyVHVmNWl0TjMyUllNdVNQam5HRDA3c2pWM2xoVDdWMy1teGZIVVNNaGNPS2R3MzlxcFg2LWR3QmsyTHBlQ0hrVHpEcDM4SlFhakR2YVBkUVVNdEV0UDJ2dkNnekhIRlF0WXVWNlQwdW8zdzJzMUFadWZZd0tTXzA3RHNhSElqNU5PVWpUTjNUNGJSWDNNRGY?oc=5).
 
 ## Requirements
 - Python 3.8
