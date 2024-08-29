@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billy Baldwin References Classic Political Quote in Brutal RFK Jr. Diss**
+**SpaceX Falcon 9 booster tips over, bursts into flames while landing on drone ship after Starlinks launch**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0lrOGFZeDhvRl9iSGFnRDFMWXBaSHRFM2pUMDh4RHhLUGFBUjhyN1Q2em1MRFNkakxJMkh6czYzcWk0NzhvS1RnYnFDZU1UTU9IMlFOTGVjMnpsMHlYZ0d6WllrZk9WaXp1dVV3Z09rekVxR0FNUk5FY2c3MTdUY2VYcy1ETnN4T0xyUTk3YTZKaVNuc1hHaDNFTGVxQ0ZXenc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0RrRVJYclRXaWIyLXlpV1IzOXdHMUpKTENuVlBzd2F5Qko2TDJHby1TTWpTRlNObkFYRGo4LWhydlpPUG14c3M3WjFrSjl0d3lJVTVUU0hiOFJVQU9STk9YemU4ZERZdHF0ZkNZU201RHVDY3ZHdWR2RmFGOENyVlJKOUNGTUtnWmxxc0sxNkZhLWFVdlN2SjZXaUExalnSAaQBQVVfeXFMTVMzc1l1d0NkS3lnTDN3Yzd3WEdKN0x0TEZlZ0hDeS1rbHo0c3NJNFNuQUE1LU1MLTA3LWpzU0VUMHpJS21HdFQ4WFBYS0R2OEFyM1NHTlVHU2pSeU9MRlZZZVE4aUhpUk11b1dVMndTQl83NnpDM0x1dWxHUEdIY3FacExMNVd6a1NNYlM4VUZwRlZCV3BJUHpGUUFNc3NTYVVJTk4?oc=5).
 
 ## Requirements
 - Python 3.8
