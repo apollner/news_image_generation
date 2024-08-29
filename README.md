@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Russian missile hits the Ukrainian president's home city as it mourns deaths in an earlier attack**
+**Playbook: Why Harris and Walz are headed to rural Georgia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2JBbnhtdUdXcVJEN2tnNnJRSlBQUGViNVdjXzgwaDcwRE05RnJwV1RVSmVNd3Izb0xNNUYxTHNsTnhfcG9sZU9LeF92THRseEZ6WjItT05mLVBTNWVkYl85Z3BTRkVQY0twY1pUdDQ5NVNUa2cwWHRzRi1DODVJaDVEWEtocjA2bHU3THB0UkQ2ekZoQlp6akNsdlVxdmRkSEVQUEgtQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxNU1E2SlhTUVhjNGo0UVUzdEJIeW1pWEpKb1BUS3lFNTR6M2UwYW9jV2h3U2NtSDM2ME5sQVBqLXJnZUQ2cVd1QjNMRDZtcmthdEx4OHVzWFoyRUtUdDktU0F6NHFRUDRibTRiSzBabUtiajlQeUdTNGJRbkJhcVNUWXNMZFZsbDFNcF9CTnpHOFlsU3drd0ZMUThGUQ?oc=5).
 
 ## Requirements
 - Python 3.8
