@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 workers killed and 1 injured in tire explosion at a Delta Air Lines facility in Atlanta**
+**Longtime Tesla Bull Ross Gerber Unloads $60M In EV Giant's Shares, Cites Declining Confidence: 'Nobody Wants A Robot From Elon Musk'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNd2dLR1lvbmpFanB6SGRyd1YzS0pxWUd2czUzd2NiQ2lWRHVSMmxvcjlGelUzRU1tc05hOGVBRzd6VWpoNlhGcVpIaFFZTmp4QzZpRVlOTDR4N2pwZHNDOTJCTFpuLWJPX1dPQ2JPVzc2YmtFNERsX1dGN3piNWZwc19ucXBKbXl3OGd3SlRpb0RxY29qbzVoYlZFLVFfcjZObFZyOE1DbWhDZ0ljVGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0xkQVlaS2FZaENWTkZXSVZKTWNaQ1BWMnJRV2RSRTctSFA0c1BSN2RXZ01UWkVEcWlLZkFOc2JDSXEyZ3JHdzJLUURXbEdVU3ZSMDllcEFUZFUybDc0YzdPSkZ3Y0pGVzFCR1BIRExqV1oxWUNpQS1laUZzWndvcjdDUGhrckZ5WGxxeFVCbHJtbmR0N3haTVFHTkNxRW5aVWp3N1N3LXZ5RjF3bzY5OWlMTFhLTmc2aTRyZURLdzQzUWFCb3drMzdvOUNUdVIwTWJYU21Sa0pFZTNVNTVJeWwtSEdrVEZQ?oc=5).
 
 ## Requirements
 - Python 3.8
