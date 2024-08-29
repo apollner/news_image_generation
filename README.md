@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden approved Gaza pier despite internal pushback, watchdog finds**
+**TECNO unveils innovative tri-fold phone thinner than the Galaxy Z Fold 6**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2xYYXZCalRxbGJTQUxybnZ2eTBfdGlOUjRGdGItUUtabHczZkZ3a05PV0otaUxOcTQ1SEhVQnh2SW5qOGtzYXBzYXpjeUxPbnhBOEJROWxBX1pKWWFZYXZVeGxvNXo4bHlpQkFybmR5dEFWNUk2Q3Nkd3IwRVV0eEkzYjdIY2JrSHlxbHpzNUhNdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wV05TVVpoQXA0M2pPSUhDXzhWLXRnd3JoYUVyWDBPa2MyME1uSmZrRWt2NmQxaVVDNUFWYmZSdzBlRTAzc0s5UWRYMUVqa05QTUdtc19MRjRDY0FiMUpEQUdEVU5LZXhhM2lDdWZuZVU4Rm9UWGRzTQ?oc=5).
 
 ## Requirements
 - Python 3.8
