@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Telegram Founder Charged With Wide Range of Crimes in France**
+**iPhone 17 to have 12GB of RAM, compared to only 8GB in the iPhone 16 - GSMArena.com news**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc01QQS1uRFowOUZrUjRDNXFTNHNsekpYclVGYUZ3ZzlxZ01zNjNXeUViMHRDdHl4djFJdnBuNDc2SHBUczh3N1JLYmVtMTVsX2VWbFRYZjlPczdUV2lSRzJBMW1Iem9oaEphWl9PeHhwTXctakEyekhmMVZCVDJ1ZXF1eEJqRklW?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR1o0VDNqN0FoeXc5NzZYYnJva1JEbE1FZFNsY0RyWUE1X2t2Y2J0UDhWcTM1blh0d1FxU3ZxX0w4LTBpd2RhcllldWg5a3I0WlIza2tvLXpMaG5jOERtV0VzRHBSNWJ0enZRRG45ZndNcnZRb0FfbG5ubUtMaWVoWlUyS3o0OFAwcnBKemVZOUJJLWVqMU1NM3lIa2FWck1TV2xyaU1aTk1uREHSAacBQVVfeXFMTWlXLVNGbTd3MXFwUjdPTEEtZ1VOM2Y5VXZZYkxUMmpWbEJUeEJQYTJJSEdSNFdNXzBvWG9rSmVJUGVaeVBuaF94aGJQSVFRMlEyZFdYeTZqMEROVDRCcjFtZDMwemhoUGlTc1NXOF94bGJOSE55N2taaHEzcjlQcWdXUnZPQkMtR1hETzZRNkFLalRjUzZJdV95Si1VT19LTkxKSmZ6Ukk?oc=5).
 
 ## Requirements
 - Python 3.8
