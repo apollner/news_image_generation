@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Instagram’s Exploring a New Music Sharing Process via Spotify**
+**Disgraced attorney Tom Girardi convicted of stealing $15M from his clients in massive Ponzi scheme**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMERMYkhJUi14U29HNFZYWUwzLWZlcHpZNEkxV3hlcGNYYllPWnpLeDdfaEhBNnlyVjFUdTY1YkVONUhCdjRZUlhid0VTR1hDYUpHQ2RtckJiVDJQZ0JuNS1pQW40WGc5cFRITm5NV3BJYUFyOC0xTEJUZlJscFNWakxMUEFKMG02SXBnRklRMmVtZmotNUw3QlNiQkZEVjhieHFsVlVYeUtJZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlZSEsxVXVtc2lYaS1KcVJwN2xza0tFOER6cVNQTkhZU1BmaHU2SHVERFA5TTZBSFJvMjFPS2MwekwxWnNCT3pzS2l2Y3NsMVZlRWp4YW1yYWx3ZUM4Mm85UTRLNkplbzlMM1p3bHFfMTNkRENVbGhJelNKSFlaR1g1c1Mzd2hTUFJGNXZGX0xnWG5sNlAzd0tXM3FxeTBHeVkzdXdmZVRHTEE?oc=5).
 
 ## Requirements
 - Python 3.8
