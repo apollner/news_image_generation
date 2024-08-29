@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-politician Robert Telles found guilty of murder in stabbing death of Las Vegas journalist**
+**Namibia plans to kill more than 700 animals including elephants and hippos — and distribute the meat**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXRnTGl5NmsySjdvTXF4dzg1SmZoMkJOaFludlhiQmFlZUNRdlFfUHAySDZFU05pRGk4X1h6Z2k4c3BGbld3SVNFWnc0ekRSaGY2dWtidWFtN3lTcC0yZmNaY1oxTkRHcUoyQmFnYmRobVJZVGg4aTVXeEJyNHJZVzBKaUtyQXRNMlRxc3lJcTVUNkQ1S2xlLTR4S3c0NUtpWjRmeC1MV0RHM1ZfY3Y4ZHZCREFnUE8y0gFWQVVfeXFMUGhLaTlNcklmd2pDT1VjakVETHFYdTM0UncwOFhQRG9VSDk0a2ZQRThaaFZaRWNaMExCZ2puRE9MbFgxUFNrTmpLOWJiVG9OUjdNT2tfMXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxObmVsdkV4MWNHbUlWb0JCTWpqbjNReDhaTmVFZ0RhMGpfMm5jdzB2c0dGRlBISFhjOXl6cWhFdVdZU2tvaDZwNVprUk1EandfNzI4LWw5T05RSUNlcWFFc1NURVkzWlhrZ2ZhenJCdzV3eWJqVG54cnVtUlRqSlpaV0FPSFpDb1ZSbTN5TGFB0gGEAUFVX3lxTE1IcWJ2Y1VRLVk5THNXUmlyc3pmN2JIa0p1Y2hHMFBWTmpEOFNnVVVTQllMZlhnUFBvd0ZVbmc3MTdlQVItQ1gzZFN6VVdPcmVrQVo3azR2NDc5MnVxbFg2bW9mSEhNRm9GUFZabGtGMzNHZHVrZ2JlLUcwbGs2d0N3TnA3VQ?oc=5).
 
 ## Requirements
 - Python 3.8
