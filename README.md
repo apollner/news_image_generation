@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris will sit down with CNN for her first interview since launching presidential bid**
+**Israel says hostage seized by Hamas on Oct. 7 rescued in "complex operation" by troops in Gaza**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUZlX1RmSWhUR041VG13ZndlOFJ3U3hEOHk2Qi15UmtXdWdFZXRqTDNNdXVtRzZDdkNEaVAxQV8yM2pzckFPQS1LNVktd3VpUzN2aWtxZkYtbjg3SWNtR2hGVEsyZVRuZXl6VG5QdFdpWDJDdGJRNkhZOXk5SDc4UXA5alRuTXlVRjBQNWZn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTJUQmEtSmpMcFBtVDZTX3lpQ0FBNWxuTWlPSVotd2l0UmtJSGtFZGFIX0xsVGVnM0dYa3BFdGR6SldOU3VYdDFOeUFmcW1jQ2tYaVZmc3kwZm41UFNKRlZ5LVQ4Z2ZtZ25FT3ZpVTJZTkMxcUdkTllwOS0zbE9uTU1BLTRkczEybENOcEc2ZWozNUhqdEp5ZQ?oc=5).
 
 ## Requirements
 - Python 3.8
