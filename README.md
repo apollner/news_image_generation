@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Salmon will soon swim freely in the Klamath River for first time in a century once dams are removed**
+**Longtime Tesla Bull Ross Gerber Unloads $60M In EV Giant's Shares, Cites Declining Confidence: 'Nobody Wants A Robot From Elon Musk'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlkyWk5jeVVkQnpCcEhtYzJwazhvZ0hRbmF3YkVuSW84ZlJhc2ZyR25yd2JXaUVHdFVSZTktN3pzU1JHRGdnSC1WY3NIUFFUWmpMcl9HU3lFdFp5VmY4dGlfMXc0X0VaY2lqa2wzS2d0a2liQVdBNFZ3eWpTY2hYSWFmUkpjYy1jS3ROdFB1cm4zMUoxcnlXakFvY2Y2VEczZHRTMDNpUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0xkQVlaS2FZaENWTkZXSVZKTWNaQ1BWMnJRV2RSRTctSFA0c1BSN2RXZ01UWkVEcWlLZkFOc2JDSXEyZ3JHdzJLUURXbEdVU3ZSMDllcEFUZFUybDc0YzdPSkZ3Y0pGVzFCR1BIRExqV1oxWUNpQS1laUZzWndvcjdDUGhrckZ5WGxxeFVCbHJtbmR0N3haTVFHTkNxRW5aVWp3N1N3LXZ5RjF3bzY5OWlMTFhLTmc2aTRyZURLdzQzUWFCb3drMzdvOUNUdVIwTWJYU21Sa0pFZTNVNTVJeWwtSEdrVEZQ?oc=5).
 
 ## Requirements
 - Python 3.8
