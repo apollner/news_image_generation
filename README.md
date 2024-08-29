@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Longtime Tesla Bull Ross Gerber Unloads $60M In EV Giant's Shares, Cites Declining Confidence: 'Nobody Wants A Robot From Elon Musk'**
+**New footage shows Pelosi calling Trump 'domestic enemy' after Jan. 6 attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPS0xkQVlaS2FZaENWTkZXSVZKTWNaQ1BWMnJRV2RSRTctSFA0c1BSN2RXZ01UWkVEcWlLZkFOc2JDSXEyZ3JHdzJLUURXbEdVU3ZSMDllcEFUZFUybDc0YzdPSkZ3Y0pGVzFCR1BIRExqV1oxWUNpQS1laUZzWndvcjdDUGhrckZ5WGxxeFVCbHJtbmR0N3haTVFHTkNxRW5aVWp3N1N3LXZ5RjF3bzY5OWlMTFhLTmc2aTRyZURLdzQzUWFCb3drMzdvOUNUdVIwTWJYU21Sa0pFZTNVNTVJeWwtSEdrVEZQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRy1EVlhNc0w5Mkxzejd2R19hS0otaEpfdkozRTVKcjJjdDN0MjB0bTVCY0JPZVltREVKTUt3bmFVTGp6R0czTkFHZDZaYkkwTG5QZXV6S1NfdlFDQzV4dGZZUEpSc3BNTVVGdWhQTFdCVDNSYXVCR0RpVGs2QkZmcmsxdVdwSlYyRGxMRG1qelFKZjdGUEtmZzN1UTlQSXVheGY0Z05PLVdkWnRiVXZVQVNkZjV1V0tmSnBr0gFWQVVfeXFMUHhlbTVHRkRIMUpMaHBabW9WanlXVUd5NXFjdG9qUmkzTzlObllsTGZ2b0NRQ0RZM3hRSUctS2pTNUFxUUYxWTBNOFNVTjF1SWFRN2IwRFE?oc=5).
 
 ## Requirements
 - Python 3.8
