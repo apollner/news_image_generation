@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump assassination attempt: FBI reveals first photos of Thomas Crooks’ firearm, IEDs in car trunk**
+**Telles Murder Trial: Third day of jury deliberations begins**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2FKdy1keW5kVVhOTzlpaDFOdzJxb1FBWWFXM3hDNzNya2tQTjFfQXhad3hJSENTWEFLdG1SbTNhNjV0R1dfcUN1cDh0SW5PV3lKUmNBcjhnR0w0RXFxZmtrODZPQWtLam1iZXV3SUtTckdYeENkbUZta2hZQWtYS2VkNjI3ZXUzb0pTMWlzdHBvSTVKTVhDM1NianpzREp1OEZqMmRiNFJnQVdNeEFrMUhjUWRwN2vSAbwBQVVfeXFMTWpSbjY2NzVHZUsyVU5uTVBmbEZFdkdRempOc2R3dVNuYlN5MVNaemRQRDdyT2dTWnNrRC1leFo5UGZaeVFqU2JkQy1ZekxXSVZibkpqd0ZIZEE5SjVpTDBBdWVYYV8yb3lVMWRITnNfTlgyT2xMZWlyVFZQX294RjNHSWhYLUk1cnppbm1EbUR5MU1rR0dSeFluc0psZzN6cndHakxZSm9UVF9talpYV29lM3QydUxZcE1taEk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWTFsTXFpQ2NrR0ZiLVV6RlE1OHpCVEtXYmRYaldscnIteld4OXp3VGpsMTlXMlJGdjlEOVJTVk9PZ0VINnhkT3h3Y2ZXaWVTNXNwcDRFUTd0WTMxVlF2LWgwUzljUWplQ3hzVVBTV0N0bFBHQktLU0d5Tm4tTXgySjdEbU15SXFNWmozems1RnctZm11c0JDVl9FQQ?oc=5).
 
 ## Requirements
 - Python 3.8
