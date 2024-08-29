@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance backlash reignites as another childless woman comment resurfaces**
+**Telegram Founder Charged With Wide Range of Crimes in France**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxQQU54amxtd0pmcE5WdTZqZmNkMUFCQ0RWQ3VPZEdSTHlZY1RpcVExdGtPWnk4eVdnTlZuc1ZJVjJHRERQM0JuOG5DS0luVXRocndIUk1RQWlvMDgwb0wyS09iVFZMazZzajBYekg3a0dGNzJpeERMU29QNE96TEVaV29R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc01QQS1uRFowOUZrUjRDNXFTNHNsekpYclVGYUZ3ZzlxZ01zNjNXeUViMHRDdHl4djFJdnBuNDc2SHBUczh3N1JLYmVtMTVsX2VWbFRYZjlPczdUV2lSRzJBMW1Iem9oaEphWl9PeHhwTXctakEyekhmMVZCVDJ1ZXF1eEJqRklW?oc=5).
 
 ## Requirements
 - Python 3.8
