@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TECNO unveils innovative tri-fold phone thinner than the Galaxy Z Fold 6**
+**Salmon will soon swim freely in the Klamath River for first time in a century once dams are removed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE4wV05TVVpoQXA0M2pPSUhDXzhWLXRnd3JoYUVyWDBPa2MyME1uSmZrRWt2NmQxaVVDNUFWYmZSdzBlRTAzc0s5UWRYMUVqa05QTUdtc19MRjRDY0FiMUpEQUdEVU5LZXhhM2lDdWZuZVU4Rm9UWGRzTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNSlkyWk5jeVVkQnpCcEhtYzJwazhvZ0hRbmF3YkVuSW84ZlJhc2ZyR25yd2JXaUVHdFVSZTktN3pzU1JHRGdnSC1WY3NIUFFUWmpMcl9HU3lFdFp5VmY4dGlfMXc0X0VaY2lqa2wzS2d0a2liQVdBNFZ3eWpTY2hYSWFmUkpjYy1jS3ROdFB1cm4zMUoxcnlXakFvY2Y2VEczZHRTMDNpUQ?oc=5).
 
 ## Requirements
 - Python 3.8
