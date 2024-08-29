@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disgraced attorney Tom Girardi convicted of stealing $15M from his clients in massive Ponzi scheme**
+**Harris will sit down with CNN for her first interview since launching presidential bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlZSEsxVXVtc2lYaS1KcVJwN2xza0tFOER6cVNQTkhZU1BmaHU2SHVERFA5TTZBSFJvMjFPS2MwekwxWnNCT3pzS2l2Y3NsMVZlRWp4YW1yYWx3ZUM4Mm85UTRLNkplbzlMM1p3bHFfMTNkRENVbGhJelNKSFlaR1g1c1Mzd2hTUFJGNXZGX0xnWG5sNlAzd0tXM3FxeTBHeVkzdXdmZVRHTEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNRUZlX1RmSWhUR041VG13ZndlOFJ3U3hEOHk2Qi15UmtXdWdFZXRqTDNNdXVtRzZDdkNEaVAxQV8yM2pzckFPQS1LNVktd3VpUzN2aWtxZkYtbjg3SWNtR2hGVEsyZVRuZXl6VG5QdFdpWDJDdGJRNkhZOXk5SDc4UXA5alRuTXlVRjBQNWZn?oc=5).
 
 ## Requirements
 - Python 3.8
