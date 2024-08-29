@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks Edge Higher With Nvidia Countdown Underway: Markets Wrap**
+**Ukraine drones set oil depot ablaze in Russia's Rostov, governor says By Reuters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE5MdThTY05GeXNjWEJLVEdLNEd1ckMtcXBNakZpeVpPb2RQMVMzZ2FhXzJJV21CVVZwUUNneTZabGdSSDRpN2EtWnBRbFpVV29rc01lTDVoZW05eDUyQVlSb1NfRjFncVNhSTZaaHMwX2Y2VFJFTjlZeTlEQTE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGt5MHliZkd2YzlVWHdubFRsVktGSU9oVGVEV1Y3X25CLUxMdEZ5bHFwbThxdkRDRFNPYUM4TnZZNk0tc0dGUHFPSm8xSi0tZkJFTVNqWTF3RGFydDYwbDJhSnlsY01PTURidnRMSVJtTElsOVFNSzZWUWNNMzdfcU1xZnBtYmx1SWF1blJ3Q2dkNi1oRFd0Qkw3NGtvdF82ZmNqTTF4X0poNWZ2aTlTOWlQOGNteWh0dHRYS3V5Z0dZYjhxZ2xKQ1lsOWVsZDV0NVBrZDdjS2U?oc=5).
 
 ## Requirements
 - Python 3.8
