@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Captain and engineer of Mike Lynch's family yacht both reportedly under investigation over sinking off Italy**
+**A Russian missile hits the Ukrainian president's home city as it mourns deaths in an earlier attack**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTi1VdGFEZ0l2WlRyN0Iwc2RvcTV2UWptMFQwd1B1NDQ2eUJZSWRzWEFOQXo2akVxZ2ZjZ3FKd0JXYmJsQjRwZXp5N1FMT2RScFE4SmQtUTIxU3NGenVsdlVsZ2xpNjZ2RDc2Zy1nNVA4aE9lZmpXZV9vX0FGd0o3anJmTWFEVTBfR0w4bk5Sb3V1MUtRblJ3N1RraHdBQ1VwdlhxczhlT2Vnd9IBrwFBVV95cUxNd0xCTHFQQlBmNHFUODEyaGlQYU1NU19GVEhKdllQR2ZVekRHbHRVZmZfN0ZFOGo1Z0tMaVhQcHVrZDVaeFZSUHFlVm43dnp6cHJRQVdVbVloR1lfOXloNzV1WDV1Y1dxOHBfbGlCdzFLRDRITkhUVExZSnpDWk9CRUx4aWxPWUlSWFhvWXVYeU44eUlJNG9UdkdqRTRsclpXSFNmNk9PTU9Nbi1KRUlz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNc2JBbnhtdUdXcVJEN2tnNnJRSlBQUGViNVdjXzgwaDcwRE05RnJwV1RVSmVNd3Izb0xNNUYxTHNsTnhfcG9sZU9LeF92THRseEZ6WjItT05mLVBTNWVkYl85Z3BTRkVQY0twY1pUdDQ5NVNUa2cwWHRzRi1DODVJaDVEWEtocjA2bHU3THB0UkQ2ekZoQlp6akNsdlVxdmRkSEVQUEgtQQ?oc=5).
 
 ## Requirements
 - Python 3.8
