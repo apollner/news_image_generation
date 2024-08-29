@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Opinion | Boeing’s No Good, Never-Ending Tailspin Might Take NASA With It**
+**Billy Baldwin References Classic Political Quote in Brutal RFK Jr. Diss**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5RV2ZxdjU1ak5vUnh5Tnh2VE5MUTVNUGFDZlBFSC1uV2F3cEpjYXBqWm1aMjFNV1l4Vk9OTE4zd2h0Zk9zRGcwYU1BQW1TUURWN0lKUW1hYmJGdklpSV9vYW1wNHlQTHEyYWM5QVBMM0F3R2xJVWxZSzhYQTRUYUk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPa0lrOGFZeDhvRl9iSGFnRDFMWXBaSHRFM2pUMDh4RHhLUGFBUjhyN1Q2em1MRFNkakxJMkh6czYzcWk0NzhvS1RnYnFDZU1UTU9IMlFOTGVjMnpsMHlYZ0d6WllrZk9WaXp1dVV3Z09rekVxR0FNUk5FY2c3MTdUY2VYcy1ETnN4T0xyUTk3YTZKaVNuc1hHaDNFTGVxQ0ZXenc?oc=5).
 
 ## Requirements
 - Python 3.8
