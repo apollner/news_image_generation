@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oasis fans frustrated after Manchester hotel cancels bookings**
+**Opinion | Boeing’s No Good, Never-Ending Tailspin Might Take NASA With It**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSNVJsdXNuSGdrbThsOFEtSHI3b25SUkdIYThMMEJNVm9wRGMzM1ZMemFnU0VQMXI2b1RUWTlRNm84dGxqQzZOSzNkTEhVdGRkbVREbU9mZFhRd9IBX0FVX3lxTE95TjV6MnhSUHpBeGs3M21kc2tUY2xIZmJJYVROWDlESTlGSGlzZk1NMUNmV19CUlVNMjI0aG0xYWpPRWRiSkVFclhydnR4ek1ONTVQZU1Fc095YmVJR09J?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE5RV2ZxdjU1ak5vUnh5Tnh2VE5MUTVNUGFDZlBFSC1uV2F3cEpjYXBqWm1aMjFNV1l4Vk9OTE4zd2h0Zk9zRGcwYU1BQW1TUURWN0lKUW1hYmJGdklpSV9vYW1wNHlQTHEyYWM5QVBMM0F3R2xJVWxZSzhYQTRUYUk?oc=5).
 
 ## Requirements
 - Python 3.8
