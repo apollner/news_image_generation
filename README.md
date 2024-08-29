@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Armie Hammer Says He’s Selling His Truck Because He “Can’t Afford” the Gas Anymore**
+**Trump assassination attempt: FBI reveals first photos of Thomas Crooks’ firearm, IEDs in car trunk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxON05aNFN0bjdQZlp3OUdSOUkwZ2dPaTJYSDBWd2pVX29MTjc5VjhsSnJvUGRKbGRfWWVpZVBxWHBZdHdTakNFbDFDSVAzVGdVeklpeW1jX19aQ2IwbW54dzgwWXJEMWtQamxpMUVEbzdsZTVzT0JfNFJFV2dQNVpFU21aU1ZXNTROcnJzc0RtMEU0ZktydHZTaGJ5Q1FpYkhHaEo3N1dyWEtRQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPX2FKdy1keW5kVVhOTzlpaDFOdzJxb1FBWWFXM3hDNzNya2tQTjFfQXhad3hJSENTWEFLdG1SbTNhNjV0R1dfcUN1cDh0SW5PV3lKUmNBcjhnR0w0RXFxZmtrODZPQWtLam1iZXV3SUtTckdYeENkbUZta2hZQWtYS2VkNjI3ZXUzb0pTMWlzdHBvSTVKTVhDM1NianpzREp1OEZqMmRiNFJnQVdNeEFrMUhjUWRwN2vSAbwBQVVfeXFMTWpSbjY2NzVHZUsyVU5uTVBmbEZFdkdRempOc2R3dVNuYlN5MVNaemRQRDdyT2dTWnNrRC1leFo5UGZaeVFqU2JkQy1ZekxXSVZibkpqd0ZIZEE5SjVpTDBBdWVYYV8yb3lVMWRITnNfTlgyT2xMZWlyVFZQX294RjNHSWhYLUk1cnppbm1EbUR5MU1rR0dSeFluc0psZzN6cndHakxZSm9UVF9talpYV29lM3QydUxZcE1taEk?oc=5).
 
 ## Requirements
 - Python 3.8
