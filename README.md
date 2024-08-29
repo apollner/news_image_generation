@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Burton Didn’t Make ‘Beetlejuice 2’ to ‘Do a Big Sequel for Money’: ‘I Didn’t Even Watch the First Movie to Prepare’**
+**Armie Hammer Says He’s Selling His Truck Because He “Can’t Afford” the Gas Anymore**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGJzMXE1MUZ4ZTNOampndVZBaXp2MjU1UWhESDl1X1ZFenBGdEMyaGtIVXZOZUE2VEtZYU5VaHBVSDg4YXpLang1ZG8wdnZXaFNvcnFNeWdyVXl2a0tqX0xtZWRzX3JJMDQ5LWJzaVVwb2NmWm55QXZPYXFmczBWWlR1LXpBY0lKQW5JZ1ZTX1hlUzlhWEpZczA0d24za3k5ak4xSEdZRkdIQl9S?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxON05aNFN0bjdQZlp3OUdSOUkwZ2dPaTJYSDBWd2pVX29MTjc5VjhsSnJvUGRKbGRfWWVpZVBxWHBZdHdTakNFbDFDSVAzVGdVeklpeW1jX19aQ2IwbW54dzgwWXJEMWtQamxpMUVEbzdsZTVzT0JfNFJFV2dQNVpFU21aU1ZXNTROcnJzc0RtMEU0ZktydHZTaGJ5Q1FpYkhHaEo3N1dyWEtRQQ?oc=5).
 
 ## Requirements
 - Python 3.8
