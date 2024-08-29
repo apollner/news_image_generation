@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Telles Murder Trial: Third day of jury deliberations begins**
+**RFK Jr. wants off the ballot in 10 states. Some battlegrounds are saying no**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQWTFsTXFpQ2NrR0ZiLVV6RlE1OHpCVEtXYmRYaldscnIteld4OXp3VGpsMTlXMlJGdjlEOVJTVk9PZ0VINnhkT3h3Y2ZXaWVTNXNwcDRFUTd0WTMxVlF2LWgwUzljUWplQ3hzVVBTV0N0bFBHQktLU0d5Tm4tTXgySjdEbU15SXFNWmozems1RnctZm11c0JDVl9FQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBfc2pLbDZEaVIwbzhMeUZPWlRvQXhoeE5Cd04yM1Q3RERnQVo0RW9ZNHpzdG9ucTBvVmc5RUt0NzEtUlZidHJub3ozQjFuZEZxeUJreV9MVEplTllvQUlkOE9SbFJhb25XZFBOd2w3c23SAXZBVV95cUxQUDhaS0wwamtBZFNBV2kxSTh1T1RlRUJZSVZJZzdyLVZKT0RiZDlSelB1czFsY19ENm12OThrT2tKVFNqS2NYbmRYWExQSWRaakxYakJmQ0F4bXFOT1pEdVdMOGxiOGNuZXY3aS1tWnJqb1hxNThn?oc=5).
 
 ## Requirements
 - Python 3.8
