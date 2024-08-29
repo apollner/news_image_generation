@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says hostage seized by Hamas on Oct. 7 rescued in "complex operation" by troops in Gaza**
+**Armie Hammer forced to sell truck because he ‘can’t afford’ gas after career-ending cannibalism scandal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeTJUQmEtSmpMcFBtVDZTX3lpQ0FBNWxuTWlPSVotd2l0UmtJSGtFZGFIX0xsVGVnM0dYa3BFdGR6SldOU3VYdDFOeUFmcW1jQ2tYaVZmc3kwZm41UFNKRlZ5LVQ4Z2ZtZ25FT3ZpVTJZTkMxcUdkTllwOS0zbE9uTU1BLTRkczEybENOcEc2ZWozNUhqdEp5ZQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTFhEZ1I2TWU2YlFoV0dYNXdKSUlEU01LTWVTMS1fNjRuMUFrWnFzbzVRYzFGb2RjalRqMWtBN1VUSGdoYjgtOUwyMVRWTktobFVIa2RsU296NXVsZmN1X21MVVEyX2ZLZWpsSzNFd1ZoeEMtWTdLMWFZNkkyVG9BdFB5a2lEckRjZGh0ZjZNMTRjcDRUZk9oRnJxUi1ZejJ3OXByX1RhalI?oc=5).
 
 ## Requirements
 - Python 3.8
