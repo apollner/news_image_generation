@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine drones set oil depot ablaze in Russia's Rostov, governor says By Reuters**
+**Oasis reunion latest: Liam and Noel Gallagher confirm 2025 tour with Manchester, London, and Dublin dates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSGt5MHliZkd2YzlVWHdubFRsVktGSU9oVGVEV1Y3X25CLUxMdEZ5bHFwbThxdkRDRFNPYUM4TnZZNk0tc0dGUHFPSm8xSi0tZkJFTVNqWTF3RGFydDYwbDJhSnlsY01PTURidnRMSVJtTElsOVFNSzZWUWNNMzdfcU1xZnBtYmx1SWF1blJ3Q2dkNi1oRFd0Qkw3NGtvdF82ZmNqTTF4X0poNWZ2aTlTOWlQOGNteWh0dHRYS3V5Z0dZYjhxZ2xKQ1lsOWVsZDV0NVBrZDdjS2U?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcDFESkJFd0hVTVJFelpFTmFkVXA4Nm1OVkVCNnVUdDhPZW9zLU9ZQ0ZSRGdxV19NUHhTVnd0MUpJZ0tyX2ZRUExWaFB5S0JPMUhISDF4dXhkdDdORGFiZFdCY3paMDZrWXVHNkZCakZveEsyTUItSTk0cUI2ak1EcjVjY1ZHWVdicmQyc1ZpcDVfYkwwOVJDY2ptM09WNm03NUNXWE9ka3ZyY2ttb3NiYnMxSGlkaldhRkg5bVZ4SzdnOFE?oc=5).
 
 ## Requirements
 - Python 3.8
