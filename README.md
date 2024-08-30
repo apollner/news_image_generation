@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL roster cut deadline: 5 best players available**
+**Taylor Swift concert terror plot intended to kill ‘tens of thousands of people’: CIA official**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxOM281Y2RjaGxkd2RHUVEwb3RlMDlQUTZmU1dIdmN2YzhfbmtTcVpQbkZLQkpGRVNvY3VBem16Z2stREt4TlpNRDlYcUtrdEZ1NVVJa05uUzNwaE1hdmozNkVXT3JFbkJnR0ZYMFdFVFRHWkRXbkJ4THdKODNHQmtUaHNibTRieFB6a20wQmF4XzlMbGFzM2IxSzV0QkRxQml5bWhIcldPNkI1dFp3aVRWZE1R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0d0cHBvM1NoYmVYOWM3T2VrRUF0M0ZrM2Y5UWZvWDkzeFlBMnotdHRVQnJXaDVSSllDUHhQLXFIZFpJbFhUYWRLeGdlQ2IxZzRDNUd0eGs3QjJmSXdkVnlqR3RHc05pVk9sQnFkaHFuVndfbGlkQWllSzZxb085S3JwbzdhNlFweHgyU0RXYmZIS3diNmNMZWFpZGZibktOb1VvVUZxUFdBd1Y4OUZOUlZqaVdYc2I4NUlMYXNFMWpUMm9KZnhtYm1TNEQ0VmN2?oc=5).
 
 ## Requirements
 - Python 3.8
