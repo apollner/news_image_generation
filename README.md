@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Morning After: GameStop’s retro gaming pivot**
+**Kamala Harris to give first big interview as nominee in key test of credibility**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXZGMU4tOTY1V29QazhLelVDSHVSLXlzcWNqM1B4RWtVdkM1dnUwX3BiNDI4cjhzQ280NnFNNnhRekZ6YkFpTENvVm5EREp5R1VJZ0tYUXVPbENRSXNON2ZGSFIzeDRKdVlPT1dtYTk0OUFRdHQ2azV1SVlfbzZja2puZi0xdzZHQm11NUo1akZCV3ROMFBFd0N3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNelFtOXF3dzRVX19Iel9hTW9ZUXZkMHE2c0lISlAtb3ZKZjJBTW82YU9PNDZfQlJieHlDdFRHODJHQW9OT21CTWV1aW5MNk0yb3VkS1N3a08xRlljdVV2SGhJeUktaUxrM0VPdXFBczV2dkt6Ykd5UVp0T21RRS1KMVNseExJemFBWXIwZDRQLUhRZw?oc=5).
 
 ## Requirements
 - Python 3.8
