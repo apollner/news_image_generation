@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris to give first big interview as nominee in key test of credibility**
+**SpaceX’s Falcon 9 Rocket Grounded Before Launching Billionaire on Private Mission**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNelFtOXF3dzRVX19Iel9hTW9ZUXZkMHE2c0lISlAtb3ZKZjJBTW82YU9PNDZfQlJieHlDdFRHODJHQW9OT21CTWV1aW5MNk0yb3VkS1N3a08xRlljdVV2SGhJeUktaUxrM0VPdXFBczV2dkt6Ykd5UVp0T21RRS1KMVNseExJemFBWXIwZDRQLUhRZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlVYVEgybC1HeWh5TjVMbU1HZW00NTJRWmFwTVc2b1lsaWlhdnNhb0Y5ZkF2RS1EYnVsQkY0QUdsaFQ0b3J3bW9TQzN0T0tYbkhobHBFOTRnUmU5eGVYS3pvbWVYYTctbnBzYUR2RDd2NV9wTlZNMW1aUUd2Q21OWG9LcldTM0RqeFpBZFZ5WlQ3aUZRUl9lZ3BhQW4ybW95NjJzTzR2LXJHSTVsUExLYw?oc=5).
 
 ## Requirements
 - Python 3.8
