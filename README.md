@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI: Trump gunman acted alone, but motive still unknown**
+**Colts GM Chris Ballard on Roster-Building Approach: 'If It Gets Me Fired, So Be It'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zT0QtdHRUSU9FQUkxY0tQaWl4Zko0bmF3Qk1oOHdoY05ISUNzOW14RGpLWk1zd3ZOVFc3dzE5LXlNdklLTlk0SndjNWlNYXdTNWZsZjlCSlVvd9IBX0FVX3lxTE81cWRMc011VWN5bG9GMTZZMS1xOXZRTXk2MW5sS01rUy1aVlFKeVQ3eTdVUWltOTdnQ0xySHBwSE9FTTNXa3BUUmw3QnNISDkzNWkxUUpVYWVUWWdQZk9Z?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxNS3Q5S2pwOFYtRHpXMkRYNm4zaXFYVzFLYzdhb0F5ZVhiNWpURTVTNWJRcXJMbkhKcjQ1aEZpMjRlVWI2ZTJySGNzRXA3NGJWZnVYQ2dpbmFyT2lWS3hyQUwyb3dLUlFwaEtyWW55eEFzN1NYR2tTYWtmM0xyeTRfYmpxTEk1MV95ODJ2dnNWRGpLdDdUdmZKMC1xS1ByUVpF?oc=5).
 
 ## Requirements
 - Python 3.8
