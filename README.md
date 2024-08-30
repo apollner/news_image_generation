@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Shanahan provides updates on Brandon Aiyuk returning to practice and Trent Williams’ situation**
+**Matching dinosaur footprints discovered an ocean apart**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPTndTTk9EbC04VTc4LUZYR3BERGwyNG95Zm5pNmFEQm1EY3c1cktMUkg5OWM0QU1jQlBnazJMancxencwclFkeG9aVGNfVmRPbnpaOWtveHVEMzl3dWtJdGZ5M0VIRGdzLUxTbm5jbHV4cmlMRVY4MENMQ05QZEhfZDJmejBaSy11aEVCNFhNb3Jkek9rQkRGVnRmcXJUaGM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlSbGh6NUVNYlhyUS00TXQ5UW9GeWdfQkVWOWxOLWcwY0d2QnBuSmFWR2c5WENUdGo5UnFOSkJ1YmF5VlZrVUNDN0p5cnR2UHc4dm1Hb3BNMmU3dFZpT3Z3UHBiRWRWZGswVnlWeEhIY2hNWm52ang5LS1tWFpMaldfQ2M0ZXRBcmkyQXdHT0lrQXlmeUgwLUdRY1dpWDdRd2NV?oc=5).
 
 ## Requirements
 - Python 3.8
