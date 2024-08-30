@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hampstead plans to spray for mosquitoes after man dies of EEE**
+**Call of Duty Next: Everything Announced for Black Ops 6 and Warzone**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjdZRDJENUhSTTNLb0pIcXpNNUpHVW1HeXEwUTdNLUtCMzVJMGJON0ViQUxCSWVscHFYSU9UaFoxWXhTZU14ZWpGZDk1RldFYWhObF9WdVdfUUhNLVBRTzBOMm51WWp3Wk1fRWxXOGJkaW1nUlRNQkVkR2pjWFlfWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGF3bnVtVzFMcGx1bXBIWHNwNjZVeFA2aFNkZC1TbHZxbG52aTFuR1huTjdvMURDdHFrNXI4MzlILWF5Z01BWXlDWWdzcXg1QlVNejUyX1YxUzU0Y0N0aUFxVi1wZDZMdVdmcjZ5dGEyVGdhZVE2cnNvek8yTzNKZ3ZmXzJCQ3JneHQ5RHUwMjMxbHUwSmdLQUZwQQ?oc=5).
 
 ## Requirements
 - Python 3.8
