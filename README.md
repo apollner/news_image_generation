@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thai court sentences a YouTube chef, who is the son of Spanish actors, to life in prison for murder**
+**FBI: Trump gunman acted alone, but motive still unknown**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1VkZ1QyemJhN2hiQm90dDc3NG5iOHlxanZpQXBRMWJnM3RySHBRZEozZklWOTZWOWIyTEFqNVI5cUFYWVdabkRoc0hWcUlQRUg1X2liRzNidGF5Z0xOLUxoY1lidkVLd0VSeTlHNV9WOUxoM09WTUkwT0Zpa25ITkFkcDdaaGdNV01CX2xod2dJRUxETFBNRl9KdkxodjVOUUxPY0lWa3VnclBYU2U5RlV5Mm5QVTNOeUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zT0QtdHRUSU9FQUkxY0tQaWl4Zko0bmF3Qk1oOHdoY05ISUNzOW14RGpLWk1zd3ZOVFc3dzE5LXlNdklLTlk0SndjNWlNYXdTNWZsZjlCSlVvd9IBX0FVX3lxTE81cWRMc011VWN5bG9GMTZZMS1xOXZRTXk2MW5sS01rUy1aVlFKeVQ3eTdVUWltOTdnQ0xySHBwSE9FTTNXa3BUUmw3QnNISDkzNWkxUUpVYWVUWWdQZk9Z?oc=5).
 
 ## Requirements
 - Python 3.8
