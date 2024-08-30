@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie Spent 'Seven Months' Training to Sing Opera in 'Maria'**
+**A Hong Kong court convicts 2 journalists in a landmark sedition case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWpjU2ZBTXB5UEd0MUZCQjlzb2h4NTJLeGotdkVsUm80c3M3UjZCY1BHa1VVY3pGZnNiSVIzb21TVGN0Y0R2V2dVdmlHT0JkNlFGT2V0dTNlcUljT0Y4VlF4Z001TFhqNTV2VHBMamxwelpiZll1LXpnemN5UUJoZHNOYUJfbHZBalY0M0VqOEMwbVZtczZ6czVGU0JNX0Z2R2QwSG9FWHdReDBfR1pOREg0UVozemxsUjBHaWVtd2p4bTA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFlfRGRROGJ0NTlDMTcxYXh1d21VTVVOU3ZsNC1ZZlJfbXhLYVBmc0duWTVhbVVhUVpqWjZqYkdSWE81OWM5VDJBNG4wYTNwRElURGFJeEdrS0FZZXFERzNXUS1yQmVOazdoZEJUYjhqY2MtT0p2U2NPRWpVZHNkQjJxajJic3pQOW45OVN1d1Q5OXhHNTljeWlxVm5zNTNVSFJoOQ?oc=5).
 
 ## Requirements
 - Python 3.8
