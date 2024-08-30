@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Hong Kong court convicts 2 journalists in a landmark sedition case**
+**American archaeologist drowns after Viking replica boat capsizes in Norway**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFlfRGRROGJ0NTlDMTcxYXh1d21VTVVOU3ZsNC1ZZlJfbXhLYVBmc0duWTVhbVVhUVpqWjZqYkdSWE81OWM5VDJBNG4wYTNwRElURGFJeEdrS0FZZXFERzNXUS1yQmVOazdoZEJUYjhqY2MtT0p2U2NPRWpVZHNkQjJxajJic3pQOW45OVN1d1Q5OXhHNTljeWlxVm5zNTNVSFJoOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWFlLVFxSEthMFIwY2t1TWt4eTNFeThCVzlZeWJZM2xuN0lGUkwxUFRVTlR2aTU2ZHh6SFRLRlVlV21QVHdMTHBKaGFoOGtpeU9QZUpOUklTbTFlZXB2N0pXRTk5ZkFOZThyRVRXS3RCRUktMzVZeFBfaU00VnVFLVRjS1ZoU1BGWGpSaHM4XzDSAYcBQVVfeXFMUGhCcE5oM2lWM3FmV1BJdXUtekVMVWVLLUhJWl9uWVItYncwOGpVQkJUb3pJWjE2Z3gwUVNjQVJqUW5DaF9MdmtHZHNOUXNoZm9JVWpxakVseWhiYzhuNngxYnoyMVBLZ0ZKT190UVNXdExvTEVTYnlkOGoxZE5OZWxkbUtiQkNJ?oc=5).
 
 ## Requirements
 - Python 3.8
