@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘We are afraid’: East Africa struggles as mpox spreads amid vaccine delays**
+**The Morning After: GameStop’s retro gaming pivot**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUx4b01RLUstUk5ad1pINFFpWGVtd3hNeFFoSTVYRkpYUFk4ekRSSkMwZGw0V3VxbnZ5Q0dha190TldwS1hoWWNLVVlPVkQtTlJ2b29BcnBFYk5fS2lObm1BN2EwTG9aR0F5TW5EelltbG14WGhpekZSY3B4LVo2dXhqbHZPc0dVTnJIZW1maHZUcXV0RV9FVUZMUVB5MGdHT2pIenAtcEdUN1dWb25lUGhOUmdxS0XSAbwBQVVfeXFMUFV6UnBrMWg2ZTF6YWQzdnFiMHk1MjJieGc3bFFfdFdhYzBqMTRQZzZSWlFsV2U0WU1tbUtLa1d1OUY4VUUyN0IzZmF4SFpvbUlkd1dxMlRWZGN6ZDJybElUcXN5QWlJZWpwTmNZbzdmZ0pfdUVhaU5MaEtfemY4WVFkckEtYWdXZXd1cXFwVjlsY1lqOWNTU216ZWdITnN4aXF2TzlYbmJIaGsxZllvMzMzRTFQcFprUU1zT2g?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQdXZGMU4tOTY1V29QazhLelVDSHVSLXlzcWNqM1B4RWtVdkM1dnUwX3BiNDI4cjhzQ280NnFNNnhRekZ6YkFpTENvVm5EREp5R1VJZ0tYUXVPbENRSXNON2ZGSFIzeDRKdVlPT1dtYTk0OUFRdHQ2azV1SVlfbzZja2puZi0xdzZHQm11NUo1akZCV3ROMFBFd0N3?oc=5).
 
 ## Requirements
 - Python 3.8
