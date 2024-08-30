@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When and where can New Yorkers get the latest COVID vaccine?**
+**Marmoset monkeys call each other by name, study suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KV1RhOE8yLWpNYVh4dzBDaGNqTjZfUUg5UHlZZm1Rek45MHBldE4xdndrc1NVN19wWWNia1BSY1lFVkloMUdsWVZ1OGxEcG9ISlFCYjdiZ0tGRVY5MjFRdndfZG9JcTc4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxNV3hLdTJNZGoxbFhJVmxjYnd4d1liMmdyei01MmtCMGxKNzdCZW9ta1J4MmZCSHhFcEdSUzlHS1BWd3Z1U3Y2OGtRUHFEU1paRk1LemlDRkhHVFBzeWVSbjQ1aVhkVHdHZ0R6X2hCUjhPMUlJck55NFNuQVk4Mk1kOA?oc=5).
 
 ## Requirements
 - Python 3.8
