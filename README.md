@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Call of Duty Next: Everything Announced for Black Ops 6 and Warzone**
+**Former Stoughton police officer charged with killing Sandra Birchmore while she was pregnant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGF3bnVtVzFMcGx1bXBIWHNwNjZVeFA2aFNkZC1TbHZxbG52aTFuR1huTjdvMURDdHFrNXI4MzlILWF5Z01BWXlDWWdzcXg1QlVNejUyX1YxUzU0Y0N0aUFxVi1wZDZMdVdmcjZ5dGEyVGdhZVE2cnNvek8yTzNKZ3ZmXzJCQ3JneHQ5RHUwMjMxbHUwSmdLQUZwQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMUt3S3I2U0ltZk12UkRDY2RCNmFVMUg1dktiRUdMYUxSNE9qSGIyQXlpZ1RlV2k4bV9XNGZHZVlkZ0p1SllZWUlzb21kTkI0em9MbHJFdVhhRUJsTkNaQmNLTnNjM1EycXB2RTlnR3Zkel9jV09xeUNxSFh4c1FuZGtBRElycW1qYlNLWVhYa2xNYWVVVUozTnlR0gGfAUFVX3lxTE9MeVdWZTJYQ2RMb1ZQTnFMVEJGRjVPZ3VEUHk3bS1icUZuU3EyNUNzUVhMYlJJU3dDdFlGMnNvcWhlSk5WM2t3eS0ybzk4dDcyZ3daYWhJd0NWc2VoT1Vmd2ktRDZPMHQ3cF9pWkZJYmtqM3ZFVXpzc3k3d3k2aE9oSDVWd1pPZVJ5bEw4WXA1emltMGQ4ZUVxNzFOYnZaOA?oc=5).
 
 ## Requirements
 - Python 3.8
