@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Tropical Depression Or Storm Could Form In The Atlantic By Early Next Week**
+**Harris-Trump debate rules include muted mics and no audience**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmZ2UXlfdkNUZVNQVkJsaW5hYTMxZmVDZXdPRVk3VVNTM1U4ak9wb0pVZXAyUU4tRmJHZnIzdUV5UXRLbzU3SDN1akw1V0VlZjctRE9yWmZrRzFCZXVaVDBmNGxjcDZrdVNZWk5LTFNGU1VjX1JwcGItZXhTSlNoUEJuNEg5RWJzcUR6bDZqdkc4OC1nRjZMdldWQ0hEVFpwbUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxOaWk4ZkMxcG1BUU1jaURVclJNblRMN1BtVkVGRmhVMm1Mdm5ZMXFuaXB0WXZxMGFmaDlrRGlvTm4tSEtKTnVLWDlINkxhYks0eDN2NUN5N1dmS2RWUndCcm1Ldm9qcFF3ZWlHZnFMenpEa0pKNXdFcDBmOEx6NlZHcGhURmZKcWhib1Q1aGFUclFhMXJ3Q0NaRTlUT1B5eFnSAaQBQVVfeXFMUHR3VmFjcUQ5S2RSTDlCWlhxMjlielJndTl4WGJyc3dwbElSbU5mRXlmMjg3UWFvTVFXQndTemt1RVhjVlZJZ0xBSFVlQ3VoNkxOS0JJNDFpTE9vV1pyTmpZRkp2ckZtSzVwUUFuemJXMmIybm9YalpKU0Q1WTZ3Tkg2aGNZUDNlRjJqUi1MVkFCZ2FyYmItbWtBUzlnVmxRNHJnNng?oc=5).
 
 ## Requirements
 - Python 3.8
