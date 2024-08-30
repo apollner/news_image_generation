@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen decapitated in vicious shark attack off Jamaica coast: ‘He went to sea by himself’**
+**FBI releases new photos and details of Trump shooting probe, finding gunman had "mixture of ideologies"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUh4RERpYkszQjFNZGlKbFFBX3NtQjN6amp1T0VKWnJwNjlCT1pXbkwyVkgxcXltMTVFV2JPYk90bThuRUJ0b0ZIcVFnZXhwaHhCMWxUTi1JQkZOdnM5cTd0X0E5QkF4QUU3NUE1eW5oQ1hfVjhOaV9PMjZLRDl5emVrU1h4NkxRT0N4MXh5UDhiM0d3OHYtWmdzYWIwbGs4V2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzdEM1Z1eUhaLWhfTmxlZTFpWnZFcmVhNFlYQ1oydXpaamQ4bHZDeEtoZ0JUUE1jS1FMLUZ5UTI1X3FscUZUVlE2RkdJOHdSS0ZrTTRhZk1ORzdkRGZUbXhSckREcHRpal8tYTZYUFptYUhhaVh4ZVJ4SzRQbTdSRUVDRWFLNWQ2Q2xmYkk5OVBVOHZmX2Uw0gGcAUFVX3lxTFBQNHE1eDdXczRyVnl4RlRLNTQ0VzI3ejJiV3c0YXVkQl9wRDY2RkVTRTlCbzhtVTZocmRYQVl1SzdQV0NuVzBicjFZQ2J6dzJyQ0ZjSldKY2YyczdyT3FNN1VYT0daaEJmMzBVblZRM09YcGpJQUdoRVRfTjZPNDA3QlRZYUFXT1RFZk4xV3c1OGxvZ2VCNUNaNXBGTg?oc=5).
 
 ## Requirements
 - Python 3.8
