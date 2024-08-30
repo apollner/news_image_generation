@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift concert terror plot intended to kill ‘tens of thousands of people’: CIA official**
+**Thai court sentences a YouTube chef, who is the son of Spanish actors, to life in prison for murder**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0d0cHBvM1NoYmVYOWM3T2VrRUF0M0ZrM2Y5UWZvWDkzeFlBMnotdHRVQnJXaDVSSllDUHhQLXFIZFpJbFhUYWRLeGdlQ2IxZzRDNUd0eGs3QjJmSXdkVnlqR3RHc05pVk9sQnFkaHFuVndfbGlkQWllSzZxb085S3JwbzdhNlFweHgyU0RXYmZIS3diNmNMZWFpZGZibktOb1VvVUZxUFdBd1Y4OUZOUlZqaVdYc2I4NUlMYXNFMWpUMm9KZnhtYm1TNEQ0VmN2?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1VkZ1QyemJhN2hiQm90dDc3NG5iOHlxanZpQXBRMWJnM3RySHBRZEozZklWOTZWOWIyTEFqNVI5cUFYWVdabkRoc0hWcUlQRUg1X2liRzNidGF5Z0xOLUxoY1lidkVLd0VSeTlHNV9WOUxoM09WTUkwT0Zpa25ITkFkcDdaaGdNV01CX2xod2dJRUxETFBNRl9KdkxodjVOUUxPY0lWa3VnclBYU2U5RlV5Mm5QVTNOeUE?oc=5).
 
 ## Requirements
 - Python 3.8
