@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX’s Falcon 9 Rocket Grounded Before Launching Billionaire on Private Mission**
+**Son says Aryeh Zalmanovich, 86, ‘was murdered’ in Gaza hospital next to Farhan al-Qadi**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlVYVEgybC1HeWh5TjVMbU1HZW00NTJRWmFwTVc2b1lsaWlhdnNhb0Y5ZkF2RS1EYnVsQkY0QUdsaFQ0b3J3bW9TQzN0T0tYbkhobHBFOTRnUmU5eGVYS3pvbWVYYTctbnBzYUR2RDd2NV9wTlZNMW1aUUd2Q21OWG9LcldTM0RqeFpBZFZ5WlQ3aUZRUl9lZ3BhQW4ybW95NjJzTzR2LXJHSTVsUExLYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHhZQXVNNTJoTnk1bDd3NFF1VWIwX3NTNzJON19lc0hoOEhrSzB2ek04U1planFndmhoeHJqdDEzSFl4NUhINlFwSFU5a2ozWUpUaVhZOWhOX1pwb0FLWkd5aTVtOGd1NzZBc1loSkhRYmszbFBLUVhhM2FCWFJQYWMtajdYREduWU1YWE1PbVdIelJqREZPMWFiRzhtZVluWGd1RFFFYzd3WEVyZlY1TDg4QdIBuAFBVV95cUxOWHAtM3J3cXdGYUt4TTN2T0VpSmMwc3BCeVFpUFFQYm1RNTZRM2RXX3h4RmM4ZmlhR3BKWHFBNXNUMW5vLWw2X0t3M1BBRUZXV3VidFFwdWs2di1nV0toSGdiaVFTN0hDZXNXVnU3cEpnck12NzU0b2U2VTBKa29uWHNvTkZ5NnY3NFBPVFFHZFVON2lJZlZLNVBJUTNIQ0hoTXBQRGZ6LWNHTXhGNlN4NnhFN2ZuTmVL?oc=5).
 
 ## Requirements
 - Python 3.8
