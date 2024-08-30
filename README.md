@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launch of Polaris Dawn mission delayed again, indefinitely on hold**
+**CrowdStrike cuts forecasts as Windows outage weighs on new deals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG1vSXRhQ3pSOEl1V2lvWVJZa2lEbWM5V1htR3A0X3A5OENxZmFvcWpFaGV6cUw5NVJobTZaSkN1VzVKT0VFa3VzM1gyWlI0UUxlUUJ4YTJZTG1aZEM1XzBFQ0pIYU9haHU4Z2o5RUlzQkhoaDVFeUI3TzdHMEo1LUl3dkZIVENKQkw4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2QyczFScUR4TWgtQ2ZHVWhBbEhtNThjMEozeG9ISzl3cXJ2RXAtZERNWjRSNldIUXZQSVB1alI4a0c4RGZxM1hjQUVFSWNaNi1hUjBmVzFpMWI1U2U2RVFMNkM4bEV0b095Y19kdV8zOVdHLVhNejRtSGtJbkl0S1lFcHZmM3ROM0ZMcElMb3Q?oc=5).
 
 ## Requirements
 - Python 3.8
