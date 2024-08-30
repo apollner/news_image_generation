@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple introduces AI-powered object removal in photos with the latest iOS update**
+**Hampstead plans to spray for mosquitoes after man dies of EEE**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWFKenc4WEhFWld5VFFrbEVLNjRsbmNMcTFhUU9TSndiYlBHVmJqNVlfYWE4YnlyajBnSldqaW5fU3BhSUZISUYwWDFBXy1XZWxOaVZGVWMxWlQycTNFRGowekk4a2M0UFU4X2k2OTBGVHNEWmtRQ1VPek5xd21oUkpGOFJqSFowU3pWOTdqeTJhMU5CUWZoTmpKTUNtd3RnUGVJRjdrWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjdZRDJENUhSTTNLb0pIcXpNNUpHVW1HeXEwUTdNLUtCMzVJMGJON0ViQUxCSWVscHFYSU9UaFoxWXhTZU14ZWpGZDk1RldFYWhObF9WdVdfUUhNLVBRTzBOMm51WWp3Wk1fRWxXOGJkaW1nUlRNQkVkR2pjWFlfWQ?oc=5).
 
 ## Requirements
 - Python 3.8
