@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CrowdStrike cuts forecasts as Windows outage weighs on new deals**
+**Robert Telles, former politician, found guilty in killing of Las Vegas journalist Jeff German, sentenced to life in prison**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNS2QyczFScUR4TWgtQ2ZHVWhBbEhtNThjMEozeG9ISzl3cXJ2RXAtZERNWjRSNldIUXZQSVB1alI4a0c4RGZxM1hjQUVFSWNaNi1hUjBmVzFpMWI1U2U2RVFMNkM4bEV0b095Y19kdV8zOVdHLVhNejRtSGtJbkl0S1lFcHZmM3ROM0ZMcElMb3Q?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWJybzh1RXQ3NjJ3MVVRTGVTWjZESnZSeUhlaDBZUnNIenpnS3hocEdYZkdrSzItcExMcUxYd0JlaGt3aGtxYk9waDNFWXNwdTVJRDBrSWRxV1dGTlQ1S3c3VXJwMUV0ZnhPZk5KQWxvYlk0a1E4bUdobnBlSGlFOUZR0gGHAUFVX3lxTE1JWWRQY0lLZmhRcVh6RWtGWXE0THFNcUZKNG4zMDRFekFxeXJIRnJDM3dfUDJXYW11XzN2N19qUlZZMDZfTDN0SEl3dnZiV21QcDJ0WmN0eUZhNi1DVXpmQTV0NF9hZVpnUld4Y2dwTnIxX0MwTlJVUlIySjlrTDBHQmhaWVVGUQ?oc=5).
 
 ## Requirements
 - Python 3.8
