@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Falcons trade QB Taylor Heinicke to the Chargers**
+**Robert Telles, former politician, found guilty in killing of Las Vegas journalist Jeff German, sentenced to life in prison**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWpzVmVrSUlIM1licHRLQnh0MEZHb05MV29KUzI5d3h6eW9tZUN3dGlBaHQzcWxzYnBfcXJ4R0ZvWEVhN25feUN5Vk9xOUFUWWZFazl5Zk55blVfZzNQOGZBZ25CenhqakgtZmhGdERBYkJwdFE1ZXVCbGlhTGZjRmpDNnBpaG1UWHI0VktXVW96WTFYLUhEWEQzZzBjaXF3MzA4Wl9vc19nc1FEel9R?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWJybzh1RXQ3NjJ3MVVRTGVTWjZESnZSeUhlaDBZUnNIenpnS3hocEdYZkdrSzItcExMcUxYd0JlaGt3aGtxYk9waDNFWXNwdTVJRDBrSWRxV1dGTlQ1S3c3VXJwMUV0ZnhPZk5KQWxvYlk0a1E4bUdobnBlSGlFOUZR0gGHAUFVX3lxTE1JWWRQY0lLZmhRcVh6RWtGWXE0THFNcUZKNG4zMDRFekFxeXJIRnJDM3dfUDJXYW11XzN2N19qUlZZMDZfTDN0SEl3dnZiV21QcDJ0WmN0eUZhNi1DVXpmQTV0NF9hZVpnUld4Y2dwTnIxX0MwTlJVUlIySjlrTDBHQmhaWVVGUQ?oc=5).
 
 ## Requirements
 - Python 3.8
