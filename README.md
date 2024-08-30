@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-politician found guilty of murder in Vegas reporter’s stabbing death sentenced to life in prison**
+**An Israeli freed from Gaza returns to a village where 70% of homes are targeted for demolition**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQYW01MHRYRWlveHNLRmFIN2gtSDlXTTFyY1dYM1JMZ2NGQXVtSGtTN3YyN3BPZ3NQZ3NSRmtsUU9QSXFGU3htV2VWN0NETFVSYlE4ME10WUVzMkxMMkdoNnJOeEMwT0dZa0tXd2o5XzJUNU82Sk1zcUwzVE1vZlVXaHJKdDUxN3BJUWg3aWRrZ9IBhgFBVV95cUxNVUNhaUNIU3lwY0t0WXdwdFJWZEhjSDRLcl9vQ0tmT280cnJzMXFOVy1PYVU4RlJvZ3MtSW1pSVA3emdRcjJKeC0xdVcwTGNGdWxURXJPaVpZWUk4Vko2d3pmYnZCNk0wZnhScWZhZVhVX2dPeXBhNDdPLXNzN0dBLTRUdDMtdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1N5ZGtaTnduNXlqTC1ZbGZFWmNiRXVrUGx0dkp4Z1pWUDdkWWsybnlZUmwwVjR2clF3Smo1am1Za3M3RjNzYU1lTXhEeDhVNFJIWlVJcTZuT0wtM2hLbDg5TEwwSDA3cjU2LXU2aXdZNHJqYWRncWtlNzBGcElnZnB4amhmVEJZQl9FWExaU3U3U21VcjdmSmRpZG90V0RITzk2UlNvZ1pHdw?oc=5).
 
 ## Requirements
 - Python 3.8
