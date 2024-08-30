@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Telles, former politician, found guilty in killing of Las Vegas journalist Jeff German, sentenced to life in prison**
+**SpaceX launch of Polaris Dawn mission delayed again, indefinitely on hold**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWJybzh1RXQ3NjJ3MVVRTGVTWjZESnZSeUhlaDBZUnNIenpnS3hocEdYZkdrSzItcExMcUxYd0JlaGt3aGtxYk9waDNFWXNwdTVJRDBrSWRxV1dGTlQ1S3c3VXJwMUV0ZnhPZk5KQWxvYlk0a1E4bUdobnBlSGlFOUZR0gGHAUFVX3lxTE1JWWRQY0lLZmhRcVh6RWtGWXE0THFNcUZKNG4zMDRFekFxeXJIRnJDM3dfUDJXYW11XzN2N19qUlZZMDZfTDN0SEl3dnZiV21QcDJ0WmN0eUZhNi1DVXpmQTV0NF9hZVpnUld4Y2dwTnIxX0MwTlJVUlIySjlrTDBHQmhaWVVGUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG1vSXRhQ3pSOEl1V2lvWVJZa2lEbWM5V1htR3A0X3A5OENxZmFvcWpFaGV6cUw5NVJobTZaSkN1VzVKT0VFa3VzM1gyWlI0UUxlUUJ4YTJZTG1aZEM1XzBFQ0pIYU9haHU4Z2o5RUlzQkhoaDVFeUI3TzdHMEo1LUl3dkZIVENKQkw4?oc=5).
 
 ## Requirements
 - Python 3.8
