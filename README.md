@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American archaeologist drowns after Viking replica boat capsizes in Norway**
+**Telegram’s Pavel Durov built a haven for free speech — and child predators**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPeWFlLVFxSEthMFIwY2t1TWt4eTNFeThCVzlZeWJZM2xuN0lGUkwxUFRVTlR2aTU2ZHh6SFRLRlVlV21QVHdMTHBKaGFoOGtpeU9QZUpOUklTbTFlZXB2N0pXRTk5ZkFOZThyRVRXS3RCRUktMzVZeFBfaU00VnVFLVRjS1ZoU1BGWGpSaHM4XzDSAYcBQVVfeXFMUGhCcE5oM2lWM3FmV1BJdXUtekVMVWVLLUhJWl9uWVItYncwOGpVQkJUb3pJWjE2Z3gwUVNjQVJqUW5DaF9MdmtHZHNOUXNoZm9JVWpxakVseWhiYzhuNngxYnoyMVBLZ0ZKT190UVNXdExvTEVTYnlkOGoxZE5OZWxkbUtiQkNJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25DNDZydy1LYlpHUHZXQy0yckp6d0VnbzF2TjRZcTlZeUVTZFZXb2RFMkdneUVBcVNwblpqbnJka1NiOVBfMzcwcTBNcXNBRlhwcjZra3A5cUZRc21CMW5rUHc2YlEzVF9oSWc2NkNnN0xMRzF3WnFSWnZQRXA5RmY1VFZRRldQSG1EalNJWk44VXA0UERXNmV1TDNiVGFoazVoc3hJUjFUbnVZTThJ?oc=5).
 
 ## Requirements
 - Python 3.8
