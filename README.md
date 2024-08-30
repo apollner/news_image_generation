@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Typhoon Shanshan pummels Japan; millions told to evacuate**
+**Exclusive: Top Ukrainian pilot killed when US-made F-16 fighter jet crashed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQME41cVZmQ1JDcVdLdWNhQ3VuSXkwdUtxYmZsRDRHS1BYYV9CamhhSnRiRFlCSFctVDV1blRVa1N5S0lMWkJ4cGJieU1VSGV4WloxTTVHZmtXTGtqeHRRWF9PN2pHdDlqWkdrSlozNXpMMGhEODlYV3JEZFBoYnZENkRoQUxRQzZzODQzNFU0bWV2S1RWSlJGQUx3ZEF0Ni13TUdmMjgxanpzbW5lVURoUXpxdDNlX3BYeklldENQdzc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE15bTNPXzNNUVhobDVMenhJYko5OWcwa2R1ZFJNWTlqQ182SWdhLWptY19kVUh1aHNmaVpTdHlZRVpHV3N3VEp1dzVpenkyam1WN3JfcHBRV0JzSTN1Q3hpYS1iRHN5MGZpNEQ1dF9ncjhLMml2d3BwWktQbVVaZ9IBdEFVX3lxTE9HLWdlMUswNGRaeF9ZTWlLRHhuREpSTU5jU1M4dWltREw0c1pDWGlMbmo4bkxpb3pPLU52OWt2anJ3ek0zNEVHLXNqb2hXd3ZhVnJmRXpZaExjTnVzOG1HV3JpSkluQmlZdThUS1Z3dDg5TnpP?oc=5).
 
 ## Requirements
 - Python 3.8
