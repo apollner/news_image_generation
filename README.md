@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**K-pop star Taeil quits NCT boy band over sex crime accusation: What we know**
+**Idaho murder suspect acquittal would lead to riots and "good ole' boy justice," survey shows, according to lawyers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3pRRmd1TFY0YTZYMmgwTkpRYmNUYm4tOFphQTExdHlJMEZJbnJPYld2d0hKeTBwZ2FXRTZKV0R5SXhRZzFrSlc1VUVSZG5ha2xuRHVIb2lEQ0hOZld4Q29SZEo1RF9YX0JHRTlqYUhNUVFYRlVGRDFsd3JHb3lFZUl5LVhHUUhSMmFMMHgyaG8yT1N1clR4enpnOFNNanVoeVBHTHBDOEJkRzVGS19ocE5ka2l3UdIBuwFBVV95cUxOdlRkVnNfaHNaZzZ4TUI3U3NnZmJ2OHhfOXN0RXQ4ZFM2a2UzM1I1UVVBX0pvakt3MFRGTWtOUDc3ZWRCOGNMcGRIaWlUb0J1YU9CSTA1SEIzREdfdUhVdC00YW5hb3BLRlFwWUJKLTNwZ1p2SFpuLXZOZzBtcndEOHdHUFJtdGd3cHROZFlYM3d3UnZnOS1sdU9iSV83RTFNSXVIQm5heHg1MVJNUEhIWXByZVI3dXF5cGxN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxNUzB2TnRVWk1RR3JUMzl4clRhVktDV2d4bFFDckhkeDZHNGVnRU1COHJ6QWFjNm1KbmpiTVNmWmh4SU5GWVd0SXhqVmFsTU15U21kbDdkZ0p0c2NBQXdqd196VUxiNmM4TUdWWXFrQzdmOS04YUduUkdEaEdWLXV2VjJSZlAxZVM2c2xxNFdXMUJrYVA5djdUSW9GTkJYcFZ0cmViUNIBqgFBVV95cUxNNnNoM1RLOTFLcUM1cFVrMEFVUmZNdjRmSVdTdjlOQ3BMS0FnWjZjNzdrR2VpaGg4UW9IdnhRaU1CaGlpM1Z3eGZiUUM4M0pMbXV1UG9uVW9wYWRTSWlRcXpzR3otTG5VMjFPR09zakpwd3F5N0FNTmV4SFROWVBITDhsbWJQR2FMLTBRVzRKYW13MjN4eU53cENraTJ4SDJCb1B1UnI2OTRjUQ?oc=5).
 
 ## Requirements
 - Python 3.8
