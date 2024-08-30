@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Queer': A24 Lands Luca Guadagnino's Daniel Craig-Led Drama**
+**Falcons trade QB Taylor Heinicke to the Chargers**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWxrbUlVdnkzLTkxR0RjNEVSODNzaG9kdEZjbjR4Nlg2ZGR4RGVtd01wdWV0ZGNvOXkyT3lpZlpxUThWYzN5T09oZTBJRFF0NVpMQzAyMXZmNUEzRmdhMG1QTW53eHpKNmhFSWh6dS1TMS1vZFBubmotd2tlSDNSTHZYSzZJdVNYVTU5NFBR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeWpzVmVrSUlIM1licHRLQnh0MEZHb05MV29KUzI5d3h6eW9tZUN3dGlBaHQzcWxzYnBfcXJ4R0ZvWEVhN25feUN5Vk9xOUFUWWZFazl5Zk55blVfZzNQOGZBZ25CenhqakgtZmhGdERBYkJwdFE1ZXVCbGlhTGZjRmpDNnBpaG1UWHI0VktXVW96WTFYLUhEWEQzZzBjaXF3MzA4Wl9vc19nc1FEel9R?oc=5).
 
 ## Requirements
 - Python 3.8
