@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX’s Falcon 9 Rocket Grounded Before Launching Billionaire on Private Mission**
+**A Hong Kong court convicts 2 journalists in a landmark sedition case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlVYVEgybC1HeWh5TjVMbU1HZW00NTJRWmFwTVc2b1lsaWlhdnNhb0Y5ZkF2RS1EYnVsQkY0QUdsaFQ0b3J3bW9TQzN0T0tYbkhobHBFOTRnUmU5eGVYS3pvbWVYYTctbnBzYUR2RDd2NV9wTlZNMW1aUUd2Q21OWG9LcldTM0RqeFpBZFZ5WlQ3aUZRUl9lZ3BhQW4ybW95NjJzTzR2LXJHSTVsUExLYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPSFlfRGRROGJ0NTlDMTcxYXh1d21VTVVOU3ZsNC1ZZlJfbXhLYVBmc0duWTVhbVVhUVpqWjZqYkdSWE81OWM5VDJBNG4wYTNwRElURGFJeEdrS0FZZXFERzNXUS1yQmVOazdoZEJUYjhqY2MtT0p2U2NPRWpVZHNkQjJxajJic3pQOW45OVN1d1Q5OXhHNTljeWlxVm5zNTNVSFJoOQ?oc=5).
 
 ## Requirements
 - Python 3.8
