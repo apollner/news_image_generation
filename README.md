@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI releases new photos and details of Trump shooting probe, finding gunman had "mixture of ideologies"**
+**'Queer': A24 Lands Luca Guadagnino's Daniel Craig-Led Drama**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzdEM1Z1eUhaLWhfTmxlZTFpWnZFcmVhNFlYQ1oydXpaamQ4bHZDeEtoZ0JUUE1jS1FMLUZ5UTI1X3FscUZUVlE2RkdJOHdSS0ZrTTRhZk1ORzdkRGZUbXhSckREcHRpal8tYTZYUFptYUhhaVh4ZVJ4SzRQbTdSRUVDRWFLNWQ2Q2xmYkk5OVBVOHZmX2Uw0gGcAUFVX3lxTFBQNHE1eDdXczRyVnl4RlRLNTQ0VzI3ejJiV3c0YXVkQl9wRDY2RkVTRTlCbzhtVTZocmRYQVl1SzdQV0NuVzBicjFZQ2J6dzJyQ0ZjSldKY2YyczdyT3FNN1VYT0daaEJmMzBVblZRM09YcGpJQUdoRVRfTjZPNDA3QlRZYUFXT1RFZk4xV3c1OGxvZ2VCNUNaNXBGTg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWxrbUlVdnkzLTkxR0RjNEVSODNzaG9kdEZjbjR4Nlg2ZGR4RGVtd01wdWV0ZGNvOXkyT3lpZlpxUThWYzN5T09oZTBJRFF0NVpMQzAyMXZmNUEzRmdhMG1QTW53eHpKNmhFSWh6dS1TMS1vZFBubmotd2tlSDNSTHZYSzZJdVNYVTU5NFBR?oc=5).
 
 ## Requirements
 - Python 3.8
