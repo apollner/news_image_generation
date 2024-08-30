@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli freed from Gaza returns to a village where 70% of homes are targeted for demolition**
+**K-pop star Taeil quits NCT boy band over sex crime accusation: What we know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1N5ZGtaTnduNXlqTC1ZbGZFWmNiRXVrUGx0dkp4Z1pWUDdkWWsybnlZUmwwVjR2clF3Smo1am1Za3M3RjNzYU1lTXhEeDhVNFJIWlVJcTZuT0wtM2hLbDg5TEwwSDA3cjU2LXU2aXdZNHJqYWRncWtlNzBGcElnZnB4amhmVEJZQl9FWExaU3U3U21VcjdmSmRpZG90V0RITzk2UlNvZ1pHdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3pRRmd1TFY0YTZYMmgwTkpRYmNUYm4tOFphQTExdHlJMEZJbnJPYld2d0hKeTBwZ2FXRTZKV0R5SXhRZzFrSlc1VUVSZG5ha2xuRHVIb2lEQ0hOZld4Q29SZEo1RF9YX0JHRTlqYUhNUVFYRlVGRDFsd3JHb3lFZUl5LVhHUUhSMmFMMHgyaG8yT1N1clR4enpnOFNNanVoeVBHTHBDOEJkRzVGS19ocE5ka2l3UdIBuwFBVV95cUxOdlRkVnNfaHNaZzZ4TUI3U3NnZmJ2OHhfOXN0RXQ4ZFM2a2UzM1I1UVVBX0pvakt3MFRGTWtOUDc3ZWRCOGNMcGRIaWlUb0J1YU9CSTA1SEIzREdfdUhVdC00YW5hb3BLRlFwWUJKLTNwZ1p2SFpuLXZOZzBtcndEOHdHUFJtdGd3cHROZFlYM3d3UnZnOS1sdU9iSV83RTFNSXVIQm5heHg1MVJNUEhIWXByZVI3dXF5cGxN?oc=5).
 
 ## Requirements
 - Python 3.8
