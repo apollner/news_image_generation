@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Top Ukrainian pilot killed when US-made F-16 fighter jet crashed**
+**A Tropical Depression Or Storm Could Form In The Atlantic By Early Next Week**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE15bTNPXzNNUVhobDVMenhJYko5OWcwa2R1ZFJNWTlqQ182SWdhLWptY19kVUh1aHNmaVpTdHlZRVpHV3N3VEp1dzVpenkyam1WN3JfcHBRV0JzSTN1Q3hpYS1iRHN5MGZpNEQ1dF9ncjhLMml2d3BwWktQbVVaZ9IBdEFVX3lxTE9HLWdlMUswNGRaeF9ZTWlLRHhuREpSTU5jU1M4dWltREw0c1pDWGlMbmo4bkxpb3pPLU52OWt2anJ3ek0zNEVHLXNqb2hXd3ZhVnJmRXpZaExjTnVzOG1HV3JpSkluQmlZdThUS1Z3dDg5TnpP?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmZ2UXlfdkNUZVNQVkJsaW5hYTMxZmVDZXdPRVk3VVNTM1U4ak9wb0pVZXAyUU4tRmJHZnIzdUV5UXRLbzU3SDN1akw1V0VlZjctRE9yWmZrRzFCZXVaVDBmNGxjcDZrdVNZWk5LTFNGU1VjX1JwcGItZXhTSlNoUEJuNEg5RWJzcUR6bDZqdkc4OC1nRjZMdldWQ0hEVFpwbUE?oc=5).
 
 ## Requirements
 - Python 3.8
