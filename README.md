@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matching dinosaur footprints discovered an ocean apart**
+**United Airlines flight from Cancun to Chicago diverted after passenger hurt during severe turbulence**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOUVlSbGh6NUVNYlhyUS00TXQ5UW9GeWdfQkVWOWxOLWcwY0d2QnBuSmFWR2c5WENUdGo5UnFOSkJ1YmF5VlZrVUNDN0p5cnR2UHc4dm1Hb3BNMmU3dFZpT3Z3UHBiRWRWZGswVnlWeEhIY2hNWm52ang5LS1tWFpMaldfQ2M0ZXRBcmkyQXdHT0lrQXlmeUgwLUdRY1dpWDdRd2NV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZTY0RUlKQjR4YkxoYko0VGU2cEs4OGFCd05STEpzdEtEM1A0ZDFlbUtYX2F2TDRhZXRLS0hrekp6QWdDNm5tX1Q5WHN1UG9ST3ZrU2IxN1JiYjRIVG1rVXdpYnRkRVRWVTdmSHQ4WER3WDZsLUtkdTdjNF9GUEdYZGQxYnM1d1ZFZU5KdDZhMU9Tbm9uLU1xMEZ1WC1KM0dUS2kyNXJZeDU3cDdHTE1zTlkwUERMeEp2dUpaQmNucmlUSTlSN05JdF93Mm9UN2hfclQ5VUFjcG15T1p3RjNPc3RxQ1dTY28?oc=5).
 
 ## Requirements
 - Python 3.8
