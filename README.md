@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Airlines flight from Cancun to Chicago diverted after passenger hurt during severe turbulence**
+**Teen decapitated in vicious shark attack off Jamaica coast: ‘He went to sea by himself’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZTY0RUlKQjR4YkxoYko0VGU2cEs4OGFCd05STEpzdEtEM1A0ZDFlbUtYX2F2TDRhZXRLS0hrekp6QWdDNm5tX1Q5WHN1UG9ST3ZrU2IxN1JiYjRIVG1rVXdpYnRkRVRWVTdmSHQ4WER3WDZsLUtkdTdjNF9GUEdYZGQxYnM1d1ZFZU5KdDZhMU9Tbm9uLU1xMEZ1WC1KM0dUS2kyNXJZeDU3cDdHTE1zTlkwUERMeEp2dUpaQmNucmlUSTlSN05JdF93Mm9UN2hfclQ5VUFjcG15T1p3RjNPc3RxQ1dTY28?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaUh4RERpYkszQjFNZGlKbFFBX3NtQjN6amp1T0VKWnJwNjlCT1pXbkwyVkgxcXltMTVFV2JPYk90bThuRUJ0b0ZIcVFnZXhwaHhCMWxUTi1JQkZOdnM5cTd0X0E5QkF4QUU3NUE1eW5oQ1hfVjhOaV9PMjZLRDl5emVrU1h4NkxRT0N4MXh5UDhiM0d3OHYtWmdzYWIwbGs4V2c?oc=5).
 
 ## Requirements
 - Python 3.8
