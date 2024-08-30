@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Son says Aryeh Zalmanovich, 86, ‘was murdered’ in Gaza hospital next to Farhan al-Qadi**
+**Champions League draw: new format to reveal 2024-25 fixtures – live**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHhZQXVNNTJoTnk1bDd3NFF1VWIwX3NTNzJON19lc0hoOEhrSzB2ek04U1planFndmhoeHJqdDEzSFl4NUhINlFwSFU5a2ozWUpUaVhZOWhOX1pwb0FLWkd5aTVtOGd1NzZBc1loSkhRYmszbFBLUVhhM2FCWFJQYWMtajdYREduWU1YWE1PbVdIelJqREZPMWFiRzhtZVluWGd1RFFFYzd3WEVyZlY1TDg4QdIBuAFBVV95cUxOWHAtM3J3cXdGYUt4TTN2T0VpSmMwc3BCeVFpUFFQYm1RNTZRM2RXX3h4RmM4ZmlhR3BKWHFBNXNUMW5vLWw2X0t3M1BBRUZXV3VidFFwdWs2di1nV0toSGdiaVFTN0hDZXNXVnU3cEpnck12NzU0b2U2VTBKa29uWHNvTkZ5NnY3NFBPVFFHZFVON2lJZlZLNVBJUTNIQ0hoTXBQRGZ6LWNHTXhGNlN4NnhFN2ZuTmVL?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ005aHE4Ukt1emtrQ2ltYVlBRkFvbGY1Y2VxNXNldzlwTDQwOGt3ZTNJenZ1bnctUTZtZmFjQVg5eDhYTlB1U3U3UDN4SVIxekVSSTVMdTJfQ01vMVNGLTVtRVk3LXQwNkN3MUQxWUI5WU5IeFQ2NlU5ZVhjZFRVWDNFd2JWUGQ1TVZlajdjM05qTG5VNUFiWE04RU9zMkpvYUlQbmU4SXY5bmY2endtMGY2NThDVURLSVE?oc=5).
 
 ## Requirements
 - Python 3.8
