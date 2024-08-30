@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Telegram’s Pavel Durov built a haven for free speech — and child predators**
+**Typhoon Shanshan pummels Japan; millions told to evacuate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxQU25DNDZydy1LYlpHUHZXQy0yckp6d0VnbzF2TjRZcTlZeUVTZFZXb2RFMkdneUVBcVNwblpqbnJka1NiOVBfMzcwcTBNcXNBRlhwcjZra3A5cUZRc21CMW5rUHc2YlEzVF9oSWc2NkNnN0xMRzF3WnFSWnZQRXA5RmY1VFZRRldQSG1EalNJWk44VXA0UERXNmV1TDNiVGFoazVoc3hJUjFUbnVZTThJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQME41cVZmQ1JDcVdLdWNhQ3VuSXkwdUtxYmZsRDRHS1BYYV9CamhhSnRiRFlCSFctVDV1blRVa1N5S0lMWkJ4cGJieU1VSGV4WloxTTVHZmtXTGtqeHRRWF9PN2pHdDlqWkdrSlozNXpMMGhEODlYV3JEZFBoYnZENkRoQUxRQzZzODQzNFU0bWV2S1RWSlJGQUx3ZEF0Ni13TUdmMjgxanpzbW5lVURoUXpxdDNlX3BYeklldENQdzc?oc=5).
 
 ## Requirements
 - Python 3.8
