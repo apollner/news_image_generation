@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian president fires air force commander after fatal F-16 crash**
+**'Drain, dress, defend': The simple steps recommended to keep mosquitoes at bay**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNREZ1bmNFYTF5TmFvS2wwcU9Kc0NpR1l2TUF1S3hpb0Yxb2Y2TThheW82bXJJOGJrSnhod1A1SkNfUHBwRkl6U1FZYlBqY1RFMFNBYTNZME1aVEUwUWFoUjM0Z2VURTl0QXlEMjlxTDBwMkxIUm9MZ2J2ekd5NG5jM05ncnZyZHI2Nk9QMGI0eVI1Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVlQRG51QlZ4VzYxZzh5SVFBT01JcXMta0VDUmhYb3REcWRFT3VIb0xTc1RSYUVQdlN4MG5jM1d0N2k4aE5HSVJ6SDlHRjI4N0ZDRWpLQ2x4R1M1YUJ4STM1RERTVmZMczNBY0p2VkFaUzh1SlFhRFdRWlU5OTZXWXVzWkgwRlZSSm9XWVNkUjAtS1V4Y3lTX0VZUkNCTEVVR2d6UTBqYmN2SEHSAbABQVVfeXFMT0NLWF9SVDROQmFWNlE3dWVGQTdCTnhjbDV3UUhCUzlYS05CQk81RDF0RUE5U2pzWTNWdGNYVHJUNkltUm1RSEFmbFE5aWx4cUJTTUhJa0dfaWl6Vy1IOERJZGM4dkc0QTN4TjFQQ3B6Q0FmQTBaNVJabW1aSnZ6cVd6YloxUHI1WS1Mck1PSlUxQ0FGdm1vTVJaNDYtSm9RdnJjRkFrRzduRThNVnhzc1o?oc=5).
 
 ## Requirements
 - Python 3.8
