@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock is sinking, Wall Street analysts say it's still a 'Buy'**
+**Trump signals support for changing Florida heartbeat bill: ‘need more time’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWRjbGJMNTlPZnE2V3RIeUhtaUdLdlRxZThzUE0xc2FPVUhrRHU5RXU0d084QkJxSXlzNHZqdkl0NHpmZG9kYzE2dFdOYTNZM2ZtU2NJdkZxempMOHB0VnNPdjA4NnlOcThwNzkyVFFldjE4RXZLZTI5dW1CRm9lRjByUUszdEtBNjJn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUJZLTdIekUxTnE3Zk1EYXUxNG5xblNxZnlYVWNVbERrV256VDlBSW04eTBZcnU2SWtXdDE2bS1rVVJZY3pvSTAyOHVmUkxDektaMVNuM2lkMGNRem5VNFJ6VkIyaFlVVVhNR24yem9lS3BGbk1PWkdFZG1Dekw2ZGlkS2x5TnUzUU5LZWVnLW1EMnJ2cjlra0IyUHVPMWNhTFFj0gGoAUFVX3lxTFBTUndKTTc5LWhyOXRiVFJyNjNVTjdXZjlRRFd2QVJvQWlwWUhNVXdlc3ZjMnIzUTIyTGlJNy11eF9YdEkzR0NRc196bnhwcWREZHZfYUl1VldLNXlpdTBERHZ4Ykl4VHhOWHh2dTljN0RXSC0xSkl1TXRpa3RpZy1SYkFRNFg3TzNHcFpJc0tZUlI1QTRtM2J2akNSMkdBSjkzd3hNLXhSOQ?oc=5).
 
 ## Requirements
 - Python 3.8
