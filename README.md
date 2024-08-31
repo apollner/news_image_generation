@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian Stocks Rebound After Upbeat US Economic Data: Markets Wrap**
+**Exclusive: Top Ukrainian pilot killed when US-made F-16 fighter jet crashed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRjRLc25idUNKUTZVMlpDZzFtd3ZzdVF6WElBVjJhVGNLb3lxaWM2NExxX0dpVjFIa212MV9yMld0ZzVnTHY3RXRrbVJZTTFRV3RiVzRfd3pERGdfX0xKTXNJbHg2alEzZnRKT0YtT19zbFgxT2lFbjRTQkpVS2dzdmpn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE15bTNPXzNNUVhobDVMenhJYko5OWcwa2R1ZFJNWTlqQ182SWdhLWptY19kVUh1aHNmaVpTdHlZRVpHV3N3VEp1dzVpenkyam1WN3JfcHBRV0JzSTN1Q3hpYS1iRHN5MGZpNEQ1dF9ncjhLMml2d3BwWktQbVVaZw?oc=5).
 
 ## Requirements
 - Python 3.8
