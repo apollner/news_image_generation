@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Top Ukrainian pilot killed when US-made F-16 fighter jet crashed**
+**Trump proposes making government or insurance companies pay for IVF treatments**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE15bTNPXzNNUVhobDVMenhJYko5OWcwa2R1ZFJNWTlqQ182SWdhLWptY19kVUh1aHNmaVpTdHlZRVpHV3N3VEp1dzVpenkyam1WN3JfcHBRV0JzSTN1Q3hpYS1iRHN5MGZpNEQ1dF9ncjhLMml2d3BwWktQbVVaZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQamJsc1JtSS1wNnBTTzV5YlZydUhxcHpjMVRvQTRMX1dGN2lHYlBqclNMRWVQMjU5M0RpdTVYLUpsVEtRV2VqSWNpa1k2eDBkMWJZdGpVbERLemtjZGplS3JaUzdhZDZNQTMwc0JoX3pxakotZ2E2Rm45UE9kUl9teWhYU0lpd9IBfEFVX3lxTFBPbmE1M1Q3Yzg3ZVFDSGhMREFjcXlCQk1zamMwWFBFWUF1SkpaSGYtUFFyZU5sdUpaaGJZZTIwNXhsYUlzdURRMEI2OTQtbWhiTUxjWW9XdmlHUjk5ajN3RUJIcm15UHRCNy1oWnE4MXdkTGNuUWFXRGR6TVA?oc=5).
 
 ## Requirements
 - Python 3.8
