@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-checker examines Harris' position on fracking**
+**Harris Sustains Her Momentum in 2024 Contest With Trump**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVBQU1ZyVW1xUEtaNjVJSTViR2YxMTczTHVmbXczLTlPUS1OOVNDdEZ0d3Eyc0FjMy1INjk3NklueU02aHRUaGQ1ZkRFZHZIVHA5NmhkbGVqUzFpR2V5WTNhX0t0RFNQbnNYQXRfREViR0d0VkZWVXd2T0FUeEV4QWVQYXNQT3E5OEVnYjBpcDV0TlQ4a0dKNXFybFdFSG9ibEc5QUpvRmRUZUdsZUJGVkI4bW5vS1kyd0xrdWJMcmI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzFlYjNLTmVjUWlvUVBpSkRWSGEtVVlURUFqUVhTT2EtbkNjT3RmakdUZEdfdmtyRDJGWUExbHQxTDdvNHVUT2xCM3hCNEFKT09XTklVbVE3NFcxRUlCWVNjOW1vYlYza0VBZ0V3cFZOMy1uZElkSTZGck81anJvb2duYVk0ak9DOFlGWmI3bGh4VVl1a3ZuMUhrd1pJYkt5SjJkYVNaSkhnZTBzSlE?oc=5).
 
 ## Requirements
 - Python 3.8
