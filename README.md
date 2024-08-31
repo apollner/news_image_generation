@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNC loses new QB Johnson to injury vs. Minnesota**
+**Trump Claims He's A Victim Of ‘Very Bad People’ After Dustup At Arlington Cemetery**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUVaWW00QWVUYVlfMjB4eXNoMF85Ql8xNzNNSGdpNzgtTktOYWtwaTZsNlE5aHNFYWtyZ0dpbm1RVG1ENmlmZE0yb090MmFfd2gzWXlIRnphUVd6QWt5MWFyTEpPV0xsZ2hmYW9VR3k5R2laclpPdnZjdGk4eXljbnNESHJrMHJkdXNabGV1UHpUbUV0eWhMRFRrcEwyN3FpT2tFWkVVcVlDdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGVUUUtpdmhiN1hCekdWcmJrQkFjN2c5bFVqTEd4ZlpuOEk5eWlSX3dKX1hUWUx3NU1waFdEd2N5bWh5a3N1c3NDdERQeDBuQ0lDV1NneER5al8tMFBDTUlRdmRmXzBXUDZmT2xBS19nNFh2TVlMU2JLU3piLTVFa294a0Vmc0RpVmE4N2gwbThKNWwwUUtvOEdDeFc2VU9XTlRvcElHU0PSAa4BQVVfeXFMUEZFWGdlZFRYQXFFQmxvejNJX1F3TVVsTmFjRUhIR1RzZW5HMmgwbWJVMFN3TFVhTmZLemJXMVRiR0FmZ3RyMjVvS29rNy13ZlBuR3V5OUxJLXNuNy03TEV1amh4WkZwX245YXdhbVNmWDEwRk5sSnhza3hpMGhvSVRRZ0xKOThpSFVtVnN3WFR4cWRfVjlTVzRmcXo4NmUxMU9IVmVSRkdJSUJNUndB?oc=5).
 
 ## Requirements
 - Python 3.8
