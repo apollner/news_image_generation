@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reactions pour in for North Texas officer killed in shooting**
+**How does sleeping in on weekends affect your health? Research offers clues**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGJ0U1FrczNSdnZkUmZyaVRWM3ZUMVJ6b2ZHMFlMN2dOZzc0TzcwellMZnpoWk9UTkV1WTQxU3RkNjJyZjFWTGNyc3lBWVZGVDliLUUzZGZONVhQT0hVTVlEbXE5Xzd2WUlHbDJEaENHN2JCX2Q2Q2J0VTQ1aUhKbDJLX3BHWWxYQzJEbUtvX1FOVUtySzIzR1M4cmJHd3dLNExrblRzWkFERF9TM0pUVkZiVThfLTdSUWp5Z01NRnRsbkVjUHE5THQ0Z0g4dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQU09pWGZtVThQd0FVN04wUXBWOFQ0cWh4UENiTGZMT1F5bUJ3aWVzNWs4SmY5azl5dXhDTWpLdHVRQlJxZTBibFdkcVc3NUEyTHMyT0ZNY01vbHV1M3k2N0Q0UmQ2eG1ndXlTeDJxMjRWMjR6TmxoaVVhRmJqdHJOOGVDQjZqNjhYNUliY3lzYjBVYTdiWUlucTBUWFjSAZMBQVVfeXFMTjBuS09QTGw3ZExrNnhOVVpTeGV4V25ERHVRZ2U4d3pXWWpMb1E5NTNCTllIZE5tSktzUFlXQ012OXI4dEFOQ1NWRXFiR3hGSHdDYzJZUHpaYnZRSG9yblpyd292bnBFc1BpSjNmQV9ERTNtUHZaU0hHa08yUmFXbVRvYXVtYm93Um9QSmtRRUdvV1J3?oc=5).
 
 ## Requirements
 - Python 3.8
