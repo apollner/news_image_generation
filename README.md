@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump v Harris live: Harris bats away Trump’s ‘turning Black’ remark in CNN interview**
+**Fact-checker examines Harris' position on fracking**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3pWQXdRSTNXdVlMNXhaTUV5eGxBN2ZodU16Rko0ZkcxU0REMzNLN215eXZzUW5oeHg3ZHBqUXVYRGpfaE1RdXp2M3FOVFRWN2RFZmVHVXN6V2hDNzhFRW5DdUVlelBwNzhmY19ZbjY5N3pkMHNidEVlSWZxZmFTNjZ6aWUzdndiRVZXN1BRMk5ESUY5MHJPTGFCX0ZSMVhxWUc4OEU3RUp3Z0VQQU5LUzZ1Mld2UUVMdkFMLW0zU3UxZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYVBQU1ZyVW1xUEtaNjVJSTViR2YxMTczTHVmbXczLTlPUS1OOVNDdEZ0d3Eyc0FjMy1INjk3NklueU02aHRUaGQ1ZkRFZHZIVHA5NmhkbGVqUzFpR2V5WTNhX0t0RFNQbnNYQXRfREViR0d0VkZWVXd2T0FUeEV4QWVQYXNQT3E5OEVnYjBpcDV0TlQ4a0dKNXFybFdFSG9ibEc5QUpvRmRUZUdsZUJGVkI4bW5vS1kyd0xrdWJMcmI?oc=5).
 
 ## Requirements
 - Python 3.8
