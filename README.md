@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock is sinking, Wall Street analysts say it's still a 'Buy'**
+**Man convicted of murder and rape executed in Florida**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWRjbGJMNTlPZnE2V3RIeUhtaUdLdlRxZThzUE0xc2FPVUhrRHU5RXU0d084QkJxSXlzNHZqdkl0NHpmZG9kYzE2dFdOYTNZM2ZtU2NJdkZxempMOHB0VnNPdjA4NnlOcThwNzkyVFFldjE4RXZLZTI5dW1CRm9lRjByUUszdEtBNjJn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WdGU4cEhCYVVhdWlmcW55TWtHSEhLamRNZjRyaWhOVHh2ZHBKcTN2eEtYYkJXRjB2em92SkVnNDZEX2wtZmdiN0lhbkZ3RjJYNFR1M2FlUFVuZ9IBX0FVX3lxTE42NUdBVFV3YmJ5d3VFM1RCNkpaVXVBdHRwdjB5T2t6SzFUQlFBVWp3Zm5BWVE1NkVzaG9aV1NtVnhmZUUxbTlsUzM2T2lIbndiMDl6NGE2VVhrYnFIR01r?oc=5).
 
 ## Requirements
 - Python 3.8
