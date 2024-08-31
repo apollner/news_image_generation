@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicole Kidman Says Erotic Thriller ‘Babygirl’ Was ‘Very Freeing’ to Make: ‘I Didn’t Feel Exploited’**
+**Presidential race in Michigan stays tight, new poll shows**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEVWNDRqTFNTaW1lN3AxYzl5MjV5aUZPNGFNZ05RenJSdHQ1VnRFdERHOUFBbU1PeElOaC01MURKTzNJUzFQbl9IV19iczBHeHpycDJYZ2xWYzB5N3VPSlMxNUl2X1hxU1hESzRaVXBHU21hRmpTUWZpejBDbW1aeXV2UVdPRTF3STB3V2hKVjM5TVIxRW42Mmc1OUp4SWJmM25tYzZsRXZqWlpWR2d6WW1jSnBUSlNYczV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPVTBVVmJyMXdiaTZ6ZzVfaExkRFBGMm52ekZwNUNqSk5VMjFPOGlacFF0UGJDMGk3a2dVT2wwUkUyMW0tMzhJU0NKMV80NmFCRzNidlk4b0ZIYXZ2TnpRWERTZGdIVlJuYktEdmE4ZGtHbl92dWw5X2FaYVBfOGFvZXQwSkxOQW9qQS14T1R4cHJGN2w3dUQ0dF9BaWxSQdIBowFBVV95cUxQNlBzdHotRWFuamhBRmRkeGdIbXBwRjVZNjRJQlBpQmhTYk5temhsdGt5TlM2dlp0cDhuMGhWYjhmTlVjcWVKdEs4THpxTXZrV0ZGa1dhZER1d0JILW1TSy1DWS1mOXEwTHRyUFY4YUZSRzl0WFdYTThwdkZFa1VjcjJWanpEbWNvMm5fWXpzdFlmVWJLRTlla0JlZm9PZEVXSkVV?oc=5).
 
 ## Requirements
 - Python 3.8
