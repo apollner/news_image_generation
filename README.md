@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump asks federal court to intervene in hush money case in bid to toss conviction, delay sentencing**
+**Trump Team Tries to Clarify Remarks on Florida Abortion Rights Measure**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmw2bUplaXYzZEVWcVdkX0V1WjFZOUJadEN1cF9kR1NyQUxLWE1oSkNGcERnTUZVcXVfNjh3VklITFUxelZWd0RyNzlSMnhFM25UTWVvYkdSRk9EZWJrMzhVakZOOEl6MVpteU1RcXU0bWd3TVNtbkM5YnIyLWRHME5OLUQxOUg3RlBWbVItQXlyUHFtNWxORnBfSjNUZmhKaC1TTmN3ZDB1UHJJM2drYWs2aw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTFBQQUFSZkFHMWVadnVUNmlMRUJKMDZEcHlsU1dJVUpqbE0yTTBnTDA0dVFXVXdzYm5Pb1k4S3V0QTBiV0RTQl92Z0djVFdJRGxjZm40T2ZtVXJ0UjJBSTRLTU5nQnI5UXJWUFl4SVczclpXOWpDVkdNbGgyZms?oc=5).
 
 ## Requirements
 - Python 3.8
