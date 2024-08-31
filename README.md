@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What you need to know about 'sloth fever' after 21 cases confirmed among US travelers**
+**Reactions pour in for North Texas officer killed in shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2NyTDdDVjVxNHEwOGF5WGRnZ1cydEVwODd1cnJGWVlTeEZzLW8tRHhiUy0tMTIwdHNBSnp3WWdCZUU5NzNmZHZQM1I4amdxN3FYWUUtanpKd2VYZnZ0MFNMZGNvYi11WkFNYkI4OWNEMFdfUXpoSzExTnotV2YwZy1oSGlLbHZOQnpId0d0TWxJWVJkZkhHa3pQSkVvSURhcXAxYWlB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGJ0U1FrczNSdnZkUmZyaVRWM3ZUMVJ6b2ZHMFlMN2dOZzc0TzcwellMZnpoWk9UTkV1WTQxU3RkNjJyZjFWTGNyc3lBWVZGVDliLUUzZGZONVhQT0hVTVlEbXE5Xzd2WUlHbDJEaENHN2JCX2Q2Q2J0VTQ1aUhKbDJLX3BHWWxYQzJEbUtvX1FOVUtySzIzR1M4cmJHd3dLNExrblRzWkFERF9TM0pUVkZiVThfLTdSUWp5Z01NRnRsbkVjUHE5THQ0Z0g4dw?oc=5).
 
 ## Requirements
 - Python 3.8
