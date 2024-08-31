@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris Sustains Her Momentum in 2024 Contest With Trump**
+**Nicole Kidman Says Erotic Thriller ‘Babygirl’ Was ‘Very Freeing’ to Make: ‘I Didn’t Feel Exploited’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxPYzFlYjNLTmVjUWlvUVBpSkRWSGEtVVlURUFqUVhTT2EtbkNjT3RmakdUZEdfdmtyRDJGWUExbHQxTDdvNHVUT2xCM3hCNEFKT09XTklVbVE3NFcxRUlCWVNjOW1vYlYza0VBZ0V3cFZOMy1uZElkSTZGck81anJvb2duYVk0ak9DOFlGWmI3bGh4VVl1a3ZuMUhrd1pJYkt5SjJkYVNaSkhnZTBzSlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEVWNDRqTFNTaW1lN3AxYzl5MjV5aUZPNGFNZ05RenJSdHQ1VnRFdERHOUFBbU1PeElOaC01MURKTzNJUzFQbl9IV19iczBHeHpycDJYZ2xWYzB5N3VPSlMxNUl2X1hxU1hESzRaVXBHU21hRmpTUWZpejBDbW1aeXV2UVdPRTF3STB3V2hKVjM5TVIxRW42Mmc1OUp4SWJmM25tYzZsRXZqWlpWR2d6WW1jSnBUSlNYczV3?oc=5).
 
 ## Requirements
 - Python 3.8
