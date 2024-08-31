@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reactions pour in for North Texas officer killed in shooting**
+**In town at risk for deadly mosquito virus, parents challenge restrictions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGJ0U1FrczNSdnZkUmZyaVRWM3ZUMVJ6b2ZHMFlMN2dOZzc0TzcwellMZnpoWk9UTkV1WTQxU3RkNjJyZjFWTGNyc3lBWVZGVDliLUUzZGZONVhQT0hVTVlEbXE5Xzd2WUlHbDJEaENHN2JCX2Q2Q2J0VTQ1aUhKbDJLX3BHWWxYQzJEbUtvX1FOVUtySzIzR1M4cmJHd3dLNExrblRzWkFERF9TM0pUVkZiVThfLTdSUWp5Z01NRnRsbkVjUHE5THQ0Z0g4dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxObUQwLUw5T3VUbi1Rd0pacUl1aVVnZ3JubkVkRWhYNlZyNS1UVGtvMWFpMjRFMDAtdVFWQUh5MmJvWFNkdUNUMlgxemJ3UVFpUENjZk94a1JoRmM2b05LOEllVWkwbkRLUy1BNWxZaEZkSG1obVoyRWhFdVRVZ0hWeVd3Ymg5VHhWT2s4WlEtUmtrZ1JIWC1jNk1WM1VCZllxamhGcDZpc2FGemJXZVE?oc=5).
 
 ## Requirements
 - Python 3.8
