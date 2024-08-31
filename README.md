@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A botched golf course plan, school board losses and an Irish feud: Ron DeSantis faces heat at home**
+**UNC loses new QB Johnson to injury vs. Minnesota**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3puWDVQLUdodnJVU3QzSVQ2U0VqN2MzSkdDbWFzQXJXb1FQV1hDYzU5UG1fR243ZWxrQkx2RDhmeVI5SGc4cE1wUEVKLVloUV9oV3BudEQzajh6Q0N2VllrTVc0QzJSVWN6U1ZBMTEtaHVkM0FYai0wQWZSVkJndmt1alJhTjhvaXdYVURn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUVaWW00QWVUYVlfMjB4eXNoMF85Ql8xNzNNSGdpNzgtTktOYWtwaTZsNlE5aHNFYWtyZ0dpbm1RVG1ENmlmZE0yb090MmFfd2gzWXlIRnphUVd6QWt5MWFyTEpPV0xsZ2hmYW9VR3k5R2laclpPdnZjdGk4eXljbnNESHJrMHJkdXNabGV1UHpUbUV0eWhMRFRrcEwyN3FpT2tFWkVVcVlDdw?oc=5).
 
 ## Requirements
 - Python 3.8
