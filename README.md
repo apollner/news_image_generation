@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing will try to fly its troubled Starliner capsule back to Earth next week**
+**Spotify Says Apple No Longer Allows for Physical Volume Controls on iPhone Connected Devices**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEMyUjhEQld1OWFPSWhGTjUyQnZuSmFQano3dnNRMUh5UTdjLWlpaURsNEVzdjVPZlRiODE0SjRPLVBtbW1QdHFQQ3F6eDVDeDJJeExkQUItdmUyWmJ3ZndONlZBdDBQdmRHVGtzYzBKY20wem5rb25NeDkwUjRkSmlGWXRCNFJ5MTN0NHkwbWNKUFREQ3V5SzNLS3VRcUE4ajRzR003aG1lOVBJeDVNdzVXbWNyUjA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXlka2dURzc2TjNuWTJnVF8tYUUyczJYTFRVRk9WSVktc0NOSUdfQUluUHkxdlRrTkVhTU9rWE04STNFbGhSQ3lzcE93TVprNkIwTU5sWlI0dk10eFJ0em4wY0JKbEtDaWItNFYzOWgwQzkyQXlXVks5WGVqVU9uY0ZtWi1EaVFkNkVzcmoyWWpmU2E5MXR3a0M3aGRXZU5MWmR5R3pENTdZX1VnWFk0WWE2TzRQX3ZYVFZ2RUJqVmg?oc=5).
 
 ## Requirements
 - Python 3.8
