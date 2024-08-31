@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NHL player Johnny Gaudreau, brother killed after being struck by suspected drunk driver in NJ**
+**Stock market today: US stocks rise as Fed-favored PCE inflation print hits the mark**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzdMd2pKbHVzMUlZTDdVUlJsS0xvNWlHMDdaSVZMTkNRcFpjdDhHZTJydHNxd0J2NXFLRTM2Y0NWaUM0dlZJTUdfaWI1MnhSdy1pYVZLQmstaHo5cU9ldC1OTk5TVG5pLVExNS03VTktTFFyeThsOVB5RzFPNk55VVJadTdMR3Y2VmJMOXhwQWI5OE5yWHppeW9hZmxqdXdj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW1aemFCN1daeGVPS2pMeWt3djJLWjIwUmU4dC0yZWhIR0Z3X2NXM0lDV0VYMjFOX3JoY2Q1QS0zVE5IYVpmNnhqS1JXQ0ltS3Q1aGMtcTV6cFZBVWUxa2w3R0E0S0hZaXluM0tDMjlqTkxHT3lnbHA4QTVGSGQzRVMweTJWWjAzTE1FZTBNQ091ajFBbGhUNE9HWVlqNmI1T3JIQ2ctem51Z1hBNC1nc2hJcHpLaVNJREFHM2luUERfWDZONDE0?oc=5).
 
 ## Requirements
 - Python 3.8
