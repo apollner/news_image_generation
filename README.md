@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Drain, dress, defend': The simple steps recommended to keep mosquitoes at bay**
+**Georgia election workers ask court for control of Giuliani’s assets over $148m judgment**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdVlQRG51QlZ4VzYxZzh5SVFBT01JcXMta0VDUmhYb3REcWRFT3VIb0xTc1RSYUVQdlN4MG5jM1d0N2k4aE5HSVJ6SDlHRjI4N0ZDRWpLQ2x4R1M1YUJ4STM1RERTVmZMczNBY0p2VkFaUzh1SlFhRFdRWlU5OTZXWXVzWkgwRlZSSm9XWVNkUjAtS1V4Y3lTX0VZUkNCTEVVR2d6UTBqYmN2SEHSAbABQVVfeXFMT0NLWF9SVDROQmFWNlE3dWVGQTdCTnhjbDV3UUhCUzlYS05CQk81RDF0RUE5U2pzWTNWdGNYVHJUNkltUm1RSEFmbFE5aWx4cUJTTUhJa0dfaWl6Vy1IOERJZGM4dkc0QTN4TjFQQ3B6Q0FmQTBaNVJabW1aSnZ6cVd6YloxUHI1WS1Mck1PSlUxQ0FGdm1vTVJaNDYtSm9RdnJjRkFrRzduRThNVnhzc1o?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxPTlEyTmdFSmd3cFN2a0FjLVNLVGtVa1F0TUhUNFozMXlqdHBWLVQ0ejZTSENVWXRkZTNjUnhtTFNqUnRXQTVWZ0Y3dElyRUsxb3YxbU96cW9iSURHR19NQThHa1dia3djUmF5TnVFREdyQXJUU3ZZR1pEZ3A1elJXQ2Jtd0dyX190Q1AwenBteXBRM2RKa2E5OExGUHRVQ1k5LWRGYVBwTExaYzNqdHZzVGtn?oc=5).
 
 ## Requirements
 - Python 3.8
