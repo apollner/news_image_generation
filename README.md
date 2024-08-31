@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: US stocks rise as Fed-favored PCE inflation print hits the mark**
+**Nicole Kidman Says Erotic Thriller ‘Babygirl’ Was ‘Very Freeing’ to Make: ‘I Didn’t Feel Exploited’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW1aemFCN1daeGVPS2pMeWt3djJLWjIwUmU4dC0yZWhIR0Z3X2NXM0lDV0VYMjFOX3JoY2Q1QS0zVE5IYVpmNnhqS1JXQ0ltS3Q1aGMtcTV6cFZBVWUxa2w3R0E0S0hZaXluM0tDMjlqTkxHT3lnbHA4QTVGSGQzRVMweTJWWjAzTE1FZTBNQ091ajFBbGhUNE9HWVlqNmI1T3JIQ2ctem51Z1hBNC1nc2hJcHpLaVNJREFHM2luUERfWDZONDE0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEVWNDRqTFNTaW1lN3AxYzl5MjV5aUZPNGFNZ05RenJSdHQ1VnRFdERHOUFBbU1PeElOaC01MURKTzNJUzFQbl9IV19iczBHeHpycDJYZ2xWYzB5N3VPSlMxNUl2X1hxU1hESzRaVXBHU21hRmpTUWZpejBDbW1aeXV2UVdPRTF3STB3V2hKVjM5TVIxRW42Mmc1OUp4SWJmM25tYzZsRXZqWlpWR2d6WW1jSnBUSlNYczV3?oc=5).
 
 ## Requirements
 - Python 3.8
