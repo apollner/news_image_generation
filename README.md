@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leah Remini and Husband Angelo Pagán Break Up After 21 Years of Marriage - E! Online**
+**Starlink Caught in Crosshairs of Elon Musk’s Battle With Brazil**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdTRiOEpkYkNUbGNIaFFmS0NRQ1kxS0xoelZEQzNSazREbXZDQ0s0SWMzXzllZy1nX3BGeWxvTjBSREZIRjlXa2hvN0tmZGw3OTI1bmJ0THUyT2o5ZFRKam11WkV0VnBBdzdqZ0xES3lxeWNLd1lra0xFOUhhUkxyb1hkUzU2U09Mc3Ryc0YzNENHV3Y0NXFfUm5oNWxidWNNZERtWEo1ay05N2R0UkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE90aFY4RmF4bVRkZmFsTno1N3Rib2huV3hMa1lOMU9mYldGalRjV2xMZGJqbG1DOUdKSnR2SXhWYXZ2TE5uTlV5TmJDZUVhVE1mY0tlUlY2RzQ1UEowVzdWZm1Ba3phTjNnRlBuczNZRmU3aTRPOUdYbnFtbW9QZw?oc=5).
 
 ## Requirements
 - Python 3.8
