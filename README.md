@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump signals support for changing Florida heartbeat bill: ‘need more time’**
+**Marmoset monkeys call each other by name, study suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUJZLTdIekUxTnE3Zk1EYXUxNG5xblNxZnlYVWNVbERrV256VDlBSW04eTBZcnU2SWtXdDE2bS1rVVJZY3pvSTAyOHVmUkxDektaMVNuM2lkMGNRem5VNFJ6VkIyaFlVVVhNR24yem9lS3BGbk1PWkdFZG1Dekw2ZGlkS2x5TnUzUU5LZWVnLW1EMnJ2cjlra0IyUHVPMWNhTFFj0gGoAUFVX3lxTFBTUndKTTc5LWhyOXRiVFJyNjNVTjdXZjlRRFd2QVJvQWlwWUhNVXdlc3ZjMnIzUTIyTGlJNy11eF9YdEkzR0NRc196bnhwcWREZHZfYUl1VldLNXlpdTBERHZ4Ykl4VHhOWHh2dTljN0RXSC0xSkl1TXRpa3RpZy1SYkFRNFg3TzNHcFpJc0tZUlI1QTRtM2J2akNSMkdBSjkzd3hNLXhSOQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxNV3hLdTJNZGoxbFhJVmxjYnd4d1liMmdyei01MmtCMGxKNzdCZW9ta1J4MmZCSHhFcEdSUzlHS1BWd3Z1U3Y2OGtRUHFEU1paRk1LemlDRkhHVFBzeWVSbjQ1aVhkVHdHZ0R6X2hCUjhPMUlJck55NFNuQVk4Mk1kOA?oc=5).
 
 ## Requirements
 - Python 3.8
