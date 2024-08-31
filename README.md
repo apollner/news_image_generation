@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump promises universal IVF coverage, suggests he'll vote to repeal Florida's 6-week abortion ban**
+**Trump v Harris live: Harris bats away Trump’s ‘turning Black’ remark in CNN interview**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE5KVEFPcm1MSXYwZFc3OTZNNjU1ZDQ1Z2JUQjRuMHdHZk9lMzR0OXFMejVjVWFyS2VHSDA0UkFBWEI4ZE9NVEU2VFN5MTJYc1l6TWRUSncydFo2MG5ENzl3STdJTEhzN3djOWFScHdOVjRyaDJ1M2VGSm5pZWF6Xy1kenBMTU1NVVlkR2szeWZUQ3Rsc0gteDZzWjFlemVKc0FncmE4RXdIX2lHZFRWdm03WQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3pWQXdRSTNXdVlMNXhaTUV5eGxBN2ZodU16Rko0ZkcxU0REMzNLN215eXZzUW5oeHg3ZHBqUXVYRGpfaE1RdXp2M3FOVFRWN2RFZmVHVXN6V2hDNzhFRW5DdUVlelBwNzhmY19ZbjY5N3pkMHNidEVlSWZxZmFTNjZ6aWUzdndiRVZXN1BRMk5ESUY5MHJPTGFCX0ZSMVhxWUc4OEU3RUp3Z0VQQU5LUzZ1Mld2UUVMdkFMLW0zU3UxZw?oc=5).
 
 ## Requirements
 - Python 3.8
