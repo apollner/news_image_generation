@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In town at risk for deadly mosquito virus, parents challenge restrictions**
+**NHL player Johnny Gaudreau, brother killed after being struck by suspected drunk driver in NJ**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxObUQwLUw5T3VUbi1Rd0pacUl1aVVnZ3JubkVkRWhYNlZyNS1UVGtvMWFpMjRFMDAtdVFWQUh5MmJvWFNkdUNUMlgxemJ3UVFpUENjZk94a1JoRmM2b05LOEllVWkwbkRLUy1BNWxZaEZkSG1obVoyRWhFdVRVZ0hWeVd3Ymg5VHhWT2s4WlEtUmtrZ1JIWC1jNk1WM1VCZllxamhGcDZpc2FGemJXZVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzdMd2pKbHVzMUlZTDdVUlJsS0xvNWlHMDdaSVZMTkNRcFpjdDhHZTJydHNxd0J2NXFLRTM2Y0NWaUM0dlZJTUdfaWI1MnhSdy1pYVZLQmstaHo5cU9ldC1OTk5TVG5pLVExNS03VTktTFFyeThsOVB5RzFPNk55VVJadTdMR3Y2VmJMOXhwQWI5OE5yWHppeW9hZmxqdXdj?oc=5).
 
 ## Requirements
 - Python 3.8
