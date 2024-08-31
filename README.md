@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina hiker's death is believed to be 6th in a month at Grand Canyon National Park**
+**A botched golf course plan, school board losses and an Irish feud: Ron DeSantis faces heat at home**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFNlVVdaMDROZWtOUGFVWnItNER3Y25tSzVlUDBXcGM3UDgyLXJ2SF94SWpHcTdTQWc0S1pqbGxpWFVWclIxNmU5TWI5dEI4N0dSdUUzRWVJcXB2MEVfb0QzMWVwQ2M0UjNxY2J1MFl3U0l2M2JuVVU0MGZOUWlPc0R2NVlOZFA4WXZEZXVKc3VWNlR2c0dPbERwZDhXcHBUc0JoUHdwZDNKS0hEN0szUTVMUWRkLUVsaEHSAVZBVV95cUxPS3hKdGwzWWFtRnF1SlhRR2lkblFoUW9CVF9HeHBuMHg0NXhidTg0WFR5eHpPRjlObUs3X2lxRXBZMlNJOHhXb3VNNXN6SzloSTZMMUMxQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3puWDVQLUdodnJVU3QzSVQ2U0VqN2MzSkdDbWFzQXJXb1FQV1hDYzU5UG1fR243ZWxrQkx2RDhmeVI5SGc4cE1wUEVKLVloUV9oV3BudEQzajh6Q0N2VllrTVc0QzJSVWN6U1ZBMTEtaHVkM0FYai0wQWZSVkJndmt1alJhTjhvaXdYVURn?oc=5).
 
 ## Requirements
 - Python 3.8
