@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marmoset monkeys call each other by name, study suggests**
+**Trump asks federal court to intervene in hush money case in bid to toss conviction, delay sentencing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOYWxNV3hLdTJNZGoxbFhJVmxjYnd4d1liMmdyei01MmtCMGxKNzdCZW9ta1J4MmZCSHhFcEdSUzlHS1BWd3Z1U3Y2OGtRUHFEU1paRk1LemlDRkhHVFBzeWVSbjQ1aVhkVHdHZ0R6X2hCUjhPMUlJck55NFNuQVk4Mk1kOA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSmw2bUplaXYzZEVWcVdkX0V1WjFZOUJadEN1cF9kR1NyQUxLWE1oSkNGcERnTUZVcXVfNjh3VklITFUxelZWd0RyNzlSMnhFM25UTWVvYkdSRk9EZWJrMzhVakZOOEl6MVpteU1RcXU0bWd3TVNtbkM5YnIyLWRHME5OLUQxOUg3RlBWbVItQXlyUHFtNWxORnBfSjNUZmhKaC1TTmN3ZDB1UHJJM2drYWs2aw?oc=5).
 
 ## Requirements
 - Python 3.8
