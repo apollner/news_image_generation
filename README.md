@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man convicted of murder and rape executed in Florida**
+**North Carolina hiker's death is believed to be 6th in a month at Grand Canyon National Park**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WdGU4cEhCYVVhdWlmcW55TWtHSEhLamRNZjRyaWhOVHh2ZHBKcTN2eEtYYkJXRjB2em92SkVnNDZEX2wtZmdiN0lhbkZ3RjJYNFR1M2FlUFVuZ9IBX0FVX3lxTE42NUdBVFV3YmJ5d3VFM1RCNkpaVXVBdHRwdjB5T2t6SzFUQlFBVWp3Zm5BWVE1NkVzaG9aV1NtVnhmZUUxbTlsUzM2T2lIbndiMDl6NGE2VVhrYnFIR01r?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZFNlVVdaMDROZWtOUGFVWnItNER3Y25tSzVlUDBXcGM3UDgyLXJ2SF94SWpHcTdTQWc0S1pqbGxpWFVWclIxNmU5TWI5dEI4N0dSdUUzRWVJcXB2MEVfb0QzMWVwQ2M0UjNxY2J1MFl3U0l2M2JuVVU0MGZOUWlPc0R2NVlOZFA4WXZEZXVKc3VWNlR2c0dPbERwZDhXcHBUc0JoUHdwZDNKS0hEN0szUTVMUWRkLUVsaEHSAVZBVV95cUxPS3hKdGwzWWFtRnF1SlhRR2lkblFoUW9CVF9HeHBuMHg0NXhidTg0WFR5eHpPRjlObUs3X2lxRXBZMlNJOHhXb3VNNXN6SzloSTZMMUMxQQ?oc=5).
 
 ## Requirements
 - Python 3.8
