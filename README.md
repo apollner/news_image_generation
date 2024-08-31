@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicole Kidman Says Erotic Thriller ‘Babygirl’ Was ‘Very Freeing’ to Make: ‘I Didn’t Feel Exploited’**
+**Reactions pour in for North Texas officer killed in shooting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEVWNDRqTFNTaW1lN3AxYzl5MjV5aUZPNGFNZ05RenJSdHQ1VnRFdERHOUFBbU1PeElOaC01MURKTzNJUzFQbl9IV19iczBHeHpycDJYZ2xWYzB5N3VPSlMxNUl2X1hxU1hESzRaVXBHU21hRmpTUWZpejBDbW1aeXV2UVdPRTF3STB3V2hKVjM5TVIxRW42Mmc1OUp4SWJmM25tYzZsRXZqWlpWR2d6WW1jSnBUSlNYczV3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizgFBVV95cUxOcGJ0U1FrczNSdnZkUmZyaVRWM3ZUMVJ6b2ZHMFlMN2dOZzc0TzcwellMZnpoWk9UTkV1WTQxU3RkNjJyZjFWTGNyc3lBWVZGVDliLUUzZGZONVhQT0hVTVlEbXE5Xzd2WUlHbDJEaENHN2JCX2Q2Q2J0VTQ1aUhKbDJLX3BHWWxYQzJEbUtvX1FOVUtySzIzR1M4cmJHd3dLNExrblRzWkFERF9TM0pUVkZiVThfLTdSUWp5Z01NRnRsbkVjUHE5THQ0Z0g4dw?oc=5).
 
 ## Requirements
 - Python 3.8
