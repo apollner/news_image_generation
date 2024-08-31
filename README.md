@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump proposes making government or insurance companies pay for IVF treatments**
+**Nvidia stock is sinking, Wall Street analysts say it's still a 'Buy'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxQamJsc1JtSS1wNnBTTzV5YlZydUhxcHpjMVRvQTRMX1dGN2lHYlBqclNMRWVQMjU5M0RpdTVYLUpsVEtRV2VqSWNpa1k2eDBkMWJZdGpVbERLemtjZGplS3JaUzdhZDZNQTMwc0JoX3pxakotZ2E2Rm45UE9kUl9teWhYU0lpd9IBfEFVX3lxTFBPbmE1M1Q3Yzg3ZVFDSGhMREFjcXlCQk1zamMwWFBFWUF1SkpaSGYtUFFyZU5sdUpaaGJZZTIwNXhsYUlzdURRMEI2OTQtbWhiTUxjWW9XdmlHUjk5ajN3RUJIcm15UHRCNy1oWnE4MXdkTGNuUWFXRGR6TVA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxORWRjbGJMNTlPZnE2V3RIeUhtaUdLdlRxZThzUE0xc2FPVUhrRHU5RXU0d084QkJxSXlzNHZqdkl0NHpmZG9kYzE2dFdOYTNZM2ZtU2NJdkZxempMOHB0VnNPdjA4NnlOcThwNzkyVFFldjE4RXZLZTI5dW1CRm9lRjByUUszdEtBNjJn?oc=5).
 
 ## Requirements
 - Python 3.8
