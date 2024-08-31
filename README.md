@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Floats Coverage Mandate for I.V.F. Treatment**
+**Dow rises 200 points for fresh record close, Nasdaq falls as Nvidia shares tumble: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE01RVJqVEpsSnZOQkZGRnhORFk4V1RsbXJ5UlpnRGdzbUdaYWtVZGNQckx1dFlfbENsQmxGNnZYVnZ1Rm82b1F4LXRyUUIwNDE4YzkwU1lRQ25KVXNzRUM0aFdldnRDNzRSdXdlV1lZbEY3TjZ1OXZNclVn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE1OTUN6V2ljZWpLcHZXa3pmOUhCdkN5WlYyYzNzYVJTWGsxNEt1VnZ6VFoxR0V5elFxNWZRVHlvTXZZNnU4ek42TkN0ZkV3bWRDQmNFNklTdW5KbWVXUlotRklsVk5sekVMTUd4aWFIR3Q1MUFNVTNOM9IBfkFVX3lxTE1UYnpWWHV6QnBhUm04c08tUTV2WTdJRURnVHl1VFBKNkNsVnNfeEZXemtxQWhra1dENDZNTm5uVW5FWGhBTUhSQThudUFINnlVT0ZZWUk2eXRCd3BtMUlCZlpsSzlGUVdTc3FSaXBqZjg4UW5lekhCNUlsNWtBZw?oc=5).
 
 ## Requirements
 - Python 3.8
