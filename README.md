@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify Says Apple No Longer Allows for Physical Volume Controls on iPhone Connected Devices**
+**Top Truth Social execs—including the CEO—are shedding stock before Trump even can**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXlka2dURzc2TjNuWTJnVF8tYUUyczJYTFRVRk9WSVktc0NOSUdfQUluUHkxdlRrTkVhTU9rWE04STNFbGhSQ3lzcE93TVprNkIwTU5sWlI0dk10eFJ0em4wY0JKbEtDaWItNFYzOWgwQzkyQXlXVks5WGVqVU9uY0ZtWi1EaVFkNkVzcmoyWWpmU2E5MXR3a0M3aGRXZU5MWmR5R3pENTdZX1VnWFk0WWE2TzRQX3ZYVFZ2RUJqVmg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRWVpTlhzclFQaW9NbEx6WWZZMzdFSG8xSy1SVzQwVHVKX2lqaUNSLWllTVdCMm9wRzZNeUpRb29YaEhVSHRmcmJuTlQzZy1xMnhlZlNZNTFvbDFTN0pMc1FFY212T2hlajdvNlN2NF94b0hQOG5oM293?oc=5).
 
 ## Requirements
 - Python 3.8
