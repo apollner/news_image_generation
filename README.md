@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Claims He's A Victim Of ‘Very Bad People’ After Dustup At Arlington Cemetery**
+**Trump promises universal IVF coverage, suggests he'll vote to repeal Florida's 6-week abortion ban**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbGVUUUtpdmhiN1hCekdWcmJrQkFjN2c5bFVqTEd4ZlpuOEk5eWlSX3dKX1hUWUx3NU1waFdEd2N5bWh5a3N1c3NDdERQeDBuQ0lDV1NneER5al8tMFBDTUlRdmRmXzBXUDZmT2xBS19nNFh2TVlMU2JLU3piLTVFa294a0Vmc0RpVmE4N2gwbThKNWwwUUtvOEdDeFc2VU9XTlRvcElHU0PSAa4BQVVfeXFMUEZFWGdlZFRYQXFFQmxvejNJX1F3TVVsTmFjRUhIR1RzZW5HMmgwbWJVMFN3TFVhTmZLemJXMVRiR0FmZ3RyMjVvS29rNy13ZlBuR3V5OUxJLXNuNy03TEV1amh4WkZwX245YXdhbVNmWDEwRk5sSnhza3hpMGhvSVRRZ0xKOThpSFVtVnN3WFR4cWRfVjlTVzRmcXo4NmUxMU9IVmVSRkdJSUJNUndB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxNRE5KVEFPcm1MSXYwZFc3OTZNNjU1ZDQ1Z2JUQjRuMHdHZk9lMzR0OXFMejVjVWFyS2VHSDA0UkFBWEI4ZE9NVEU2VFN5MTJYc1l6TWRUSncydFo2MG5ENzl3STdJTEhzN3djOWFScHdOVjRyaDJ1M2VGSm5pZWF6Xy1kenBMTU1NVVlkR2szeWZUQ3Rsc0gteDZzWjFlemVKc0FncmE4RXdIX2lHZFRWdm03WQ?oc=5).
 
 ## Requirements
 - Python 3.8
