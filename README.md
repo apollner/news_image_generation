@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil watchdog moves to block access to Elon Musk's X after court order**
+**House Democrats ask Army for report on Arlington incident involving Trump campaign staff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcndHYkhZT3JwRk9Ub2pLVThZWGhiU0RVb204Y3diZ0lsM0p6VzRmZUlzZzlJUTBDd0dNMDhUMVFCRUIybjZwd0o4NGtfVXZuU25wU2s3WE9ZeHBvSDRNMklubWh1WloteklZS0RLdi0xTnZFZGdpVU80OGRtWWhxMF9wTTZYN09DRm9GY21IRHpMUkYxSDZEaTBacW9Tb2xHWUxfRHlLNmMtbHRIaU5B?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDJTcjNuOFB3OTlySXFnOFpmdjB1cUtPR0F1QTFpR0NhcUZKOXhWc3RXSWhYRFV3ZHZXZTdqTE1CcUJLOUhmemhJNW5WVXVVTFgwVnNWTTE3YTdDNndFOWdBZ3VjbWE5U0l3LW9Ud1VkNHI5Z25xQUduTEg0ZTc0SEVnbTlWZDFZODhreG5RSmZDVENkSE9KdjhEQjZ4bktFQTZsSHRBbVY1bzE4d1JYd0Q5d1N0enA4ZVBkZ3JNMVQ?oc=5).
 
 ## Requirements
 - Python 3.8
