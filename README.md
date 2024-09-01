@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Loop: Apple Confirms iPhone 16 Details, Ted Lasso’s Surprise Return, Final iPhone Design Leaks**
+**Investors are already valuing OpenAI at over $100B on the secondaries market**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSWdHT01RSEVsckhKUHhCZnZzaFh5ZUppaElpUURBT1IyMVhOSENqLV9zcTJ2b2ZkVkpud0tIbDFwUEZvbmFIUjRhMkRxaG1YZWNqSkE1eWF4OFY0OGMxaFhWblhzRHVZWkdGYWFDaTJqRGhmb2hLT3BCZnBmUUVrcjB4QXh5TGF5UnNHbG9MUkdEc2llWWtZRFEzSVFkb0FuR1pOY0tHdERsLU1yVExlTTRoUGVzUkxRWUJBejFVMTZGQWlBdXpZb0dNck1uaGdhcENlZFdn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjZXaWRxN3ZMeTFxRHRJUFpFNzc4eVJwRFVHbnZqblpWMzVKTGJqWHRrdjlRUlY2ckRtSm1KQkJiWHZMb3c1am82Mm5IT1BNaUpWY3FwalNtem9FUmRBMHBvaTJnVk11Q0xGWU1SLWFjcERZaWYxZm5NUlQ4UDgzUjFZNVNCel9tbm9BcENCN25YWGIySkl1eWxDSnlCSG5UaTF4b18xSDFlRHkxSldF?oc=5).
 
 ## Requirements
 - Python 3.8
