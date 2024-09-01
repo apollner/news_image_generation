@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors Seek Simpler Path in Election Case After Immunity Ruling, as Trump Seeks Delays**
+**Rosberg: Antonelli can become "best of next generation", but F1 preparation not ideal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnVKV0lqUEFtU2JBNmdwYks1SXdlVmc4b2xOTVN5U21XUFZybDRWTFFtWlZ6LXRzS0FXS0MwZ05LT1h4ZmdBZDdYdXI1QWVjNFo5SFp2djIxRnBnaHFZVGFQZnFtSDI5T0dWUHZmbllWTVVFeDFYeFU4Nnc0RG1OZ1UxUVAwUk0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb29NV09nb2J0R2xNYllRNm1Rd3hCbHlmeWFtZWNCQlIzMlhXeUlmWEhKUFFTXzdmeFBtajdJZVBITDZKN0VqQ28zSEJoODdETVhtbXdiQ3pBTjAtZDc3YThMLW9PMDJrUkFTMnZtaEdSMlpkNjNzRzBvcEVlNW1mOEo0YW1WQi1ZcTR1Q0Q2SEstSDBpdVRBTlpZcFhzUzNTQk5WS3JBbjhKbER1WHdOZmt5cjJVa3VzWmlCNnlDNUpWRWpf?oc=5).
 
 ## Requirements
 - Python 3.8
