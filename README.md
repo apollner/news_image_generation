@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teams across the US hold moments of silence as sports community mourns NHL star Johnny Gaudreau and his brother**
+**‘Conclave’ Review: Ralph Fiennes Gives a Career-Best Performance in Edward Berger’s Gripping Vatican-Set Drama**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5mekFKaFBibmNjWDRFcnRXUVNoT2xKTTRlRmN6ODU5NnlKRkh0b3BRQk5VaW9pN0JOck5XSnJwQVBuNkNGRXVWd2FkVFVwOE9vck1Wcjlha0lRZmloS0VSQmJxbmgxSkpTcFRmTTNMX2c2QjFYYXlBaTI4RkFtMENTZzRQSmZSVkRqNjBmLXDSAYcBQVVfeXFMUDJaVmR0cWlEX0ZPSnBOMWxxMGZFaDBVNzRqdkxIUkNsamVoanZTbmkwVkt4cnNnMVUyMnhYeFJFUUdPaEdheE1BbVdZRkp2ZkhwTXBVLWZBQlpSV1J2aEItOTFYT3FIT1RLcjdPOTYxQm1JUHlWeDJoOEJMV3FTWE03N29rdHJv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOck5WUVVWNFkxT3pzRFFkOU9RbTNYbUhSd1VUWW5TYzZEcFZEeDJJRDFKVHRPN29FeVlGNXl0ejRLend5NDFFODR4YkREa0J2TkVwa3JiOVpsUzZQbkh5WkUwQXdTOHdiQmJjRmU5V2xYNkI3b2ExeXRZS1FuRmwzRi1FcUlWU0FxS28zTkRsMjNERjBXTUI4RGtiYkN2cXRfVmlmTXF1X1ZfczFyX0R3?oc=5).
 
 ## Requirements
 - Python 3.8
