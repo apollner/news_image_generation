@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fatman Scoop dies after collapsing on stage during US show**
+**Donald Trump comes out in support of recreational-use marijuana in Florida**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZk1PN2FyUmJJTlFrV01ZM2JfTWpFekhHX2hULUc4REVJanB0cVNHbm84b0RnMjFnaURfZmhrdEw0bWtjWWdBNFBIUVkzM19UMDJNalpPX1VvUdIBX0FVX3lxTE5LWVlTRll6RTZ3U1BtSkdLQ21GQU5TWkxKbTdqVVNpLXFGT1ZjRm1yTkhNZXJ3ZjEySlVZSlBvc0U5OTFScnllaFR6UEdJZnZsaU15N3BCTWhNZmlneHkw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxObWlXRU5JTmFsbERTZzQ2aktpR0t4WVIwbFp0d2tfLWR4X05fNHNlZjZTTi1SREJvMXNuTFY2c3BSR0lZM3VGWUVUb2EtRTRjZWpPZHhkR2l6cjhkbEZXbVNJMjB1WGRKd0dpUl9hV1FQOW5BU3NCRDkyZ1h6b3dkR3AxYnZuNHpsU2tGY0Vtb0J6c0E0REZNYUxwTDNXdWVv?oc=5).
 
 ## Requirements
 - Python 3.8
