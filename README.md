@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil watchdog moves to block access to Elon Musk's X after court order**
+**Neighbor arrested on murder charges in deaths of missing couple at nudist resort, police say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOcndHYkhZT3JwRk9Ub2pLVThZWGhiU0RVb204Y3diZ0lsM0p6VzRmZUlzZzlJUTBDd0dNMDhUMVFCRUIybjZwd0o4NGtfVXZuU25wU2s3WE9ZeHBvSDRNMklubWh1WloteklZS0RLdi0xTnZFZGdpVU80OGRtWWhxMF9wTTZYN09DRm9GY21IRHpMUkYxSDZEaTBacW9Tb2xHWUxfRHlLNmMtbHRIaU5B?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPSVZ6VmlRY2FOQWgxRE5nU2hOamJNX3VrNS1xOWZaNDRfSzNYcmVrVUdnN2tnd3ZMZ25vTnI5YXlFcGFYSlBoTjJuRE93SGctSGxoTzFVbHNaZFphdjhPcGd2aXV2dnlqaWNqXzdMWVRKTmZYdk5jNms0RjZsQVNOMFJJMmp6bFdzX2puRVNvNGNfRWdt0gGLAUFVX3lxTE90WV9GRk9wZ3JRMFB0XzhISVdJcXZjMGlBUUNTZ1NPVHBTMW5KSlZQX3drbXVLckE5ck9qM1kyMlJUV1NpRWNya0ZuM2MtbU5RZHRRcjUxdFhQT3VSdDVNaWhXOWhWUW9ZQnVkbUtIRnByXzhvY243elZFcEhjZGxDTzRmWC16d3pFeE0?oc=5).
 
 ## Requirements
 - Python 3.8
