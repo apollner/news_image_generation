@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Truth Social execs—including the CEO—are shedding stock before Trump even can**
+**Ukraine’s Zelensky fires Air Force chief, days after fatal F-16 crash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRWVpTlhzclFQaW9NbEx6WWZZMzdFSG8xSy1SVzQwVHVKX2lqaUNSLWllTVdCMm9wRzZNeUpRb29YaEhVSHRmcmJuTlQzZy1xMnhlZlNZNTFvbDFTN0pMc1FFY212T2hlajdvNlN2NF94b0hQOG5oM293?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM25zTElVcHNnQVhXQzB4ZHU0SGZ4TU94QWMwZTgyTUtyU1VLUXBfUmVtZ3NvUTJHM09vQ3Z1STA5dkhQcFp3ZlE0MkVtNlJUMDlqYmFBWEhzZnVVTXlRdkNzano3c3BUMmNYek00bEZfcTJhcExpN0dsZi1RMHhTSFlvSXk0ZU5TOElWRGZhTXU3N2JKNldFaFFrNG1mRzVhdGZrWTk0MkxzcW9oZDJfWElLdTRJNURyUm0w0gGyAUFVX3lxTFBqV3k0ME1UcHZ2QTMyNldySnhfVFUyZDdBT2dGMGUxRUQ5MXdmZE5tbEZDR0xuRENMRWpKUFFNQ3N3WGhDb0RmcmZXWjJZaGR3aFJnUHhFemdQaUJwOXRiMUdmZWFqZHVKSDJBNE5xSS1PcjdReGZqdjY3NndKLVlqRDNyM2dZR3R6TU9xWVM3b3hSbnR3REk0S2ZvbEZfMFo4MTJ4MklLWGhzdXZ6RGVtU2c?oc=5).
 
 ## Requirements
 - Python 3.8
