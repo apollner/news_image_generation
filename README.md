@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Undecided voters unconvinced by Kamala Harris interview on CNN**
+**President Zelensky sacks Ukraine air force commander Mykola Oleshchuk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVDVoc2c1aVFLY3ZxRDVVbWV6SS0wUXBhSF9aeUFhNjNMRFJMLTJwNjFSTmtpeTlFMFlMZjh1QUJQbzc0cktIdTA1Ym5QX3RPOHp6ZHdwTUxad9IBX0FVX3lxTE95bEE5UHdmcGllcVg4VUV3LU01am40S0Mxb1hMR3g3U3o3dlpIQzNKRTBLOEYxREs5akZGRkcxZUM5SENBT1ptOXlNWUNzYks5cW9aYWlsSW9hTjlCQ2FF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hd2tESUNDdmpnYTBSNkV6WlNrN1JMTU1RODFPMGhjRFYwSWxYb2VHaEx4QUJkMVZMZVUzMmotZ3oxTTJoMk1DdGZQem90TkZyR0tsNjNvTXByZ9IBX0FVX3lxTE15NHppOGg1b3JEcG1jcUFUczQ3bld6amhIVm5HVHJobHJBSjVuLXVyNE1VRWI3RG9zdDdlUmgybjl6bkRFYXZKLVZtR08wakdaR0s3TUtkSmc4OXdfek1Z?oc=5).
 
 ## Requirements
 - Python 3.8
