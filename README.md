@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why is everything in space always moving?**
+**Teams across the US hold moments of silence as sports community mourns NHL star Johnny Gaudreau and his brother**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fc3JWUjFSV21yempud29zOG93NDRJbGt3cGNKRThFV1ljaGc4T254TVdIdUNndVJvMl9acVJJQU5sbWN2bDBlQXhPMllsYVJSaUY2MGJKdHdFM2FJMmpKLXNhWWNCX3g2SF9Rclc2ci1hMUM4S010V2dFMVNnWDQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPQm5mekFKaFBibmNjWDRFcnRXUVNoT2xKTTRlRmN6ODU5NnlKRkh0b3BRQk5VaW9pN0JOck5XSnJwQVBuNkNGRXVWd2FkVFVwOE9vck1Wcjlha0lRZmloS0VSQmJxbmgxSkpTcFRmTTNMX2c2QjFYYXlBaTI4RkFtMENTZzRQSmZSVkRqNjBmLXDSAYcBQVVfeXFMUDJaVmR0cWlEX0ZPSnBOMWxxMGZFaDBVNzRqdkxIUkNsamVoanZTbmkwVkt4cnNnMVUyMnhYeFJFUUdPaEdheE1BbVdZRkp2ZkhwTXBVLWZBQlpSV1J2aEItOTFYT3FIT1RLcjdPOTYxQm1JUHlWeDJoOEJMV3FTWE03N29rdHJv?oc=5).
 
 ## Requirements
 - Python 3.8
