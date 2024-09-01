@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia vs. Clemson live stream, where to watch, TV channel, game odds, spread, prediction, picks**
+**7 U.S. troops hurt in Iraq raid targeting Islamic State group militants that killed 15**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa0NrQTZ4bUJPdDNDczVKcmc4a3VBQjM3bFF0Nk93YUswbHgxY1FSdTlIT2NhbFhPOWh3UEdlQVFaa1dNdXhwM1VIbEU0R1NFa2c0VnpjeHpYNUg1bzV0TWxodXVtNHlkUVp4aGhDU3ZNdDIzNHBQa0VNTEw0NFdzTG1lOS1DTV9nUWUtZFBDcUg3SE8xRFJ4Z3RBU3JDTnFQclFMQWhXeFcxeF9pVzF0akJDaXlKVXdyYVVGXzRNMUptRFNCWjEwNnZnYThzT3B0SEpvSFRn0gHbAUFVX3lxTFBQWUp1U0dYckNmZC1KTzZ4TllXTllTcm1SeWNEZ3EzTnl0RmZ5LWp3T0Z0YzJ0N21FeFlOWko5WEFkU0VTanR3M0FTMUQ5T0F5cnNFdE9FaW9qMWZmUFQ1U2FKalB5ZXlZZDRvS0xXNFdLVVVtTi1LWk9KMVRtbXdSMG9PVmJlVS1uZy1JbDd3V0JpNEY2bzdPTHBUWFBEUlBaWmt2bm5PN2ZJN293T3NaMW45ZS1VbUNXLVVoeFVRVVhLSFVzVWFWRG51ZERRQndqRzNwZGFIYmdOQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6NUxQZDNNT0VlS0xSemtVLVc0MjZIaVk1T2luMThGZ0pZRlNmRGtXSDJaRWxqMWxZejJTNXZxYjR5S0Rvc0V5dHh4QkJwWXlULTdQdWUzd21ENDdSU3hyR19DaFNJeU5aRkx1cnZTbmJwQ3VVenFCei1oaw?oc=5).
 
 ## Requirements
 - Python 3.8
