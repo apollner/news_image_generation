@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investors are already valuing OpenAI at over $100B on the secondaries market**
+**SpaceX's Falcon 9 rocket can return to flight, FAA says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPbjZXaWRxN3ZMeTFxRHRJUFpFNzc4eVJwRFVHbnZqblpWMzVKTGJqWHRrdjlRUlY2ckRtSm1KQkJiWHZMb3c1am82Mm5IT1BNaUpWY3FwalNtem9FUmRBMHBvaTJnVk11Q0xGWU1SLWFjcERZaWYxZm5NUlQ4UDgzUjFZNVNCel9tbm9BcENCN25YWGIySkl1eWxDSnlCSG5UaTF4b18xSDFlRHkxSldF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPak5YeENhVkp2c2tlNko2WmY0VU53c0ZVYlNzVF9hcmRWWlEtLUhCRWtsNFU0dU9qNGdxc1RFMFpCUmphOThmNks0U1FRZGtNYkV3MDJ6WlhYQ1lsSUw2ZFM1bWZVWUtnNHBFTDN6Q1N2eVR3TGNOVGU0TEt4UXh2eUtHRkd6UQ?oc=5).
 
 ## Requirements
 - Python 3.8
