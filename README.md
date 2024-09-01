@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Updated COVID vaccine shots are now available at CVS, Kroger, Sam's Club and more stores**
+**What’s in Your Fridge? Here Are Details About the Deli Meat Listeria Recall**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE11SHE0MXhYRDJXWFJxSkNkbUZtTUV0T3dBWHg1YjdmNTRuVGRsVVpjNTdxR09ub2FqMENnTGNWbG1LRWwxb2RxMmN4NzlCcFRFZldYbGZxSlhnbDhJLVMxMjhZZFhtV2xKdWdmdWJzYTRkTGRtdDdjNk55THl5Y2s?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxNdUlUY1Z3Nm1TWTMxbDhOTXQxcVR4QUpubzBUQjIwbXN5ZWYzNlZneC1yS2xXbGRpVVFPVmpPbUdwZm9HMG9senNFWWg5QzRGRU5Ub0hIdnFwOU9INUdraV9yd0pVQ284aW9xZDhkazNPa04taGIxQ2VKZFpDNEhTaHpfdk01OTZ4cDdKdg?oc=5).
 
 ## Requirements
 - Python 3.8
