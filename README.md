@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump comes out in support of recreational-use marijuana in Florida**
+**Family of 18-year-old killed in high-speed Michigan crash wants teen driver's mother charged**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxObWlXRU5JTmFsbERTZzQ2aktpR0t4WVIwbFp0d2tfLWR4X05fNHNlZjZTTi1SREJvMXNuTFY2c3BSR0lZM3VGWUVUb2EtRTRjZWpPZHhkR2l6cjhkbEZXbVNJMjB1WGRKd0dpUl9hV1FQOW5BU3NCRDkyZ1h6b3dkR3AxYnZuNHpsU2tGY0Vtb0J6c0E0REZNYUxwTDNXdWVv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTdyWUxYY2xmcENCbVd4anNXTGRSbXh3Mk5vUkNqaXFieGN4S1hsSXpaS0JpV0V4UEdPNHJHaFJHYksyVGM2SjJ4aXFhTE1yTzVocTlObDU1YTFwYm1HclBGYWtjM1VRZFBFcHA4VWJVcXFwNGR2ZEo3ajZkakhQRVJMRDB5TDlsWjJqdFEzNkxwaGV2RV9WWDNHR3FpQkkyMDRCdkZGZnBtVTBQZWJmZkl6eTUzbzA50gG-AUFVX3lxTFBZSWV0LUVJeGpydE91b3lhc19yTDRSX3V5ZFFmNlAxWkthQ2MtUXRhRUtwMGExcHdxbjFjVGNNVnN3aUVTNV9MV1lhdTlLM0RPbUlsaDdlLXZIeEtaTU9wbmdmRVJBSEVuNDZhS3NJSVFQM0h4NTY2b3BtczZmUTV3Vk5ONXQ5UUVQbmZtR2x3Qnh0RWJMRENUbVJ3cGtZMjZzWXh4ZWx0WkxwbVA2NUN4U1NnU2ZiaS1DMEJFdXc?oc=5).
 
 ## Requirements
 - Python 3.8
