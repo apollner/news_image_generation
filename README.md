@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 US troops hurt in a raid with Iraqi forces that left 15 suspected militants dead**
+**Engadget review recap: The Pixel 9 phones are surprisingly great, in spite of their price**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGhMRkNDQnZvbWpFRUZZU3BJVFpDTTIwT1pSZFFnMWhIMmVxUjllVnRmS3h0VHVjLUFFRGRHTXAxaWtZSk9QcVZsV1dRNE8tSWE3V01jd2ZRdnFCZzd0UnBYWHI3eTdxdVhCMldxMFkwYXMxb0YzUjN1TjNtLUx2VWhXYmNkOUJXNWVlNk5ETk1iUDk1MXZZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzM1QnJsSW43bDY0bWxpVnNIMThKdEJEVmFmYzVLSnVDeG9zcXZWRW5FMms2a3VxYXhvTWIwWlNPWVZDWThtRU02b3lVNmtvM3RjaFZnMW8zSFhIRTh4MUdacFdmUjd6RmJKSmFrTFlheF9reXg0TlVBeXVhby1DX1BBS3ZnTTBVdkxobEJaNDFXZzlkYVFmRkhyYWREdlRrbXhjcXBaQzI0cHMyZlJPcHZoYng0dmNKMXZabGp2Y1BSaGpDeXc?oc=5).
 
 ## Requirements
 - Python 3.8
