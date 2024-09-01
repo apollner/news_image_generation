@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA plans to send 2 astronauts instead of 4 to ISS so pair stranded by troubled Boeing Starliner can return**
+**US, Iraq team up to kill 15 ISIS operatives in early morning raid, US military says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY091QXFwaEhPM3dhSGJHcnc4Y1JhRzJKZVZGb184WEtpSjUwckNMbGp5Ym5BLU5ZZDRpYkl0RllqX0ZvcWNfUG1ZSkw1WnJpR3g1bDU3cHRBdEFtMjVROEU2N1FoYmxGM2gxZFgtLWdQZkFKYkpxNC1RajlWaGNKa0x5QXM4Rk9reWVKMlotZFdoUlBzVlUzYVZNLVM0bjhuSE1aZGNNUWFkUdIBrwFBVV95cUxOWVd5Xy02eDZCTG5jc2JBaHdUdW1FTXRCRGVBdlc4Q2NDRUZUUU5NNFZONEFFS0hwWm5HN3NsYUM3NUpydGU0N19idzB5TndIcjJGb3NNMVQ1d0xvbjR5bHdHcHZrN1JGYjF6TXZQREQ0XzR2am1uVEhTX2phdTF5NTBkelczZjNGU0ZTRFhrVkxST2t2R2lQVE4yc0tEY3lYSFp1cmdwSG5BUzVaWk1Z?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlJWlBKYnEtTHM5UFFsaEhmQkhCOWNkOWUzQU52S2twdXVLV3owT2lKM2w2THNnS3FzVXVJd241ZWtkcWRyNEg3c0tiTUkteC1INzJQUXpzbFdoT1V3XzFwMG5RaVdBVFdFbi1yS2xiSUd1VV9YUDc5QlRsWXJRMGVqNUgtT3BFVlBQY3p4M003RDBDVkkxd0NNNXpSeWdJbUdGb291OW_SAa4BQVVfeXFMUExHMUdxcUxjRGJienRNVEtzendWNVdVaW13MXNXWE9zbWQzdWxrblk5LU9fOGc0ZU9tenZDcnhMVFRlOEtPSnFRVi1Scl9yb3VDMlY3VFVtclpCWlJyajFCdWhjTVNISmpJZkJtT2JzN0R1Z21OU1JqVTNpejhJN2ExSWxjd2tpTkdrdjJ5NjROVTFRQ3A1dnZsaDFYX3huOGJhcUhmTjY0aG5HVVNB?oc=5).
 
 ## Requirements
 - Python 3.8
