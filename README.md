@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family of 18-year-old killed in high-speed Michigan crash wants teen driver's mother charged**
+**Carson Beck, No. 1 Georgia manhandle No. 14 Clemson**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTdyWUxYY2xmcENCbVd4anNXTGRSbXh3Mk5vUkNqaXFieGN4S1hsSXpaS0JpV0V4UEdPNHJHaFJHYksyVGM2SjJ4aXFhTE1yTzVocTlObDU1YTFwYm1HclBGYWtjM1VRZFBFcHA4VWJVcXFwNGR2ZEo3ajZkakhQRVJMRDB5TDlsWjJqdFEzNkxwaGV2RV9WWDNHR3FpQkkyMDRCdkZGZnBtVTBQZWJmZkl6eTUzbzA50gG-AUFVX3lxTFBZSWV0LUVJeGpydE91b3lhc19yTDRSX3V5ZFFmNlAxWkthQ2MtUXRhRUtwMGExcHdxbjFjVGNNVnN3aUVTNV9MV1lhdTlLM0RPbUlsaDdlLXZIeEtaTU9wbmdmRVJBSEVuNDZhS3NJSVFQM0h4NTY2b3BtczZmUTV3Vk5ONXQ5UUVQbmZtR2x3Qnh0RWJMRENUbVJ3cGtZMjZzWXh4ZWx0WkxwbVA2NUN4U1NnU2ZiaS1DMEJFdXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2EtYTNkS3pNOE9uN1RwN2pTSGdiaHItcVZ4ajVqcXNsOEhWdDJxV0RsX1Z0UTRSV2JaRldKZGpmbWtXUEJBZ2N5cVlLUjVsR3dCd082Zld1cHVmdGptV1Y2TXozMllMQWlXeUVVNkRxU1hFbjZOaTN4ME9QX2M4RzZhUFpQMXFVdXY4em9ZUmExZEFidTNaN0l1NmdMSDN2b1dUSWt0b05IQQ?oc=5).
 
 ## Requirements
 - Python 3.8
