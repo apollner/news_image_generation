@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boston Medical Center confirms takeover of St. Elizabeth’s, Good Samaritan hospitals**
+**NASA plans to send 2 astronauts instead of 4 to ISS so pair stranded by troubled Boeing Starliner can return**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOZ1hmall6MFdWc0I2dWxJVVZiVmFhbE1pTldJaDFMeVptQlJGa3czb2dBVXdqbU52cGs4VFVPOWhLTW15ZjM1eTBVQzBra0N3MkFjcHJDYU5nUnU3b2swYkRmWXhQQVhOaGplM095bWozRmpvUG5jTFcwZUhUeDVMRnVSV1IyekpqVTlVQzdhbnVMcHR5VUtuSjA3czFNZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY091QXFwaEhPM3dhSGJHcnc4Y1JhRzJKZVZGb184WEtpSjUwckNMbGp5Ym5BLU5ZZDRpYkl0RllqX0ZvcWNfUG1ZSkw1WnJpR3g1bDU3cHRBdEFtMjVROEU2N1FoYmxGM2gxZFgtLWdQZkFKYkpxNC1RajlWaGNKa0x5QXM4Rk9reWVKMlotZFdoUlBzVlUzYVZNLVM0bjhuSE1aZGNNUWFkUdIBrwFBVV95cUxOWVd5Xy02eDZCTG5jc2JBaHdUdW1FTXRCRGVBdlc4Q2NDRUZUUU5NNFZONEFFS0hwWm5HN3NsYUM3NUpydGU0N19idzB5TndIcjJGb3NNMVQ1d0xvbjR5bHdHcHZrN1JGYjF6TXZQREQ0XzR2am1uVEhTX2phdTF5NTBkelczZjNGU0ZTRFhrVkxST2t2R2lQVE4yc0tEY3lYSFp1cmdwSG5BUzVaWk1Z?oc=5).
 
 ## Requirements
 - Python 3.8
