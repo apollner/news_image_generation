@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian president Zelenskyy fires air force commander after fatal F-16 crash**
+**Ukraine’s Zelensky fires Air Force chief, days after fatal F-16 crash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVo1em9rQ2p0U2VSMHk0OWRXR0puaTEwaDdKQzFDSWMxc09RSWNjcXFueVgwUGR5ODVyWkN3RC13RGJHMGg3NVRDRk9JaW9FU0dzbUlLRWxoX3hOWm9ERzg2a3QyWTVkYW1oYkp0cmVUODA5a1hPTVZZU3dWWkxHYV9INVIxNjRmX254dm12T2tmSXJVV2hOUmRDNTd2LVA1R0VtRFo1S2k?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM25zTElVcHNnQVhXQzB4ZHU0SGZ4TU94QWMwZTgyTUtyU1VLUXBfUmVtZ3NvUTJHM09vQ3Z1STA5dkhQcFp3ZlE0MkVtNlJUMDlqYmFBWEhzZnVVTXlRdkNzano3c3BUMmNYek00bEZfcTJhcExpN0dsZi1RMHhTSFlvSXk0ZU5TOElWRGZhTXU3N2JKNldFaFFrNG1mRzVhdGZrWTk0MkxzcW9oZDJfWElLdTRJNURyUm0w0gGyAUFVX3lxTFBqV3k0ME1UcHZ2QTMyNldySnhfVFUyZDdBT2dGMGUxRUQ5MXdmZE5tbEZDR0xuRENMRWpKUFFNQ3N3WGhDb0RmcmZXWjJZaGR3aFJnUHhFemdQaUJwOXRiMUdmZWFqZHVKSDJBNE5xSS1PcjdReGZqdjY3NndKLVlqRDNyM2dZR3R6TU9xWVM3b3hSbnR3REk0S2ZvbEZfMFo4MTJ4MklLWGhzdXZ6RGVtU2c?oc=5).
 
 ## Requirements
 - Python 3.8
