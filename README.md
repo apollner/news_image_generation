@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Zelensky sacks Ukraine air force commander Mykola Oleshchuk**
+**Fatman Scoop dies after collapsing on stage during US show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hd2tESUNDdmpnYTBSNkV6WlNrN1JMTU1RODFPMGhjRFYwSWxYb2VHaEx4QUJkMVZMZVUzMmotZ3oxTTJoMk1DdGZQem90TkZyR0tsNjNvTXByZ9IBX0FVX3lxTE15NHppOGg1b3JEcG1jcUFUczQ3bld6amhIVm5HVHJobHJBSjVuLXVyNE1VRWI3RG9zdDdlUmgybjl6bkRFYXZKLVZtR08wakdaR0s3TUtkSmc4OXdfek1Z?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZk1PN2FyUmJJTlFrV01ZM2JfTWpFekhHX2hULUc4REVJanB0cVNHbm84b0RnMjFnaURfZmhrdEw0bWtjWWdBNFBIUVkzM19UMDJNalpPX1VvUdIBX0FVX3lxTE5LWVlTRll6RTZ3U1BtSkdLQ21GQU5TWkxKbTdqVVNpLXFGT1ZjRm1yTkhNZXJ3ZjEySlVZSlBvc0U5OTFScnllaFR6UEdJZnZsaU15N3BCTWhNZmlneHkw?oc=5).
 
 ## Requirements
 - Python 3.8
