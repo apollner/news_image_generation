@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Americas: How Republicans and Democrats paint a different picture of the nation’s challenges**
+**Prosecutors Seek Simpler Path in Election Case After Immunity Ruling, as Trump Seeks Delays**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDZHcThsQzRvSExDWWRUMll6Nk1ldlR0UlctMFQ4bzFlYngxYkVGWHUxUFd4dkNkUW1qX3pxSTZHcnpZLTZqUnp6aFNtcWIxZ0VvYTJMYzlLV1ZWejdKdDRxQnFXS3hEbXhnamtqMEFOb1JpalBXNW01WnN1RjJ4TDlUd0J6cHZrbHhoclB3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMnVKV0lqUEFtU2JBNmdwYks1SXdlVmc4b2xOTVN5U21XUFZybDRWTFFtWlZ6LXRzS0FXS0MwZ05LT1h4ZmdBZDdYdXI1QWVjNFo5SFp2djIxRnBnaHFZVGFQZnFtSDI5T0dWUHZmbllWTVVFeDFYeFU4Nnc0RG1OZ1UxUVAwUk0?oc=5).
 
 ## Requirements
 - Python 3.8
