@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rosberg: Antonelli can become "best of next generation", but F1 preparation not ideal**
+**Updated COVID vaccine shots are now available at CVS, Kroger, Sam's Club and more stores**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxPb29NV09nb2J0R2xNYllRNm1Rd3hCbHlmeWFtZWNCQlIzMlhXeUlmWEhKUFFTXzdmeFBtajdJZVBITDZKN0VqQ28zSEJoODdETVhtbXdiQ3pBTjAtZDc3YThMLW9PMDJrUkFTMnZtaEdSMlpkNjNzRzBvcEVlNW1mOEo0YW1WQi1ZcTR1Q0Q2SEstSDBpdVRBTlpZcFhzUzNTQk5WS3JBbjhKbER1WHdOZmt5cjJVa3VzWmlCNnlDNUpWRWpf?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE11SHE0MXhYRDJXWFJxSkNkbUZtTUV0T3dBWHg1YjdmNTRuVGRsVVpjNTdxR09ub2FqMENnTGNWbG1LRWwxb2RxMmN4NzlCcFRFZldYbGZxSlhnbDhJLVMxMjhZZFhtV2xKdWdmdWJzYTRkTGRtdDdjNk55THl5Y2s?oc=5).
 
 ## Requirements
 - Python 3.8
