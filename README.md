@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina QB Max Johnson Undergoes Season-Ending Surgery on Broken Leg**
+**Top Truth Social execs—including the CEO—are shedding stock before Trump even can**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1FOR3FxRUhkdGhsZVY3VUYxRkVCV0ZYZ0NCZGtVLTVSUEducU5yUDJKdFBNdDJnS2F0OWU1ZE5nYXk4eXpxT1NoSHhDTlA0REVRRENGVTQzWnoydFpYbGY4czZxZ2Z3YzIxcG44WDJ0TFlGMkpCeFVWSjZlSW05SURMVG91ZGo1WmhEYUF5WXU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTFBLRWVpTlhzclFQaW9NbEx6WWZZMzdFSG8xSy1SVzQwVHVKX2lqaUNSLWllTVdCMm9wRzZNeUpRb29YaEhVSHRmcmJuTlQzZy1xMnhlZlNZNTFvbDFTN0pMc1FFY212T2hlajdvNlN2NF94b0hQOG5oM293?oc=5).
 
 ## Requirements
 - Python 3.8
