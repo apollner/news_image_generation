@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US, Iraq team up to kill 15 ISIS operatives in early morning raid, US military says**
+**Ukrainian president Zelenskyy fires air force commander after fatal F-16 crash**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHlJWlBKYnEtTHM5UFFsaEhmQkhCOWNkOWUzQU52S2twdXVLV3owT2lKM2w2THNnS3FzVXVJd241ZWtkcWRyNEg3c0tiTUkteC1INzJQUXpzbFdoT1V3XzFwMG5RaVdBVFdFbi1yS2xiSUd1VV9YUDc5QlRsWXJRMGVqNUgtT3BFVlBQY3p4M003RDBDVkkxd0NNNXpSeWdJbUdGb291OW_SAa4BQVVfeXFMUExHMUdxcUxjRGJienRNVEtzendWNVdVaW13MXNXWE9zbWQzdWxrblk5LU9fOGc0ZU9tenZDcnhMVFRlOEtPSnFRVi1Scl9yb3VDMlY3VFVtclpCWlJyajFCdWhjTVNISmpJZkJtT2JzN0R1Z21OU1JqVTNpejhJN2ExSWxjd2tpTkdrdjJ5NjROVTFRQ3A1dnZsaDFYX3huOGJhcUhmTjY0aG5HVVNB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYVo1em9rQ2p0U2VSMHk0OWRXR0puaTEwaDdKQzFDSWMxc09RSWNjcXFueVgwUGR5ODVyWkN3RC13RGJHMGg3NVRDRk9JaW9FU0dzbUlLRWxoX3hOWm9ERzg2a3QyWTVkYW1oYkp0cmVUODA5a1hPTVZZU3dWWkxHYV9INVIxNjRmX254dm12T2tmSXJVV2hOUmRDNTd2LVA1R0VtRFo1S2k?oc=5).
 
 ## Requirements
 - Python 3.8
