@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fatman Scoop transported to hospital after having medical emergency on stage in Hamden**
+**Two Americas: How Republicans and Democrats paint a different picture of the nation’s challenges**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHhINVlrQlFMZnUxMHM5dUJNdzVrOGxPR0NYbUFMZHRXMzRuWk5XQXdRU0U5VTZvVUJoSENOQl9IMGU5anFONDMwdDZuQXc0eGFrNWdITjN2ZUIwNnM3MXVQSjFybnl3VTM4eVZDU3RFVkJjcERreFE4clhFa0VRek54WllHYkpjVjZBdDBWakQ3UnRiVTE1VVZ2MEJab2IzYnB5cGxXUk03UFp1MG5mRVk0ZmdCcHQxZmF0d3lUNFQ2anhadUVEOVluaklIVjli0gHWAUFVX3lxTE5vbXIyZzh5WGZ5QVpNQXlZSFZGbG0tMTJ6aGZab1pTOHFRUjNPcDc3OENpUktpWlFMODRJLTRZejRYLV9Wb210ZGhJRXF4LWx0a1cxRU5USVcxZ2JoWlZqNWxYeHZxSmhuT0JqNmpDSnFfajN1VmdmNkYyMnVoUTlnSUNoaEhnWkdOZDJBT1RabGpLZm5CcnpPSzlzTkxlNzdMdGpjMDN3d1pHdnlXdFVBU2hzcGU4TjYtU3NyeTNVU2taVXZpSC1VOHF5OVFFQ0o4c1ZTTGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcDZHcThsQzRvSExDWWRUMll6Nk1ldlR0UlctMFQ4bzFlYngxYkVGWHUxUFd4dkNkUW1qX3pxSTZHcnpZLTZqUnp6aFNtcWIxZ0VvYTJMYzlLV1ZWejdKdDRxQnFXS3hEbXhnamtqMEFOb1JpalBXNW01WnN1RjJ4TDlUd0J6cHZrbHhoclB3?oc=5).
 
 ## Requirements
 - Python 3.8
