@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Engadget review recap: The Pixel 9 phones are surprisingly great, in spite of their price**
+**Undecided voters unconvinced by Kamala Harris interview on CNN**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzM1QnJsSW43bDY0bWxpVnNIMThKdEJEVmFmYzVLSnVDeG9zcXZWRW5FMms2a3VxYXhvTWIwWlNPWVZDWThtRU02b3lVNmtvM3RjaFZnMW8zSFhIRTh4MUdacFdmUjd6RmJKSmFrTFlheF9reXg0TlVBeXVhby1DX1BBS3ZnTTBVdkxobEJaNDFXZzlkYVFmRkhyYWREdlRrbXhjcXBaQzI0cHMyZlJPcHZoYng0dmNKMXZabGp2Y1BSaGpDeXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wVDVoc2c1aVFLY3ZxRDVVbWV6SS0wUXBhSF9aeUFhNjNMRFJMLTJwNjFSTmtpeTlFMFlMZjh1QUJQbzc0cktIdTA1Ym5QX3RPOHp6ZHdwTUxad9IBX0FVX3lxTE95bEE5UHdmcGllcVg4VUV3LU01am40S0Mxb1hMR3g3U3o3dlpIQzNKRTBLOEYxREs5akZGRkcxZUM5SENBT1ptOXlNWUNzYks5cW9aYWlsSW9hTjlCQ2FF?oc=5).
 
 ## Requirements
 - Python 3.8
