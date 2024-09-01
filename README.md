@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX's Falcon 9 rocket can return to flight, FAA says**
+**NASA plans to send 2 astronauts instead of 4 to ISS so pair stranded by troubled Boeing Starliner can return**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPak5YeENhVkp2c2tlNko2WmY0VU53c0ZVYlNzVF9hcmRWWlEtLUhCRWtsNFU0dU9qNGdxc1RFMFpCUmphOThmNks0U1FRZGtNYkV3MDJ6WlhYQ1lsSUw2ZFM1bWZVWUtnNHBFTDN6Q1N2eVR3TGNOVGU0TEt4UXh2eUtHRkd6UQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY091QXFwaEhPM3dhSGJHcnc4Y1JhRzJKZVZGb184WEtpSjUwckNMbGp5Ym5BLU5ZZDRpYkl0RllqX0ZvcWNfUG1ZSkw1WnJpR3g1bDU3cHRBdEFtMjVROEU2N1FoYmxGM2gxZFgtLWdQZkFKYkpxNC1RajlWaGNKa0x5QXM4Rk9reWVKMlotZFdoUlBzVlUzYVZNLVM0bjhuSE1aZGNNUWFkUdIBrwFBVV95cUxOWVd5Xy02eDZCTG5jc2JBaHdUdW1FTXRCRGVBdlc4Q2NDRUZUUU5NNFZONEFFS0hwWm5HN3NsYUM3NUpydGU0N19idzB5TndIcjJGb3NNMVQ1d0xvbjR5bHdHcHZrN1JGYjF6TXZQREQ0XzR2am1uVEhTX2phdTF5NTBkelczZjNGU0ZTRFhrVkxST2t2R2lQVE4yc0tEY3lYSFp1cmdwSG5BUzVaWk1Z?oc=5).
 
 ## Requirements
 - Python 3.8
