@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 U.S. troops hurt in Iraq raid targeting Islamic State group militants that killed 15**
+**How Caitlin Clark amazed with 31 points, propelling Fever to the best offense in WNBA**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTFB6NUxQZDNNT0VlS0xSemtVLVc0MjZIaVk1T2luMThGZ0pZRlNmRGtXSDJaRWxqMWxZejJTNXZxYjR5S0Rvc0V5dHh4QkJwWXlULTdQdWUzd21ENDdSU3hyR19DaFNJeU5aRkx1cnZTbmJwQ3VVenFCei1oaw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisAFBVV95cUxOMXcwOUs2TGx2eW1JUC14LThKc0VVNjBnNzZ6SnhTSG9TOUdRaWszTE5TeTR2MW0yeFRpN2RHNS1BaERvSzJIWXlCUjNOdkFVU2N4dlVIZ1o5YjBfdnJnUEpTbUs3X3hRRkFVQ2lvMkF5dm1kN0RiZjZrN1VjOVhuT3FHcEpPbE5HT0I3R2RiT1lzU3RweUpkalc3RmdxSklLSHBmLURrODkyT2I1QnNYTg?oc=5).
 
 ## Requirements
 - Python 3.8
