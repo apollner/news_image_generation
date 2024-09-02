@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris criticises Trump over Arlington Cemetery dispute**
+**Five telling stats from the Miami Hurricanes’ season-opening win over the Florida Gators**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZlY2bjN1akZFTHdpYlRfRnZJc295U2pMV19xdVNpbjQ2OFc4b1dGYkFOUmFqbkR5SVdCV243bkNHUGJNaXptT2ltSTM4dVd6cjJNX0RRMjV1QdIBX0FVX3lxTFBxSXNEdHJveUVMX2dnWjd3ckwtM0NZcTdOWE1zVlZES0w4SnN1UTFnTDhCXzhyZUxVZ0VOTHRZSHZodU9xbjRKWjJnc1lnYTRMWE8ycFQ0MERkek1LYnVn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUxCM3czRlFDRDAxR19FQTdOM2thRUdnTklYa3ZaRkJ4SzEzTkNpRzQwd21UM21RR1lYek4tdkxYc2RVbTlHUTZyMi1TRWtjckp3TnlTSlo0bGRuZFZTS3pmTkZKZkVwOFk2dWZ0V25kRTZ2bGh4djBybnY4dTV0VmNyLVAxUVk5dlVfSUUwOWVJUdIBkgFBVV95cUxOM3JBVldUd3R4bEw4VVgtS01XMU55ZElTWDhSUFdfSUMzRDdBRXROMF94MUl2YTUyMzRWNkFQQ2Y3T1NJLUJrZzE5ODRLR0ozQU0ydkl1MkN6QXE3bEpLaE1JN1A5ZDF3SkxUY3lUMTdtOHQtcnNjams0cEZTdXFZbFBmenE2YUxEZFkzV3VETjg4QQ?oc=5).
 
 ## Requirements
 - Python 3.8
