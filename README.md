@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Green machine: Scheffler wins FedEx Cup, $25M**
+**'Wolfs' Review: Brad Pitt & George Clooney Face Off In Jon Watts' Action Comedy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3pwSS13UWRXRWhtZmM5aHdCVHY2bGRPY1RXTGFNTi1GTUREN203RXJPdXJIUFlfRkNzTGJONVhuUHFMSU1EN1lLMHR1SXk2NVFNS0VjOWpPV2tScVNXRGszT3M1MVY2UFRqMHh0ZjV6Unc0c2xYZ1ZXUk5lbzZCMGpPcXY0Tk10eUlQTE9FRXNqWDZOUzVEZlRIckZCc1NBWHdrTDdkNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejlTQ0EycUcyM0JpM1Nfd004Z3JsczNWbDJrTUYyb0dkY2pQTXNJbUF4SW9NaWhmeUNWTkpEN3YyazhaQVlEWVp2N0pRa1RWLXIwNzcxVFlUcFJpTlU5VEF3ZVZ3YlE3OWg5UHB2TVQ1d0ZWOEJzWFNNNzR5SzY1Q1BUV3QyRW1HOG1CYlRvSmZTN25JSXpRRWdyTndjWTZjY0NVSXVfdmI3UHcyMks0eHdrQW14Q043T3JuYm9HbTQ?oc=5).
 
 ## Requirements
 - Python 3.8
