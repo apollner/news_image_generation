@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riley Leonard, Marcus Freeman pass first test, Notre Dame provides proof of concept at Texas A&M - The Athletic**
+**These 10 restaurant chains filed for bankruptcy this year**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxPclhGWkhpWUY0WDduV3B6bkR1UVdqYnVHN3BXdUhJV1RYU2ZETEs5Ri1tX0Z2ekpaTUhhQ0hMZDJNcExEcENYQ1lISzJwNVZTVUtOYXRhX2lsWUstdF9tUS1JLWFPbUNaQTM4T2otQmVPYjhRRDMxTTRNcEZDblptanBYSjdzaldibEV4MGtmYWdBOHpFUk5sWmcxeG9RLUZBMFdB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYW1KN1RmQzBDVDdOLXBycnN1MTdSLUJNNEdvVnk3OFYyRXNEQUFvZUxjNEtsMEZCRjhWbzR1SEdWcWlwYTYwYl9mWm1qQkEwUG1UdjV2ajFzTm41alZ2TE81OUxyeDdHSmktRWEtNjd1VHRLZ3lrdDMwQXozbVpPQUtFSzkwRDVKY2lSRURzNjFSbnMt0gGaAUFVX3lxTFBPQUpjbXBRNzN4TTFPRTZMS1BOaEkzd1pUdEYySDRuWWVkWTE1SmlCQUljS1o1QUwtZ1o5S1RXdmd4Sjd0QldUWjljQmwxa09qMEwwTHlsVjVCd3dqQlp1eHVRcHVYMGt5T3NvNVloZ1lPNngtTXh2c2hIcnFfU2prbnNHbm0ycEdpcmFUcVVRcVdueHl6dXF6dkE?oc=5).
 
 ## Requirements
 - Python 3.8
