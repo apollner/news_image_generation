@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX kicks off Labor Day weekend with return to Falcon 9 launch from Cape Canaveral**
+**Riley Leonard, Marcus Freeman pass first test, Notre Dame provides proof of concept at Texas A&M - The Athletic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgJBVV95cUxPckFfR0xOOGFhRTFSV2w3VWRudVplUUIzdmM3S2tzTnlpRmpWVmxDTGt0T0U4cGJCbmFfWmdab0dDU1hfZ0RwczlNLThSazhuYVg1YmtYRElNRGwyVVNaXzNVci13b2ZLSWVxc2RaREpzX1BodG9NZWVUV0dESEl6SkJLNU96SlQtR3VVZzlVa2RKRUhkNVc0U1R1eUQtc050Z0VSNWJYbTdwd1htSnJZNXJObGRZejI2a1FxYXhvc2NpbndpQkprUjJOcXB3VXh6SzgzVHB3YnBXeGVoQV9iT2Rhck95bEVVODZrbE9sWVhlMjJocHRCSEZvM2dfd192aFI4WEN1bXNkejZGeUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxPclhGWkhpWUY0WDduV3B6bkR1UVdqYnVHN3BXdUhJV1RYU2ZETEs5Ri1tX0Z2ekpaTUhhQ0hMZDJNcExEcENYQ1lISzJwNVZTVUtOYXRhX2lsWUstdF9tUS1JLWFPbUNaQTM4T2otQmVPYjhRRDMxTTRNcEZDblptanBYSjdzaldibEV4MGtmYWdBOHpFUk5sWmcxeG9RLUZBMFdB?oc=5).
 
 ## Requirements
 - Python 3.8
