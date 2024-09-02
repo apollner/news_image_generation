@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 dead after small plane crashes into row of townhouses in Oregon, TV station reports**
+**Israeli strikes kill dozens in Gaza, health officials prepare polio campaign**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxORi1CcEdscEJEdkVKdTl2UzdHalZ4STNCcnFudHhfV3JUckdIalcxcHMwdUF1bHRSLXRycGNzMV93U2c2TUxxV2x0d3RlVnZZcWh2a1RqbkR5dGo1SHV3RjNIc3l5Wk81NlpHczlEUUZ4NmlUNkZaZnNmN2xRdGxHbmxrWExITzJNUlpvb0lJUU9UcnJPWlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVVXV0J0Y0pQLVJXWGNpLV9qcHlKRE40NVU5dlJFOE5zYzNjY0FLVElGSWc0Q1luaG8tc2xzSk0xQWdOSGRoMkhHeXFzZnBraEdtS1otWVAyam9HbWRCLU9RQktfbFdyb28yQXNNMm5hSHoyMllIVmR0UU02d1dpaFgwajUzMWlvdU1Ib1Rxak1PclRITmlOM3FleXd0dkRkcnNhOUloLWg2aU9QTXphNER1ZDUta2ozWVkzS0lLY0l3RzdOMWNQVmpzYw?oc=5).
 
 ## Requirements
 - Python 3.8
