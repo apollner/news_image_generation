@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes kill dozens in Gaza, health officials prepare polio campaign**
+**With X Blocked, Brazilians Find New Homes for Their Thoughts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxQbVVXV0J0Y0pQLVJXWGNpLV9qcHlKRE40NVU5dlJFOE5zYzNjY0FLVElGSWc0Q1luaG8tc2xzSk0xQWdOSGRoMkhHeXFzZnBraEdtS1otWVAyam9HbWRCLU9RQktfbFdyb28yQXNNMm5hSHoyMllIVmR0UU02d1dpaFgwajUzMWlvdU1Ib1Rxak1PclRITmlOM3FleXd0dkRkcnNhOUloLWg2aU9QTXphNER1ZDUta2ozWVkzS0lLY0l3RzdOMWNQVmpzYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0djZ2QwTG5fSk5rM3hDU2w0TkNKZy0wbFc0MzA4Y2lhOExMSC15SE5NWDlnLTNLdHh4MXRteDJjeVBEYVdFUnZYbHRmV3Nzb2NqQnBZcXZ3eTBHX0tjYTgwd0FJZ3NSZ3BKaDBqaUNaMllBNDBoUTFrMVRkbEQxLV9jZw?oc=5).
 
 ## Requirements
 - Python 3.8
