@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Penn State-West Virginia weather updates: Weather delay called after lightning at season opener**
+**'Built different,' Smith stars in Buckeyes debut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMFFVQ0hNOGdUZmhBdUNpWlhnOTUxT0p0c01tTFdCZkVBbFRrNTgwMXFEelNDZ2psa3cydUtSbEFlcHFYZDFVWVF1am9KSkF3dXlmMW4yMUhlVmlMQWlaNVVhVHBZZ3lDZWt0NFY3empVa0Fmc2RodlFNV1Y2ZVB5TDVzNENtQ1hvMmZfQ1VyOXdYWHFnMlpWbDVXZ2VWNVJJcHhsQ0hVcFZ0S2JDdVJOVFp6RTg4Mi1WMjZEeTVoT0RmWE9YZEVzSGxQQ0pnZ2hNXzI5Tm4wOHlJdW1pdTV2bXBR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPek1pbVB1UkJlTGtkUVJ1R1pNT2ZwRkhCZ1R4NWJFLWNPNXVPcG1wZW5hZ2dEZ0JEWHd6ZmhVdHdYT2Z2VEVZT3Rmc3hHUHNJZFdTWkFaZjJVQ0l4bFNNbWtuMFhTTThpZHNUS3ZMdTF3eWxXbS1fMmV2Mm5zTXZYWG9tTGdTdHJfUHBScmNBOFlyWXA1T2VHYVVISkNla0hsbTRyUy0xY085VDVLaFAwbzljdw?oc=5).
 
 ## Requirements
 - Python 3.8
