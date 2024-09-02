@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia travelers strategically beat Labor Day Weekend rush amid record summer travel**
+**3 dead after small plane crashes into row of townhouses in Oregon, TV station reports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNblJxcmNHZ2RpRU42OU4yNUtrTzVtWER5ZjBVZXdaUEp6N0R2cmFrRW84NlhJcXFacUFhUFNQRFgxeDdlQ0NPOV9zV3dqLVVEZmtQVkh5aU1mYmFSZlo0Sy0xOTVQTDRjZ05Va05BOXppd0RxVjZUaEdaYU9ZdHFONGsyVU5kdHlUZ2dGbXUwMVrSAZYBQVVfeXFMTTJJVTRTSGdCS3ZUY01jLXRNek03ZEpjM21oTlpOYW1JWmV5a0x1QWgtY1o0YXViQnZ4eHpMNWsyenotQWtobWhnMk0tR1VDbWpSY3BDZDU1MzNxdnVGNEh2R2dlREFncWIyTV9kSnZTVjlwRk9HT0tWV0V0OHVMeU84dG5uR1dlOFQzZVZCSm5adXFBd2pR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxORi1CcEdscEJEdkVKdTl2UzdHalZ4STNCcnFudHhfV3JUckdIalcxcHMwdUF1bHRSLXRycGNzMV93U2c2TUxxV2x0d3RlVnZZcWh2a1RqbkR5dGo1SHV3RjNIc3l5Wk81NlpHczlEUUZ4NmlUNkZaZnNmN2xRdGxHbmxrWExITzJNUlpvb0lJUU9UcnJPWlE?oc=5).
 
 ## Requirements
 - Python 3.8
