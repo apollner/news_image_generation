@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After conservative criticism, Trump says he is a 'no' on Florida’s abortion rights ballot measure**
+**7 U.S. troops hurt in dramatic raid that killed numerous ISIS fighters**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUXZzSmlKS2NOS0F6a2RsMXBSS3Y4V1VvMEthZ3FadUZFSlpldENGRm9hWkpQNjY3MkJCMTlITXpKVm5GOFJvX2g5OGVSVllBNVFfWnFqTGx2Y09PNXpXakhVWEZYY2VYUVRsbFNQSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmNGaTg5NU1Zc0Nsb2dhU0FNeGtTWnNkS3lzSTkyY0ZiTk93QVREWjBnVzEzWkxfUTYzTXBUZUJVZXNwcnVKY3pWdF9pdlVsTVdSV1NnMHpLMGpvVjNhaVBwUGZ3TVJYWFBaVW9VVkZONUI2NXpBLUFNOVV5N2pPUnFBdS1qQl9nVnRhREh2b3NCV1ZlWl9vSQ?oc=5).
 
 ## Requirements
 - Python 3.8
