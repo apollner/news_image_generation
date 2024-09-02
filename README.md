@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers player Ricky Pearsall shot in chest during attempted robbery, 17-year-old suspect in custody, police say**
+**How Apple’s iPhone 16 Pro Could Change Smartphones Forever**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjhCeExnTHYxX2s3aWM5NVdvUVdmQWJxTE1fWlZ0UmZOZ3hhSlRkUEd0cS11QlNFNENHM3ZRdHBpekU0cUs3QktFb1N1M21YbG80MHBnbUkycnBGTXNXcnF3V3paZ1U0YjVCVGZ6ZGtRaUZOckZzMEpBV2xjNDBvY1ZRRk41cFNlR3J6VG8tMmVodEZ5N2NpdmJYMkpham1scjExMVNuMkpNVC0ybXFiVUxwRHJzLUo1SmdlMUpjelNKVXlv0gG7AUFVX3lxTFBQaHFEbGRqUGdQUllORXMydlpTM2M1Skl5MHdsVzBGSERaUkJ0OW9yaVZ3aDZMb0hlZGgxZnNkeHFlMEZfVU1KQXF0aUJla3RxT3hIS0pmVmN6eUFId0FtNng0ejB5aFkwZUk4SU5GOTZQa1N1VVhhVFUyRUpQZ01hVDlPS0szS1FKdGJhUk5tMVVLZVNnZ05ycWtJcEZKY0VMaVJjNExKc1NnWTNtellVS0NxSFU3dG1aWDA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUVfVC1oODBPM3htb0l6VzJtNVNMQnRfcU93Vk02dUd5Ym16UHU5ZzNvcVN4TDJ6cExscVZjYXJ2c3hiMk5LTXJjMVp6X0hfUkZMNlhPUFF5R1dFcnZIU3JadXNTUHV2RjFjcUNVRzh4dDdDS2tjcGNrMTJCS1dvaDdMeGROelhnU012cXNOWWVhZHBSZmduaGh2Y3FhaVVIeFhCdzM2Z3lqaExCeXF3WHZTSHVKN0NGeEQ0ZXdIS1o?oc=5).
 
 ## Requirements
 - Python 3.8
