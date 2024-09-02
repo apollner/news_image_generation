@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five telling stats from the Miami Hurricanes’ season-opening win over the Florida Gators**
+**Riley Leonard, Marcus Freeman pass first test, Notre Dame provides proof of concept at Texas A&M - The Athletic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUxCM3czRlFDRDAxR19FQTdOM2thRUdnTklYa3ZaRkJ4SzEzTkNpRzQwd21UM21RR1lYek4tdkxYc2RVbTlHUTZyMi1TRWtjckp3TnlTSlo0bGRuZFZTS3pmTkZKZkVwOFk2dWZ0V25kRTZ2bGh4djBybnY4dTV0VmNyLVAxUVk5dlVfSUUwOWVJUdIBkgFBVV95cUxOM3JBVldUd3R4bEw4VVgtS01XMU55ZElTWDhSUFdfSUMzRDdBRXROMF94MUl2YTUyMzRWNkFQQ2Y3T1NJLUJrZzE5ODRLR0ozQU0ydkl1MkN6QXE3bEpLaE1JN1A5ZDF3SkxUY3lUMTdtOHQtcnNjams0cEZTdXFZbFBmenE2YUxEZFkzV3VETjg4QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxPclhGWkhpWUY0WDduV3B6bkR1UVdqYnVHN3BXdUhJV1RYU2ZETEs5Ri1tX0Z2ekpaTUhhQ0hMZDJNcExEcENYQ1lISzJwNVZTVUtOYXRhX2lsWUstdF9tUS1JLWFPbUNaQTM4T2otQmVPYjhRRDMxTTRNcEZDblptanBYSjdzaldibEV4MGtmYWdBOHpFUk5sWmcxeG9RLUZBMFdB?oc=5).
 
 ## Requirements
 - Python 3.8
