@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Celebrated "Russian Spy" Whale Hvaldimir Found Dead In Norway: Report**
+**49ers rookie Pearsall shot in robbery attempt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTNBZlktazdlWkVhT0E3czlqeVlqeWZmempMZVpMMF9RdFA0WGhxX19iVDQ0TThPdk9wbWVSZEhlcFJTZkZBeHdyVEdGR3hDTGVENTZVcldsZjBwTVhtV0NDTmltRWJvc1prS1MxaWpqRGNqd0FZbWpWeU1yWkxkNWVhVDZLZ0txRVNvaFZwbDNnXzRmeTBEVzZRSFhxZTMxOWZjVW84NER4QdIBsgFBVV95cUxQTUVhSVJRNGJFUzhSLUZsNzBlVzRuRWJtYUtyLXk5Nk5Jb0dydl83TzhpMWljaUU0Vk1FYkRqTEFNb0d4Z1gwQmhqSDB1Rjd0dGd2dkRjSktxUG15cnBiQkIxZl9jcW0tWnBYN2xRa0VUWU5ILWVYRExUWjdKV1VDdU9GeWM0TXNNcDNvOE9TTW82VVlGWVBDWDVNUzdDSklueF9zblFtZlZkYndFLXlCcnBn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3dsNEhRSEgwSUg0MHVZU3RlSjhGeUVJNEx0WGhNQUU1ZXlBeUQtekNvd3BmU0RKQkVaamJQS3FtNXRxdHQyTTBZbFBaZ3JlaDAzNHQ0N0dXLWVfLUpUV1RCbW02M3lYTGhLVTJYNllqSEg3UWJSc2VXMEdLakRlZVZmS3Y1MU43NXJ5OUZLSzlSd01nWnhOTWtCTnJtU3I4aTA3MmtB?oc=5).
 
 ## Requirements
 - Python 3.8
