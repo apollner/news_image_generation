@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 U.S. troops hurt in dramatic raid that killed numerous ISIS fighters**
+**'It wasn't pretty,' but No. 7 Irish proud of win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmNGaTg5NU1Zc0Nsb2dhU0FNeGtTWnNkS3lzSTkyY0ZiTk93QVREWjBnVzEzWkxfUTYzTXBUZUJVZXNwcnVKY3pWdF9pdlVsTVdSV1NnMHpLMGpvVjNhaVBwUGZ3TVJYWFBaVW9VVkZONUI2NXpBLUFNOVV5N2pPUnFBdS1qQl9nVnRhREh2b3NCV1ZlWl9vSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmpPVURjVjAyTnRhbHJ4U3d3cTVfTmljNXBlUHFsOHljeHgwdHZpalpTaVRGekpCeFh6MllqLWVxZXhCczdPUHNnQW9YQm01ZjVKdFdwd3BnVzB0TmdsTHZXLVJWWmV6bjBkNm9aeWc1UXFqaEttME1DTHhfUWRoU3pYUmt5TVRid0FfazNxUTJ3ZllqaGpXU1N0Mmx2Vk1yMG80b0ZkMVEyaUhT?oc=5).
 
 ## Requirements
 - Python 3.8
