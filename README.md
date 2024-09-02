@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Apple’s iPhone 16 Pro Could Change Smartphones Forever**
+**7 people dead, including 8-year-old boy after charter bus runs off the road**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUVfVC1oODBPM3htb0l6VzJtNVNMQnRfcU93Vk02dUd5Ym16UHU5ZzNvcVN4TDJ6cExscVZjYXJ2c3hiMk5LTXJjMVp6X0hfUkZMNlhPUFF5R1dFcnZIU3JadXNTUHV2RjFjcUNVRzh4dDdDS2tjcGNrMTJCS1dvaDdMeGROelhnU012cXNOWWVhZHBSZmduaGh2Y3FhaVVIeFhCdzM2Z3lqaExCeXF3WHZTSHVKN0NGeEQ0ZXdIS1o?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0ptWVlEdTlMeXczR2kzOEt4N2xFM1FPRXFKT0d1bkg4MTVyV1JkM3BsVE9YVTN6a1NkVlc3Vm9WZnNoMl9nUjU5MDEzM29KcGI2TThCTXR1SzQwc0ozeTNIbWd0NHFSMS1pdW85N3VjSlZsa2FWTk9QTFpheWFMT3d3bVRFdkV2dVpReU0zdmtIS2pnS2R4a3dkVXJNYnVJc1FIWUpYRTNwTzE5azlrQS13?oc=5).
 
 ## Requirements
 - Python 3.8
