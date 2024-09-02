@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Wolfs' Review: Brad Pitt & George Clooney Face Off In Jon Watts' Action Comedy**
+**Germany’s far-right party AfD set to win one state election, and is level in another, exit polls show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejlTQ0EycUcyM0JpM1Nfd004Z3JsczNWbDJrTUYyb0dkY2pQTXNJbUF4SW9NaWhmeUNWTkpEN3YyazhaQVlEWVp2N0pRa1RWLXIwNzcxVFlUcFJpTlU5VEF3ZVZ3YlE3OWg5UHB2TVQ1d0ZWOEJzWFNNNzR5SzY1Q1BUV3QyRW1HOG1CYlRvSmZTN25JSXpRRWdyTndjWTZjY0NVSXVfdmI3UHcyMks0eHdrQW14Q043T3JuYm9HbTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW1SOVJ0QnhLRGF1Y3JCVGR2OE00MVNpQThjNHpoRkx6clpvVF9ZSGY5Q2ppb1Fkc1VTdW0xUjJrZDJKQzFUTWwxRlkyVVpzd2tVeHlaNnplc29taUVacXYzeE1rdDlKSTJaWjRISUFhaURGbnlGVTBPWWlrUmdfZVZ0WjhvX0hVSlZyOWNnSlVRQmlDeGtWUzdUTkc2cHdB0gGXAUFVX3lxTE1KcFNxNV94anZaeWJVUmcza3FmY3VTQ3ZvczZDR2hqQWZRX09vYlFhYlRoV2pOOGxGMmVPTXg5MkVFOTZfcmJ4VXZMYzBvYTgyMDlxSFFyUlRGOGhTNHp1X1BGM3dUa0lnYmxNY2YxRXJCcGd5ajU4dWpseWN6TTZ5bk01ZjJIT29iX3BpbVhWZGV3S2ROM3c?oc=5).
 
 ## Requirements
 - Python 3.8
