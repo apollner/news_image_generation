@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers rookie Pearsall shot in robbery attempt**
+**Philadelphia travelers strategically beat Labor Day Weekend rush amid record summer travel**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPV3dsNEhRSEgwSUg0MHVZU3RlSjhGeUVJNEx0WGhNQUU1ZXlBeUQtekNvd3BmU0RKQkVaamJQS3FtNXRxdHQyTTBZbFBaZ3JlaDAzNHQ0N0dXLWVfLUpUV1RCbW02M3lYTGhLVTJYNllqSEg3UWJSc2VXMEdLakRlZVZmS3Y1MU43NXJ5OUZLSzlSd01nWnhOTWtCTnJtU3I4aTA3MmtB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNblJxcmNHZ2RpRU42OU4yNUtrTzVtWER5ZjBVZXdaUEp6N0R2cmFrRW84NlhJcXFacUFhUFNQRFgxeDdlQ0NPOV9zV3dqLVVEZmtQVkh5aU1mYmFSZlo0Sy0xOTVQTDRjZ05Va05BOXppd0RxVjZUaEdaYU9ZdHFONGsyVU5kdHlUZ2dGbXUwMVrSAZYBQVVfeXFMTTJJVTRTSGdCS3ZUY01jLXRNek03ZEpjM21oTlpOYW1JWmV5a0x1QWgtY1o0YXViQnZ4eHpMNWsyenotQWtobWhnMk0tR1VDbWpSY3BDZDU1MzNxdnVGNEh2R2dlREFncWIyTV9kSnZTVjlwRk9HT0tWV0V0OHVMeU84dG5uR1dlOFQzZVZCSm5adXFBd2pR?oc=5).
 
 ## Requirements
 - Python 3.8
