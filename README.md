@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asteroid about the size of 2 football fields to make close approach to Earth in September**
+**Trump shares posts of Gold Star families praising cemetery visit and criticizing Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXBYVlY5c3ZmN2FSYzZ2U2NSWDhWUnJlVjVuNExDWk5oYXRQLXpLbm5JMHprU1ZJSnVpdkhqUkEtYXhiVWpzS040VGFiZ3pTWVdtVVZOaEpqdzBtWXFKemFYU2t1Si1Ib0NQQU5NZUIyZG1GYmI0LW5JMFgxQmNNV05uUENrTUlJOGhQOEU3MmtBQ2I1M3M4RHVoYU9jQ3AxUDkwaFNoMzY4M2Y4S2lGeFdDUURVc0tva001QnJrZkxqaWxDR0NHY2pVQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVllFWS1mdWJ0ZFVhTUs5VTU5b2hURW1lWTM3RzU0UUhMWlI4LXlCY3ludjJGNlRROUQ3eXlqRTc5am5Sd2VTbmFKXzF5NHZyU3VsaEJ3aVplUy1VZ2phdi0tWHZfa3pKd0ZnRTQ4dTB2VVNfd1ZKcTBjR0RVOXFqajJOc20xX1VucDB4NEdJdmE?oc=5).
 
 ## Requirements
 - Python 3.8
