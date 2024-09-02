@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It wasn't pretty,' but No. 7 Irish proud of win**
+**49ers rookie Ricky Pearsall shot during attempted robbery in San Francisco**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmpPVURjVjAyTnRhbHJ4U3d3cTVfTmljNXBlUHFsOHljeHgwdHZpalpTaVRGekpCeFh6MllqLWVxZXhCczdPUHNnQW9YQm01ZjVKdFdwd3BnVzB0TmdsTHZXLVJWWmV6bjBkNm9aeWc1UXFqaEttME1DTHhfUWRoU3pYUmt5TVRid0FfazNxUTJ3ZllqaGpXU1N0Mmx2Vk1yMG80b0ZkMVEyaUhT?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXZXRXpZdWV0OFJ1MkgxNHJYY2ZWU3MxaXFudnpVWEVrNnBCQkcwU0ZhcTNTMk5PbnZpeUlPQ3dZOWFzRUVMdnRYUmh2bTQwT003VWVMQ0MtSWpUYU1oWFhDZEVrWTA1X1FvLUVkYUlGQlhEc2NZQVBnMzd2bk80V0Y5TGI0cjI2TkFDOVgzRFNEY1FNaE5fdHFTZDZyR0JYOWdiay1KZWt0VjBZUk9XREc2eDdLWFlRSDFCZ9IBwgFBVV95cUxPdkJ1dUFGSVoza2NTNFVPTTdoS0dVak5HODlOWWdjVEljQVdZWW1uRi16QW9PWjBVMERGMGhrSEMzeVBwZktrb2JPckwzS0FMZ090cURVTS1UZkc2cVQ1S29GQ2RDdFBvTkt5UVNqV3hqTHAxZEplUVVxN1pBaXY2a2RxaEc2bmxHYlJoU3h1UGcxTDg0WFFkM3JjNmtnQWZvYlB2SGNLVzhlZDNpaTEyMW82RGVRYmZubjRqbmhnZ094QQ?oc=5).
 
 ## Requirements
 - Python 3.8
