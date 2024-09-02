@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Deportations are 24/7": Migrants are quickly returned to Mexico under Biden's asylum crackdown**
+**Trump shares posts of Gold Star families praising cemetery visit and criticizing Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTE4tNlBuSm1oZW9PLU1OYm45RUU0cjk3dnJtZFNXRmRfNE85OE5JR1hZcVhOdVhyZzlHbjNybUYzclVIVm1ZbmhxeFZGTWl4QnI3RXd4dmhQQk5VZVZWaVpfekJ4U1lhaFhNcTZtZWZWaVdSNG_SAXhBVV95cUxOclVHbEtKOElYWnNEWElGeTIxMEpvWVRzSmJNX3QwVF9fYkJCVGo5UzRhQVRVRk9LdDAydGx0Q3l2UTVuRmZid05TS1Zsc2Eza19ZN01UOF9CTy1McGZiVE1JMUFQcERFLVprbGlVTGJWWGRHY2o0SVU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVllFWS1mdWJ0ZFVhTUs5VTU5b2hURW1lWTM3RzU0UUhMWlI4LXlCY3ludjJGNlRROUQ3eXlqRTc5am5Sd2VTbmFKXzF5NHZyU3VsaEJ3aVplUy1VZ2phdi0tWHZfa3pKd0ZnRTQ4dTB2VVNfd1ZKcTBjR0RVOXFqajJOc20xX1VucDB4NEdJdmE?oc=5).
 
 ## Requirements
 - Python 3.8
