@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Riley Leonard, Marcus Freeman pass first test, Notre Dame provides proof of concept at Texas A&M - The Athletic**
+**"Deportations are 24/7": Migrants are quickly returned to Mexico under Biden's asylum crackdown**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxPclhGWkhpWUY0WDduV3B6bkR1UVdqYnVHN3BXdUhJV1RYU2ZETEs5Ri1tX0Z2ekpaTUhhQ0hMZDJNcExEcENYQ1lISzJwNVZTVUtOYXRhX2lsWUstdF9tUS1JLWFPbUNaQTM4T2otQmVPYjhRRDMxTTRNcEZDblptanBYSjdzaldibEV4MGtmYWdBOHpFUk5sWmcxeG9RLUZBMFdB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTE4tNlBuSm1oZW9PLU1OYm45RUU0cjk3dnJtZFNXRmRfNE85OE5JR1hZcVhOdVhyZzlHbjNybUYzclVIVm1ZbmhxeFZGTWl4QnI3RXd4dmhQQk5VZVZWaVpfekJ4U1lhaFhNcTZtZWZWaVdSNG_SAXhBVV95cUxOclVHbEtKOElYWnNEWElGeTIxMEpvWVRzSmJNX3QwVF9fYkJCVGo5UzRhQVRVRk9LdDAydGx0Q3l2UTVuRmZid05TS1Zsc2Eza19ZN01UOF9CTy1McGZiVE1JMUFQcERFLVprbGlVTGJWWGRHY2o0SVU?oc=5).
 
 ## Requirements
 - Python 3.8
