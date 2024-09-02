@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 dead after small plane crashes into row of townhouses in Oregon, TV station reports**
+**San Francisco 49ers player Ricky Pearsall shot in chest during attempted robbery, 17-year-old suspect in custody, police say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxORi1CcEdscEJEdkVKdTl2UzdHalZ4STNCcnFudHhfV3JUckdIalcxcHMwdUF1bHRSLXRycGNzMV93U2c2TUxxV2x0d3RlVnZZcWh2a1RqbkR5dGo1SHV3RjNIc3l5Wk81NlpHczlEUUZ4NmlUNkZaZnNmN2xRdGxHbmxrWExITzJNUlpvb0lJUU9UcnJPWlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWjhCeExnTHYxX2s3aWM5NVdvUVdmQWJxTE1fWlZ0UmZOZ3hhSlRkUEd0cS11QlNFNENHM3ZRdHBpekU0cUs3QktFb1N1M21YbG80MHBnbUkycnBGTXNXcnF3V3paZ1U0YjVCVGZ6ZGtRaUZOckZzMEpBV2xjNDBvY1ZRRk41cFNlR3J6VG8tMmVodEZ5N2NpdmJYMkpham1scjExMVNuMkpNVC0ybXFiVUxwRHJzLUo1SmdlMUpjelNKVXlv0gG7AUFVX3lxTFBQaHFEbGRqUGdQUllORXMydlpTM2M1Skl5MHdsVzBGSERaUkJ0OW9yaVZ3aDZMb0hlZGgxZnNkeHFlMEZfVU1KQXF0aUJla3RxT3hIS0pmVmN6eUFId0FtNng0ejB5aFkwZUk4SU5GOTZQa1N1VVhhVFUyRUpQZ01hVDlPS0szS1FKdGJhUk5tMVVLZVNnZ05ycWtJcEZKY0VMaVJjNExKc1NnWTNtellVS0NxSFU3dG1aWDA?oc=5).
 
 ## Requirements
 - Python 3.8
