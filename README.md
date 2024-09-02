@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump shares posts of Gold Star families praising cemetery visit and criticizing Harris**
+**Israel-Gaza war: UN agencies start rollout of Gaza polio vaccines**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVllFWS1mdWJ0ZFVhTUs5VTU5b2hURW1lWTM3RzU0UUhMWlI4LXlCY3ludjJGNlRROUQ3eXlqRTc5am5Sd2VTbmFKXzF5NHZyU3VsaEJ3aVplUy1VZ2phdi0tWHZfa3pKd0ZnRTQ4dTB2VVNfd1ZKcTBjR0RVOXFqajJOc20xX1VucDB4NEdJdmE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EOXdNU3dIVUVIS0U0S3JrQXB4WEhxR2xzbFB3LVRGTS03Nmt1VFlMMWVkaXcyUzNweGF0VXJHRzdIMHprNE1Ja21CT0t2VmxTZW5wWFJJSXZIUdIBX0FVX3lxTE1PclV4M2Nxb3dXWFZ5Vngxc2xGaWpFSTc5WjFzMWVtckFiNVctajNXNFh3ZmItUWoySzRXSHNMRVlydUdZS25vZXRzeC1JTmYwRzM3VU5vajZNRXJIR1Yw?oc=5).
 
 ## Requirements
 - Python 3.8
