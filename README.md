@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With X Blocked, Brazilians Find New Homes for Their Thoughts**
+**Kamala Harris criticises Trump over Arlington Cemetery dispute**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxPS0djZ2QwTG5fSk5rM3hDU2w0TkNKZy0wbFc0MzA4Y2lhOExMSC15SE5NWDlnLTNLdHh4MXRteDJjeVBEYVdFUnZYbHRmV3Nzb2NqQnBZcXZ3eTBHX0tjYTgwd0FJZ3NSZ3BKaDBqaUNaMllBNDBoUTFrMVRkbEQxLV9jZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZlY2bjN1akZFTHdpYlRfRnZJc295U2pMV19xdVNpbjQ2OFc4b1dGYkFOUmFqbkR5SVdCV243bkNHUGJNaXptT2ltSTM4dVd6cjJNX0RRMjV1QdIBX0FVX3lxTFBxSXNEdHJveUVMX2dnWjd3ckwtM0NZcTdOWE1zVlZES0w4SnN1UTFnTDhCXzhyZUxVZ0VOTHRZSHZodU9xbjRKWjJnc1lnYTRMWE8ycFQ0MERkek1LYnVn?oc=5).
 
 ## Requirements
 - Python 3.8
