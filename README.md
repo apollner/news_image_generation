@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame vs. Texas A&M live stream, where to watch, TV channel, prediction, pick, spread, football game odds**
+**'It wasn't pretty,' but No. 7 Irish proud of win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWpvakQ5RzdjRDN6RV92WENpWU1zWGhpUHRhY3ptVkh5dU95eUJ5MlNoTk5NOE9Ja25GVnNrck5GNTZZTnhDVXd2VEhnaTkyWm1jNnVTV29mNnAtYV83YlZNYkNIbTVQWVNIZTN3ZlpZWk93alFoQ25NMXVBNnlxOFVCX0k2SFpJNmFSSnlBTzJNdXNHVE5UZzBVWHc5VVhrUnc0d2FMa1RUQlZqWlMxci1KU2J2SjRrUVlaZU5tcjNCZGJxREo5a0FBMnJYSzBLcDRwZUJXMVRvcVRTbTY4UWxac19mRUnSAewBQVVfeXFMTkRqVmZVcTlGLUVMVzJDZzRMX2c4LWd6dlFicWxpdThEcURQRUliR3hzU3ItdFlNS0F0YWpFaGRXOVFETktJRnpyUFBMMGQ2OFh4Z3V0djB6dVJxa281QkNBM3QxZDl0Wm5PWlFSdHZDRDVYOTIwSEZqSUd5eDFVcnJPdkI2V2VqSlNUOEpsNU5CancyWEJmUnNReko2Sk10NFk2UlFSVDg1Ylk0YUowT05oVUZXWnY2bktNR1JxbThCSExtYmpidGxDUVBsUE92Y3J5NlhPSGQxeHlRUEc5NDJuVDFtNlRRWHJsVkQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmpPVURjVjAyTnRhbHJ4U3d3cTVfTmljNXBlUHFsOHljeHgwdHZpalpTaVRGekpCeFh6MllqLWVxZXhCczdPUHNnQW9YQm01ZjVKdFdwd3BnVzB0TmdsTHZXLVJWWmV6bjBkNm9aeWc1UXFqaEttME1DTHhfUWRoU3pYUmt5TVRid0FfazNxUTJ3ZllqaGpXU1N0Mmx2Vk1yMG80b0ZkMVEyaUhT?oc=5).
 
 ## Requirements
 - Python 3.8
