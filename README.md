@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany’s far-right party AfD set to win one state election, and is level in another, exit polls show**
+**Backup generators bail out Rancho Palos Verdes amid landslide crisis, SoCal Edison power shutoff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW1SOVJ0QnhLRGF1Y3JCVGR2OE00MVNpQThjNHpoRkx6clpvVF9ZSGY5Q2ppb1Fkc1VTdW0xUjJrZDJKQzFUTWwxRlkyVVpzd2tVeHlaNnplc29taUVacXYzeE1rdDlKSTJaWjRISUFhaURGbnlGVTBPWWlrUmdfZVZ0WjhvX0hVSlZyOWNnSlVRQmlDeGtWUzdUTkc2cHdB0gGXAUFVX3lxTE1KcFNxNV94anZaeWJVUmcza3FmY3VTQ3ZvczZDR2hqQWZRX09vYlFhYlRoV2pOOGxGMmVPTXg5MkVFOTZfcmJ4VXZMYzBvYTgyMDlxSFFyUlRGOGhTNHp1X1BGM3dUa0lnYmxNY2YxRXJCcGd5ajU4dWpseWN6TTZ5bk01ZjJIT29iX3BpbVhWZGV3S2ROM3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEZDZ3MzdUpINWx4bU9DTnRkNFU0ZFQtUURzdW5QMDdVbExkZjBRc2VTclExSUdBUTZfMl8xczdfYVdiZmN4bnZkeGNVbnJKVmt3UmdZQndWX1lNNXNJdzBPTVBPOWZYUV9vUzhMZU5XOUgydV9UZGcwa2REdVJtYkc0X3NZTk44YVZLY3g2V29BcWZodTZQMkJsdEFsZ1lGdE84UUx1NlV5MGxlNFpkbVJHTkd2N2tqaFFJbHVweE8?oc=5).
 
 ## Requirements
 - Python 3.8
