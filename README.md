@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Gaza war: UN agencies start rollout of Gaza polio vaccines**
+**Israelis erupt in protest to demand a cease-fire after 6 more hostages die in Gaza**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EOXdNU3dIVUVIS0U0S3JrQXB4WEhxR2xzbFB3LVRGTS03Nmt1VFlMMWVkaXcyUzNweGF0VXJHRzdIMHprNE1Ja21CT0t2VmxTZW5wWFJJSXZIUdIBX0FVX3lxTE1PclV4M2Nxb3dXWFZ5Vngxc2xGaWpFSTc5WjFzMWVtckFiNVctajNXNFh3ZmItUWoySzRXSHNMRVlydUdZS25vZXRzeC1JTmYwRzM3VU5vajZNRXJIR1Yw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNmhuSV9rYnY0eTNkaVdVbno0QlRwQ3JXVXEwdGxLZTNzLVdsbUhPcGZqanNMR1lJWGVNS2FpRmd0aW8yVlNKR1FDeFQ0VXZYSHk0M1B1OHFNQUx3U0R5anBTWFBNUWFPSUdoSjRoTnJTZVpLbkI5RzhjeTFfNFJhUEdXOXg3WHFITDlGMmtadlpnd2R4WldJS3UwWVNXUC1VaXVUamN2UDg0M1dGUFk0THJCdzVFTmlYWEpV?oc=5).
 
 ## Requirements
 - Python 3.8
