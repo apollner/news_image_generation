@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris criticises Trump over Arlington Cemetery dispute**
+**Asteroid about the size of 2 football fields to make close approach to Earth in September**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZlY2bjN1akZFTHdpYlRfRnZJc295U2pMV19xdVNpbjQ2OFc4b1dGYkFOUmFqbkR5SVdCV243bkNHUGJNaXptT2ltSTM4dVd6cjJNX0RRMjV1QdIBX0FVX3lxTFBxSXNEdHJveUVMX2dnWjd3ckwtM0NZcTdOWE1zVlZES0w4SnN1UTFnTDhCXzhyZUxVZ0VOTHRZSHZodU9xbjRKWjJnc1lnYTRMWE8ycFQ0MERkek1LYnVn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXBYVlY5c3ZmN2FSYzZ2U2NSWDhWUnJlVjVuNExDWk5oYXRQLXpLbm5JMHprU1ZJSnVpdkhqUkEtYXhiVWpzS040VGFiZ3pTWVdtVVZOaEpqdzBtWXFKemFYU2t1Si1Ib0NQQU5NZUIyZG1GYmI0LW5JMFgxQmNNV05uUENrTUlJOGhQOEU3MmtBQ2I1M3M4RHVoYU9jQ3AxUDkwaFNoMzY4M2Y4S2lGeFdDUURVc0tva001QnJrZkxqaWxDR0NHY2pVQQ?oc=5).
 
 ## Requirements
 - Python 3.8
