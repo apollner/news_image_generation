@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asteroid about the size of 2 football fields to make close approach to Earth in September**
+**Ukraine launches massive drone attack on Russian energy infrastructure**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxQOXBYVlY5c3ZmN2FSYzZ2U2NSWDhWUnJlVjVuNExDWk5oYXRQLXpLbm5JMHprU1ZJSnVpdkhqUkEtYXhiVWpzS040VGFiZ3pTWVdtVVZOaEpqdzBtWXFKemFYU2t1Si1Ib0NQQU5NZUIyZG1GYmI0LW5JMFgxQmNNV05uUENrTUlJOGhQOEU3MmtBQ2I1M3M4RHVoYU9jQ3AxUDkwaFNoMzY4M2Y4S2lGeFdDUURVc0tva001QnJrZkxqaWxDR0NHY2pVQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMUdpSm1oaGhzUG9zZ0xGWnF6WXltTGZENnZVVndENFpxMzhGeENDRUlsTm9OY1FyZ1Q0NlRnSDFjZUhVZWliVkRqTEc4ajN0SUdhNWE4LVcxYjczM3ZJUXNOOXZEQjBYbDZJcGNvUHdzdzJET0NLVG5UNHNfWlJld1llRzEzMXAydmlr?oc=5).
 
 ## Requirements
 - Python 3.8
