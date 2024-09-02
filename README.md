@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Serious but stable': 49ers Ricky Pearsall shot during attempted robbery in San Francisco**
+**After conservative criticism, Trump says he is a 'no' on Florida’s abortion rights ballot measure**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXNNVFgtSUpxaWc1ai1Ta09UeTc3S055LUE3SUJhOG9vQTd6WHhEZ19mdU9uQVBBNmZsajVSX200TnlfUE5MZEZFeF9jUGxuY0ZxWkNtUFJWbGpKUDNxbVVRdHdaSXZma2tiVnoxcmktU2Myd012YVE0OHNHaDNrVVJ3RzBTX3Q0NHVhRlJnNE1BU1NoWnRBeW94eHcySmd6OFoxdmVYbTQzLVU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMib0FVX3lxTE5OUXZzSmlKS2NOS0F6a2RsMXBSS3Y4V1VvMEthZ3FadUZFSlpldENGRm9hWkpQNjY3MkJCMTlITXpKVm5GOFJvX2g5OGVSVllBNVFfWnFqTGx2Y09PNXpXakhVWEZYY2VYUVRsbFNQSQ?oc=5).
 
 ## Requirements
 - Python 3.8
