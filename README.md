@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Built different,' Smith stars in Buckeyes debut**
+**Celebrated "Russian Spy" Whale Hvaldimir Found Dead In Norway: Report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPek1pbVB1UkJlTGtkUVJ1R1pNT2ZwRkhCZ1R4NWJFLWNPNXVPcG1wZW5hZ2dEZ0JEWHd6ZmhVdHdYT2Z2VEVZT3Rmc3hHUHNJZFdTWkFaZjJVQ0l4bFNNbWtuMFhTTThpZHNUS3ZMdTF3eWxXbS1fMmV2Mm5zTXZYWG9tTGdTdHJfUHBScmNBOFlyWXA1T2VHYVVISkNla0hsbTRyUy0xY085VDVLaFAwbzljdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTNBZlktazdlWkVhT0E3czlqeVlqeWZmempMZVpMMF9RdFA0WGhxX19iVDQ0TThPdk9wbWVSZEhlcFJTZkZBeHdyVEdGR3hDTGVENTZVcldsZjBwTVhtV0NDTmltRWJvc1prS1MxaWpqRGNqd0FZbWpWeU1yWkxkNWVhVDZLZ0txRVNvaFZwbDNnXzRmeTBEVzZRSFhxZTMxOWZjVW84NER4QdIBsgFBVV95cUxQTUVhSVJRNGJFUzhSLUZsNzBlVzRuRWJtYUtyLXk5Nk5Jb0dydl83TzhpMWljaUU0Vk1FYkRqTEFNb0d4Z1gwQmhqSDB1Rjd0dGd2dkRjSktxUG15cnBiQkIxZl9jcW0tWnBYN2xRa0VUWU5ILWVYRExUWjdKV1VDdU9GeWM0TXNNcDNvOE9TTW82VVlGWVBDWDVNUzdDSklueF9zblFtZlZkYndFLXlCcnBn?oc=5).
 
 ## Requirements
 - Python 3.8
