@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carson Beck, No. 1 Georgia manhandle No. 14 Clemson**
+**Penn State-West Virginia weather updates: Weather delay called after lightning at season opener**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2EtYTNkS3pNOE9uN1RwN2pTSGdiaHItcVZ4ajVqcXNsOEhWdDJxV0RsX1Z0UTRSV2JaRldKZGpmbWtXUEJBZ2N5cVlLUjVsR3dCd082Zld1cHVmdGptV1Y2TXozMllMQWlXeUVVNkRxU1hFbjZOaTN4ME9QX2M4RzZhUFpQMXFVdXY4em9ZUmExZEFidTNaN0l1NmdMSDN2b1dUSWt0b05IQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMFFVQ0hNOGdUZmhBdUNpWlhnOTUxT0p0c01tTFdCZkVBbFRrNTgwMXFEelNDZ2psa3cydUtSbEFlcHFYZDFVWVF1am9KSkF3dXlmMW4yMUhlVmlMQWlaNVVhVHBZZ3lDZWt0NFY3empVa0Fmc2RodlFNV1Y2ZVB5TDVzNENtQ1hvMmZfQ1VyOXdYWHFnMlpWbDVXZ2VWNVJJcHhsQ0hVcFZ0S2JDdVJOVFp6RTg4Mi1WMjZEeTVoT0RmWE9YZEVzSGxQQ0pnZ2hNXzI5Tm4wOHlJdW1pdTV2bXBR?oc=5).
 
 ## Requirements
 - Python 3.8
