@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany’s far-right party AfD set to win one state election, and is level in another, exit polls show**
+**Kamala Harris criticises Trump over Arlington Cemetery dispute**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW1SOVJ0QnhLRGF1Y3JCVGR2OE00MVNpQThjNHpoRkx6clpvVF9ZSGY5Q2ppb1Fkc1VTdW0xUjJrZDJKQzFUTWwxRlkyVVpzd2tVeHlaNnplc29taUVacXYzeE1rdDlKSTJaWjRISUFhaURGbnlGVTBPWWlrUmdfZVZ0WjhvX0hVSlZyOWNnSlVRQmlDeGtWUzdUTkc2cHdB0gGXAUFVX3lxTE1KcFNxNV94anZaeWJVUmcza3FmY3VTQ3ZvczZDR2hqQWZRX09vYlFhYlRoV2pOOGxGMmVPTXg5MkVFOTZfcmJ4VXZMYzBvYTgyMDlxSFFyUlRGOGhTNHp1X1BGM3dUa0lnYmxNY2YxRXJCcGd5ajU4dWpseWN6TTZ5bk01ZjJIT29iX3BpbVhWZGV3S2ROM3c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TZlY2bjN1akZFTHdpYlRfRnZJc295U2pMV19xdVNpbjQ2OFc4b1dGYkFOUmFqbkR5SVdCV243bkNHUGJNaXptT2ltSTM4dVd6cjJNX0RRMjV1QdIBX0FVX3lxTFBxSXNEdHJveUVMX2dnWjd3ckwtM0NZcTdOWE1zVlZES0w4SnN1UTFnTDhCXzhyZUxVZ0VOTHRZSHZodU9xbjRKWjJnc1lnYTRMWE8ycFQ0MERkek1LYnVn?oc=5).
 
 ## Requirements
 - Python 3.8
