@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It wasn't pretty,' but No. 7 Irish proud of win**
+**Gavin Newsom calls special session on gas prices**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmpPVURjVjAyTnRhbHJ4U3d3cTVfTmljNXBlUHFsOHljeHgwdHZpalpTaVRGekpCeFh6MllqLWVxZXhCczdPUHNnQW9YQm01ZjVKdFdwd3BnVzB0TmdsTHZXLVJWWmV6bjBkNm9aeWc1UXFqaEttME1DTHhfUWRoU3pYUmt5TVRid0FfazNxUTJ3ZllqaGpXU1N0Mmx2Vk1yMG80b0ZkMVEyaUhT?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEtySEpsVTFJNU9VUmkwSGhINXdSbjFhR3ZTVVdPQk1jVzNJVXJfcVIxbVBfcDhaM19aQ2hFamdmcUlxZ2FWLS16T1pmNlkzc0d0NGVFNURWTmZiWGg0U1IwaVJxejl1cDhJdzFPZ3NoS0JtVG1QeHNfOG1wRlBINGJHbW5uUk5iV3BJTUF3?oc=5).
 
 ## Requirements
 - Python 3.8
