@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 people dead, including 8-year-old boy after charter bus runs off the road**
+**Notre Dame vs. Texas A&M live stream, where to watch, TV channel, prediction, pick, spread, football game odds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0ptWVlEdTlMeXczR2kzOEt4N2xFM1FPRXFKT0d1bkg4MTVyV1JkM3BsVE9YVTN6a1NkVlc3Vm9WZnNoMl9nUjU5MDEzM29KcGI2TThCTXR1SzQwc0ozeTNIbWd0NHFSMS1pdW85N3VjSlZsa2FWTk9QTFpheWFMT3d3bVRFdkV2dVpReU0zdmtIS2pnS2R4a3dkVXJNYnVJc1FIWUpYRTNwTzE5azlrQS13?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWpvakQ5RzdjRDN6RV92WENpWU1zWGhpUHRhY3ptVkh5dU95eUJ5MlNoTk5NOE9Ja25GVnNrck5GNTZZTnhDVXd2VEhnaTkyWm1jNnVTV29mNnAtYV83YlZNYkNIbTVQWVNIZTN3ZlpZWk93alFoQ25NMXVBNnlxOFVCX0k2SFpJNmFSSnlBTzJNdXNHVE5UZzBVWHc5VVhrUnc0d2FMa1RUQlZqWlMxci1KU2J2SjRrUVlaZU5tcjNCZGJxREo5a0FBMnJYSzBLcDRwZUJXMVRvcVRTbTY4UWxac19mRUnSAewBQVVfeXFMTkRqVmZVcTlGLUVMVzJDZzRMX2c4LWd6dlFicWxpdThEcURQRUliR3hzU3ItdFlNS0F0YWpFaGRXOVFETktJRnpyUFBMMGQ2OFh4Z3V0djB6dVJxa281QkNBM3QxZDl0Wm5PWlFSdHZDRDVYOTIwSEZqSUd5eDFVcnJPdkI2V2VqSlNUOEpsNU5CancyWEJmUnNReko2Sk10NFk2UlFSVDg1Ylk0YUowT05oVUZXWnY2bktNR1JxbThCSExtYmpidGxDUVBsUE92Y3J5NlhPSGQxeHlRUEc5NDJuVDFtNlRRWHJsVkQ?oc=5).
 
 ## Requirements
 - Python 3.8
