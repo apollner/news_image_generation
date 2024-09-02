@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gavin Newsom calls special session on gas prices**
+**'Serious but stable': 49ers Ricky Pearsall shot during attempted robbery in San Francisco**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEtySEpsVTFJNU9VUmkwSGhINXdSbjFhR3ZTVVdPQk1jVzNJVXJfcVIxbVBfcDhaM19aQ2hFamdmcUlxZ2FWLS16T1pmNlkzc0d0NGVFNURWTmZiWGg0U1IwaVJxejl1cDhJdzFPZ3NoS0JtVG1QeHNfOG1wRlBINGJHbW5uUk5iV3BJTUF3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOXNNVFgtSUpxaWc1ai1Ta09UeTc3S055LUE3SUJhOG9vQTd6WHhEZ19mdU9uQVBBNmZsajVSX200TnlfUE5MZEZFeF9jUGxuY0ZxWkNtUFJWbGpKUDNxbVVRdHdaSXZma2tiVnoxcmktU2Myd012YVE0OHNHaDNrVVJ3RzBTX3Q0NHVhRlJnNE1BU1NoWnRBeW94eHcySmd6OFoxdmVYbTQzLVU?oc=5).
 
 ## Requirements
 - Python 3.8
