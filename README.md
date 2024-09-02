@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX kicks off Labor Day weekend with return to Falcon 9 launch from Cape Canaveral**
+**Germany’s far-right party AfD set to win one state election, and is level in another, exit polls show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgJBVV95cUxPckFfR0xOOGFhRTFSV2w3VWRudVplUUIzdmM3S2tzTnlpRmpWVmxDTGt0T0U4cGJCbmFfWmdab0dDU1hfZ0RwczlNLThSazhuYVg1YmtYRElNRGwyVVNaXzNVci13b2ZLSWVxc2RaREpzX1BodG9NZWVUV0dESEl6SkJLNU96SlQtR3VVZzlVa2RKRUhkNVc0U1R1eUQtc050Z0VSNWJYbTdwd1htSnJZNXJObGRZejI2a1FxYXhvc2NpbndpQkprUjJOcXB3VXh6SzgzVHB3YnBXeGVoQV9iT2Rhck95bEVVODZrbE9sWVhlMjJocHRCSEZvM2dfd192aFI4WEN1bXNkejZGeUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPYW1SOVJ0QnhLRGF1Y3JCVGR2OE00MVNpQThjNHpoRkx6clpvVF9ZSGY5Q2ppb1Fkc1VTdW0xUjJrZDJKQzFUTWwxRlkyVVpzd2tVeHlaNnplc29taUVacXYzeE1rdDlKSTJaWjRISUFhaURGbnlGVTBPWWlrUmdfZVZ0WjhvX0hVSlZyOWNnSlVRQmlDeGtWUzdUTkc2cHdB0gGXAUFVX3lxTE1KcFNxNV94anZaeWJVUmcza3FmY3VTQ3ZvczZDR2hqQWZRX09vYlFhYlRoV2pOOGxGMmVPTXg5MkVFOTZfcmJ4VXZMYzBvYTgyMDlxSFFyUlRGOGhTNHp1X1BGM3dUa0lnYmxNY2YxRXJCcGd5ajU4dWpseWN6TTZ5bk01ZjJIT29iX3BpbVhWZGV3S2ROM3c?oc=5).
 
 ## Requirements
 - Python 3.8
