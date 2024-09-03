@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK housing portal Rightmove surges as Murdoch's REA considers bid**
+**Exclusive: US seizes Venezuela President Nicolas Maduro’s airplane in the Dominican Republic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFE3VnVTSXpnbVdxMG8tVHFmcU1QQTBVWGpzd0NXUVZKVUJacXkyMnJjYk93ZU5tZk1qUzNtTXpHTXVhR3BleVdTdGNmRE9PTkN3d0xWM2o4azVMRzlFenB1X1RGR3E2YlBqRXhiRW9hM1RCQ0ZaN3ZHU1lkME1iQlpZY0dVRnNmYzQzQjZZVUc4bDRoeGlnMnViX25HQ0ZCTno3WkZINjhRQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOYm9jMDU4R0xlbC1Ea0tCUGJyMFJfaFlVUFd1Y1ZiWUd1RnFGb1c1SFhqTnNIUHhYZmtmek9vanVmM3QzOGt1cnQ5ZFBpOFo4TzVQdjY2SUZMTC16eEFpZ01Wazd1MWhyN01nMkNiREI1bjBEUzRMcFVwYWtMc2xOem1PU3V0SXktRm16dXpsLXlOMUJPbk0tTTBUMHV0Z9IBlAFBVV95cUxQUnRNWll1Slp1Q3pUV2ZlbkpwQkswQUZRcDdkaFhvcVhjYmpRR2d5Y2poMU5aMlpjUG5ua1VLUmlUYjk5LXk3UTRTTmZTeXplWkZxZmNGYThyUTAxQXd4N2lVX0xZNGF0QzFDSGJuVXFFRENtc3pPYldVd0YwMVloMXlkcG5Lc0JaZGVfQ3pDV244ZmJk?oc=5).
 
 ## Requirements
 - Python 3.8
