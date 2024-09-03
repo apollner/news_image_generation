@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Strikes start at top hotel chains as housekeepers seek higher wages and daily room cleaning work**
+**Whale dubbed a Russian spy found dead off Norway**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHEwU1ZaV1pkRUgzU0MxV3EzaW5EUkVnUnZ1NHVWT2phRlhvMWFjOHlrVkF6ZnhVekVTcjlvU3RCbVBaNjFhYTQtcFFtOUtJZ1Q4ZkVnSEg1bjFJVEwwbGlmZ1JxWWVZb0xGTmc1cnZwMGlQdWxlN0VVSmYyNjB0ZW1zS3QxY2tCUmZ1Q2YxSDFZUFJrRjg4ZnIwd0k3UVlhc0pMZQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bG1ILUhMeEp1M3RLaEp3LVZWZVRHOW1FVEdxR3p3RE85Z0luMno3QWxyeFo0MlFDQVpSQlBzcmlLU09Vb0tjYTA3bjByVGh2S1BaTjNHTXhTZ9IBX0FVX3lxTE84UFJZOFBTRDZpSnJvWGRtSFFtSGQ1QmtZa1VzbUJmYTAwM3BURXFSaHBsMjR4V0lsNEREWFpCMUxEY3NZalZ1V2pDNmVYX1VMdDhEbE1Kd0V5Y216b0tj?oc=5).
 
 ## Requirements
 - Python 3.8
