@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK announces partial suspension of arms exports to Israel**
+**Hamas Warfare Manual: Terrorist Tunnel Tactics Revealed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPdGxES0x3dmVHbzFlY0RaVVNmVnV5cVBqR3dBZENDS0NhOTNwdUIzVDFpeTdiajRJQTJ0UG9TdEs2SGpnNkZTTlprVm9xNXBIQXlVM0FBSTF0MUh0WnJ1bnlwN1RJald0VlZqMmtDeVdlWjh5QWctVG40Wmk4azNiR3FnMHVMS3puREtVeFI1WHptWS1RVWxEWVpvZHVUd9IBowFBVV95cUxOYUtuX2I5ZWQzc2FJOUxMOTN2SzlLXzl6emM0XzZuT0JHbkVKYkVwTzJJd2RYQzhDQW15aVFWMVIzSUZTOUlNZjlQcnBraEtiTmtQaTRqWjlwZ2l3VlNzVlhKOHpmVEVXNE5SUldYdVJHQV9mT2lqSGxxSWI4LTVZWE9BSGNEY29BT2pRODMtNVdjRFhhc2NoNElpUmRQLUZBcFdZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPSEJhWmpDS2N6eUpxN2RJZkVXQkNLRU5uTE1yMFM3V3VZWGlIS0x5UTNzUVJoRG1wUGtPd24xaEVfZlZVLW9Vd015WlJvSUJoTE5HeUxVWWc2a1VYdlNDRzVETWtxbWs2SUxlakd2MjlDdlNnWWN5S2RObWFsalR1V2FHX3E5MkRSLTZuaU9RRXVWLUJBbnJZOUliQW1yTjNQNThWRnZNQQ?oc=5).
 
 ## Requirements
 - Python 3.8
