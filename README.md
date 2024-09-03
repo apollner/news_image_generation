@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gender gap widens in support for Harris vs. Trump: poll**
+**A CPAP isn’t the only option for treating sleep apnea**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVFEM3ZFZF9MM1pUWG93a0tqbDJuVTlHa0lVTGU5RDhSZzhSNERGN0ZrX2Z1NVQ0V2xFdEpZN2RCUTFubjIwclBnVGZjVlR5clFYdnJVcGwteGpRQU1WWjZPYUhjQmFjTVI3azlwTGlCS2t5d011TmZGWWdMMy05TEtQRQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEJJcXkyV21ibURHaUNyV2ZlZUwwMHNtUDdST3pKVnV2UEhVZkVMMUxLTXlBeGZlczJtdmNPWTBTdGxBUHNTUnBPanBmZEgyLWlDNXpzcUVUSW5LS2pyWFl6X090d2tteVM1cUo5OWVSZVQydTNUMHRKMWpGMGpGSjBqS2JPUGs2UlE?oc=5).
 
 ## Requirements
 - Python 3.8
