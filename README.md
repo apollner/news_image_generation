@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cellphone video shows 49ers Ricky Pearsall after shooting in San Francisco Saturday**
+**Behind Matthew Perry’s Deadly Trade With L.A.’s ‘Ketamine Queen’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWm9lVENXOHE1bnZnRjk3dWJuSG5KTFViN05fZVpXSUtBdTJqdnIzYnJVd29VOWpFSUxzZzV3ZkxSY3l5LTU0NE5nSzZpOGE3LXlNS05yQnFFYXdyWG9vOUV4b2xWeERvc3NyMFJDRlVBeVBHUjhnUnNhbE9OdDRYTkhfS2lFaHJTY1Zha1pxTVQtX3B2c1VvYk1weGk2cjdOYTV6bFBPUlVLSkhwNEZvTUt6Q2E0OG05Sm5Vb09vd0rSAcYBQVVfeXFMTU1WYWhmYldQTHo1blhkaVVGNkstOWtLdS1vVkxaR2t5ejVfV3hVdlJfb1VlSWhsMmVUVFZWTjdKMU9BRk9oTWRfNlVpSjE0dFZJcS1Ua1pVRlpxd0pCOVV5M0VTYzNKMjBxcDVTd0QxU2VQbDdUcEFDOV9Tbnc3TnBnSjlKenhtVElQSEVVNkllSE53U2JIWTVFakphNlFJQXVqNV9kM1VRbGhCYmVxdjBDSDVucU1FWEFGV1ZadkhxaVFIYl9n?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMS0wcTA5MVlBNW02WXFQSnBWTFVfRl83aDBzMGFPSUtreWk5MWlPY1JiTmIzVUREaFZOOExpUnU2R1o5MFpMR0VWUFAwRno5aUdZazd5eUdRa2NzYW1QdS1lazdHdU5xeHdxSmVEMEJDMDZiWEdaMWJxUHhRZWZ5cjFkTVBhdDZQcEpreEhNdw?oc=5).
 
 ## Requirements
 - Python 3.8
