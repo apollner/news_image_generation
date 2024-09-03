@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney pulls ABC, ESPN and other channels from DirecTV in carriage standoff**
+**Backup generators bail out Rancho Palos Verdes amid landslide crisis, SoCal Edison power shutoff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0JsbGhjSklWcWpuUjJyRGZWcjdwTk0zZmp5RThKMzdnNnJJS01zWU4tSDBOa1k1VmxZelVNenBtamFQR1lFYUFuQnlLWVF5R1JDZlZnQnJqaUVPaEN1VWRHVjAyOC16dVZFdVJBcU5CNjh1ZktCY1NfdzBoRDBNbW9kV0hCdXcwbEgwREdfUDdHc2dmaUNDN09MZmk1SUhkVTFFdjl2ODFxdG5BeWg3cUp3SmJ2TGNPTUhSeHBPdW9LcWPSAboBQVVfeXFMT29kdUZwUC1UZ2R1dC1yTGh3NWQ5cWdWejdiVFlrSnp1ZmhxbndMaXFDSkZRTF81c1FqRGc3cGhVV0U4SDBxMlBkN0wxUlpwSWNVTWlRbDB0SEZWVW9fMWs4U3NldTF2dUNIcW5KSEhselRRZXFLNGVlVXRBUHZTMFZaTDRMVHJNVk5rT0dWaXZlRG1mZV84VUhnb1AyVDE4bUxzZ1cwUW9kNFpqTmNBcHVhVjl3d2p6SmZn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEZDZ3MzdUpINWx4bU9DTnRkNFU0ZFQtUURzdW5QMDdVbExkZjBRc2VTclExSUdBUTZfMl8xczdfYVdiZmN4bnZkeGNVbnJKVmt3UmdZQndWX1lNNXNJdzBPTVBPOWZYUV9vUzhMZU5XOUgydV9UZGcwa2REdVJtYkc0X3NZTk44YVZLY3g2V29BcWZodTZQMkJsdEFsZ1lGdE84UUx1NlV5MGxlNFpkbVJHTkd2N2tqaFFJbHVweE8?oc=5).
 
 ## Requirements
 - Python 3.8
