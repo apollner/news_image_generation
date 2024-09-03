@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. soldiers assaulted in western Turkey, local governor's office and U.S. Embassy say**
+**A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1SVFdwODZpMEs3UjBaaEZCTTZDM3RwcHcySnBiV3JXOGppek9Rb0FGRG1EOWNqT285TlBVYmNsQ0FQRC00Tm5YNzJKRVB3dS1QeUFNUk9qZElIWDNTQm93VXF6cU9nSElSWlBkeVFzZDctZjRIVzRNZHl2TlFHOU0yYm1zUHhxMUU1YWdmZVBmN0p0M3I2OVRDaWFidm1EcXRHQmpzTFlfNk1INVo4Sk5yTHlFRjRFVWtPdTE4dXJ2VlZTNF9V?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVhQkdPcnEzZUtZa2JldkRmOURJWlZheV8wWXVuZlZER2xucmdabFl1UXJ1RGlVNEd5WkhPb09PbU8xTElvMDFiS2U4OGtMTHdLcFhkcTRBZzN5SHNUVDNQYW1sU0wyOWtnTm1meUhXdHZWYTB4QV94aS1CUk5lVEY3cm1MMGFYYzY1bkZDVEQ3RUhIaWppSlZMZXc5WnRjNHBWdUFJbU5TejR1VWd4TlBqZ0M2VGMxd1ZVLUVpZ0lmUTRz?oc=5).
 
 ## Requirements
 - Python 3.8
