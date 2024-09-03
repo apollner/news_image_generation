@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**George Clooney Slams False Reports Of His & Brad Pitt’s ‘Wolfs’ Pay**
+**Strikes start at top hotel chains as housekeepers seek higher wages and daily room cleaning work**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmhVYWV2YmxjcTM5R3FGRndPODVUb2JkSms5VFRDN29KVzRSUTdfUmRXQzNqcXJYZ0syZmpTdkJKQ3BxTU41TkIzYmtmSDVKNFhobl9Eb2UzZllJRWlxMnNMTk9tSmxqWS1DLU5wRmpUSWszUTRxVmlZTkJiU1Fsd3J3VEhrU0xzRl9LUS1JZTFmUTdfRXFUY3BYY1g?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHEwU1ZaV1pkRUgzU0MxV3EzaW5EUkVnUnZ1NHVWT2phRlhvMWFjOHlrVkF6ZnhVekVTcjlvU3RCbVBaNjFhYTQtcFFtOUtJZ1Q4ZkVnSEg1bjFJVEwwbGlmZ1JxWWVZb0xGTmc1cnZwMGlQdWxlN0VVSmYyNjB0ZW1zS3QxY2tCUmZ1Q2YxSDFZUFJrRjg4ZnIwd0k3UVlhc0pMZQ?oc=5).
 
 ## Requirements
 - Python 3.8
