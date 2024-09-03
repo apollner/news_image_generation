@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whale dubbed a Russian spy found dead off Norway**
+**Ethan Hawke: Linklater Said Too Attractive to Make Blue Moon Years Ago**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bG1ILUhMeEp1M3RLaEp3LVZWZVRHOW1FVEdxR3p3RE85Z0luMno3QWxyeFo0MlFDQVpSQlBzcmlLU09Vb0tjYTA3bjByVGh2S1BaTjNHTXhTZ9IBX0FVX3lxTE84UFJZOFBTRDZpSnJvWGRtSFFtSGQ1QmtZa1VzbUJmYTAwM3BURXFSaHBsMjR4V0lsNEREWFpCMUxEY3NZalZ1V2pDNmVYX1VMdDhEbE1Kd0V5Y216b0tj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXQ3OU9vNUxId255MzJQQmpsdjNVcm5vWTVLRHd2RnppcUdhVHNqMnBrdWtQbmhmWndnTkl5UWRHbVo2ODNyRlNLSmFIN1ZVbFE1WVZUUFREMzJDR2RkbGpoZDAwQlNjb0lGYmRBbkhuZjBpVHFSbXp5THpRVkQxcm9ONXlFM3JwWmZFdERadjlsMjl5WWVNN2N1VXR0WUpjWmlndGJWbTctQS1mcjdvQWotSG1VT3RaSVBN?oc=5).
 
 ## Requirements
 - Python 3.8
