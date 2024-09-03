@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Backup generators bail out Rancho Palos Verdes amid landslide crisis, SoCal Edison power shutoff**
+**USC vs. LSU live stream, where to watch, TV channel, prediction, pick, spread, football game odds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEZDZ3MzdUpINWx4bU9DTnRkNFU0ZFQtUURzdW5QMDdVbExkZjBRc2VTclExSUdBUTZfMl8xczdfYVdiZmN4bnZkeGNVbnJKVmt3UmdZQndWX1lNNXNJdzBPTVBPOWZYUV9vUzhMZU5XOUgydV9UZGcwa2REdVJtYkc0X3NZTk44YVZLY3g2V29BcWZodTZQMkJsdEFsZ1lGdE84UUx1NlV5MGxlNFpkbVJHTkd2N2tqaFFJbHVweE8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYUlzQVQ1OWxJV01BeThLQkduTndSemJLR1ZzVkRGMmhwS2JYSGFVMkhnZ0s1dUhEQWNveXcwV0hncUY2ZVNkU2Q3NEVNNHBIWDV6emc2X1NvcUkyQ2lJeExZVWliWVN3dGg4dHNlRVJob2g5R0dzWDVid3lncGtiN2xfd2dZVG4wdmJUdWlYaFQxYmxyTUNjMkJKZW9VWUNHRGJlR3dZZzNfbzlQQzVQOHNnRVZhcU1TOVpSTld1aVpjbElYYWdJblpfZHdGSTlDd3Q3UzdB0gHbAUFVX3lxTE1HdHhMUnMwVUtpVU5idktBNFVlUzBQMmwwcDhaZDU0MjFtMTNDWVFMN2VvWXRrNDBFeURWQnRFQ2JBaTR2NGMwTEJYekJEUFBJbDVyWlI1VHp3UXhCV0dWT01Fb0tNc0NvRTA2Y3ItSUh6UVdHczNsSVdldTQxTkkwd2lISHRrTEFQQnZLN0tsOThSOGhoYXRUcFhuWUl2LWxzU2tZU1doUGxCS3UwNFh5RXh0S1JEamVBS09NMmNpX3B2Y1JiWllkWGZScXZkNWl4a3oyek5MMjMyRQ?oc=5).
 
 ## Requirements
 - Python 3.8
