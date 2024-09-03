@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Almodóvar returns to Venice with 'The Room Next Door' alongside Tilda Swinton and Julianne Moore**
+**How do you feel about the economy? It depends on whether you own stocks.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWjNLYXA3OVJ5LXVyc0RhZW51WmJuMkRzSjJ5NnprbEdDRkRfdEVpYjRsMTVJNzN2WG5JYmFCci1vazZMUEdqZWg1UXZKcUQ3SF92NVR6eXJqSkw3RG1fUTVZMVdiNlRQZTBkWmRSeXdjdmxWWFZRa2JnS1FEVVJlWkRXZ3dkNVU5ZjFwc1lwVUdjaWpONHJMcTQyd3RGS3FhQzFpWVkwZGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1FfWXl2YVBMQmw3ZkU5Y0NZenFNMHBtNGVOVmhZQ252aDItdTVBN1NuS2k5dEdLNERCVkJ2ZzduTkpJUTNjSjgtby1qd3BYTVFpdjBWODI5ZVA4TmhLR2NNdmRlTG52YTFXaFFxMl9ySElKbUpDOW5KOEFmazVCRE1iSHdFZmNOOTB3a29aUFk5bVgwOHNseUxOY0Rham92aHkyV1pkZUFJQ2l6S2E0?oc=5).
 
 ## Requirements
 - Python 3.8
