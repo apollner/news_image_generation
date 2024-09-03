@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French woman allegedly drugged by husband, raped by dozens of strangers appears at his trial**
+**Philadelphia Eagles work to remove bogus political ads purporting to endorse Kamala Harris**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYThnRG9xcmRXYUZMMDYxZEctLUpnN2lmOThfZEdaTU51VFRKZ1BTc2pOZm9WeDFoeXZqX0RfQUJab19ZQzA3c0k4TTRtYmlmTnNFcGhXYnFsakRGSnRQZzg3OV9LSThMLUhmRkZmWGhkZF9HSzEwTnNsN1hjWjVBXzhsY3hDc0dHRVU5T0xmaEpBeG95azQtY2k5QmtubkQ2TWd5ekdZRkhjekJEOW9Ra0lWdnY1UGFRQXRyMQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUl5MDZhaXR2Mm1vbGE1TlpfMFBvX0JTb0EyX2MtVDUxMGtDc1FjYWVid3BudHh3cndVT2Fzd2x3MlV5QjVzZ29MdEVORjFfNXZUV1dVY0w4YTl5VkNKT1JTRm9OTExLYXRnd3dnRGxmWFZXR0pYSVRQeXBrNTVxT0t3Z2RfV0VXeGZwZlM0dWcwdHlaM0hkd2RrNXlRRy1Rem1wRzAxdURDajN2WUw1MVc5MFUyZw?oc=5).
 
 ## Requirements
 - Python 3.8
