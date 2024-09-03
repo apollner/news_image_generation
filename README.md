@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A16z’s Joshua Lu says AI is already radically changing video games and Discord is the future**
+**UK housing portal Rightmove surges as Murdoch's REA considers bid**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixAFBVV95cUxNaDVhQkdPcnEzZUtZa2JldkRmOURJWlZheV8wWXVuZlZER2xucmdabFl1UXJ1RGlVNEd5WkhPb09PbU8xTElvMDFiS2U4OGtMTHdLcFhkcTRBZzN5SHNUVDNQYW1sU0wyOWtnTm1meUhXdHZWYTB4QV94aS1CUk5lVEY3cm1MMGFYYzY1bkZDVEQ3RUhIaWppSlZMZXc5WnRjNHBWdUFJbU5TejR1VWd4TlBqZ0M2VGMxd1ZVLUVpZ0lmUTRz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFE3VnVTSXpnbVdxMG8tVHFmcU1QQTBVWGpzd0NXUVZKVUJacXkyMnJjYk93ZU5tZk1qUzNtTXpHTXVhR3BleVdTdGNmRE9PTkN3d0xWM2o4azVMRzlFenB1X1RGR3E2YlBqRXhiRW9hM1RCQ0ZaN3ZHU1lkME1iQlpZY0dVRnNmYzQzQjZZVUc4bDRoeGlnMnViX25HQ0ZCTno3WkZINjhRQQ?oc=5).
 
 ## Requirements
 - Python 3.8
