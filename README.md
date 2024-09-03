@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Behind Matthew Perry’s Deadly Trade With L.A.’s ‘Ketamine Queen’**
+**Ethan Page cheats Joe Hendry out of NXT championship at No Mercy**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMS0wcTA5MVlBNW02WXFQSnBWTFVfRl83aDBzMGFPSUtreWk5MWlPY1JiTmIzVUREaFZOOExpUnU2R1o5MFpMR0VWUFAwRno5aUdZazd5eUdRa2NzYW1QdS1lazdHdU5xeHdxSmVEMEJDMDZiWEdaMWJxUHhRZWZ5cjFkTVBhdDZQcEpreEhNdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS21ra3Znd2p2M0lRRS1xeEFxa0d2SWZEZnVkbXdDUC1hNkwwSXB0ME1uQnA1R0NfUGRQb3ZVak0yamp3b01EVE9sb1ZJZWhNM3FCTWQzZFR1NEhxLW1neFBaTEh5bHJsUTRidk82Yk1jTll0alR2NzhWaDBTR0gtU2VLRVM3VGk1NlZ2NnJaeEtINkJRQ21vcFVqM2tZMHZ2Mlo1cjFGZ1pQRzNPcTNROGR3UWNoZUhVWDZwX05tMklOUUEyTFZkUmI0azQzaTJ4R2c?oc=5).
 
 ## Requirements
 - Python 3.8
