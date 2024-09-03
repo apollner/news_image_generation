@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethan Hawke: Linklater Said Too Attractive to Make Blue Moon Years Ago**
+**Thousands walk off the job at top hotel chains job in Labor Day weekend strike action**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXQ3OU9vNUxId255MzJQQmpsdjNVcm5vWTVLRHd2RnppcUdhVHNqMnBrdWtQbmhmWndnTkl5UWRHbVo2ODNyRlNLSmFIN1ZVbFE1WVZUUFREMzJDR2RkbGpoZDAwQlNjb0lGYmRBbkhuZjBpVHFSbXp5THpRVkQxcm9ONXlFM3JwWmZFdERadjlsMjl5WWVNN2N1VXR0WUpjWmlndGJWbTctQS1mcjdvQWotSG1VT3RaSVBN?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNekZkWVdjTnpOU0pOZ2N3eVg2TmVzdTNYbE5GT3ZRc21qTGFOa1N5NlZPSDJmeHpOWW1uNUU5VjJJbkRYMzhDOUhQSjV3OHNpLU5KME4yNUotSFVlX29tTnEwN2dWYXZCZ2h4dWg0dXNuWVFDR1B6c1dPajhOSUVKQVRIeFNER1BiTl9qUmNvYXY?oc=5).
 
 ## Requirements
 - Python 3.8
