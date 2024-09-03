@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine carries out one of its biggest-ever drone attacks on Russia**
+**Whale dubbed a Russian spy found dead off Norway**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1VaSWloU2k5N2w2Ty1JbHcyS1k4Y2llVHAycjBFdWg4Y0NsbGNHR0dCN2pTUjQ4QmstMW44aWNoUURvaVhDdXNJS3cwQTZjUDFBbzd5LWY0dEhVb19jSm01eW5xX0t6d0JMcnZGaVB4OHpuTDROMXdTQWVtUUhrcmVBUlRpVHNGblJXT0h2ejVFejg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE02bG1ILUhMeEp1M3RLaEp3LVZWZVRHOW1FVEdxR3p3RE85Z0luMno3QWxyeFo0MlFDQVpSQlBzcmlLU09Vb0tjYTA3bjByVGh2S1BaTjNHTXhTZ9IBX0FVX3lxTE84UFJZOFBTRDZpSnJvWGRtSFFtSGQ1QmtZa1VzbUJmYTAwM3BURXFSaHBsMjR4V0lsNEREWFpCMUxEY3NZalZ1V2pDNmVYX1VMdDhEbE1Kd0V5Y216b0tj?oc=5).
 
 ## Requirements
 - Python 3.8
