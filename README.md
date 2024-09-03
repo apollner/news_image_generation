@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NHC continues to monitor 3 disturbances, possible tropical depressions**
+**America’s massive hotel strike just got even bigger**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3A5ei1TcUM5ZENGdVNKUjlJeF92T3RXU19MMVR2c0U3dVdxd3YzY0JQVF9ZeGM3T1lqOVhrcWZUUFdiVHV3SGREcU15RW9yYjlCaGF6b3I0MHN1a2lmdFpiaV8zVzhLQm1iYVdoaGpDNzNVdjJ3d1RPOHBubGZFYUVjSHNINGlsVTY1RW9GZ0NZbi1nRkVZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbnBHSXE3YWJnajB4Q1FHSnpkT2xtWFB0cTcxZHp5WkN2R3V6eEtrSk1WZ01YMG5TX2Z5M0U0ekVqa2JRa3hTZGJ3NUNjX1RhNFNrVVZ0SkhxX1JualEzVzdhM2NOSFZkSzdweWUxUETSAWdBVV95cUxNZnJkUFlTOGh6dmhZZUlTN2w1aUNHdUQ5ZVc5MEdRbm1VM2Z2Mmx0cHVNWTBLYWtLUHB3LUJ4SU1lMXpLd1VWRzNVWHRzQXFMdHNjTW9VdllxV0hQN0tCaTBnUF8yclQ0?oc=5).
 
 ## Requirements
 - Python 3.8
