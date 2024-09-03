@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Backup generators bail out Rancho Palos Verdes amid landslide crisis, SoCal Edison power shutoff**
+**Tom Cotton Responds to Gold Star Family's Concerns About Trump at Arlington**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEZDZ3MzdUpINWx4bU9DTnRkNFU0ZFQtUURzdW5QMDdVbExkZjBRc2VTclExSUdBUTZfMl8xczdfYVdiZmN4bnZkeGNVbnJKVmt3UmdZQndWX1lNNXNJdzBPTVBPOWZYUV9vUzhMZU5XOUgydV9UZGcwa2REdVJtYkc0X3NZTk44YVZLY3g2V29BcWZodTZQMkJsdEFsZ1lGdE84UUx1NlV5MGxlNFpkbVJHTkd2N2tqaFFJbHVweE8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0c5aGk0UDhTNDVRNTlEUWRfcXlNdS1FQnE5NzlfOFM0RGh3Q013Vmg5SjhjVGdzbDVmZ1NLNTRFcGxraF9McFR6ZURmXzFVT3NuVlh2azhfbUNvbmRRRDF3SGNJVFpuUl96UXQ2LXN6LUMxWEtVN1JkWkRVLTRKUkhtdHlpbGNYeUtiMVVOYTRxNVpZRXoyNkxwYm5rNXVfVVVnLS1xcU1YTWpLWGZtTTF1Zi1YSjUzNjFN?oc=5).
 
 ## Requirements
 - Python 3.8
