@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas terror tunnel strategy revealed | Israel National News**
+**NHC continues to monitor 3 disturbances, possible tropical depressions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVWR0WW53bzM2M2dGYmMyVGEzRlRfY3Yyb1c2dVpBS0hBaHdIZWstNkZsbDRNSnVpNTZ2Z2cwNU4wcGgyRGxoeUxxUXA5VjZVb2YxQldldUp6Zw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ3A5ei1TcUM5ZENGdVNKUjlJeF92T3RXU19MMVR2c0U3dVdxd3YzY0JQVF9ZeGM3T1lqOVhrcWZUUFdiVHV3SGREcU15RW9yYjlCaGF6b3I0MHN1a2lmdFpiaV8zVzhLQm1iYVdoaGpDNzNVdjJ3d1RPOHBubGZFYUVjSHNINGlsVTY1RW9GZ0NZbi1nRkVZ?oc=5).
 
 ## Requirements
 - Python 3.8
