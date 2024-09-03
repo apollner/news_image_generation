@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A CPAP isn’t the only option for treating sleep apnea**
+**U.S. soldiers assaulted in western Turkey, local governor's office and U.S. Embassy say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEJJcXkyV21ibURHaUNyV2ZlZUwwMHNtUDdST3pKVnV2UEhVZkVMMUxLTXlBeGZlczJtdmNPWTBTdGxBUHNTUnBPanBmZEgyLWlDNXpzcUVUSW5LS2pyWFl6X090d2tteVM1cUo5OWVSZVQydTNUMHRKMWpGMGpGSjBqS2JPUGs2UlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixwFBVV95cUxOby1SVFdwODZpMEs3UjBaaEZCTTZDM3RwcHcySnBiV3JXOGppek9Rb0FGRG1EOWNqT285TlBVYmNsQ0FQRC00Tm5YNzJKRVB3dS1QeUFNUk9qZElIWDNTQm93VXF6cU9nSElSWlBkeVFzZDctZjRIVzRNZHl2TlFHOU0yYm1zUHhxMUU1YWdmZVBmN0p0M3I2OVRDaWFidm1EcXRHQmpzTFlfNk1INVo4Sk5yTHlFRjRFVWtPdTE4dXJ2VlZTNF9V?oc=5).
 
 ## Requirements
 - Python 3.8
