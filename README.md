@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Column | Carolyn Hax: Husband declares daughter, 15, will ‘always be an underachiever’**
+**Caitlin Clark, Angel Reese are filling up box scores, setting records and eyeing the playoffs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcE5YUERUSUIzR0tfTk4xdkZOVlFCNUxCYlZUSmRHWkJMaTd6OWlNRXlnNzFtOGg3cTE4T1VGd2duRVRSaVBzQ1pKNm50bmRyYVJ0WjBIb1p0X09pRjVlRHA3N1FZVzBqVnFNS1dqcXEyYlJ3R2tKMmlQUjBpZTR5SVhCSTU0STJmYlNMVklnQkM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEVIMUF3YTZXT0llSVNYTU5SZDBVdkV2N3Y3eDkzU1pHUExmRjhEUF9JVWpjNEowc2w4dDFjQ1NOZ0Z5b3RrMW42YV9FWjlZX2RpUDFqTlZJTXN1Zld0d2NvSGo3SEN1b3lGLXJUU1lGOE1aOXIwQ2tiTW4wc1U5elpvTGdiYzJZdFBsYmQtNE0yU0o4MHFFLTlOMDRtWS1tOFlkQnZuMlZ6aEREY1BHc3JSQ0x3RGgzZ0hsbTUxX1p2UDJIT0xmWg?oc=5).
 
 ## Requirements
 - Python 3.8
