@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark, Angel Reese are filling up box scores, setting records and eyeing the playoffs**
+**George Clooney Slams False Reports Of His & Brad Pitt’s ‘Wolfs’ Pay**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZEVIMUF3YTZXT0llSVNYTU5SZDBVdkV2N3Y3eDkzU1pHUExmRjhEUF9JVWpjNEowc2w4dDFjQ1NOZ0Z5b3RrMW42YV9FWjlZX2RpUDFqTlZJTXN1Zld0d2NvSGo3SEN1b3lGLXJUU1lGOE1aOXIwQ2tiTW4wc1U5elpvTGdiYzJZdFBsYmQtNE0yU0o4MHFFLTlOMDRtWS1tOFlkQnZuMlZ6aEREY1BHc3JSQ0x3RGgzZ0hsbTUxX1p2UDJIT0xmWg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOQmhVYWV2YmxjcTM5R3FGRndPODVUb2JkSms5VFRDN29KVzRSUTdfUmRXQzNqcXJYZ0syZmpTdkJKQ3BxTU41TkIzYmtmSDVKNFhobl9Eb2UzZllJRWlxMnNMTk9tSmxqWS1DLU5wRmpUSWszUTRxVmlZTkJiU1Fsd3J3VEhrU0xzRl9LUS1JZTFmUTdfRXFUY3BYY1g?oc=5).
 
 ## Requirements
 - Python 3.8
