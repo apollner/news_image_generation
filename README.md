@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Scottie Scheffler’s Tiger Woods-esque year netted him over $62 million**
+**Joey Chestnut vs. Kobayashi live updates: Chestnut sets record in hot dog eating contest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOMTR3RVZJUEpRTnB2OVRXSm1pYWJjZVhaaE5fY3N5T2JrR1RxUTVpbXdzSENvdEQzbGVHR2xJdkdEdkRRQWxvMDVNOWtWT1MzZzFEcGV0djBBSi1NY0lKZHpnQzJkamVBYVctZFlzMUVMRjhaUTZHMC1WOVJNNm9taWpFckVHN0NiMDRKRHRqbzhHMjkzY01fT2N6VExqNzJnSFgzMFpVTXFuemVvM1RB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHE2QUkyR3ZhZ0tKSzY2VjlTdFRaOUl3a1ZjUUlOc0xtNnNDenZab09qV01DejBGeWR4cWVwaXBHTjAxdm1NNHlPazhNTkphbllqc1pWdzhtSmRRZmFfWjVBTHJUZnVxaDYtU281Q1RjcTJCSUJMWWpLQ19uZ1daZ19QZTB0dzZjWFliOHg3dmdsaHRERFc4cFNTVFR5emd5emstLTZ1UzJERjVjN1JZWFB6M0xBeFlLT0Jv?oc=5).
 
 ## Requirements
 - Python 3.8
