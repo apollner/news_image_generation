@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joey Chestnut vs. Kobayashi live updates: Chestnut sets record in hot dog eating contest**
+**French woman allegedly drugged by husband, raped by dozens of strangers appears at his trial**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHE2QUkyR3ZhZ0tKSzY2VjlTdFRaOUl3a1ZjUUlOc0xtNnNDenZab09qV01DejBGeWR4cWVwaXBHTjAxdm1NNHlPazhNTkphbllqc1pWdzhtSmRRZmFfWjVBTHJUZnVxaDYtU281Q1RjcTJCSUJMWWpLQ19uZ1daZ19QZTB0dzZjWFliOHg3dmdsaHRERFc4cFNTVFR5emd5emstLTZ1UzJERjVjN1JZWFB6M0xBeFlLT0Jv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxQYThnRG9xcmRXYUZMMDYxZEctLUpnN2lmOThfZEdaTU51VFRKZ1BTc2pOZm9WeDFoeXZqX0RfQUJab19ZQzA3c0k4TTRtYmlmTnNFcGhXYnFsakRGSnRQZzg3OV9LSThMLUhmRkZmWGhkZF9HSzEwTnNsN1hjWjVBXzhsY3hDc0dHRVU5T0xmaEpBeG95azQtY2k5QmtubkQ2TWd5ekdZRkhjekJEOW9Ra0lWdnY1UGFRQXRyMQ?oc=5).
 
 ## Requirements
 - Python 3.8
