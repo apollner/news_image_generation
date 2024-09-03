@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**America’s massive hotel strike just got even bigger**
+**Hamas terror tunnel strategy revealed | Israel National News**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBTbnBHSXE3YWJnajB4Q1FHSnpkT2xtWFB0cTcxZHp5WkN2R3V6eEtrSk1WZ01YMG5TX2Z5M0U0ekVqa2JRa3hTZGJ3NUNjX1RhNFNrVVZ0SkhxX1JualEzVzdhM2NOSFZkSzdweWUxUETSAWdBVV95cUxNZnJkUFlTOGh6dmhZZUlTN2w1aUNHdUQ5ZVc5MEdRbm1VM2Z2Mmx0cHVNWTBLYWtLUHB3LUJ4SU1lMXpLd1VWRzNVWHRzQXFMdHNjTW9VdllxV0hQN0tCaTBnUF8yclQ0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uVWR0WW53bzM2M2dGYmMyVGEzRlRfY3Yyb1c2dVpBS0hBaHdIZWstNkZsbDRNSnVpNTZ2Z2cwNU4wcGgyRGxoeUxxUXA5VjZVb2YxQldldUp6Zw?oc=5).
 
 ## Requirements
 - Python 3.8
