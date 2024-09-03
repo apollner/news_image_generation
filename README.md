@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**San Francisco 49ers Ricky Pearsall released from hospital following shooting**
+**Week 1 Overreaction: Georgia pummels Clemson & is the U back? | College Football Enquirer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxOLXZXRXpZdWV0OFJ1MkgxNHJYY2ZWU3MxaXFudnpVWEVrNnBCQkcwU0ZhcTNTMk5PbnZpeUlPQ3dZOWFzRUVMdnRYUmh2bTQwT003VWVMQ0MtSWpUYU1oWFhDZEVrWTA1X1FvLUVkYUlGQlhEc2NZQVBnMzd2bk80V0Y5TGI0cjI2TkFDOVgzRFNEY1FNaE5fdHFTZDZyR0JYOWdiay1KZWt0VjBZUk9XREc2eDdLWFlRSDFCZ9IBwgFBVV95cUxPdkJ1dUFGSVoza2NTNFVPTTdoS0dVak5HODlOWWdjVEljQVdZWW1uRi16QW9PWjBVMERGMGhrSEMzeVBwZktrb2JPckwzS0FMZ090cURVTS1UZkc2cVQ1S29GQ2RDdFBvTkt5UVNqV3hqTHAxZEplUVVxN1pBaXY2a2RxaEc2bmxHYlJoU3h1UGcxTDg0WFFkM3JjNmtnQWZvYlB2SGNLVzhlZDNpaTEyMW82RGVRYmZubjRqbmhnZ094QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFpkMW5tbGxndlJTYV92UTBOZ3YtamNqQW85SEMtUWp0Z25fR0JaMEZadXlvRFI4bXl0M2YyNFJIQ0ppc2twRkxDamZpVlZDRWpld2VNX2tqWVdyaW1EWmtPeEJfMlZqNjMzcngxUlEwdWRVX3l0czNwSWJNLTdLZ2VnTV81U0Vob3o5X1BKVmZZbUUwMnNudklJNWJMN3Z2U3Y2d2hFUXprRGVTN2lsV1JJWUpwOGlZTGNmcFhzYWlzRUE?oc=5).
 
 ## Requirements
 - Python 3.8
