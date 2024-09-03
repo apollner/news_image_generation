@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BYD sales hit a record in August despite broader China EV slowdown**
+**Ukraine carries out one of its biggest-ever drone attacks on Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWRlejB2RFFPVUpjWTNJUFUweE9nUUtTVHI5akhGamlsMmZ4dVNpM0R4N29uN3NrdTEtLVgwbVVnUjEyaS1ybmR5RHRzWFFZLWRmeEtTY3hUeDIyd2hsbUI0aGpZZGttTXZMa29SRXpfUF9rVi1hdGczeDFYSUo0Zy03TkQwcGFwMjZpNU9ZVVFDVm9qcGFwaERVbmNPZjk5N1JCVWdR0gGrAUFVX3lxTE1QMHAzSTAzU0Y3alFMYzBKdTktVXdiSDdBajBmbnI3Ml9MSWZvTmRZanU4TUMzRHRLdG9KYTNlQ3VDUVhYWndVcjI5dU9WdGJkYUJTQVhDZFprc0dQcXVOanVIb3dZeV9XTjZqV1BHZzllQ2szT05oWjlyalV5bXN2U1BvZy05SzN2ZExacG9jM2c5d2JnWjBZeUxxVjY0WW8tU1B6NHZtSm4wYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxOX1VaSWloU2k5N2w2Ty1JbHcyS1k4Y2llVHAycjBFdWg4Y0NsbGNHR0dCN2pTUjQ4QmstMW44aWNoUURvaVhDdXNJS3cwQTZjUDFBbzd5LWY0dEhVb19jSm01eW5xX0t6d0JMcnZGaVB4OHpuTDROMXdTQWVtUUhrcmVBUlRpVHNGblJXT0h2ejVFejg?oc=5).
 
 ## Requirements
 - Python 3.8
