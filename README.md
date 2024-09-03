@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethan Page cheats Joe Hendry out of NXT championship at No Mercy**
+**BYD sales hit a record in August despite broader China EV slowdown**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS21ra3Znd2p2M0lRRS1xeEFxa0d2SWZEZnVkbXdDUC1hNkwwSXB0ME1uQnA1R0NfUGRQb3ZVak0yamp3b01EVE9sb1ZJZWhNM3FCTWQzZFR1NEhxLW1neFBaTEh5bHJsUTRidk82Yk1jTll0alR2NzhWaDBTR0gtU2VLRVM3VGk1NlZ2NnJaeEtINkJRQ21vcFVqM2tZMHZ2Mlo1cjFGZ1pQRzNPcTNROGR3UWNoZUhVWDZwX05tMklOUUEyTFZkUmI0azQzaTJ4R2c?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxQdWRlejB2RFFPVUpjWTNJUFUweE9nUUtTVHI5akhGamlsMmZ4dVNpM0R4N29uN3NrdTEtLVgwbVVnUjEyaS1ybmR5RHRzWFFZLWRmeEtTY3hUeDIyd2hsbUI0aGpZZGttTXZMa29SRXpfUF9rVi1hdGczeDFYSUo0Zy03TkQwcGFwMjZpNU9ZVVFDVm9qcGFwaERVbmNPZjk5N1JCVWdR0gGrAUFVX3lxTE1QMHAzSTAzU0Y3alFMYzBKdTktVXdiSDdBajBmbnI3Ml9MSWZvTmRZanU4TUMzRHRLdG9KYTNlQ3VDUVhYWndVcjI5dU9WdGJkYUJTQVhDZFprc0dQcXVOanVIb3dZeV9XTjZqV1BHZzllQ2szT05oWjlyalV5bXN2U1BvZy05SzN2ZExacG9jM2c5d2JnWjBZeUxxVjY0WW8tU1B6NHZtSm4wYw?oc=5).
 
 ## Requirements
 - Python 3.8
