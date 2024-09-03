@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches a barrage of drones, cruise and ballistic missiles at Kyiv, Ukraine's military says**
+**Pork Chops and Politics: Tim Walz Gets Minnesota Homecoming at State Fair**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3dCdElnRUxtU3dKQmJFMzJWemRCOUhtWlR3ZTRVUncwcUdoM3QzQTlpTVEtSThnN3BUS0Jjc21rdjdtTjg2S0JmYktFSWNkbFZZci1DdHlTbjJ0UlFrSjk4VGRBN05oMlk4bUlpNDlOLUkzVmtIWHhjaURzNkNrdWI4TC04RUljMDJOeEg5U1VZY21MUUFJ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEw0MzRBMkZSNDhlUURIaUNvTi1tY3Q4czZoOGs3ZDQzZjlKTmlzeFJoVmxheDUzck94TklpS1dBUTk1T1FndFN1SjdqaWwyQjBzenNJcGRueE9peEVITTBfSzFzVDBpUHV2WkZyTERFVzdvN0xkUTA4dXJWRkVtNnU4RzZ1UWlL?oc=5).
 
 ## Requirements
 - Python 3.8
