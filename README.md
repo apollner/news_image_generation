@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 1 Overreaction: Georgia pummels Clemson & is the U back? | College Football Enquirer**
+**Column | Carolyn Hax: Husband declares daughter, 15, will ‘always be an underachiever’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxONFpkMW5tbGxndlJTYV92UTBOZ3YtamNqQW85SEMtUWp0Z25fR0JaMEZadXlvRFI4bXl0M2YyNFJIQ0ppc2twRkxDamZpVlZDRWpld2VNX2tqWVdyaW1EWmtPeEJfMlZqNjMzcngxUlEwdWRVX3l0czNwSWJNLTdLZ2VnTV81U0Vob3o5X1BKVmZZbUUwMnNudklJNWJMN3Z2U3Y2d2hFUXprRGVTN2lsV1JJWUpwOGlZTGNmcFhzYWlzRUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcE5YUERUSUIzR0tfTk4xdkZOVlFCNUxCYlZUSmRHWkJMaTd6OWlNRXlnNzFtOGg3cTE4T1VGd2duRVRSaVBzQ1pKNm50bmRyYVJ0WjBIb1p0X09pRjVlRHA3N1FZVzBqVnFNS1dqcXEyYlJ3R2tKMmlQUjBpZTR5SVhCSTU0STJmYlNMVklnQkM?oc=5).
 
 ## Requirements
 - Python 3.8
