@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pork Chops and Politics: Tim Walz Gets Minnesota Homecoming at State Fair**
+**Disney pulls ABC, ESPN and other channels from DirecTV in carriage standoff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEw0MzRBMkZSNDhlUURIaUNvTi1tY3Q4czZoOGs3ZDQzZjlKTmlzeFJoVmxheDUzck94TklpS1dBUTk1T1FndFN1SjdqaWwyQjBzenNJcGRueE9peEVITTBfSzFzVDBpUHV2WkZyTERFVzdvN0xkUTA4dXJWRkVtNnU4RzZ1UWlL?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0JsbGhjSklWcWpuUjJyRGZWcjdwTk0zZmp5RThKMzdnNnJJS01zWU4tSDBOa1k1VmxZelVNenBtamFQR1lFYUFuQnlLWVF5R1JDZlZnQnJqaUVPaEN1VWRHVjAyOC16dVZFdVJBcU5CNjh1ZktCY1NfdzBoRDBNbW9kV0hCdXcwbEgwREdfUDdHc2dmaUNDN09MZmk1SUhkVTFFdjl2ODFxdG5BeWg3cUp3SmJ2TGNPTUhSeHBPdW9LcWPSAboBQVVfeXFMT29kdUZwUC1UZ2R1dC1yTGh3NWQ5cWdWejdiVFlrSnp1ZmhxbndMaXFDSkZRTF81c1FqRGc3cGhVV0U4SDBxMlBkN0wxUlpwSWNVTWlRbDB0SEZWVW9fMWs4U3NldTF2dUNIcW5KSEhselRRZXFLNGVlVXRBUHZTMFZaTDRMVHJNVk5rT0dWaXZlRG1mZV84VUhnb1AyVDE4bUxzZ1cwUW9kNFpqTmNBcHVhVjl3d2p6SmZn?oc=5).
 
 ## Requirements
 - Python 3.8
