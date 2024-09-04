@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga flashes megawatt engagement ring as she and fiancé Michael Polansky arrive at Venice Film Festival**
+**Israel-Hamas war latest: Biden adds to pressure on Netanyahu to reach cease-fire deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSEtRVGRURFR3bklic084dkZqekhRVVNMMnZWaUNQRWoyYTdfZlVsbExPVFJ0cU5jRDNZOWYyQS14eUlsTmlXVGM4UEVRbUxhaWVqRzRrNTBTcXQ4RWE5QUFwbFNqNEFTUlF3bGVFTHU3X01YUHV5UlJ1Ni1DY0k1cTk5MkNIYkpPQUMwOWFpX2xDZTN6cjgzRUJWQTNQUXluQWhMaVNHczZZaE9jRmotNEtfWjh1OHdRUENBdGszRkhzdlc3XzN5YnNXWDF4aU1uVk5NTW5OUDNWVnJ4UUFv?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOejFUVTh2LVExQTV6bHNEN1lYOG9YaGVwWndUMWFyQXowbTZmRDM4RXJ5LUJWU3YxUFFGRENfWVlGbW11bmdxMjFBaWozVzNneUdjTUhGbDdra2tJSmNNMXBFR2ZDZ1M5bVZJYS1ld3hvcS1raFptSEpVMHJVeUFUeDBNSlh0cXVOWjlCZGRfNnF0dENzdnRXRDU4cXNNMDRwNl80?oc=5).
 
 ## Requirements
 - Python 3.8
