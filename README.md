@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 9 Pro Fold impressions: Stellar hardware and battery life with one downside**
+**Lady Gaga Flashes Diamond Engagement Ring from Michael Polansky in Venice: See the Huge Stone!**
 
-You can read more about it [here](http://9to5google.com/2024/09/03/google-pixel-9-pro-fold-impressions-hardware-battery-life/).
+You can read more about it [here](https://people.com/lady-gaga-flashes-engagement-ring-from-fiance-michael-polansky-at-2024-venice-film-festival-8705680).
 
 ## Requirements
 - Python 3.8
