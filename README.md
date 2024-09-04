@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hewlett Packard to pursue suit against tech mogul Mike Lynch, who died when his yacht sank**
+**Pedro Almodóvar’s ‘The Room Next Door’ Earns Mega 18-Minute Ovation At Venice Film Festival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE5TcUpZN2c2MzhKeXR6MGpwQm9leF9wYUhMVXdidnNaX3lpdXczRmNld1phSlNadWlFQWJpb2t3MnlaenV5VWpkM1Job1pvYm5hYWt4ZTcxemN2azR2dmdYcTFQbHVnbVRpUEYwbWJYX2dkUm1mb2oyMjN30gF_QVVfeXFMUHBMTENlVjAxaVhMNXV5SkJ3aTJLZDZKaHFrQ0I3c2YxN2l0LWRzYmdiZ0F4dHlCOFg5VzJ5QzB6Y1cydUtXWlFfdE9acllHdy1BM3hBU2dMc2pEVXlRQ0lWVmprS2FFZFV4ZE1WM1BJdjMwR1lpV0RaZFJxbklmQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQm1yNzFhOUNXMnNUZEFrQkFsUDl3ZDZoMjE3RVJmNlR1VGxWbXlvWEZaSG05bC14b0pUN0pSUG9sYms3OHh4WjRBbDhJNFM2QkEyTE9Na2hWcWdxOGVqWGQ3YUNhU3RCVElQcDhkVUowcldkYzdVQmVtRk1QR19nTVFsaGEtQXRTZWpGdkFGOTc5OGh2VGM3QlNUYUNkTk9pSmtILU8wNFZVa0hCRi1xdmdVWnJMc1ZYamVpbUNDSlNMMndYam52aG5SMUpZSVk?oc=5).
 
 ## Requirements
 - Python 3.8
