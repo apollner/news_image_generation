@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli attacks in Gaza kill 35 Palestinians but pauses allow third day of polio vaccinations**
+**Maps show states with West Nile virus, EEE as cases of mosquito-borne illnesses spread**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-33-palestinians-pauses-allow-third-day-polio-2024-09-03/).
+You can read more about it [here](https://www.cbsnews.com/news/map-states-west-nile-virus-eee-cases/).
 
 ## Requirements
 - Python 3.8
