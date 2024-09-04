@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk says Brazilian judge should go to prison in latest attack after X ban upheld in country**
+**Lady Gaga flashes megawatt engagement ring as she and fiancé Michael Polansky arrive at Venice Film Festival**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2g1YnJMSWhIcnlpUW10cHhKRWNaTFFsNTdfbTE3N3dQU0tNQW1TSXBVTWJWU2lnVEFUdEp5WXNBZ01TLUF2OURBbm1KQ0hoMVppRDFzUGlNa24zOTBhbVdoeVJTOTMydHVKQ3ItVWRJazlnR09fV1h0STNIQ3RBUU40M1dvU0l3T2RTQTlZQ1R1SVdlZEdNRXhjZDVfeW80b2stM3hlQl9TY2dCbFJ0bWpPUEhvMjM2YmMzbzJWanNmVVnSAcgBQVVfeXFMUDMzMzlMM0diTTI5cEZPRWN1MW9hdUdzX2doU0pQLTRjekhVOUROS2FYZTlpMkNSV3R3NmppcUFRaEhVZkNyVjV1bGljZWpwanp4THdFVnlKTHNsMm1NTTNSbWRrRFlhZ3d1Qk5vNW03U0tKYmEyUHB3VE5VUUNQNnJscjFlZk90WE9seXJoYlBCS1VrZl9UN1QzZVBIZXdzeWZYSzB6UlJldkFSRWdQdlVLenB6NDRObjQ4c3hMV3Y1dGZoZmQwS2o?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQSEtRVGRURFR3bklic084dkZqekhRVVNMMnZWaUNQRWoyYTdfZlVsbExPVFJ0cU5jRDNZOWYyQS14eUlsTmlXVGM4UEVRbUxhaWVqRzRrNTBTcXQ4RWE5QUFwbFNqNEFTUlF3bGVFTHU3X01YUHV5UlJ1Ni1DY0k1cTk5MkNIYkpPQUMwOWFpX2xDZTN6cjgzRUJWQTNQUXluQWhMaVNHczZZaE9jRmotNEtfWjh1OHdRUENBdGszRkhzdlc3XzN5YnNXWDF4aU1uVk5NTW5OUDNWVnJ4UUFv?oc=5).
 
 ## Requirements
 - Python 3.8
