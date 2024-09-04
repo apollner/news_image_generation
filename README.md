@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maps show states with West Nile virus, EEE as cases of mosquito-borne illnesses spread**
+**Mike Norvell ‘sick’ over Florida State’s horrendous start, takes ownership of team’s early struggles**
 
-You can read more about it [here](https://www.cbsnews.com/news/map-states-west-nile-virus-eee-cases/).
+You can read more about it [here](https://www.foxnews.com/sports/mike-norvell-sick-over-florida-states-horrendous-start-takes-ownership-teams-early-struggles).
 
 ## Requirements
 - Python 3.8
