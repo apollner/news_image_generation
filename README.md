@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristin Cavallari Shares Why She’s Having the Best Sex of Her Life With Mark Estes**
+**Putin welcomed in Mongolia despite ICC arrest warrant**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPenU5bTVSODRtTTI1SnJXdlQtY1VwSVBpQTNEQUJpNHc4QXhUQThhNTdwWm93Q0pmMlRQcG1aRzhmQXloUXFUdWtHc1JRckd4WlhQN3NyUEVnbEVic0hucDBZZUVzcGRmMTQ0NFpuVFJIZk5wVk9sSlFKNUs3M3ZoZm81SzlXSlloRjlyUVNtQVhXVGxibFhUV2c0Q3czeW5lcTVHeFRQT0dpdnMyci04a2FVVVRCWTFFWHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVVQ4ejFRNmxhckRRTVFMazFjU3BmRmx0SkRQNjBoeUxETTljS291c1c5UnBpcFFGOUlOMFp0VTcyWW1pNnlLeXNrd0ZJOEFKcTUtY2pQOVRaUdIBX0FVX3lxTE8ySE52WHZkaFFyR3lRcDBqQWVxa0xWNjRMbzhFR2lDS3hDdGctVDFJWXlLODRXdjBIa1ZoS3o5UkV5YVN4UzUyM2ZsejhwVzhydjJnSnZPY3VqNUQ0eGlj?oc=5).
 
 ## Requirements
 - Python 3.8
