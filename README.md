@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin welcomed in Mongolia despite ICC arrest warrant**
+**Charges expected after 4 killed in CTA Blue Line shooting, Forest Park mayor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVVQ4ejFRNmxhckRRTVFMazFjU3BmRmx0SkRQNjBoeUxETTljS291c1c5UnBpcFFGOUlOMFp0VTcyWW1pNnlLeXNrd0ZJOEFKcTUtY2pQOVRaUdIBX0FVX3lxTE8ySE52WHZkaFFyR3lRcDBqQWVxa0xWNjRMbzhFR2lDS3hDdGctVDFJWXlLODRXdjBIa1ZoS3o5UkV5YVN4UzUyM2ZsejhwVzhydjJnSnZPY3VqNUQ0eGlj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWNfdlV0VDNjLUpLOXlrOEZwc01seDRlem1fSTZibUJILXczZkdvYVhvdEN4U3E3R2ttSTU2TEc1c0gxY1hYbmNFSGxrbkJUTFJVU29TWEZ0MUJweGp1S0dtYjlOc0JWd0dITGhfZFVHWHJRQ1I0cXA0MlAtUjhlMlVYdXp4OGZtOW5xSW1rWDYzNWNUekU2N2hRVDdiclJmQXFRNTE0Q3U1Ykpuck1GTWE3RDRrc3JBMmtMeHk5RQ?oc=5).
 
 ## Requirements
 - Python 3.8
