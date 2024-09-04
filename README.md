@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 12 dead after boat carrying migrants capsizes in English Channel**
+**Spacecraft Headed to Mercury Will Take Unexpected Detour Due to Thruster Glitch**
 
-You can read more about it [here](https://www.bbc.com/news/live/cn9lje1gdjwt).
+You can read more about it [here](https://gizmodo.com/spacecraft-headed-to-mercury-will-take-unexpected-detour-due-to-thruster-glitch-2000494085).
 
 ## Requirements
 - Python 3.8
