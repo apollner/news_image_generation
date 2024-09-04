@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope opens Asia odyssey with stop in Indonesia to rally Catholics, hail religious freedom tradition**
+**Brazil X ban upheld by supreme court panel after Musk refuses to comply with law**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQZEZHYV9rVjVLSlJhMnFGS1Q3ZzU3cmNMZEdzT0lPaVlZbHdTa0lkZWNheEJHWEVvXy1CUWhyRVBPS1VXRGlIQmVoN28wdnl6a2E4NWc4c21ER1Q3VlhSN3dYQ243WC0xOGhPU2piVlZzNlVJUXpzTi1jd3E2cm42V0NEZEFuUS1ZTlNfdmxFSTZsRHlOTUpVQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBUS3FNMUo1eW5abG4taHNRcGY3Z1IzeHg4T1RWRjNpRlktem1yOW5WT1dGYmZIQ1NPZ29fOUVZQ1FLNENkUjNHUGs4alpjLXo0NmxxQUtXMDlfWTdQdWk0Mk1HMnZuc1BNazlnc0hLVUdERzZQb1JJNA?oc=5).
 
 ## Requirements
 - Python 3.8
