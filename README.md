@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In a Scenic California Town, Worsening Landslides Force Power Shutoffs**
+**Biden Says Netanyahu is Not Doing Enough to Free Hostages in Gaza**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE9NdV9nZVpWUloteTcySXVwN19hQVlFVzNMVXgyVGlLUjltUHExcXhlMnM3OXJvVWRITWNYS0hINTFLbzNuTm5MQW9EczJUVFNMT2w5TTBKTS1XdjVPV3RVM3JiN1k5d0hCMmVMX29xa1pZLUxVbVM4bmJkXzluUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhxNzZ2ODVKX0doek9YYVp1d3hMV3BtMC1ldFFudXo0UWdfRExSdzJjcHRDOFpzdFhPUmNqblUwOHhZbmx2Q2l6YjJaNy1HU2JSLTRkOHhTWndYaFZrTlp4eDdOVDFLQm5sX1NPdkQwYkhrRkJiamoxRTdLMDAwa3ZEOXA5ZEdrWV9BTFIxZU55VEMtV3ZoOVV4VUh6R2tnaUZVMQ?oc=5).
 
 ## Requirements
 - Python 3.8
