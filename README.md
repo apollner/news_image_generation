@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war latest: Biden adds to pressure on Netanyahu to reach cease-fire deal**
+**Netanyahu defiant as protesters demanding a ceasefire-for-hostages deal bring Israel to a halt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxOejFUVTh2LVExQTV6bHNEN1lYOG9YaGVwWndUMWFyQXowbTZmRDM4RXJ5LUJWU3YxUFFGRENfWVlGbW11bmdxMjFBaWozVzNneUdjTUhGbDdra2tJSmNNMXBFR2ZDZ1M5bVZJYS1ld3hvcS1raFptSEpVMHJVeUFUeDBNSlh0cXVOWjlCZGRfNnF0dENzdnRXRDU4cXNNMDRwNl80?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQZE5ZeW5lQUtTVU9ScnhZSENfR1FCcmZONFFVWVY1SWxoQk9xN1BtTmh2RWFJcm5wODFiZm5HeGtpY1pkNHhvNDN5XzFfRHdGdTF3ai1DUER4czBKU2hjNEtGR2NYX21BOHdGOUVvVFBnNFdPT0hRU1JacDhUMFV6TXo2TENocjJ6Z1dPbEhJclNYcXE1Smh4dHZTR1jSAZMBQVVfeXFMTXVwNVFNaURGNDFxV1B1OHNyYV9OZnB4NmJ1SXM3SzFLN3ZHOUp3X2MwbS1hWDlpRExfZzlES0tVYUVGamtZNFNRS0w3OEJ4c2lycTg3YkRxOXRPZDVqNGZQSnlnY3Nwd3FDZXNmeUIxdXFmajhBUHgyZGVfc3JRdnk2cWcyOExEcDg4dzAzQ210UHVJ?oc=5).
 
 ## Requirements
 - Python 3.8
