@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'1,000-lb Sisters' star arrested at Tennessee zoo on drug possession, child endangerment charges**
+**In a first, Phoenix hits 100 straight days of 100-degree heat**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/1000-lb-sisters-star-arrested-tennessee-zoo-drug-possession-child-enda-rcna169355).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/).
 
 ## Requirements
 - Python 3.8
