@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Rankings: Top 25 entering Week 2**
+**Beijing-Backed Trolls Target U.S. Voters as Election Nears**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE5XU0gwZG1zUnVvUjBITmNqRVFMWWRlSC1hREdGV0hlNEdZQTQyeERRbEdlWnhwYVVpMmZYN0RqSnJISGhSekxVa1JySXQ5U2tJalI4ODhDc05Gc2ctUkpSMjlBZGJBdzNDeHNMMV92WGZvMWpjQi1aUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzlqc05uLVp0cXo0QkNlRmp2S3NjMURTU1hvekJvaUFhdWV3WXUtRzVrRDhlaFJxNjZreC1iLWRoclFTTkItVW9iVm1qM3VJMzJnMi1kcWJqeTA5eTgxSUtzTnAyNUtGaWhnZThyUUpHRG1sc21Pa2ExQlZmcDVtWDU0YUV1UUtQWnlqZkJLd1NITDBBVU9tN281cERQSXJHbmMycDRJSHFyME5aQlRHMmRDaw?oc=5).
 
 ## Requirements
 - Python 3.8
