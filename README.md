@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charges expected after 4 killed in CTA Blue Line shooting, Forest Park mayor**
+**Kristin Cavallari Shares Why She’s Having the Best Sex of Her Life With Mark Estes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWNfdlV0VDNjLUpLOXlrOEZwc01seDRlem1fSTZibUJILXczZkdvYVhvdEN4U3E3R2ttSTU2TEc1c0gxY1hYbmNFSGxrbkJUTFJVU29TWEZ0MUJweGp1S0dtYjlOc0JWd0dITGhfZFVHWHJRQ1I0cXA0MlAtUjhlMlVYdXp4OGZtOW5xSW1rWDYzNWNUekU2N2hRVDdiclJmQXFRNTE0Q3U1Ykpuck1GTWE3RDRrc3JBMmtMeHk5RQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPenU5bTVSODRtTTI1SnJXdlQtY1VwSVBpQTNEQUJpNHc4QXhUQThhNTdwWm93Q0pmMlRQcG1aRzhmQXloUXFUdWtHc1JRckd4WlhQN3NyUEVnbEVic0hucDBZZUVzcGRmMTQ0NFpuVFJIZk5wVk9sSlFKNUs3M3ZoZm81SzlXSlloRjlyUVNtQVhXVGxibFhUV2c0Q3czeW5lcTVHeFRQT0dpdnMyci04a2FVVVRCWTFFWHc?oc=5).
 
 ## Requirements
 - Python 3.8
