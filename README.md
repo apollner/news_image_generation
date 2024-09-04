@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beijing-Backed Trolls Target U.S. Voters as Election Nears**
+**It's a shark eat shark world. Researchers find evidence that large sharks may be hunting each other.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxPNzlqc05uLVp0cXo0QkNlRmp2S3NjMURTU1hvekJvaUFhdWV3WXUtRzVrRDhlaFJxNjZreC1iLWRoclFTTkItVW9iVm1qM3VJMzJnMi1kcWJqeTA5eTgxSUtzTnAyNUtGaWhnZThyUUpHRG1sc21Pa2ExQlZmcDVtWDU0YUV1UUtQWnlqZkJLd1NITDBBVU9tN281cERQSXJHbmMycDRJSHFyME5aQlRHMmRDaw?oc=5).
+You can read more about it [here](https://www.cbsnews.com/news/porbeagle-shark-hunting-large-predator-new-study/).
 
 ## Requirements
 - Python 3.8
