@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga Flashes Her Gargantuan Engagement Ring for the First Time at the Venice Film Festival**
+**Israeli attacks in Gaza kill 35 Palestinians but pauses allow third day of polio vaccinations**
 
-You can read more about it [here](https://www.glamour.com/story/lady-gaga-flashes-gargantuan-engagement-ring-first-time-venice-film-festival).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-attacks-gaza-kill-33-palestinians-pauses-allow-third-day-polio-2024-09-03/).
 
 ## Requirements
 - Python 3.8
