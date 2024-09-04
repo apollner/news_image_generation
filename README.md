@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spacecraft Headed to Mercury Will Take Unexpected Detour Due to Thruster Glitch**
+**Gaza hostage killings leave Israel protesters at breaking point**
 
-You can read more about it [here](https://gizmodo.com/spacecraft-headed-to-mercury-will-take-unexpected-detour-due-to-thruster-glitch-2000494085).
+You can read more about it [here](https://www.bbc.com/news/articles/c20l22jnj6go).
 
 ## Requirements
 - Python 3.8
