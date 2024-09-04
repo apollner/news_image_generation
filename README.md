@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fritz upends No. 4 Zverev, into 1st US Open semi**
+**'1,000-lb Sisters' star arrested at Tennessee zoo on drug possession, child endangerment charges**
 
-You can read more about it [here](https://www.espn.com/tennis/story/_/id/41112098/taylor-fritz-defeats-alexander-zverev-4-sets-reach-2024-us-open-semifinals).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/1000-lb-sisters-star-arrested-tennessee-zoo-drug-possession-child-enda-rcna169355).
 
 ## Requirements
 - Python 3.8
