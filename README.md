@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristin Cavallari Shares Why She’s Having the Best Sex of Her Life With Mark Estes**
+**College Football Rankings: Top 25 entering Week 2**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPenU5bTVSODRtTTI1SnJXdlQtY1VwSVBpQTNEQUJpNHc4QXhUQThhNTdwWm93Q0pmMlRQcG1aRzhmQXloUXFUdWtHc1JRckd4WlhQN3NyUEVnbEVic0hucDBZZUVzcGRmMTQ0NFpuVFJIZk5wVk9sSlFKNUs3M3ZoZm81SzlXSlloRjlyUVNtQVhXVGxibFhUV2c0Q3czeW5lcTVHeFRQT0dpdnMyci04a2FVVVRCWTFFWHc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE5XU0gwZG1zUnVvUjBITmNqRVFMWWRlSC1hREdGV0hlNEdZQTQyeERRbEdlWnhwYVVpMmZYN0RqSnJISGhSekxVa1JySXQ5U2tJalI4ODhDc05Gc2ctUkpSMjlBZGJBdzNDeHNMMV92WGZvMWpjQi1aUQ?oc=5).
 
 ## Requirements
 - Python 3.8
