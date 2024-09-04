@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats target Trump’s muddled abortion message**
+**Fritz upends No. 4 Zverev, into 1st US Open semi**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/03/trump-abortion-florida-democrats-harris-00177217).
+You can read more about it [here](https://www.espn.com/tennis/story/_/id/41112098/taylor-fritz-defeats-alexander-zverev-4-sets-reach-2024-us-open-semifinals).
 
 ## Requirements
 - Python 3.8
