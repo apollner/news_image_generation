@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A really big shark got gobbled up by another, massive shark in 1st known case of its kind**
+**Conflict, creditors and a car crash: How Ukraine clinched a wartime debt restructuring**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUFDT2x2MkV5eElGeGNZQXV4TjVXczdIbFVNWW9VUWNtVWVKVTg2eFl2M0xncEJCUjhfdDd5Z0EtTkRNV2xVR1pwdEtxS3J3bVlOc0N4RU1lNnhyeUFxYUNKdzNHRUt4NERwQklUY0VtRFFDblZCU0hwZm1OZHRNNWdLMDB6QU5aNW1BZUpyeGYtNmNRU29hSVpLMXJnZk5mazlRQXhrbm15TnhiZVhvT2U3TG5PRW1XSDgza2p1TjB4RkRqUVdrbnRaaw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxOR1NlSmFYc2lvZ1ppMkN3ZF83MHRNdjZoQlFIQU9UOWZmR1VkdmRtQjh1VGZBZm9NR2xHc2tzZk5YYm1CUkZqLV85dHhiS3VaSTUxXzdlX0pJTk5pU2JxYzl3SFYyNkRyV0pBSW9lcXYwbkNYY2Y4NWRYQnhzWGZkQzVEUkdBdWp4SnIyS0R6eTd0Q1k2TkxVbm9MajFuejVlVkdSVFB6ZWllRjZLUVVDQ2thdXlJcmV3WjZUenN2Z1R6a3ZYWkE?oc=5).
 
 ## Requirements
 - Python 3.8
