@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After JLo, Ben Affleck is ‘where he wants to be’; she is also ‘moving forward’**
+**Elon Musk says Brazilian judge should go to prison in latest attack after X ban upheld in country**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUFY0ZjdldnhlWDVMM0N2Q2dzZVMwMzhTX2cwRVpLejFIRzNiWGQ2Nzl2VF9WSG1tMnZLUXEwZFZNLTczMmhabElsdnVhNkVCR1MyWlZmRHNvRERpSGd2cXhBM0tPTlpzWlZqU2lqMWVEZmNYUDF1TGZxNFRIRGM0QjZfemhuN3dRV0hMeGZIWGY0SmZZV3NSYjFCQzJITGRkcTRUWUdkYWVLQk9vdlpTaW5LQTlCNkppLWhfNURhSkQ4M0VnRHMzWl9EZHdlWlRINUZ2OVRIQXVua2R0YVl0c3N3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX2g1YnJMSWhIcnlpUW10cHhKRWNaTFFsNTdfbTE3N3dQU0tNQW1TSXBVTWJWU2lnVEFUdEp5WXNBZ01TLUF2OURBbm1KQ0hoMVppRDFzUGlNa24zOTBhbVdoeVJTOTMydHVKQ3ItVWRJazlnR09fV1h0STNIQ3RBUU40M1dvU0l3T2RTQTlZQ1R1SVdlZEdNRXhjZDVfeW80b2stM3hlQl9TY2dCbFJ0bWpPUEhvMjM2YmMzbzJWanNmVVnSAcgBQVVfeXFMUDMzMzlMM0diTTI5cEZPRWN1MW9hdUdzX2doU0pQLTRjekhVOUROS2FYZTlpMkNSV3R3NmppcUFRaEhVZkNyVjV1bGljZWpwanp4THdFVnlKTHNsMm1NTTNSbWRrRFlhZ3d1Qk5vNW03U0tKYmEyUHB3VE5VUUNQNnJscjFlZk90WE9seXJoYlBCS1VrZl9UN1QzZVBIZXdzeWZYSzB6UlJldkFSRWdQdlVLenB6NDRObjQ4c3hMV3Y1dGZoZmQwS2o?oc=5).
 
 ## Requirements
 - Python 3.8
