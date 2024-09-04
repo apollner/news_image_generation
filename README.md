@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden Says Netanyahu is Not Doing Enough to Free Hostages in Gaza**
+**After JLo, Ben Affleck is ‘where he wants to be’; she is also ‘moving forward’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPTzhxNzZ2ODVKX0doek9YYVp1d3hMV3BtMC1ldFFudXo0UWdfRExSdzJjcHRDOFpzdFhPUmNqblUwOHhZbmx2Q2l6YjJaNy1HU2JSLTRkOHhTWndYaFZrTlp4eDdOVDFLQm5sX1NPdkQwYkhrRkJiamoxRTdLMDAwa3ZEOXA5ZEdrWV9BTFIxZU55VEMtV3ZoOVV4VUh6R2tnaUZVMQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUFY0ZjdldnhlWDVMM0N2Q2dzZVMwMzhTX2cwRVpLejFIRzNiWGQ2Nzl2VF9WSG1tMnZLUXEwZFZNLTczMmhabElsdnVhNkVCR1MyWlZmRHNvRERpSGd2cXhBM0tPTlpzWlZqU2lqMWVEZmNYUDF1TGZxNFRIRGM0QjZfemhuN3dRV0hMeGZIWGY0SmZZV3NSYjFCQzJITGRkcTRUWUdkYWVLQk9vdlpTaW5LQTlCNkppLWhfNURhSkQ4M0VnRHMzWl9EZHdlWlRINUZ2OVRIQXVua2R0YVl0c3N3?oc=5).
 
 ## Requirements
 - Python 3.8
