@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's a shark eat shark world. Researchers find evidence that large sharks may be hunting each other.**
+**Concord Going Offline This Week as Sony Offers Full Refunds**
 
-You can read more about it [here](https://www.cbsnews.com/news/porbeagle-shark-hunting-large-predator-new-study/).
+You can read more about it [here](https://www.ign.com/articles/playstation-shooter-concord-going-offline-this-week).
 
 ## Requirements
 - Python 3.8
