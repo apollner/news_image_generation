@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recapping Week 1 Around College Football | 9/3/24**
+**Democrats target Trump’s muddled abortion message**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.politico.com/news/2024/09/03/trump-abortion-florida-democrats-harris-00177217).
 
 ## Requirements
 - Python 3.8
