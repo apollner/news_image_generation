@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two U.S. Marines assaulted by nationalist mob in Turkey**
+**Kristin Cavallari Shares Why She’s Having the Best Sex of Her Life With Mark Estes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlFmay1HYWpZTkZZaGNVU25Qdko0c3kxZHZEaTdQc2lZU0pLT2VhU2xxaE9yd0NCdHBCb3h6Q0oxbi1DbTBINUFhbk8wSmdyZk5rVjloUEtUcUFDdVF4bDFmNDRHbklNbzBnNmZsM3hub241X2pNSmUyMTRjbzlNY1RnNm14QndOanZzcnVxY3MtZDZrT01NQ3NrTmNwUdIBVkFVX3lxTE9tcWtZNHBQeTBXaHdPYTU4RFoxMUNNLUZkNC02RnktSm1MSEkySUVwek1saWFjUU5qc1RDaEdDcDhWT1Rleld2ZndGQ1NSTExNcTZyM3pB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPenU5bTVSODRtTTI1SnJXdlQtY1VwSVBpQTNEQUJpNHc4QXhUQThhNTdwWm93Q0pmMlRQcG1aRzhmQXloUXFUdWtHc1JRckd4WlhQN3NyUEVnbEVic0hucDBZZUVzcGRmMTQ0NFpuVFJIZk5wVk9sSlFKNUs3M3ZoZm81SzlXSlloRjlyUVNtQVhXVGxibFhUV2c0Q3czeW5lcTVHeFRQT0dpdnMyci04a2FVVVRCWTFFWHc?oc=5).
 
 ## Requirements
 - Python 3.8
