@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Norvell ‘sick’ over Florida State’s horrendous start, takes ownership of team’s early struggles**
+**Pixel 9 Pro Fold impressions: Stellar hardware and battery life with one downside**
 
-You can read more about it [here](https://www.foxnews.com/sports/mike-norvell-sick-over-florida-states-horrendous-start-takes-ownership-teams-early-struggles).
+You can read more about it [here](http://9to5google.com/2024/09/03/google-pixel-9-pro-fold-impressions-hardware-battery-life/).
 
 ## Requirements
 - Python 3.8
