@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**President Biden campaigns with Vice President Harris in Pittsburgh on Labor Day**
+**Kristin Cavallari Shares Why She’s Having the Best Sex of Her Life With Mark Estes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmF1WVRWQTJPV2xnbjh0MVNqX1o5SzliekVGV21RM2F3bzlmM0E2UmdITkdYSlRGeEJPcHV3Z3VlVlVycHBxMW1ObXFvRXBBN2M2RHFXeFZZNHBfN0NuNU9BV1l5ckp1dU83NmNVSFhDYU5KZDVuVFJIRjZOdjg3X29JUG4tTWFCeko5amR30gGTAUFVX3lxTE5EbnBlTU9aUXdmcC1rRXB6N0tRbjUydnBaLVNPLUdORmYycHFnNkJPWWFBajRBRFJUOWNIVVNKbk1XRHhwRjNNb2RXd0ZiOW92TVM5ZnI5clI1aTJnbnNhQmwxLWJSVl9EdzctaDN5NVlzNTZ6dHR4cnd3SE1PMk92M2Z3RTNRaWFXSGdfbXdSOFFXWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxPenU5bTVSODRtTTI1SnJXdlQtY1VwSVBpQTNEQUJpNHc4QXhUQThhNTdwWm93Q0pmMlRQcG1aRzhmQXloUXFUdWtHc1JRckd4WlhQN3NyUEVnbEVic0hucDBZZUVzcGRmMTQ0NFpuVFJIZk5wVk9sSlFKNUs3M3ZoZm81SzlXSlloRjlyUVNtQVhXVGxibFhUV2c0Q3czeW5lcTVHeFRQT0dpdnMyci04a2FVVVRCWTFFWHc?oc=5).
 
 ## Requirements
 - Python 3.8
