@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin arrives in Mongolia, a member of the ICC that issued an arrest warrant for him**
+**Landslides force power cuts in upscale LA neighbourhood**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxONGloeDQ4N1hRNVYtZ3BSaHJ6ZldfdEZfbGNLeS16SDNSVGl4MDlfekJwZWVnRlRlTy1fVnFyOERkVGFGQmZWU3hoMmRPck96RlM4VjQ5REo5SkZDd29DdlNkR1ZmbWRZSjZDOFdJMXJpbFBMaUN4SVh6Z3B4N3lOY3BqZUI4a25RbUc5c0Y4YmVBUnRmSWVBUg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPZzNVa3dnQkVocW5WcDZwVlVBbXQxVlNfbWVOcXJ6dG9UNHJPa24wWFVJN1MyNUlKbDJoSDZ5ME9xaUtwckc0ZnJ4WUxiaXFmZDJZcm1uUXhwQdIBX0FVX3lxTFBHbVdWMDMzc2RXak9PeExOamJoSkdwcGhhWXRaaXBQcHk3eTlYMlRDS2lGckl0RXhpdHMzSjlzbUdlV1BxN3FsYmZ2aTZDdGdXVmpPbzdNUVlHSlNMS0xZ?oc=5).
 
 ## Requirements
 - Python 3.8
