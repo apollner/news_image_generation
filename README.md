@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil X ban upheld by supreme court panel after Musk refuses to comply with law**
+**President Biden campaigns with Vice President Harris in Pittsburgh on Labor Day**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTFBUS3FNMUo1eW5abG4taHNRcGY3Z1IzeHg4T1RWRjNpRlktem1yOW5WT1dGYmZIQ1NPZ29fOUVZQ1FLNENkUjNHUGs4alpjLXo0NmxxQUtXMDlfWTdQdWk0Mk1HMnZuc1BNazlnc0hLVUdERzZQb1JJNA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNWmF1WVRWQTJPV2xnbjh0MVNqX1o5SzliekVGV21RM2F3bzlmM0E2UmdITkdYSlRGeEJPcHV3Z3VlVlVycHBxMW1ObXFvRXBBN2M2RHFXeFZZNHBfN0NuNU9BV1l5ckp1dU83NmNVSFhDYU5KZDVuVFJIRjZOdjg3X29JUG4tTWFCeko5amR30gGTAUFVX3lxTE5EbnBlTU9aUXdmcC1rRXB6N0tRbjUydnBaLVNPLUdORmYycHFnNkJPWWFBajRBRFJUOWNIVVNKbk1XRHhwRjNNb2RXd0ZiOW92TVM5ZnI5clI1aTJnbnNhQmwxLWJSVl9EdzctaDN5NVlzNTZ6dHR4cnd3SE1PMk92M2Z3RTNRaWFXSGdfbXdSOFFXWQ?oc=5).
 
 ## Requirements
 - Python 3.8
