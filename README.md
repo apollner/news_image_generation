@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 college football rankings: Georgia, Ohio State on top; Nebraska cracks top 25**
+**Putin arrives in Mongolia, a member of the ICC that issued an arrest warrant for him**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjFiTWpqa1ZaazdtbHpzdm5ZQ2R6djRKblRZQWhkMVNBcFRva2FuaUVmQW83eXpjbm1SS1JOdXNxdkV2MG84U29RWGtQNE00c044WE9KS1BNOXFMZWFvamoydE82NVhVd0dIVmZnQTBIdjlheF9oN0lSOVJld1lQQ2xoNllEMDkxdVVGemJFdXI2eEJZM0l0QkJUTG00dEh1TnVodFpBTk1tSURSeVQ0V1EzSGRCQWNvN0dkZVByck54Z0kxeEHSAcYBQVVfeXFMTnVrNTIxN3lCSU5KTWt4MzhDcGxYemJYeEozSHAzRFJkVFdLdlkzcXlmVmZyZnZkTVhXcEJZZU5LUHNBZXlDT2ZxOUZVTGh3ODlwbTJKWTlEa0t5VEZjaFptYXp5ME4zU3hUYmlqcS1YYVF1UkRKcXpVeHFlV2V5YXplLTlQNURpLTNpRS1KZDQyNld6bGQ2cE9vUFY5cmZmUHkyODE5Ny0yY1VHajZiWUZWSllDMHg4VG9SZEU1N2hYNjRrajVB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxONGloeDQ4N1hRNVYtZ3BSaHJ6ZldfdEZfbGNLeS16SDNSVGl4MDlfekJwZWVnRlRlTy1fVnFyOERkVGFGQmZWU3hoMmRPck96RlM4VjQ5REo5SkZDd29DdlNkR1ZmbWRZSjZDOFdJMXJpbFBMaUN4SVh6Z3B4N3lOY3BqZUI4a25RbUc5c0Y4YmVBUnRmSWVBUg?oc=5).
 
 ## Requirements
 - Python 3.8
