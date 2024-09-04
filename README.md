@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga Flashes Diamond Engagement Ring from Michael Polansky in Venice: See the Huge Stone!**
+**Recapping Week 1 Around College Football | 9/3/24**
 
-You can read more about it [here](https://people.com/lady-gaga-flashes-engagement-ring-from-fiance-michael-polansky-at-2024-venice-film-festival-8705680).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
