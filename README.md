@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's a shark eat shark world. Researchers find evidence that large sharks may be hunting each other.**
+**At least 12 dead after boat carrying migrants capsizes in English Channel**
 
-You can read more about it [here](https://www.cbsnews.com/news/porbeagle-shark-hunting-large-predator-new-study/).
+You can read more about it [here](https://www.bbc.com/news/live/cn9lje1gdjwt).
 
 ## Requirements
 - Python 3.8
