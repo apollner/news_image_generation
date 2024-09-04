@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Landslides force power cuts in upscale LA neighbourhood**
+**A really big shark got gobbled up by another, massive shark in 1st known case of its kind**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPZzNVa3dnQkVocW5WcDZwVlVBbXQxVlNfbWVOcXJ6dG9UNHJPa24wWFVJN1MyNUlKbDJoSDZ5ME9xaUtwckc0ZnJ4WUxiaXFmZDJZcm1uUXhwQdIBX0FVX3lxTFBHbVdWMDMzc2RXak9PeExOamJoSkdwcGhhWXRaaXBQcHk3eTlYMlRDS2lGckl0RXhpdHMzSjlzbUdlV1BxN3FsYmZ2aTZDdGdXVmpPbzdNUVlHSlNMS0xZ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMUFDT2x2MkV5eElGeGNZQXV4TjVXczdIbFVNWW9VUWNtVWVKVTg2eFl2M0xncEJCUjhfdDd5Z0EtTkRNV2xVR1pwdEtxS3J3bVlOc0N4RU1lNnhyeUFxYUNKdzNHRUt4NERwQklUY0VtRFFDblZCU0hwZm1OZHRNNWdLMDB6QU5aNW1BZUpyeGYtNmNRU29hSVpLMXJnZk5mazlRQXhrbm15TnhiZVhvT2U3TG5PRW1XSDgza2p1TjB4RkRqUVdrbnRaaw?oc=5).
 
 ## Requirements
 - Python 3.8
