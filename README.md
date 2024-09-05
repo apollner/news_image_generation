@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: What to Watch**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-04-2024).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
