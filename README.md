@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm stock rises after unveiling new AI PC chip**
+**UK shares down after Nvidia plunges almost 10%**
 
-You can read more about it [here](https://finance.yahoo.com/video/qualcomm-stock-rises-unveiling-ai-155422631.html).
+You can read more about it [here](https://www.bbc.com/news/articles/crlrw01g45ro).
 
 ## Requirements
 - Python 3.8
