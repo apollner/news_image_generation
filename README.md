@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK shares down after Nvidia plunges almost 10%**
+**Disney Hits Back At DirecTV In Carriage Fight, Saying It “Continues To Misrepresent The Facts”**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crlrw01g45ro).
+You can read more about it [here](http://deadline.com/2024/09/disney-directv-carriage-fight-pay-tv-1236077681/).
 
 ## Requirements
 - Python 3.8
