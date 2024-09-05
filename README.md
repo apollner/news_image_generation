@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian foreign minister resigns ahead of expected reshuffling of government leaders**
+**Slow Burn: How Starliner’s crewed test flight went awry**
 
-You can read more about it [here](https://apnews.com/article/ukraine-russia-resign-kuleba-bb5195cc2df40d32bac374ece6dbc0b8).
+You can read more about it [here](https://spacenews.com/slow-burn-how-starliners-crewed-test-flight-went-awry/).
 
 ## Requirements
 - Python 3.8
