@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tiafoe into all-American US Open semi vs. Fritz**
+**'The Bachelorette' season finale recap: Happily never after**
 
-You can read more about it [here](https://www.espn.com/tennis/story/_/id/41115893/frances-tiafoe-us-open-semifinals-grigor-dimitrov-hurt).
+You can read more about it [here](https://ew.com/the-bachelorette-recap-season-21-finale-jenn-devin-breakup-8704876).
 
 ## Requirements
 - Python 3.8
