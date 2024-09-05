@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Legend of Zelda: Echoes of Wisdom’ preview: Zelda’s finally the star**
+**Russian missile strike on Ukraine military college kills dozens, Kyiv says**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/09/04/legend-of-zelda-echoes-wisdom-preview/).
+You can read more about it [here](https://abcnews.go.com/International/russian-missile-drone-strikes-ukraine-kill-3/story?id\\u003d113342126).
 
 ## Requirements
 - Python 3.8
