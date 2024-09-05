@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani thankful after 'special' return to Anaheim**
+**Donald Trump ordered to stop using Isaac Hayes' music at his rallies**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41116791/dodgers-star-shohei-ohtani-welcomed-back-warmly-anaheim).
+You can read more about it [here](https://www.bbc.com/news/articles/c89w28w13zxo).
 
 ## Requirements
 - Python 3.8
