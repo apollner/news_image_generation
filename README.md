@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian air attack on Ukraine’s Lviv kills seven people**
+**NFL power rankings: Where all 32 teams stand at start of 2024 season**
 
-You can read more about it [here](https://www.aljazeera.com/gallery/2024/9/4/russian-air-attack-on-ukraines-lviv-kills-seven-people).
+You can read more about it [here](https://nypost.com/2024/09/04/sports/nfl-power-rankings-where-all-32-teams-stand-before-2024-season/).
 
 ## Requirements
 - Python 3.8
