@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm stock rises after unveiling new AI PC chip**
+**Ukrainian foreign minister resigns ahead of expected reshuffling of government leaders**
 
-You can read more about it [here](https://finance.yahoo.com/video/qualcomm-stock-rises-unveiling-ai-155422631.html).
+You can read more about it [here](https://apnews.com/article/ukraine-russia-resign-kuleba-bb5195cc2df40d32bac374ece6dbc0b8).
 
 ## Requirements
 - Python 3.8
