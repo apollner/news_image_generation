@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Luca Guadagnino and Daniel Craig present ‘Queer’ to Venice Film Festival**
+**Nvidia Keeps Falling Late As DOJ Reportedly Issues Subpoenas In AI Antitrust Probe**
 
-You can read more about it [here](https://apnews.com/article/venice-film-festival-daniel-craig-queer-792f89bb89504150f0f2d1b8d1300cd7).
+You can read more about it [here](https://www.investors.com/news/technology/nvidia-stock-doj-issues-subpoenas-in-ai-antitrust-probe/).
 
 ## Requirements
 - Python 3.8
