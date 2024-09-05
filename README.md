@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts Stuck on Space Station Will Be Brought Back Home by Space Force Guardian**
+**Tiafoe into all-American US Open semi vs. Fritz**
 
-You can read more about it [here](https://www.military.com/daily-news/2024/09/03/space-force-guardian-will-command-mission-bring-stranded-astronauts-back-earth.html).
+You can read more about it [here](https://www.espn.com/tennis/story/_/id/41115893/frances-tiafoe-us-open-semifinals-grigor-dimitrov-hurt).
 
 ## Requirements
 - Python 3.8
