@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Asia, pope urges Indonesia to live up to promise of ‘harmony in diversity,’ fight extremism**
+**Stocks tumble as market leaders turn losers**
 
-You can read more about it [here](https://apnews.com/article/pope-francis-visit-indonesia-asia-05c710ad993231bd8840c75f959f2b05).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1RnM3Jjc09wUV9fNGJmMU5tbWxRZEMtZ1o2b3pqb3VKekRBUGxWc3liWHdOZnVOM2RVMkozODJLcmZmaWNua2twcGNXRWk0NXphT1NqUXhhUFJkVnliVnhsT0p0ckFFYzNydngxN04wWjVVQ0F5Y1AxUUFhdFYtR1o3TVNyUQ?oc=5).
 
 ## Requirements
 - Python 3.8
