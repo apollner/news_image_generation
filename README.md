@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump loses bid to move hush money case from New York to federal court**
+**After Putin dodges arrest in Mongolia, the Kremlin says no one can hold Russia back**
 
-You can read more about it [here](https://www.axios.com/2024/09/03/trump-hush-money-case-new-york-federal-court).
+You can read more about it [here](https://www.cnbc.com/2024/09/04/putin-dodges-arrest-warrant-in-mongolia-the-kremlin-touts-its-triumph.html).
 
 ## Requirements
 - Python 3.8
