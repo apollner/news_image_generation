@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The Bachelorette' season finale recap: Happily never after**
+**In Asia, pope urges Indonesia to live up to promise of ‘harmony in diversity,’ fight extremism**
 
-You can read more about it [here](https://ew.com/the-bachelorette-recap-season-21-finale-jenn-devin-breakup-8704876).
+You can read more about it [here](https://apnews.com/article/pope-francis-visit-indonesia-asia-05c710ad993231bd8840c75f959f2b05).
 
 ## Requirements
 - Python 3.8
