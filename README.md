@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Keeps Falling Late As DOJ Reportedly Issues Subpoenas In AI Antitrust Probe**
+**Russian missile strike kills more than 50 people and wounds over 200 in Ukrainian city of Poltava, officials say**
 
-You can read more about it [here](https://www.investors.com/news/technology/nvidia-stock-doj-issues-subpoenas-in-ai-antitrust-probe/).
+You can read more about it [here](https://www.cbsnews.com/news/russia-missile-strike-kills-people-and-wounds-ukrainian-city-poltava-zelenskyy/).
 
 ## Requirements
 - Python 3.8
