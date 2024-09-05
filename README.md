@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukrainian foreign minister resigns ahead of expected reshuffling of government leaders**
+**Decades of failures turned Grenfell Tower into a 'death trap,' report says**
 
-You can read more about it [here](https://apnews.com/article/ukraine-russia-resign-kuleba-bb5195cc2df40d32bac374ece6dbc0b8).
+You can read more about it [here](https://www.npr.org/2024/09/04/g-s1-20810/grenfell-tower-death-trap-report).
 
 ## Requirements
 - Python 3.8
