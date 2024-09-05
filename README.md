@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Markets slide as Nvidia shares plunge almost 10%**
+**Ohtani thankful after 'special' return to Anaheim**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crlrw01g45ro).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41116791/dodgers-star-shohei-ohtani-welcomed-back-warmly-anaheim).
 
 ## Requirements
 - Python 3.8
