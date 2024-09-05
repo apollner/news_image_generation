@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump ordered to stop using Isaac Hayes' music at his rallies**
+**Why landslides are suddenly tearing homes apart in Southern California**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c89w28w13zxo).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/03/california-landslides-rancho-palos-verdes/).
 
 ## Requirements
 - Python 3.8
