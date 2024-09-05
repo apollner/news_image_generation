@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian missile strike kills more than 50 people and wounds over 200 in Ukrainian city of Poltava, officials say**
+**In a first, Phoenix hits 100 straight days of 100-degree heat**
 
-You can read more about it [here](https://www.cbsnews.com/news/russia-missile-strike-kills-people-and-wounds-ukrainian-city-poltava-zelenskyy/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/).
 
 ## Requirements
 - Python 3.8
