@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Putin dodges arrest in Mongolia, the Kremlin says no one can hold Russia back**
+**Russian air attack on Ukraine’s Lviv kills seven people**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/04/putin-dodges-arrest-warrant-in-mongolia-the-kremlin-touts-its-triumph.html).
+You can read more about it [here](https://www.aljazeera.com/gallery/2024/9/4/russian-air-attack-on-ukraines-lviv-kills-seven-people).
 
 ## Requirements
 - Python 3.8
