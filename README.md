@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney Hits Back At DirecTV In Carriage Fight, Saying It “Continues To Misrepresent The Facts”**
+**All 72 deaths in U.K.’s Grenfell Tower fire avoidable, final report says**
 
-You can read more about it [here](http://deadline.com/2024/09/disney-directv-carriage-fight-pay-tv-1236077681/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/grenfell-tower-report-london-fire/).
 
 ## Requirements
 - Python 3.8
