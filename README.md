@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Decades of failures turned Grenfell Tower into a 'death trap,' report says**
+**Qualcomm stock rises after unveiling new AI PC chip**
 
-You can read more about it [here](https://www.npr.org/2024/09/04/g-s1-20810/grenfell-tower-death-trap-report).
+You can read more about it [here](https://finance.yahoo.com/video/qualcomm-stock-rises-unveiling-ai-155422631.html).
 
 ## Requirements
 - Python 3.8
