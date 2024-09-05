@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your daily horoscope: September 4**
+**Stock Market Today: What to Watch**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-4-6/).
+You can read more about it [here](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-09-04-2024).
 
 ## Requirements
 - Python 3.8
