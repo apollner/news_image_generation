@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian missile strike kills more than 50 people and wounds over 200 in Ukrainian city of Poltava, officials say**
+**Astronauts Stuck on Space Station Will Be Brought Back Home by Space Force Guardian**
 
-You can read more about it [here](https://www.cbsnews.com/news/russia-missile-strike-kills-people-and-wounds-ukrainian-city-poltava-zelenskyy/).
+You can read more about it [here](https://www.military.com/daily-news/2024/09/03/space-force-guardian-will-command-mission-bring-stranded-astronauts-back-earth.html).
 
 ## Requirements
 - Python 3.8
