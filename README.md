@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Apple Silicone Cases Have No Cutout for New Capture Button**
+**‘The Legend of Zelda: Echoes of Wisdom’ preview: Zelda’s finally the star**
 
-You can read more about it [here](https://www.macrumors.com/2024/09/04/iphone-16-apple-silicone-cases-capture-button/).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/09/04/legend-of-zelda-echoes-wisdom-preview/).
 
 ## Requirements
 - Python 3.8
