@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Broncos' Surtain gets record deal for DB**
+**Chicago man charged in fatal shooting of 4 sleeping on train near Forest Park: police**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41120180/sources-broncos-star-cb-pat-surtain-agree-4-year-96m-deal).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/04/chicago-train-shooting-forest-park-rhanni-davis/75067500007/).
 
 ## Requirements
 - Python 3.8
