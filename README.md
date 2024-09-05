@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight loss drugs allegedly landed this woman in the hospital, prompting lawsuit about drug label warnings**
+**UK shares down after Nvidia plunges almost 10%**
 
-You can read more about it [here](https://www.cbsnews.com/news/weight-loss-drugs-labeled-risks-lawsuit/).
+You can read more about it [here](https://www.bbc.com/news/articles/crlrw01g45ro).
 
 ## Requirements
 - Python 3.8
