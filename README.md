@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why landslides are suddenly tearing homes apart in Southern California**
+**Trump loses bid to move hush money case from New York to federal court**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/03/california-landslides-rancho-palos-verdes/).
+You can read more about it [here](https://www.axios.com/2024/09/03/trump-hush-money-case-new-york-federal-court).
 
 ## Requirements
 - Python 3.8
