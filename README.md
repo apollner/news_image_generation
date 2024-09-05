@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago man charged in fatal shooting of 4 sleeping on train near Forest Park: police**
+**Qualcomm stock rises after unveiling new AI PC chip**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/04/chicago-train-shooting-forest-park-rhanni-davis/75067500007/).
+You can read more about it [here](https://finance.yahoo.com/video/qualcomm-stock-rises-unveiling-ai-155422631.html).
 
 ## Requirements
 - Python 3.8
