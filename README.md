@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Linda Sun: A Ferrari, a Honolulu hideaway, salted duck - top NY official allegedly spied for China**
+**Your daily horoscope: September 4**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cgl23xlrzp2o).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-daily-horoscope-september-4-6/).
 
 ## Requirements
 - Python 3.8
