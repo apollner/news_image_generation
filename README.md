@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL power rankings: Where all 32 teams stand at start of 2024 season**
+**iPhone 16 Apple Silicone Cases Have No Cutout for New Capture Button**
 
-You can read more about it [here](https://nypost.com/2024/09/04/sports/nfl-power-rankings-where-all-32-teams-stand-before-2024-season/).
+You can read more about it [here](https://www.macrumors.com/2024/09/04/iphone-16-apple-silicone-cases-capture-button/).
 
 ## Requirements
 - Python 3.8
