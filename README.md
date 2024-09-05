@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian missile strike on Ukraine military college kills dozens, Kyiv says**
+**Job openings fall to lowest level since January 2021**
 
-You can read more about it [here](https://abcnews.go.com/International/russian-missile-drone-strikes-ukraine-kill-3/story?id\\u003d113342126).
+You can read more about it [here](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-january-2021-142343052.html).
 
 ## Requirements
 - Python 3.8
