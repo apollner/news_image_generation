@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Job openings fall to lowest level since January 2021**
+**Sources: Broncos' Surtain gets record deal for DB**
 
-You can read more about it [here](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-january-2021-142343052.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41120180/sources-broncos-star-cb-pat-surtain-agree-4-year-96m-deal).
 
 ## Requirements
 - Python 3.8
