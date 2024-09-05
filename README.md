@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In a first, Phoenix hits 100 straight days of 100-degree heat**
+**Luca Guadagnino and Daniel Craig present ‘Queer’ to Venice Film Festival**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/03/phoenix-100-degree-temperatures-record/).
+You can read more about it [here](https://apnews.com/article/venice-film-festival-daniel-craig-queer-792f89bb89504150f0f2d1b8d1300cd7).
 
 ## Requirements
 - Python 3.8
