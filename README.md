@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All 72 deaths in U.K.’s Grenfell Tower fire avoidable, final report says**
+**Biden preparing to block Nippon Steel purchase of U.S. Steel**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/grenfell-tower-report-london-fire/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/04/biden-prepares-reject-us-steel-deal/).
 
 ## Requirements
 - Python 3.8
