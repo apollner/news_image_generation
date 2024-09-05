@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks tumble as market leaders turn losers**
+**Markets slide as Nvidia shares plunge almost 10%**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1RnM3Jjc09wUV9fNGJmMU5tbWxRZEMtZ1o2b3pqb3VKekRBUGxWc3liWHdOZnVOM2RVMkozODJLcmZmaWNua2twcGNXRWk0NXphT1NqUXhhUFJkVnliVnhsT0p0ckFFYzNydngxN04wWjVVQ0F5Y1AxUUFhdFYtR1o3TVNyUQ?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/crlrw01g45ro).
 
 ## Requirements
 - Python 3.8
