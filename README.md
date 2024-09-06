@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These are the top 10 highest-paying college majors — two have six-figure starting salaries**
+**Move over, Michael Douglas. Michael Keaton wants to start using his real name**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHpQSGgwZHlGVmlTZHEwazVrd3VPejFqcVZKSE9KS3E4N255SEdMSUxoLWFjNzh2dUtGU1VGU2p4aXRtYlNrX3JrUEh3aWtBSVAweHFaY01VVUp1ODVoLTZTVU9VNUxSZThDanhjWFZwcjBFdFJUaGhpREJvcWtLUm1CZGstM09VWDZ6TWtneGtXRjhEZTAzbVEzVkZheHFwaGfSAacBQVVfeXFMT1hFZEQxU042akRvZjhqdVJUNF9NWWNVM1VHSi12TzN1ckY3dy1pOUlvckxBZmVJbkhsVmFNMXFzTkVSUDhiMmFma0c5WXQxWmpuNmhyVnFlbGpaWFBaSGluaUxaYmVkVUkyLWJTZUpyS2RVYzgzLTk0V2l4U2k2UVdpT1ZuYXVLaVlxeHdaQ3BIT0xGQkVUd1ZmemlJSmFEa3JNQ3g0eXM?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFMxSDNVUUtaYVpnM2ZKSkxGdFlzRE5Qb0p2QjEyQUJRM3JvSzZibXAzR09mMkhYOVF4V3Etd2ZmSUZpMVFWN2NSUFlvTkYwWno2MkxpbTkyMXc4clVwYlFVb2lxVFBGM2dzWEg2U1REb2VRT2JMLVVEaWN6NnQxUEF4enhpVUtjMkYxWjNBM2FzQTA2X0ZsMEZNVjE1Z0J0a09PRkQ4SjgzZFloUmhZaVFXd2ozVkpCYXc?oc=5).
 
 ## Requirements
 - Python 3.8
