@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USWNT star Alex Morgan announces retirement**
+**Pope Finds Fervent Fans Among Indonesia’s Transgender Community**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWxhR0k3N3NuUURlSlNTQ2xCeE1TRVpsTFVWZDB3R3ZBMEJwdUtNQVlfaGxRWFFObGFxSFYtWTFzblpVRXcybHBiX3p6WFZPSk5uVEo1TFR5MWI2bWxpMElwcFVFR0RGZVRsMkwydDRzMjFMQ2JIR3dBemRsUFZfTlRaMUZ6UHVDTmFnazNuckxYVkowMENhSS1GV0lkME5WMW1JUFp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPczBjMXNXNHV3NU9mSVVmWkFuT2lkcjlMOWNKRF9DRGlkUHJKSl9TMUgzSTVLam1PdmNoX0VDc0tibW9rNnVwYmg4WVlIaTZmdDdnQmJKMlU4RjN2VHExR2xnN2JaUHc0bktkTDJuclA5NE5Nb2RveFdfNXFLRE1vRVBic0Z1YUMyTHZUT1RB?oc=5).
 
 ## Requirements
 - Python 3.8
