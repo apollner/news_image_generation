@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Move over, Michael Douglas. Michael Keaton wants to start using his real name**
+**Rich Homie Quan dead at 34**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxQUFMxSDNVUUtaYVpnM2ZKSkxGdFlzRE5Qb0p2QjEyQUJRM3JvSzZibXAzR09mMkhYOVF4V3Etd2ZmSUZpMVFWN2NSUFlvTkYwWno2MkxpbTkyMXc4clVwYlFVb2lxVFBGM2dzWEg2U1REb2VRT2JMLVVEaWN6NnQxUEF4enhpVUtjMkYxWjNBM2FzQTA2X0ZsMEZNVjE1Z0J0a09PRkQ4SjgzZFloUmhZaVFXd2ozVkpCYXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CCAiC0pJcVRwNWVQVjFvmAEB?oc=5).
 
 ## Requirements
 - Python 3.8
