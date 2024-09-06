@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia shares keep falling. Should you buy the dip?**
+**Kamala Harris proposes 28% top capital gains tax rate in softening of Joe Biden’s plan**
 
-You can read more about it [here](https://fortune.com/2024/09/04/nvidia-shares-buy-the-dip/).
+You can read more about it [here](https://www.ft.com/content/aa2d4f90-7213-4423-8844-c1cde42e5fce).
 
 ## Requirements
 - Python 3.8
