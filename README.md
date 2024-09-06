@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surprising New Research Links Infant Mortality to Crashing Bat Populations**
+**Trump says he’d create a government efficiency commission led by Elon Musk**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1RYOXFmenE5cFJhUDdCcy02bFJSNUJqeENuMjN5bDNMTlp6VXgydU82Rk51cXcxYTdqcUVPTldUR094OGhsNXdZYmJuQzQwOHBpZXg1TlpBZVVwNVJVNlJRbXk4c2JjVzFNQlVKUVNibVdHU2x3THhvaFg3M3BNQ0FZc3pxVm8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFJxR1A4MEVZS2VCLVB6T3RCWkhNZ3g3ckdROEN3Zld5Z0RLcmo1SkJJOFdTdnloOFV1aTU4WkdOMXNxOXVEaGVPWE1TUE0tdy1LTzBLQUF5UWI1b04xOGhsNk1GR0I3NUd5TGdLaTA0aE1QaE04VHJ4ZUNZM2o3SlpObG1fSE1MbnQ5UTlsdVlVQzZ0VnR2akRRTC15ZXBJM2tNVXQyUVNwYWZmSjlYbUNLVjlOdw?oc=5).
 
 ## Requirements
 - Python 3.8
