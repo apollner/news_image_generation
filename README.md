@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
+**Pegula stuns No. 1 Swiatek, 'finally' a semifinalist**
 
-You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
+You can read more about it [here](https://www.espn.com/tennis/story/_/id/41127557/jessica-pegula-upsets-iga-swiatek-reach-2024-us-open-semifinals).
 
 ## Requirements
 - Python 3.8
