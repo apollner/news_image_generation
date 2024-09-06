@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Hampshire is the latest sign of Donald Trump’s shrinking map**
+**Zelensky reshuffles cabinet at key moment in war and ahead of U.S. trip**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/04/new-hampshire-donald-trump-shrinking-electoral-map-00177390).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/ukraine-foreign-minister-resignation-dmytro-kuleba/).
 
 ## Requirements
 - Python 3.8
