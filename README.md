@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he’d create a government efficiency commission led by Elon Musk**
+**Alex Morgan, world champion and Olympic gold medalist, retires from soccer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNVFJxR1A4MEVZS2VCLVB6T3RCWkhNZ3g3ckdROEN3Zld5Z0RLcmo1SkJJOFdTdnloOFV1aTU4WkdOMXNxOXVEaGVPWE1TUE0tdy1LTzBLQUF5UWI1b04xOGhsNk1GR0I3NUd5TGdLaTA0aE1QaE04VHJ4ZUNZM2o3SlpObG1fSE1MbnQ5UTlsdVlVQzZ0VnR2akRRTC15ZXBJM2tNVXQyUVNwYWZmSjlYbUNLVjlOdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDFUd1Z3Q2JWMDNtZEgxeGN2WkFwZ3NPSjQ2VEZvU0VURF9BdDdIamd4dTlyejU0WTh0YU9vTnBRajBfRU4yOXNZeWN0TVlmbW1GZ1lUejlCWjhLOHVINFpmRWlGMlk2S0tPTWIzcm5ZN2dUUXNFX3ktcGpRUlJyV1hxN0xBa0hxRHoxTXlueUdlZmFIRmhJU1EtRlVPZWZHUnAyVWhacFBaM1MxM0I00gFWQVVfeXFMTWUwNFd1NFQ1MDFSOFdHTW5NRjk1NGt6WnlwNTVjdDF5RzJYa1p5UkVEdVZGZU5Za1BDU1hGQTRuS3VrTzQ2TWdVaVZVZW93T2pBRllYYnc?oc=5).
 
 ## Requirements
 - Python 3.8
