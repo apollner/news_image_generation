@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
+**Boeing Starliner is set to return home Friday, with no astronauts**
 
-You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/04/nasa-boeing-starliner-space-station-orbit/).
 
 ## Requirements
 - Python 3.8
