@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnny Gaudreau’s wife honors him on their third wedding anniversary: ‘Love you forever’**
+**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
 
-You can read more about it [here](https://nypost.com/2024/09/04/sports/johnny-gaudreaus-wife-honors-him-on-their-wedding-anniversary/).
+You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
 
 ## Requirements
 - Python 3.8
