@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NY’s Chinese consul general ousted after aide charged with acting as Beijing agent: Hochul**
+**Johnny Gaudreau’s wife honors him on their third wedding anniversary: ‘Love you forever’**
 
-You can read more about it [here](https://nypost.com/2024/09/04/us-news/nys-chinese-consul-general-ousted-after-aide-charged-with-acting-as-beijing-agent-hochul/).
+You can read more about it [here](https://nypost.com/2024/09/04/sports/johnny-gaudreaus-wife-honors-him-on-their-wedding-anniversary/).
 
 ## Requirements
 - Python 3.8
