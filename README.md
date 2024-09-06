@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky reshuffles cabinet at key moment in war and ahead of U.S. trip**
+**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/ukraine-foreign-minister-resignation-dmytro-kuleba/).
+You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
 
 ## Requirements
 - Python 3.8
