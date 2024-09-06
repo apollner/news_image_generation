@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘You Have No Choice’: Trump Tells Pennsylvanians They Have To Vote for Him, ‘Even if You Don’t Like Me’**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.mediaite.com/tv/you-have-no-choice-trump-tells-pennsylvanians-they-have-to-vote-for-him-even-if-you-dont-like-me/).
 
 ## Requirements
 - Python 3.8
