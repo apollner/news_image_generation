@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden close to blocking Nippon Steel deal to buy U.S. Steel, sources say**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/us-steel-would-close-mills-move-headquarters-if-149-bln-nippon-deal-collapses-2024-09-04/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
