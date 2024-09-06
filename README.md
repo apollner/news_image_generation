@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumour: Switch "Successor" Will Be Backwards Compatible, It's Claimed**
+**NY’s Chinese consul general ousted after aide charged with acting as Beijing agent: Hochul**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/09/rumour-switch-successor-will-be-backwards-compatible-its-claimed).
+You can read more about it [here](https://nypost.com/2024/09/04/us-news/nys-chinese-consul-general-ousted-after-aide-charged-with-acting-as-beijing-agent-hochul/).
 
 ## Requirements
 - Python 3.8
