@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Morgan, world champion and Olympic gold medalist, retires from soccer**
+**What We Know About the Apalachee High School Shooting Victims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxPaDFUd1Z3Q2JWMDNtZEgxeGN2WkFwZ3NPSjQ2VEZvU0VURF9BdDdIamd4dTlyejU0WTh0YU9vTnBRajBfRU4yOXNZeWN0TVlmbW1GZ1lUejlCWjhLOHVINFpmRWlGMlk2S0tPTWIzcm5ZN2dUUXNFX3ktcGpRUlJyV1hxN0xBa0hxRHoxTXlueUdlZmFIRmhJU1EtRlVPZWZHUnAyVWhacFBaM1MxM0I00gFWQVVfeXFMTWUwNFd1NFQ1MDFSOFdHTW5NRjk1NGt6WnlwNTVjdDF5RzJYa1p5UkVEdVZGZU5Za1BDU1hGQTRuS3VrTzQ2TWdVaVZVZW93T2pBRllYYnc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UY1dBcXR5VEQ0M19qa2p1cGtXd0FKOUdwZWpRN3M3aThxRjJJXzd6ZWhKUW1hN2tqZEQyRTJQQk9wNm5XSDN2RTk4Vk5wenEyT2FXNXY0ZVM0aXlCdWxtaHk3SXZocV9YdWJ3QW1qR0lqTlVORlRVejhzdXdvMG8?oc=5).
 
 ## Requirements
 - Python 3.8
