@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Apprentice’ Producers Explain Why They Need a Kickstarter Campaign**
+**Feds Indict Musician on Landmark Massive Streaming Fraud Charges**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-features/the-apprentice-movie-kickstarter-1235991544/).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/feds-arrest-musician-on-massive-streaming-fraud-claims-1235095009/).
 
 ## Requirements
 - Python 3.8
