@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Finds Fervent Fans Among Indonesia’s Transgender Community**
+**Friday’s jobs report will likely determine the size of the Fed’s rate cut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPczBjMXNXNHV3NU9mSVVmWkFuT2lkcjlMOWNKRF9DRGlkUHJKSl9TMUgzSTVLam1PdmNoX0VDc0tibW9rNnVwYmg4WVlIaTZmdDdnQmJKMlU4RjN2VHExR2xnN2JaUHc0bktkTDJuclA5NE5Nb2RveFdfNXFLRE1vRVBic0Z1YUMyTHZUT1RB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWDZ1UXZWV0NqNEh4bTBGbnR1MzVXUVA3bVY4YkpsV1VpWVRWX3VWcFBPWllBcnA1Y21WZGgtQnllV0JjS0VxZ1hGZGZrQ1duZDNxQ0Z4Q2JnbGxZazQxamJ1OEZoS2N5YUdzSGM3N0E0NVBDcEg4N19lV09Fb0M3Z0NyeFp1d9IBfEFVX3lxTE16a1pDaE40dF9OSDZRMkxSYUZPNFFKY3NGRnNBbnZjX29Lc1FSX1RUUW41d1ZiMUswUlJFNzRuMXRWSkZNaEsyUjJaYXZCMWRRb0RyM3YtT2FVQVpyNXFqTzVLZ3RzcVgzV0JpUlBFd0Vtd1RwSV84WVVJalU?oc=5).
 
 ## Requirements
 - Python 3.8
