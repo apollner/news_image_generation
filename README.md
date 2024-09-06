@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 Chart Shows Why Nvidia Is Still the Best "Magnificent Seven" Stock to Own**
+**USWNT star Alex Morgan announces retirement**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTE9fWnpod0luSnZqUmk1eXd5MUg3T3hWZDBydHZfWjRPaXkxcHFhZS12Nkg1MXhwNUJlMVFFc1hfX1lRX05pTWZZOUZ5bjJmbS1leTN6M29qNFdvYXh3Z2FuNWdveXlUYXZScTVqTE5SZ3JqNDVBOG9WVDRB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUWxhR0k3N3NuUURlSlNTQ2xCeE1TRVpsTFVWZDB3R3ZBMEJwdUtNQVlfaGxRWFFObGFxSFYtWTFzblpVRXcybHBiX3p6WFZPSk5uVEo1TFR5MWI2bWxpMElwcFVFR0RGZVRsMkwydDRzMjFMQ2JIR3dBemRsUFZfTlRaMUZ6UHVDTmFnazNuckxYVkowMENhSS1GV0lkME5WMW1JUFp3?oc=5).
 
 ## Requirements
 - Python 3.8
