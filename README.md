@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens vs. Chiefs Prediction, Odds, Lines, Expert Picks, How to Watch for Thursday Night Football**
+**Money, drugs and tax evasion: The second Hunter Biden trial is set to begin Thursday**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/baltimore-ravens-vs-kansas-city-chiefs-prediction-pick-odds-thursday-night-football-september-5).
+You can read more about it [here](https://www.politico.com/news/2024/09/04/hunter-biden-trial-what-to-know-00177454).
 
 ## Requirements
 - Python 3.8
