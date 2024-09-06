@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After long delay, proceedings set to resume in Trump's election interference case**
+**Russia backed widespread election interference scheme, DOJ says**
 
-You can read more about it [here](https://abcnews.go.com/US/after-long-delay-proceedings-set-resume-trumps-election/story?id\\u003d113386392).
+You can read more about it [here](https://www.axios.com/2024/09/04/justice-department-charges-russian-state-media-election-interference).
 
 ## Requirements
 - Python 3.8
