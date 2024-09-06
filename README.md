@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris proposes 28% top capital gains tax rate in softening of Joe Biden’s plan**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/aa2d4f90-7213-4423-8844-c1cde42e5fce).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
