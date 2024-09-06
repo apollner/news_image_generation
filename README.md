@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**After long delay, proceedings set to resume in Trump's election interference case**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/after-long-delay-proceedings-set-resume-trumps-election/story?id\\u003d113386392).
 
 ## Requirements
 - Python 3.8
