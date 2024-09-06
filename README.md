@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow falls 200 points, S&P 500 posts third straight loss as growth fears plague investors: Live updates**
+**Surprising New Research Links Infant Mortality to Crashing Bat Populations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTFB1TmJTXzF1VWlIQkgxcjhVWFR6X1p1ZkRFTjhJOHEzME5WdzlydUdLU0V2X0Q3Y1ZuZkNMaDdnUFNQemtJcGVYWER6dkxNazJkNXg3SWlveEx1elNqTUpNQ0laVElDODRrNU9FUnFaZVBPeEtrQWlF0gF8QVVfeXFMTXFtNTdVaXRYR3hVWlBabDNiTUlza09WWGxBZEthWVhpUFN5R0JqLW5XRGxGWW1tb28xS0Excl9Cb3V5V0Q5N21UanVMTWhCZDRYWkpuSmFlR01kcTZTaUt0OVJLNlE3SnVna1JEMnJvWXZZclNnYThPcE51cw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc1RYOXFmenE5cFJhUDdCcy02bFJSNUJqeENuMjN5bDNMTlp6VXgydU82Rk51cXcxYTdqcUVPTldUR094OGhsNXdZYmJuQzQwOHBpZXg1TlpBZVVwNVJVNlJRbXk4c2JjVzFNQlVKUVNibVdHU2x3THhvaFg3M3BNQ0FZc3pxVm8?oc=5).
 
 ## Requirements
 - Python 3.8
