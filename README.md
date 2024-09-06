@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feds Indict Musician on Landmark Massive Streaming Fraud Charges**
+**All 72 deaths in U.K.’s Grenfell Tower fire avoidable, final report says**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/feds-arrest-musician-on-massive-streaming-fraud-claims-1235095009/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/grenfell-tower-report-london-fire/).
 
 ## Requirements
 - Python 3.8
