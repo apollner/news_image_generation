@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘You Have No Choice’: Trump Tells Pennsylvanians They Have To Vote for Him, ‘Even if You Don’t Like Me’**
+**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
 
-You can read more about it [here](https://www.mediaite.com/tv/you-have-no-choice-trump-tells-pennsylvanians-they-have-to-vote-for-him-even-if-you-dont-like-me/).
+You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
 
 ## Requirements
 - Python 3.8
