@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All 72 deaths in U.K.’s Grenfell Tower fire avoidable, final report says**
+**New Hampshire is the latest sign of Donald Trump’s shrinking map**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/grenfell-tower-report-london-fire/).
+You can read more about it [here](https://www.politico.com/news/2024/09/04/new-hampshire-donald-trump-shrinking-electoral-map-00177390).
 
 ## Requirements
 - Python 3.8
