@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump pivoted on Florida’s abortion ban. Here’s what anti-abortion leaders want next.**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/09/04/trump-abortion-administration-appointments-00177421).
 
 ## Requirements
 - Python 3.8
