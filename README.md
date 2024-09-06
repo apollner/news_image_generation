@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What We Know About the Apalachee High School Shooting Victims**
+**The first 100,000 doses of mpox vaccine reach Congo. But it’s a fraction of what is needed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE1UY1dBcXR5VEQ0M19qa2p1cGtXd0FKOUdwZWpRN3M3aThxRjJJXzd6ZWhKUW1hN2tqZEQyRTJQQk9wNm5XSDN2RTk4Vk5wenEyT2FXNXY0ZVM0aXlCdWxtaHk3SXZocV9YdWJ3QW1qR0lqTlVORlRVejhzdXdvMG8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVdKXzg0am9UdGRlckp0MzlJNU4wZG43MkRVc1VXN2xTYkdXWklURVBfOGxXTTF6ZHhuR0VoRVhteG82Z0JELXJMMDF5dFBISlRxNWFlRmZPdEdUSXBCQU11LUJqbmJ3aWJtVlk1VVpaMG9jNlAzcVE0UGp0VU9IN2UtLUI?oc=5).
 
 ## Requirements
 - Python 3.8
