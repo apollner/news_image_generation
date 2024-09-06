@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado man accused of killing 10 at King Soopers in 2021 was ‘in throes of a psychotic episode,’ defense says**
+**At least 19 people contract fungal infection after California music festival, officials say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNek9nb09WNEtVVHZtblRJU2p1ZnF3OUlBcWFBb1VHZzhVUFVjUktVZkhHQ1JoNXVlMmZubFBFNVUyRVJiUTBBZ095X0ZtTTNTZGtGM00yVHpmbmxJS3duT0dkeEtZcHEwMVBnYTloZGN1R2QwNFB6cHJsYVl3eTgwSk1RUdIBekFVX3lxTE0tcE05UUVuZ0pCUDFIQ2xWTFlDYUZJN3BWdjJpU2c3bWJhTjdrQndZTU1xNnpXUzJnckQ3bzBHSXpiTlNhcWxFRTcyZGxDVFFCQVJpWXJ2cGd6aEpfWExSSGZlWGk2akNnNEd3eS01aDd1M1hITWJjbDJB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNkhQR08tY1JCSFozLUttcXJLV1RrZWM2eEt0UUlkc256SG5HRGxseWJFa19GclZlV1dsS1JRWWRDM2I1RHdienJ0RWVTVlF4OG15YVpLaWIycEhiRnJfRGVZWkNwODVUaVFyWVh6Z3JvMlQyLWFQQVB3TjZDSmZBazBMUkQtTFFDdjh0VlVQaVFkZw?oc=5).
 
 ## Requirements
 - Python 3.8
