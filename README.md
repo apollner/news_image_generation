@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump pivoted on Florida’s abortion ban. Here’s what anti-abortion leaders want next.**
+**Ravens vs. Chiefs Prediction, Odds, Lines, Expert Picks, How to Watch for Thursday Night Football**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/04/trump-abortion-administration-appointments-00177421).
+You can read more about it [here](https://www.actionnetwork.com/nfl/baltimore-ravens-vs-kansas-city-chiefs-prediction-pick-odds-thursday-night-football-september-5).
 
 ## Requirements
 - Python 3.8
