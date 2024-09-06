@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Starliner is set to return home Friday, with no astronauts**
+**Zelensky reshuffles cabinet at key moment in war and ahead of U.S. trip**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/04/nasa-boeing-starliner-space-station-orbit/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/ukraine-foreign-minister-resignation-dmytro-kuleba/).
 
 ## Requirements
 - Python 3.8
