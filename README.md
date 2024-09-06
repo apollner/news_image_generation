@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Friday’s jobs report will likely determine the size of the Fed’s rate cut**
+**These are the top 10 highest-paying college majors — two have six-figure starting salaries**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihgFBVV95cUxNWDZ1UXZWV0NqNEh4bTBGbnR1MzVXUVA3bVY4YkpsV1VpWVRWX3VWcFBPWllBcnA1Y21WZGgtQnllV0JjS0VxZ1hGZGZrQ1duZDNxQ0Z4Q2JnbGxZazQxamJ1OEZoS2N5YUdzSGM3N0E0NVBDcEg4N19lV09Fb0M3Z0NyeFp1d9IBfEFVX3lxTE16a1pDaE40dF9OSDZRMkxSYUZPNFFKY3NGRnNBbnZjX29Lc1FSX1RUUW41d1ZiMUswUlJFNzRuMXRWSkZNaEsyUjJaYXZCMWRRb0RyM3YtT2FVQVpyNXFqTzVLZ3RzcVgzV0JpUlBFd0Vtd1RwSV84WVVJalU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHpQSGgwZHlGVmlTZHEwazVrd3VPejFqcVZKSE9KS3E4N255SEdMSUxoLWFjNzh2dUtGU1VGU2p4aXRtYlNrX3JrUEh3aWtBSVAweHFaY01VVUp1ODVoLTZTVU9VNUxSZThDanhjWFZwcjBFdFJUaGhpREJvcWtLUm1CZGstM09VWDZ6TWtneGtXRjhEZTAzbVEzVkZheHFwaGfSAacBQVVfeXFMT1hFZEQxU042akRvZjhqdVJUNF9NWWNVM1VHSi12TzN1ckY3dy1pOUlvckxBZmVJbkhsVmFNMXFzTkVSUDhiMmFma0c5WXQxWmpuNmhyVnFlbGpaWFBaSGluaUxaYmVkVUkyLWJTZUpyS2RVYzgzLTk0V2l4U2k2UVdpT1ZuYXVLaVlxeHdaQ3BIT0xGQkVUd1ZmemlJSmFEa3JNQ3g0eXM?oc=5).
 
 ## Requirements
 - Python 3.8
