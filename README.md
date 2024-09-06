@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pegula stuns No. 1 Swiatek, 'finally' a semifinalist**
+**Rumour: Switch "Successor" Will Be Backwards Compatible, It's Claimed**
 
-You can read more about it [here](https://www.espn.com/tennis/story/_/id/41127557/jessica-pegula-upsets-iga-swiatek-reach-2024-us-open-semifinals).
+You can read more about it [here](https://www.nintendolife.com/news/2024/09/rumour-switch-successor-will-be-backwards-compatible-its-claimed).
 
 ## Requirements
 - Python 3.8
