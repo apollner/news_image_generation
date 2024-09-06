@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rich Homie Quan dead at 34**
+**Colorado man accused of killing 10 at King Soopers in 2021 was ‘in throes of a psychotic episode,’ defense says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CCAiC0pJcVRwNWVQVjFvmAEB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNek9nb09WNEtVVHZtblRJU2p1ZnF3OUlBcWFBb1VHZzhVUFVjUktVZkhHQ1JoNXVlMmZubFBFNVUyRVJiUTBBZ095X0ZtTTNTZGtGM00yVHpmbmxJS3duT0dkeEtZcHEwMVBnYTloZGN1R2QwNFB6cHJsYVl3eTgwSk1RUdIBekFVX3lxTE0tcE05UUVuZ0pCUDFIQ2xWTFlDYUZJN3BWdjJpU2c3bWJhTjdrQndZTU1xNnpXUzJnckQ3bzBHSXpiTlNhcWxFRTcyZGxDVFFCQVJpWXJ2cGd6aEpfWExSSGZlWGk2akNnNEd3eS01aDd1M1hITWJjbDJB?oc=5).
 
 ## Requirements
 - Python 3.8
