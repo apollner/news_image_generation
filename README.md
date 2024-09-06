@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky reshuffles cabinet at key moment in war and ahead of U.S. trip**
+**Nvidia shares keep falling. Should you buy the dip?**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/04/ukraine-foreign-minister-resignation-dmytro-kuleba/).
+You can read more about it [here](https://fortune.com/2024/09/04/nvidia-shares-buy-the-dip/).
 
 ## Requirements
 - Python 3.8
