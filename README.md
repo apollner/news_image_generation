@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia backed widespread election interference scheme, DOJ says**
+**Bayesian: Italy luxury yacht victims died of ‘dry drowning,’ first autopsies show**
 
-You can read more about it [here](https://www.axios.com/2024/09/04/justice-department-charges-russian-state-media-election-interference).
+You can read more about it [here](https://www.cnn.com/2024/09/05/europe/italy-luxury-yacht-victims-autopsies-intl/index.html).
 
 ## Requirements
 - Python 3.8
