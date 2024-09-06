@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, Vegas lines, picks, spreads, game predictions: Model targets Bills, Chargers in Week 1, 2024**
+**Hunter Biden Enters Surprise Plea in Tax Case**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-targets-bills-chargers-in-week-1-2024/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMmF3Y09OZmp5eEVSUktVb3BZMmNqUDFMSWwxRkxSWGZlcEFGeGktUHlwOFFXeUhQT1kxZTRIdGRuY1FCd05salFTMUhxZzc1Q0pVbUx3akd3Wk1KeWU3RGR2VU5meFlPOWJQcmYwaWJsck12LTdwZmpVbkQ2ME0?oc=5).
 
 ## Requirements
 - Python 3.8
