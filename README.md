@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Vega rocket never found its commercial niche. After tonight, it’s gone.**
+**Clark collects 2nd triple-double as Fever stay hot**
 
-You can read more about it [here](https://arstechnica.com/space/2024/09/the-vega-rocket-never-found-its-commercial-niche-after-tonight-its-gone/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/41128834/caitlin-clark-2nd-triple-double-propels-fever-fifth-straight-win).
 
 ## Requirements
 - Python 3.8
