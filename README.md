@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bayesian: Italy luxury yacht victims died of ‘dry drowning,’ first autopsies show**
+**NFL odds, Vegas lines, picks, spreads, game predictions: Model targets Bills, Chargers in Week 1, 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/09/05/europe/italy-luxury-yacht-victims-autopsies-intl/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-targets-bills-chargers-in-week-1-2024/).
 
 ## Requirements
 - Python 3.8
