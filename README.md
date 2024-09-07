@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jobs Report Will Sway Fed’s Decision on Size of Rate Cut**
+**Decision on Trump sentencing date in "hush money" case coming Friday, prosecutors say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQejlUSF9IQ1NkdEZDVlVrY3RVX0xlT014YXhDcVRCS1NiSFBPeXB3UkN1bzFBdmdSX2YwUlk2X3BabTBwdll1MU9UWXU0cGZJYzNZMm13RWJYVE1DSEpwQklSY0x1ZlNLOWhvUzhHRmdYZVdJeC15X2hyczJrNER1RmgwUWlNLWw2dlVBRVRfRmgzbzg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHplU0VWUUUzMjAyTWMzTVBQblRKYk9QbHhtSHRITUFqNzhlUVdHNC1PbXJnRmkxV0puNFM4RERXbXVWeGNNTXVLVW9ObjVqdFIyVEgyQnpScjZYaVJfd2FrVTlUSXFwbldXWnZVV2t5SUtrUmVTeFU5bHFLMzhZamEyUXYtRDd3RS1UV3RNRl9IWTJBR21EOHEyTnd0ZFVTb3FZMGhYOW9XUdIBrwFBVV95cUxNdE9pSDVrLVF1UjhsVUd6YUtvWVJ1UjlRZTZiNnR6QU0yT1kxbVRyb3pmYVZjcS1TcVdObUh5YUc3aGJpUjlrMVBRTHRuR25DczJqTnNYb1gyOF9hb1hwQ3ZoZUt4eWNUcjVpbHAyYXgteU11MkhCUFJ4d3hIX2xJQ3VqXzQtaXU5bU5WVFZTT2tMSGNyWGdWUWNqMW93ZGFKY0U4aTlrdm96Nl9feFBz?oc=5).
 
 ## Requirements
 - Python 3.8
