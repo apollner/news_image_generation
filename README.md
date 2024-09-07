@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he will tap Musk to lead government efficiency commission if elected**
+**Kenya school fire: At least 17 pupils dead after blaze in boys' dormitory**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-adopt-musks-proposal-government-efficiency-commission-wsj-reports-2024-09-05/).
+You can read more about it [here](https://www.bbc.com/news/live/c07er0dk258t).
 
 ## Requirements
 - Python 3.8
