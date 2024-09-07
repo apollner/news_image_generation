@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France’s Macron picks Michel Barnier as prime minister to end deadlock**
+**Pavel Durov: Telegram founder says France arrest is ‘misguided’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzlTalpLZHU0Y1NvSUs0N25ZVUNrbXFCcUlDdXVfRExHbkVJQmRielRaVFpOVFRmOEYxMk1XRzNkS2dkNlpCb3p4N2tCSHpvZG5oc2FKd2tldDFBb0hQOF9LUmdKZ2FwQUU1Q1ZSY1ZzczVoRVdWRXYtZ0VHSXljRXRjZmp1YUV4ZEk2NEY3YldNQWs2bnhV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FEckhOZzRlTjVFM0ZFcVBnTFZSOFJtdHNTQXV0Vm1hSzl0NXgybVVqd1dyckY5ZkI5NldURUxneEd5bFZTUWVPdGtKWVpaeU5wRXJBOHVaM0oxZEdJMnZaalN5aElzOVo1UE16dFZveDhITm1SV0Nta2RSSGdDOXpCSk56SjBkQ0s4QU1KZTRXWlBTMFdMZ0xkS2VEWG1nQUV3VGdSVm55eU9kUjktT1duUnBjQQ?oc=5).
 
 ## Requirements
 - Python 3.8
