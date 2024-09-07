@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The first 100,000 doses of mpox vaccine reach Congo. But it’s a fraction of what is needed**
+**France’s Macron picks Michel Barnier as prime minister to end deadlock**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVdKXzg0am9UdGRlckp0MzlJNU4wZG43MkRVc1VXN2xTYkdXWklURVBfOGxXTTF6ZHhuR0VoRVhteG82Z0JELXJMMDF5dFBISlRxNWFlRmZPdEdUSXBCQU11LUJqbmJ3aWJtVlk1VVpaMG9jNlAzcVE0UGp0VU9IN2UtLUI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzlTalpLZHU0Y1NvSUs0N25ZVUNrbXFCcUlDdXVfRExHbkVJQmRielRaVFpOVFRmOEYxMk1XRzNkS2dkNlpCb3p4N2tCSHpvZG5oc2FKd2tldDFBb0hQOF9LUmdKZ2FwQUU1Q1ZSY1ZzczVoRVdWRXYtZ0VHSXljRXRjZmp1YUV4ZEk2NEY3YldNQWs2bnhV?oc=5).
 
 ## Requirements
 - Python 3.8
