@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pavel Durov: Telegram founder says France arrest is ‘misguided’**
+**Vance: John McCain wouldn’t support Harris if he saw the border**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxQb0FEckhOZzRlTjVFM0ZFcVBnTFZSOFJtdHNTQXV0Vm1hSzl0NXgybVVqd1dyckY5ZkI5NldURUxneEd5bFZTUWVPdGtKWVpaeU5wRXJBOHVaM0oxZEdJMnZaalN5aElzOVo1UE16dFZveDhITm1SV0Nta2RSSGdDOXpCSk56SjBkQ0s4QU1KZTRXWlBTMFdMZ0xkS2VEWG1nQUV3VGdSVm55eU9kUjktT1duUnBjQQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOejNadHo4ZjFYOG1UY0pIUWpXZHREbDBMMzFZWVpKeEhHN2pxZTQ0OW1CZk5NOVBTY25UUUk3MDlGWlB5R1hRMzhLODR0NEhrUWNONWluMU03UjFKaE9tbFZrR2ppdUJpV2gtRUFHaU1WRi1QNE1vZ2JaQ1JNNzJWLUtydw?oc=5).
 
 ## Requirements
 - Python 3.8
