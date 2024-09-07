@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Boeing’s Starliner head home to Earth without astronauts today**
+**New iPhone 16 and iPhone 16 Pro Colors Revealed Ahead of Apple Event**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast).
+You can read more about it [here](https://www.macrumors.com/2024/09/06/revealed-all-new-iphone-16-pro-colors/).
 
 ## Requirements
 - Python 3.8
