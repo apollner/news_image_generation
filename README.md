@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Boeing’s Starliner head home to Earth without astronauts today**
+**Watch Live as a Busted Boeing Starliner Returns to Earth Without Its Crew**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast).
+You can read more about it [here](https://gizmodo.com/watch-live-as-a-busted-boeing-starliner-returns-to-earth-without-its-crew-2000495561).
 
 ## Requirements
 - Python 3.8
