@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Decision on Trump sentencing date in "hush money" case coming Friday, prosecutors say**
+**Hunter Biden makes last-minute guilty plea in tax case**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaHplU0VWUUUzMjAyTWMzTVBQblRKYk9QbHhtSHRITUFqNzhlUVdHNC1PbXJnRmkxV0puNFM4RERXbXVWeGNNTXVLVW9ObjVqdFIyVEgyQnpScjZYaVJfd2FrVTlUSXFwbldXWnZVV2t5SUtrUmVTeFU5bHFLMzhZamEyUXYtRDd3RS1UV3RNRl9IWTJBR21EOHEyTnd0ZFVTb3FZMGhYOW9XUdIBrwFBVV95cUxNdE9pSDVrLVF1UjhsVUd6YUtvWVJ1UjlRZTZiNnR6QU0yT1kxbVRyb3pmYVZjcS1TcVdObUh5YUc3aGJpUjlrMVBRTHRuR25DczJqTnNYb1gyOF9hb1hwQ3ZoZUt4eWNUcjVpbHAyYXgteU11MkhCUFJ4d3hIX2xJQ3VqXzQtaXU5bU5WVFZTT2tMSGNyWGdWUWNqMW93ZGFKY0U4aTlrdm96Nl9feFBz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic1VRWS1lSHNqU1Ayb2V1QnNldmxjYkVLWWM5TkNVcnhXTER2ODdNMmUxR2prU2NTTlBTNVVQdjhBSFJ2LVJGVk0xMnNhNHlKV1NBSGE1OVZUd9IBX0FVX3lxTE5aV0dTM1dNQm85QXBfckJJa3N2U25kZjlXenR3eHlETTdYa1NWNGtaWTBnNURnUEw5ZGdOWVNWd3ZTaXZCRktMcDhQWmZHZjJ2MVZUYnJDdGRSZy1VaWlz?oc=5).
 
 ## Requirements
 - Python 3.8
