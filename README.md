@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's not just Harris and Trump who have a lot at stake in next week's debate. ABC News does, too**
+**Taylor Swift Literally Distances Self From Trump-Supporting Bestie Brittany Mahomes**
 
-You can read more about it [here](https://apnews.com/article/debate-trump-harris-abc-muir-c991cc04db80b28c333ed9337f1e77a9).
+You can read more about it [here](https://www.thedailybeast.com/taylor-swift-literally-distances-self-from-trump-supporting-bestie-brittany-mahomes).
 
 ## Requirements
 - Python 3.8
