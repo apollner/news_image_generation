@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu is unequivocal about ceasefire and hostage agreement with Hamas: ‘There’s not a deal in the making’**
+**S&P 500 futures dip as traders gear up for big August jobs report: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRqNFJJOUhXNkV3dnNRUS1aa05DbEp5a3RUMGhXdjV2Z0t5RzZWSGxIaE01Qm5hbFpfYzRCQXN1SmdfalBISnIyVFo2UEhNcmxOZ3NMZGNxa3BQajZuMFR4ZXQzMm9BUWYzb1hhTGdheExGWlJTaTU5bHhoQm1KMHJuRUVxLS1PR3M4MEdsdzN3TlhH0gGLAUFVX3lxTE1aRlI4SE1sR3AyM19Yejg4X0xib3piVWZmRjBfOXhGUjJZb2M2QXVMYVByV1UwVHlSN1oyeHJkeG40VzU5ei1tWG02ZC14Mmx4UzBBZ1ZWT0tlMmEwTjNveGl6cy1YOUZRVzhFdVlWTjlkc3RIRkNUeldsRDdJZ1g5eUdYMkdESXlDMVk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZVBjaG1SWHYzU1kwNkhUZkZTMFF5Snp3cEJmMGNXM21adnNWOXY2Q1hTNnZsaGFzSVRVZVFibTREeG1MdjdlT3d1WGdvV0NxQ25SZkRmUlp5ak8xLVVNQkRVS2VzdWM0RVZHVEVuSnpkc2JfY1RB0gF8QVVfeXFMT2R3U1RzN3Vra3g3NV9FcUZsak5iZkZ0X0lFRGtCcWxGZkxOVUE3M0FHVlEzNm9PUjJadjk0VnFKSWhyd3V6Y0pzQmFyZzh4ZHdCUUIyT2lWR1FpM0d1Tm80SmZsdXdVeWhTMXZZSGRyV2FsSS1nUk5Cai1ubQ?oc=5).
 
 ## Requirements
 - Python 3.8
