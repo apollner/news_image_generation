@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Studios to Avoid Releasing Movies Around Election Day: “It’s Going to Be a S***show”**
+**NFL odds, Vegas lines, picks, spreads, game predictions: Model backs Bills and Chargers in Week 1, 2024**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/studios-election-day-1235992812/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-backs-bills-and-chargers-in-week-1-2024/).
 
 ## Requirements
 - Python 3.8
