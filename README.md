@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Live as a Busted Boeing Starliner Returns to Earth Without Its Crew**
+**Fed Governor Waller backs interest rate cut at September meeting, open to larger move**
 
-You can read more about it [here](https://gizmodo.com/watch-live-as-a-busted-boeing-starliner-returns-to-earth-without-its-crew-2000495561).
+You can read more about it [here](https://www.cnbc.com/2024/09/06/fed-governor-waller-backs-interest-rate-cut-at-september-meeting.html).
 
 ## Requirements
 - Python 3.8
