@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mahomes on WR Worthy: Impacted whole offense**
+**Ars Technica system guide: Falling prices are more exciting than new parts**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnhzWk9MSkU5cjN0NTI4VEF6Y18xMHZmMHBRX1lDMkhoWXhyXzdQcjhXWlhyRk1HSXhQSVdFVWw4Vkk2dXBWSEo3UV9HVF9uQS1jOWJKcXpfbjU2WFRnLURTdHlGdEgtSF8xTWZvTXVaR1h1WnFvdlNRQjkzUklCYVYwTGRwRWRhZzFvVjlxb2hYVHQ4N0N2T0hKWFVoT3NoM3RQMzFldw?oc=5).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/09/ars-technica-system-guide-falling-prices-are-more-exciting-than-new-parts/).
 
 ## Requirements
 - Python 3.8
