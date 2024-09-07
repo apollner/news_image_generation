@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's lawyer says E. Jean Carroll verdict tainted by other accusers' testimony**
+**New Glenn’s debut will slip into November as NASA decides to not fuel ESCAPADE**
 
-You can read more about it [here](https://www.reuters.com/legal/donald-trump-appeal-first-court-loss-e-jean-carroll-2024-09-06/).
+You can read more about it [here](https://arstechnica.com/space/2024/09/new-glenns-debut-will-slip-into-november-as-nasa-decides-to-not-fuel-escapade/).
 
 ## Requirements
 - Python 3.8
