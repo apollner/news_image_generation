@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Governor Waller backs interest rate cut at September meeting, open to larger move**
+**‘Russia backs Kamala Harris’: Putin’s history of US election ‘endorsements’**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/06/fed-governor-waller-backs-interest-rate-cut-at-september-meeting.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/6/russia-backs-kamala-harris-putins-history-of-us-election-endorsements).
 
 ## Requirements
 - Python 3.8
