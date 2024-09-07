@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden makes last-minute guilty plea in tax case**
+**S&P 500 futures dip as traders gear up for big August jobs report: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic1VRWS1lSHNqU1Ayb2V1QnNldmxjYkVLWWM5TkNVcnhXTER2ODdNMmUxR2prU2NTTlBTNVVQdjhBSFJ2LVJGVk0xMnNhNHlKV1NBSGE1OVZUd9IBX0FVX3lxTE5aV0dTM1dNQm85QXBfckJJa3N2U25kZjlXenR3eHlETTdYa1NWNGtaWTBnNURnUEw5ZGdOWVNWd3ZTaXZCRktMcDhQWmZHZjJ2MVZUYnJDdGRSZy1VaWlz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZVBjaG1SWHYzU1kwNkhUZkZTMFF5Snp3cEJmMGNXM21adnNWOXY2Q1hTNnZsaGFzSVRVZVFibTREeG1MdjdlT3d1WGdvV0NxQ25SZkRmUlp5ak8xLVVNQkRVS2VzdWM0RVZHVEVuSnpkc2JfY1RB?oc=5).
 
 ## Requirements
 - Python 3.8
