@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patrick Mahomes: Xavier Worthy made big plays and big moments**
+**American activist shot dead during protest in West Bank, Palestinian officials say**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-xavier-worthy-made-big-plays-and-big-moments).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVUtNGtTUlY1V1BjUC1uWFhCd2JYcm41R0toTFZtWXV5NlgzclBIR2pXUC1NQTNnckNfM2RRT3E2MDBuQTAtQ3pVLWlHN1FKdk1NRG9qOVdDa3czZk1ucGhLX2oyZWpNYnY1ZG1iTUhDMmE4UE5CaE9IWlp1Q0RKem54ak9CVWpTQ1pxU1YtWVY1MGttTE5F0gGOAUFVX3lxTE5yWlNVSl93STE3TjJ0bDZfUVNLZFF4eHRHMnZBbmRiT19SYzg2QWRkMWY4bC10TGhXZ2tCLUVFeXB3TU92bVAwYkVIRWlaYU5TSl9nV0NfYVVRY1lFUUlVbGNCbUl2Snh2OV9qY1B0Nk1Hc1V4QWQyeFpuXzJTTy1vS1VJWTdGVnNNRGotRWc?oc=5).
 
 ## Requirements
 - Python 3.8
