@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Trouble for Texas?**
+**Mahomes on WR Worthy: Impacted whole offense**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlM4Ynl1T2dqVmxGeGpXOEdzcTQ3T0Ixa0NDX3NGTXh4NHBJdWtJcG04X21UaXFuQ29ZTk04RVYzVmxZZUEycGwweHBCeFNzM0RRYjQyN0JNWnFNWjhCbzZfRFI3ZEtIdlZuNEhrSWw5X1NUeWZuRGVfay1JMk1Wc2ln?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnhzWk9MSkU5cjN0NTI4VEF6Y18xMHZmMHBRX1lDMkhoWXhyXzdQcjhXWlhyRk1HSXhQSVdFVWw4Vkk2dXBWSEo3UV9HVF9uQS1jOWJKcXpfbjU2WFRnLURTdHlGdEgtSF8xTWZvTXVaR1h1WnFvdlNRQjkzUklCYVYwTGRwRWRhZzFvVjlxb2hYVHQ4N0N2T0hKWFVoT3NoM3RQMzFldw?oc=5).
 
 ## Requirements
 - Python 3.8
