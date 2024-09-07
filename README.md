@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Boeing’s Starliner head home to Earth without astronauts today**
+**Trump says he will tap Musk to lead government efficiency commission if elected**
 
-You can read more about it [here](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast).
+You can read more about it [here](https://www.reuters.com/world/us/trump-adopt-musks-proposal-government-efficiency-commission-wsj-reports-2024-09-05/).
 
 ## Requirements
 - Python 3.8
