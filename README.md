@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens**
+**Harris raised $361 million in August, almost triple Trump's haul**
 
-You can read more about it [here](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZzRDRzM1U09fZUd2UWkyTUdyUVFKMkxHT0VackRRVG5VTTVYemZ2aEpSa0VjazVfSHdHcG1nY3Z0VmNJcmQ2Z25lQ29Iel9NYm1QOHY5VVhXb1VYcExoa05yYVRid1EwREpRMmgya1h3YjI2TVVyWGprakg5dw?oc=5).
 
 ## Requirements
 - Python 3.8
