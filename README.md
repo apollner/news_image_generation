@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Trouble for Texas?**
+**‘Beetlejuice Beetlejuice’: The Juice Is Loose With $12M In Previews – Box Office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRlM4Ynl1T2dqVmxGeGpXOEdzcTQ3T0Ixa0NDX3NGTXh4NHBJdWtJcG04X21UaXFuQ29ZTk04RVYzVmxZZUEycGwweHBCeFNzM0RRYjQyN0JNWnFNWjhCbzZfRFI3ZEtIdlZuNEhrSWw5X1NUeWZuRGVfay1JMk1Wc2ln?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFZrTTRyY2hrWXlQdTNyblVYRVp6UGFFQnBncWhJazlVMjFNdUszaFZiRWt3WmdGeW1LemVyR1FJVmdIcENrT092ZFRmdWpJVHRMRU8yV2plS2Y3bUxVLTFTWUoxdXlTUE9BTE14bW0tMGRkUE85ckZfZlo4WWFGeA?oc=5).
 
 ## Requirements
 - Python 3.8
