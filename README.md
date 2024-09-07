@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ars Technica system guide: Falling prices are more exciting than new parts**
+**Watch Boeing’s Starliner head home to Earth without astronauts today**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/09/ars-technica-system-guide-falling-prices-are-more-exciting-than-new-parts/).
+You can read more about it [here](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast).
 
 ## Requirements
 - Python 3.8
