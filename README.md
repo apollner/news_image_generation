@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles vs. Packers live updates: How to watch, odds, predictions for NFL game in Brazil**
+**Studios to Avoid Releasing Movies Around Election Day: “It’s Going to Be a S***show”**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/09/06/eagles-packers-score-how-watch-predictions-brazil/75097727007/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/studios-election-day-1235992812/).
 
 ## Requirements
 - Python 3.8
