@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father of Georgia School Shooting Suspect Arrested and Charged: Live Updates**
+**Historian who correctly predicted 9 of last 10 elections makes his 2024 pick**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5pMFJ1YWdTdk4wZTA2WVY2YkQ1dFBkNkJ4N2o1djVBX0NPbW5Ha0tLUTdCamV6aWsyYS16WV81NUpKMHRsTjhleTlfZk15TlJMM01UckdsOVU3SndDN0FLY3hHcUhVbURoeHhjdDIxYnNFNnVr?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxON2lLMEhpUUVUVV9iZU5ZSS1aSXp5YVpTOWVkdFQ3dzZUbXBQMWMwWjhNei1RMHdkanprbHBiMzhoQTNWVWNPNzRHVmJHTHE4akRkQ0o0c2Q3dGhfVEVsRGtjaFB4MGN1WS03TTRTNDR4amRkTU1PNWNwMW9KSEV5bHNNYm1KX0hseURxYkhkTm9WZ3pFWXdJU1FEaw?oc=5).
 
 ## Requirements
 - Python 3.8
