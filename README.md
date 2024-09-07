@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris raised $361 million in August, almost triple Trump's haul**
+**Watch Boeing’s Starliner head home to Earth without astronauts today**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE1oZzRDRzM1U09fZUd2UWkyTUdyUVFKMkxHT0VackRRVG5VTTVYemZ2aEpSa0VjazVfSHdHcG1nY3Z0VmNJcmQ2Z25lQ29Iel9NYm1QOHY5VVhXb1VYcExoa05yYVRid1EwREpRMmgya1h3YjI2TVVyWGprakg5dw?oc=5).
+You can read more about it [here](https://www.space.com/boeing-starliner-crew-flight-test-earth-return-webcast).
 
 ## Requirements
 - Python 3.8
