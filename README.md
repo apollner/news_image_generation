@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Literally Distances Self From Trump-Supporting Bestie Brittany Mahomes**
+**Sluggish US jobs report clears the way for Federal Reserve to cut interest rates**
 
-You can read more about it [here](https://www.thedailybeast.com/taylor-swift-literally-distances-self-from-trump-supporting-bestie-brittany-mahomes).
+You can read more about it [here](https://apnews.com/article/jobs-hiring-federal-reserve-inflation-unemployment-economy-bac1b453d3873d5f23f2061344d28fd9).
 
 ## Requirements
 - Python 3.8
