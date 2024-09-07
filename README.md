@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New iPhone 16 and iPhone 16 Pro Colors Revealed Ahead of Apple Event**
+**Trump says he will tap Musk to lead government efficiency commission if elected**
 
-You can read more about it [here](https://www.macrumors.com/2024/09/06/revealed-all-new-iphone-16-pro-colors/).
+You can read more about it [here](https://www.reuters.com/world/us/trump-adopt-musks-proposal-government-efficiency-commission-wsj-reports-2024-09-05/).
 
 ## Requirements
 - Python 3.8
