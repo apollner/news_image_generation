@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures dip as traders gear up for big August jobs report: Live updates**
+**Father of Georgia School Shooting Suspect Arrested and Charged: Live Updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZVBjaG1SWHYzU1kwNkhUZkZTMFF5Snp3cEJmMGNXM21adnNWOXY2Q1hTNnZsaGFzSVRVZVFibTREeG1MdjdlT3d1WGdvV0NxQ25SZkRmUlp5ak8xLVVNQkRVS2VzdWM0RVZHVEVuSnpkc2JfY1RB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE5pMFJ1YWdTdk4wZTA2WVY2YkQ1dFBkNkJ4N2o1djVBX0NPbW5Ha0tLUTdCamV6aWsyYS16WV81NUpKMHRsTjhleTlfZk15TlJMM01UckdsOVU3SndDN0FLY3hHcUhVbURoeHhjdDIxYnNFNnVr?oc=5).
 
 ## Requirements
 - Python 3.8
