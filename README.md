@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sluggish US jobs report clears the way for Federal Reserve to cut interest rates**
+**Eagles vs. Packers live updates: How to watch, odds, predictions for NFL game in Brazil**
 
-You can read more about it [here](https://apnews.com/article/jobs-hiring-federal-reserve-inflation-unemployment-economy-bac1b453d3873d5f23f2061344d28fd9).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/09/06/eagles-packers-score-how-watch-predictions-brazil/75097727007/).
 
 ## Requirements
 - Python 3.8
