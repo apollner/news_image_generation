@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he will tap Musk to lead government efficiency commission if elected**
+**Xgimi’s new ultra-short throw projector keeps dust and dirt off its lens**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-adopt-musks-proposal-government-efficiency-commission-wsj-reports-2024-09-05/).
+You can read more about it [here](https://www.theverge.com/2024/9/6/24236669/xgimi-projector-aura-2-home-theater-mogo-3-pro-price).
 
 ## Requirements
 - Python 3.8
