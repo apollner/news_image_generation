@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Staffers Allegedly Involved in Arlington Cemetery Drama Named**
+**Netanyahu is unequivocal about ceasefire and hostage agreement with Hamas: ‘There’s not a deal in the making’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOSUtIeEZVS0VZSjcweUt0Y2NiYXRWaEFkM2J3VnFHdW1HMjA4S1ZPZElCelRfWi1YT2tfRUp2MkFvRGI3MTdLV1NkVWdZSVBHRXpJa1ExV1c5M1lVei03eFpZbmdqWjl3OFM1dHduWnNOYnNYMk8tUF9CN3hBb1A5UXFjV2NzQ2NPd3VZQ29HeUhHbXpTZllJV3l2UUo3QQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPdkRqNFJJOUhXNkV3dnNRUS1aa05DbEp5a3RUMGhXdjV2Z0t5RzZWSGxIaE01Qm5hbFpfYzRCQXN1SmdfalBISnIyVFo2UEhNcmxOZ3NMZGNxa3BQajZuMFR4ZXQzMm9BUWYzb1hhTGdheExGWlJTaTU5bHhoQm1KMHJuRUVxLS1PR3M4MEdsdzN3TlhH0gGLAUFVX3lxTE1aRlI4SE1sR3AyM19Yejg4X0xib3piVWZmRjBfOXhGUjJZb2M2QXVMYVByV1UwVHlSN1oyeHJkeG40VzU5ei1tWG02ZC14Mmx4UzBBZ1ZWT0tlMmEwTjNveGl6cy1YOUZRVzhFdVlWTjlkc3RIRkNUeldsRDdJZ1g5eUdYMkdESXlDMVk?oc=5).
 
 ## Requirements
 - Python 3.8
