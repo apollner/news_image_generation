@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hunter Biden makes last-minute guilty plea in tax case**
+**Trump Staffers Allegedly Involved in Arlington Cemetery Drama Named**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBic1VRWS1lSHNqU1Ayb2V1QnNldmxjYkVLWWM5TkNVcnhXTER2ODdNMmUxR2prU2NTTlBTNVVQdjhBSFJ2LVJGVk0xMnNhNHlKV1NBSGE1OVZUd9IBX0FVX3lxTE5aV0dTM1dNQm85QXBfckJJa3N2U25kZjlXenR3eHlETTdYa1NWNGtaWTBnNURnUEw5ZGdOWVNWd3ZTaXZCRktMcDhQWmZHZjJ2MVZUYnJDdGRSZy1VaWlz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxOSUtIeEZVS0VZSjcweUt0Y2NiYXRWaEFkM2J3VnFHdW1HMjA4S1ZPZElCelRfWi1YT2tfRUp2MkFvRGI3MTdLV1NkVWdZSVBHRXpJa1ExV1c5M1lVei03eFpZbmdqWjl3OFM1dHduWnNOYnNYMk8tUF9CN3hBb1A5UXFjV2NzQ2NPd3VZQ29HeUhHbXpTZllJV3l2UUo3QQ?oc=5).
 
 ## Requirements
 - Python 3.8
