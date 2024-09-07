@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance: John McCain wouldn’t support Harris if he saw the border**
+**Asteroid breaks up over Philippines hours after detection serving as reminder of bigger threats to Earth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxOejNadHo4ZjFYOG1UY0pIUWpXZHREbDBMMzFZWVpKeEhHN2pxZTQ0OW1CZk5NOVBTY25UUUk3MDlGWlB5R1hRMzhLODR0NEhrUWNONWluMU03UjFKaE9tbFZrR2ppdUJpV2gtRUFHaU1WRi1QNE1vZ2JaQ1JNNzJWLUtydw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPMW5Ec3BfSUs4VWFlMWdwTmVkSEdrUVZYUjdaZjRCTnVLMWNTa3BQNFVNczZxd0pDelNFQ2YxbXV5UnkydXAyUnRESjVDVUJXM1BsaUw4NjFIVFQ5ZDRzLXhyTzF2OEI0VzFMcUxFU3dCbXRHU3FHdUgwc1pycnZhR3pUZm5FdWJ5Rlhfc1V0ZUVteXFvYlJYT00xS3ZNZ9IBowFBVV95cUxNc0s2Z19vWEtYQVFkeHVjX1p2cXBJamtxSFhMMHdYdXpJWEVNYXFGN2ZlS3dJcktwZFhNcXVaRXV3T28tYnUtYTVfeG01eDR0UElENlAwR0M2VUxvY1lQVEZVN2FhZkl3cUxpUGZRczJHVkV6OGRTWUtfSEZ1a2VUZmFJNnhmQlI2UjM2VnBCR2lCTzFwLWJYYVBvekdGTkhWNFpF?oc=5).
 
 ## Requirements
 - Python 3.8
