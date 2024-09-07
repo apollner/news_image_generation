@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya school fire: At least 17 pupils dead after blaze in boys' dormitory**
+**Patrick Mahomes: Xavier Worthy made big plays and big moments**
 
-You can read more about it [here](https://www.bbc.com/news/live/c07er0dk258t).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/patrick-mahomes-xavier-worthy-made-big-plays-and-big-moments).
 
 ## Requirements
 - Python 3.8
