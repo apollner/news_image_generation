@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures dip as traders gear up for big August jobs report: Live updates**
+**Jobs Report Will Sway Fed’s Decision on Size of Rate Cut**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE4xZVBjaG1SWHYzU1kwNkhUZkZTMFF5Snp3cEJmMGNXM21adnNWOXY2Q1hTNnZsaGFzSVRVZVFibTREeG1MdjdlT3d1WGdvV0NxQ25SZkRmUlp5ak8xLVVNQkRVS2VzdWM0RVZHVEVuSnpkc2JfY1RB0gF8QVVfeXFMT2R3U1RzN3Vra3g3NV9FcUZsak5iZkZ0X0lFRGtCcWxGZkxOVUE3M0FHVlEzNm9PUjJadjk0VnFKSWhyd3V6Y0pzQmFyZzh4ZHdCUUIyT2lWR1FpM0d1Tm80SmZsdXdVeWhTMXZZSGRyV2FsSS1nUk5Cai1ubQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQejlUSF9IQ1NkdEZDVlVrY3RVX0xlT014YXhDcVRCS1NiSFBPeXB3UkN1bzFBdmdSX2YwUlk2X3BabTBwdll1MU9UWXU0cGZJYzNZMm13RWJYVE1DSEpwQklSY0x1ZlNLOWhvUzhHRmdYZVdJeC15X2hyczJrNER1RmgwUWlNLWw2dlVBRVRfRmgzbzg?oc=5).
 
 ## Requirements
 - Python 3.8
