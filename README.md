@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump accepts key endorsement from police union while celebrating sentencing delay on felony charges**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/trump-police-crime-law-enforcement-de5662eb889fb5dd75a893e1871b3400).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
