@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cornel West to appear on Virginia presidential ballot**
+**Live updates: The latest on the Georgia school shooting**
 
-You can read more about it [here](https://www.cbsnews.com/news/cornel-west-to-appear-on-virginia-presidential-ballot/).
+You can read more about it [here](https://www.cnn.com/us/live-news/georgia-shooting-apalachee-high-school-09-06-24/index.html).
 
 ## Requirements
 - Python 3.8
