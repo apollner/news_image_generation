@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: The latest on the Georgia school shooting**
+**Ukraine long-range strikes into Russia won't be a game changer, U.S. says**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/georgia-shooting-apalachee-high-school-09-06-24/index.html).
+You can read more about it [here](https://www.reuters.com/world/biden-sign-250-million-ukraine-security-assistance-2024-09-06/).
 
 ## Requirements
 - Python 3.8
