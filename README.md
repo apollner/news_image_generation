@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA removes ESCAPADE from inaugural New Glenn launch**
+**Cornel West to appear on Virginia presidential ballot**
 
-You can read more about it [here](https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/).
+You can read more about it [here](https://www.cbsnews.com/news/cornel-west-to-appear-on-virginia-presidential-ballot/).
 
 ## Requirements
 - Python 3.8
