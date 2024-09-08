@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s ‘dragon drones’ rain molten metal on Russian positions in latest terrifying battlefield innovation**
+**Packers' Love helped off after last-second injury**
 
-You can read more about it [here](https://www.cnn.com/2024/09/07/europe/ukraine-thermite-dragon-drones-intl-hnk-ml/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41157176/packers-jordan-love-helped-field-apparent-leg-injury).
 
 ## Requirements
 - Python 3.8
