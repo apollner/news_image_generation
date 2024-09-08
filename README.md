@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli soldiers fatally shot an American woman at a West Bank protest, witnesses say**
+**Ukraine’s ‘dragon drones’ rain molten metal on Russian positions in latest terrifying battlefield innovation**
 
-You can read more about it [here](https://apnews.com/article/american-shot-killed-west-bank-israel-palestinians-b2f1c741cea3d56eb1a339240dbf036e).
+You can read more about it [here](https://www.cnn.com/2024/09/07/europe/ukraine-thermite-dragon-drones-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
