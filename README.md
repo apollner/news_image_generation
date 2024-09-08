@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri resident who had no contact with animals tests positive for bird flu**
+**Travis Kelce and Taylor Swift hold hands on date night in Brooklyn after Chiefs win**
 
-You can read more about it [here](https://www.statnews.com/2024/09/06/missouri-h5-bird-flu-case-no-animal-contacts/).
+You can read more about it [here](https://pagesix.com/2024/09/06/celebrity-news/travis-kelce-and-taylor-swift-hold-hands-on-date-night-in-brooklyn/).
 
 ## Requirements
 - Python 3.8
