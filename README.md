@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers' Love helped off after last-second injury**
+**Ukraine says Russia launched massive attack with 67 drones**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41157176/packers-jordan-love-helped-field-apparent-leg-injury).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/7/ukraine-says-russia-launched-massive-attack-with-67-drones).
 
 ## Requirements
 - Python 3.8
