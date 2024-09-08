@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Turn to the right’: What Macron’s choice of Barnier as PM means for France**
+**Ukraine’s ‘dragon drones’ rain molten metal on Russian positions in latest terrifying battlefield innovation**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/7/turn-to-the-right-what-macrons-choice-of-barnier-as-pm-means-for-france).
+You can read more about it [here](https://www.cnn.com/2024/09/07/europe/ukraine-thermite-dragon-drones-intl-hnk-ml/index.html).
 
 ## Requirements
 - Python 3.8
