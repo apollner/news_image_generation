@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce and Taylor Swift hold hands on date night in Brooklyn after Chiefs win**
+**Killed in her pink roller skates, a Palestinian girl’s photo in Gaza goes viral**
 
-You can read more about it [here](https://pagesix.com/2024/09/06/celebrity-news/travis-kelce-and-taylor-swift-hold-hands-on-date-night-in-brooklyn/).
+You can read more about it [here](https://www.npr.org/2024/09/06/nx-s1-5103933/gaza-palestinian-girl-roller-skates-photo).
 
 ## Requirements
 - Python 3.8
