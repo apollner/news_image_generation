@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says Russia launched massive attack with 67 drones**
+**Israeli soldiers fatally shot an American woman at a West Bank protest, witnesses say**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/7/ukraine-says-russia-launched-massive-attack-with-67-drones).
+You can read more about it [here](https://apnews.com/article/american-shot-killed-west-bank-israel-palestinians-b2f1c741cea3d56eb1a339240dbf036e).
 
 ## Requirements
 - Python 3.8
