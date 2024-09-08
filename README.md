@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Turn to the right’: What Macron’s choice of Barnier as PM means for France**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/7/turn-to-the-right-what-macrons-choice-of-barnier-as-pm-means-for-france).
 
 ## Requirements
 - Python 3.8
