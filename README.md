@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: The latest on the Georgia school shooting**
+**Mega Millions skyrockets to $740 million. See the winning numbers for September 6 drawing**
 
-You can read more about it [here](https://www.cnn.com/us/live-news/georgia-shooting-apalachee-high-school-09-06-24/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/09/06/mega-millions-winning-numbers/75108866007/).
 
 ## Requirements
 - Python 3.8
