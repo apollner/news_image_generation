@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Love & Marriage: Huntsville’: Keke Jabbar’s Cause Of Death Revealed**
+**NASA removes ESCAPADE from inaugural New Glenn launch**
 
-You can read more about it [here](http://deadline.com/2024/09/love-and-marriage-huntsville-keke-jabbars-cause-of-death-1236080635/).
+You can read more about it [here](https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/).
 
 ## Requirements
 - Python 3.8
