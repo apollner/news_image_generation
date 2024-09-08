@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri reports 1st human case of bird flu in the state**
+**The jobs report answered one key question — but left us guessing on another**
 
-You can read more about it [here](https://abcnews.go.com/Health/missouri-reports-first-human-case-bird-flu-in-state/story?id\\u003d113474247).
+You can read more about it [here](https://finance.yahoo.com/news/the-jobs-report-answered-one-key-question--but-left-us-guessing-on-another-100040418.html).
 
 ## Requirements
 - Python 3.8
