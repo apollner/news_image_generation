@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French protesters rage at ‘stolen election’ as Macron picks conservative Barnier for PM**
+**Missouri abortion rights measure is invalid, judge says days before deadline**
 
-You can read more about it [here](https://www.france24.com/en/france/20240907-french-protesters-rage-at-stolen-election-as-macron-picks-conservative-barnier-for-pm).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/07/missouri-judge-abortion-measure-invalid/).
 
 ## Requirements
 - Python 3.8
