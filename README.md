@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former VP Dick Cheney says he will vote for Harris**
+**Kamala Harris's pain-free US election campaign faces first crunch moment**
 
-You can read more about it [here](https://www.npr.org/2024/09/07/nx-s1-5104718/dick-cheney-voting-kamala-harris-trump-election).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2373mz3k2o).
 
 ## Requirements
 - Python 3.8
