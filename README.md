@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks notch worst weekly decline since March 2023 after August jobs report**
+**Trump accepts key endorsement from police union while celebrating sentencing delay on felony charges**
 
-You can read more about it [here](https://markets.businessinsider.com/news/stocks/stock-market-today-worst-week-august-jobs-report-recession-fears-2024-9).
+You can read more about it [here](https://apnews.com/article/trump-police-crime-law-enforcement-de5662eb889fb5dd75a893e1871b3400).
 
 ## Requirements
 - Python 3.8
