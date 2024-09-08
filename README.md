@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The jobs report answered one key question — but left us guessing on another**
+**The stock market suffered a beatdown because investors suspect a Fed mistake**
 
-You can read more about it [here](https://finance.yahoo.com/news/the-jobs-report-answered-one-key-question--but-left-us-guessing-on-another-100040418.html).
+You can read more about it [here](https://www.marketwatch.com/story/the-stock-market-suffered-a-beatdown-because-investors-suspect-a-fed-mistake-62740a75).
 
 ## Requirements
 - Python 3.8
