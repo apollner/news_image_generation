@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Vice-President Dick Cheney to vote for Kamala Harris**
+**Ukraine says Russia launched massive attack with 67 drones**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cz07zlr58vvo).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/7/ukraine-says-russia-launched-massive-attack-with-67-drones).
 
 ## Requirements
 - Python 3.8
