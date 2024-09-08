@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The stock market suffered a beatdown because investors suspect a Fed mistake**
+**Georgia school shooting suspect expected to face more charges as accounts of students’ heroism emerge**
 
-You can read more about it [here](https://www.marketwatch.com/story/the-stock-market-suffered-a-beatdown-because-investors-suspect-a-fed-mistake-62740a75).
+You can read more about it [here](https://www.cnn.com/2024/09/07/us/apalachee-school-shooting-georgia-saturday/index.html).
 
 ## Requirements
 - Python 3.8
