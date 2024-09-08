@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Glenn’s debut will slip into November as NASA decides to not fuel ESCAPADE**
+**Live updates: The latest on the Georgia school shooting**
 
-You can read more about it [here](https://arstechnica.com/space/2024/09/new-glenns-debut-will-slip-into-november-as-nasa-decides-to-not-fuel-escapade/).
+You can read more about it [here](https://www.cnn.com/us/live-news/georgia-shooting-apalachee-high-school-09-06-24/index.html).
 
 ## Requirements
 - Python 3.8
