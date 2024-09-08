@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Terrorist eliminated': IDF documents close-quarters elimination of terrorists in southern Gaza**
+**Former VP Dick Cheney says he will vote for Harris**
 
-You can read more about it [here](https://www.jpost.com/israel-hamas-war/article-819115).
+You can read more about it [here](https://www.npr.org/2024/09/07/nx-s1-5104718/dick-cheney-voting-kamala-harris-trump-election).
 
 ## Requirements
 - Python 3.8
