@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris's pain-free US election campaign faces first crunch moment**
+**French protesters rage at ‘stolen election’ as Macron picks conservative Barnier for PM**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm2373mz3k2o).
+You can read more about it [here](https://www.france24.com/en/france/20240907-french-protesters-rage-at-stolen-election-as-macron-picks-conservative-barnier-for-pm).
 
 ## Requirements
 - Python 3.8
