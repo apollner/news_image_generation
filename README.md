@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Prices Plunge Below $53,000 As Multiple Factors Fuel Losses**
+**Israeli attacks on Gaza kill 61 over last two days, says Health Ministry**
 
-You can read more about it [here](https://www.forbes.com/sites/digital-assets/2024/09/06/bitcoin-prices-plunge-below-53000-as-multiple-factors-fuel-losses/).
+You can read more about it [here](https://www.aljazeera.com/news/liveblog/2024/9/7/israels-war-on-gaza-live-israeli-attacks-kill-dozens-in-gaza-west-bank).
 
 ## Requirements
 - Python 3.8
