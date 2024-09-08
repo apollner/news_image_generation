@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Killed in her pink roller skates, a Palestinian girl’s photo in Gaza goes viral**
+**Stock market today: Stocks notch worst weekly decline since March 2023 after August jobs report**
 
-You can read more about it [here](https://www.npr.org/2024/09/06/nx-s1-5103933/gaza-palestinian-girl-roller-skates-photo).
+You can read more about it [here](https://markets.businessinsider.com/news/stocks/stock-market-today-worst-week-august-jobs-report-recession-fears-2024-9).
 
 ## Requirements
 - Python 3.8
