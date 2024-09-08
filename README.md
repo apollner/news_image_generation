@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia school shooting suspect expected to face more charges as accounts of students’ heroism emerge**
+**Kamala Harris's pain-free US election campaign faces first crunch moment**
 
-You can read more about it [here](https://www.cnn.com/2024/09/07/us/apalachee-school-shooting-georgia-saturday/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2373mz3k2o).
 
 ## Requirements
 - Python 3.8
