@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jannik Sinner reaches the US Open men's final by beating Jack Draper after both need medical help**
+**NASA removes ESCAPADE from inaugural New Glenn launch**
 
-You can read more about it [here](https://apnews.com/article/us-open-9-6-2024-men-semifinals-sinner-draper-tiafoe-fritz-b142b422def1c9fae2a6e723d80302fe).
+You can read more about it [here](https://spacenews.com/nasa-removes-escapade-from-inaugural-new-glenn-launch/).
 
 ## Requirements
 - Python 3.8
