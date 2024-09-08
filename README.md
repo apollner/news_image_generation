@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli attacks on Gaza kill 61 over last two days, says Health Ministry**
+**Georgia school shooting suspect expected to face more charges as accounts of students’ heroism emerge**
 
-You can read more about it [here](https://www.aljazeera.com/news/liveblog/2024/9/7/israels-war-on-gaza-live-israeli-attacks-kill-dozens-in-gaza-west-bank).
+You can read more about it [here](https://www.cnn.com/2024/09/07/us/apalachee-school-shooting-georgia-saturday/index.html).
 
 ## Requirements
 - Python 3.8
