@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia school shooting suspect expected to face more charges as accounts of students’ heroism emerge**
+**Missouri reports 1st human case of bird flu in the state**
 
-You can read more about it [here](https://www.cnn.com/2024/09/07/us/apalachee-school-shooting-georgia-saturday/index.html).
+You can read more about it [here](https://abcnews.go.com/Health/missouri-reports-first-human-case-bird-flu-in-state/story?id\\u003d113474247).
 
 ## Requirements
 - Python 3.8
