@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri abortion rights measure is invalid, judge says days before deadline**
+**Palestinians interview witnesses to U.S. woman’s West Bank killing**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/07/missouri-judge-abortion-measure-invalid/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/07/israel-gaza-hamas-west-bank-aysenur-eygi-investigation/).
 
 ## Requirements
 - Python 3.8
