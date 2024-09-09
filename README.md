@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guest column | For caregivers, a friend who ‘gets it’ can be a lifeline**
+**Meta Llama: Everything you need to know about the open generative AI model**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/09/08/caregiver-friendship-cystic-fibrosis-support/).
+You can read more about it [here](https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/).
 
 ## Requirements
 - Python 3.8
