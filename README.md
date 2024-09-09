@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amy Adams Says Oscar Nominations Are 'Not Something I Think About'**
+**Russia takes Ukrainian town in advance on Pokrovsk**
 
-You can read more about it [here](https://www.indiewire.com/news/general-news/amy-adams-oscar-nominations-not-something-i-think-about-1235045151/).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-troops-take-novohrodivka-ukraines-donetsk-region-ria-reports-2024-09-08/).
 
 ## Requirements
 - Python 3.8
