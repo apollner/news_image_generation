@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s election influence efforts show sophistication, officials say**
+**Trump campaigns in Wisconsin GOP stronghold ahead of debate with Harris**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/09/07/russia-election-covert-disinformation-doj/).
+You can read more about it [here](https://apnews.com/article/trump-harris-wisconsin-election-economy-a6923d6c5758dabb6d959417ea9d7d12).
 
 ## Requirements
 - Python 3.8
