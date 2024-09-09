@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Landslide kills family as typhoon Yagi rips through Vietnam**
+**Sarah Huckabee Sanders says Liz Cheney is ‘in the minority’ over Trump opposition**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce380vgeq1po).
+You can read more about it [here](https://thehill.com/homenews/campaign/4868168-sarah-huckabee-sanders-says-liz-cheney-is-in-the-minority-over-trump-opposition/).
 
 ## Requirements
 - Python 3.8
