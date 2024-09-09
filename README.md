@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Watch Series 10 Will Boast Unexpected New Feature, Report Says**
+**How to watch Apple’s ‘Glowtime’ iPhone 16 event**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/09/07/apple-watch-series-10-will-boast-unexpected-new-feature-report-says/).
+You can read more about it [here](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai).
 
 ## Requirements
 - Python 3.8
