@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Illinois coach Thomas Hammock emotional after Notre Dame upset: 'I just couldn't be more proud'**
+**Horoscope for Sunday, Sept 8, 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/09/07/thomas-hammock-emotional-interview-notre-dame-upset-huskies/75126497007/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/08/horoscope-for-sunday-sept-8-2024).
 
 ## Requirements
 - Python 3.8
