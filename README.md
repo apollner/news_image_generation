@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinians interview witnesses to U.S. woman’s West Bank killing**
+**Wynn Resorts paying $130M for letting illegal money reach gamblers at its Las Vegas Strip casino**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/07/israel-gaza-hamas-west-bank-aysenur-eygi-investigation/).
+You can read more about it [here](https://finance.yahoo.com/news/wynn-resorts-paying-130m-letting-213538621.html).
 
 ## Requirements
 - Python 3.8
