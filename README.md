@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaigns in Wisconsin GOP stronghold ahead of debate with Harris**
+**Palestinians interview witnesses to U.S. woman’s West Bank killing**
 
-You can read more about it [here](https://apnews.com/article/trump-harris-wisconsin-election-economy-a6923d6c5758dabb6d959417ea9d7d12).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/07/israel-gaza-hamas-west-bank-aysenur-eygi-investigation/).
 
 ## Requirements
 - Python 3.8
