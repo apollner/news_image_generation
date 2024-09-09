@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Typhoon Yagi kills four after making landfall in Vietnam**
+**Russia’s strategy to rely more China’s yuan is backfiring**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce380vgeq1po).
+You can read more about it [here](https://fortune.com/2024/09/07/russia-economy-china-yuan-liquidity-shortage-us-sanctions-ukraine-invasion/).
 
 ## Requirements
 - Python 3.8
