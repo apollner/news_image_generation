@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuelan opposition candidate Edmundo Gonzalez leaves the country for Spain**
+**Line Fire in east Highland grows to more than 7,100 acres; evacuation orders in place**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/americas/venezuela-opposition-candidate-gonzalez-spain-intl-hnk/index.html).
+You can read more about it [here](https://abc7.com/post/line-fire-east-highland-prompts-evacuation-warnings-san-bernardino-county-amid-california-heat-wave/15273794/).
 
 ## Requirements
 - Python 3.8
