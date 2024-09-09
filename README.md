@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected 'Glowtime' reveals**
+**Dolphins’ Tyreek Hill detained by police outside stadium, is playing in opener vs. Jaguars**
 
-You can read more about it [here](https://techcrunch.com/2024/09/08/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/).
+You can read more about it [here](http://www.sun-sentinel.com/2024/09/08/dolphins-tyreek-hill-detained-by-police-outside-stadium-expected-to-play-opener-vs-jaguars/).
 
 ## Requirements
 - Python 3.8
