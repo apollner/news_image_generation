@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16, iPhone 16 Pro, Airpods: What's rumored for 2024 Apple event Monday**
+**How Trump and Harris are preparing for their first debate of 2024**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/2024/09/08/apple-event-2024-rumors-iphone-airpods/75075681007/).
+You can read more about it [here](https://www.cbsnews.com/news/presidential-debate-harris-trump-structure-prep/).
 
 ## Requirements
 - Python 3.8
