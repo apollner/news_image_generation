@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Apple’s ‘Glowtime’ iPhone 16 event**
+**Southern California wildfire burns so intensely that it creates its own weather as it spreads, forcing evacuations**
 
-You can read more about it [here](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai).
+You can read more about it [here](https://www.cnn.com/2024/09/07/us/san-bernardino-california-wildfire/index.html).
 
 ## Requirements
 - Python 3.8
