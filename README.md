@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Line Fire in east Highland grows to more than 7,100 acres; evacuation orders in place**
+**‘On Swift Horses’ Review: Jacob Elordi and Daisy Edgar-Jones Light Up the Screen in a Ravishing Queer Epic**
 
-You can read more about it [here](https://abc7.com/post/line-fire-east-highland-prompts-evacuation-warnings-san-bernardino-county-amid-california-heat-wave/15273794/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/on-swift-horses-review-jacob-elordi-and-daisy-edgar-jones-1235994968/).
 
 ## Requirements
 - Python 3.8
