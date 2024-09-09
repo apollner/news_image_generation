@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Authorities search for shooter along I-75 in southeastern Kentucky with up to 7 people hurt**
+**Guest column | For caregivers, a friend who ‘gets it’ can be a lifeline**
 
-You can read more about it [here](https://apnews.com/article/kentucky-shooting-interstate-75-freeway-08391eb00af983c81a9bc8856201f572).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/09/08/caregiver-friendship-cystic-fibrosis-support/).
 
 ## Requirements
 - Python 3.8
