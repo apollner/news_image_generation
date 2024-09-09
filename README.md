@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southern California wildfire burns so intensely that it creates its own weather as it spreads, forcing evacuations**
+**A Northern Illinois stunner, a Cy-Hawk thriller and the week chaos returned to college football**
 
-You can read more about it [here](https://www.cnn.com/2024/09/07/us/san-bernardino-california-wildfire/index.html).
+You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal090724/college-football-week-2-highlights-top-plays-games-takeaways-2024).
 
 ## Requirements
 - Python 3.8
