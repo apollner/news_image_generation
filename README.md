@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Trump and Harris are preparing for their first debate of 2024**
+**Jannik Sinner takes the first two sets against Taylor Fritz in the US Open final**
 
-You can read more about it [here](https://www.cbsnews.com/news/presidential-debate-harris-trump-structure-prep/).
+You can read more about it [here](https://sports.yahoo.com/taylor-fritz-plays-jannik-sinner-063124972.html).
 
 ## Requirements
 - Python 3.8
