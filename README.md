@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia takes Ukrainian town in advance on Pokrovsk**
+**Israeli strike kills senior rescue-service official in Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-troops-take-novohrodivka-ukraines-donetsk-region-ria-reports-2024-09-08/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-strike-kills-senior-rescue-service-official-gaza-fighting-rages-2024-09-08/).
 
 ## Requirements
 - Python 3.8
