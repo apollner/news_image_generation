@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, Sept 8, 2024**
+**Pope arrives in the remote jungles of Papua New Guinea with a ton of humanitarian aid and toys**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/08/horoscope-for-sunday-sept-8-2024).
+You can read more about it [here](https://apnews.com/article/pope-papua-new-guinea-asia-33fb0e7ca68a8c9595812271586388d1).
 
 ## Requirements
 - Python 3.8
