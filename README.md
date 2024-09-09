@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jannik Sinner takes the first two sets against Taylor Fritz in the US Open final**
+**World No. 1 Jannik Sinner beats Taylor Fritz to win US Open, extending American men’s tennis grand slam singles drought**
 
-You can read more about it [here](https://sports.yahoo.com/taylor-fritz-plays-jannik-sinner-063124972.html).
+You can read more about it [here](https://www.cnn.com/2024/09/08/sport/us-open-mens-final-sinner-fritz-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
