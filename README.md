@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sarah Huckabee Sanders says Liz Cheney is ‘in the minority’ over Trump opposition**
+**Authorities search for shooter along I-75 in southeastern Kentucky with up to 7 people hurt**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4868168-sarah-huckabee-sanders-says-liz-cheney-is-in-the-minority-over-trump-opposition/).
+You can read more about it [here](https://apnews.com/article/kentucky-shooting-interstate-75-freeway-08391eb00af983c81a9bc8856201f572).
 
 ## Requirements
 - Python 3.8
