@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s strategy to rely more China’s yuan is backfiring**
+**[Removed]**
 
-You can read more about it [here](https://fortune.com/2024/09/07/russia-economy-china-yuan-liquidity-shortage-us-sanctions-ukraine-invasion/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
