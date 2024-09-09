@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope arrives in the remote jungles of Papua New Guinea with a ton of humanitarian aid and toys**
+**Landslide kills family as typhoon Yagi rips through Vietnam**
 
-You can read more about it [here](https://apnews.com/article/pope-papua-new-guinea-asia-33fb0e7ca68a8c9595812271586388d1).
+You can read more about it [here](https://www.bbc.com/news/articles/ce380vgeq1po).
 
 ## Requirements
 - Python 3.8
