@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘On Swift Horses’ Review: Jacob Elordi and Daisy Edgar-Jones Light Up the Screen in a Ravishing Queer Epic**
+**Apple Watch Series 10 Will Boast Unexpected New Feature, Report Says**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/on-swift-horses-review-jacob-elordi-and-daisy-edgar-jones-1235994968/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/09/07/apple-watch-series-10-will-boast-unexpected-new-feature-report-says/).
 
 ## Requirements
 - Python 3.8
