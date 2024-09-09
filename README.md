@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins’ Tyreek Hill detained by police outside stadium, is playing in opener vs. Jaguars**
+**Amy Adams Says Oscar Nominations Are 'Not Something I Think About'**
 
-You can read more about it [here](http://www.sun-sentinel.com/2024/09/08/dolphins-tyreek-hill-detained-by-police-outside-stadium-expected-to-play-opener-vs-jaguars/).
+You can read more about it [here](https://www.indiewire.com/news/general-news/amy-adams-oscar-nominations-not-something-i-think-about-1235045151/).
 
 ## Requirements
 - Python 3.8
