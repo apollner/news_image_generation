@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World No. 1 Jannik Sinner beats Taylor Fritz to win US Open, extending American men’s tennis grand slam singles drought**
+**iPhone 16, iPhone 16 Pro, Airpods: What's rumored for 2024 Apple event Monday**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/sport/us-open-mens-final-sinner-fritz-spt-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/tech/2024/09/08/apple-event-2024-rumors-iphone-airpods/75075681007/).
 
 ## Requirements
 - Python 3.8
