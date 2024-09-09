@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike kills senior rescue-service official in Gaza**
+**How Trump and Harris are preparing for their first debate of 2024**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-strike-kills-senior-rescue-service-official-gaza-fighting-rages-2024-09-08/).
+You can read more about it [here](https://www.cbsnews.com/news/presidential-debate-harris-trump-structure-prep/).
 
 ## Requirements
 - Python 3.8
