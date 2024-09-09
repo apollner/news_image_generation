@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta Llama: Everything you need to know about the open generative AI model**
+**Apple Event 2024: iPhone 16, Apple Intelligence and all the other expected 'Glowtime' reveals**
 
-You can read more about it [here](https://techcrunch.com/2024/09/08/meta-llama-everything-you-need-to-know-about-the-open-generative-ai-model/).
+You can read more about it [here](https://techcrunch.com/2024/09/08/apple-event-2024-iphone-16-apple-intelligence-and-all-the-other-expected-glowtime-reveals/).
 
 ## Requirements
 - Python 3.8
