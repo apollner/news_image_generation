@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wynn Resorts paying $130M for letting illegal money reach gamblers at its Las Vegas Strip casino**
+**Venezuelan opposition candidate Edmundo Gonzalez leaves the country for Spain**
 
-You can read more about it [here](https://finance.yahoo.com/news/wynn-resorts-paying-130m-letting-213538621.html).
+You can read more about it [here](https://www.cnn.com/2024/09/08/americas/venezuela-opposition-candidate-gonzalez-spain-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
