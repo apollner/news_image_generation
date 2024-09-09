@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela opposition candidate Edmundo González leaves country for Spain**
+**Manhunt underway after 5 people injured in Kentucky shooting near Interstate 75, officials say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c14zdypxr7no).
+You can read more about it [here](https://www.cnn.com/2024/09/07/us/kentucky-interstate-75-shooting/index.html).
 
 ## Requirements
 - Python 3.8
