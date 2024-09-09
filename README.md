@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Trump and Harris are preparing for their first debate of 2024**
+**Parkinson’s disease risk is linked to gut health, researchers say**
 
-You can read more about it [here](https://www.cbsnews.com/news/presidential-debate-harris-trump-structure-prep/).
+You can read more about it [here](https://www.foxnews.com/health/parkinsons-disease-risk-linked-gut-health-researchers-say).
 
 ## Requirements
 - Python 3.8
