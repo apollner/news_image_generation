@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ketucky I-75 shooting: Numerous people shot in Kentucky near Interstate 75, officials say**
+**Typhoon Yagi kills four after making landfall in Vietnam**
 
-You can read more about it [here](https://www.cnn.com/2024/09/07/us/kentucky-interstate-75-shooting/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/ce380vgeq1po).
 
 ## Requirements
 - Python 3.8
