@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Northern Illinois stunner, a Cy-Hawk thriller and the week chaos returned to college football**
+**Northern Illinois coach Thomas Hammock emotional after Notre Dame upset: 'I just couldn't be more proud'**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/page/gamedayfinal090724/college-football-week-2-highlights-top-plays-games-takeaways-2024).
+You can read more about it [here](https://www.usatoday.com/story/sports/ncaaf/2024/09/07/thomas-hammock-emotional-interview-notre-dame-upset-huskies/75126497007/).
 
 ## Requirements
 - Python 3.8
