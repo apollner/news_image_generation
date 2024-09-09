@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**School cell phone bans complicated by logistics, politics and violence**
+**How to watch Apple’s ‘Glowtime’ iPhone 16 event**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/08/states-cellphone-bans-00177774).
+You can read more about it [here](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai).
 
 ## Requirements
 - Python 3.8
