@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Apple’s ‘Glowtime’ iPhone 16 event**
+**Venezuela opposition candidate Edmundo González leaves country for Spain**
 
-You can read more about it [here](https://www.theverge.com/2024/9/7/24238537/apples-glowtime-iphone-16-event-how-to-watch-ios-18-apple-intelligence-ai).
+You can read more about it [here](https://www.bbc.com/news/articles/c14zdypxr7no).
 
 ## Requirements
 - Python 3.8
