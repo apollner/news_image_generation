@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evacuations ordered as Line Fire burns foothills of national forest east of L.A.**
+**School cell phone bans complicated by logistics, politics and violence**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/evacuations-ordered-line-fire-burns-national-forest-east-la-rcna170093).
+You can read more about it [here](https://www.politico.com/news/2024/09/08/states-cellphone-bans-00177774).
 
 ## Requirements
 - Python 3.8
