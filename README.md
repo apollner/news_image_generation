@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Lots files for bankruptcy**
+**Boeing Reaches Deal With Union After Marathon Weekend Talks**
 
-You can read more about it [here](https://www.cnn.com/2024/09/09/business/big-lots-chapter-11-bankruptcy/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-08/boeing-strikes-deal-with-union-after-marathon-weekend-talks).
 
 ## Requirements
 - Python 3.8
