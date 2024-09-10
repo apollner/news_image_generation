@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany announces temporary controls on all land borders**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/europe/germany-put-temporary-controls-all-land-borders-source-says-2024-09-09/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
