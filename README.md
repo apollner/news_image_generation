@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple 'Glowtime' event live blog — iPhone 16, Apple Watch 10, AirPods 4 and more**
+**At least 14 killed, 43 injured in Israeli airstrikes, Syrian state news agency says**
 
-You can read more about it [here](https://www.tomsguide.com/phones/live/apple-glowtime-event-iphone-16).
+You can read more about it [here](https://www.cnn.com/2024/09/08/middleeast/israeli-airstrikes-syria-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
