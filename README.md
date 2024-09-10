@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYPD commissioner expected to step down amid federal probe**
+**Tropical Storm Francine Getting Better Organized**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/09/nypd-commissioner-caban-resign-investigation-00177951).
+You can read more about it [here](https://weather.com/storms/hurricane/video/tropical-storm-francine-gaining-strength-in-the-gulf).
 
 ## Requirements
 - Python 3.8
