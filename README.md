@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris' past debates: A prosecutor's style with narrative flair but risks in a matchup with Trump**
+**Line and Davis fires grow in California and Nevada, displacing thousands**
 
-You can read more about it [here](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0).
+You can read more about it [here](https://www.cnn.com/2024/09/09/us/wildfires-spread-california-nevada-monday/index.html).
 
 ## Requirements
 - Python 3.8
