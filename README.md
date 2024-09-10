@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overreactions after Week 1 of the NFL season: Kirk Cousins benched already? Cowboys made mistake paying Dak?**
+**Grief, pain, hope and faith at church services following latest deadly school shooting**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/overreactions-after-week-1-of-the-nfl-season-kirk-cousins-benched-already-cowboys-made-mistake-paying-dak/).
+You can read more about it [here](https://apnews.com/article/apalachee-high-school-georgia-shooting-church-services-bb424c69ba42cf9fd0c9ce62b6503f21).
 
 ## Requirements
 - Python 3.8
