@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**University of Idaho murder trial: Venue will be moved, judge rules**
+**DOJ indicts 2 alleged leaders of white supremacist 'Terrorgram' chat group**
 
-You can read more about it [here](https://abcnews.go.com/US/university-idaho-murder-trial-venue-moved-judge-rules/story?id\\u003d113242163).
+You can read more about it [here](https://abcnews.go.com/US/doj-indicts-2-alleged-leaders-white-supremacist-terrorgram/story?id\\u003d113516198).
 
 ## Requirements
 - Python 3.8
