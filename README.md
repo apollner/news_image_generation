@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans and Democrats to issue dueling documents casting blame for mistakes made in US withdrawal from Afghanistan**
+**Detroit Lions vs. Los Angeles Rams live score updates, highlights, latest news**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/politics/afghanistan-withdrawal-house-reports-mccaul-meeks/index.html).
+You can read more about it [here](https://www.prideofdetroit.com/2024/9/8/24239373/detroit-lions-los-angeles-rams-live-score-updates-highlights-latest-news).
 
 ## Requirements
 - Python 3.8
