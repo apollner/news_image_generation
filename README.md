@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Lots sells business to Nexus Capital as it begins bankruptcy proceedings**
+**Harris' past debates: A prosecutor's style with narrative flair but risks in a matchup with Trump**
 
-You can read more about it [here](https://www.reuters.com/markets/us/big-lots-sells-business-nexus-capital-it-begins-bankruptcy-proceedings-2024-09-09/).
+You can read more about it [here](https://apnews.com/article/harris-debate-approach-trump-matchup-240d0978bd7d38d9757b5d314359b7d0).
 
 ## Requirements
 - Python 3.8
