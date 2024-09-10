@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Golden eagle attacks toddler and 3 others in Norway. Expert suspects a 'behavioral disorder'**
+**Big Lots files for bankruptcy**
 
-You can read more about it [here](https://apnews.com/article/norway-golden-eagle-attack-toddler-claw-489eeea1f2abde53ec17b3dfa560249c).
+You can read more about it [here](https://www.cnn.com/2024/09/09/business/big-lots-chapter-11-bankruptcy/index.html).
 
 ## Requirements
 - Python 3.8
