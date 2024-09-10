@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Francine Getting Better Organized**
+**Apple debuts iPhone 16 Pro and iPhone 16 Pro Max**
 
-You can read more about it [here](https://weather.com/storms/hurricane/video/tropical-storm-francine-gaining-strength-in-the-gulf).
+You can read more about it [here](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/).
 
 ## Requirements
 - Python 3.8
