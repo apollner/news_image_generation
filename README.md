@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump pledges to jail opponents, baselessly suggests election will be stolen from him**
+**After interstate shootings wound 5, searchers comb Kentucky hill country for suspect**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/08/trump-election-threats/).
+You can read more about it [here](https://apnews.com/article/kentucky-highway-shooting-33b6846b5df8a01cb0c3b77565033e33).
 
 ## Requirements
 - Python 3.8
