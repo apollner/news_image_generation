@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A blockbuster Chinese video game sparks debate on sexism in the nation’s gaming industry**
+**Asian Stocks Tumble as Worry on US Economy Sinks Tech Shares**
 
-You can read more about it [here](https://apnews.com/article/black-myth-wukong-controversy-game-science-sexism-f95cd1b9fc8fd20f9dafd1a43ec51048).
+You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-tumble-worry-us-023351614.html).
 
 ## Requirements
 - Python 3.8
