@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosion kills at least 48 people as fuel tanker collides with truck in Nigeria**
+**Bruce Springsteen Contemplates Mortality With Toronto Film Festival Documentary ‘Road Diary’: ‘If I Went Tomorrow, It’s OK. What a F—ing Ride!’**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/africa/fuel-tanker-explosion-nigeria-intl-latam/index.html).
+You can read more about it [here](https://variety.com/2024/film/markets-festivals/bruce-springsteen-mortality-toronto-film-festival-new-documentary-road-diary-e-street-band-premiere-1236137502/).
 
 ## Requirements
 - Python 3.8
