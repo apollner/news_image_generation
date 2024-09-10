@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany’s Lindner rejects Draghi’s common borrowing proposal**
+**University of Idaho murder trial: Venue will be moved, judge rules**
 
-You can read more about it [here](https://www.politico.eu/article/germanys-lindner-rejects-draghis-common-borrowing-proposal/).
+You can read more about it [here](https://abcnews.go.com/US/university-idaho-murder-trial-venue-moved-judge-rules/story?id\\u003d113242163).
 
 ## Requirements
 - Python 3.8
