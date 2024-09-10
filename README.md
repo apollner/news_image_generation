@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bruce Springsteen Contemplates Mortality With Toronto Film Festival Documentary ‘Road Diary’: ‘If I Went Tomorrow, It’s OK. What a F—ing Ride!’**
+**Overreactions after Week 1 of the NFL season: Kirk Cousins benched already? Cowboys made mistake paying Dak?**
 
-You can read more about it [here](https://variety.com/2024/film/markets-festivals/bruce-springsteen-mortality-toronto-film-festival-new-documentary-road-diary-e-street-band-premiere-1236137502/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/overreactions-after-week-1-of-the-nfl-season-kirk-cousins-benched-already-cowboys-made-mistake-paying-dak/).
 
 ## Requirements
 - Python 3.8
