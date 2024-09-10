@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patti Scialfa, Bruce Springsteen’s Wife and E Street Bandmate, Reveals Blood Cancer Diagnosis**
+**Draghi Says EU in Danger Without Massive Spending and Joint Debt**
 
-You can read more about it [here](https://variety.com/2024/film/news/patti-scialfa-cancer-diagnosis-bruce-springsteen-e-street-band-1236137754/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-09/draghi-says-eu-in-danger-without-massive-spending-and-joint-debt).
 
 ## Requirements
 - Python 3.8
