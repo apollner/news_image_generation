@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ indicts 2 alleged leaders of white supremacist 'Terrorgram' chat group**
+**NYPD commissioner expected to step down amid federal probe**
 
-You can read more about it [here](https://abcnews.go.com/US/doj-indicts-2-alleged-leaders-white-supremacist-terrorgram/story?id\\u003d113516198).
+You can read more about it [here](https://www.politico.com/news/2024/09/09/nypd-commissioner-caban-resign-investigation-00177951).
 
 ## Requirements
 - Python 3.8
