@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Residents flee as California and Nevada wildfires get dangerously close and forecasters warn of record heat**
+**Report: Derrick Brown may miss rest of 2024 with meniscus injury**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/weather/line-fire-california-and-nevada-wildfires-heat/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-derrick-brown-may-miss-rest-of-2024-with-meniscus-injury).
 
 ## Requirements
 - Python 3.8
