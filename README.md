@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 1 winners and losers: Derek Carr exceeds expectations with strong 2024 opener; bad start for Giants**
+**Golden eagle attacks toddler and 3 others in Norway. Expert suspects a 'behavioral disorder'**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-1-winners-and-losers-derek-carr-exceeds-expectations-with-strong-2024-opener-bad-start-for-giants/).
+You can read more about it [here](https://apnews.com/article/norway-golden-eagle-attack-toddler-claw-489eeea1f2abde53ec17b3dfa560249c).
 
 ## Requirements
 - Python 3.8
