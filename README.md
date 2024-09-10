@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starliner Suffers New Problems While Coming Back to Earth**
+**Big Lots sells business to Nexus Capital as it begins bankruptcy proceedings**
 
-You can read more about it [here](https://futurism.com/the-byte/starliner-new-problems-return-earth).
+You can read more about it [here](https://www.reuters.com/markets/us/big-lots-sells-business-nexus-capital-it-begins-bankruptcy-proceedings-2024-09-09/).
 
 ## Requirements
 - Python 3.8
