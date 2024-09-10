@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian Stocks Tumble as Worry on US Economy Sinks Tech Shares**
+**Apple 'Glowtime' event live blog — iPhone 16, Apple Watch 10, AirPods 4 and more**
 
-You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-tumble-worry-us-023351614.html).
+You can read more about it [here](https://www.tomsguide.com/phones/live/apple-glowtime-event-iphone-16).
 
 ## Requirements
 - Python 3.8
