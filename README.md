@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reportedly updating AirPods Max tomorrow: USB-C, better noise cancellation**
+**In new memo, Democratic Congressional campaigns urge emphasis on message of "freedom"**
 
-You can read more about it [here](https://9to5mac.com/2024/09/08/new-airpods-max-tomorrow/).
+You can read more about it [here](https://www.cbsnews.com/news/democratic-congressional-campaign-committee-memo-2024-election/).
 
 ## Requirements
 - Python 3.8
