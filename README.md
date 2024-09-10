@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 1 winners and losers: Derek Carr, Sam Darnold exceed expectations with strong starts to 2024 season**
+**House Republicans and Democrats to issue dueling documents casting blame for mistakes made in US withdrawal from Afghanistan**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-1-winners-and-losers-derek-carr-sam-darnold-exceed-expectations-with-strong-starts-to-2024-season/).
+You can read more about it [here](https://www.cnn.com/2024/09/08/politics/afghanistan-withdrawal-house-reports-mccaul-meeks/index.html).
 
 ## Requirements
 - Python 3.8
