@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After interstate shootings wound 5, searchers comb Kentucky hill country for suspect**
+**Apple 'Glowtime' event live blog — iPhone 16, Apple Watch 10, AirPods 4 and more**
 
-You can read more about it [here](https://apnews.com/article/kentucky-highway-shooting-33b6846b5df8a01cb0c3b77565033e33).
+You can read more about it [here](https://www.tomsguide.com/phones/live/apple-glowtime-event-iphone-16).
 
 ## Requirements
 - Python 3.8
