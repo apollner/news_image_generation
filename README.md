@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 14 killed, 43 injured in Israeli airstrikes, Syrian state news agency says**
+**Why The Bear Star Will Poulter's Fitness Transformation Has Everyone Saying "Yes, Chef" - E! Online**
 
-You can read more about it [here](https://www.cnn.com/2024/09/08/middleeast/israeli-airstrikes-syria-intl-latam/index.html).
+You can read more about it [here](https://www.eonline.com/news/1406973/why-the-bear-star-will-poulters-fitness-transformation-has-everyone-saying-yes-chef).
 
 ## Requirements
 - Python 3.8
