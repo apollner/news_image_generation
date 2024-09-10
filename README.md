@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple debuts iPhone 16 Pro and iPhone 16 Pro Max**
+**Fourth case of dangerous EEE confirmed in Mass. this season**
 
-You can read more about it [here](https://www.apple.com/newsroom/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/).
+You can read more about it [here](https://www.wcvb.com/article/eee-case-massachusetts-middlesex-county-sept-9-2024/62121473).
 
 ## Requirements
 - Python 3.8
