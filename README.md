@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Shogun' wins record-breaking 14 Emmys at Creative Arts ceremony as Jamie Lee Curtis gets her first**
+**A blockbuster Chinese video game sparks debate on sexism in the nation’s gaming industry**
 
-You can read more about it [here](https://apnews.com/article/emmys-shogun-creative-arts-jamie-lee-curtis-641b33fcad195467a39df91ce673d32f).
+You can read more about it [here](https://apnews.com/article/black-myth-wukong-controversy-game-science-sexism-f95cd1b9fc8fd20f9dafd1a43ec51048).
 
 ## Requirements
 - Python 3.8
