@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Line and Davis fires grow in California and Nevada, displacing thousands**
+**Kendrick Lamar’s Super Bowl halftime show announcement is bigger than his victory over Drake**
 
-You can read more about it [here](https://www.cnn.com/2024/09/09/us/wildfires-spread-california-nevada-monday/index.html).
+You can read more about it [here](https://andscape.com/features/kendrick-lamar-to-perform-at-apple-music-super-bowl-lix-halftime-show/).
 
 ## Requirements
 - Python 3.8
