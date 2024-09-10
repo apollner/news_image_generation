@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple 'Glowtime' event live blog — iPhone 16, Apple Watch 10, AirPods 4 and more**
+**Patti Scialfa, Bruce Springsteen’s Wife and E Street Bandmate, Reveals Blood Cancer Diagnosis**
 
-You can read more about it [here](https://www.tomsguide.com/phones/live/apple-glowtime-event-iphone-16).
+You can read more about it [here](https://variety.com/2024/film/news/patti-scialfa-cancer-diagnosis-bruce-springsteen-e-street-band-1236137754/).
 
 ## Requirements
 - Python 3.8
