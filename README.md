@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Los Angeles Rams live score updates, highlights, latest news**
+**[Removed]**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/9/8/24239373/detroit-lions-los-angeles-rams-live-score-updates-highlights-latest-news).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
