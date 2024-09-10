@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Derrick Brown may miss rest of 2024 with meniscus injury**
+**Starliner Suffers New Problems While Coming Back to Earth**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-derrick-brown-may-miss-rest-of-2024-with-meniscus-injury).
+You can read more about it [here](https://futurism.com/the-byte/starliner-new-problems-return-earth).
 
 ## Requirements
 - Python 3.8
