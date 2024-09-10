@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In new memo, Democratic Congressional campaigns urge emphasis on message of "freedom"**
+**Trump pledges to jail opponents, baselessly suggests election will be stolen from him**
 
-You can read more about it [here](https://www.cbsnews.com/news/democratic-congressional-campaign-committee-memo-2024-election/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/08/trump-election-threats/).
 
 ## Requirements
 - Python 3.8
