@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's CPI climbs by a less-than-expected 0.6% as transport and home goods prices fall**
+**Apple reportedly updating AirPods Max tomorrow: USB-C, better noise cancellation**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/09/chinas-consumer-price-index-climbs-0point6percent-in-august-missing-expectations.html).
+You can read more about it [here](https://9to5mac.com/2024/09/08/new-airpods-max-tomorrow/).
 
 ## Requirements
 - Python 3.8
