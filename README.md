@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why The Bear Star Will Poulter's Fitness Transformation Has Everyone Saying "Yes, Chef" - E! Online**
+**'Shogun' wins record-breaking 14 Emmys at Creative Arts ceremony as Jamie Lee Curtis gets her first**
 
-You can read more about it [here](https://www.eonline.com/news/1406973/why-the-bear-star-will-poulters-fitness-transformation-has-everyone-saying-yes-chef).
+You can read more about it [here](https://apnews.com/article/emmys-shogun-creative-arts-jamie-lee-curtis-641b33fcad195467a39df91ce673d32f).
 
 ## Requirements
 - Python 3.8
