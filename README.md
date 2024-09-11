@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane warning issued for southern Louisiana as Francine strengthens in gulf**
+**Disney-DirecTV Carriage Fight Goes On As ‘Monday Night Football’ Kicks Off; POTUS Debate & Emmys In Jeopardy**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/09/tropical-storm-francine-louisiana-hurricane-watch/).
+You can read more about it [here](http://deadline.com/2024/09/disney-directv-carriage-dispute-latest-1236082591/).
 
 ## Requirements
 - Python 3.8
