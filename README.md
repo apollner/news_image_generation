@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli strike on a tent camp in a Gaza humanitarian zone kills at least 19 people**
+**AirPods Will Soon Be Hearing Aids—and More From Apple’s New AirPod Lineup**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-september-10-2024-3e1435277993d03de61f4e1c7494deec).
+You can read more about it [here](https://www.wsj.com/tech/personal-tech/apple-airpods-4-max-features-c3bfaf2a).
 
 ## Requirements
 - Python 3.8
