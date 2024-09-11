@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How ABC presidential debate rules work for tonight's Trump vs. Harris showdown**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/trump-harris-debate-rules-2024/).
 
 ## Requirements
 - Python 3.8
