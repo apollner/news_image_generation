@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Kat Middleton tells Prince William in cancer vid: Lip reader reveals**
+**Trabuco Canyon fire scorches more than 9,000 acres; evacuation orders in effect**
 
-You can read more about it [here](https://www.geo.tv/latest/563626-what-kat-middleton-tells-prince-william-in-cancer-vid-lip-reader-reveals).
+You can read more about it [here](https://abc7.com/post/airport-fire-orange-countys-trabuco-canyon-burns-more-8500-acres/15285775/).
 
 ## Requirements
 - Python 3.8
