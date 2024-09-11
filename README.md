@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Line and Davis fires grow in California and Nevada, displacing thousands**
+**Furious DirecTV customers still in dark for Jets-49ers on ‘MNF’ as dispute with Disney continues**
 
-You can read more about it [here](https://www.cnn.com/2024/09/09/us/wildfires-spread-california-nevada-monday/index.html).
+You can read more about it [here](https://nypost.com/2024/09/09/sports/directv-customers-still-in-dark-for-jets-49ers-on-mnf-as-disney-dispute-continues/).
 
 ## Requirements
 - Python 3.8
