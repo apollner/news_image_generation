@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton shares health update along with new family photos**
+**Hurricane warning issued for southern Louisiana as Francine strengthens in gulf**
 
-You can read more about it [here](https://www.goodmorningamerica.com/culture/story/kate-middleton-completed-chemotherapy-113156389).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/09/tropical-storm-francine-louisiana-hurricane-watch/).
 
 ## Requirements
 - Python 3.8
