@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Preorder Countdown: Release Date, Price, Colors for Apple's Newest Phones**
+**AirPods Will Soon Be Hearing Aids—and More From Apple’s New AirPod Lineup**
 
-You can read more about it [here](https://www.cnet.com/deals/iphone-16-preorder-countdown-release-date-price-colors-for-apples-newest-phones/).
+You can read more about it [here](https://www.wsj.com/tech/personal-tech/apple-airpods-4-max-features-c3bfaf2a).
 
 ## Requirements
 - Python 3.8
