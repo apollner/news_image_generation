@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate Middleton and Prince William Change Profile Photos on Social Media as She Completes Chemo**
+**Harris v. Trump CBS News poll: Ahead of debate, here's what voters are saying about the candidates**
 
-You can read more about it [here](https://people.com/kate-middleton-prince-william-change-profile-photos-social-media-she-completes-chemo-8709440).
+You can read more about it [here](https://www.cbsnews.com/news/harris-trump-poll-before-first-debate/).
 
 ## Requirements
 - Python 3.8
