@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How ABC presidential debate rules work for tonight's Trump vs. Harris showdown**
+**Civil Rights Group Color Of Change Calls Out CMA Awards for Beyoncé Snub (Exclusive)**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-harris-debate-rules-2024/).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/color-of-change-cma-awards-beyonce-snub-1235996656/).
 
 ## Requirements
 - Python 3.8
