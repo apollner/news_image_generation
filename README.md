@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX set to launch Polaris Dawn crew on daring excursion into Earth’s radiation belts**
+**Line and Davis fires grow in California and Nevada, displacing thousands**
 
-You can read more about it [here](https://www.cnn.com/2024/09/10/science/polaris-dawn-mission-spacex-launch/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/09/us/wildfires-spread-california-nevada-monday/index.html).
 
 ## Requirements
 - Python 3.8
