@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Furious DirecTV customers still in dark for Jets-49ers on ‘MNF’ as dispute with Disney continues**
+**Ukraine attacks Russia with 144 drones, killing one and closing airports**
 
-You can read more about it [here](https://nypost.com/2024/09/09/sports/directv-customers-still-in-dark-for-jets-49ers-on-mnf-as-disney-dispute-continues/).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-destroys-ukraine-launched-drone-flying-towards-moscow-mayor-says-2024-09-09/).
 
 ## Requirements
 - Python 3.8
