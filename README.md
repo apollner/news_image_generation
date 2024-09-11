@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hakeem Jeffries rejects GOP spending bill as ‘unserious and unacceptable’**
+**Apple will release iOS 18, macOS 15, iPadOS 18, other updates on September 16**
 
-You can read more about it [here](https://apnews.com/article/congress-budget-shutdown-voter-registration-jeffries-johnson-trump-harris-b9e39b9073c074d6a1b0f34b3910a378).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/09/apple-will-release-ios-18-macos-15-ipados-18-other-updates-on-september-16th/).
 
 ## Requirements
 - Python 3.8
