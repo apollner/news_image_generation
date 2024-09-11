@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris v. Trump CBS News poll: Ahead of debate, here's what voters are saying about the candidates**
+**'The Office': Melvin Gregg, Chelsea Frei & Ramona Young Join Spinoff**
 
-You can read more about it [here](https://www.cbsnews.com/news/harris-trump-poll-before-first-debate/).
+You can read more about it [here](http://deadline.com/2024/09/the-office-spinoff-melvin-gregg-chelsea-frei-ramona-young-peacock-1236083711/).
 
 ## Requirements
 - Python 3.8
