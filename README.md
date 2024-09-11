@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis gets rockstar welcome in the world’s most Catholic nation outside of Vatican City**
+**iPhone 16 Preorder Countdown: Release Date, Price, Colors for Apple's Newest Phones**
 
-You can read more about it [here](https://www.cnn.com/2024/09/09/asia/pope-francis-east-timor-intl-hnk/index.html).
+You can read more about it [here](https://www.cnet.com/deals/iphone-16-preorder-countdown-release-date-price-colors-for-apples-newest-phones/).
 
 ## Requirements
 - Python 3.8
