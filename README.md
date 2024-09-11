@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine attacks Russia with 144 drones, killing one and closing airports**
+**SpaceX set to launch billionaire's private crew on breakthrough spacewalk mission**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-destroys-ukraine-launched-drone-flying-towards-moscow-mayor-says-2024-09-09/).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-set-launch-billionaires-private-crew-breakthrough-spacewalk-mission-2024-09-10/).
 
 ## Requirements
 - Python 3.8
