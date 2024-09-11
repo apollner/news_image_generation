@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fourth case of dangerous EEE confirmed in Mass. this season**
+**Hakeem Jeffries rejects GOP spending bill as ‘unserious and unacceptable’**
 
-You can read more about it [here](https://www.wcvb.com/article/eee-case-massachusetts-middlesex-county-sept-9-2024/62121473).
+You can read more about it [here](https://apnews.com/article/congress-budget-shutdown-voter-registration-jeffries-johnson-trump-harris-b9e39b9073c074d6a1b0f34b3910a378).
 
 ## Requirements
 - Python 3.8
