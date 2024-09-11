@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Map: Track tropical storm Francine’s path, forecast, and hurricane status**
+**JD Vance spreads debunked claims about Haitian immigrants eating pets**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/tropical-storm-francine-path-forecast-hurricane-status-map-track-rcna170274).
+You can read more about it [here](https://www.npr.org/2024/09/10/nx-s1-5107320/jd-vance-springfield-ohio-haitians-pets).
 
 ## Requirements
 - Python 3.8
