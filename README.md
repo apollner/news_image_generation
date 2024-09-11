@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Lots is closing stores and filing for bankruptcy**
+**iPhone 16 Preorder Countdown: Release Date, Price, Colors for Apple's Newest Phones**
 
-You can read more about it [here](https://www.npr.org/2024/09/10/nx-s1-5107351/big-lots-bankruptcy).
+You can read more about it [here](https://www.cnet.com/deals/iphone-16-preorder-countdown-release-date-price-colors-for-apples-newest-phones/).
 
 ## Requirements
 - Python 3.8
