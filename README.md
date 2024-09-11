@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Chromecast with Google TV update rolling out**
+**SpaceX set to launch billionaire's private crew on breakthrough spacewalk mission**
 
-You can read more about it [here](http://9to5google.com/2024/09/09/chromecast-google-tv-update-july-2024/).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-set-launch-billionaires-private-crew-breakthrough-spacewalk-mission-2024-09-10/).
 
 ## Requirements
 - Python 3.8
