@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Civil Rights Group Color Of Change Calls Out CMA Awards for Beyoncé Snub (Exclusive)**
+**Southwest Airlines caves activist investor pressure, shakes up board**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/color-of-change-cma-awards-beyonce-snub-1235996656/).
+You can read more about it [here](https://www.dallasnews.com/business/airlines/2024/09/10/southwest-airlines-caves-activist-investor-pressure-shakes-up-board/).
 
 ## Requirements
 - Python 3.8
