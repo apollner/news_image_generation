@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Tuesday, September 10, 2024**
+**An Israeli strike on a Gaza humanitarian zone tent camp kills at least 40 people, Palestinians say**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/10/horoscope-for-tuesday-september-10-2024).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-september-10-2024-3e1435277993d03de61f4e1c7494deec).
 
 ## Requirements
 - Python 3.8
