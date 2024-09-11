@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Machinists chief expects members will reject deal he made and strike**
+**Morgan Wallen faces off with Jelly Roll, Lainey Wilson for top country music award**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-machinists-union-chief-expects-members-will-reject-deal-strike/).
+You can read more about it [here](https://www.foxnews.com/entertainment/morgan-wallen-faces-off-jelly-roll-lainey-wilson-top-country-music-award).
 
 ## Requirements
 - Python 3.8
