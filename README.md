@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines caves activist investor pressure, shakes up board**
+**Kate Middleton and Prince William Change Profile Photos on Social Media as She Completes Chemo**
 
-You can read more about it [here](https://www.dallasnews.com/business/airlines/2024/09/10/southwest-airlines-caves-activist-investor-pressure-shakes-up-board/).
+You can read more about it [here](https://people.com/kate-middleton-prince-william-change-profile-photos-social-media-she-completes-chemo-8709440).
 
 ## Requirements
 - Python 3.8
