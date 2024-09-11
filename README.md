@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Wallen faces off with Jelly Roll, Lainey Wilson for top country music award**
+**Why the ‘one-two punch’ of Liz and Dick Cheney backing Harris matters**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/morgan-wallen-faces-off-jelly-roll-lainey-wilson-top-country-music-award).
+You can read more about it [here](https://www.politico.com/news/2024/09/09/liz-cheney-trump-kamala-harris-00178093).
 
 ## Requirements
 - Python 3.8
