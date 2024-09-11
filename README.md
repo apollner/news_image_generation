@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney-DirecTV Carriage Fight Goes On As ‘Monday Night Football’ Kicks Off; POTUS Debate & Emmys In Jeopardy**
+**Morgan Wallen faces off with Jelly Roll, Lainey Wilson for top country music award**
 
-You can read more about it [here](http://deadline.com/2024/09/disney-directv-carriage-dispute-latest-1236082591/).
+You can read more about it [here](https://www.foxnews.com/entertainment/morgan-wallen-faces-off-jelly-roll-lainey-wilson-top-country-music-award).
 
 ## Requirements
 - Python 3.8
