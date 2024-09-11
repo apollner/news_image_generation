@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why the ‘one-two punch’ of Liz and Dick Cheney backing Harris matters**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/09/liz-cheney-trump-kamala-harris-00178093).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
