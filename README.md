@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Preorder Countdown: Release Date, Price, Colors for Apple's Newest Phones**
+**Huawei’s new tri-fold phone costs more than a 16-inch MacBook Pro**
 
-You can read more about it [here](https://www.cnet.com/deals/iphone-16-preorder-countdown-release-date-price-colors-for-apples-newest-phones/).
+You can read more about it [here](https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch).
 
 ## Requirements
 - Python 3.8
