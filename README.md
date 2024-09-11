@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**SpaceX set to launch Polaris Dawn crew on daring excursion into Earth’s radiation belts**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/09/10/science/polaris-dawn-mission-spacex-launch/index.html).
 
 ## Requirements
 - Python 3.8
