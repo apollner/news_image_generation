@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huawei’s new tri-fold phone costs more than a 16-inch MacBook Pro**
+**Big Lots is closing stores and filing for bankruptcy**
 
-You can read more about it [here](https://www.theverge.com/2024/9/10/24240700/huawei-mate-xt-ultimate-design-tri-fold-price-launch).
+You can read more about it [here](https://www.npr.org/2024/09/10/nx-s1-5107351/big-lots-bankruptcy).
 
 ## Requirements
 - Python 3.8
