@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli strike on a Gaza humanitarian zone tent camp kills at least 40 people, Palestinians say**
+**49ers' win over Jets ends with final score that's never been seen before in NFL history**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-news-september-10-2024-3e1435277993d03de61f4e1c7494deec).
+You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-win-over-jets-ends-with-final-score-thats-never-been-seen-before-in-nfl-history/).
 
 ## Requirements
 - Python 3.8
