@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Kennedy's name stays on the ballot, Michigan Supreme Court says**
+**Hakeem Jeffries rejects GOP spending bill as ‘unserious and unacceptable’**
 
-You can read more about it [here](https://www.detroitnews.com/story/news/politics/2024/09/09/robert-kennedy-rfk-jr-name-stays-on-ballot-michigan-supreme-court-ruling-donald-trump-kamala-harris/75141686007/).
+You can read more about it [here](https://apnews.com/article/congress-budget-shutdown-voter-registration-jeffries-johnson-trump-harris-b9e39b9073c074d6a1b0f34b3910a378).
 
 ## Requirements
 - Python 3.8
