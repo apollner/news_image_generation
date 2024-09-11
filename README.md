@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers' win over Jets ends with final score that's never been seen before in NFL history**
+**Pope Francis gets rockstar welcome in the world’s most Catholic nation outside of Vatican City**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/49ers-win-over-jets-ends-with-final-score-thats-never-been-seen-before-in-nfl-history/).
+You can read more about it [here](https://www.cnn.com/2024/09/09/asia/pope-francis-east-timor-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
