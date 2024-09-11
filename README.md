@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JD Vance spreads debunked claims about Haitian immigrants eating pets**
+**What Kat Middleton tells Prince William in cancer vid: Lip reader reveals**
 
-You can read more about it [here](https://www.npr.org/2024/09/10/nx-s1-5107320/jd-vance-springfield-ohio-haitians-pets).
+You can read more about it [here](https://www.geo.tv/latest/563626-what-kat-middleton-tells-prince-william-in-cancer-vid-lip-reader-reveals).
 
 ## Requirements
 - Python 3.8
