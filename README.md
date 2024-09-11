@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AirPods Will Soon Be Hearing Aids—and More From Apple’s New AirPod Lineup**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/tech/personal-tech/apple-airpods-4-max-features-c3bfaf2a).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
