@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX set to launch billionaire's private crew on breakthrough spacewalk mission**
+**Horoscope for Tuesday, September 10, 2024**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-set-launch-billionaires-private-crew-breakthrough-spacewalk-mission-2024-09-10/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/10/horoscope-for-tuesday-september-10-2024).
 
 ## Requirements
 - Python 3.8
