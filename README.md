@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jewelry seized from Polish inmates of Nazi German concentration camps is returned to families**
+**Fantasy Football Week 2 Rankings (Full-PPR)**
 
-You can read more about it [here](https://apnews.com/article/poland-germany-world-war-nazis-property-families-04e19cfafb7d336d01fe5d5f26c5687a).
+You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-2-rankings-full-ppr-185951893.html).
 
 ## Requirements
 - Python 3.8
