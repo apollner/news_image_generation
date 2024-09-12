@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hanoi flooded by swollen river as Typhoon Yagi leaves 155 dead**
+**Chappell Roan’s rise to stardom has been 10 years in the making. Here’s how she became famous**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/flood-waters-vietnam-threatening-inundate-hanoi-districts-2024-09-11/).
+You can read more about it [here](https://www.cnn.com/2024/09/11/entertainment/chappell-roan-who-is-cec/index.html).
 
 ## Requirements
 - Python 3.8
