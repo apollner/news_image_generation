@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Louisiana braces as Hurricane Francine barrels in**
+**Jewelry seized from Polish inmates of Nazi German concentration camps is returned to families**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cn5r07e94q3o).
+You can read more about it [here](https://apnews.com/article/poland-germany-world-war-nazis-property-families-04e19cfafb7d336d01fe5d5f26c5687a).
 
 ## Requirements
 - Python 3.8
