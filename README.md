@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyreek Hill says he could have handled his traffic stop better but he still wants the officer fired**
+**Mpox in DR Congo: Medics plead for vaccines as rate of infections increases**
 
-You can read more about it [here](https://apnews.com/article/tyreek-hill-miami-dolphins-8d8f5fd2e9235b5df1ec04ab0a26ece7).
+You can read more about it [here](https://www.bbc.com/news/articles/c4gen21ln7go).
 
 ## Requirements
 - Python 3.8
