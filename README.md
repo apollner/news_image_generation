@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mpox in DR Congo: Medics plead for vaccines as rate of infections increases**
+**The 49ers have a Christian McCaffrey problem**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4gen21ln7go).
+You can read more about it [here](https://www.sfgate.com/49ers/article/49ers-have-christian-mccaffrey-concerns-19757740.php).
 
 ## Requirements
 - Python 3.8
