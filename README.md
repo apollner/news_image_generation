@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Map: See where fires are burning in Southern California**
+**Delta planes collide on taxiways at Hartsfield-Jackson Atlanta airport; NTSB investigating**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/california-wildfires/map-see-where-fires-are-burning-in-southern-california/3507799/).
+You can read more about it [here](https://www.fox5atlanta.com/news/passengers-report-ground-collision-between-2-delta-planes-atlantas-airport).
 
 ## Requirements
 - Python 3.8
