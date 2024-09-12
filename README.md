@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election officials warn that widespread problems with the US mail system could disrupt voting**
+**Israeli airstrikes hit UN school and homes in Gaza, killing at least 34 people, hospitals say**
 
-You can read more about it [here](https://apnews.com/article/election-2024-mail-ballots-voting-postal-service-985dd6e483fb6dc593d83255b11a9d0a).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-school-hospital-displaced-44f93845d6b6cfc9dcc4d0ba37bdd263).
 
 ## Requirements
 - Python 3.8
