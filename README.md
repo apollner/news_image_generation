@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 2 Rankings (Full-PPR)**
+**Fact-checking the Trump-Harris debate. And, food delivery could help the environment**
 
-You can read more about it [here](https://sports.yahoo.com/fantasy-football-week-2-rankings-full-ppr-185951893.html).
+You can read more about it [here](https://www.npr.org/2024/09/11/g-s1-22048/up-first-newsletter-trump-harris-debate-taylor-swift-endorsement-food-delivery-environmentally-friendly).
 
 ## Requirements
 - Python 3.8
