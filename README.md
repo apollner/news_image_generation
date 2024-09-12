@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows Delta plane's tail severed after collision while taxiing at Atlanta airport**
+**Taylor Swift endorses Kamala Harris for president in post signed 'Childless Cat Lady'**
 
-You can read more about it [here](https://www.foxnews.com/us/video-shows-delta-plane-tail-wing-severed-after-collision-while-taxiing-atlanta-airport).
+You can read more about it [here](https://www.bbc.com/news/articles/c89w4110n89o).
 
 ## Requirements
 - Python 3.8
