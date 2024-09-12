@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USMNT finally gets its coach: Mauricio Pochettino finalizes long-awaited deal**
+**Reflection 70B model maker breaks silence amid fraud accusations**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/09/10/mauricio-pochettino-usmnt-coach/).
+You can read more about it [here](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations/).
 
 ## Requirements
 - Python 3.8
