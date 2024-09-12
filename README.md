@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris rouses a defensive Donald Trump in heated US presidential debate**
+**Video shows Delta plane's tail severed after collision while taxiing at Atlanta airport**
 
-You can read more about it [here](https://www.france24.com/en/americas/20240911-kamala-harris-rouses-a-defensive-donald-trump-in-heated-us-presidential-debate).
+You can read more about it [here](https://www.foxnews.com/us/video-shows-delta-plane-tail-wing-severed-after-collision-while-taxiing-atlanta-airport).
 
 ## Requirements
 - Python 3.8
