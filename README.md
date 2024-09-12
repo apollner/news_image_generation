@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frankie Beverly, exuberant singer-songwriter for Maze, dies at 77**
+**Android apps are blocking sideloading and forcing Google Play versions instead**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/11/frankie-beverly-maze-dead/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/).
 
 ## Requirements
 - Python 3.8
