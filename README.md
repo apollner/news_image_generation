@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reflection 70B model maker breaks silence amid fraud accusations**
+**Kamala Harris rouses a defensive Donald Trump in heated US presidential debate**
 
-You can read more about it [here](https://venturebeat.com/ai/reflection-70b-model-maker-breaks-silence-amid-fraud-accusations/).
+You can read more about it [here](https://www.france24.com/en/americas/20240911-kamala-harris-rouses-a-defensive-donald-trump-in-heated-us-presidential-debate).
 
 ## Requirements
 - Python 3.8
