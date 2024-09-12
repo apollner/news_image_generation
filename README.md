@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trans lawmaker Sarah McBride could make history after Delaware primary win**
+**SpaceX launches 'Polaris Dawn' mission with all-civilian crew | DW News**
 
-You can read more about it [here](https://www.nbcnews.com/nbc-out/out-politics-and-policy/sarah-mcbride-delaware-primary-win-congress-rcna169758).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
