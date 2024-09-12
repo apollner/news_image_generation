@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate’s soft-focus Insta-ready video marks a shift in how royals tell their story**
+**New Starbucks CEO pledges to end ‘drift’ from its coffee house roots**
 
-You can read more about it [here](https://apnews.com/article/britain-royals-kate-video-cf5a3c2b799a9599787f5926f4398439).
+You can read more about it [here](https://www.ft.com/content/c920ec4a-cc00-484f-afc4-9131ef0bf764).
 
 ## Requirements
 - Python 3.8
