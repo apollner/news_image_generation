@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trabuco Canyon fire scorches more than 9,000 acres; evacuation orders in effect**
+**Abortion-rights measure will be on Missouri’s November ballot, court rules**
 
-You can read more about it [here](https://abc7.com/post/airport-fire-orange-countys-trabuco-canyon-burns-more-8500-acres/15285775/).
+You can read more about it [here](https://apnews.com/article/abortion-missouri-ballot-election-c284f4fe17a23b63a4528bc2b2051943).
 
 ## Requirements
 - Python 3.8
