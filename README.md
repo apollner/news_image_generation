@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Android apps are blocking sideloading and forcing Google Play versions instead**
+**During Tuesday's debate, Harris was in command; Trump was incoherent**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/09/android-now-allows-apps-to-block-sideloading-and-push-a-google-play-version/).
+You can read more about it [here](https://www.npr.org/2024/09/11/1198913419/during-tuesdays-debate-harris-was-in-command-trump-was-incoherent).
 
 ## Requirements
 - Python 3.8
