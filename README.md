@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abortion-rights measure will be on Missouri’s November ballot, court rules**
+**Southwest Airlines chairman to retire, 6 board members to resign after push from major shareholder**
 
-You can read more about it [here](https://apnews.com/article/abortion-missouri-ballot-election-c284f4fe17a23b63a4528bc2b2051943).
+You can read more about it [here](https://www.cbsnews.com/texas/news/southwest-airlines-shakeup-board-chairman-gary-kelly/).
 
 ## Requirements
 - Python 3.8
