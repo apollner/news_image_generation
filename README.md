@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Starbucks CEO pledges to end ‘drift’ from its coffee house roots**
+**Map: See where fires are burning in Southern California**
 
-You can read more about it [here](https://www.ft.com/content/c920ec4a-cc00-484f-afc4-9131ef0bf764).
+You can read more about it [here](https://www.nbclosangeles.com/news/california-wildfires/map-see-where-fires-are-burning-in-southern-california/3507799/).
 
 ## Requirements
 - Python 3.8
