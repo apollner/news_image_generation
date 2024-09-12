@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumer inflation slows to lowest rate since February 2021**
+**Election officials warn that widespread problems with the US mail system could disrupt voting**
 
-You can read more about it [here](https://www.cnn.com/2024/09/11/economy/us-cpi-consumer-price-index-inflation-august/index.html).
+You can read more about it [here](https://apnews.com/article/election-2024-mail-ballots-voting-postal-service-985dd6e483fb6dc593d83255b11a9d0a).
 
 ## Requirements
 - Python 3.8
