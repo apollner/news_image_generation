@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-checking the Trump-Harris debate. And, food delivery could help the environment**
+**US commemorates 9/11 attacks with victims in focus and politics in view**
 
-You can read more about it [here](https://www.npr.org/2024/09/11/g-s1-22048/up-first-newsletter-trump-harris-debate-taylor-swift-endorsement-food-delivery-environmentally-friendly).
+You can read more about it [here](https://apnews.com/article/911-attacks-anniversary-2024-52ddad8ed7f62e155644f0ae6eda96ec).
 
 ## Requirements
 - Python 3.8
