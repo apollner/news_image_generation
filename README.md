@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 'Polaris Dawn' mission with all-civilian crew | DW News**
+**USMNT finally gets its coach: Mauricio Pochettino finalizes long-awaited deal**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/09/10/mauricio-pochettino-usmnt-coach/).
 
 ## Requirements
 - Python 3.8
