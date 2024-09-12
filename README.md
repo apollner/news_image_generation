@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Speaker Johnson pulls Wednesday vote on government funding plan amid GOP divisions**
+**Frankie Beverly, exuberant singer-songwriter for Maze, dies at 77**
 
-You can read more about it [here](https://www.cnn.com/2024/09/11/politics/gop-funding-push-house-vote/index.html).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/11/frankie-beverly-maze-dead/).
 
 ## Requirements
 - Python 3.8
