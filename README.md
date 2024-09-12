@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrikes hit UN school and homes in Gaza, killing at least 34 people, hospitals say**
+**Tyreek Hill says he could have handled his traffic stop better but he still wants the officer fired**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-school-hospital-displaced-44f93845d6b6cfc9dcc4d0ba37bdd263).
+You can read more about it [here](https://apnews.com/article/tyreek-hill-miami-dolphins-8d8f5fd2e9235b5df1ec04ab0a26ece7).
 
 ## Requirements
 - Python 3.8
