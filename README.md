@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 49ers have a Christian McCaffrey problem**
+**9/11 anniversary brings Biden, Harris and Trump together at ground zero**
 
-You can read more about it [here](https://www.sfgate.com/49ers/article/49ers-have-christian-mccaffrey-concerns-19757740.php).
+You can read more about it [here](https://apnews.com/article/911-attacks-anniversary-2024-52ddad8ed7f62e155644f0ae6eda96ec).
 
 ## Requirements
 - Python 3.8
