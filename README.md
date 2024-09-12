@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift endorses Kamala Harris for president in post signed 'Childless Cat Lady'**
+**Dave Grohl fathers child outside of his marriage**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c89w4110n89o).
+You can read more about it [here](https://www.bbc.com/news/articles/czdp9y7ree5o).
 
 ## Requirements
 - Python 3.8
