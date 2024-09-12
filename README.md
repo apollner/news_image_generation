@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**9/11 anniversary brings Biden, Harris and Trump together at ground zero**
+**Speaker Johnson pulls Wednesday vote on government funding plan amid GOP divisions**
 
-You can read more about it [here](https://apnews.com/article/911-attacks-anniversary-2024-52ddad8ed7f62e155644f0ae6eda96ec).
+You can read more about it [here](https://www.cnn.com/2024/09/11/politics/gop-funding-push-house-vote/index.html).
 
 ## Requirements
 - Python 3.8
