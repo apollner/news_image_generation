@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delta planes collide on taxiways at Hartsfield-Jackson Atlanta airport; NTSB investigating**
+**iPhone 16 Pro: Price, Design Update And Battery Life Confirmed In Apple Launch**
 
-You can read more about it [here](https://www.fox5atlanta.com/news/passengers-report-ground-collision-between-2-delta-planes-atlantas-airport).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/09/10/iphone-16-pro-price-design-update-and-battery-life-leaked-in-new-report/).
 
 ## Requirements
 - Python 3.8
