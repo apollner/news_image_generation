@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Restaurant chain BurgerFi files for Chapter 11 bankruptcy protection**
+**Consumer inflation slows to lowest rate since February 2021**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/11/restaurant-chain-burgerfi-files-for-chapter-11-bankruptcy-protection.html).
+You can read more about it [here](https://www.cnn.com/2024/09/11/economy/us-cpi-consumer-price-index-inflation-august/index.html).
 
 ## Requirements
 - Python 3.8
