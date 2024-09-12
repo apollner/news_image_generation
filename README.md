@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines chairman to retire, 6 board members to resign after push from major shareholder**
+**Democrats frustrated with poll showing voters see Trump as more moderate**
 
-You can read more about it [here](https://www.cbsnews.com/texas/news/southwest-airlines-shakeup-board-chairman-gary-kelly/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4872379-democrats-frustrated-polling-trump/).
 
 ## Requirements
 - Python 3.8
