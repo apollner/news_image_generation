@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mammograms will better explain what it means to have dense breasts**
+**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 2**
 
-You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/09/11/nx-s1-5106379/dense-breasts-mammogram-screening-fda).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-2).
 
 ## Requirements
 - Python 3.8
