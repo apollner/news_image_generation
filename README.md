@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins coaches, players react to 'emotional' and 'triggering' footage of Tyreek Hill traffic stop**
+**Kate’s soft-focus Insta-ready video marks a shift in how royals tell their story**
 
-You can read more about it [here](https://apnews.com/article/dolphins-tyreek-hill-police-ce09cf12bfaa8644e6e2b44f57e932e4).
+You can read more about it [here](https://apnews.com/article/britain-royals-kate-video-cf5a3c2b799a9599787f5926f4398439).
 
 ## Requirements
 - Python 3.8
