@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark makes recommendation to Americans after liking Taylor Swift's Harris endorsement post**
+**Trump falsely claims Democrats support abortions "after birth." Here's a fact check.**
 
-You can read more about it [here](https://www.foxnews.com/sports/caitlin-clark-makes-recommendation-americans-after-liking-taylor-swifts-harris-endorsement-post).
+You can read more about it [here](https://www.cbsnews.com/news/trump-falsely-claims-democrats-support-abortions-after-birth/).
 
 ## Requirements
 - Python 3.8
