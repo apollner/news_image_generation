@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's When iPhone 16 Pre-Orders Begin in Every Time Zone**
+**Laura Loomer, far-right provocateur who spread 9/11 conspiracy theory, influencing Trump as he searches for a message**
 
-You can read more about it [here](https://www.macrumors.com/2024/09/12/iphone-16-pre-orders-every-time-zone/).
+You can read more about it [here](https://www.cnn.com/2024/09/12/politics/laura-loomer-donald-trump-influence/index.html).
 
 ## Requirements
 - Python 3.8
