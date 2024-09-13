@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The VIX is calm, but another volatility gauge is red flag: Société Générale.**
+**Polaris Dawn crew conducts first all-civilian spacewalk**
 
-You can read more about it [here](https://www.marketwatch.com/story/the-vix-is-calm-but-another-volatility-gauge-is-a-red-flag-says-societe-generale-0f39995a).
+You can read more about it [here](https://www.cbsnews.com/news/polaris-dawn-crew-gears-up-for-first-commercial-non-government-spacewalk/).
 
 ## Requirements
 - Python 3.8
