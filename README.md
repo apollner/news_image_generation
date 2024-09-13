@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio dad tells Trump to stop using son's death for 'political gain'**
+**CNBC Daily Open: Moving past sticky core inflation**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj35kk42k5vo).
+You can read more about it [here](https://www.cnbc.com/2024/09/12/cnbc-daily-open-moving-past-sticky-core-inflation.html).
 
 ## Requirements
 - Python 3.8
