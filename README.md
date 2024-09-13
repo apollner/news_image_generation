@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shelter Inflation Makes Bigger Rate Cut Less Likely**
+**Taylor Swift drove more than 337,000 visitors to vote.gov with Kamala Harris endorsement**
 
-You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-august-2024-inflation-09-11-2024).
+You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-kamala-harris-endorsement-vote-gov/).
 
 ## Requirements
 - Python 3.8
