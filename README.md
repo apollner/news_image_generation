@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alberto Fujimori, a former president of Peru who was convicted for human rights abuses, dies at 86**
+**Russian drones pound power system in Sumy region town, 14 people hurt, Ukraine says**
 
-You can read more about it [here](https://apnews.com/article/fujimori-peru-lima-died-777fdfcb09eafd731a7412c8bf1a2f64).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-drones-pound-power-system-sumy-region-town-14-people-hurt-ukraine-says-2024-09-12/).
 
 ## Requirements
 - Python 3.8
