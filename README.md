@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**650-foot tsunami in Greenland made waves for days, scientists find**
+**Berkshire Hathaway’s Jain Sells Over Half of Class A Shares**
 
-You can read more about it [here](https://www.nbcnews.com/science/environment/650-foot-tsunami-greenland-rcna170322).
+You can read more about it [here](https://finance.yahoo.com/news/berkshire-hathaway-jain-sells-over-143854442.html).
 
 ## Requirements
 - Python 3.8
