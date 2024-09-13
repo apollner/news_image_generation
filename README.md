@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**VMAs 2024: Best and worst moments, from Taylor Swift and Eminem to Sabrina Carpenter and Katy Perry**
+**Microsoft adds quantum-resistant algorithms to its core crypto library**
 
-You can read more about it [here](https://nypost.com/2024/09/12/entertainment/vmas-2024-best-and-worst-moments-from-taylor-swift-and-eminem-to-sabrina-carpenter-and-katy-perry/).
+You can read more about it [here](https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/).
 
 ## Requirements
 - Python 3.8
