@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio Gov. Mike DeWine pushes back on fake migrant story amplified by Trump: "The internet can be quite crazy"**
+**Peru's Fujimori, divisive head of political dynasty, dies age 86**
 
-You can read more about it [here](https://www.cbsnews.com/news/mike-dewine-haitian-migrants-pets-springfield-trump/).
+You can read more about it [here](https://www.reuters.com/world/americas/peru-ex-president-fujimori-dies-86-2024-09-11/).
 
 ## Requirements
 - Python 3.8
