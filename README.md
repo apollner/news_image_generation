@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Wants to Replace Jeff Bezos as Musk’s Greatest Space Threat**
+**Trump falsely accuses immigrants in Ohio of abducting and eating pets**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-11/china-inc-tries-to-replicate-spacex-s-reusable-rockets).
+You can read more about it [here](https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5).
 
 ## Requirements
 - Python 3.8
