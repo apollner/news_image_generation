@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ECB cuts interest rates as growth dwindles**
+**Thursday Night Football odds, line, time, spread: Bills vs. Dolphins picks from Buffalo expert on 40-27 roll**
 
-You can read more about it [here](https://www.reuters.com/markets/rates-bonds/ecb-cut-interest-rates-growth-dwindles-outlook-unclear-2024-09-11/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/thursday-night-football-odds-line-time-spread-bills-vs-dolphins-picks-from-buffalo-expert-on-40-27-roll/).
 
 ## Requirements
 - Python 3.8
