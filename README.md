@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut Don Pettit makes fourth trip to the International Space Station**
+**VMAs 2024: Best and worst moments, from Taylor Swift and Eminem to Sabrina Carpenter and Katy Perry**
 
-You can read more about it [here](https://spaceflightnow.com/2024/09/11/nasa-astronaut-don-pettit-to-make-fourth-trip-to-the-international-space-station/).
+You can read more about it [here](https://nypost.com/2024/09/12/entertainment/vmas-2024-best-and-worst-moments-from-taylor-swift-and-eminem-to-sabrina-carpenter-and-katy-perry/).
 
 ## Requirements
 - Python 3.8
