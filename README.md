@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investors scramble to shift positions after Trump-Harris debate**
+**China Wants to Replace Jeff Bezos as Musk’s Greatest Space Threat**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2024/9/11/investors-scramble-to-shift-positions-after-trump-harris-debate).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-11/china-inc-tries-to-replicate-spacex-s-reusable-rockets).
 
 ## Requirements
 - Python 3.8
