@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CFB insiders' buzz: The future of nonconference play, Michigan's bleak outlook and upset picks**
+**The VIX is calm, but another volatility gauge is red flag: Société Générale.**
 
-You can read more about it [here](https://www.espn.com/college-football/insider/story/_/id/41220299/college-football-week-3-texas-michigan-ohio-state-upset-picks).
+You can read more about it [here](https://www.marketwatch.com/story/the-vix-is-calm-but-another-volatility-gauge-is-a-red-flag-says-societe-generale-0f39995a).
 
 ## Requirements
 - Python 3.8
