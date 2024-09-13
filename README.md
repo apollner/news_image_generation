@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**67 million watched first Harris-Trump debate, blowing past Biden matchup**
+**Ohio Gov. Mike DeWine pushes back on fake migrant story amplified by Trump: "The internet can be quite crazy"**
 
-You can read more about it [here](https://www.cnn.com/2024/09/11/media/debate-ratings-abc-trump-harris-2024-election/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/mike-dewine-haitian-migrants-pets-springfield-trump/).
 
 ## Requirements
 - Python 3.8
