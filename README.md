@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**67 million watched first Harris-Trump debate, blowing past Biden matchup**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/09/11/media/debate-ratings-abc-trump-harris-2024-election/index.html).
 
 ## Requirements
 - Python 3.8
