@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New video, witnesses challenge Israel’s account of U.S. activist’s killing**
+**Caitlin Clark makes recommendation to Americans after liking Taylor Swift's Harris endorsement post**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/11/american-activist-aysenur-eygi-killed-idf-west-bank/).
+You can read more about it [here](https://www.foxnews.com/sports/caitlin-clark-makes-recommendation-americans-after-liking-taylor-swifts-harris-endorsement-post).
 
 ## Requirements
 - Python 3.8
