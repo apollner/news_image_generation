@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**During Tuesday's debate, Harris was in command; Trump was incoherent**
+**Shelter Inflation Makes Bigger Rate Cut Less Likely**
 
-You can read more about it [here](https://www.npr.org/2024/09/11/1198913419/during-tuesdays-debate-harris-was-in-command-trump-was-incoherent).
+You can read more about it [here](https://www.wsj.com/livecoverage/cpi-report-today-august-2024-inflation-09-11-2024).
 
 ## Requirements
 - Python 3.8
