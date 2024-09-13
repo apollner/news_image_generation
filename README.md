@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watson plaintiff to meet NFL; lawyer teases video**
+**650-foot tsunami in Greenland made waves for days, scientists find**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41232537/woman-suing-browns-deshaun-watson-meet-nfl-lawyer-teases-video).
+You can read more about it [here](https://www.nbcnews.com/science/environment/650-foot-tsunami-greenland-rcna170322).
 
 ## Requirements
 - Python 3.8
