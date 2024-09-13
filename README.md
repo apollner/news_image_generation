@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magnitude-4.7 Malibu earthquake shakes Southern California**
+**Laura Loomer, far-right provocateur who spread 9/11 conspiracy theory, influencing Trump as he searches for a message**
 
-You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/malibu-earthquake-la-quake/3509588/).
+You can read more about it [here](https://www.cnn.com/2024/09/12/politics/laura-loomer-donald-trump-influence/index.html).
 
 ## Requirements
 - Python 3.8
