@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNBC Daily Open: Moving past sticky core inflation**
+**CFB insiders' buzz: The future of nonconference play, Michigan's bleak outlook and upset picks**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/12/cnbc-daily-open-moving-past-sticky-core-inflation.html).
+You can read more about it [here](https://www.espn.com/college-football/insider/story/_/id/41220299/college-football-week-3-texas-michigan-ohio-state-upset-picks).
 
 ## Requirements
 - Python 3.8
