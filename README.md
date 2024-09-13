@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football 2024 Week 2 sleepers: Daniel Jones' favorable matchup; plus, 3 RBs with upside**
+**Stock market today: S&P 500, Nasdaq rise amid more signs of inflation cooldown**
 
-You can read more about it [here](https://www.nfl.com/news/fantasy-football-2024-week-2-sleepers-daniel-jones-favorable-matchup-plus-3-rbs-with-upside).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-amid-more-signs-of-inflation-cooldown-133039450.html).
 
 ## Requirements
 - Python 3.8
