@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump falsely accuses immigrants in Ohio of abducting and eating pets**
+**Johnson delays funding plan as House GOP rebels ahead of shutdown deadline**
 
-You can read more about it [here](https://apnews.com/article/haitian-immigrants-vance-trump-ohio-6e4a47c52b23ae2c802d216369512ca5).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/11/house-republicans-rebel-funding-plan/).
 
 ## Requirements
 - Python 3.8
