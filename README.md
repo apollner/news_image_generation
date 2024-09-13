@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polaris Dawn crew conducts first all-civilian spacewalk**
+**NFL Week 2 Picks From the MMQB Staff: Bengals Return to Arrowhead**
 
-You can read more about it [here](https://www.cbsnews.com/news/polaris-dawn-crew-gears-up-for-first-commercial-non-government-spacewalk/).
+You can read more about it [here](https://www.si.com/nfl/2024-nfl-week-2-staff-expert-picks).
 
 ## Requirements
 - Python 3.8
