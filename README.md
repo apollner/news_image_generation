@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift drove more than 337,000 visitors to vote.gov with Kamala Harris endorsement**
+**Investors scramble to shift positions after Trump-Harris debate**
 
-You can read more about it [here](https://www.cbsnews.com/news/taylor-swift-kamala-harris-endorsement-vote-gov/).
+You can read more about it [here](https://www.aljazeera.com/economy/2024/9/11/investors-scramble-to-shift-positions-after-trump-harris-debate).
 
 ## Requirements
 - Python 3.8
