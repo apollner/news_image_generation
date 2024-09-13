@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump falsely claims Democrats support abortions "after birth." Here's a fact check.**
+**NASA astronaut Don Pettit makes fourth trip to the International Space Station**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-falsely-claims-democrats-support-abortions-after-birth/).
+You can read more about it [here](https://spaceflightnow.com/2024/09/11/nasa-astronaut-don-pettit-to-make-fourth-trip-to-the-international-space-station/).
 
 ## Requirements
 - Python 3.8
