@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JPMorgan, Bank of America to crack down on long work hours after death of Leo Lukenas — who logged 100 hours per week**
+**After more than a century, the Campbell's company drops 'soup' from its name**
 
-You can read more about it [here](https://nypost.com/2024/09/12/business/jpmorgan-bank-of-america-to-curb-long-hours-for-workers-after-fury-over-death-of-leo-lukenas-who-logged-100-hours-per-week/).
+You can read more about it [here](https://www.npr.org/2024/09/12/nx-s1-5110040/campbells-soup-company-name-change).
 
 ## Requirements
 - Python 3.8
