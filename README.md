@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attorney General Merrick Garland denounces 'dangerous' and 'outrageous' attacks on DOJ prosecutors and personnel**
+**Magnitude-4.7 Malibu earthquake shakes Southern California**
 
-You can read more about it [here](https://www.nbcnews.com/politics/justice-department/attorney-general-merrick-garland-attacks-justice-department-trump-rcna170783).
+You can read more about it [here](https://www.nbclosangeles.com/news/earthquakes/malibu-earthquake-la-quake/3509588/).
 
 ## Requirements
 - Python 3.8
