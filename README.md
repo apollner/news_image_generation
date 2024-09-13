@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Parts of Hanoi remain flooded as landslides hit northern Vietnam**
+**Here's When iPhone 16 Pre-Orders Begin in Every Time Zone**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/hanoi-flood-levels-be-little-changed-parts-remain-inundated-weather-agency-2024-09-12/).
+You can read more about it [here](https://www.macrumors.com/2024/09/12/iphone-16-pre-orders-every-time-zone/).
 
 ## Requirements
 - Python 3.8
