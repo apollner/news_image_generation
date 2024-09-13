@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian drones pound power system in Sumy region town, 14 people hurt, Ukraine says**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-drones-pound-power-system-sumy-region-town-14-people-hurt-ukraine-says-2024-09-12/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
