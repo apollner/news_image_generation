@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: S&P 500, Nasdaq rise amid more signs of inflation cooldown**
+**Attorney General Merrick Garland denounces 'dangerous' and 'outrageous' attacks on DOJ prosecutors and personnel**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-rise-amid-more-signs-of-inflation-cooldown-133039450.html).
+You can read more about it [here](https://www.nbcnews.com/politics/justice-department/attorney-general-merrick-garland-attacks-justice-department-trump-rcna170783).
 
 ## Requirements
 - Python 3.8
