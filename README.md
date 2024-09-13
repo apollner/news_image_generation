@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After more than a century, the Campbell's company drops 'soup' from its name**
+**Watson plaintiff to meet NFL; lawyer teases video**
 
-You can read more about it [here](https://www.npr.org/2024/09/12/nx-s1-5110040/campbells-soup-company-name-change).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41232537/woman-suing-browns-deshaun-watson-meet-nfl-lawyer-teases-video).
 
 ## Requirements
 - Python 3.8
