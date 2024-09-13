@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laura Loomer, far-right provocateur who spread 9/11 conspiracy theory, influencing Trump as he searches for a message**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/09/12/politics/laura-loomer-donald-trump-influence/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
