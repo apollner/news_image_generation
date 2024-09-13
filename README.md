@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**JPMorgan, Bank of America to crack down on long work hours after death of Leo Lukenas — who logged 100 hours per week**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2024/09/12/business/jpmorgan-bank-of-america-to-curb-long-hours-for-workers-after-fury-over-death-of-leo-lukenas-who-logged-100-hours-per-week/).
 
 ## Requirements
 - Python 3.8
