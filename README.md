@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Berkshire Hathaway’s Jain Sells Over Half of Class A Shares**
+**New York City police commissioner resigns amid corruption probe**
 
-You can read more about it [here](https://finance.yahoo.com/news/berkshire-hathaway-jain-sells-over-143854442.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c05j5ezy6nro).
 
 ## Requirements
 - Python 3.8
