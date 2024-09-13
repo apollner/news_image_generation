@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft adds quantum-resistant algorithms to its core crypto library**
+**Jon Bon Jovi saves woman from jumping off the edge of the pedestrian bridge**
 
-You can read more about it [here](https://arstechnica.com/security/2024/09/microsoft-adds-quantum-resistant-algorithms-to-its-core-crypto-library/).
+You can read more about it [here](https://www.newschannel5.com/news/jon-bon-jovi-saves-woman-from-jumping-off-the-edge-of-the-pedestrian-bridge).
 
 ## Requirements
 - Python 3.8
