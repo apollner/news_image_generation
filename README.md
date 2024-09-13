@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 Picks From the MMQB Staff: Bengals Return to Arrowhead**
+**ECB cuts interest rates as growth dwindles**
 
-You can read more about it [here](https://www.si.com/nfl/2024-nfl-week-2-staff-expert-picks).
+You can read more about it [here](https://www.reuters.com/markets/rates-bonds/ecb-cut-interest-rates-growth-dwindles-outlook-unclear-2024-09-11/).
 
 ## Requirements
 - Python 3.8
