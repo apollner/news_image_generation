@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jon Bon Jovi saves woman from jumping off the edge of the pedestrian bridge**
+**Alberto Fujimori, a former president of Peru who was convicted for human rights abuses, dies at 86**
 
-You can read more about it [here](https://www.newschannel5.com/news/jon-bon-jovi-saves-woman-from-jumping-off-the-edge-of-the-pedestrian-bridge).
+You can read more about it [here](https://apnews.com/article/fujimori-peru-lima-died-777fdfcb09eafd731a7412c8bf1a2f64).
 
 ## Requirements
 - Python 3.8
