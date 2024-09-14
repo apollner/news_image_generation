@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Off script! Josh Allen with a pass completion to Ty Johnson for a 33-yard gain | Bills at Dolphins**
+**FDA authorizes first OTC hearing aid software to be used in Apple's AirPods Pro**
 
-You can read more about it [here](https://www.buffalobills.com/video/off-script-josh-allen-with-a-pass-completion-to-ty-johnson-for-a-33-yard-gain-bills-at-dolphins).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-authorizes-first-otc-hearing-aid-software-be-used-airpods-pro-headphones-2024-09-12/).
 
 ## Requirements
 - Python 3.8
