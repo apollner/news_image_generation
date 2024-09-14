@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obesity rates are above 20% in every U.S. state, CDC finds. 4 key takeaways from its latest report.**
+**Ukrainian Troops Breached Russian Border Defenses 20 Miles West Of The Kursk Salient—But Didn’t Get Very Far**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/obesity-rates-are-above-20-in-every-us-state-cdc-finds-4-key-takeaways-from-its-latest-report-004648664.html).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/09/13/ukrainian-troops-breached-russian-border-defenses-20-miles-west-of-the-kursk-salient-but-didnt-get-very-far/).
 
 ## Requirements
 - Python 3.8
