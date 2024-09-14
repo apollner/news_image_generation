@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Russia produces new kamikaze drone with Chinese engine, say European intel sources**
+**Justin Timberlake pleads guilty in DWI case**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-produces-new-kamikaze-drone-with-chinese-engine-say-european-intel-2024-09-13/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/justin-timberlake-pleads-guilty-dwi-case-rcna170841).
 
 ## Requirements
 - Python 3.8
