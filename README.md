@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Begins Taking Preorders For AI-Enabled iPhone 16 Handsets**
+**Blazin’ 5: Vikings cover vs. 49ers, Jets beat Titans, Texans over Bears | NFL | THE HERD**
 
-You can read more about it [here](https://www.investors.com/news/technology/apple-stock-iphone-16-preorders-begin/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
