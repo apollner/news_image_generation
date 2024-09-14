@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious seismic event that shook the earth for 9 days was triggered by a 650-foot tsunami in Greenland, researchers say**
+**Justin Timberlake pleads guilty to lesser charge of driving while impaired; issues a public safety announcement**
 
-You can read more about it [here](https://www.cbsnews.com/news/tsunami-greenland-wave-seismic-event/).
+You can read more about it [here](https://www.cnn.com/2024/09/13/entertainment/justin-timberlake-plea-hearing/index.html).
 
 ## Requirements
 - Python 3.8
