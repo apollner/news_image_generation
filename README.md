@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists have solved the mystery of a 650-foot mega-tsunami that made the Earth vibrate for 9 days**
+**Ukrainian Troops Breached Russian Border Defenses 20 Miles West Of The Kursk Salient—But Didn’t Get Very Far**
 
-You can read more about it [here](https://www.cnn.com/2024/09/13/climate/mega-tsunami-landslide-greenland-seismic-signal/index.html).
+You can read more about it [here](https://www.forbes.com/sites/davidaxe/2024/09/13/ukrainian-troops-breached-russian-border-defenses-20-miles-west-of-the-kursk-salient-but-didnt-get-very-far/).
 
 ## Requirements
 - Python 3.8
