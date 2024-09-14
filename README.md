@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what the Boeing strike might mean for flyers**
+**Gold’s an ‘all-weather hedge,’ even if the Fed’s next move isn’t as expected**
 
-You can read more about it [here](https://www.nbcnews.com/business/travel/boeing-strike-travel-impact-rcna171021).
+You can read more about it [here](https://www.marketwatch.com/story/golds-an-all-weather-hedge-against-whatever-happens-next-as-fed-decision-nears-8045ee4d).
 
 ## Requirements
 - Python 3.8
