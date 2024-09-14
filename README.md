@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine says Russia hit grain vessel near NATO member Romania**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russian-missile-hits-civilian-ship-with-ukrainian-grain-black-sea-zelenskiy-says-2024-09-12/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
