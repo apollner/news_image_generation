@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Dakota judge rules state abortion ban unconstitutional**
+**iPhone 16 and iPhone 16 Pro Models Now Available for Pre-Order**
 
-You can read more about it [here](https://www.axios.com/2024/09/12/north-dakota-abortion-ban).
+You can read more about it [here](https://www.macrumors.com/2024/09/13/iphone-16-preorders-now-available/).
 
 ## Requirements
 - Python 3.8
