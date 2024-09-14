@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SoCal reports 14th earthquake sequence of magnitude 4.0 this year - the most since 1988**
+**'We strike at midnight': Boeing machinists vote to reject contract offer, strike**
 
-You can read more about it [here](https://abc7.com/post/socal-reports-14th-earthquake-sequence-magnitude-40-year-most-1988/15296952/).
+You can read more about it [here](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-vote-new-contract-possible-strike/281-e2253f85-e18a-408d-890c-6636f08d5036).
 
 ## Requirements
 - Python 3.8
