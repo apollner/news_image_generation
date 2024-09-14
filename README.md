@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York City police commissioner resigns amid corruption probe**
+**Ukraine says Russia hit grain vessel near NATO member Romania**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c05j5ezy6nro).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-missile-hits-civilian-ship-with-ukrainian-grain-black-sea-zelenskiy-says-2024-09-12/).
 
 ## Requirements
 - Python 3.8
