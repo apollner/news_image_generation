@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Donald Trump, Kamala Harris election news | CNN Politics**
+**Here's what the Boeing strike might mean for flyers**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-09-13-24/index.html).
+You can read more about it [here](https://www.nbcnews.com/business/travel/boeing-strike-travel-impact-rcna171021).
 
 ## Requirements
 - Python 3.8
