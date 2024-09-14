@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia claims start of fightback in Kursk region**
+**North Dakota's near-total abortion ban struck down by judge**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd6y65d71g6o).
+You can read more about it [here](https://www.bbc.com/news/articles/c62r2zzgz4jo).
 
 ## Requirements
 - Python 3.8
