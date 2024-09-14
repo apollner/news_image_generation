@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA authorizes first OTC hearing aid software to be used in Apple's AirPods Pro**
+**Federal review of Uvalde shooting finds Border Patrol missteps but does not recommend discipline**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/fda-authorizes-first-otc-hearing-aid-software-be-used-airpods-pro-headphones-2024-09-12/).
+You can read more about it [here](https://apnews.com/article/uvalde-shooting-border-patrol-report-090d36868527e0dc3626cfe2ab87831a).
 
 ## Requirements
 - Python 3.8
