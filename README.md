@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Digital Foundry on the PS5 Pro: GTA 6 & Others Unlikely to Hit 60FPS**
+**Bank of America, JPMorgan consider 80 hours the max for junior banker work weeks**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.axios.com/2024/09/12/bank-of-america-jpmorgan-work-hours-limit).
 
 ## Requirements
 - Python 3.8
