@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal review of Uvalde shooting finds Border Patrol missteps but does not recommend discipline**
+**Digital Foundry on the PS5 Pro: GTA 6 & Others Unlikely to Hit 60FPS**
 
-You can read more about it [here](https://apnews.com/article/uvalde-shooting-border-patrol-report-090d36868527e0dc3626cfe2ab87831a).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
