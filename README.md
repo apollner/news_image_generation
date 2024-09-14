@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration expected to unveil new evidence of RT’s key role in Russian intelligence operations globally**
+**Chad McQueen, ‘Karate Kid’ actor and son of Steve McQueen, dies at 63**
 
-You can read more about it [here](https://www.cnn.com/2024/09/13/politics/biden-administration-rt-russian-intelligence/index.html).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/13/chad-mcqueen-death-karate-kid-dutch/).
 
 ## Requirements
 - Python 3.8
