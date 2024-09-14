@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'We strike at midnight': Boeing machinists vote to reject contract offer, strike**
+**Russia claims start of fightback in Kursk region**
 
-You can read more about it [here](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-machinists-vote-new-contract-possible-strike/281-e2253f85-e18a-408d-890c-6636f08d5036).
+You can read more about it [here](https://www.bbc.com/news/articles/cd6y65d71g6o).
 
 ## Requirements
 - Python 3.8
