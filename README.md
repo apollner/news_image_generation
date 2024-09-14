@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Stranded astronauts to talk about life stuck on space station**
+**Live updates: Donald Trump, Kamala Harris election news | CNN Politics**
 
-You can read more about it [here](https://www.bbc.com/news/live/c39k9gm1d9yt).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-09-13-24/index.html).
 
 ## Requirements
 - Python 3.8
