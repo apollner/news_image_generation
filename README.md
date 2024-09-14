@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Timberlake pleads guilty to lesser charge of driving while impaired; issues a public safety announcement**
+**‘Speak No Evil’ Shouts $1.3M In Previews, But ‘Beetlejuice Beetlejuice’ Will Rule Friday The 13th Weekend – Box Office**
 
-You can read more about it [here](https://www.cnn.com/2024/09/13/entertainment/justin-timberlake-plea-hearing/index.html).
+You can read more about it [here](http://deadline.com/2024/09/box-office-speak-no-evil-beetlejuice-beetlejuice-dave-bautista-1236087187/).
 
 ## Requirements
 - Python 3.8
