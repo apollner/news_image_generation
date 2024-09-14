@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gold’s an ‘all-weather hedge,’ even if the Fed’s next move isn’t as expected**
+**Apple Begins Taking Preorders For AI-Enabled iPhone 16 Handsets**
 
-You can read more about it [here](https://www.marketwatch.com/story/golds-an-all-weather-hedge-against-whatever-happens-next-as-fed-decision-nears-8045ee4d).
+You can read more about it [here](https://www.investors.com/news/technology/apple-stock-iphone-16-preorders-begin/).
 
 ## Requirements
 - Python 3.8
