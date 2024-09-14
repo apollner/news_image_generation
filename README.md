@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chad McQueen, ‘Karate Kid’ actor and son of Steve McQueen, dies at 63**
+**Vietnam typhoon death toll rises to 233 as more bodies found in areas hit by landslides and floods**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/13/chad-mcqueen-death-karate-kid-dutch/).
+You can read more about it [here](https://apnews.com/article/vietnam-flooding-typhoon-yagi-deaths-95c5de93c84e636c32f2a875c77db0fa).
 
 ## Requirements
 - Python 3.8
