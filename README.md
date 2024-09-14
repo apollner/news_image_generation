@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vietnam typhoon death toll rises to 233 as more bodies found in areas hit by landslides and floods**
+**Live updates: Stranded astronauts to talk about life stuck on space station**
 
-You can read more about it [here](https://apnews.com/article/vietnam-flooding-typhoon-yagi-deaths-95c5de93c84e636c32f2a875c77db0fa).
+You can read more about it [here](https://www.bbc.com/news/live/c39k9gm1d9yt).
 
 ## Requirements
 - Python 3.8
