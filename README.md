@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Making German Chocolate Without Using Cocoa**
+**Off script! Josh Allen with a pass completion to Ty Johnson for a 33-yard gain | Bills at Dolphins**
 
-You can read more about it [here](https://www.npr.org/2024/09/12/1198907955/making-german-chocolate-without-using-cocoa).
+You can read more about it [here](https://www.buffalobills.com/video/off-script-josh-allen-with-a-pass-completion-to-ty-johnson-for-a-33-yard-gain-bills-at-dolphins).
 
 ## Requirements
 - Python 3.8
