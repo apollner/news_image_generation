@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 306 Embedded: Vlog Series - Episode 5**
+**Mysterious seismic event that shook the earth for 9 days was triggered by a 650-foot tsunami in Greenland, researchers say**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.cbsnews.com/news/tsunami-greenland-wave-seismic-event/).
 
 ## Requirements
 - Python 3.8
