@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A revived Pac-12 to add four Mountain West schools, including Boise State**
+**U.N. Leaders Decry Attacks In Gaza After Israeli Strike Kills 6 Relief Agency Workers**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/09/12/pac-12-expansion-mountain-west/).
+You can read more about it [here](https://www.huffpost.com/entry/united-nations-decry-israel-unrwa-airstrike_n_66e36f54e4b02a333c0b7649).
 
 ## Requirements
 - Python 3.8
