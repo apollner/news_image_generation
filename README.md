@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Speak No Evil’ Shouts $1.3M In Previews, But ‘Beetlejuice Beetlejuice’ Will Rule Friday The 13th Weekend – Box Office**
+**UFC 306 Embedded: Vlog Series - Episode 5**
 
-You can read more about it [here](http://deadline.com/2024/09/box-office-speak-no-evil-beetlejuice-beetlejuice-dave-bautista-1236087187/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
