@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 and iPhone 16 Pro Models Now Available for Pre-Order**
+**Scientists have solved the mystery of a 650-foot mega-tsunami that made the Earth vibrate for 9 days**
 
-You can read more about it [here](https://www.macrumors.com/2024/09/13/iphone-16-preorders-now-available/).
+You can read more about it [here](https://www.cnn.com/2024/09/13/climate/mega-tsunami-landslide-greenland-seismic-signal/index.html).
 
 ## Requirements
 - Python 3.8
