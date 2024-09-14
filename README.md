@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Dakota's near-total abortion ban struck down by judge**
+**JD Vance's Response to Taylor Swift Endorsing Kamala Harris Backfires**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c62r2zzgz4jo).
+You can read more about it [here](https://www.newsweek.com/taylor-swift-jd-vance-kamala-harris-fox-news-comments-1953155).
 
 ## Requirements
 - Python 3.8
