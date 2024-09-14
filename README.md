@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.N. Leaders Decry Attacks In Gaza After Israeli Strike Kills 6 Relief Agency Workers**
+**Obesity rates are above 20% in every U.S. state, CDC finds. 4 key takeaways from its latest report.**
 
-You can read more about it [here](https://www.huffpost.com/entry/united-nations-decry-israel-unrwa-airstrike_n_66e36f54e4b02a333c0b7649).
+You can read more about it [here](https://www.yahoo.com/lifestyle/obesity-rates-are-above-20-in-every-us-state-cdc-finds-4-key-takeaways-from-its-latest-report-004648664.html).
 
 ## Requirements
 - Python 3.8
