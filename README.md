@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 306 Embedded: Vlog Series - Episode 5**
+**Live updates: Stranded astronauts to talk about life stuck on space station**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.bbc.com/news/live/c39k9gm1d9yt).
 
 ## Requirements
 - Python 3.8
