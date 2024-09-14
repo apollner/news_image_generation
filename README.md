@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Making German Chocolate Without Using Cocoa**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2024/09/12/1198907955/making-german-chocolate-without-using-cocoa).
 
 ## Requirements
 - Python 3.8
