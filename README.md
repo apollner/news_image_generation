@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of America, JPMorgan consider 80 hours the max for junior banker work weeks**
+**Tua Tagovailoa concussion: Hall of Famer Tony Gonzalez says retirement should be the next move for Dolphins QB**
 
-You can read more about it [here](https://www.axios.com/2024/09/12/bank-of-america-jpmorgan-work-hours-limit).
+You can read more about it [here](https://www.cbssports.com/nfl/news/tua-tagovailoa-concussion-hall-of-famer-tony-gonzalez-says-retirement-should-be-the-next-move-for-dolphins-qb/).
 
 ## Requirements
 - Python 3.8
