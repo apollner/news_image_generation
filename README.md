@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bank of America, JPMorgan consider 80 hours the max for junior banker work weeks**
+**SoCal reports 14th earthquake sequence of magnitude 4.0 this year - the most since 1988**
 
-You can read more about it [here](https://www.axios.com/2024/09/12/bank-of-america-jpmorgan-work-hours-limit).
+You can read more about it [here](https://abc7.com/post/socal-reports-14th-earthquake-sequence-magnitude-40-year-most-1988/15296952/).
 
 ## Requirements
 - Python 3.8
