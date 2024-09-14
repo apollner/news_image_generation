@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists have solved the mystery of a 650-foot mega-tsunami that made the Earth vibrate for 9 days**
+**Exclusive: Russia produces new kamikaze drone with Chinese engine, say European intel sources**
 
-You can read more about it [here](https://www.cnn.com/2024/09/13/climate/mega-tsunami-landslide-greenland-seismic-signal/index.html).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-produces-new-kamikaze-drone-with-chinese-engine-say-european-intel-2024-09-13/).
 
 ## Requirements
 - Python 3.8
