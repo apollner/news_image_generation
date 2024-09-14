@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Stranded astronauts to talk about life stuck on space station**
+**Mysterious seismic event that shook the earth for 9 days was triggered by a 650-foot tsunami in Greenland, researchers say**
 
-You can read more about it [here](https://www.bbc.com/news/live/c39k9gm1d9yt).
+You can read more about it [here](https://www.cbsnews.com/news/tsunami-greenland-wave-seismic-event/).
 
 ## Requirements
 - Python 3.8
