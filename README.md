@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even Facebook Couldn’t Compete With Google, Ex-Ad Chief Says**
+**Wanted Islamic State commander killed by U.S., Iraqi forces, officials say**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-13/even-facebook-couldn-t-compete-with-google-ex-ad-chief-says).
+You can read more about it [here](https://www.cbsnews.com/news/islamic-state-commander-abu-ali-al-tunisi-killed-by-u-s-iraqi-forces/).
 
 ## Requirements
 - Python 3.8
