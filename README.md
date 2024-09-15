@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 306 Embedded: Vlog Series - Episode 6**
+**What to know about Laura Loomer, Trump's conspiracy theorist ally**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.axios.com/2024/09/13/laura-loomer-conspiracy-theories-trump).
 
 ## Requirements
 - Python 3.8
