@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 killed as heaviest rain in decades hits parts of central and eastern Europe**
+**Russia begins efforts to expel Ukraine from Kursk but counter-attack is yet to gain momentum**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/europe/four-killed-as-heavy-rain-hits-central-europe/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/14/europe/russia-begins-ukraine-counter-attack-kursk-intl/index.html).
 
 ## Requirements
 - Python 3.8
