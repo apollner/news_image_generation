@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge frees Colorado paramedic convicted in death of Elijah McClain from prison**
+**North Korea releases images of Kim Jong Un visiting a uranium enrichment site, giving rare glimpse inside its nuclear program**
 
-You can read more about it [here](https://apnews.com/article/elijah-mcclain-paramedic-sentence-probation-ketamine-9714cd7113c1bfead80714c0dbe461b9).
+You can read more about it [here](https://www.cnn.com/2024/09/12/asia/north-korea-uranium-enrichment-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
