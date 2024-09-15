@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Emmy Parties in Photos: Sandra Oh, Kaley Cuoco, Hiroyuki Sanada and More Celeb Pics**
+**Pope Francis says Kamala Harris and Donald Trump "both against life" for stances on abortion, immigration**
 
-You can read more about it [here](https://variety.com/gallery/emmy-parties-celeb-photos/).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-kamala-harris-donald-trump-both-against-life-abortion-immigration/).
 
 ## Requirements
 - Python 3.8
