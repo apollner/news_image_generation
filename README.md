@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Laura Loomer, Trump's conspiracy theorist ally**
+**How Kamala Harris campaign is engaging with Taylor Swift fans**
 
-You can read more about it [here](https://www.axios.com/2024/09/13/laura-loomer-conspiracy-theories-trump).
+You can read more about it [here](https://www.bbc.com/news/articles/c3d9dd8v75no).
 
 ## Requirements
 - Python 3.8
