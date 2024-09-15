@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 9 Pro XL vs Pixel 8 Pro: Which one to get?**
+**Iran says it successfully launched satellite with rocket that officials fear may advance ballistic missile program**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.cbsnews.com/news/iran-satellite-launch-ballistic-missile-program/).
 
 ## Requirements
 - Python 3.8
