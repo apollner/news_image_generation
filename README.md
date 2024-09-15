@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Boeing Strike Could Make The Global Jetliner Shortage Worse**
+**Google Pixel 9 Pro XL vs Pixel 8 Pro: Which one to get?**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
