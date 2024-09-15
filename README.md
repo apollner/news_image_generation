@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blazin’ 5: Vikings cover vs. 49ers, Jets beat Titans, Texans over Bears | NFL | THE HERD**
+**Bomb threats force second consecutive day of school closures in Springfield, Ohio**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/bomb-threats-force-second-consecutive-day-school-closures-springfield-rcna171043).
 
 ## Requirements
 - Python 3.8
