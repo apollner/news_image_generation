@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cooler weather in Southern California helps in wildfire battle**
+**UFC 306 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://www.yahoo.com/news/cooler-weather-southern-california-helps-184509511.html).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
