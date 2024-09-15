@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran says it successfully launched satellite with rocket that officials fear may advance ballistic missile program**
+**Disney, DirecTV Reach Deal Ending Blackout of ESPN, ABC and More**
 
-You can read more about it [here](https://www.cbsnews.com/news/iran-satellite-launch-ballistic-missile-program/).
+You can read more about it [here](https://variety.com/2024/tv/news/disney-directv-carriage-deal-espn-abc-streaming-1236138007/).
 
 ## Requirements
 - Python 3.8
