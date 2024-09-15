@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cher drops bid to be appointed son Elijah Blue Allman's conservator**
+**What to know about Laura Loomer, Trump's conspiracy theorist ally**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/09/13/cher-drops-conservatorship-elijah-blue-allman/75215664007/).
+You can read more about it [here](https://www.axios.com/2024/09/13/laura-loomer-conspiracy-theories-trump).
 
 ## Requirements
 - Python 3.8
