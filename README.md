@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney, DirecTV Reach Deal Ending Blackout of ESPN, ABC and More**
+**Jane's Addiction's Perry Farrell punches guitarist Dave Navarro onstage, shutting down concert**
 
-You can read more about it [here](https://variety.com/2024/tv/news/disney-directv-carriage-deal-espn-abc-streaming-1236138007/).
+You can read more about it [here](https://www.foxnews.com/entertainment/janes-addictions-perry-farrell-punches-guitarist-dave-navarro-onstage-shutting-down-concert).
 
 ## Requirements
 - Python 3.8
