@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris shares message to Trump voters during first solo interview after debate**
+**Cooler weather in Southern California helps in wildfire battle**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/politics/video/kamala-harris-sit-down-interview-affil-dnt-digvid).
+You can read more about it [here](https://www.yahoo.com/news/cooler-weather-southern-california-helps-184509511.html).
 
 ## Requirements
 - Python 3.8
