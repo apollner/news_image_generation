@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Beetlejuice Beetlejuice’ Stays No. 1 as ‘Speak No Evil’ Impresses and ‘Killer’s Game’ Bombs**
+**Harris shares message to Trump voters during first solo interview after debate**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/beetlejuice-beetlejuice-box-office-speak-no-evil-killers-game-1236001769/).
+You can read more about it [here](https://www.cnn.com/2024/09/14/politics/video/kamala-harris-sit-down-interview-affil-dnt-digvid).
 
 ## Requirements
 - Python 3.8
