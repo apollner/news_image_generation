@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Kamala Harris campaign is engaging with Taylor Swift fans**
+**Pfizer says its experimental drug for deadly condition that causes appetite and weight loss in cancer patients shows positive trial results**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3d9dd8v75no).
+You can read more about it [here](https://www.cnbc.com/2024/09/14/pfizers-cancer-cachexia-drug-shows-positive-midstage-trial-results.html).
 
 ## Requirements
 - Python 3.8
