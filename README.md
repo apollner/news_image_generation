@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia’s Medvedev threatens to turn Kyiv into ‘giant melted spot’**
+**4 killed as heaviest rain in decades hits parts of central and eastern Europe**
 
-You can read more about it [here](https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-kyiv-war-giant-melted-spot-threat/).
+You can read more about it [here](https://www.cnn.com/2024/09/14/europe/four-killed-as-heavy-rain-hits-central-europe/index.html).
 
 ## Requirements
 - Python 3.8
