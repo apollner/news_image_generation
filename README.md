@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wanted Islamic State commander killed by U.S., Iraqi forces, officials say**
+**2024 Emmy Parties in Photos: Sandra Oh, Kaley Cuoco, Hiroyuki Sanada and More Celeb Pics**
 
-You can read more about it [here](https://www.cbsnews.com/news/islamic-state-commander-abu-ali-al-tunisi-killed-by-u-s-iraqi-forces/).
+You can read more about it [here](https://variety.com/gallery/emmy-parties-celeb-photos/).
 
 ## Requirements
 - Python 3.8
