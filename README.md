@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Kamala Harris campaign is engaging with Taylor Swift fans**
+**Cher drops bid to be appointed son Elijah Blue Allman's conservator**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3d9dd8v75no).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/09/13/cher-drops-conservatorship-elijah-blue-allman/75215664007/).
 
 ## Requirements
 - Python 3.8
