@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he doesn’t control far-right agitator Laura Loomer, calls her a ‘free spirit’**
+**How Kamala Harris campaign is engaging with Taylor Swift fans**
 
-You can read more about it [here](https://www.cnn.com/2024/09/13/politics/donald-trump-laura-loomer/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c3d9dd8v75no).
 
 ## Requirements
 - Python 3.8
