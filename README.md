@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seminoles' skid continues with loss to Memphis**
+**How a false rumor about pets in Ohio and Laura Loomer’s presence helped derail Trump’s planned attacks on Harris**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/41260653/memphis-tigers-keep-florida-state-seminoles-winless).
+You can read more about it [here](https://www.cnn.com/2024/09/14/politics/donald-trump-kamala-harris-laura-loomer/index.html).
 
 ## Requirements
 - Python 3.8
