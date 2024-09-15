@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney, DirecTV strike deal, ending dispute and restoring access to ESPN**
+**Americans among 37 people sentenced to death for Congo coup attempt**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/09/14/disney-directv-deal-espn-abc/).
+You can read more about it [here](https://nypost.com/2024/09/14/world-news/americans-among-37-sentenced-to-death-for-congo-coup-attempt/).
 
 ## Requirements
 - Python 3.8
