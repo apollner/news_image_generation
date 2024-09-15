@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL finds no violation in 49ers’ concealment of Christian McCaffrey’s status**
+**Dancing With the Stars ' Artem Chigvintsev Responds to Nikki Garcia’s Divorce Filing**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-finds-no-violation-in-49ers-concealment-of-christian-mccaffreys-status).
+You can read more about it [here](https://www.eonline.com/news/1406725/dancing-with-the-stars-artem-chigvintsev-responds-to-nikki-garcias-divorce-filing).
 
 ## Requirements
 - Python 3.8
