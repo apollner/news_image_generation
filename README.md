@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis says Kamala Harris and Donald Trump "both against life" for stances on abortion, immigration**
+**Stock Rotation Is Back on Bets Fed Will ‘Go Big’ | Bloomberg: The Close 9/13/2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-kamala-harris-donald-trump-both-against-life-abortion-immigration/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
