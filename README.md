@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Puzzling fossil discovery could reveal why Neanderthals disappeared**
+**Box Office: ‘Beetlejuice Beetlejuice’ Stays No. 1 as ‘Speak No Evil’ Impresses and ‘Killer’s Game’ Bombs**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/science/neanderthal-discovery-science-newsletter-wt/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/beetlejuice-beetlejuice-box-office-speak-no-evil-killers-game-1236001769/).
 
 ## Requirements
 - Python 3.8
