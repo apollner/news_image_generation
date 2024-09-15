@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia begins efforts to expel Ukraine from Kursk but counter-attack is yet to gain momentum**
+**Puzzling fossil discovery could reveal why Neanderthals disappeared**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/europe/russia-begins-ukraine-counter-attack-kursk-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/14/science/neanderthal-discovery-science-newsletter-wt/index.html).
 
 ## Requirements
 - Python 3.8
