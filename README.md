@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bomb threats force second consecutive day of school closures in Springfield, Ohio**
+**James McAvoy Talks the Reimagined ‘Speak No Evil’ Ending and Not Being Afraid of Repetition**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/bomb-threats-force-second-consecutive-day-school-closures-springfield-rcna171043).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-features/james-mcavoy-speak-no-evil-ending-1236000890/).
 
 ## Requirements
 - Python 3.8
