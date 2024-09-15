@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jane's Addiction's Perry Farrell punches guitarist Dave Navarro onstage, shutting down concert**
+**Russia’s Medvedev threatens to turn Kyiv into ‘giant melted spot’**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/janes-addictions-perry-farrell-punches-guitarist-dave-navarro-onstage-shutting-down-concert).
+You can read more about it [here](https://www.politico.eu/article/russia-dmitry-medvedev-ukraine-kyiv-war-giant-melted-spot-threat/).
 
 ## Requirements
 - Python 3.8
