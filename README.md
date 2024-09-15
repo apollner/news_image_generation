@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dancing With the Stars ' Artem Chigvintsev Responds to Nikki Garcia’s Divorce Filing**
+**Wanted Islamic State commander killed by U.S., Iraqi forces, officials say**
 
-You can read more about it [here](https://www.eonline.com/news/1406725/dancing-with-the-stars-artem-chigvintsev-responds-to-nikki-garcias-divorce-filing).
+You can read more about it [here](https://www.cbsnews.com/news/islamic-state-commander-abu-ali-al-tunisi-killed-by-u-s-iraqi-forces/).
 
 ## Requirements
 - Python 3.8
