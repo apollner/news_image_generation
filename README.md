@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Americans among 37 people sentenced to death for Congo coup attempt**
+**Seminoles' skid continues with loss to Memphis**
 
-You can read more about it [here](https://nypost.com/2024/09/14/world-news/americans-among-37-sentenced-to-death-for-congo-coup-attempt/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/41260653/memphis-tigers-keep-florida-state-seminoles-winless).
 
 ## Requirements
 - Python 3.8
