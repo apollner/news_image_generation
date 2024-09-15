@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pfizer says its experimental drug for deadly condition that causes appetite and weight loss in cancer patients shows positive trial results**
+**How Boeing Strike Could Make The Global Jetliner Shortage Worse**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/14/pfizers-cancer-cachexia-drug-shows-positive-midstage-trial-results.html).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
