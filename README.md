@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Rotation Is Back on Bets Fed Will ‘Go Big’ | Bloomberg: The Close 9/13/2024**
+**Trump says he doesn’t control far-right agitator Laura Loomer, calls her a ‘free spirit’**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.cnn.com/2024/09/13/politics/donald-trump-laura-loomer/index.html).
 
 ## Requirements
 - Python 3.8
