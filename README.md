@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James McAvoy Talks the Reimagined ‘Speak No Evil’ Ending and Not Being Afraid of Repetition**
+**Judge frees Colorado paramedic convicted in death of Elijah McClain from prison**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-features/james-mcavoy-speak-no-evil-ending-1236000890/).
+You can read more about it [here](https://apnews.com/article/elijah-mcclain-paramedic-sentence-probation-ketamine-9714cd7113c1bfead80714c0dbe461b9).
 
 ## Requirements
 - Python 3.8
