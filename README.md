@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michaela DePrince: America's trailblazing ballerina dies at 29**
+**When to see Tuesday’s partial lunar eclipse of the supermoon**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj048m92qjeo).
+You can read more about it [here](https://www.foxweather.com/earth-space/september-full-harvest-moon).
 
 ## Requirements
 - Python 3.8
