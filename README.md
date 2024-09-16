@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts warn against vaccine skepticism**
+**Russian bomb injures at least 30 civilians in Ukraine's Kharkiv, officials say**
 
-You can read more about it [here](https://www.cbsnews.com/news/experts-warn-against-vaccine-skepticism/).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-bomb-injures-least-28-civilians-ukraines-kharkiv-officials-say-2024-09-15/).
 
 ## Requirements
 - Python 3.8
