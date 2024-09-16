@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chicago plow trucks on standby to block roads during Mexican Independence Day 2024 celebrations**
+**Michaela DePrince: America's trailblazing ballerina dies at 29**
 
-You can read more about it [here](https://abc7chicago.com/post/mexican-independence-day-chicago-traffic-could-impacted-street-closures-celebrations-continue-saturday/15302557/).
+You can read more about it [here](https://www.bbc.com/news/articles/cj048m92qjeo).
 
 ## Requirements
 - Python 3.8
