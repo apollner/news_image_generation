@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez and Ben Affleck Reunite for a Family Lunch**
+**Amid mushrooming scandal, Eric Adams’ City Hall attorney steps down**
 
-You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a62206107/jennifer-lopez-ben-affleck-reunite-lunch-photos/).
+You can read more about it [here](https://www.politico.com/news/2024/09/14/amid-mushrooming-scandal-eric-adams-city-hall-attorney-steps-down-00179213).
 
 ## Requirements
 - Python 3.8
