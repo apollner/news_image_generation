@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Original ‘Flappy Bird’ Creator Surfaces To Disown Its Crypto Zombie Resurrection**
+**Man charged with killing 4 university students in Idaho is jailed in Boise after his trial is moved**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/09/15/original-flappy-bird-creator-surfaces-to-disown-its-crypto-zombie-resurrection/).
+You can read more about it [here](https://apnews.com/article/bryan-kohberger-idaho-students-killed-trial-boise-45ca6dc670fa9e0088e7774772752f80).
 
 ## Requirements
 - Python 3.8
