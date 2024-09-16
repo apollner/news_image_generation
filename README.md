@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These 10 U.S. cities offer the highest quality of life for retirees—none are in Florida**
+**Dolphins Rumors: Tua Tagovailoa to Meet with Neurologists After Concussion vs. Bills**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/15/us-cities-that-offer-the-highest-quality-of-life-for-retirees.html).
+You can read more about it [here](https://bleacherreport.com/articles/10135208-dolphins-rumors-tua-tagovailoa-to-meet-with-neurologists-after-concussion-vs-bills).
 
 ## Requirements
 - Python 3.8
