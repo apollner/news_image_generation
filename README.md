@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A missile fired by Yemen’s rebels lands in Israel and triggers sirens at international airport**
+**Samsung Updates Millions Of Galaxy Phones To Stop Users Leaving**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-iran-yemen-lebanon-5f26be6628a0e7df38bc933520552f5b).
+You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/09/15/samsung-galaxy-update-stop-users-buying-iphone-16-pro-google-pixel-9-pro/).
 
 ## Requirements
 - Python 3.8
