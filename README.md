@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck, Jennifer Lopez spotted together for first time since divorce filing on outing with their kids**
+**Main Card Results | UFC 306: O'Malley vs Dvalishvili**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/ben-affleck-jennifer-lopez-spotted-together-first-time-outing-kids-beverly-hills).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-306-omalley-vs-dvalishvili-noche-ufc-sphere).
 
 ## Requirements
 - Python 3.8
