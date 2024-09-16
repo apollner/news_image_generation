@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris sits for first solo interview as nominee**
+**How a false rumor about pets in Ohio and Laura Loomer’s presence helped derail Trump’s planned attacks on Harris**
 
-You can read more about it [here](https://www.axios.com/2024/09/14/kamala-harris-solo-interview).
+You can read more about it [here](https://www.cnn.com/2024/09/14/politics/donald-trump-kamala-harris-laura-loomer/index.html).
 
 ## Requirements
 - Python 3.8
