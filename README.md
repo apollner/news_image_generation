@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California Wildfires updates: Firefighters score success in containment battle**
+**Ballerina Michaela DePrince, Whose Career Inspired Many After She Was Born Into War, Dies At 29**
 
-You can read more about it [here](https://abcnews.go.com/US/california-wildfires-updates-firefighters-score-success-containment-battle/story?id\\u003d113697060).
+You can read more about it [here](https://www.huffpost.com/entry/obit-michaela-deprince_n_66e65adde4b0df05a2f68322).
 
 ## Requirements
 - Python 3.8
