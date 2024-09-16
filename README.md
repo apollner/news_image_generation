@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Updates Millions Of Galaxy Phones To Stop Users Leaving**
+**Horoscope for Sunday, September 15, 2024**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/09/15/samsung-galaxy-update-stop-users-buying-iphone-16-pro-google-pixel-9-pro/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/15/horoscopes-today-sunday-september-15-2024).
 
 ## Requirements
 - Python 3.8
