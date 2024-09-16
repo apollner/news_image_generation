@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 8 dead as heaviest rain in decades hits parts of central and eastern Europe**
+**Trump is safe after Secret Service opened fire at suspected person with firearm near his golf club**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/europe/deadly-rains-flooding-europe-central-eastern-intl/index.html).
+You can read more about it [here](https://apnews.com/article/trump-shooting-gunshots-florida-f62f8378d3a8ce7b2e99d6a8fb40aba9).
 
 ## Requirements
 - Python 3.8
