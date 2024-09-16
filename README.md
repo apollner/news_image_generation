@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amid mushrooming scandal, Eric Adams’ City Hall attorney steps down**
+**Full NFL predictions, picks for entire Week 2 slate**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/14/amid-mushrooming-scandal-eric-adams-city-hall-attorney-steps-down-00179213).
+You can read more about it [here](https://nypost.com/2024/09/14/betting/full-nfl-predictions-picks-for-entire-week-2-slate/).
 
 ## Requirements
 - Python 3.8
