@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Main Card Results | UFC 306: O'Malley vs Dvalishvili**
+**California Wildfires updates: Firefighters score success in containment battle**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-306-omalley-vs-dvalishvili-noche-ufc-sphere).
+You can read more about it [here](https://abcnews.go.com/US/california-wildfires-updates-firefighters-score-success-containment-battle/story?id\\u003d113697060).
 
 ## Requirements
 - Python 3.8
