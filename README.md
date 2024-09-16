@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to see Tuesday’s partial lunar eclipse of the supermoon**
+**Texas QB Ewers ruled out, replaced by Manning**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/september-full-harvest-moon).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/41264083/texas-qb-quinn-ewers-strained-abdomen-ruled-vs-utsa).
 
 ## Requirements
 - Python 3.8
