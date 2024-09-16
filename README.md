@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas QB Ewers ruled out, replaced by Manning**
+**Harris sits for first solo interview as nominee**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/41264083/texas-qb-quinn-ewers-strained-abdomen-ruled-vs-utsa).
+You can read more about it [here](https://www.axios.com/2024/09/14/kamala-harris-solo-interview).
 
 ## Requirements
 - Python 3.8
