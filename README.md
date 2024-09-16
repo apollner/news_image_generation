@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polaris Dawn set to return home after landmark commercial spaceflight**
+**Michaela DePrince: America's trailblazing ballerina dies at 29**
 
-You can read more about it [here](https://www.nasaspaceflight.com/2024/09/polaris-dawn-splashdown/).
+You can read more about it [here](https://www.bbc.com/news/articles/cj048m92qjeo).
 
 ## Requirements
 - Python 3.8
