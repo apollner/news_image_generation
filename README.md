@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas QB Quinn Ewers departs with strained abdomen and Arch Manning leads win over UTSA**
+**Critics pan Kamala Harris' TV interview, bewildering answers: 'Talk is cheap'**
 
-You can read more about it [here](https://apnews.com/article/texas-ewers-manning-5814b956c10e31fc82e4acc9d6459814).
+You can read more about it [here](https://www.foxnews.com/politics/critics-pan-kamala-harris-tv-interview-bewildering-answers-talk-cheap).
 
 ## Requirements
 - Python 3.8
