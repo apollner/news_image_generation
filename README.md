@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania mail-in ballots without correct dates will not be counted, court rules**
+**'Shogun,' 'The Bear' and 'Baby Reindeer' are at the top of the queue as the Emmys arrive**
 
-You can read more about it [here](https://nypost.com/2024/09/14/us-news/pennsylvania-mail-in-ballots-without-correct-dates-will-not-be-counted-court-rules/).
+You can read more about it [here](https://www.yahoo.com/entertainment/shogun-bear-baby-reindeer-top-040348436.html).
 
 ## Requirements
 - Python 3.8
