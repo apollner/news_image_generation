@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Critics pan Kamala Harris' TV interview, bewildering answers: 'Talk is cheap'**
+**Jennifer Lopez and Ben Affleck Reunite for a Family Lunch**
 
-You can read more about it [here](https://www.foxnews.com/politics/critics-pan-kamala-harris-tv-interview-bewildering-answers-talk-cheap).
+You can read more about it [here](https://www.harpersbazaar.com/celebrity/latest/a62206107/jennifer-lopez-ben-affleck-reunite-lunch-photos/).
 
 ## Requirements
 - Python 3.8
