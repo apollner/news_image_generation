@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The WSJ on Mario Draghi’s Plan to Save Europe’s Economy**
+**Trump posts ‘I hate Taylor Swift,’ days after the star’s Harris endorsement**
 
-You can read more about it [here](https://mishtalk.com/economics/the-wsj-on-mario-draghis-plan-to-save-europes-economy/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/15/trump-i-hate-taylor-swift-harris-endorsement/).
 
 ## Requirements
 - Python 3.8
