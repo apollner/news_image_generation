@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**These 10 U.S. cities offer the highest quality of life for retirees—none are in Florida**
+**First iPhone 16 pre-orders now shipping, here’s how to track your order**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/15/us-cities-that-offer-the-highest-quality-of-life-for-retirees.html).
+You can read more about it [here](https://9to5mac.com/2024/09/15/how-to-check-if-your-iphone-16-pre-order-has-shipped/).
 
 ## Requirements
 - Python 3.8
