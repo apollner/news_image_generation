@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ballerina Michaela DePrince, Whose Career Inspired Many After She Was Born Into War, Dies At 29**
+**A missile fired by Yemen’s rebels lands in Israel and triggers sirens at international airport**
 
-You can read more about it [here](https://www.huffpost.com/entry/obit-michaela-deprince_n_66e65adde4b0df05a2f68322).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-iran-yemen-lebanon-5f26be6628a0e7df38bc933520552f5b).
 
 ## Requirements
 - Python 3.8
