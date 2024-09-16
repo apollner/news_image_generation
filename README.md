@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Venezuela says US Navy SEAL among foreigners arrested over alleged CIA ‘operation’ to assassinate Maduro**
+**These 10 U.S. cities offer the highest quality of life for retirees—none are in Florida**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/americas/venezuela-arrests-americans-seizes-rifles-intl-latam/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/15/us-cities-that-offer-the-highest-quality-of-life-for-retirees.html).
 
 ## Requirements
 - Python 3.8
