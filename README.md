@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First iPhone 16 pre-orders now shipping, here’s how to track your order**
+**Russian bomb strikes Kharkiv apartment building, one dead, 42 injured, officials say**
 
-You can read more about it [here](https://9to5mac.com/2024/09/15/how-to-check-if-your-iphone-16-pre-order-has-shipped/).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-bomb-injures-least-28-civilians-ukraines-kharkiv-officials-say-2024-09-15/).
 
 ## Requirements
 - Python 3.8
