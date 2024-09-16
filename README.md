@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man charged with killing 4 university students in Idaho is jailed in Boise after his trial is moved**
+**The WSJ on Mario Draghi’s Plan to Save Europe’s Economy**
 
-You can read more about it [here](https://apnews.com/article/bryan-kohberger-idaho-students-killed-trial-boise-45ca6dc670fa9e0088e7774772752f80).
+You can read more about it [here](https://mishtalk.com/economics/the-wsj-on-mario-draghis-plan-to-save-europes-economy/).
 
 ## Requirements
 - Python 3.8
