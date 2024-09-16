@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When to see Tuesday’s partial lunar eclipse of the supermoon**
+**Powerball winning numbers for Sept. 14, 2024 lottery drawing jackpot. Winner last night?**
 
-You can read more about it [here](https://www.foxweather.com/earth-space/september-full-harvest-moon).
+You can read more about it [here](https://www.indystar.com/story/news/2024/09/14/powerball-numbers-september-14-drawing-lottery-jackpot-results-anyone-win-power-ball-9-14-24/75229586007/).
 
 ## Requirements
 - Python 3.8
