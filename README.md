@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Floods claim more lives as torrential rain pounds central Europe**
+**These 10 U.S. cities offer the highest quality of life for retirees—none are in Florida**
 
-You can read more about it [here](https://www.reuters.com/business/environment/floods-southwest-poland-kill-one-force-evacuations-2024-09-15/).
+You can read more about it [here](https://www.cnbc.com/2024/09/15/us-cities-that-offer-the-highest-quality-of-life-for-retirees.html).
 
 ## Requirements
 - Python 3.8
