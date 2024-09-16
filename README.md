@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three Hamas hostages died as a ‘byproduct’ of an Israeli strike: IDF**
+**Original ‘Flappy Bird’ Creator Surfaces To Disown Its Crypto Zombie Resurrection**
 
-You can read more about it [here](https://nypost.com/2024/09/15/world-news/three-hamas-hostages-died-as-a-byproduct-of-an-israeli-strike-idf/).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/09/15/original-flappy-bird-creator-surfaces-to-disown-its-crypto-zombie-resurrection/).
 
 ## Requirements
 - Python 3.8
