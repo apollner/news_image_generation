@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump is safe after Secret Service opened fire at suspected person with firearm near his golf club**
+**Three Hamas hostages died as a ‘byproduct’ of an Israeli strike: IDF**
 
-You can read more about it [here](https://apnews.com/article/trump-shooting-gunshots-florida-f62f8378d3a8ce7b2e99d6a8fb40aba9).
+You can read more about it [here](https://nypost.com/2024/09/15/world-news/three-hamas-hostages-died-as-a-byproduct-of-an-israeli-strike-idf/).
 
 ## Requirements
 - Python 3.8
