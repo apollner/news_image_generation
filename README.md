@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Shogun,' 'The Bear' and 'Baby Reindeer' are at the top of the queue as the Emmys arrive**
+**Texas QB Quinn Ewers departs with strained abdomen and Arch Manning leads win over UTSA**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/shogun-bear-baby-reindeer-top-040348436.html).
+You can read more about it [here](https://apnews.com/article/texas-ewers-manning-5814b956c10e31fc82e4acc9d6459814).
 
 ## Requirements
 - Python 3.8
