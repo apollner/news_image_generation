@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins Rumors: Tua Tagovailoa to Meet with Neurologists After Concussion vs. Bills**
+**Russian bomb injures at least 30 civilians in Ukraine's Kharkiv, officials say**
 
-You can read more about it [here](https://bleacherreport.com/articles/10135208-dolphins-rumors-tua-tagovailoa-to-meet-with-neurologists-after-concussion-vs-bills).
+You can read more about it [here](https://www.reuters.com/world/europe/russian-bomb-injures-least-28-civilians-ukraines-kharkiv-officials-say-2024-09-15/).
 
 ## Requirements
 - Python 3.8
