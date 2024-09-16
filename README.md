@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a false rumor about pets in Ohio and Laura Loomer’s presence helped derail Trump’s planned attacks on Harris**
+**Pennsylvania mail-in ballots without correct dates will not be counted, court rules**
 
-You can read more about it [here](https://www.cnn.com/2024/09/14/politics/donald-trump-kamala-harris-laura-loomer/index.html).
+You can read more about it [here](https://nypost.com/2024/09/14/us-news/pennsylvania-mail-in-ballots-without-correct-dates-will-not-be-counted-court-rules/).
 
 ## Requirements
 - Python 3.8
