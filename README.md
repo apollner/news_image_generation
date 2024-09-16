@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full NFL predictions, picks for entire Week 2 slate**
+**When to see Tuesday’s partial lunar eclipse of the supermoon**
 
-You can read more about it [here](https://nypost.com/2024/09/14/betting/full-nfl-predictions-picks-for-entire-week-2-slate/).
+You can read more about it [here](https://www.foxweather.com/earth-space/september-full-harvest-moon).
 
 ## Requirements
 - Python 3.8
