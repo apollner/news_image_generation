@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iOS 18: 18 New Features for Apple’s New iPhone Software Update | WSJ**
+**Mass. State Police recruit's death: What we know about the investigation**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.nbcboston.com/news/local/massachusetts-state-police-recruits-death-what-we-know-about-the-investigation/3489726/).
 
 ## Requirements
 - Python 3.8
