@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flappy Bird Is Coming Back and Stinks of Crypto**
+**[Removed]**
 
-You can read more about it [here](https://gizmodo.com/flappy-bird-is-coming-back-and-stinks-of-crypto-2000498857).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
