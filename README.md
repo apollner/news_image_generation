@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass. State Police recruit's death: What we know about the investigation**
+**A pipeline has exploded and is on fire in a Houston suburb, forcing evacuations**
 
-You can read more about it [here](https://www.nbcboston.com/news/local/massachusetts-state-police-recruits-death-what-we-know-about-the-investigation/3489726/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/pipeline-exploded-fire-houston-suburb-forcing-evacuations-113730500).
 
 ## Requirements
 - Python 3.8
