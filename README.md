@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia dials up pressure on Ukraine’s Kursk offensive**
+**NFL Week 2 grades: Cowboys get 'F' for blowout loss, Packers earn 'A-' for winning without Jordan Love**
 
-You can read more about it [here](https://www.ft.com/content/a22f7d1f-605b-42fc-ac76-98f59b5497a6).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-grades-cowboys-get-f-for-blowout-loss-packers-earn-a-for-winning-without-jordan-love/).
 
 ## Requirements
 - Python 3.8
