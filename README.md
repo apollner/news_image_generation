@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rupert Murdoch's real-life 'Succession' drama kicks off in Nevada courtroom: 10 things to know**
+**Deutsche Bank Mulls Options to Hinder Orcel’s Commerzbank Move**
 
-You can read more about it [here](https://www.hindustantimes.com/trending/rupert-murdoch-succession-drama-kicks-off-in-nevada-courtroom-10-things-to-know-101726491227273.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-16/deutsche-bank-mulls-options-to-hinder-orcel-s-commerzbank-move).
 
 ## Requirements
 - Python 3.8
