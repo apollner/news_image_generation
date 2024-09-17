@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keir Starmer defends Sue Gray after reports of No 10 rifts**
+**Tropical Storm Warning issued for North Carolina, South Carolina coasts as Potential Tropical Cyclone 8 forms**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4g559jvp77o).
+You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-cyclone-eight-helene-storm).
 
 ## Requirements
 - Python 3.8
