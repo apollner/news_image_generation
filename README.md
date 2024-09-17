@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emmy Presenter Candice Bergen Compares JD Vance’s “Childless Cat Ladies” Swipe To Dan Quayle’s Attack On ‘Murphy Brown’**
+**Jane's Addiction cancels upcoming show, issues apology after lead singer punches guitarist on stage**
 
-You can read more about it [here](http://deadline.com/2024/09/emmy-2024-politics-candice-bergen-jd-vance-1236089053/).
+You can read more about it [here](https://pagesix.com/2024/09/15/celebrity-news/janes-addiction-cancels-upcoming-show-issues-apology-after-lead-singer-punches-guitarist-on-stage/).
 
 ## Requirements
 - Python 3.8
