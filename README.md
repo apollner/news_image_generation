@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A celestial trifecta: What to know about Tuesday’s lunar eclipse**
+**Laraine Newman Slams ‘The Bear’ for Being in Emmys Comedy Categories**
 
-You can read more about it [here](https://www.npr.org/2024/09/16/nx-s1-5107675/lunar-eclipse-harvest-moon-supermoon-tuesday-what-to-know).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/laraine-newman-slams-the-bear-emmys-comedy-category-1236003167/).
 
 ## Requirements
 - Python 3.8
