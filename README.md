@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryan Kohberger moved to Boise ahead of Idaho college murder trial**
+**[Removed]**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/idaho-college-murders-bryan-kohberger-moved-boise-ahead-trial-rcna171167).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
