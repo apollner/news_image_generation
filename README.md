@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk deletes post questioning the Trump assassination attempt**
+**Flappy Bird Is Coming Back and Stinks of Crypto**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/tech/elon-musk-biden-trump-assassination-attempt/index.html).
+You can read more about it [here](https://gizmodo.com/flappy-bird-is-coming-back-and-stinks-of-crypto-2000498857).
 
 ## Requirements
 - Python 3.8
