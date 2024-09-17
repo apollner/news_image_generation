@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok has 15 minutes to fight for its life**
+**AirPods 4 reviews: Impressive noise cancellation in an open-ear design**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/tech/tiktok-has-15-minutes-to-fight-for-its-life/index.html).
+You can read more about it [here](https://9to5mac.com/2024/09/16/airpods-4-review-roundup/).
 
 ## Requirements
 - Python 3.8
