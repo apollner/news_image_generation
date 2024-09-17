@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok warns of ‘staggering’ consequences from US divest-or-ban law**
+**A pipeline has exploded and is on fire in a Houston suburb, forcing evacuations**
 
-You can read more about it [here](https://www.ft.com/content/b1c4c19f-094f-4e2c-a7c3-4285851e88fe).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/pipeline-exploded-fire-houston-suburb-forcing-evacuations-113730500).
 
 ## Requirements
 - Python 3.8
