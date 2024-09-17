@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest moves before the bell: Apple, Intel, Alcoa, Micron Technology and more**
+**Harris to meet with Teamsters for high-stakes endorsement interview**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/16/stocks-making-the-biggest-moves-premarket-mu-aapl-intc-aa-more.html).
+You can read more about it [here](https://www.politico.com/news/2024/09/16/harris-teamsters-endorsement-interview-00179212).
 
 ## Requirements
 - Python 3.8
