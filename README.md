@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 2 grades: Cowboys get 'F' for blowout loss, Packers earn 'A-' for winning without Jordan Love**
+**Laraine Newman Slams ‘The Bear’ for Being in Emmys Comedy Categories**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-2-grades-cowboys-get-f-for-blowout-loss-packers-earn-a-for-winning-without-jordan-love/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/laraine-newman-slams-the-bear-emmys-comedy-category-1236003167/).
 
 ## Requirements
 - Python 3.8
