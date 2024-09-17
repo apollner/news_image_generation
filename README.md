@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deutsche Bank Mulls Options to Hinder Orcel’s Commerzbank Move**
+**Flappy Bird Is Coming Back and Stinks of Crypto**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-16/deutsche-bank-mulls-options-to-hinder-orcel-s-commerzbank-move).
+You can read more about it [here](https://gizmodo.com/flappy-bird-is-coming-back-and-stinks-of-crypto-2000498857).
 
 ## Requirements
 - Python 3.8
