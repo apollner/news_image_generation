@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A pipeline has exploded and is on fire in a Houston suburb, forcing evacuations**
+**Trump says Biden-Harris 'rhetoric' to blame for Florida assassination attempt**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/pipeline-exploded-fire-houston-suburb-forcing-evacuations-113730500).
+You can read more about it [here](https://abcnews.go.com/Politics/trump-biden-harris-rhetoric-blame-florida-assassination-attempt/story?id\\u003d113727515).
 
 ## Requirements
 - Python 3.8
