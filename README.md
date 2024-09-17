@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump posts ‘I hate Taylor Swift,’ days after the star’s Harris endorsement**
+**Russia dials up pressure on Ukraine’s Kursk offensive**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/15/trump-i-hate-taylor-swift-harris-endorsement/).
+You can read more about it [here](https://www.ft.com/content/a22f7d1f-605b-42fc-ac76-98f59b5497a6).
 
 ## Requirements
 - Python 3.8
