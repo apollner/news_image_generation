@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel-Hamas war latest: Israeli airstrikes kill 16 in Gaza, including 4 children, Palestinians say**
+**James Webb Telescope goes 'extreme' and spots baby stars at the edge of the Milky Way (image)**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-latest-16-september-2024-a794f441dbfddebe87fd9b95c28008fb).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-extreme-outer-galaxy).
 
 ## Requirements
 - Python 3.8
