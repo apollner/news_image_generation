@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Warning issued for North Carolina, South Carolina coasts as Potential Tropical Cyclone 8 forms**
+**Saints' win over Cowboys ends with final score that's never been seen before in NFL history**
 
-You can read more about it [here](https://www.foxweather.com/weather-news/tracking-tropical-cyclone-eight-helene-storm).
+You can read more about it [here](https://www.cbssports.com/nfl/news/saints-win-over-cowboys-ends-with-final-score-thats-never-been-seen-before-in-nfl-history/).
 
 ## Requirements
 - Python 3.8
