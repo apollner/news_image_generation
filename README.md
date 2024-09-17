@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jane's Addiction cancels upcoming show, issues apology after lead singer punches guitarist on stage**
+**Bryan Kohberger moved to Boise ahead of Idaho college murder trial**
 
-You can read more about it [here](https://pagesix.com/2024/09/15/celebrity-news/janes-addiction-cancels-upcoming-show-issues-apology-after-lead-singer-punches-guitarist-on-stage/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/idaho-college-murders-bryan-kohberger-moved-boise-ahead-trial-rcna171167).
 
 ## Requirements
 - Python 3.8
