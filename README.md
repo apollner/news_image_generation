@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says Biden-Harris 'rhetoric' to blame for Florida assassination attempt**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/Politics/trump-biden-harris-rhetoric-blame-florida-assassination-attempt/story?id\\u003d113727515).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
