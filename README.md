@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Butker hits a 51-yard winner for KC after penalty on Bengals safety keeps Chiefs alive**
+**Kuo: iPhone 16 Pro demand lower than expected, iPhone 16 Plus pre-orders up 48%**
 
-You can read more about it [here](https://apnews.com/article/bengals-chiefs-score-cincinnati-kansas-city-0e5430b9f6d4298661da31ed964bce5f).
+You can read more about it [here](https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/).
 
 ## Requirements
 - Python 3.8
