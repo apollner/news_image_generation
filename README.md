@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: iPhone 16 Pro demand lower than expected, iPhone 16 Plus pre-orders up 48%**
+**Keir Starmer defends Sue Gray after reports of No 10 rifts**
 
-You can read more about it [here](https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/).
+You can read more about it [here](https://www.bbc.com/news/articles/c4g559jvp77o).
 
 ## Requirements
 - Python 3.8
