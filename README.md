@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Shogun' wins best drama, 'Hacks' surprises in comedy at TV's Emmys**
+**A celestial trifecta: What to know about Tuesday’s lunar eclipse**
 
-You can read more about it [here](https://www.reuters.com/lifestyle/emmys-return-with-shogun-the-bear-leading-pack-2024-09-15/).
+You can read more about it [here](https://www.npr.org/2024/09/16/nx-s1-5107675/lunar-eclipse-harvest-moon-supermoon-tuesday-what-to-know).
 
 ## Requirements
 - Python 3.8
