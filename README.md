@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A pipeline has exploded and is on fire in a Houston suburb, forcing evacuations**
+**Intel CEO Moves to Further Cut Costs and Separate Chip Making and Design**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/pipeline-exploded-fire-houston-suburb-forcing-evacuations-113730500).
+You can read more about it [here](https://www.wsj.com/tech/intel-ceo-lays-out-new-steps-to-cut-costs-and-bolster-chip-making-division-3d1ea9de).
 
 ## Requirements
 - Python 3.8
