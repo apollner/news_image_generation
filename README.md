@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Germany brings back border checks to curb migration, experts question impact**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/world/europe/germanys-tighter-border-controls-take-effect-irking-neighbours-2024-09-16/).
 
 ## Requirements
 - Python 3.8
