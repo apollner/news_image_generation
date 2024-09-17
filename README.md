@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laraine Newman Slams ‘The Bear’ for Being in Emmys Comedy Categories**
+**FBI examining threats targeting Haitians at Springfield, Ohio, college**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/laraine-newman-slams-the-bear-emmys-comedy-category-1236003167/).
+You can read more about it [here](https://www.axios.com/2024/09/16/fbi-springfield-ohio-threats-haitian-wittenberg-university).
 
 ## Requirements
 - Python 3.8
