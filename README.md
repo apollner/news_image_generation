@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: iPhone 16 Pro demand lower than expected, iPhone 16 Plus pre-orders up 48%**
+**Trump posts ‘I hate Taylor Swift,’ days after the star’s Harris endorsement**
 
-You can read more about it [here](https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/15/trump-i-hate-taylor-swift-harris-endorsement/).
 
 ## Requirements
 - Python 3.8
