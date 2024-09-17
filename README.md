@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saints' win over Cowboys ends with final score that's never been seen before in NFL history**
+**Emmy Presenter Candice Bergen Compares JD Vance’s “Childless Cat Ladies” Swipe To Dan Quayle’s Attack On ‘Murphy Brown’**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saints-win-over-cowboys-ends-with-final-score-thats-never-been-seen-before-in-nfl-history/).
+You can read more about it [here](http://deadline.com/2024/09/emmy-2024-politics-candice-bergen-jd-vance-1236089053/).
 
 ## Requirements
 - Python 3.8
