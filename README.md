@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When Wil was struggling with depression, a therapist said just the right thing**
+**Stocks making the biggest moves before the bell: Apple, Intel, Alcoa, Micron Technology and more**
 
-You can read more about it [here](https://www.npr.org/2024/09/12/nx-s1-5109954/depression-therapist-therapy-kindness-help).
+You can read more about it [here](https://www.cnbc.com/2024/09/16/stocks-making-the-biggest-moves-premarket-mu-aapl-intc-aa-more.html).
 
 ## Requirements
 - Python 3.8
