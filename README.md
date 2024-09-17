@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Telescope goes 'extreme' and spots baby stars at the edge of the Milky Way (image)**
+**TikTok has 15 minutes to fight for its life**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-extreme-outer-galaxy).
+You can read more about it [here](https://www.cnn.com/2024/09/16/tech/tiktok-has-15-minutes-to-fight-for-its-life/index.html).
 
 ## Requirements
 - Python 3.8
