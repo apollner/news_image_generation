@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Royal family shares birthday messages for Prince Harry's 40th**
+**Kuo: iPhone 16 Pro demand lower than expected, iPhone 16 Plus pre-orders up 48%**
 
-You can read more about it [here](https://www.cbsnews.com/news/prince-harry-40th-birthday-royal-family-messages/).
+You can read more about it [here](https://9to5mac.com/2024/09/15/lower-iphone-16-pro-demand/).
 
 ## Requirements
 - Python 3.8
