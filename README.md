@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI examining threats targeting Haitians at Springfield, Ohio, college**
+**When Wil was struggling with depression, a therapist said just the right thing**
 
-You can read more about it [here](https://www.axios.com/2024/09/16/fbi-springfield-ohio-threats-haitian-wittenberg-university).
+You can read more about it [here](https://www.npr.org/2024/09/12/nx-s1-5109954/depression-therapist-therapy-kindness-help).
 
 ## Requirements
 - Python 3.8
