@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Butker hits a 51-yard winner for KC after penalty on Bengals safety keeps Chiefs alive**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/bengals-chiefs-score-cincinnati-kansas-city-0e5430b9f6d4298661da31ed964bce5f).
 
 ## Requirements
 - Python 3.8
