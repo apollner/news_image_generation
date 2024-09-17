@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon tells employees to return to office five days a week**
+**How to watch Tuesday’s harvest moon and partial lunar eclipse**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/16/amazon-jassy-tells-employees-to-return-to-office-five-days-a-week.html).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/16/super-harvest-moon-partial-lunar-eclipse-where-to-watch/).
 
 ## Requirements
 - Python 3.8
