@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pregnancy changes the brain: study**
+**Sean ‘Diddy’ Combs arrested in New York, his attorney tells CNN**
 
-You can read more about it [here](https://www.axios.com/2024/09/17/pregnancy-brain-changes-study).
+You can read more about it [here](https://www.cnn.com/2024/09/16/entertainment/sean-diddy-combs-arrested-new-york/index.html).
 
 ## Requirements
 - Python 3.8
