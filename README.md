@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Superbugs due to antibiotic resistance could kill 39 million people by 2050, large study finds**
+**Hawaiian Airlines to get new leadership after merger closes with Alaska**
 
-You can read more about it [here](https://www.foxnews.com/health/superbugs-due-antibiotic-resistance-could-kill-39-million-2050-large-study-finds).
+You can read more about it [here](https://www.staradvertiser.com/2024/09/17/breaking-news/alaska-hawaiian-airlines-merger-clears-final-regulatory-hurdle/).
 
 ## Requirements
 - Python 3.8
