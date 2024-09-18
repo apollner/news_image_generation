@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical rainstorm bringing flooding to Carolinas, Mid-Atlantic**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/16/tropical-storm-helene-carolinas-midatlantic/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
