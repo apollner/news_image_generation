@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The Panthers are benching Bryce Young already?!? Six questions on the decision and what's next**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41289476/bryce-young-benched-carolina-panthers-andy-dalton-backup-quarterback).
 
 ## Requirements
 - Python 3.8
