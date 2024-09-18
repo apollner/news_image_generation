@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brain changes during pregnancy revealed in detailed map**
+**Israel-Hamas war latest: Israeli airstrikes kill 16 in Gaza, including 4 children, Palestinians say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckgvvn0q8e2o).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-latest-16-september-2024-a794f441dbfddebe87fd9b95c28008fb).
 
 ## Requirements
 - Python 3.8
