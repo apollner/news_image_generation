@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm Boris: Polish city evacuates as floods batter central Europe**
+**Netflix Inks First-Look Deal With Richard Gadd Despite $170 Million ‘Baby Reindeer’ Lawsuit: ‘We’re Very Proud of Richard and the Story He Told’**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5yjjqyv84eo).
+You can read more about it [here](https://variety.com/2024/tv/global/richard-gadd-first-look-deal-netflix-baby-reindeer-lawsuit-1236147158/).
 
 ## Requirements
 - Python 3.8
