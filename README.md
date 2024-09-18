@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Inks First-Look Deal With Richard Gadd Despite $170 Million ‘Baby Reindeer’ Lawsuit: ‘We’re Very Proud of Richard and the Story He Told’**
+**Pregnancy changes the brain: study**
 
-You can read more about it [here](https://variety.com/2024/tv/global/richard-gadd-first-look-deal-netflix-baby-reindeer-lawsuit-1236147158/).
+You can read more about it [here](https://www.axios.com/2024/09/17/pregnancy-brain-changes-study).
 
 ## Requirements
 - Python 3.8
