@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miley Cyrus Sued Over ‘Flowers,’ Accused of Copying Bruno Mars Song**
+**[Removed]**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/miley-cyrus-flowers-copyright-lawsuit-bruno-mars-1235103892/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
