@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Fed's biggest interest rate call in years happens Wednesday. Here's what to expect**
+**Stadium-sized asteroid deemed 'potentially hazardous' by NASA, is expected to move 'relatively close' to Earth**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/17/the-feds-biggest-interest-rate-call-in-years-happens-wednesday-heres-what-to-expect.html).
+You can read more about it [here](https://www.foxnews.com/science/stadium-sized-asteroid-deemed-potentially-hazardous-nasa-expected-move-relatively-close-earth).
 
 ## Requirements
 - Python 3.8
