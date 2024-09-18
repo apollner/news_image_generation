@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mass rape trial lays bare France's disturbing culture of sexual assault, critics allege**
+**Superbugs due to antibiotic resistance could kill 39 million people by 2050, large study finds**
 
-You can read more about it [here](https://www.foxnews.com/world/mass-rape-trial-lays-bare-frances-disturbing-culture-sexual-assault-critics-allege).
+You can read more about it [here](https://www.foxnews.com/health/superbugs-due-antibiotic-resistance-could-kill-39-million-2050-large-study-finds).
 
 ## Requirements
 - Python 3.8
