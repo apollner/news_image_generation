@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive pipeline fire burning near Houston began after a vehicle struck a valve, officials say**
+**Benjamin Netanyahu Announces "Updated War Goals" Against, Hamas, Hezbollah**
 
-You can read more about it [here](https://apnews.com/article/pipeline-fire-texas-659141b9f88ed2b324c36fce2735746f).
+You can read more about it [here](https://www.ndtv.com).
 
 ## Requirements
 - Python 3.8
