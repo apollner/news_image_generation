@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah hit by a wave of exploding pagers and blames Israel. At least 9 dead, thousands injured**
+**The Fed's biggest interest rate call in years happens Wednesday. Here's what to expect**
 
-You can read more about it [here](https://apnews.com/article/lebanon-hezbollah-israel-exploding-pagers-8893a09816410959b6fe94aec124461b).
+You can read more about it [here](https://www.cnbc.com/2024/09/17/the-feds-biggest-interest-rate-call-in-years-happens-wednesday-heres-what-to-expect.html).
 
 ## Requirements
 - Python 3.8
