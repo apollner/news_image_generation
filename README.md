@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Gov. Ron DeSantis launches state investigation into apparent Trump assassination attempt**
+**Mass rape trial lays bare France's disturbing culture of sexual assault, critics allege**
 
-You can read more about it [here](https://abcnews.go.com/US/florida-gov-ron-desantis-launches-state-investigation-apparent/story?id\\u003d113751786).
+You can read more about it [here](https://www.foxnews.com/world/mass-rape-trial-lays-bare-frances-disturbing-culture-sexual-assault-critics-allege).
 
 ## Requirements
 - Python 3.8
