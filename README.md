@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister of 2nd alleged victim in Matthew Perry case speaks out about texting so-called Ketamine Queen**
+**Apple’s Update Decision—Bad News Confirmed For Millions Of iPhone Users**
 
-You can read more about it [here](https://abcnews.go.com/US/sister-2nd-alleged-victim-matthew-perry-case-speaks/story?id\\u003d113517883).
+You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/09/17/apples-ios-18-update-new-warning-for-millions-of-iphone-15-iphone-16-users/).
 
 ## Requirements
 - Python 3.8
