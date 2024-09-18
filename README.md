@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Chiles appeals ‘unfair’ decision that cost her Olympic bronze medal**
+**Dozens of Hezbollah members wounded after pagers explode in Lebanon**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/sport/jordan-chiles-appeals-olympic-bronze-medal-decision-spt-intl/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon).
 
 ## Requirements
 - Python 3.8
