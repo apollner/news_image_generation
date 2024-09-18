@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs arrested in New York, his attorney tells CNN**
+**Jordan Chiles appeals ‘unfair’ decision that cost her Olympic bronze medal**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/entertainment/sean-diddy-combs-arrested-new-york/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/16/sport/jordan-chiles-appeals-olympic-bronze-medal-decision-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
