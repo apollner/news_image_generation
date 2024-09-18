@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Extra law enforcement to patrol schools in Springfield, Ohio, after threats linked to false claims about Haitian immigrants**
+**Watch humpback whale entangled in fishing gear get freed after 4 days**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/us/springfield-ohio-closures-threats/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/world/2024/09/16/humpback-whale-entanglement-canada/75255829007/).
 
 ## Requirements
 - Python 3.8
