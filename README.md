@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coffee could be more than a morning pick-me-up, according to new research**
+**Hezbollah pager explosions kill several people in Lebanon**
 
-You can read more about it [here](https://www.cnn.com/2024/09/17/health/caffeine-heart-health-study-wellness/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/).
 
 ## Requirements
 - Python 3.8
