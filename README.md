@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Benjamin Netanyahu Announces "Updated War Goals" Against, Hamas, Hezbollah**
+**Antibiotic resistance could cause over 39 million deaths by 2050, study says**
 
-You can read more about it [here](https://www.ndtv.com).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/09/16/antibiotic-resistance-39-million-deaths-2050-study/).
 
 ## Requirements
 - Python 3.8
