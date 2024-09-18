@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel CEO Moves to Further Cut Costs and Separate Chip Making and Design**
+**How to watch Tuesday’s harvest moon and partial lunar eclipse**
 
-You can read more about it [here](https://www.wsj.com/tech/intel-ceo-lays-out-new-steps-to-cut-costs-and-bolster-chip-making-division-3d1ea9de).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/16/super-harvest-moon-partial-lunar-eclipse-where-to-watch/).
 
 ## Requirements
 - Python 3.8
