@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Update Decision—Bad News Confirmed For Millions Of iPhone Users**
+**Coffee could be more than a morning pick-me-up, according to new research**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/09/17/apples-ios-18-update-new-warning-for-millions-of-iphone-15-iphone-16-users/).
+You can read more about it [here](https://www.cnn.com/2024/09/17/health/caffeine-heart-health-study-wellness/index.html).
 
 ## Requirements
 - Python 3.8
