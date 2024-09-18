@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch humpback whale entangled in fishing gear get freed after 4 days**
+**Elon Musk has often inflamed politically tense moments, raising worries for the US election**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/09/16/humpback-whale-entanglement-canada/75255829007/).
+You can read more about it [here](https://apnews.com/article/elon-musk-x-election-voting-trump-misinformation-3479f2348f6ec47ce641ddf20fd6ce4e).
 
 ## Requirements
 - Python 3.8
