@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk has often inflamed politically tense moments, raising worries for the US election**
+**Superbug crisis could get worse, killing nearly 40 million people by 2050, study estimates**
 
-You can read more about it [here](https://apnews.com/article/elon-musk-x-election-voting-trump-misinformation-3479f2348f6ec47ce641ddf20fd6ce4e).
+You can read more about it [here](https://www.cnn.com/2024/09/16/health/antibiotic-resistant-superbug-infections-2050-wellness/index.html).
 
 ## Requirements
 - Python 3.8
