@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**From Ukraine to Hawaii, Trump assassination attempt suspect’s odd behavior suggested ‘delusion of grandeur’**
+**Storm Boris: Polish city evacuates as floods batter central Europe**
 
-You can read more about it [here](https://www.cnn.com/2024/09/16/politics/ryan-routh-trump-suspect-invs/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c5yjjqyv84eo).
 
 ## Requirements
 - Python 3.8
