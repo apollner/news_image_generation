@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Polaris Dawn mission comes to end with SpaceX Dragon landing off Florida coast**
+**NASA issues alert for fast-moving, stadium-sized asteroid approaching Earth tonight**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/15/spacex-dragon-florida-coast-polaris-dawn-astronauts/75192254007/).
+You can read more about it [here](https://nypost.com/2024/09/17/lifestyle/nasa-issues-alert-for-fast-moving-stadium-sized-asteroid-approaching-earth-tonight/).
 
 ## Requirements
 - Python 3.8
