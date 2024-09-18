@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah pager explosions kill several people in Lebanon**
+**Some Israelis are leaving the country due to the war in Gaza**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/dozens-hezbollah-members-wounded-lebanon-when-pagers-exploded-sources-witnesses-2024-09-17/).
+You can read more about it [here](https://www.npr.org/2024/09/17/g-s1-22080/israel-emigration-gaza-war).
 
 ## Requirements
 - Python 3.8
