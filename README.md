@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some Israelis are leaving the country due to the war in Gaza**
+**Polaris Dawn mission comes to end with SpaceX Dragon landing off Florida coast**
 
-You can read more about it [here](https://www.npr.org/2024/09/17/g-s1-22080/israel-emigration-gaza-war).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/15/spacex-dragon-florida-coast-polaris-dawn-astronauts/75192254007/).
 
 ## Requirements
 - Python 3.8
