@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Buck has never been so ‘shocked’ by an NFL finish after Eagles’ collapse vs. Falcons**
+**Miley Cyrus Sued, Accused of Copying Bruno Mars Song on ‘Flowers’**
 
-You can read more about it [here](https://nypost.com/2024/09/17/sports/joe-buck-never-been-as-shocked-by-nfl-finish-as-eagles-collapse/).
+You can read more about it [here](https://variety.com/2024/music/news/miley-cyrus-sued-copying-bruno-mars-flowers-1236147408/).
 
 ## Requirements
 - Python 3.8
