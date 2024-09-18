@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Ryan, Peyton Manning and Eli Manning were all stunned by Eagles’ decision to pass**
+**From Ukraine to Hawaii, Trump assassination attempt suspect’s odd behavior suggested ‘delusion of grandeur’**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-ryan-peyton-manning-and-eli-manning-were-all-stunned-by-eagles-decision-to-pass).
+You can read more about it [here](https://www.cnn.com/2024/09/16/politics/ryan-routh-trump-suspect-invs/index.html).
 
 ## Requirements
 - Python 3.8
