@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Never Seen This': Portuguese Village Battered By Wildfire**
+**Sister of 2nd alleged victim in Matthew Perry case speaks out about texting so-called Ketamine Queen**
 
-You can read more about it [here](https://www.barrons.com/articles/never-seen-this-portuguese-village-battered-by-wildfire-8e5a636d).
+You can read more about it [here](https://abcnews.go.com/US/sister-2nd-alleged-victim-matthew-perry-case-speaks/story?id\\u003d113517883).
 
 ## Requirements
 - Python 3.8
