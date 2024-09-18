@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dozens of Hezbollah members wounded after pagers explode in Lebanon**
+**'Never Seen This': Portuguese Village Battered By Wildfire**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/17/dozens-of-hezbollah-members-wounded-after-pagers-explode-in-lebanon).
+You can read more about it [here](https://www.barrons.com/articles/never-seen-this-portuguese-village-battered-by-wildfire-8e5a636d).
 
 ## Requirements
 - Python 3.8
