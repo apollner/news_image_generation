@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stadium-sized asteroid deemed 'potentially hazardous' by NASA, is expected to move 'relatively close' to Earth**
+**Florida Gov. Ron DeSantis launches state investigation into apparent Trump assassination attempt**
 
-You can read more about it [here](https://www.foxnews.com/science/stadium-sized-asteroid-deemed-potentially-hazardous-nasa-expected-move-relatively-close-earth).
+You can read more about it [here](https://abcnews.go.com/US/florida-gov-ron-desantis-launches-state-investigation-apparent/story?id\\u003d113751786).
 
 ## Requirements
 - Python 3.8
