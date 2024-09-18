@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA issues alert for fast-moving, stadium-sized asteroid approaching Earth tonight**
+**Joe Buck has never been so ‘shocked’ by an NFL finish after Eagles’ collapse vs. Falcons**
 
-You can read more about it [here](https://nypost.com/2024/09/17/lifestyle/nasa-issues-alert-for-fast-moving-stadium-sized-asteroid-approaching-earth-tonight/).
+You can read more about it [here](https://nypost.com/2024/09/17/sports/joe-buck-never-been-as-shocked-by-nfl-finish-as-eagles-collapse/).
 
 ## Requirements
 - Python 3.8
