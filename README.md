@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Matt Ryan, Peyton Manning and Eli Manning were all stunned by Eagles’ decision to pass**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-ryan-peyton-manning-and-eli-manning-were-all-stunned-by-eagles-decision-to-pass).
 
 ## Requirements
 - Python 3.8
