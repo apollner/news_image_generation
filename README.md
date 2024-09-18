@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antibiotic resistance could cause over 39 million deaths by 2050, study says**
+**Brain changes during pregnancy revealed in detailed map**
 
-You can read more about it [here](https://www.washingtonpost.com/science/2024/09/16/antibiotic-resistance-39-million-deaths-2050-study/).
+You can read more about it [here](https://www.bbc.com/news/articles/ckgvvn0q8e2o).
 
 ## Requirements
 - Python 3.8
