@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miley Cyrus Sued, Accused of Copying Bruno Mars Song on ‘Flowers’**
+**Alaska-Hawaiian merger clears DOT review, but airlines must preserve miles, routes**
 
-You can read more about it [here](https://variety.com/2024/music/news/miley-cyrus-sued-copying-bruno-mars-flowers-1236147408/).
+You can read more about it [here](https://www.cnbc.com/2024/09/17/alaska-airlines-hawaiian-airlines-merger-review.html).
 
 ## Requirements
 - Python 3.8
