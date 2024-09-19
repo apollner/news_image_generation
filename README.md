@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black women are more likely than white women to die of all types of breast cancer**
+**Gisele Pelicot, ‘drugged by husband and raped by strangers’, walks out of French court amid thunderous applause**
 
-You can read more about it [here](https://www.nbcnews.com/health/cancer/black-women-are-likely-white-women-die-breast-cancer-regardless-subtyp-rcna171523).
+You can read more about it [here](https://www.hindustantimes.com/trending/gisele-pelicot-drugged-by-husband-and-raped-by-strangers-walks-out-of-french-court-amid-thunderous-applause-101726619065887.html).
 
 ## Requirements
 - Python 3.8
