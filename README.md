@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawyers for Sean "Diddy" Combs seek reversal of bail denial**
+**Ship owner cut corners on repairs before deadly Baltimore bridge collapse, US says in $100M lawsuit**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y3x50jy15o).
+You can read more about it [here](https://apnews.com/article/baltimore-bridge-collapse-justice-department-lawsuit-5a7b3d6a3f7ea04828bf7801df07a34e).
 
 ## Requirements
 - Python 3.8
