@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs denied bail and will remain in federal detention, judge rules**
+**Superbugs due to antibiotic resistance could kill 39 million people by 2050, large study finds**
 
-You can read more about it [here](https://www.cnn.com/entertainment/live-news/sean-diddy-combs-arrested-nyc-09-17-2024/index.html).
+You can read more about it [here](https://www.foxnews.com/health/superbugs-due-antibiotic-resistance-could-kill-39-million-2050-large-study-finds).
 
 ## Requirements
 - Python 3.8
