@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Superbugs due to antibiotic resistance could kill 39 million people by 2050, large study finds**
+**Amazon’s Return-to-Office Plans Spark Concern and Debate Among Employees**
 
-You can read more about it [here](https://www.foxnews.com/health/superbugs-due-antibiotic-resistance-could-kill-39-million-2050-large-study-finds).
+You can read more about it [here](https://www.wsj.com/business/amazons-return-to-office-plans-spark-concern-and-debate-among-employees-6273f615).
 
 ## Requirements
 - Python 3.8
