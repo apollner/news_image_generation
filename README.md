@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvest moon, supermoon bring a partial lunar eclipse: How, when to watch**
+**Hezbollah hit by a wave of exploding pagers and blames Israel. At least 9 dead, thousands injured**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/17/harvest-moon-supermoon-bring-a-partial-lunar-eclipse-how-when-to-watch).
+You can read more about it [here](https://apnews.com/article/lebanon-hezbollah-israel-exploding-pagers-8893a09816410959b6fe94aec124461b).
 
 ## Requirements
 - Python 3.8
