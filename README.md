@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump, Vance's Haitian smears "need to stop," Ohio Gov. DeWine says**
+**GM electric vehicles can finally access Tesla Superchargers**
 
-You can read more about it [here](https://www.axios.com/2024/09/18/ohio-gov-dewine-haitian-migrants-springfield).
+You can read more about it [here](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price).
 
 ## Requirements
 - Python 3.8
