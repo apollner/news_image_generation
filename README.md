@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alaska and Hawaiian airlines merger to close soon, expanding Seattle’s international reach**
+**Dolphins place Tua on IR, ruling him out of Seahawks game**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/alaska-and-hawaiian-airlines-clear-hurdle-to-merger/).
+You can read more about it [here](https://www.fieldgulls.com/2024/9/17/24247834/tua-tagovailoa-out-dolphins-starting-skylar-thompson-seattle-seahawks-nfl-news).
 
 ## Requirements
 - Python 3.8
