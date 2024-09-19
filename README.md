@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs' indictment alleges he used his power to build an empire of sexual crime**
+**Injured reserve designation raises questions about Tua Tagovailoa returning in 2024**
 
-You can read more about it [here](https://apnews.com/article/diddy-baby-oil-sean-combs-indictment-unsealed-b60db3252403f2bfbe24c54b34f0cfdb).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injured-reserve-designation-raises-questions-about-tua-tagovailoa-returning-in-2024).
 
 ## Requirements
 - Python 3.8
