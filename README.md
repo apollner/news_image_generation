@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins place Tua on IR, ruling him out of Seahawks game**
+**Israel planted explosives in 5,000 Hezbollah pagers, say sources**
 
-You can read more about it [here](https://www.fieldgulls.com/2024/9/17/24247834/tua-tagovailoa-out-dolphins-starting-skylar-thompson-seattle-seahawks-nfl-news).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/).
 
 ## Requirements
 - Python 3.8
