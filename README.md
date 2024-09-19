@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Patriots Release WR Jalen Reagor from the Practice Squad**
+**A NASA probe is about to launch to an icy moon that could have life**
 
-You can read more about it [here](https://www.patriots.com/news/patriots-release-wr-jalen-reagor-from-the-practice-squad).
+You can read more about it [here](https://www.npr.org/2024/09/17/nx-s1-5114450/nasa-probe-launch-icy-moon-jupiter-life).
 
 ## Requirements
 - Python 3.8
