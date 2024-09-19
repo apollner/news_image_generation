@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A NASA probe is about to launch to an icy moon that could have life**
+**Superbugs due to antibiotic resistance could kill 39 million people by 2050, large study finds**
 
-You can read more about it [here](https://www.npr.org/2024/09/17/nx-s1-5114450/nasa-probe-launch-icy-moon-jupiter-life).
+You can read more about it [here](https://www.foxnews.com/health/superbugs-due-antibiotic-resistance-could-kill-39-million-2050-large-study-finds).
 
 ## Requirements
 - Python 3.8
