@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Researchers spot largest black hole jets ever discovered**
+**New COVID variant XEC now in half of states. Here's what to know.**
 
-You can read more about it [here](https://arstechnica.com/science/2024/09/researchers-spot-largest-black-hole-jets-ever-discovered/).
+You can read more about it [here](https://www.cbsnews.com/news/xec-covid-variant-symptoms-states-what-to-know/).
 
 ## Requirements
 - Python 3.8
