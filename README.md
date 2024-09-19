@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaiian Airlines to get new leadership after merger closes with Alaska**
+**Patriots Release WR Jalen Reagor from the Practice Squad**
 
-You can read more about it [here](https://www.staradvertiser.com/2024/09/17/breaking-news/alaska-hawaiian-airlines-merger-clears-final-regulatory-hurdle/).
+You can read more about it [here](https://www.patriots.com/news/patriots-release-wr-jalen-reagor-from-the-practice-squad).
 
 ## Requirements
 - Python 3.8
