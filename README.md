@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Remains of decapitated "vampire child" found in Poland, archaeologists say**
+**New Amazon return-to-office policy expected to impact traffic**
 
-You can read more about it [here](https://www.cbsnews.com/news/poland-vampire-decapitated-child-found/).
+You can read more about it [here](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57).
 
 ## Requirements
 - Python 3.8
