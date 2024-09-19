@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Injured reserve designation raises questions about Tua Tagovailoa returning in 2024**
+**With Fed's rate cut at hand, debate swirls over how large a move**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/injured-reserve-designation-raises-questions-about-tua-tagovailoa-returning-in-2024).
+You can read more about it [here](https://www.reuters.com/markets/rates-bonds/with-feds-rate-cut-hand-debate-swirls-over-how-big-move-2024-09-18/).
 
 ## Requirements
 - Python 3.8
