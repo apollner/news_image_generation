@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel planted explosives in 5,000 Hezbollah pagers, say sources**
+**Why does the internet love baby hippo Moo Deng? There’s a science to it.**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-planted-explosives-hezbollahs-taiwan-made-pagers-say-sources-2024-09-18/).
+You can read more about it [here](https://www.washingtonpost.com/science/2024/09/18/baby-hippo-moo-deng-viral-science/).
 
 ## Requirements
 - Python 3.8
