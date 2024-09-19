@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Superhero Franchise Movies Lost Their Way: “It’s Actual Chaos”**
+**Sean 'Diddy' Combs' indictment alleges he used his power to build an empire of sexual crime**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-features/superhero-movies-marvel-dc-the-franchise-hbo-1236004909/).
+You can read more about it [here](https://apnews.com/article/diddy-baby-oil-sean-combs-indictment-unsealed-b60db3252403f2bfbe24c54b34f0cfdb).
 
 ## Requirements
 - Python 3.8
