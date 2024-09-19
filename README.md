@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dolphins’ Tua Tagovailoa to injured reserve, will miss at least four games**
+**Alaska and Hawaiian airlines merger to close soon, expanding Seattle’s international reach**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/09/17/tua-tagovailoa-injured-reserve-third-concussion/).
+You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/alaska-and-hawaiian-airlines-clear-hurdle-to-merger/).
 
 ## Requirements
 - Python 3.8
