@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future**
+**Ukraine claims to have destroyed large Russian ammunition depot in overnight drone attack**
 
-You can read more about it [here](https://techcrunch.com/2024/09/18/iphone-16-pro-max-review/).
+You can read more about it [here](https://www.cnn.com/2024/09/18/europe/ukraine-russian-weapons-depot-drone-attack-intl/index.html).
 
 ## Requirements
 - Python 3.8
