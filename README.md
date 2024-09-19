@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jean Smart To Host ‘SNL’ Season 50 Opener With Nate Bargatze, Ariana Grande, Michael Keaton & John Mulaney Also Set As Fall Hosts**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/09/jean-smart-host-snl-season-50-opener-1236093435/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
