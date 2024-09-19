@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine claims to have destroyed large Russian ammunition depot in overnight drone attack**
+**Lawyers for Sean "Diddy" Combs seek reversal of bail denial**
 
-You can read more about it [here](https://www.cnn.com/2024/09/18/europe/ukraine-russian-weapons-depot-drone-attack-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y3x50jy15o).
 
 ## Requirements
 - Python 3.8
