@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Spewing lies": Harris condemns Trump's "hateful rhetoric" about Springfield**
+**Harvest moon, supermoon bring a partial lunar eclipse: How, when to watch**
 
-You can read more about it [here](https://www.axios.com/2024/09/17/harris-trump-springfield-ohio-migrants-vance-nabj).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/17/harvest-moon-supermoon-bring-a-partial-lunar-eclipse-how-when-to-watch).
 
 ## Requirements
 - Python 3.8
