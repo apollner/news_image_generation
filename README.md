@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Fed's rate cut at hand, debate swirls over how large a move**
+**Trump, Vance's Haitian smears "need to stop," Ohio Gov. DeWine says**
 
-You can read more about it [here](https://www.reuters.com/markets/rates-bonds/with-feds-rate-cut-hand-debate-swirls-over-how-big-move-2024-09-18/).
+You can read more about it [here](https://www.axios.com/2024/09/18/ohio-gov-dewine-haitian-migrants-springfield).
 
 ## Requirements
 - Python 3.8
