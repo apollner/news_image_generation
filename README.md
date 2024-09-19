@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance, of all people, should know how legends impact a community, says writer**
+**The iPhone 16 Pro Max has better battery life and great cameras, but Apple Intelligence hasn't arrived**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.cnbc.com/2024/09/18/apple-iphone-16-pro-max-review.html).
 
 ## Requirements
 - Python 3.8
