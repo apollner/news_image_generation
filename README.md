@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon’s Return-to-Office Plans Spark Concern and Debate Among Employees**
+**Paul Whelan, freed in prisoner swap with Russia, tells other American detainees: "We're coming for you"**
 
-You can read more about it [here](https://www.wsj.com/business/amazons-return-to-office-plans-spark-concern-and-debate-among-employees-6273f615).
+You can read more about it [here](https://www.cbsnews.com/news/paul-whelan-russia-prisoner-swap-us-capitol-message/).
 
 ## Requirements
 - Python 3.8
