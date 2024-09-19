@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship owner cut corners on repairs before deadly Baltimore bridge collapse, US says in $100M lawsuit**
+**Researchers spot largest black hole jets ever discovered**
 
-You can read more about it [here](https://apnews.com/article/baltimore-bridge-collapse-justice-department-lawsuit-5a7b3d6a3f7ea04828bf7801df07a34e).
+You can read more about it [here](https://arstechnica.com/science/2024/09/researchers-spot-largest-black-hole-jets-ever-discovered/).
 
 ## Requirements
 - Python 3.8
