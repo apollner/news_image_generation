@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 16 Pro Max has better battery life and great cameras, but Apple Intelligence hasn't arrived**
+**Associate of Frenchman accused of mass rape of wife admits to similar abuse**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/18/apple-iphone-16-pro-max-review.html).
+You can read more about it [here](https://www.reuters.com/world/europe/associate-frenchman-accused-mass-rape-wife-admits-similar-abuse-2024-09-18/).
 
 ## Requirements
 - Python 3.8
