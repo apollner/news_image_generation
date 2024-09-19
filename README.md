@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Amazon return-to-office policy expected to impact traffic**
+**[Removed]**
 
-You can read more about it [here](https://www.king5.com/article/news/local/new-amazon-return-to-office-policy-impact-traffic/281-82610b81-843f-41f2-a68c-8ee834247e57).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
