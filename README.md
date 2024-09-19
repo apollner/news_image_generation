@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Whelan, freed in prisoner swap with Russia, tells other American detainees: "We're coming for you"**
+**Sean ‘Diddy’ Combs denied bail and will remain in federal detention, judge rules**
 
-You can read more about it [here](https://www.cbsnews.com/news/paul-whelan-russia-prisoner-swap-us-capitol-message/).
+You can read more about it [here](https://www.cnn.com/entertainment/live-news/sean-diddy-combs-arrested-nyc-09-17-2024/index.html).
 
 ## Requirements
 - Python 3.8
