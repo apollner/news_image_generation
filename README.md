@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM electric vehicles can finally access Tesla Superchargers**
+**iPhone 16 Pro Max review: A $1,200 glimpse at a more intelligent future**
 
-You can read more about it [here](https://www.theverge.com/2024/9/18/24247122/gm-ev-tesla-supercharger-access-adapter-price).
+You can read more about it [here](https://techcrunch.com/2024/09/18/iphone-16-pro-max-review/).
 
 ## Requirements
 - Python 3.8
