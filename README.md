@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gisele Pelicot, ‘drugged by husband and raped by strangers’, walks out of French court amid thunderous applause**
+**Report: Cancer diagnoses are more common but so is surviving**
 
-You can read more about it [here](https://www.hindustantimes.com/trending/gisele-pelicot-drugged-by-husband-and-raped-by-strangers-walks-out-of-french-court-amid-thunderous-applause-101726619065887.html).
+You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/09/18/nx-s1-5076874/report-cancer-diagnoses-survival-young-adults).
 
 ## Requirements
 - Python 3.8
