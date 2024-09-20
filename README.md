@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where to watch Jets vs. Patriots: Live stream, spread, odds, prediction, pick for 'Thursday Night Football'**
+**Chester Bennington’s Mom: ‘I Feel Betrayed’ by Linkin Park**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/where-to-watch-jets-vs-patriots-live-stream-spread-odds-prediction-pick-for-thursday-night-football/).
+You can read more about it [here](http://www.rollingstone.com/music/music-features/linkin-park-chester-bennington-mother-1235104752/).
 
 ## Requirements
 - Python 3.8
