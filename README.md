@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Husband of Russia's richest woman arrested on murder charge after office shootout**
+**EU to tell Apple how to do interoperability, DMA style**
 
-You can read more about it [here](https://www.reuters.com/world/europe/husband-russias-richest-woman-arrested-murder-charge-after-office-shootout-2024-09-19/).
+You can read more about it [here](https://techcrunch.com/2024/09/19/eu-to-tell-apple-how-to-do-interoperability-dma-style/).
 
 ## Requirements
 - Python 3.8
