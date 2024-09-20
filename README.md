@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What buying Commerzbank would mean for UniCredit — and the banking sector**
+**Stock market today: Dow surges 500 points as Fed-fueled stocks set sights on records**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/19/what-buying-commerzbank-would-mean-for-unicredit-and-german-banks.html).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-surges-500-points-as-fed-fueled-stocks-set-sights-on-records-133052211.html/).
 
 ## Requirements
 - Python 3.8
