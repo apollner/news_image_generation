@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU to tell Apple how to do interoperability, DMA style**
+**Gemini Live is rolling out to Galaxy phones for free - SamMobile**
 
-You can read more about it [here](https://techcrunch.com/2024/09/19/eu-to-tell-apple-how-to-do-interoperability-dma-style/).
+You can read more about it [here](https://www.sammobile.com/news/gemini-live-rolling-out-galaxy-phones-free/).
 
 ## Requirements
 - Python 3.8
