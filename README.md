@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gemini Live is rolling out to Galaxy phones for free - SamMobile**
+**SpaceX Crew-9 astronaut launch delayed to Sept. 26**
 
-You can read more about it [here](https://www.sammobile.com/news/gemini-live-rolling-out-galaxy-phones-free/).
+You can read more about it [here](https://www.space.com/spacex-crew-9-iss-launch-delay).
 
 ## Requirements
 - Python 3.8
