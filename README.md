@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin**
+**Where to watch Jets vs. Patriots: Live stream, spread, odds, prediction, pick for 'Thursday Night Football'**
 
-You can read more about it [here](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd).
+You can read more about it [here](https://www.cbssports.com/nfl/news/where-to-watch-jets-vs-patriots-live-stream-spread-odds-prediction-pick-for-thursday-night-football/).
 
 ## Requirements
 - Python 3.8
