@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawyers question whether a drugged French woman was truly unconscious during alleged rapes**
+**Teamsters won’t endorse in presidential race after releasing internal polling showing most members support Trump**
 
-You can read more about it [here](https://apnews.com/article/pelicot-france-rape-trial-5033d9a6d00630f00592018eccc9236c).
+You can read more about it [here](https://www.cnn.com/2024/09/18/politics/teamsters-will-not-endorse-us-president/index.html).
 
 ## Requirements
 - Python 3.8
