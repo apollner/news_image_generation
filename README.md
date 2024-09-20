@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Lawyers question whether a drugged French woman was truly unconscious during alleged rapes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/pelicot-france-rape-trial-5033d9a6d00630f00592018eccc9236c).
 
 ## Requirements
 - Python 3.8
