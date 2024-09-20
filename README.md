@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flood-hit central Europe will get billions in EU aid, von der Leyen promises**
+**Local Teamsters unions in swing states rush to endorse Harris**
 
-You can read more about it [here](https://www.reuters.com/world/europe/polands-third-largest-city-braces-peaking-floods-2024-09-19/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/19/teamsters-endorsement-harris-trump/).
 
 ## Requirements
 - Python 3.8
