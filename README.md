@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Formation chances rise as NHC monitors disturbance that could develop, impact Florida soon**
+**Lady Gaga explains why she didn’t bother to address the rumor she is a man**
 
-You can read more about it [here](https://www.wesh.com/article/tropical-disturbance-next-week-florida-path/62274996).
+You can read more about it [here](https://www.cnn.com/2024/09/19/entertainment/lady-gaga-rumors-she-is-a-man/index.html).
 
 ## Requirements
 - Python 3.8
