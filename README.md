@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Supporter Who Blamed Haitians for Stealing Cat Finds Pet in Basement**
+**US Fed cuts rates by half percentage point**
 
-You can read more about it [here](https://www.newsweek.com/trump-supporter-blamed-haitians-stealing-cat-finds-pet-1956041).
+You can read more about it [here](https://www.semafor.com/article/09/18/2024/us-federal-reserve-expected-to-cut-interest-rates).
 
 ## Requirements
 - Python 3.8
