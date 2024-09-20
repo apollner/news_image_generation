@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Space Telescope witnesses a 'smiling' galactic collision (images)**
+**Fed's jumbo rate cut signals recalibration for America**
 
-You can read more about it [here](https://www.space.com/james-webb-space-telescope-smiling-galactic-collision).
+You can read more about it [here](https://www.axios.com/2024/09/19/fed-interest-rate-cuts-recalibration).
 
 ## Requirements
 - Python 3.8
