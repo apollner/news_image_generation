@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teamsters will not endorse Trump or Harris in US presidential race**
+**US Fed cuts rates by half percentage point**
 
-You can read more about it [here](https://www.reuters.com/world/us/teamsters-meet-wednesday-consider-potential-us-presidential-endorsement-2024-09-18/).
+You can read more about it [here](https://www.semafor.com/article/09/18/2024/us-federal-reserve-expected-to-cut-interest-rates).
 
 ## Requirements
 - Python 3.8
