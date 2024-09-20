@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasury yields rise as investors digest Fed’s jumbo rate cut**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/19/us-treasurys-as-investors-digest-feds-jumbo-rate-cut.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
