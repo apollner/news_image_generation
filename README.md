@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**“He’s not God. He’s a loser”: Geoff Duncan reacts to Trump calling on GOP to shutdown government**
+**More devices exploding across Lebanon: What’s happening?**
 
-You can read more about it [here](https://www.cnn.com/2024/09/18/politics/video/hes-not-god-hes-a-loser-geoff-duncan-reacts-to-trump-calling-on-gop-to-shutdown-government).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/18/more-devices-exploding-across-lebanon-whats-happening).
 
 ## Requirements
 - Python 3.8
