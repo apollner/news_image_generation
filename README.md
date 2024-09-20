@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New COVID variant XEC now in half of states. Here's what to know.**
+**3 up, 3 down: Falcons offense takes a big step**
 
-You can read more about it [here](https://www.cbsnews.com/news/xec-covid-variant-symptoms-states-what-to-know/).
+You can read more about it [here](https://www.thefalcoholic.com/2024/9/18/24247484/3-up-3-down-falcons-offense-takes-a-big-step-james-smith-williams-troy-andersen-arnold-ebiketie).
 
 ## Requirements
 - Python 3.8
