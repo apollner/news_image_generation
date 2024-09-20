@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More devices exploding across Lebanon: What’s happening?**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/18/more-devices-exploding-across-lebanon-whats-happening).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
