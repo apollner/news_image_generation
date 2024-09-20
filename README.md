@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marshawn Lynch, Eli Manning, Adam Vinatieri among 16 first-time nominees for Pro Football Hall of Fame**
+**Trump Supporter Who Blamed Haitians for Stealing Cat Finds Pet in Basement**
 
-You can read more about it [here](https://sports.yahoo.com/marshawn-lynch-eli-manning-adam-vinatieri-among-16-first-time-nominees-for-pro-football-hall-of-fame-010521167.html).
+You can read more about it [here](https://www.newsweek.com/trump-supporter-blamed-haitians-stealing-cat-finds-pet-1956041).
 
 ## Requirements
 - Python 3.8
