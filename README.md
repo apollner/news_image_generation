@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles County reports dengue fever cluster acquired from local mosquitoes**
+**James Webb Space Telescope witnesses a 'smiling' galactic collision (images)**
 
-You can read more about it [here](https://www.foxnews.com/health/los-angeles-county-reports-dengue-fever-cluster-acquired-local-mosquitoes).
+You can read more about it [here](https://www.space.com/james-webb-space-telescope-smiling-galactic-collision).
 
 ## Requirements
 - Python 3.8
