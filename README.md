@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow surges 500 points as Fed-fueled stocks set sights on records**
+**Husband of Russia's richest woman arrested on murder charge after office shootout**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-surges-500-points-as-fed-fueled-stocks-set-sights-on-records-133052211.html/).
+You can read more about it [here](https://www.reuters.com/world/europe/husband-russias-richest-woman-arrested-murder-charge-after-office-shootout-2024-09-19/).
 
 ## Requirements
 - Python 3.8
