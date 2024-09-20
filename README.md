@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga explains why she didn’t bother to address the rumor she is a man**
+**Sebastian Stan Tells All: Becoming Donald Trump, Gaining 15 Pounds and Starring in 2024’s Most Controversial Movie**
 
-You can read more about it [here](https://www.cnn.com/2024/09/19/entertainment/lady-gaga-rumors-she-is-a-man/index.html).
+You can read more about it [here](https://variety.com/2024/film/news/sebastian-stan-donald-trump-the-apprentice-weight-gain-1236148614/).
 
 ## Requirements
 - Python 3.8
