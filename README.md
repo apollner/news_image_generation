@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed Cuts Rates by Half Percentage Point**
+**It’s official: Boeing CEO announces temporary layoffs for ‘large number’ of US workers**
 
-You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-cuts-rates-by-half-percentage-point-03566d82).
+You can read more about it [here](https://www.kiro7.com/news/local/its-official-boeing-ceo-announces-temporary-layoffs-amid-strike/FGDNJGEDQ5E3RMVHE7EW3N7L6E/).
 
 ## Requirements
 - Python 3.8
