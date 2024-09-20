@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-9 astronaut launch delayed to Sept. 26**
+**Formation chances rise as NHC monitors disturbance that could develop, impact Florida soon**
 
-You can read more about it [here](https://www.space.com/spacex-crew-9-iss-launch-delay).
+You can read more about it [here](https://www.wesh.com/article/tropical-disturbance-next-week-florida-path/62274996).
 
 ## Requirements
 - Python 3.8
