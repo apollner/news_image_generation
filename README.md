@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where to watch Jets vs. Patriots: Live stream, spread, odds, prediction, pick for 'Thursday Night Football'**
+**Flood-hit central Europe will get billions in EU aid, von der Leyen promises**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/where-to-watch-jets-vs-patriots-live-stream-spread-odds-prediction-pick-for-thursday-night-football/).
+You can read more about it [here](https://www.reuters.com/world/europe/polands-third-largest-city-braces-peaking-floods-2024-09-19/).
 
 ## Requirements
 - Python 3.8
