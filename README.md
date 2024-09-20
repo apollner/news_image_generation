@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Marshawn Lynch, Eli Manning, Adam Vinatieri among 16 first-time nominees for Pro Football Hall of Fame**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/marshawn-lynch-eli-manning-adam-vinatieri-among-16-first-time-nominees-for-pro-football-hall-of-fame-010521167.html).
 
 ## Requirements
 - Python 3.8
