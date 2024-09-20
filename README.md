@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marist polls: Harris leads Trump in Michigan, Wisconsin; they’re tied in Pennsylvania**
+**Teamsters will not endorse Trump or Harris in US presidential race**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4887548-harris-trump-michigan-wisconsin-pennsylvania/).
+You can read more about it [here](https://www.reuters.com/world/us/teamsters-meet-wednesday-consider-potential-us-presidential-endorsement-2024-09-18/).
 
 ## Requirements
 - Python 3.8
