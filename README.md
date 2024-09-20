@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Local Teamsters unions in swing states rush to endorse Harris**
+**Beyond Imagination: 140 Milky Ways Spanned by Record-Breaking Black Hole Jets**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/19/teamsters-endorsement-harris-trump/).
+You can read more about it [here](https://scitechdaily.com/beyond-imagination-140-milky-ways-spanned-by-record-breaking-black-hole-jets/).
 
 ## Requirements
 - Python 3.8
