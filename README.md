@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flood-hit central Europe will get billions in EU aid, von der Leyen promises**
+**A new genetic analysis of animals in the Wuhan market in 2019 may help find COVID-19's origin**
 
-You can read more about it [here](https://www.reuters.com/world/europe/polands-third-largest-city-braces-peaking-floods-2024-09-19/).
+You can read more about it [here](https://apnews.com/article/covid-origins-racoon-dog-lab-leak-05d573cfd019a20cb46d675af0c669dd).
 
 ## Requirements
 - Python 3.8
