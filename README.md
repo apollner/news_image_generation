@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 up, 3 down: Falcons offense takes a big step**
+**Fed Cuts Rates by Half Percentage Point**
 
-You can read more about it [here](https://www.thefalcoholic.com/2024/9/18/24247484/3-up-3-down-falcons-offense-takes-a-big-step-james-smith-williams-troy-andersen-arnold-ebiketie).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-cuts-rates-by-half-percentage-point-03566d82).
 
 ## Requirements
 - Python 3.8
