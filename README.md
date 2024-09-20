@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teamsters won’t endorse in presidential race after releasing internal polling showing most members support Trump**
+**'Golden Bachelorette' Joan meets her 24 suitors in emotional premiere: Who got a rose?**
 
-You can read more about it [here](https://www.cnn.com/2024/09/18/politics/teamsters-will-not-endorse-us-president/index.html).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/tv/2024/09/18/golden-bachelorette-premiere-recap/75269695007/).
 
 ## Requirements
 - Python 3.8
