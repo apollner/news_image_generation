@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chester Bennington’s Mom: ‘I Feel Betrayed’ by Linkin Park**
+**Flood-hit central Europe will get billions in EU aid, von der Leyen promises**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-features/linkin-park-chester-bennington-mother-1235104752/).
+You can read more about it [here](https://www.reuters.com/world/europe/polands-third-largest-city-braces-peaking-floods-2024-09-19/).
 
 ## Requirements
 - Python 3.8
