@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It’s official: Boeing CEO announces temporary layoffs for ‘large number’ of US workers**
+**Lawyers question whether a drugged French woman was truly unconscious during alleged rapes**
 
-You can read more about it [here](https://www.kiro7.com/news/local/its-official-boeing-ceo-announces-temporary-layoffs-amid-strike/FGDNJGEDQ5E3RMVHE7EW3N7L6E/).
+You can read more about it [here](https://apnews.com/article/pelicot-france-rape-trial-5033d9a6d00630f00592018eccc9236c).
 
 ## Requirements
 - Python 3.8
