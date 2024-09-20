@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teamsters won’t endorse in presidential race after releasing internal polling showing most members support Trump**
+**“He’s not God. He’s a loser”: Geoff Duncan reacts to Trump calling on GOP to shutdown government**
 
-You can read more about it [here](https://www.cnn.com/2024/09/18/politics/teamsters-will-not-endorse-us-president/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/18/politics/video/hes-not-god-hes-a-loser-geoff-duncan-reacts-to-trump-calling-on-gop-to-shutdown-government).
 
 ## Requirements
 - Python 3.8
