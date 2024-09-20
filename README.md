@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawyers question whether a drugged French woman was truly unconscious during alleged rapes**
+**Treasury yields rise as investors digest Fed’s jumbo rate cut**
 
-You can read more about it [here](https://apnews.com/article/pelicot-france-rape-trial-5033d9a6d00630f00592018eccc9236c).
+You can read more about it [here](https://www.cnbc.com/2024/09/19/us-treasurys-as-investors-digest-feds-jumbo-rate-cut.html).
 
 ## Requirements
 - Python 3.8
