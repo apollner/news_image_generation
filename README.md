@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sebastian Stan Tells All: Becoming Donald Trump, Gaining 15 Pounds and Starring in 2024’s Most Controversial Movie**
+**Los Angeles County reports dengue fever cluster acquired from local mosquitoes**
 
-You can read more about it [here](https://variety.com/2024/film/news/sebastian-stan-donald-trump-the-apprentice-weight-gain-1236148614/).
+You can read more about it [here](https://www.foxnews.com/health/los-angeles-county-reports-dengue-fever-cluster-acquired-local-mosquitoes).
 
 ## Requirements
 - Python 3.8
