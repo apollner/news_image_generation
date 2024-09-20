@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's jumbo rate cut signals recalibration for America**
+**Where to watch Jets vs. Patriots: Live stream, spread, odds, prediction, pick for 'Thursday Night Football'**
 
-You can read more about it [here](https://www.axios.com/2024/09/19/fed-interest-rate-cuts-recalibration).
+You can read more about it [here](https://www.cbssports.com/nfl/news/where-to-watch-jets-vs-patriots-live-stream-spread-odds-prediction-pick-for-thursday-night-football/).
 
 ## Requirements
 - Python 3.8
