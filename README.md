@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The cancers with longest treatment waits revealed**
+**Kentucky judge shot and killed in chambers, sheriff charged with murder: Officials**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwy948p4j5wo).
+You can read more about it [here](https://abcnews.go.com/US/kentucky-judge-shot-killed-in-chambers/story?id\\u003d113856879).
 
 ## Requirements
 - Python 3.8
