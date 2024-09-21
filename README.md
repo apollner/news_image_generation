@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five takeaways from the latest flurry of Harris-Trump polls**
+**Democrats launch new ad push to tie Trump to Mark Robinson following reported porn website comments**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4889632-latest-polls-white-house-race/).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/democrats-launch-new-ad-push-tie-trump-mark-robinson-reported-porn-web-rcna171889).
 
 ## Requirements
 - Python 3.8
