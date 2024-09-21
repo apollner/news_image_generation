@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris plans a livestream with Oprah Winfrey while Trump is set to address an Israeli-American group**
+**North Carolina GOP governor nominee Mark Robinson denies making racist and sexually graphic posts on porn forum**
 
-You can read more about it [here](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e).
+You can read more about it [here](https://www.cnbc.com/2024/09/19/mark-robinson-minisoldr-porn-racist-north-carolina-gov.html).
 
 ## Requirements
 - Python 3.8
