@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump Stock: Trump Media Hits New Low As Former President, Insiders Can Sell DJT Stock**
+**Mohamed Al Fayed, late Harrods owner whose son died with Princess Diana, accused of dozens of sexual assaults**
 
-You can read more about it [here](https://www.investors.com/news/donald-trump-stock-trump-media-hits-low-former-president-insiders-can-sell-djt-stock/).
+You can read more about it [here](https://www.cbsnews.com/news/mohamed-al-fayed-harrods-owner-accused-sexual-assaults/).
 
 ## Requirements
 - Python 3.8
