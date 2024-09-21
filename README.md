@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mohamed Al Fayed, late Harrods owner whose son died with Princess Diana, accused of dozens of sexual assaults**
+**A space rock is about to become Earth’s new ‘mini-moon’**
 
-You can read more about it [here](https://www.cbsnews.com/news/mohamed-al-fayed-harrods-owner-accused-sexual-assaults/).
+You can read more about it [here](https://www.cnn.com/2024/09/20/science/earth-asteroid-mini-moon/index.html).
 
 ## Requirements
 - Python 3.8
