@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chechen Warlord Says Elon Musk Disabled His Cybertruck**
+**Five takeaways from the latest flurry of Harris-Trump polls**
 
-You can read more about it [here](https://www.businessinsider.com/chechen-warlord-says-elon-musk-disabled-his-cybertruck-2024-9).
+You can read more about it [here](https://thehill.com/homenews/campaign/4889632-latest-polls-white-house-race/).
 
 ## Requirements
 - Python 3.8
