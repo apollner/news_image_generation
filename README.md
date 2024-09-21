@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani tracker: Dodgers star reaches unprecedented 50-50 season, then 51-51 with epic game vs. Marlins**
+**The cancers with longest treatment waits revealed**
 
-You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-tracker-dodgers-star-reaches-unprecedented-50-50-season-then-51-51-with-epic-game-vs-marlins-023131390.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy948p4j5wo).
 
 ## Requirements
 - Python 3.8
