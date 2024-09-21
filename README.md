@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**WNBA Playoff Bracket 2024: Full Schedule and Matchups For Entire Postseason**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://bleacherreport.com/articles/10136078-wnba-playoff-bracket-2024-full-schedule-and-matchups-for-entire-postseason).
 
 ## Requirements
 - Python 3.8
