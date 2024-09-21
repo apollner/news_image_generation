@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Huawei's trifold phone is proving popular among Apple iPhone fans in Beijing**
+**The iPhone 16 lineup, AirPods 4, Apple Watch Series 10 arrive around the world**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/20/huaweis-trifold-proving-popular-among-apple-iphone-fans-in-beijing.html).
+You can read more about it [here](https://www.apple.com/newsroom/2024/09/the-iphone-16-lineup-airpods-4-apple-watch-series-10-arrive-around-the-world/).
 
 ## Requirements
 - Python 3.8
