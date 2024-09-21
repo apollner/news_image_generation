@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike CEO John Donahoe to step down; will be replaced by Elliott Hill**
+**Kathryn Hahn Pitched Her Own ‘Agatha All Along’ Nude Scene: ‘It Was Good to See Her as Stripped Down’**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/19/nike-ceo-elliott-hill-john-donahoe/).
+You can read more about it [here](https://variety.com/2024/tv/news/agatha-all-along-nude-scene-kathryn-hahn-premiere-1236146450/).
 
 ## Requirements
 - Python 3.8
