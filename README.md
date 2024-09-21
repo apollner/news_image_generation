@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The iPhone 16 lineup, AirPods 4, Apple Watch Series 10 arrive around the world**
+**A 'golden age' of rat research may be here. What the often unwanted companions can teach us about us**
 
-You can read more about it [here](https://www.apple.com/newsroom/2024/09/the-iphone-16-lineup-airpods-4-apple-watch-series-10-arrive-around-the-world/).
+You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/09/20/nx-s1-5120472/rat-research-pets-disease-genomics).
 
 ## Requirements
 - Python 3.8
