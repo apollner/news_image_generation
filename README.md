@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meryl Streep, Jennifer Lopez And Julia Roberts Among Celebrities Appearing At Oprah Winfrey-Hosted Kamala Harris ‘Unite For America’ Event**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/09/kamala-harris-oprah-winfrey-election-event-1236095021/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
