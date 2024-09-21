@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike CEO John Donahoe is out, replaced by company veteran Elliott Hill**
+**Harris plans a livestream with Oprah Winfrey while Trump is set to address an Israeli-American group**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/19/nike-ceo-john-donahoe-is-out-replaced-by-elliott-hill.html).
+You can read more about it [here](https://apnews.com/article/harris-trump-oprah-winfrey-miriam-adelson-f9384395f54a0d071ab52bca80d3659e).
 
 ## Requirements
 - Python 3.8
