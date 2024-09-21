@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The cancers with longest treatment waits revealed**
+**Vivek Ramaswamy finally found a conspiracy theory even he can’t get behind**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwy948p4j5wo).
+You can read more about it [here](https://www.politico.com/news/2024/09/20/vivek-ramaswamy-town-hall-springfield-ohio-00180180).
 
 ## Requirements
 - Python 3.8
