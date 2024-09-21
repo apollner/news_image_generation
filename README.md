@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrats launch new ad push to tie Trump to Mark Robinson following reported porn website comments**
+**Trump Media plummets to new lows on the first day the former president can sell his shares**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/democrats-launch-new-ad-push-tie-trump-mark-robinson-reported-porn-web-rcna171889).
+You can read more about it [here](https://apnews.com/article/trump-media-shares-donald-trump-truth-social-82d8839bb5f5a96e93e2404399ead072).
 
 ## Requirements
 - Python 3.8
