@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky judge shot and killed in chambers, sheriff charged with murder: Officials**
+**Law enforcement informed Biden campaign about hacked Trump material, official says**
 
-You can read more about it [here](https://abcnews.go.com/US/kentucky-judge-shot-killed-in-chambers/story?id\\u003d113856879).
+You can read more about it [here](https://www.politico.com/news/2024/09/19/iran-hacking-trump-biden-2024-election-00180160).
 
 ## Requirements
 - Python 3.8
