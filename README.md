@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyond Imagination: 140 Milky Ways Spanned by Record-Breaking Black Hole Jets**
+**Nike CEO John Donahoe is out, replaced by company veteran Elliott Hill**
 
-You can read more about it [here](https://scitechdaily.com/beyond-imagination-140-milky-ways-spanned-by-record-breaking-black-hole-jets/).
+You can read more about it [here](https://www.cnbc.com/2024/09/19/nike-ceo-john-donahoe-is-out-replaced-by-elliott-hill.html).
 
 ## Requirements
 - Python 3.8
