@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah Hunts for Security Gaps, Moles as It Reels From Brutal Week of Airstrikes, Pager Attacks**
+**Trump assassination attempt: Suspect Ryan Routh played 'cat and mouse' with police, expert says**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/hezbollah-hunts-for-security-gaps-moles-as-it-reels-from-brutal-week-14210631).
+You can read more about it [here](https://www.foxnews.com/us/trump-assassination-attempt-suspect-ryan-routh-played-cat-mouse-police-expert-says).
 
 ## Requirements
 - Python 3.8
