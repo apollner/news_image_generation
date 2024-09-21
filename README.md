@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Law enforcement informed Biden campaign about hacked Trump material, official says**
+**A fire that burned for 4 days after Texas pipeline explosion has finally gone out**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/19/iran-hacking-trump-biden-2024-election-00180160).
+You can read more about it [here](https://apnews.com/article/texas-pipeline-fire-f994cc6266bb7be3473010450e270f27).
 
 ## Requirements
 - Python 3.8
