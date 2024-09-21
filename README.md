@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio GOP Gov. DeWine slams Trump and Vance for baseless claims about Haitian migrants in Springfield**
+**Donald Trump Stock: Trump Media Hits New Low As Former President, Insiders Can Sell DJT Stock**
 
-You can read more about it [here](https://abcnews.go.com/Politics/ohio-gop-gov-dewine-slams-trump-vance-baseless/story?id\\u003d113872462).
+You can read more about it [here](https://www.investors.com/news/donald-trump-stock-trump-media-hits-low-former-president-insiders-can-sell-djt-stock/).
 
 ## Requirements
 - Python 3.8
