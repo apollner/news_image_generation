@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**On the trail of the mystery woman whose company licensed exploding pagers**
+**Trump’s North Carolina protégé under fire over ‘black Nazi’ porn claims**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/trail-mystery-woman-whose-company-licensed-exploding-pagers-2024-09-20/).
+You can read more about it [here](https://www.ft.com/content/edb1f861-f989-4bd2-ae91-753e97df2160).
 
 ## Requirements
 - Python 3.8
