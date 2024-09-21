@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media plummets to new lows on the first day the former president can sell his shares**
+**Ohio GOP Gov. DeWine slams Trump and Vance for baseless claims about Haitian migrants in Springfield**
 
-You can read more about it [here](https://apnews.com/article/trump-media-shares-donald-trump-truth-social-82d8839bb5f5a96e93e2404399ead072).
+You can read more about it [here](https://abcnews.go.com/Politics/ohio-gop-gov-dewine-slams-trump-vance-baseless/story?id\\u003d113872462).
 
 ## Requirements
 - Python 3.8
