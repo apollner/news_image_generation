@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s North Carolina protégé under fire over ‘black Nazi’ porn claims**
+**Mohamed Al Fayed was 'a monster enabled by' Harrods, says lawyer**
 
-You can read more about it [here](https://www.ft.com/content/edb1f861-f989-4bd2-ae91-753e97df2160).
+You can read more about it [here](https://www.bbc.com/news/articles/c89lxz09jzjo).
 
 ## Requirements
 - Python 3.8
