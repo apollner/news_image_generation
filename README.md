@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Snap design engineer on new AR glasses: 'Obviously bad'**
+**FDA approves first flu vaccine that can be self-administered at home**
 
-You can read more about it [here](https://finance.yahoo.com/news/former-snap-design-engineer-on-new-ar-glasses-obviously-bad-181408794.html/).
+You can read more about it [here](https://www.cnn.com/2024/09/20/health/flumist-flu-vaccine-approved-self-administration/index.html).
 
 ## Requirements
 - Python 3.8
