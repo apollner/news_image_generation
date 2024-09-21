@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mohamed Al Fayed was 'a monster enabled by' Harrods, says lawyer**
+**Former Snap design engineer on new AR glasses: 'Obviously bad'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c89lxz09jzjo).
+You can read more about it [here](https://finance.yahoo.com/news/former-snap-design-engineer-on-new-ar-glasses-obviously-bad-181408794.html/).
 
 ## Requirements
 - Python 3.8
