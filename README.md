@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A space rock is about to become Earth’s new ‘mini-moon’**
+**The Trump tax flip-flop that could help Republicans win the House**
 
-You can read more about it [here](https://www.cnn.com/2024/09/20/science/earth-asteroid-mini-moon/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/09/20/trump-salt-cap-house-gop-tax-00180245).
 
 ## Requirements
 - Python 3.8
