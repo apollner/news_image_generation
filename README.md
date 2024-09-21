@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA Playoff Bracket 2024: Full Schedule and Matchups For Entire Postseason**
+**Shohei Ohtani tracker: Dodgers star reaches unprecedented 50-50 season, then 51-51 with epic game vs. Marlins**
 
-You can read more about it [here](https://bleacherreport.com/articles/10136078-wnba-playoff-bracket-2024-full-schedule-and-matchups-for-entire-postseason).
+You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-tracker-dodgers-star-reaches-unprecedented-50-50-season-then-51-51-with-epic-game-vs-marlins-023131390.html).
 
 ## Requirements
 - Python 3.8
