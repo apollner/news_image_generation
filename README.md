@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina GOP governor nominee Mark Robinson denies making racist and sexually graphic posts on porn forum**
+**Nike CEO John Donahoe to step down; will be replaced by Elliott Hill**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/19/mark-robinson-minisoldr-porn-racist-north-carolina-gov.html).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/19/nike-ceo-elliott-hill-john-donahoe/).
 
 ## Requirements
 - Python 3.8
