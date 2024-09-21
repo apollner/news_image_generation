@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breece Hall jokes about seeing Jets QB Aaron Rodgers run tonight: 'He's crazy' | SNY**
+**Europe automaker shares slump after Mercedes becomes latest to cut 2024 guidance**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.cnbc.com/2024/09/20/mercedes-shares-slump-after-cutting-2024-guidance-on-weak-china-demand.html).
 
 ## Requirements
 - Python 3.8
