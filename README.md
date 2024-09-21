@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says Jewish voters would be partly to blame if he loses election**
+**Huawei's trifold phone is proving popular among Apple iPhone fans in Beijing**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/20/trump-says-jewish-voters-would-be-partly-to-blame-if-he-loses-election).
+You can read more about it [here](https://www.cnbc.com/2024/09/20/huaweis-trifold-proving-popular-among-apple-iphone-fans-in-beijing.html).
 
 ## Requirements
 - Python 3.8
