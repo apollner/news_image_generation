@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kathryn Hahn Pitched Her Own ‘Agatha All Along’ Nude Scene: ‘It Was Good to See Her as Stripped Down’**
+**Meryl Streep, Jennifer Lopez And Julia Roberts Among Celebrities Appearing At Oprah Winfrey-Hosted Kamala Harris ‘Unite For America’ Event**
 
-You can read more about it [here](https://variety.com/2024/tv/news/agatha-all-along-nude-scene-kathryn-hahn-premiere-1236146450/).
+You can read more about it [here](http://deadline.com/2024/09/kamala-harris-oprah-winfrey-election-event-1236095021/).
 
 ## Requirements
 - Python 3.8
