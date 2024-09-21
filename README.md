@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Trump tax flip-flop that could help Republicans win the House**
+**On the trail of the mystery woman whose company licensed exploding pagers**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/20/trump-salt-cap-house-gop-tax-00180245).
+You can read more about it [here](https://www.reuters.com/world/middle-east/trail-mystery-woman-whose-company-licensed-exploding-pagers-2024-09-20/).
 
 ## Requirements
 - Python 3.8
