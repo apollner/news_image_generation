@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A 'golden age' of rat research may be here. What the often unwanted companions can teach us about us**
+**Chechen Warlord Says Elon Musk Disabled His Cybertruck**
 
-You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/09/20/nx-s1-5120472/rat-research-pets-disease-genomics).
+You can read more about it [here](https://www.businessinsider.com/chechen-warlord-says-elon-musk-disabled-his-cybertruck-2024-9).
 
 ## Requirements
 - Python 3.8
