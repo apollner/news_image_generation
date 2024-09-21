@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump assassination attempt: Suspect Ryan Routh played 'cat and mouse' with police, expert says**
+**Trump says Jewish voters would be partly to blame if he loses election**
 
-You can read more about it [here](https://www.foxnews.com/us/trump-assassination-attempt-suspect-ryan-routh-played-cat-mouse-police-expert-says).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/20/trump-says-jewish-voters-would-be-partly-to-blame-if-he-loses-election).
 
 ## Requirements
 - Python 3.8
