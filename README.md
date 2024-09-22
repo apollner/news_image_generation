@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 3 Injury Report: Seahawks vs. Dolphins**
+**Georgia election board requires ballots be hand-counted despite warning from key GOP state officials**
 
-You can read more about it [here](https://www.seahawks.com/news/week-3-injury-report-seahawks-vs-dolphins).
+You can read more about it [here](https://www.cnn.com/2024/09/20/politics/georgia-republican-election-rules-hand-count/index.html).
 
 ## Requirements
 - Python 3.8
