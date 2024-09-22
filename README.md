@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'She should be alive today' — Harris spotlights woman's death to blast abortion bans and Trump**
+**Week 3 Injury Report: Seahawks vs. Dolphins**
 
-You can read more about it [here](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d).
+You can read more about it [here](https://www.seahawks.com/news/week-3-injury-report-seahawks-vs-dolphins).
 
 ## Requirements
 - Python 3.8
