@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's official: Former TMI nuclear power plant set to restart operations**
+**Travis King, US soldier who fled to North Korea, sentenced for desertion**
 
-You can read more about it [here](https://www.wgal.com/article/pennsylvania-three-mile-island-nuclear-power-plant-restarting/62295156).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/21/travis-king-us-soldier-who-fled-to-north-korea-sentenced-for-desertion).
 
 ## Requirements
 - Python 3.8
