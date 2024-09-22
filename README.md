@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anthony Joshua vs. Daniel Dubois live results and analysis**
+**Tia Mowry Says She and Sister Tamera Have Grown Apart: I Wish We 'Were Still Close'**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/41330045/anthony-joshua-vs-daniel-dubois-live-boxing-results-analysis).
+You can read more about it [here](https://people.com/tia-mowry-says-she-and-sister-tamera-have-grown-apart-i-wish-we-were-still-close-8716443).
 
 ## Requirements
 - Python 3.8
