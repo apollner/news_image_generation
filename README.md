@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Illinois snaps Nebraska’s undefeated start during overtime at Memorial Stadium**
+**Boeing’s space and defense chief exits in new CEO’s first executive move**
 
-You can read more about it [here](https://www.ketv.com/article/illinois-snaps-nebraskas-undefeated-start/62306160).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-defense-head-ted-colbert-leave-2024-09-20/).
 
 ## Requirements
 - Python 3.8
