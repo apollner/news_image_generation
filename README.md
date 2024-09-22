@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angelina Jolie reveals she and daughter Vivienne have matching tattoos: ‘It means so much to us’**
+**She skipped a routine screening. Doctors found 2 types of cancer**
 
-You can read more about it [here](https://pagesix.com/2024/09/21/style/angelina-jolie-reveals-she-and-daughter-vivienne-have-matching-tattoos/).
+You can read more about it [here](https://www.cbsnews.com/news/breast-cancer-mammogram-screening/).
 
 ## Requirements
 - Python 3.8
