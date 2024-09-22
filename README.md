@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Huge explosion at Russian arms depot**
+**An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says**
 
-You can read more about it [here](https://www.bbc.com/news/videos/cwy9pkrpyjdo).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-755733f50ad52c5af05a2ea7ef082e26).
 
 ## Requirements
 - Python 3.8
