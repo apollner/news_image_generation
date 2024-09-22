@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says**
+**She skipped a routine screening. Doctors found 2 types of cancer**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-gaza-755733f50ad52c5af05a2ea7ef082e26).
+You can read more about it [here](https://www.cbsnews.com/news/breast-cancer-mammogram-screening/).
 
 ## Requirements
 - Python 3.8
