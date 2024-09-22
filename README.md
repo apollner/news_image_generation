@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Sorkin Considering 'West Wing" Reboot After White House Visit**
+**Shohei Ohtani receives standing ovation after reaching 50-50, then reaches 52-52**
 
-You can read more about it [here](https://variety.com/2024/tv/news/aaron-sorkin-west-wing-reboot-white-house-visit-1236152241/).
+You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-receives-standing-ovation-after-reaching-50-50-then-reaches-52-52-035341563.html).
 
 ## Requirements
 - Python 3.8
