@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. soldier who crossed into North Korea pleads guilty to desertion**
+**South Carolina inmate utters just one final word before dying by lethal injection in state’s first execution in 13 years**
 
-You can read more about it [here](https://www.cbsnews.com/news/travis-king-u-s-soldier-north-korea-pleads-guilty-desertion/).
+You can read more about it [here](https://nypost.com/2024/09/20/us-news/south-carolina-inmate-dies-by-lethal-injection-in-states-first-execution-in-13-years/).
 
 ## Requirements
 - Python 3.8
