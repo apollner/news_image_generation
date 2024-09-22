@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah targets base near Haifa after Israeli strike in Beirut killed 37, including top commander**
+**The Wall Street economist who nailed the Fed’s ‘joyous’ rate cut sees the same thing again**
 
-You can read more about it [here](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-0584727974096d98d1b5b132dfd1d218).
+You can read more about it [here](https://fortune.com/2024/09/21/fed-rate-cut-outlook-fomc-meeting-november-50-bps-economy-job-market/).
 
 ## Requirements
 - Python 3.8
