@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 3 Injury Report: Seahawks vs. Dolphins**
+**Porn site user linked to Mark Robinson also praised Hitler’s Mein Kampf**
 
-You can read more about it [here](https://www.seahawks.com/news/week-3-injury-report-seahawks-vs-dolphins).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/20/mark-robinson-mein-kampf-porn-posts/).
 
 ## Requirements
 - Python 3.8
