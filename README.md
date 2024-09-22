@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Week 3 Injury Report: Seahawks vs. Dolphins**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.seahawks.com/news/week-3-injury-report-seahawks-vs-dolphins).
 
 ## Requirements
 - Python 3.8
