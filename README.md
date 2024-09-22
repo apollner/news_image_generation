@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York state reports 1st human case of EEE in nearly a decade**
+**'She should be alive today' — Harris spotlights woman's death to blast abortion bans and Trump**
 
-You can read more about it [here](https://abcnews.go.com/Health/new-york-state-reports-human-case-eee/story?id\\u003d113888979).
+You can read more about it [here](https://apnews.com/article/harris-election-abortion-rights-georgia-amber-thurman-5ba5dabf0dc3c98de12389c34b47475d).
 
 ## Requirements
 - Python 3.8
