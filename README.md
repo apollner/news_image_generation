@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Union opposition to U.S. Steel sale reflects years of bad relations**
+**Arizona high court rules nearly 98,000 people whose citizenship hadn’t been confirmed can vote the full ballot**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/21/us-steel-union-opposition-sale-nippon-steelworkers/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/arizona-high-court-rules-nearly-98000-people-whose-citizenship-hadnt-been-confirmed-can-vote-the-full-ballot).
 
 ## Requirements
 - Python 3.8
