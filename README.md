@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis King, US soldier who fled to North Korea, sentenced for desertion**
+**Illinois snaps Nebraska’s undefeated start during overtime at Memorial Stadium**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/21/travis-king-us-soldier-who-fled-to-north-korea-sentenced-for-desertion).
+You can read more about it [here](https://www.ketv.com/article/illinois-snaps-nebraskas-undefeated-start/62306160).
 
 ## Requirements
 - Python 3.8
