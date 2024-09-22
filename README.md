@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Carolina inmate utters just one final word before dying by lethal injection in state’s first execution in 13 years**
+**It's official: Former TMI nuclear power plant set to restart operations**
 
-You can read more about it [here](https://nypost.com/2024/09/20/us-news/south-carolina-inmate-dies-by-lethal-injection-in-states-first-execution-in-13-years/).
+You can read more about it [here](https://www.wgal.com/article/pennsylvania-three-mile-island-nuclear-power-plant-restarting/62295156).
 
 ## Requirements
 - Python 3.8
