@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mom of suspect in Georgia school shooting indicted and is accused of taping a parent to a chair**
+**Union opposition to U.S. Steel sale reflects years of bad relations**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/mom-suspect-georgia-school-shooting-indicted-accused-taping-113898113).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/21/us-steel-union-opposition-sale-nippon-steelworkers/).
 
 ## Requirements
 - Python 3.8
