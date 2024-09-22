@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia election board requires ballots be hand-counted despite warning from key GOP state officials**
+**Shohei Ohtani receives standing ovation after reaching 50-50, then reaches 52-52**
 
-You can read more about it [here](https://www.cnn.com/2024/09/20/politics/georgia-republican-election-rules-hand-count/index.html).
+You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-receives-standing-ovation-after-reaching-50-50-then-reaches-52-52-035341563.html).
 
 ## Requirements
 - Python 3.8
