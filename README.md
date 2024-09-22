@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani receives standing ovation after reaching 50-50, then reaches 52-52**
+**Top Hezbollah commander among 14 killed in Israeli strike on Beirut**
 
-You can read more about it [here](https://sports.yahoo.com/shohei-ohtani-receives-standing-ovation-after-reaching-50-50-then-reaches-52-52-035341563.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/un-peacekeepers-lebanon-urge-de-escalation-after-heavy-airstrikes-2024-09-20/).
 
 ## Requirements
 - Python 3.8
