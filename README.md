@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy hopes for quick US action as another arms depot is hit in Russia**
+**Boeing machinists on picket lines prepare for lengthy strike: 'I can last as long as it takes'**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-fire-depot-drone-522c89e6ad0f1fb8db3a5787a1c17fc6).
+You can read more about it [here](https://www.cnbc.com/2024/09/21/boeing-strike-machinists-prepare-for-lengthy-stoppage.html).
 
 ## Requirements
 - Python 3.8
