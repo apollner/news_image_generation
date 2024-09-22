@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel shares climb after reports Qualcomm approached Intel about a takeover**
+**Arizona Supreme Court rules 98,000 people whose citizenship is unconfirmed can vote in pivotal election**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.foxnews.com/politics/arizona-supreme-court-rules-98000-people-citizenship-unconfirmed-vote-pivotal-election).
 
 ## Requirements
 - Python 3.8
