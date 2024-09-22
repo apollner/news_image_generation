@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the indictment against Sean ‘Diddy’ Combs parallels the R. Kelly case – with one key difference**
+**Watch: Huge explosion at Russian arms depot**
 
-You can read more about it [here](https://www.cnn.com/2024/09/21/us/sean-diddy-combs-vs-r-kelly-cases/index.html).
+You can read more about it [here](https://www.bbc.com/news/videos/cwy9pkrpyjdo).
 
 ## Requirements
 - Python 3.8
