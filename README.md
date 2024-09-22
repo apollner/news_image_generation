@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing’s space and defense chief exits in new CEO’s first executive move**
+**Aaron Sorkin Considering 'West Wing" Reboot After White House Visit**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-defense-head-ted-colbert-leave-2024-09-20/).
+You can read more about it [here](https://variety.com/2024/tv/news/aaron-sorkin-west-wing-reboot-white-house-visit-1236152241/).
 
 ## Requirements
 - Python 3.8
