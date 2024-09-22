@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona Supreme Court rules 98,000 people whose citizenship is unconfirmed can vote in pivotal election**
+**Week 3 Injury Report: Seahawks vs. Dolphins**
 
-You can read more about it [here](https://www.foxnews.com/politics/arizona-supreme-court-rules-98000-people-citizenship-unconfirmed-vote-pivotal-election).
+You can read more about it [here](https://www.seahawks.com/news/week-3-injury-report-seahawks-vs-dolphins).
 
 ## Requirements
 - Python 3.8
