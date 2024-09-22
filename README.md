@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike on Gaza school kills 22, says Hamas**
+**Chipmaker Qualcomm Is Said to Explore Friendly Takeover of Intel**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cr4x6dwqlxgo).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-21/chipmaker-qualcomm-is-said-to-explore-friendly-takeover-of-intel).
 
 ## Requirements
 - Python 3.8
