@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She skipped a routine screening. Doctors found 2 types of cancer**
+**Anthony Joshua vs. Daniel Dubois live results and analysis**
 
-You can read more about it [here](https://www.cbsnews.com/news/breast-cancer-mammogram-screening/).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/41330045/anthony-joshua-vs-daniel-dubois-live-boxing-results-analysis).
 
 ## Requirements
 - Python 3.8
