@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chipmaker Qualcomm Is Said to Explore Friendly Takeover of Intel**
+**How the indictment against Sean ‘Diddy’ Combs parallels the R. Kelly case – with one key difference**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-21/chipmaker-qualcomm-is-said-to-explore-friendly-takeover-of-intel).
+You can read more about it [here](https://www.cnn.com/2024/09/21/us/sean-diddy-combs-vs-r-kelly-cases/index.html).
 
 ## Requirements
 - Python 3.8
