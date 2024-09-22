@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona high court rules nearly 98,000 people whose citizenship hadn’t been confirmed can vote the full ballot**
+**Death toll rises in Israeli military "targeted attack" that killed Hezbollah commanders**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/arizona-high-court-rules-nearly-98000-people-whose-citizenship-hadnt-been-confirmed-can-vote-the-full-ballot).
+You can read more about it [here](https://www.cbsnews.com/news/death-toll-israeli-attack-hezbollah/).
 
 ## Requirements
 - Python 3.8
