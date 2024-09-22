@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Hezbollah commander among 14 killed in Israeli strike on Beirut**
+**U.S. soldier who crossed into North Korea pleads guilty to desertion**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/un-peacekeepers-lebanon-urge-de-escalation-after-heavy-airstrikes-2024-09-20/).
+You can read more about it [here](https://www.cbsnews.com/news/travis-king-u-s-soldier-north-korea-pleads-guilty-desertion/).
 
 ## Requirements
 - Python 3.8
