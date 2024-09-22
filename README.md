@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tia Mowry Says She and Sister Tamera Have Grown Apart: I Wish We 'Were Still Close'**
+**Mom of suspect in Georgia school shooting indicted and is accused of taping a parent to a chair**
 
-You can read more about it [here](https://people.com/tia-mowry-says-she-and-sister-tamera-have-grown-apart-i-wish-we-were-still-close-8716443).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/mom-suspect-georgia-school-shooting-indicted-accused-taping-113898113).
 
 ## Requirements
 - Python 3.8
