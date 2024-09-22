@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll rises in Israeli military "targeted attack" that killed Hezbollah commanders**
+**Hezbollah targets base near Haifa after Israeli strike in Beirut killed 37, including top commander**
 
-You can read more about it [here](https://www.cbsnews.com/news/death-toll-israeli-attack-hezbollah/).
+You can read more about it [here](https://apnews.com/article/israel-hezbollah-rocket-attack-mideast-tensions-0584727974096d98d1b5b132dfd1d218).
 
 ## Requirements
 - Python 3.8
