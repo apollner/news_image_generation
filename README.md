@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves first flu vaccine that can be self-administered at home**
+**Whooping cough cases are soaring. Can infecting people help test a better vaccine?**
 
-You can read more about it [here](https://www.cnn.com/2024/09/20/health/flumist-flu-vaccine-approved-self-administration/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/20/health/whooping-cough-cases-surging-human-challenge/index.html).
 
 ## Requirements
 - Python 3.8
