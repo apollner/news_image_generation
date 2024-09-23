@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The stakes behind Ukraine's surprise attack inside Russian territory**
+**Lizzo slams Ozempic accusations after showing off weight loss transformation**
 
-You can read more about it [here](https://www.cbsnews.com/news/ukraine-russia-war-the-stakes-behind-surprise-attack-inside-russian-territory/).
+You can read more about it [here](https://pagesix.com/2024/09/22/celebrity-news/lizzo-slams-ozempic-accusations-after-weight-loss/).
 
 ## Requirements
 - Python 3.8
