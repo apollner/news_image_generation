@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft's 'pivotal move' to reopen nuclear plant highlights role to power Ai: Keith Krach**
+**Israel closes Al Jazeera bureau in Ramallah: All you need to know**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/22/israel-closes-al-jazeera-bureau-in-ramallah-all-you-need-to-know).
 
 ## Requirements
 - Python 3.8
