@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apollo to Offer Multibillion-Dollar Investment in Intel**
+**Lizzo Addresses Ozempic Allegations After Showing Off Weight Loss Transformation**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-22/apollo-is-said-to-offer-multibillion-dollar-investment-in-intel).
+You can read more about it [here](http://www.billboard.com/music/music-news/lizzo-addresses-ozempic-allegations-weight-loss-videos-1235781321/).
 
 ## Requirements
 - Python 3.8
