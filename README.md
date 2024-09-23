@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah claims rocket attack deep inside northern Israel**
+**Four dead and dozens hurt in Alabama mass shooting**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/21/hezbollah-claims-rocket-attack-deep-inside-northern-israel).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2k9gl6g49o).
 
 ## Requirements
 - Python 3.8
