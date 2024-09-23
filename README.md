@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel, Hezbollah trade strikes as death toll rises from Beirut attack**
+**Harris accepts invitation for 2nd presidential debate, Trump says "it's just too late" for another one**
 
-You can read more about it [here](https://www.cbsnews.com/news/death-toll-israeli-attack-hezbollah/).
+You can read more about it [here](https://www.cbsnews.com/news/harris-trump-debate-cnn-invitation/).
 
 ## Requirements
 - Python 3.8
