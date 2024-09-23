@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive | On Ukraine’s Snake Island, the Heart of the Battle for the Black Sea**
+**French President Emmanuel Macron announces new right-wing government**
 
-You can read more about it [here](https://www.wsj.com/world/on-ukraines-snake-island-the-heart-of-the-battle-for-the-black-sea-5bc5744d).
+You can read more about it [here](https://www.bbc.com/news/articles/c8rd52zl018o).
 
 ## Requirements
 - Python 3.8
