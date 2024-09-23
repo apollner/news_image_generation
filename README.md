@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four dead and dozens hurt in Alabama mass shooting**
+**Where is Sara Anne Wood? Location of N.Y. girl's body a mystery decades after murder**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2k9gl6g49o).
+You can read more about it [here](https://www.cbsnews.com/news/sara-anne-wood-new-york-murder-mystery-lewis-lent-serial-killer-48-hours/).
 
 ## Requirements
 - Python 3.8
