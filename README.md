@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 dead, 18 wounded in Birmingham mass shooting, Alabama police say**
+**2 suspended from college swim team after report of slur scratched onto student's body**
 
-You can read more about it [here](https://www.cbsnews.com/news/shooting-birmingham-alabama-police/).
+You can read more about it [here](https://abcnews.go.com/Sports/wireStory/2-suspended-college-swim-team-after-report-slur-113909588).
 
 ## Requirements
 - Python 3.8
