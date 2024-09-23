@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mother of Georgia school shooting suspect indicted on elder abuse charges, report says**
+**Kathryn Hahn ‘Came Up’ With ‘Agatha All Along’ Nude Scene, a First for a Woman in the MCU**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/21/georgia-school-shooting-suspect-mother-indicted/75330611007/).
+You can read more about it [here](https://www.indiewire.com/news/general-news/kathryn-hahn-agatha-all-along-nude-scene-1235050002/).
 
 ## Requirements
 - Python 3.8
