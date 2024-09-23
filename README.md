@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Snapshot: Graham's election warning for Nebraska**
+**Apollo to Offer Multibillion-Dollar Investment in Intel**
 
-You can read more about it [here](https://www.axios.com/2024/09/22/lindsey-graham-nebraska-electoral-college-reform).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-22/apollo-is-said-to-offer-multibillion-dollar-investment-in-intel).
 
 ## Requirements
 - Python 3.8
