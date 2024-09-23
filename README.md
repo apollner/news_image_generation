@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Wall Street economist who nailed the Fed’s ‘joyous’ rate cut sees the same thing again**
+**Elon Musk's SpaceX sued by Cards Against Humanity over alleged trespassing in Texas**
 
-You can read more about it [here](https://fortune.com/2024/09/21/fed-rate-cut-outlook-fomc-meeting-november-50-bps-economy-job-market/).
+You can read more about it [here](https://www.cbsnews.com/texas/news/elon-musks-spacex-sued-by-cards-against-humanity-alleged-trespassing-texas/).
 
 ## Requirements
 - Python 3.8
