@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anura Kumara Dissanayake: Left-leaning leader wins Sri Lanka election**
+**Attack on foreign diplomats' convoy in Pakistan kills police officer, police say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/clyznjz3d78o).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/bomb-blast-kills-police-officer-foreign-diplomats-security-detail-pakistan-2024-09-22/).
 
 ## Requirements
 - Python 3.8
