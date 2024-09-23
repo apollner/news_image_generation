@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manning keeps No. 1 Texas rolling in first start**
+**Hezbollah claims rocket attack deep inside northern Israel**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/41370391/arch-manning-keeps-no-1-texas-rolling-rout-ul-monroe).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/21/hezbollah-claims-rocket-attack-deep-inside-northern-israel).
 
 ## Requirements
 - Python 3.8
