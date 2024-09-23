@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lizzo slams Ozempic accusations after showing off weight loss transformation**
+**Exclusive | Chip Giants TSMC and Samsung Discuss Building Middle Eastern Megafactories**
 
-You can read more about it [here](https://pagesix.com/2024/09/22/celebrity-news/lizzo-slams-ozempic-accusations-after-weight-loss/).
+You can read more about it [here](https://www.wsj.com/tech/ai/chip-giants-tsmc-and-samsung-discuss-building-middle-eastern-megafactories-65adc854).
 
 ## Requirements
 - Python 3.8
