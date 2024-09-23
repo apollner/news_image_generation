@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Harris is changing the way Democrats target Latino voters**
+**NFL Week 3 predictions: Picks against the spread for every game**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/22/harris-latino-voters-00180365).
+You can read more about it [here](https://nypost.com/2024/09/22/betting/nfl-week-3-predictions-picks-against-the-spread-for-every-game/).
 
 ## Requirements
 - Python 3.8
