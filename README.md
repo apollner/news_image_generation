@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris accepts invitation for 2nd presidential debate, Trump says "it's just too late" for another one**
+**The Wall Street economist who nailed the Fed’s ‘joyous’ rate cut sees the same thing again**
 
-You can read more about it [here](https://www.cbsnews.com/news/harris-trump-debate-cnn-invitation/).
+You can read more about it [here](https://fortune.com/2024/09/21/fed-rate-cut-outlook-fomc-meeting-november-50-bps-economy-job-market/).
 
 ## Requirements
 - Python 3.8
