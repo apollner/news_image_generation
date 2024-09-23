@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive | Chip Giants TSMC and Samsung Discuss Building Middle Eastern Megafactories**
+**4 dead, 18 wounded in Birmingham mass shooting, Alabama police say**
 
-You can read more about it [here](https://www.wsj.com/tech/ai/chip-giants-tsmc-and-samsung-discuss-building-middle-eastern-megafactories-65adc854).
+You can read more about it [here](https://www.cbsnews.com/news/shooting-birmingham-alabama-police/).
 
 ## Requirements
 - Python 3.8
