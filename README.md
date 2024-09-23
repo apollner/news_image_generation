@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 3 predictions: Picks against the spread for every game**
+**Gulf Tropical Storm Is Likely, Threat To Florida, Southeast Late This Week**
 
-You can read more about it [here](https://nypost.com/2024/09/22/betting/nfl-week-3-predictions-picks-against-the-spread-for-every-game/).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-22-gulf-tropical-storm-florida-hurricane-season).
 
 ## Requirements
 - Python 3.8
