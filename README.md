@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Kardashian and ‘Monsters’ Actor Cooper Koch Visit Menendez Brothers, Other Inmates**
+**How Harris is changing the way Democrats target Latino voters**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/kim-kardashian-monsters-actor-cooper-koch-visit-menendez-brothers-1236008865/).
+You can read more about it [here](https://www.politico.com/news/2024/09/22/harris-latino-voters-00180365).
 
 ## Requirements
 - Python 3.8
