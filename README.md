@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's SpaceX sued by Cards Against Humanity over alleged trespassing in Texas**
+**Israel, Hezbollah trade strikes as death toll rises from Beirut attack**
 
-You can read more about it [here](https://www.cbsnews.com/texas/news/elon-musks-spacex-sued-by-cards-against-humanity-alleged-trespassing-texas/).
+You can read more about it [here](https://www.cbsnews.com/news/death-toll-israeli-attack-hezbollah/).
 
 ## Requirements
 - Python 3.8
