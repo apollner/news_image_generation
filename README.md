@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lizzo Addresses Ozempic Allegations After Showing Off Weight Loss Transformation**
+**Mark Robinson’s porn site scandal greeted with shrugs by some Trump backers**
 
-You can read more about it [here](http://www.billboard.com/music/music-news/lizzo-addresses-ozempic-allegations-weight-loss-videos-1235781321/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/22/mark-robinson-trump-cnn-porn-site-reaction/).
 
 ## Requirements
 - Python 3.8
