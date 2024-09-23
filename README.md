@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel closes Al Jazeera bureau in Ramallah: All you need to know**
+**Anura Kumara Dissanayake: Left-leaning leader wins Sri Lanka election**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/22/israel-closes-al-jazeera-bureau-in-ramallah-all-you-need-to-know).
+You can read more about it [here](https://www.bbc.com/news/articles/clyznjz3d78o).
 
 ## Requirements
 - Python 3.8
