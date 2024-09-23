@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gulf Tropical Storm Is Likely, Threat To Florida, Southeast Late This Week**
+**Israel closes Al Jazeera bureau in Ramallah: All you need to know**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-22-gulf-tropical-storm-florida-hurricane-season).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/22/israel-closes-al-jazeera-bureau-in-ramallah-all-you-need-to-know).
 
 ## Requirements
 - Python 3.8
