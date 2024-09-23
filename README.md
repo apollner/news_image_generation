@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kathryn Hahn ‘Came Up’ With ‘Agatha All Along’ Nude Scene, a First for a Woman in the MCU**
+**Manning keeps No. 1 Texas rolling in first start**
 
-You can read more about it [here](https://www.indiewire.com/news/general-news/kathryn-hahn-agatha-all-along-nude-scene-1235050002/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/41370391/arch-manning-keeps-no-1-texas-rolling-rout-ul-monroe).
 
 ## Requirements
 - Python 3.8
