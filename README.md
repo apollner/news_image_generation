@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 suspended from college swim team after report of slur scratched onto student's body**
+**Predictions for Chiefs’ Week 3 matchup vs. Falcons**
 
-You can read more about it [here](https://abcnews.go.com/Sports/wireStory/2-suspended-college-swim-team-after-report-slur-113909588).
+You can read more about it [here](https://chiefswire.usatoday.com/lists/kansas-city-chiefs-atlanta-falcons-predictions/).
 
 ## Requirements
 - Python 3.8
