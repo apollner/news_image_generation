@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tales of the Shire: The First 16 Minutes of Gameplay**
+**A'ja Wilson and Caitlin Clark are unanimous choices for WNBA AP Player and Rookie of the Year**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://apnews.com/article/awards-wilson-clark-ap-wnba-55eb092dba5a1face9dff9031a564d15).
 
 ## Requirements
 - Python 3.8
