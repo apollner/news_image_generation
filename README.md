@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Robinson’s porn site scandal greeted with shrugs by some Trump backers**
+**House leaders unveil bill to avert government shutdown with additional Secret Service funding**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/22/mark-robinson-trump-cnn-porn-site-reaction/).
+You can read more about it [here](https://abcnews.go.com/Politics/house-leaders-unveil-bill-avert-government-shutdown-additional/story?id\\u003d113915520).
 
 ## Requirements
 - Python 3.8
