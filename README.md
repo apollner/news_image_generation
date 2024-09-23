@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says**
+**Trump rallies in North Carolina as controversy engulfs his handpicked candidate for governor**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/21/israeli-strike-on-school-kills-at-least-22-gaza-health-ministry-00180367).
+You can read more about it [here](https://www.cnn.com/2024/09/21/politics/donald-trump-north-carolina-mark-robinson/index.html).
 
 ## Requirements
 - Python 3.8
