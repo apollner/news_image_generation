@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where is Sara Anne Wood? Location of N.Y. girl's body a mystery decades after murder**
+**Exclusive | On Ukraine’s Snake Island, the Heart of the Battle for the Black Sea**
 
-You can read more about it [here](https://www.cbsnews.com/news/sara-anne-wood-new-york-murder-mystery-lewis-lent-serial-killer-48-hours/).
+You can read more about it [here](https://www.wsj.com/world/on-ukraines-snake-island-the-heart-of-the-battle-for-the-black-sea-5bc5744d).
 
 ## Requirements
 - Python 3.8
