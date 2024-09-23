@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Wall Street economist who nailed the Fed’s ‘joyous’ rate cut sees the same thing again**
+**An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says**
 
-You can read more about it [here](https://fortune.com/2024/09/21/fed-rate-cut-outlook-fomc-meeting-november-50-bps-economy-job-market/).
+You can read more about it [here](https://www.politico.com/news/2024/09/21/israeli-strike-on-school-kills-at-least-22-gaza-health-ministry-00180367).
 
 ## Requirements
 - Python 3.8
