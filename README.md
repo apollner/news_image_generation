@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French President Emmanuel Macron announces new right-wing government**
+**An Israeli strike on a school kills at least 22 people, Gaza Health Ministry says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8rd52zl018o).
+You can read more about it [here](https://www.politico.com/news/2024/09/21/israeli-strike-on-school-kills-at-least-22-gaza-health-ministry-00180367).
 
 ## Requirements
 - Python 3.8
