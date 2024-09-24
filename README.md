@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kyle Chandler In Talks To Star In ‘Lanterns’ DC Series For HBO**
+**Vance enlists allies for intense debate prep sessions ahead of next week’s showdown with Walz**
 
-You can read more about it [here](http://deadline.com/2024/09/kyle-chandler-lanterns-hal-jordan-dc-green-lantern-hbo-1236097081/).
+You can read more about it [here](https://www.cnn.com/2024/09/23/politics/jd-vance-debate-prep/index.html).
 
 ## Requirements
 - Python 3.8
