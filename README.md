@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah fires rockets deep into northern Israel as tensions flare. Here’s what we know**
+**Column | Carolyn Hax: Burned-out sibling dreads becoming caregiver again by default**
 
-You can read more about it [here](https://www.cnn.com/2024/09/22/middleeast/israel-hezbollah-cross-border-fire-explainer-intl/index.html).
+You can read more about it [here](https://www.washingtonpost.com/advice/2024/09/23/carolyn-hax-sibling-caregiver-fatigue/).
 
 ## Requirements
 - Python 3.8
