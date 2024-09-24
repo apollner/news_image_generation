@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fake AI “podcasters” are reviewing my book and it’s freaking me out**
+**Nearly 40 percent of Gen Z men don’t have a primary care provider**
 
-You can read more about it [here](https://arstechnica.com/ai/2024/09/fake-ai-podcasters-are-reviewing-my-book-and-its-freaking-me-out/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/09/23/genz-men-health-care-doctor/).
 
 ## Requirements
 - Python 3.8
