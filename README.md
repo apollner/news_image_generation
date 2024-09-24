@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Octopuses seen hunting together with fish in rare video — and punching fish that don't cooperate**
+**Tandem OLED is OLED’s latest weapon in holding off MicroLED, QDEL**
 
-You can read more about it [here](https://www.yahoo.com/news/octopuses-seen-hunting-together-fish-150820122.html).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/).
 
 ## Requirements
 - Python 3.8
