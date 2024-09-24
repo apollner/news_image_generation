@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky judge had lunch with the sheriff now arrested in his killing, court clerk says**
+**Ukraine war: Zelensky to present 'victory plan' to Biden, Harris and Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/09/22/us/kentucky-judge-mullins-shot-sunday/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y30244467o).
 
 ## Requirements
 - Python 3.8
