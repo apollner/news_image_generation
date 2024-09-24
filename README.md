@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PlayStation’s next State of Play will cover more than 20 PS5 and PSVR 2 games**
+**Marcellus Williams' execution set to proceed Tuesday, Missouri Supreme Court rules**
 
-You can read more about it [here](https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games).
+You can read more about it [here](https://www.cbsnews.com/news/marcellus-williams-execution-missouri-supreme-court-governor-mike-parson/).
 
 ## Requirements
 - Python 3.8
