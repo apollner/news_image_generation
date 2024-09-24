@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marxist Dissanayake wins Sri Lanka’s presidential election as voters reject old guard**
+**Pager attack on Hezbollah forces Iranian-backed allies to rethink devices**
 
-You can read more about it [here](https://apnews.com/article/sri-lanka-presidential-election-dissanayake-wickremesinghe-results-50a8990acae90fabaddd8d01c0ef5bcd).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/22/iran-groups-device-explosions-hezbollah-lebanon-attacks/).
 
 ## Requirements
 - Python 3.8
