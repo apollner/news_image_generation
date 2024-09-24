@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pierce blasts Raiders: 'Business decisions' in loss**
+**Horoscope for Monday, September 23, 2024**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41389532/antonio-pierce-blasts-raiders-business-decisions-made-loss).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/23/horoscopes-today-monday-september-23-2024).
 
 ## Requirements
 - Python 3.8
