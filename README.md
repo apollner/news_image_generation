@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morning Bid: Fed adrenaline keeps pumping, PBOC inertia may drag**
+**Biden says US is doing ‘everything we can’ to prevent wider war in the Middle East**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-22/).
+You can read more about it [here](https://thehill.com/policy/defense/4893425-biden-says-us-is-doing-everything-we-can-to-prevent-wider-war-in-the-middle-east/).
 
 ## Requirements
 - Python 3.8
