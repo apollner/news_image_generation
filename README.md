@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marcellus Williams' execution set to proceed Tuesday, Missouri Supreme Court rules**
+**X will soon make your public posts visible to accounts you’ve blocked**
 
-You can read more about it [here](https://www.cbsnews.com/news/marcellus-williams-execution-missouri-supreme-court-governor-mike-parson/).
+You can read more about it [here](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/).
 
 ## Requirements
 - Python 3.8
