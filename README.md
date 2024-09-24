@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senior staff members for N.C. gubernatorial hopeful Mark Robinson resign amid porn site scandal**
+**Pennsylvania college student has racial slur scratched onto chest**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/22/mark-robinson-staff-resign-porn-cnn/).
+You can read more about it [here](https://www.reuters.com/world/us/pennsylvania-college-student-has-racial-slur-scratched-onto-chest-2024-09-22/).
 
 ## Requirements
 - Python 3.8
