@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Janet Jackson Dismisses ‘Unauthorized’ Apology After Saying Kamala Harris Is Not Black—Here’s What To Know**
+**American hiker found dead on South Africa's Table Mountain**
 
-You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/09/23/janet-jackson-dismisses-unauthorized-apology-after-saying-kamala-harris-is-not-black-heres-what-to-know/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/american-hiker-found-dead-south-africas-table-mountain-113921440).
 
 ## Requirements
 - Python 3.8
