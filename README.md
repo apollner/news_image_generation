@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN reform plan adopted despite Russian opposition**
+**Pierce blasts Raiders: 'Business decisions' in loss**
 
-You can read more about it [here](https://www.dw.com/en/un-reform-plan-adopted-despite-russian-opposition/a-70295441).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41389532/antonio-pierce-blasts-raiders-business-decisions-made-loss).
 
 ## Requirements
 - Python 3.8
