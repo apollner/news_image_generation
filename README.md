@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance enlists allies for intense debate prep sessions ahead of next week’s showdown with Walz**
+**PlayStation’s next State of Play will cover more than 20 PS5 and PSVR 2 games**
 
-You can read more about it [here](https://www.cnn.com/2024/09/23/politics/jd-vance-debate-prep/index.html).
+You can read more about it [here](https://www.theverge.com/2024/9/23/24252281/sony-playstation-state-of-play-ps5-psvr-2-games).
 
 ## Requirements
 - Python 3.8
