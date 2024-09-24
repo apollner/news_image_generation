@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister Wives ' Janelle Brown Says Kody Brown and Robyn Owe Her Money**
+**Did Janet Jackson Apologize for Speculating on Kamala Harris’s Race?**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/sister-wives-janelle-brown-says-030000688.html).
+You can read more about it [here](http://www.vulture.com/article/janet-jackson-kamala-harris-interview.html).
 
 ## Requirements
 - Python 3.8
