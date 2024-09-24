@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tandem OLED is OLED’s latest weapon in holding off MicroLED, QDEL**
+**Missouri Supreme Court to consider death row case a day before scheduled execution**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/09/what-tandem-oled-can-and-probably-wont-do-for-consumer-gadgets/).
+You can read more about it [here](https://apnews.com/article/missouri-execution-marcellus-williams-supreme-court-de47c99e00bb620db9db702f5f7e2ee8).
 
 ## Requirements
 - Python 3.8
