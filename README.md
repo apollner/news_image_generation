@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Monday, September 23, 2024**
+**Kentucky judge had lunch with the sheriff now arrested in his killing, court clerk says**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/09/23/horoscopes-today-monday-september-23-2024).
+You can read more about it [here](https://www.cnn.com/2024/09/22/us/kentucky-judge-mullins-shot-sunday/index.html).
 
 ## Requirements
 - Python 3.8
