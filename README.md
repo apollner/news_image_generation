@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine war: Zelensky to present 'victory plan' to Biden, Harris and Trump**
+**Janet Jackson Dismisses ‘Unauthorized’ Apology After Saying Kamala Harris Is Not Black—Here’s What To Know**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y30244467o).
+You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/09/23/janet-jackson-dismisses-unauthorized-apology-after-saying-kamala-harris-is-not-black-heres-what-to-know/).
 
 ## Requirements
 - Python 3.8
