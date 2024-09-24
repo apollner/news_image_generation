@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kansas City Chiefs vs. Atlanta Falcons Game Highlights | NFL 2024 Week 3**
+**Senior staff members for N.C. gubernatorial hopeful Mark Robinson resign amid porn site scandal**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/09/22/mark-robinson-staff-resign-porn-cnn/).
 
 ## Requirements
 - Python 3.8
