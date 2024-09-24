@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Goolsbee sees 'a lot' of Fed cuts coming over the next year**
+**Fantasy football waiver wire: Get some insurance for Herbert, Tua and Love**
 
-You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-level-off-after-fed-rate-cut-rally).
+You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-41134235/nfl-fantasy-football-free-agent-pickups-waiver-wire-2024-week-4).
 
 ## Requirements
 - Python 3.8
