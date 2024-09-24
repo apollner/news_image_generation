@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House leaders unveil bill to avert government shutdown with additional Secret Service funding**
+**Hezbollah hits back with rockets as it declares an ‘open-ended battle’ with Israel**
 
-You can read more about it [here](https://abcnews.go.com/Politics/house-leaders-unveil-bill-avert-government-shutdown-additional/story?id\\u003d113915520).
+You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7).
 
 ## Requirements
 - Python 3.8
