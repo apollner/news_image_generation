@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Future Tropical Storm Helene A Hurricane Danger To Florida, Gulf Coast; Alerts Issued In Cancun**
+**Israel appears to have pushed Hezbollah into a corner — setting the stage for an all-out war**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-23-tropical-storm-hurricane-helene-forecast-gulf-florida).
+You can read more about it [here](https://www.businessinsider.com/israel-pushed-hezbollah-corner-may-trigger-an-all-out-war-2024-9).
 
 ## Requirements
 - Python 3.8
