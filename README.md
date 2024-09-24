@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says US is doing ‘everything we can’ to prevent wider war in the Middle East**
+**Hezbollah fires rockets deep into northern Israel as tensions flare. Here’s what we know**
 
-You can read more about it [here](https://thehill.com/policy/defense/4893425-biden-says-us-is-doing-everything-we-can-to-prevent-wider-war-in-the-middle-east/).
+You can read more about it [here](https://www.cnn.com/2024/09/22/middleeast/israel-hezbollah-cross-border-fire-explainer-intl/index.html).
 
 ## Requirements
 - Python 3.8
