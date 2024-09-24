@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football waiver wire: Get some insurance for Herbert, Tua and Love**
+**Kyle Chandler In Talks To Star In ‘Lanterns’ DC Series For HBO**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-41134235/nfl-fantasy-football-free-agent-pickups-waiver-wire-2024-week-4).
+You can read more about it [here](http://deadline.com/2024/09/kyle-chandler-lanterns-hal-jordan-dc-green-lantern-hbo-1236097081/).
 
 ## Requirements
 - Python 3.8
