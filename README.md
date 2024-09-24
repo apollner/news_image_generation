@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung Galaxy S24 FE price leaked ahead of imminent global launch. All we know so far | Mint**
+**Janet Jackson’s ‘Rep’: I Was Fired Over Kamala Harris Apology Drama**
 
-You can read more about it [here](https://www.livemint.com/technology/samsung-galaxy-s24-fe-price-leaked-ahead-of-imminent-global-launch-all-we-know-so-far-11727056368295.html).
+You can read more about it [here](https://www.thedailybeast.com/janet-jacksons-rep-i-was-fired-amid-kamala-harris-apology-drama).
 
 ## Requirements
 - Python 3.8
