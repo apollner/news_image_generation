@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Chiefs hang on for 22-17 victory over Falcons**
+**Marxist Dissanayake wins Sri Lanka’s presidential election as voters reject old guard**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-chiefs-hang-on-for-22-17-victory-over-falcons).
+You can read more about it [here](https://apnews.com/article/sri-lanka-presidential-election-dissanayake-wickremesinghe-results-50a8990acae90fabaddd8d01c0ef5bcd).
 
 ## Requirements
 - Python 3.8
