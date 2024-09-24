@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI report shows decrease in violent crime, increase in motor vehicle theft in 2023**
+**Kyle Chandler In Talks To Star In ‘Lanterns’ DC Series For HBO**
 
-You can read more about it [here](https://www.cbsnews.com/news/fbi-report-violent-crime/).
+You can read more about it [here](http://deadline.com/2024/09/kyle-chandler-lanterns-hal-jordan-dc-green-lantern-hbo-1236097081/).
 
 ## Requirements
 - Python 3.8
