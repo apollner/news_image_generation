@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pager attack on Hezbollah forces Iranian-backed allies to rethink devices**
+**Kansas City Chiefs vs. Atlanta Falcons Game Highlights | NFL 2024 Week 3**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/09/22/iran-groups-device-explosions-hezbollah-lebanon-attacks/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
