@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel appears to have pushed Hezbollah into a corner — setting the stage for an all-out war**
+**UniCredit lifts stake in Commerzbank to 21%**
 
-You can read more about it [here](https://www.businessinsider.com/israel-pushed-hezbollah-corner-may-trigger-an-all-out-war-2024-9).
+You can read more about it [here](https://www.ft.com/content/4564b66a-e491-4b77-8419-df32e36f3e13).
 
 ## Requirements
 - Python 3.8
