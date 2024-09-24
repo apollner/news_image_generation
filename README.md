@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania college student has racial slur scratched onto chest**
+**Samsung Galaxy S24 FE price leaked ahead of imminent global launch. All we know so far | Mint**
 
-You can read more about it [here](https://www.reuters.com/world/us/pennsylvania-college-student-has-racial-slur-scratched-onto-chest-2024-09-22/).
+You can read more about it [here](https://www.livemint.com/technology/samsung-galaxy-s24-fe-price-leaked-ahead-of-imminent-global-launch-all-we-know-so-far-11727056368295.html).
 
 ## Requirements
 - Python 3.8
