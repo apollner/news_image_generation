@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Janet Jackson Dismisses ‘Unauthorized’ Apology After Saying Kamala Harris Is Not Black—Here’s What To Know**
+**Future Tropical Storm Helene A Hurricane Danger To Florida, Gulf Coast; Alerts Issued In Cancun**
 
-You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/09/23/janet-jackson-dismisses-unauthorized-apology-after-saying-kamala-harris-is-not-black-heres-what-to-know/).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-23-tropical-storm-hurricane-helene-forecast-gulf-florida).
 
 ## Requirements
 - Python 3.8
