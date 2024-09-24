@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah hits back with rockets as it declares an ‘open-ended battle’ with Israel**
+**Morning Bid: Fed adrenaline keeps pumping, PBOC inertia may drag**
 
-You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-news-09-22-2024-fb1aa8ae061885ba86855f7fe9ec5be7).
+You can read more about it [here](https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2024-09-22/).
 
 ## Requirements
 - Python 3.8
