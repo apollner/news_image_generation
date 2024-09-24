@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UniCredit lifts stake in Commerzbank to 21%**
+**Octopuses seen hunting together with fish in rare video — and punching fish that don't cooperate**
 
-You can read more about it [here](https://www.ft.com/content/4564b66a-e491-4b77-8419-df32e36f3e13).
+You can read more about it [here](https://www.yahoo.com/news/octopuses-seen-hunting-together-fish-150820122.html).
 
 ## Requirements
 - Python 3.8
