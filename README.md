@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Column | Carolyn Hax: Burned-out sibling dreads becoming caregiver again by default**
+**Sister Wives ' Janelle Brown Says Kody Brown and Robyn Owe Her Money**
 
-You can read more about it [here](https://www.washingtonpost.com/advice/2024/09/23/carolyn-hax-sibling-caregiver-fatigue/).
+You can read more about it [here](https://www.yahoo.com/entertainment/sister-wives-janelle-brown-says-030000688.html).
 
 ## Requirements
 - Python 3.8
