@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Israel strikes Hezbollah targets as conflict intensifies**
+**Janet Jackson Dismisses ‘Unauthorized’ Apology After Saying Kamala Harris Is Not Black—Here’s What To Know**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-23-24-intl-hnk/index.html).
+You can read more about it [here](https://www.forbes.com/sites/siladityaray/2024/09/23/janet-jackson-dismisses-unauthorized-apology-after-saying-kamala-harris-is-not-black-heres-what-to-know/).
 
 ## Requirements
 - Python 3.8
