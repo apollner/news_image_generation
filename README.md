@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 40 percent of Gen Z men don’t have a primary care provider**
+**Fed's Goolsbee sees 'a lot' of Fed cuts coming over the next year**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/09/23/genz-men-health-care-doctor/).
+You can read more about it [here](https://www.marketwatch.com/livecoverage/stock-market-today-dow-futures-level-off-after-fed-rate-cut-rally).
 
 ## Requirements
 - Python 3.8
