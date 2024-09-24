@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American hiker found dead on South Africa's Table Mountain**
+**Live updates: Israel strikes Hezbollah targets as conflict intensifies**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/american-hiker-found-dead-south-africas-table-mountain-113921440).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-23-24-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
