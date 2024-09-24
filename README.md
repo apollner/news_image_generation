@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did Janet Jackson Apologize for Speculating on Kamala Harris’s Race?**
+**Sunday Night Football: Chiefs hang on for 22-17 victory over Falcons**
 
-You can read more about it [here](http://www.vulture.com/article/janet-jackson-kamala-harris-interview.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-chiefs-hang-on-for-22-17-victory-over-falcons).
 
 ## Requirements
 - Python 3.8
