@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Janet Jackson’s ‘Rep’: I Was Fired Over Kamala Harris Apology Drama**
+**UN reform plan adopted despite Russian opposition**
 
-You can read more about it [here](https://www.thedailybeast.com/janet-jacksons-rep-i-was-fired-amid-kamala-harris-apology-drama).
+You can read more about it [here](https://www.dw.com/en/un-reform-plan-adopted-despite-russian-opposition/a-70295441).
 
 ## Requirements
 - Python 3.8
