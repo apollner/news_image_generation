@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN chief condemns 'get out of jail free' card on wars**
+**The bro vote: Trump and Harris duel over what it means to be a man in America**
 
-You can read more about it [here](https://www.reuters.com/world/un-chief-condemns-get-out-jail-free-card-wars-2024-09-24/).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/09/23/bro-voters-masculinity-harris-trump-2024-election/75289734007/).
 
 ## Requirements
 - Python 3.8
