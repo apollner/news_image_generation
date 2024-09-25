@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pac-12 expansion chaos: Mountain West in survival mode as Utah State defects, AAC schools rebuff interest**
+**FDA just greenlighted an at-home flu vaccine. What the approval of a self-administered spray means for you.**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/pac-12-expansion-chaos-mountain-west-in-survival-mode-as-utah-state-defects-aac-schools-rebuff-interest/).
+You can read more about it [here](https://www.yahoo.com/lifestyle/fda-just-greenlighted-an-at-home-flu-vaccine-what-the-approval-of-a-self-administered-spray-means-for-you-010359139.html).
 
 ## Requirements
 - Python 3.8
