@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This could be the closest presidential election since 1876**
+**How to watch the September PlayStation State of Play livestream**
 
-You can read more about it [here](https://abcnews.go.com/538/closest-presidential-election-1876/story?id\\u003d113956232).
+You can read more about it [here](https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games).
 
 ## Requirements
 - Python 3.8
