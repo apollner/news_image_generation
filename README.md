@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida Facing Hurricane Threat Later This Week**
+**Some US Kaspersky customers find their security software replaced by 'UltraAV'**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-23-tropical-storm-hurricane-helene-forecast-gulf-florida).
+You can read more about it [here](https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/).
 
 ## Requirements
 - Python 3.8
