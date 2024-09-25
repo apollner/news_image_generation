@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sinners’ Trailer: Michael B. Jordan Reunites With ‘Black Panther’ Director Ryan Coogler and Battles a Terrifying Evil**
+**UK Prime Minister Keir Starmer says tough times are needed to spark national renewal**
 
-You can read more about it [here](https://variety.com/2024/film/news/sinners-trailer-michael-b-jordan-ryan-coogler-vampire-movie-1235965571/).
+You can read more about it [here](https://www.cnbc.com/2024/09/24/uk-pm-keir-starmer-pledges-national-renewal-at-labour-conference-2024.html).
 
 ## Requirements
 - Python 3.8
