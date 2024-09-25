@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia's test launch of ICBM known as Satan II appears to have failed**
+**EEE death in New York triggers statewide action**
 
-You can read more about it [here](https://www.cbsnews.com/news/russian-icbm-test-launch-failed/).
+You can read more about it [here](https://www.wcax.com/2024/09/23/eee-death-new-york-triggers-statewide-action/).
 
 ## Requirements
 - Python 3.8
