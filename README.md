@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden's UN speech will highlight his diplomatic successes, amid wars in the Middle East, Ukraine, Sudan**
+**‘Sinners’ Trailer: Michael B. Jordan Reunites With ‘Black Panther’ Director Ryan Coogler and Battles a Terrifying Evil**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/24/biden-un-speech-ukraine-gaza-sudan.html).
+You can read more about it [here](https://variety.com/2024/film/news/sinners-trailer-michael-b-jordan-ryan-coogler-vampire-movie-1235965571/).
 
 ## Requirements
 - Python 3.8
