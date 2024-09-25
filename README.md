@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EEE death in New York triggers statewide action**
+**Damar Hamlin records 1st career interception, sends Bills crowd into a frenzy less than 2 years after cardiac arrest**
 
-You can read more about it [here](https://www.wcax.com/2024/09/23/eee-death-new-york-triggers-statewide-action/).
+You can read more about it [here](https://sports.yahoo.com/damar-hamlin-records-1st-career-interception-sends-bills-crowd-into-a-frenzy-less-than-2-years-after-cardiac-arrest-010151241.html).
 
 ## Requirements
 - Python 3.8
