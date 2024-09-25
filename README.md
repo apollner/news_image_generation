@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk confirms plans for X to change its blocking feature: 'High time'**
+**Pac-12 expansion chaos: Mountain West in survival mode as Utah State defects, AAC schools rebuff interest**
 
-You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/elon-musk-confirms-plans-x-change-blocking-feature-high-time).
+You can read more about it [here](https://www.cbssports.com/college-football/news/pac-12-expansion-chaos-mountain-west-in-survival-mode-as-utah-state-defects-aac-schools-rebuff-interest/).
 
 ## Requirements
 - Python 3.8
