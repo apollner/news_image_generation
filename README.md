@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US officials work feverishly to stop Israel-Hezbollah confrontation ‘spiraling to a regional war’**
+**Biden's UN speech will highlight his diplomatic successes, amid wars in the Middle East, Ukraine, Sudan**
 
-You can read more about it [here](https://www.cnn.com/2024/09/24/politics/us-officials-israel-hezbollah-stop-regional-war/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/24/biden-un-speech-ukraine-gaza-sudan.html).
 
 ## Requirements
 - Python 3.8
