@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**PFT’s Week 4 2024 NFL power rankings**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2024-nfl-power-rankings).
 
 ## Requirements
 - Python 3.8
