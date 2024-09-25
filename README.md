@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The bro vote: Trump and Harris duel over what it means to be a man in America**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/09/23/bro-voters-masculinity-harris-trump-2024-election/75289734007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
