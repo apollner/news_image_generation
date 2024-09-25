@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres Strikes Back: “Mean, Old and Gay — The Triple Crown”**
+**[Removed]**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-netflix-comedy-special-talk-show-end-backlash-1236009143/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
