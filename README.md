@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT’s Week 4 2024 NFL power rankings**
+**‘Sinners’ Trailer: Michael B. Jordan Reunites With ‘Black Panther’ Director Ryan Coogler and Battles a Terrifying Evil**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-4-2024-nfl-power-rankings).
+You can read more about it [here](https://variety.com/2024/film/news/sinners-trailer-michael-b-jordan-ryan-coogler-vampire-movie-1235965571/).
 
 ## Requirements
 - Python 3.8
