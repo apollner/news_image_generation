@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel strikes Hezbollah targets as conflict intensifies**
+**This could be the closest presidential election since 1876**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-24-24-intl-hnk/index.html).
+You can read more about it [here](https://abcnews.go.com/538/closest-presidential-election-1876/story?id\\u003d113956232).
 
 ## Requirements
 - Python 3.8
