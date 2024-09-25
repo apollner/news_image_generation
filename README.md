@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Projected College Football Playoff bracket: Three teams drop out, Alabama vs. Georgia highlights weekly update**
+**FDA just greenlighted an at-home flu vaccine. What the approval of a self-administered spray means for you.**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/projected-college-football-playoff-bracket-three-teams-drop-out-alabama-vs-georgia-highlights-weekly-update/).
+You can read more about it [here](https://www.yahoo.com/lifestyle/fda-just-greenlighted-an-at-home-flu-vaccine-what-the-approval-of-a-self-administered-spray-means-for-you-010359139.html).
 
 ## Requirements
 - Python 3.8
