@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA just greenlighted an at-home flu vaccine. What the approval of a self-administered spray means for you.**
+**US officials work feverishly to stop Israel-Hezbollah confrontation ‘spiraling to a regional war’**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/fda-just-greenlighted-an-at-home-flu-vaccine-what-the-approval-of-a-self-administered-spray-means-for-you-010359139.html).
+You can read more about it [here](https://www.cnn.com/2024/09/24/politics/us-officials-israel-hezbollah-stop-regional-war/index.html).
 
 ## Requirements
 - Python 3.8
