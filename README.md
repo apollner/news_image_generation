@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Tuesday**
+**Biden's UN speech will highlight his diplomatic successes, amid wars in the Middle East, Ukraine, Sudan**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/24/5-things-to-know-before-the-stock-market-opens-tuesday.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/24/biden-un-speech-ukraine-gaza-sudan.html).
 
 ## Requirements
 - Python 3.8
