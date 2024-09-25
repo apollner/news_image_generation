@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US officials work feverishly to stop Israel-Hezbollah confrontation ‘spiraling to a regional war’**
+**Antarctica's 'Doomsday Glacier' Is Heading For Collapse Sooner Than Expected**
 
-You can read more about it [here](https://www.cnn.com/2024/09/24/politics/us-officials-israel-hezbollah-stop-regional-war/index.html).
+You can read more about it [here](https://www.ndtv.com/world-news/antarcticas-doomsday-glacier-is-heading-for-collapse-sooner-than-expected-6635474).
 
 ## Requirements
 - Python 3.8
