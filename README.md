@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antarctica's 'Doomsday Glacier' Is Heading For Collapse Sooner Than Expected**
+**Florida Facing Hurricane Threat Later This Week**
 
-You can read more about it [here](https://www.ndtv.com/world-news/antarcticas-doomsday-glacier-is-heading-for-collapse-sooner-than-expected-6635474).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-09-23-tropical-storm-hurricane-helene-forecast-gulf-florida).
 
 ## Requirements
 - Python 3.8
