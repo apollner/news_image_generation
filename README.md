@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sinners’ Trailer: Michael B. Jordan Reunites With ‘Black Panther’ Director Ryan Coogler and Battles a Terrifying Evil**
+**Ellen DeGeneres Strikes Back: “Mean, Old and Gay — The Triple Crown”**
 
-You can read more about it [here](https://variety.com/2024/film/news/sinners-trailer-michael-b-jordan-ryan-coogler-vampire-movie-1235965571/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/ellen-degeneres-netflix-comedy-special-talk-show-end-backlash-1236009143/).
 
 ## Requirements
 - Python 3.8
