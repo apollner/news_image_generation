@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden delivers final speech to U.N. General Assembly as president**
+**UN chief condemns 'get out of jail free' card on wars**
 
-You can read more about it [here](https://www.cbsnews.com/news/joe-biden-united-nations-general-assembly-final-speech/).
+You can read more about it [here](https://www.reuters.com/world/un-chief-condemns-get-out-jail-free-card-wars-2024-09-24/).
 
 ## Requirements
 - Python 3.8
