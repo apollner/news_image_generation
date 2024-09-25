@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing union hits out over 'final' 30% pay rise offer**
+**Projected College Football Playoff bracket: Three teams drop out, Alabama vs. Georgia highlights weekly update**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckg92528y51o).
+You can read more about it [here](https://www.cbssports.com/college-football/news/projected-college-football-playoff-bracket-three-teams-drop-out-alabama-vs-georgia-highlights-weekly-update/).
 
 ## Requirements
 - Python 3.8
