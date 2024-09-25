@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK Prime Minister Keir Starmer says tough times are needed to spark national renewal**
+**Biden delivers final speech to U.N. General Assembly as president**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/24/uk-pm-keir-starmer-pledges-national-renewal-at-labour-conference-2024.html).
+You can read more about it [here](https://www.cbsnews.com/news/joe-biden-united-nations-general-assembly-final-speech/).
 
 ## Requirements
 - Python 3.8
