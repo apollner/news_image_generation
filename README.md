@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X will soon make your public posts visible to accounts you’ve blocked**
+**Russia's test launch of ICBM known as Satan II appears to have failed**
 
-You can read more about it [here](https://techcrunch.com/2024/09/23/x-will-soon-make-your-public-posts-visible-to-accounts-youve-blocked/).
+You can read more about it [here](https://www.cbsnews.com/news/russian-icbm-test-launch-failed/).
 
 ## Requirements
 - Python 3.8
