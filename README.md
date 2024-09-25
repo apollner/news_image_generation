@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caroline Ellison, whose testimony helped convict Sam Bankman-Fried, sentenced to two years in prison**
+**Israel strikes Hezbollah targets as conflict intensifies**
 
-You can read more about it [here](https://www.cnn.com/2024/09/24/business/caroline-ellison-sentencing-nightcap/index.html).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-hezbollah-09-24-24-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
