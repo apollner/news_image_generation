@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniels, 'the answer,' delivers for Commanders**
+**Some US Kaspersky customers find their security software replaced by 'UltraAV'**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41410717/rookie-jayden-daniels-leads-commanders-bengals-mnf).
+You can read more about it [here](https://www.theregister.com/2024/09/24/ultraav_kaspersky_antivirus/).
 
 ## Requirements
 - Python 3.8
