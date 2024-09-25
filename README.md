@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ChatGPT’s New Voice Assistant Is Here to Creep You Out**
+**Caroline Ellison, whose testimony helped convict Sam Bankman-Fried, sentenced to two years in prison**
 
-You can read more about it [here](https://gizmodo.com/chatgpts-new-voice-assistant-is-here-to-creep-you-out-2000502875).
+You can read more about it [here](https://www.cnn.com/2024/09/24/business/caroline-ellison-sentencing-nightcap/index.html).
 
 ## Requirements
 - Python 3.8
