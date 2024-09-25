@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Damar Hamlin records 1st career interception, sends Bills crowd into a frenzy less than 2 years after cardiac arrest**
+**Elon Musk confirms plans for X to change its blocking feature: 'High time'**
 
-You can read more about it [here](https://sports.yahoo.com/damar-hamlin-records-1st-career-interception-sends-bills-crowd-into-a-frenzy-less-than-2-years-after-cardiac-arrest-010151241.html).
+You can read more about it [here](https://www.foxbusiness.com/fox-news-tech/elon-musk-confirms-plans-x-change-blocking-feature-high-time).
 
 ## Requirements
 - Python 3.8
