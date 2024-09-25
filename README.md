@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arrests after Sarco 'suicide pod' used in Switzerland**
+**UN chief condemns 'get out of jail free' card on wars**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FTEJLRkNsWXlGX20ySC05SXFxX3V1XzQ3NEktU244U1UybzhfcEREUC1QeXhNT3VrZ0tqd0E2c09sV3RBcmY1c3pPWkFYZnBxVHdEU1hRWE43QdIBX0FVX3lxTE5CMUh6dXhJX2wwVHZlNkpzS2tySDlpZkhuX0pWVEtONlgzcVlsZjh5SERQaDBJUkJlUEVIaDVEWEpqYXdPREk5b0FGMHMxMFZJY21PdVFVSk0xeE5hejJR?oc=5).
+You can read more about it [here](https://www.reuters.com/world/un-chief-condemns-get-out-jail-free-card-wars-2024-09-24/).
 
 ## Requirements
 - Python 3.8
