@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Al b! Sure! Calls for an Investigation Into Death of Diddy’s Ex Kim Porter**
+**Pac-12 expansion chaos: Mountain West in survival mode as Utah State defects, AAC schools rebuff interest**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/al-b-shore-suggests-diddys-involvement-kim-porter-1236010267/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/pac-12-expansion-chaos-mountain-west-in-survival-mode-as-utah-state-defects-aac-schools-rebuff-interest/).
 
 ## Requirements
 - Python 3.8
