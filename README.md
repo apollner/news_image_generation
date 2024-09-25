@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN chief condemns 'get out of jail free' card on wars**
+**Obesity rates in US not growing for first time in a decade, but there might be a worse problem: CDC**
 
-You can read more about it [here](https://www.reuters.com/world/un-chief-condemns-get-out-jail-free-card-wars-2024-09-24/).
+You can read more about it [here](https://nypost.com/2024/09/24/lifestyle/obesity-rates-in-us-not-growing-for-first-time-in-a-decade-but-severe-obesity-on-the-rise-cdc/).
 
 ## Requirements
 - Python 3.8
