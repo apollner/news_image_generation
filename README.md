@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI just launched advanced voice mode for audio chats with ChatGPT. Here's how to use it**
+**India confirms first case of deadlier mpox strain**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/24/how-to-use-chatgpt-advanced-voice-mode-from-openai.html).
+You can read more about it [here](https://www.cnn.com/2024/09/25/asia/india-mpox-first-case-1b-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
