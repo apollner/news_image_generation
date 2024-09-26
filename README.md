@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Secret Service agent under investigation for alleged sex assault on Harris campaign aide**
+**Global Surge in Nearsightedness Linked to Covid-19, Study Finds**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/25/secret-service-agent-investigated-for-sex-assault-harris-campaign-aide.html).
+You can read more about it [here](https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155).
 
 ## Requirements
 - Python 3.8
