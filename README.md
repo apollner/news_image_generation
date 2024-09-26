@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global Surge in Nearsightedness Linked to Covid-19, Study Finds**
+**Why now may be a good time to take ‘opportunistic’ profits in gold and silver**
 
-You can read more about it [here](https://gizmodo.com/global-surge-in-nearsightedness-linked-to-covid-19-study-finds-2000503155).
+You can read more about it [here](https://www.marketwatch.com/story/why-now-may-be-a-good-time-to-take-opportunistic-profits-in-gold-and-silver-f5268eb8).
 
 ## Requirements
 - Python 3.8
