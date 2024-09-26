@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DNA from 3,600-year-old cheese sequenced by scientists**
+**UPDATES: Evacuation orders remain in place after chemical leak in Whitewater Township**
 
-You can read more about it [here](https://www.cnn.com/2024/09/25/science/oldest-cheese-ancient-dna-china-mummies/index.html).
+You can read more about it [here](https://www.wlwt.com/article/chemical-leak-hazmat-state-route-128-shelter-in-place/62353528).
 
 ## Requirements
 - Python 3.8
