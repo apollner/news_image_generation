@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India confirms first case of deadlier mpox strain**
+**Children of Diddy and Kim Porter Say Their Mother ‘Did Not’ Write a Book**
 
-You can read more about it [here](https://www.cnn.com/2024/09/25/asia/india-mpox-first-case-1b-hnk-intl/index.html).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/diddy-kim-porter-children-memoir-joint-statement-1235111685/).
 
 ## Requirements
 - Python 3.8
