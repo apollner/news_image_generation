@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel bombards Hezbollah, killing a top commander, while families flee southern Lebanon**
+**Marcellus Williams executed by lethal injection in Missouri after SCOTUS denied appeals**
 
-You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce).
+You can read more about it [here](https://abcnews.go.com/US/marcellus-williams-executed-lethal-injection-missouri-after-scotus/story?id\\u003d114025574).
 
 ## Requirements
 - Python 3.8
