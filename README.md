@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kentucky sheriff accused of fatally shooting a judge in his chambers is set for arraignment today**
+**Why Biden's speech at UNGA should set off alarm bells across the globe**
 
-You can read more about it [here](https://www.cnn.com/2024/09/25/us/shawn-stines-kentucky-judge-shooting-hearing/index.html).
+You can read more about it [here](https://www.foxnews.com/opinion/bidens-speech-unga-should-set-off-alarm-bells-across-globe).
 
 ## Requirements
 - Python 3.8
