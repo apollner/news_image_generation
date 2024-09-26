@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obesity rates in US not growing for first time in a decade, but there might be a worse problem: CDC**
+**Trump campaign says US intelligence warned of Iran assassination threats**
 
-You can read more about it [here](https://nypost.com/2024/09/24/lifestyle/obesity-rates-in-us-not-growing-for-first-time-in-a-decade-but-severe-obesity-on-the-rise-cdc/).
+You can read more about it [here](https://www.bbc.com/news/articles/cd0z2394ey2o).
 
 ## Requirements
 - Python 3.8
