@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diddy Accused of Rape in New Lawsuit from Thalia Graves**
+**‘Dancing With the Stars’: Hollywood Night Sends Home Two Celebs in First Double Elimination of Season 33**
 
-You can read more about it [here](http://www.vulture.com/article/diddy-accused-of-rape-in-new-lawsuit-from-thalia-graves.html).
+You can read more about it [here](https://variety.com/2024/tv/news/dancing-with-the-stars-anna-delvey-eliminated-tori-spelling-1236154987/).
 
 ## Requirements
 - Python 3.8
