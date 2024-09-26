@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump vows to 'take other countries' jobs' in economic speech**
+**Israel bombards Hezbollah, killing a top commander, while families flee southern Lebanon**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cly3qnrpvg9o).
+You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-news-09-24-2024-640a0046aceea1b5cfb395a54ff36bce).
 
 ## Requirements
 - Python 3.8
