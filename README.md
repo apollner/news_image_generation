@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obesity rates in US not growing for first time in a decade, but there might be a worse problem: CDC**
+**Diddy Accused of Rape in New Lawsuit from Thalia Graves**
 
-You can read more about it [here](https://nypost.com/2024/09/24/lifestyle/obesity-rates-in-us-not-growing-for-first-time-in-a-decade-but-severe-obesity-on-the-rise-cdc/).
+You can read more about it [here](http://www.vulture.com/article/diddy-accused-of-rape-in-new-lawsuit-from-thalia-graves.html).
 
 ## Requirements
 - Python 3.8
