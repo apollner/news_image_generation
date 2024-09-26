@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines to cut service and staffing in Atlanta to slash costs**
+**China test-fires intercontinental ballistic missile into Pacific**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/25/southwest-airlines-cut-service-staffing-atlanta.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c4gl843l90zo).
 
 ## Requirements
 - Python 3.8
