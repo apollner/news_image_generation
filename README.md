@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Children of Diddy and Kim Porter Say Their Mother ‘Did Not’ Write a Book**
+**Your Daily Horoscope by Madame Clairevoyant: September 25, 2024**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/diddy-kim-porter-children-memoir-joint-statement-1235111685/).
+You can read more about it [here](http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-sept-25-2024.html).
 
 ## Requirements
 - Python 3.8
