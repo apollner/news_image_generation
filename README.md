@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diddy and Kim Porter’s Children Call Claims of a Memoir and Conspiracy Surrounding Her Death “Simply Untrue”**
+**OpenAI just launched advanced voice mode for audio chats with ChatGPT. Here's how to use it**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/diddy-kim-porter-children-memoir-conspiracy-death-untrue-1236011441/).
+You can read more about it [here](https://www.cnbc.com/2024/09/24/how-to-use-chatgpt-advanced-voice-mode-from-openai.html).
 
 ## Requirements
 - Python 3.8
