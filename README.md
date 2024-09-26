@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marcellus Williams executed by lethal injection in Missouri after SCOTUS denied appeals**
+**Sri Lanka's new president dissolves parliament**
 
-You can read more about it [here](https://abcnews.go.com/US/marcellus-williams-executed-lethal-injection-missouri-after-scotus/story?id\\u003d114025574).
+You can read more about it [here](https://www.bbc.com/news/articles/c05gnm05qmdo).
 
 ## Requirements
 - Python 3.8
