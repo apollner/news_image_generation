@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whitewater Twp. chemical leak: Evacuation orders remain in place as crews work overnight following chemical leak**
+**[Removed]**
 
-You can read more about it [here](https://www.wlwt.com/article/chemical-leak-hazmat-state-route-128-shelter-in-place/62353528).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
