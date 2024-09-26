@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 16 Pro vs 13 Pro: Full comparison**
+**Marcellus Williams was executed in Missouri. Read his final words, and his poetry**
 
-You can read more about it [here](https://9to5mac.com/iphone-16-pro-vs-13-pro/).
+You can read more about it [here](https://www.kansascity.com/news/state/missouri/article293016099.html).
 
 ## Requirements
 - Python 3.8
