@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China test-fires intercontinental ballistic missile into Pacific**
+**iPhone 16 Pro vs 13 Pro: Full comparison**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4gl843l90zo).
+You can read more about it [here](https://9to5mac.com/iphone-16-pro-vs-13-pro/).
 
 ## Requirements
 - Python 3.8
