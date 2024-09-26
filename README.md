@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta Connect 2024: How to watch the metaverse and generative AI event today**
+**Kentucky sheriff accused of fatally shooting a judge in his chambers is set for arraignment today**
 
-You can read more about it [here](https://techcrunch.com/2024/09/25/meta-connect-2024-how-to-watch-the-metaverse-and-generative-ai-event-today/).
+You can read more about it [here](https://www.cnn.com/2024/09/25/us/shawn-stines-kentucky-judge-shooting-hearing/index.html).
 
 ## Requirements
 - Python 3.8
