@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATES: Evacuation orders remain in place after chemical leak in Whitewater Township**
+**Maps show track of Hurricane Helene: What to know about possible paths and storm surge**
 
-You can read more about it [here](https://www.wlwt.com/article/chemical-leak-hazmat-state-route-128-shelter-in-place/62353528).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-helene-hurricane-path-maps-track-forecast/).
 
 ## Requirements
 - Python 3.8
