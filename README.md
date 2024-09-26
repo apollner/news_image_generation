@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the September PlayStation State of Play livestream**
+**How John suddenly exploded into a Category 3 hurricane before striking Mexico’s coast**
 
-You can read more about it [here](https://www.theverge.com/2024/9/24/24253185/playstation-state-of-play-how-to-watch-stream-games).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/24/hurricane-john-pacific-mexico-rapid-intensification/).
 
 ## Requirements
 - Python 3.8
