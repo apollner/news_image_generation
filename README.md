@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign says US intelligence warned of Iran assassination threats**
+**Ukraine’s president calls for unspecified global ‘action’ to force Russia into peace**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd0z2394ey2o).
+You can read more about it [here](https://apnews.com/article/un-ukraine-zelenskyy-russia-peace-territorial-blinken-db3954c29fa826601f42101e05fd6db0).
 
 ## Requirements
 - Python 3.8
