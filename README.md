@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US woman meant to be first to use ‘suicide pod’ accused company of trying to get her life savings: report**
+**DNA from 3,600-year-old cheese sequenced by scientists**
 
-You can read more about it [here](https://nypost.com/2024/09/25/world-news/us-woman-meant-to-be-the-first-to-use-sarco-suicide-pod-accused-company-of-exploiting-her-for-publicity-report/).
+You can read more about it [here](https://www.cnn.com/2024/09/25/science/oldest-cheese-ancient-dna-china-mummies/index.html).
 
 ## Requirements
 - Python 3.8
