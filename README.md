@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Kelce’s response after miserable moment sparked backlash: ‘The biggest thing for me’**
+**Whitewater Twp. chemical leak: Evacuation orders remain in place as crews work overnight following chemical leak**
 
-You can read more about it [here](https://nypost.com/2024/09/25/sports/travis-kelces-response-to-slow-start-as-backlash-grows/).
+You can read more about it [here](https://www.wlwt.com/article/chemical-leak-hazmat-state-route-128-shelter-in-place/62353528).
 
 ## Requirements
 - Python 3.8
