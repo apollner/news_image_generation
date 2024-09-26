@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ's Visa antitrust lawsuit alleges debit card company monopoly**
+**Trump vows to 'take other countries' jobs' in economic speech**
 
-You can read more about it [here](https://www.usatoday.com/story/money/2024/09/24/visa-monopoly-doj-antitrust/75367978007/).
+You can read more about it [here](https://www.bbc.com/news/articles/cly3qnrpvg9o).
 
 ## Requirements
 - Python 3.8
