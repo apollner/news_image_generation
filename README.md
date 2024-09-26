@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Children of Diddy and Kim Porter Say Their Mother ‘Did Not’ Write a Book**
+**Travis Kelce’s response after miserable moment sparked backlash: ‘The biggest thing for me’**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/diddy-kim-porter-children-memoir-joint-statement-1235111685/).
+You can read more about it [here](https://nypost.com/2024/09/25/sports/travis-kelces-response-to-slow-start-as-backlash-grows/).
 
 ## Requirements
 - Python 3.8
