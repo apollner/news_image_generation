@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marcellus Williams was executed in Missouri. Read his final words, and his poetry**
+**Secret Service agent under investigation for alleged sex assault on Harris campaign aide**
 
-You can read more about it [here](https://www.kansascity.com/news/state/missouri/article293016099.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/25/secret-service-agent-investigated-for-sex-assault-harris-campaign-aide.html).
 
 ## Requirements
 - Python 3.8
