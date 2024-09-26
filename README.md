@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How John suddenly exploded into a Category 3 hurricane before striking Mexico’s coast**
+**Ryan Routh charged with attempted assassination of Donald Trump**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/09/24/hurricane-john-pacific-mexico-rapid-intensification/).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y5l9jzjglo).
 
 ## Requirements
 - Python 3.8
