@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Biden's speech at UNGA should set off alarm bells across the globe**
+**Southwest Airlines to cut service and staffing in Atlanta to slash costs**
 
-You can read more about it [here](https://www.foxnews.com/opinion/bidens-speech-unga-should-set-off-alarm-bells-across-globe).
+You can read more about it [here](https://www.cnbc.com/2024/09/25/southwest-airlines-cut-service-staffing-atlanta.html).
 
 ## Requirements
 - Python 3.8
