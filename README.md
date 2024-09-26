@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s president calls for unspecified global ‘action’ to force Russia into peace**
+**Diddy and Kim Porter’s Children Call Claims of a Memoir and Conspiracy Surrounding Her Death “Simply Untrue”**
 
-You can read more about it [here](https://apnews.com/article/un-ukraine-zelenskyy-russia-peace-territorial-blinken-db3954c29fa826601f42101e05fd6db0).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/diddy-kim-porter-children-memoir-conspiracy-death-untrue-1236011441/).
 
 ## Requirements
 - Python 3.8
