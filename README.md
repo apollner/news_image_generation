@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your Daily Horoscope by Madame Clairevoyant: September 25, 2024**
+**US woman meant to be first to use ‘suicide pod’ accused company of trying to get her life savings: report**
 
-You can read more about it [here](http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-sept-25-2024.html).
+You can read more about it [here](https://nypost.com/2024/09/25/world-news/us-woman-meant-to-be-the-first-to-use-sarco-suicide-pod-accused-company-of-exploiting-her-for-publicity-report/).
 
 ## Requirements
 - Python 3.8
