@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jayden Daniels shines, Bills look scary & Raiders HC calls out his players | McCoy & Van Noy**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/jayden-daniels-shines-bills-look-scary--raiders-hc-calls-out-his-players--mccoy--van-noy-004337227.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
