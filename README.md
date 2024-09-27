@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama prepares to put inmate to death in second U.S. nitrogen gas execution**
+**PS5 Pro 30th Anniversary price revealed: here's how much Sony's console costs**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/alabama-prepares-put-inmate-death-second-us-nitrogen-gas-execution-rcna172254).
+You can read more about it [here](https://www.theshortcut.com/p/ps5-pro-30th-anniversary-price-revealed).
 
 ## Requirements
 - Python 3.8
