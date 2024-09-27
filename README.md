@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 in 3 adults suffers from an iron deficiency, study finds — look for these 7 symptoms**
+**Zelda: Echoes Of Wisdom's Frame Rate Is "Even Worse" Than Link's Awakening**
 
-You can read more about it [here](https://nypost.com/2024/09/26/lifestyle/1-in-3-adults-has-an-iron-deficiency-study-finds-look-for-these-7-symptoms/).
+You can read more about it [here](https://www.nintendolife.com/news/2024/09/zelda-echoes-of-wisdoms-frame-rate-is-even-worse-than-links-awakening).
 
 ## Requirements
 - Python 3.8
