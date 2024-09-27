@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden on U.S. Support for Ukraine**
+**SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared (video)**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/26/statement-from-president-joe-biden-on-u-s-support-for-ukraine/).
+You can read more about it [here](https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure).
 
 ## Requirements
 - Python 3.8
