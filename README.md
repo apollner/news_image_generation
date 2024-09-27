@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Emotional’ Jenna Bush Hager called dad George W. Bush crying about Hoda Kotb leaving ‘Today’**
+**3D mammograms show benefits over 2D imaging, especially for dense breasts**
 
-You can read more about it [here](https://nypost.com/2024/09/26/entertainment/jenna-bush-hager-called-george-w-bush-crying-about-hoda-kotb-leaving-today/).
+You can read more about it [here](https://www.npr.org/sections/shots-health-news/2024/09/26/nx-s1-5129834/3d-mammogram-dense-breast-tomosynthesis).
 
 ## Requirements
 - Python 3.8
