@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris won’t say how she’ll pay for $1.7T spending plan in first solo interview with major news network**
+**Escalating Trump row looms over Zelensky's US visit**
 
-You can read more about it [here](https://nypost.com/2024/09/25/us-news/kamala-harris-wont-say-how-shell-pay-for-1-7t-spending-plan-in-first-solo-sit-down-with-major-news-network/).
+You can read more about it [here](https://www.bbc.com/news/articles/c80rkv0k4j8o).
 
 ## Requirements
 - Python 3.8
