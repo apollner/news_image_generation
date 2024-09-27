@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It looks like Sam Altman will get richer off of OpenAI after all — maybe $10.5 billion richer**
+**Detroit 'Bridgerton' ball attendees speak out: 'We were completely devastated'**
 
-You can read more about it [here](https://www.businessinsider.com/open-ai-sam-altman-equity-stake-valuation-private-nonprofit-9).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/detroit-bridgerton-ball-attendees-speak-completely-devastated/story?id\\u003d114144636).
 
 ## Requirements
 - Python 3.8
