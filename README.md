@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why now may be a good time to take ‘opportunistic’ profits in gold and silver**
+**Meta bets big on celebrity AI voices and augmented reality glasses**
 
-You can read more about it [here](https://www.marketwatch.com/story/why-now-may-be-a-good-time-to-take-opportunistic-profits-in-gold-and-silver-f5268eb8).
+You can read more about it [here](https://uk.finance.yahoo.com/news/meta-unveils-star-studded-ai-181038573.html).
 
 ## Requirements
 - Python 3.8
