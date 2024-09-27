@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah**
+**Top staff in NC Lt. Gov. Mark Robinson’s office stepping down**
 
-You can read more about it [here](https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e).
+You can read more about it [here](https://thehill.com/homenews/campaign/4900197-top-staff-north-carolina-mark-robinson-office-stepping-down/).
 
 ## Requirements
 - Python 3.8
