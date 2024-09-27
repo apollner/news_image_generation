@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit 'Bridgerton' ball attendees speak out: 'We were completely devastated'**
+**US and allies call for an immediate 21-day cease-fire between Israel and Hezbollah**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/detroit-bridgerton-ball-attendees-speak-completely-devastated/story?id\\u003d114144636).
+You can read more about it [here](https://apnews.com/article/biden-israel-hezbollah-war-ff2ec626f5d8883014f577b9a0cfaf1e).
 
 ## Requirements
 - Python 3.8
