@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow futures are little changed after index breaks four-day winning run: Live updates**
+**Russia has secret war drones project in China, intel sources say in Reuters report**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/25/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/26/russia-has-secret-war-drones-project-in-china-intel-sources-say-in-reuters-report.html).
 
 ## Requirements
 - Python 3.8
