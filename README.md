@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sea robins are fish with ‘the wings of a bird and multiple legs like a crab’**
+**‘Emotional’ Jenna Bush Hager called dad George W. Bush crying about Hoda Kotb leaving ‘Today’**
 
-You can read more about it [here](https://www.cnn.com/2024/09/26/science/sea-robins-walk-taste-seafloor/index.html).
+You can read more about it [here](https://nypost.com/2024/09/26/entertainment/jenna-bush-hager-called-george-w-bush-crying-about-hoda-kotb-leaving-today/).
 
 ## Requirements
 - Python 3.8
