@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris is making a 'capitalist' pitch to boost the economy as Trump pushes deeper into populism**
+**5 takeaways from Harris’s MSNBC interview with Stephanie Ruhle**
 
-You can read more about it [here](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670).
+You can read more about it [here](https://thehill.com/homenews/administration/4900063-kamala-harris-stephanie-ruhle-interview-takeaways/).
 
 ## Requirements
 - Python 3.8
