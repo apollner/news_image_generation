@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Micron stock jumps as Q1 revenue forecast tops analyst estimates**
+**It looks like Sam Altman will get richer off of OpenAI after all — maybe $10.5 billion richer**
 
-You can read more about it [here](https://finance.yahoo.com/news/micron-stock-jumps-as-q1-revenue-forecast-tops-analyst-estimates-172951187.html).
+You can read more about it [here](https://www.businessinsider.com/open-ai-sam-altman-equity-stake-valuation-private-nonprofit-9).
 
 ## Requirements
 - Python 3.8
