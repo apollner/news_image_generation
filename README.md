@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: OpenAI to remove non-profit control and give Sam Altman equity**
+**US Hails China’s Advanced Notice of ICBM Test as ‘Good Thing’**
 
-You can read more about it [here](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing).
 
 ## Requirements
 - Python 3.8
