@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This exoplanet circling a dead star may mirror Earth's fate — if our planet survives a dying sun, that is**
+**Menéndez Brothers’ Family Slams Ryan Murphy’s ‘Monsters’ As “Repulsive”**
 
-You can read more about it [here](https://www.space.com/sun-earth-future-exoplanet-dead-star).
+You can read more about it [here](http://deadline.com/2024/09/menendez-brothers-family-slams-ryan-murphy-monsters-repulsive-1236100823/).
 
 ## Requirements
 - Python 3.8
