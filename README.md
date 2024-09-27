@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelda: Echoes Of Wisdom's Frame Rate Is "Even Worse" Than Link's Awakening**
+**2024 Presidents Cup TV schedule, coverage, where to watch today, live stream free online, start times, dates**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/09/zelda-echoes-of-wisdoms-frame-rate-is-even-worse-than-links-awakening).
+You can read more about it [here](https://www.cbssports.com/golf/news/2024-presidents-cup-tv-schedule-coverage-where-to-watch-today-live-stream-free-online-start-times-dates/).
 
 ## Requirements
 - Python 3.8
