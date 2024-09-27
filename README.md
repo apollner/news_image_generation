@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Car dealerships expected to feel effects of port strike: Have repairs done now, expert says**
+**This exoplanet circling a dead star may mirror Earth's fate — if our planet survives a dying sun, that is**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/car-dealerships-expected-feel-effects-port-strike-have-repairs-done-now-expert-says).
+You can read more about it [here](https://www.space.com/sun-earth-future-exoplanet-dead-star).
 
 ## Requirements
 - Python 3.8
