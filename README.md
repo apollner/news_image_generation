@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-9 dropped 2 NASA astronauts from ISS mission, but they were prepared (video)**
+**1 in 3 adults suffers from an iron deficiency, study finds — look for these 7 symptoms**
 
-You can read more about it [here](https://www.space.com/nasa-crew-9-ready-for-launch-spacex-falcon-9-failure).
+You can read more about it [here](https://nypost.com/2024/09/26/lifestyle/1-in-3-adults-has-an-iron-deficiency-study-finds-look-for-these-7-symptoms/).
 
 ## Requirements
 - Python 3.8
