@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top staff in NC Lt. Gov. Mark Robinson’s office stepping down**
+**Exclusive: OpenAI to remove non-profit control and give Sam Altman equity**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4900197-top-staff-north-carolina-mark-robinson-office-stepping-down/).
+You can read more about it [here](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/).
 
 ## Requirements
 - Python 3.8
