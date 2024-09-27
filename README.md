@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Hails China’s Advanced Notice of ICBM Test as ‘Good Thing’**
+**Kamala Harris won’t say how she’ll pay for $1.7T spending plan in first solo interview with major news network**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-26/us-hails-china-s-advanced-notice-of-icbm-test-as-good-thing).
+You can read more about it [here](https://nypost.com/2024/09/25/us-news/kamala-harris-wont-say-how-shell-pay-for-1-7t-spending-plan-in-first-solo-sit-down-with-major-news-network/).
 
 ## Requirements
 - Python 3.8
