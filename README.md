@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Takeaways from the NY court hearing on Trump’s $454 million civil fraud judgment appeal**
+**Voting technology firm and Newsmax reach settlement in 2020 election defamation case**
 
-You can read more about it [here](https://www.cnn.com/2024/09/26/politics/trump-454-million-civil-fraud-new-york-appeal/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/09/26/smartmatic-newsmax-settlement-2020-election-defamation-00181264).
 
 ## Requirements
 - Python 3.8
