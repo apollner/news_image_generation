@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wide Receiver Start 'Em, Sit 'Em Picks For Fantasy Football Week 4**
+**Harris is making a 'capitalist' pitch to boost the economy as Trump pushes deeper into populism**
 
-You can read more about it [here](https://www.si.com/fantasy/wide-receiver-start-em-sit-em-picks-for-fantasy-football-week-4-01j8j9s9edw0).
+You can read more about it [here](https://apnews.com/article/harris-trump-economy-taxes-middle-class-tariffs-bda4bfe7cb02c1c5c2f6232bf05ad670).
 
 ## Requirements
 - Python 3.8
