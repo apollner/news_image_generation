@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Menéndez Brothers’ Family Slams Ryan Murphy’s ‘Monsters’ As “Repulsive”**
+**Takeaways from the NY court hearing on Trump’s $454 million civil fraud judgment appeal**
 
-You can read more about it [here](http://deadline.com/2024/09/menendez-brothers-family-slams-ryan-murphy-monsters-repulsive-1236100823/).
+You can read more about it [here](https://www.cnn.com/2024/09/26/politics/trump-454-million-civil-fraud-new-york-appeal/index.html).
 
 ## Requirements
 - Python 3.8
