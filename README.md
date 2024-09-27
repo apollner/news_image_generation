@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Alabama prepares to put inmate to death in second U.S. nitrogen gas execution**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/alabama-prepares-put-inmate-death-second-us-nitrogen-gas-execution-rcna172254).
 
 ## Requirements
 - Python 3.8
