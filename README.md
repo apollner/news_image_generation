@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Funniest wildlife photos of the year showcased in global competition: See the finalists**
+**Russia’s nuclear doctrine to include attacks on nonnuclear states**
 
-You can read more about it [here](https://www.usatoday.com/story/life/animalkind/2024/09/25/funniest-animal-photos-comedy-wildlife-awards/75375185007/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/25/putin-nuclear-deterrent-ukraine-threat/).
 
 ## Requirements
 - Python 3.8
