@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta bets big on celebrity AI voices and augmented reality glasses**
+**Micron Stock Jumps on Strong Earnings and ‘Robust AI Demand’**
 
-You can read more about it [here](https://uk.finance.yahoo.com/news/meta-unveils-star-studded-ai-181038573.html).
+You can read more about it [here](https://www.barrons.com/articles/micron-technology-earnings-stock-price-f92cb819).
 
 ## Requirements
 - Python 3.8
