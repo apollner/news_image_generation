@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Escalating Trump row looms over Zelensky's US visit**
+**Zelenskyy due to meet Capitol Hill leaders amid GOP criticism**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c80rkv0k4j8o).
+You can read more about it [here](https://www.politico.com/live-updates/2024/09/26/congress/zelenskyy-to-the-hill-00181146).
 
 ## Requirements
 - Python 3.8
