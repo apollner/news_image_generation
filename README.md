@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PS5 Pro 30th Anniversary price revealed: here's how much Sony's console costs**
+**Exclusive: OpenAI to remove non-profit control and give Sam Altman equity**
 
-You can read more about it [here](https://www.theshortcut.com/p/ps5-pro-30th-anniversary-price-revealed).
+You can read more about it [here](https://www.reuters.com/technology/artificial-intelligence/openai-remove-non-profit-control-give-sam-altman-equity-sources-say-2024-09-25/).
 
 ## Requirements
 - Python 3.8
