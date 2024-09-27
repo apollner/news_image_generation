@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 takeaways from Harris’s MSNBC interview with Stephanie Ruhle**
+**Funniest wildlife photos of the year showcased in global competition: See the finalists**
 
-You can read more about it [here](https://thehill.com/homenews/administration/4900063-kamala-harris-stephanie-ruhle-interview-takeaways/).
+You can read more about it [here](https://www.usatoday.com/story/life/animalkind/2024/09/25/funniest-animal-photos-comedy-wildlife-awards/75375185007/).
 
 ## Requirements
 - Python 3.8
