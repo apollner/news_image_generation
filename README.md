@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
+**Watch Shania Twain Open People’s Choice Country Awards With the Ultimate Tease**
 
-You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
+You can read more about it [here](http://www.rollingstone.com/music/music-country/shania-twain-opens-peoples-choice-country-awards-2024-1235113408/).
 
 ## Requirements
 - Python 3.8
