@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sam Altman tells OpenAI staff there's no plan for him to receive 'giant equity stake' in company**
+**Alabama has executed Alan Eugene Miller, the second inmate known to die by nitrogen gas**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html).
+You can read more about it [here](https://www.cnn.com/2024/09/26/us/alan-eugene-miller-alabama-execution/index.html).
 
 ## Requirements
 - Python 3.8
