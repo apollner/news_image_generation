@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voting technology firm, conservative outlet reach settlement in 2020 election defamation case**
+**Dallas Cowboys vs. New York Giants Game Highlights | NFL 2024 Season Week 4**
 
-You can read more about it [here](https://apnews.com/article/smartmatic-newsmax-lawsuit-2020-election-96d35dc10009b68cbb548ef7bea10284).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
