@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EchoStar nears deal to sell Dish to DirecTV with $2 billion debt payment looming, sources say**
+**Climate activists throw soup on two Van Goghs, just hours after others are sentenced to jail**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/27/echostar-nears-deal-to-sell-dish-to-directv-with-debt-payment-looming.html).
+You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/09/27/van-gogh-soup-climate-activists-jail/).
 
 ## Requirements
 - Python 3.8
