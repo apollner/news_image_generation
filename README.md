@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voting technology firm and Newsmax reach settlement in 2020 election defamation case**
+**Presidents Cup Round 1: Recap Thursday's Four-ball matches**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/26/smartmatic-newsmax-settlement-2020-election-defamation-00181264).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/26/presidents-cup-thursday-four-ball-round-1-match-recaps-royal-montreal).
 
 ## Requirements
 - Python 3.8
