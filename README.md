@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it targeted Hezbollah leader in strikes on Lebanese capital**
+**iPhone 16 Pro Max: One Week Camera Review**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-27-24/index.html).
+You can read more about it [here](https://www.macrumors.com/2024/09/27/iphone-16-pro-max-camera-review/).
 
 ## Requirements
 - Python 3.8
