@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines to launch assigned seating, premium cabin in 2025**
+**LDP election: Japan’s next prime minister could be its first woman leader**
 
-You can read more about it [here](https://www.washingtonpost.com/travel/2024/09/26/southwest-airlines-free-bags-assigned-seating/).
+You can read more about it [here](https://www.cnn.com/2024/09/26/asia/japan-ruling-party-election-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
