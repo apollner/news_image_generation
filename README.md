@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands-on with Meta's Orion AR glasses prototype and the possible future of computing**
+**Chinese nuclear-powered submarine sank this year, US official says**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/27/hands-on-with-metas-orion-augmented-reality-smart-glasses-prototype.html).
+You can read more about it [here](https://www.reuters.com/world/chinese-nuclear-powered-submarine-sank-earlier-this-year-us-official-says-2024-09-26/).
 
 ## Requirements
 - Python 3.8
