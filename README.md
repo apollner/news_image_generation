@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch SpaceX's Crew-9 astronaut launch for NASA on Sept. 28**
+**Southwest Airlines to launch assigned seating, premium cabin in 2025**
 
-You can read more about it [here](https://www.space.com/spacex-crew-9-astronaut-launch-watch-live).
+You can read more about it [here](https://www.washingtonpost.com/travel/2024/09/26/southwest-airlines-free-bags-assigned-seating/).
 
 ## Requirements
 - Python 3.8
