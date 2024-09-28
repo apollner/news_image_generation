@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Over 90,000 people in Lebanon had to flee Israel's bombardments this week**
+**Netanyahu dismisses Hezbollah cease-fire push, confounding White House**
 
-You can read more about it [here](https://www.npr.org/2024/09/26/nx-s1-5127325/israel-hezbollah-conflict-lebanon-displaced-residents).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/09/26/netanyahu-israel-hezbollah-ceasefire/).
 
 ## Requirements
 - Python 3.8
