@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Activist hedge fund Elliott slams Southwest CEO Bob Jordan as shares soar 7%**
+**Cowboys vs. Giants Thursday Night Football: Live updates, score, highlights, how to watch Dallas vs. New York**
 
-You can read more about it [here](https://nypost.com/2024/09/26/business/activist-elliott-slams-ceo-bob-jordan-as-shares-soar-7/).
+You can read more about it [here](https://sports.yahoo.com/live/cowboys-vs-giants-thursday-night-football-live-updates-score-highlights-how-to-watch-dallas-vs-new-york-231539465.html).
 
 ## Requirements
 - Python 3.8
