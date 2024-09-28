@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
+**Over 90,000 people in Lebanon had to flee Israel's bombardments this week**
 
-You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
+You can read more about it [here](https://www.npr.org/2024/09/26/nx-s1-5127325/israel-hezbollah-conflict-lebanon-displaced-residents).
 
 ## Requirements
 - Python 3.8
