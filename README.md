@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Shania Twain Open People’s Choice Country Awards With the Ultimate Tease**
+**Anti-Israel protesters menacingly chant ‘We’re gonna get you’ outside Netanyahu’s NYC hotel**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-country/shania-twain-opens-peoples-choice-country-awards-2024-1235113408/).
+You can read more about it [here](https://nypost.com/2024/09/27/us-news/anti-israel-protesters-menacingly-chant-were-gonna-get-you-at-netanyahu/).
 
 ## Requirements
 - Python 3.8
