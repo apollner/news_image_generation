@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helene tearing through Georgia; 6 dead; 4.4 million without power: Live updates**
+**Trump Media co-founders just dumped almost all of their stock**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/27/hurricane-helene-tropical-storm-friday-live-updates/75405032007/).
+You can read more about it [here](https://fortune.com/2024/09/27/donald-trump-truth-social-media-tmtg-founders-litinsky-moss-shareholders-stock/).
 
 ## Requirements
 - Python 3.8
