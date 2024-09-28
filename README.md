@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Stay out of it’: Port worker strike creates new hazard for Harris, Trump**
+**Hands-on with Meta's Orion AR glasses prototype and the possible future of computing**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/27/port-strike-harris-biden-trump-election-00181319).
+You can read more about it [here](https://www.cnbc.com/2024/09/27/hands-on-with-metas-orion-augmented-reality-smart-glasses-prototype.html).
 
 ## Requirements
 - Python 3.8
