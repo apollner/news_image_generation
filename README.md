@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hoda Kotb was thinking about leaving ‘Today’ for ‘a really long time,’ but colleagues were still ‘shocked,’ sources**
+**Meta’s new smart glasses look like the future**
 
-You can read more about it [here](https://pagesix.com/2024/09/27/entertainment/hoda-kotb-had-been-contemplating-leaving-today-for-a-really-long-time-insiders/).
+You can read more about it [here](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast).
 
 ## Requirements
 - Python 3.8
