@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anti-Israel protesters menacingly chant ‘We’re gonna get you’ outside Netanyahu’s NYC hotel**
+**Today Show’s Dylan Dreyer Shares Who Could Replace Hoda Kotb - E! Online**
 
-You can read more about it [here](https://nypost.com/2024/09/27/us-news/anti-israel-protesters-menacingly-chant-were-gonna-get-you-at-netanyahu/).
+You can read more about it [here](https://www.eonline.com/news/1407878/today-shows-dylan-dreyer-shares-who-could-replace-hoda-kotb).
 
 ## Requirements
 - Python 3.8
