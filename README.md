@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dallas Cowboys vs. New York Giants Game Highlights | NFL 2024 Season Week 4**
+**Kuo: New Apple Vision Pro with M5 chip on the way, featuring Apple Intelligence support**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://9to5mac.com/2024/09/27/new-apple-vision-pro-2025/).
 
 ## Requirements
 - Python 3.8
