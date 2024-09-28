@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today Show’s Dylan Dreyer Shares Who Could Replace Hoda Kotb - E! Online**
+**FDA approves 1st new drug for schizophrenia in more than 30 years**
 
-You can read more about it [here](https://www.eonline.com/news/1407878/today-shows-dylan-dreyer-shares-who-could-replace-hoda-kotb).
+You can read more about it [here](https://abcnews.go.com/Health/fda-approves-1st-new-drug-schizophrenia-30-years/story?id\\u003d114070951).
 
 ## Requirements
 - Python 3.8
