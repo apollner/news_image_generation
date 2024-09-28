@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic Hurricane Helene cuts power to 2 million in Florida, Carolinas**
+**EchoStar nears deal to sell Dish to DirecTV with $2 billion debt payment looming, sources say**
 
-You can read more about it [here](https://www.axios.com/2024/09/27/hurricane-helene-floods-florida-georgia-north-carolina).
+You can read more about it [here](https://www.cnbc.com/2024/09/27/echostar-nears-deal-to-sell-dish-to-directv-with-debt-payment-looming.html).
 
 ## Requirements
 - Python 3.8
