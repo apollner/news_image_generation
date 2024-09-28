@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys vs. Giants Thursday Night Football: Live updates, score, highlights, how to watch Dallas vs. New York**
+**How to watch SpaceX's Crew-9 astronaut launch for NASA on Sept. 28**
 
-You can read more about it [here](https://sports.yahoo.com/live/cowboys-vs-giants-thursday-night-football-live-updates-score-highlights-how-to-watch-dallas-vs-new-york-231539465.html).
+You can read more about it [here](https://www.space.com/spacex-crew-9-astronaut-launch-watch-live).
 
 ## Requirements
 - Python 3.8
