@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Defense Minister Ishiba chosen to lead Japan's ruling party, setting him up to be prime minister**
+**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
 
-You can read more about it [here](https://apnews.com/article/japan-election-new-prime-minister-ca3ba06b79c79d5dc534a0d259a7272c).
+You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
 
 ## Requirements
 - Python 3.8
