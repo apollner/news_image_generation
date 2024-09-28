@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ex-Defense Minister Ishiba chosen to lead Japan's ruling party, setting him up to be prime minister**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/japan-election-new-prime-minister-ca3ba06b79c79d5dc534a0d259a7272c).
 
 ## Requirements
 - Python 3.8
