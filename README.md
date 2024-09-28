@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese nuclear-powered submarine sank this year, US official says**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/world/chinese-nuclear-powered-submarine-sank-earlier-this-year-us-official-says-2024-09-26/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
