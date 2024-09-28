@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Defense Minister Ishiba chosen to lead Japan’s ruling party and become prime minister**
+**Just Stop Oil protesters jailed for throwing soup on Sunflowers**
 
-You can read more about it [here](https://apnews.com/article/japan-election-new-prime-minister-ca3ba06b79c79d5dc534a0d259a7272c).
+You can read more about it [here](https://www.bbc.com/news/articles/cly7zy3d3exo).
 
 ## Requirements
 - Python 3.8
