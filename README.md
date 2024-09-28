@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timeline of New York City Mayor Eric Adams’ federal corruption charge allegations**
+**Helene tearing through Georgia; 6 dead; 4.4 million without power: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2024/09/27/us/nyc-mayor-eric-adams-allegations-timeline/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/27/hurricane-helene-tropical-storm-friday-live-updates/75405032007/).
 
 ## Requirements
 - Python 3.8
