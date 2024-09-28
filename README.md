@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
+**Timeline of New York City Mayor Eric Adams’ federal corruption charge allegations**
 
-You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
+You can read more about it [here](https://www.cnn.com/2024/09/27/us/nyc-mayor-eric-adams-allegations-timeline/index.html).
 
 ## Requirements
 - Python 3.8
