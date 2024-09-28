@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media co-founders just dumped almost all of their stock**
+**Hoda Kotb was thinking about leaving ‘Today’ for ‘a really long time,’ but colleagues were still ‘shocked,’ sources**
 
-You can read more about it [here](https://fortune.com/2024/09/27/donald-trump-truth-social-media-tmtg-founders-litinsky-moss-shareholders-stock/).
+You can read more about it [here](https://pagesix.com/2024/09/27/entertainment/hoda-kotb-had-been-contemplating-leaving-today-for-a-really-long-time-insiders/).
 
 ## Requirements
 - Python 3.8
