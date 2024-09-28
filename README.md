@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: New Apple Vision Pro with M5 chip on the way, featuring Apple Intelligence support**
+**Alibaba, JD and Meituan Surge After China Stimulus Announcement**
 
-You can read more about it [here](https://9to5mac.com/2024/09/27/new-apple-vision-pro-2025/).
+You can read more about it [here](https://finance.yahoo.com/news/alibaba-jd-meituan-surge-china-061103624.html/).
 
 ## Requirements
 - Python 3.8
