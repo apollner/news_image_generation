@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Just Stop Oil protesters jailed for throwing soup on Sunflowers**
+**East Coast port strike looms for first time since 1977. Here's what to know.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cly7zy3d3exo).
+You can read more about it [here](https://www.cbsnews.com/news/east-coast-port-strike-what-to-know/).
 
 ## Requirements
 - Python 3.8
