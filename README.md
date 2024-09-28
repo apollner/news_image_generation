@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu dismisses Hezbollah cease-fire push, confounding White House**
+**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/09/26/netanyahu-israel-hezbollah-ceasefire/).
+You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
 
 ## Requirements
 - Python 3.8
