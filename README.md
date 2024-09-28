@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Presidents Cup Round 1: Recap Thursday's Four-ball matches**
+**Activist hedge fund Elliott slams Southwest CEO Bob Jordan as shares soar 7%**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/26/presidents-cup-thursday-four-ball-round-1-match-recaps-royal-montreal).
+You can read more about it [here](https://nypost.com/2024/09/26/business/activist-elliott-slams-ceo-bob-jordan-as-shares-soar-7/).
 
 ## Requirements
 - Python 3.8
