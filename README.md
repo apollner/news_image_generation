@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alabama has executed Alan Eugene Miller, the second inmate known to die by nitrogen gas**
+**Global Myopia Crisis: 1 in 3 Kids Now Near-Sighted**
 
-You can read more about it [here](https://www.cnn.com/2024/09/26/us/alan-eugene-miller-alabama-execution/index.html).
+You can read more about it [here](https://scitechdaily.com/global-myopia-crisis-1-in-3-kids-now-near-sighted/).
 
 ## Requirements
 - Python 3.8
