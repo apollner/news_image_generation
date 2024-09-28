@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LDP election: Japan’s next prime minister could be its first woman leader**
+**Sam Altman tells OpenAI staff there's no plan for him to receive 'giant equity stake' in company**
 
-You can read more about it [here](https://www.cnn.com/2024/09/26/asia/japan-ruling-party-election-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/09/26/openais-sam-altman-tells-employees-he-didnt-get-giant-equity-stake.html).
 
 ## Requirements
 - Python 3.8
