@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Mayor Eric Adams enters courtroom to face corruption charges**
+**Japan’s ruling party elects Shigeru Ishiba as new prime minister**
 
-You can read more about it [here](https://www.reuters.com/world/us/new-york-mayor-eric-adams-appear-court-corruption-charges-2024-09-27/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/09/27/japan-new-prime-minister-leader-shigeru-ishiba/).
 
 ## Requirements
 - Python 3.8
