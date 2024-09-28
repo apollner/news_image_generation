@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alibaba, JD and Meituan Surge After China Stimulus Announcement**
+**‘Stay out of it’: Port worker strike creates new hazard for Harris, Trump**
 
-You can read more about it [here](https://finance.yahoo.com/news/alibaba-jd-meituan-surge-china-061103624.html/).
+You can read more about it [here](https://www.politico.com/news/2024/09/27/port-strike-harris-biden-trump-election-00181319).
 
 ## Requirements
 - Python 3.8
