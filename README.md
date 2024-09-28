@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FDA approves 1st new drug for schizophrenia in more than 30 years**
+**NYC Mayor Eric Adams indicted in federal corruption investigation; accused of accepting improper campaign contributions**
 
-You can read more about it [here](https://abcnews.go.com/Health/fda-approves-1st-new-drug-schizophrenia-30-years/story?id\\u003d114070951).
+You can read more about it [here](https://abc7ny.com/post/nyc-mayor-eric-adams-indicted-federal-corruption-investigation-administration-fbi/15358522/).
 
 ## Requirements
 - Python 3.8
