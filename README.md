@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC Mayor Eric Adams indicted in federal corruption investigation; accused of accepting improper campaign contributions**
+**Voting technology firm, conservative outlet reach settlement in 2020 election defamation case**
 
-You can read more about it [here](https://abc7ny.com/post/nyc-mayor-eric-adams-indicted-federal-corruption-investigation-administration-fbi/15358522/).
+You can read more about it [here](https://apnews.com/article/smartmatic-newsmax-lawsuit-2020-election-96d35dc10009b68cbb548ef7bea10284).
 
 ## Requirements
 - Python 3.8
