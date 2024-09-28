@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**East Coast port strike looms for first time since 1977. Here's what to know.**
+**NYC Mayor Eric Adams pleads not guilty to charges in federal corruption case**
 
-You can read more about it [here](https://www.cbsnews.com/news/east-coast-port-strike-what-to-know/).
+You can read more about it [here](https://www.cnn.com/2024/09/27/us/eric-adams-nyc-mayor-arraignment/index.html).
 
 ## Requirements
 - Python 3.8
