@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta’s new smart glasses look like the future**
+**New York Mayor Eric Adams enters courtroom to face corruption charges**
 
-You can read more about it [here](https://www.theverge.com/2024/9/27/24255557/meta-orion-quest-smart-glasses-ar-connect-vergecast).
+You can read more about it [here](https://www.reuters.com/world/us/new-york-mayor-eric-adams-appear-court-corruption-charges-2024-09-27/).
 
 ## Requirements
 - Python 3.8
