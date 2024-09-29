@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth's 'Mini Moon' To Be Visible On September 29. Here's How To Watch It**
+**Hurricane Helene kills at least 44 and cuts a swath of destruction across the Southeast**
 
-You can read more about it [here](https://www.ndtv.com/world-news/earths-mini-moon-to-be-visible-on-september-29-heres-how-to-watch-it-6667778).
+You can read more about it [here](https://apnews.com/article/hurricane-helene-florida-georgia-carolina-e5769b56dea81e40fae2161ad1b4e75d).
 
 ## Requirements
 - Python 3.8
