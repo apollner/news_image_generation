@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Helene kills at least 44 and cuts a swath of destruction across the Southeast**
+**Israel says it hit Hizbollah headquarters with Beirut air strike**
 
-You can read more about it [here](https://apnews.com/article/hurricane-helene-florida-georgia-carolina-e5769b56dea81e40fae2161ad1b4e75d).
+You can read more about it [here](https://www.ft.com/content/a2096fae-5a7b-4322-8ea1-5540830a61cd).
 
 ## Requirements
 - Python 3.8
