@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta offers a glimpse through its supposed iPhone killer: Orion**
+**Historic North Carolina village under water after devastating damage from Helene**
 
-You can read more about it [here](https://techcrunch.com/2024/09/28/meta-offers-a-glimpse-through-its-supposed-iphone-killer-orion/).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/asheville-north-carolina-helene-damage-rcna173131).
 
 ## Requirements
 - Python 3.8
