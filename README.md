@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Iran's supreme leader taken to secure location, sources say**
+**Death toll from Hurricane Helene mounts as aftermath assessment begins**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iranian-leader-khamenei-calls-muslims-confront-israel-2024-09-28/).
+You can read more about it [here](https://www.npr.org/2024/09/28/nx-s1-5132035/death-toll-from-hurricane-helene-mounts-as-aftermath-assessment-begins).
 
 ## Requirements
 - Python 3.8
