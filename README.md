@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climate activists throw soup on two Van Goghs, just hours after others are sentenced to jail**
+**East Coast port strike looms for first time since 1977. Here's what to know.**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-environment/2024/09/27/van-gogh-soup-climate-activists-jail/).
+You can read more about it [here](https://www.cbsnews.com/news/east-coast-port-strike-what-to-know/).
 
 ## Requirements
 - Python 3.8
