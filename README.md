@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX launch Crew-9 astronaut mission to the ISS today**
+**Presidents Cup weather: Saturday play resumes after fog suspension**
 
-You can read more about it [here](https://www.space.com/spacex-crew-9-launch-preview).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/28/presidents-cup-weather-cold-wind-fog-play-delayed-royal-montreal-u-s-international-team).
 
 ## Requirements
 - Python 3.8
