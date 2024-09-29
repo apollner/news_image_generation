@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic Hurricane Helene cuts power to 3 million in Florida, Carolinas**
+**Miami survives as Hokies' Hail Mary TD overturned**
 
-You can read more about it [here](https://www.axios.com/2024/09/27/hurricane-helene-floods-florida-georgia-north-carolina).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/41485496/miami-survives-refs-overturn-virginia-tech-hail-mary-td).
 
 ## Requirements
 - Python 3.8
