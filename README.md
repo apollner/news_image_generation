@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Samsung Galaxy S25 Ultra is again tipped to get a key spec upgrade**
+**Kendra Wilkinson Shares Rare Update on Her Kids Hank and Alijah**
 
-You can read more about it [here](https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s25-ultra-is-again-tipped-to-get-a-key-spec-upgrade).
+You can read more about it [here](https://www.eonline.com/news/1407939/kendra-wilkinson-shares-rare-update-on-her-kids-hank-and-alijah).
 
 ## Requirements
 - Python 3.8
