@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mary Bonnet Gives Her Take on Bre Tiesi and Chelsea Lazkani's Selling Sunset Drama - E! Online**
+**Winners, Losers from Karl-Anthony Towns trade to Knicks**
 
-You can read more about it [here](https://www.eonline.com/news/1407794/mary-bonnet-gives-her-take-on-bre-tiesi-and-chelsea-lazkanis-selling-sunset-drama).
+You can read more about it [here](https://www.nbcsports.com/nba/news/winners-losers-from-karl-anthony-towns-trade-to-knicks).
 
 ## Requirements
 - Python 3.8
