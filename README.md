@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**People are 'microdosing' Ozempic — and doctors have a surprising stance on whether it's healthy**
+**Meta offers a glimpse through its supposed iPhone killer: Orion**
 
-You can read more about it [here](https://nypost.com/2024/09/28/lifestyle/people-are-microdosing-ozempic-and-doctors-have-a-surprising-stance-on-whether-its-healthy/).
+You can read more about it [here](https://techcrunch.com/2024/09/28/meta-offers-a-glimpse-through-its-supposed-iphone-killer-orion/).
 
 ## Requirements
 - Python 3.8
