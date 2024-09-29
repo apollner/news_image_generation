@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota reports rare human death from rabies**
+**NC Lt. Gov. Mark Robinson hospitalized with second-degree burns following incident at campaign event**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-reports-rare-human-death-rabies-114299649).
+You can read more about it [here](https://www.cnn.com/2024/09/27/politics/mark-robinson-hospitalized/index.html).
 
 ## Requirements
 - Python 3.8
