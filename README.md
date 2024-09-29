@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches mission to space station that will bring back stranded NASA astronauts next year**
+**California is first state to banish Froot Loops from school cafeterias**
 
-You can read more about it [here](https://www.foxnews.com/us/spacex-launches-mission-space-station-bring-back-stranded-nasa-astronauts-next-year).
+You can read more about it [here](https://www.politico.com/news/2024/09/28/california-hot-cheetos-school-cafeterias-00181555).
 
 ## Requirements
 - Python 3.8
