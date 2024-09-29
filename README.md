@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic North Carolina village under water after devastating damage from Helene**
+**SpaceX launches mission to space station that will bring back stranded NASA astronauts next year**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/asheville-north-carolina-helene-damage-rcna173131).
+You can read more about it [here](https://www.foxnews.com/us/spacex-launches-mission-space-station-bring-back-stranded-nasa-astronauts-next-year).
 
 ## Requirements
 - Python 3.8
