@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drinking alcohol is linked to six types of cancer, experts say: ‘It’s toxic’**
+**Rumour: 'Switch 2' Will Launch Early Next Year, Claims Accessory Company**
 
-You can read more about it [here](https://nypost.com/2024/09/28/lifestyle/drinking-alcohol-is-linked-to-six-types-of-cancer-experts-say-its-toxic/).
+You can read more about it [here](https://www.nintendolife.com/news/2024/09/rumour-switch-2-will-launch-early-next-year-claims-accessory-company).
 
 ## Requirements
 - Python 3.8
