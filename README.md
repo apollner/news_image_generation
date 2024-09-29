@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX launch Crew-9 astronaut mission to the ISS today**
+**Disruption looms at East Coast ports as longshoremen prepare to strike**
 
-You can read more about it [here](https://www.space.com/spacex-crew-9-launch-preview).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/28/port-strike-longshoremen-union-shipping/).
 
 ## Requirements
 - Python 3.8
