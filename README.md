@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spoilers: WWE SmackDown Match Order & Segment Listing, Backstage Notes (9/27/2024)**
+**SpaceX, NASA 'go' for 1st astronaut launch to ISS from Cape Canaveral Space Force Station pad**
 
-You can read more about it [here](https://wrestlingheadlines.com/spoilers-wwe-smackdown-match-order-segment-listing-backstage-notes-9-27-2024/).
+You can read more about it [here](https://www.space.com/spacex-nasa-go-crew-9-astronaut-launch-florida-pad).
 
 ## Requirements
 - Python 3.8
