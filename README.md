@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**East Coast port strike looms for first time since 1977. Here's what to know.**
+**Minnesota reports rare human death from rabies**
 
-You can read more about it [here](https://www.cbsnews.com/news/east-coast-port-strike-what-to-know/).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/minnesota-reports-rare-human-death-rabies-114299649).
 
 ## Requirements
 - Python 3.8
