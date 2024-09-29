@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disruption looms at East Coast ports as longshoremen prepare to strike**
+**The Samsung Galaxy S25 Ultra is again tipped to get a key spec upgrade**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/28/port-strike-longshoremen-union-shipping/).
+You can read more about it [here](https://www.techradar.com/phones/samsung-galaxy-phones/the-samsung-galaxy-s25-ultra-is-again-tipped-to-get-a-key-spec-upgrade).
 
 ## Requirements
 - Python 3.8
