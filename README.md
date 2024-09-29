@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NYC Mayor Eric Adams pleads not guilty to federal corruption charges as New York’s governor considers removing him**
+**NC Lt. Gov. Mark Robinson hospitalized with second-degree burns following incident at campaign event**
 
-You can read more about it [here](https://www.cnn.com/2024/09/27/us/eric-adams-nyc-mayor-arraignment/index.html).
+You can read more about it [here](https://www.cnn.com/2024/09/27/politics/mark-robinson-hospitalized/index.html).
 
 ## Requirements
 - Python 3.8
