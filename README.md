@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NC Lt. Gov. Mark Robinson hospitalized with second-degree burns following incident at campaign event**
+**‘Wild Robot’ Uploading $35M Opening; ‘Megalopolis’ Debuts Behind India’s ‘Devara Part One’ – Friday Box Office Update**
 
-You can read more about it [here](https://www.cnn.com/2024/09/27/politics/mark-robinson-hospitalized/index.html).
+You can read more about it [here](http://deadline.com/2024/09/box-office-megalopolis-the-wild-robot-1236101618/).
 
 ## Requirements
 - Python 3.8
