@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it hit Hizbollah headquarters with Beirut air strike**
+**Apple drops out of talks to join OpenAI investment round, WSJ reports**
 
-You can read more about it [here](https://www.ft.com/content/a2096fae-5a7b-4322-8ea1-5540830a61cd).
+You can read more about it [here](https://www.reuters.com/markets/deals/apple-drops-out-talks-join-openai-investment-round-wsj-says-2024-09-28/).
 
 ## Requirements
 - Python 3.8
