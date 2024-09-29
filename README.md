@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Weather Latest: Millions still without power from Helene as flooding continues**
+**Mary Bonnet Gives Her Take on Bre Tiesi and Chelsea Lazkani's Selling Sunset Drama - E! Online**
 
-You can read more about it [here](https://apnews.com/article/hurricane-helene-latest-death-toll-aftermath-52162181c47f400351397fe1c71e32a6).
+You can read more about it [here](https://www.eonline.com/news/1407794/mary-bonnet-gives-her-take-on-bre-tiesi-and-chelsea-lazkanis-selling-sunset-drama).
 
 ## Requirements
 - Python 3.8
