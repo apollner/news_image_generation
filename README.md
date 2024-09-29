@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austria's far-right Freedom Party eyes unprecedented election win**
+**China Stock Euphoria Takes Hold as Traders Overlook Deeper Woes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cr4xz013zx7o).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-09-28/china-stock-euphoria-takes-hold-as-traders-overlook-deeper-woes).
 
 ## Requirements
 - Python 3.8
