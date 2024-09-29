@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts warn of empty shelves, rising prices if port workers strike**
+**Historic Hurricane Helene cuts power to 3 million in Florida, Carolinas**
 
-You can read more about it [here](https://nypost.com/2024/09/28/business/experts-warn-of-empty-shelves-rising-prices-if-port-workers-strike/).
+You can read more about it [here](https://www.axios.com/2024/09/27/hurricane-helene-floods-florida-georgia-north-carolina).
 
 ## Requirements
 - Python 3.8
