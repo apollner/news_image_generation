@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wild Robot’ Uploading $35M Opening; ‘Megalopolis’ Debuts Behind India’s ‘Devara Part One’ – Friday Box Office Update**
+**NYC Mayor Eric Adams pleads not guilty to federal corruption charges as New York’s governor considers removing him**
 
-You can read more about it [here](http://deadline.com/2024/09/box-office-megalopolis-the-wild-robot-1236101618/).
+You can read more about it [here](https://www.cnn.com/2024/09/27/us/eric-adams-nyc-mayor-arraignment/index.html).
 
 ## Requirements
 - Python 3.8
