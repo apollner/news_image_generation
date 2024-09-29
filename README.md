@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX, NASA 'go' for 1st astronaut launch to ISS from Cape Canaveral Space Force Station pad**
+**Earth's 'Mini Moon' To Be Visible On September 29. Here's How To Watch It**
 
-You can read more about it [here](https://www.space.com/spacex-nasa-go-crew-9-astronaut-launch-florida-pad).
+You can read more about it [here](https://www.ndtv.com/world-news/earths-mini-moon-to-be-visible-on-september-29-heres-how-to-watch-it-6667778).
 
 ## Requirements
 - Python 3.8
