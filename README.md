@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendra Wilkinson Shares Rare Update on Her Kids Hank and Alijah**
+**People are 'microdosing' Ozempic — and doctors have a surprising stance on whether it's healthy**
 
-You can read more about it [here](https://www.eonline.com/news/1407939/kendra-wilkinson-shares-rare-update-on-her-kids-hank-and-alijah).
+You can read more about it [here](https://nypost.com/2024/09/28/lifestyle/people-are-microdosing-ozempic-and-doctors-have-a-surprising-stance-on-whether-its-healthy/).
 
 ## Requirements
 - Python 3.8
