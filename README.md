@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Hart’s Chelsea anger sparks hilarious Karl-Anthony Towns Knicks uproar**
+**Disruption looms at East Coast ports as longshoremen prepare to strike**
 
-You can read more about it [here](https://nypost.com/2024/09/28/sports/josh-harts-chelsea-anger-sparks-karl-anthony-towns-knicks-uproar/).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/09/28/port-strike-longshoremen-union-shipping/).
 
 ## Requirements
 - Python 3.8
