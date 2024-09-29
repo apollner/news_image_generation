@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Miami survives as Hokies' Hail Mary TD overturned**
+**Watch SpaceX launch Crew-9 astronaut mission to the ISS today**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/41485496/miami-survives-refs-overturn-virginia-tech-hail-mary-td).
+You can read more about it [here](https://www.space.com/spacex-crew-9-launch-preview).
 
 ## Requirements
 - Python 3.8
