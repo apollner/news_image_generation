@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Al B. Sure! sends cease-and-desist to Amazon, author of ‘fake’ Kim Porter book that claims he had sex with Diddy**
+**Spoilers: WWE SmackDown Match Order & Segment Listing, Backstage Notes (9/27/2024)**
 
-You can read more about it [here](https://pagesix.com/2024/09/27/celebrity-news/al-b-sure-sends-cease-and-desist-over-kim-porter-book/).
+You can read more about it [here](https://wrestlingheadlines.com/spoilers-wwe-smackdown-match-order-segment-listing-backstage-notes-9-27-2024/).
 
 ## Requirements
 - Python 3.8
