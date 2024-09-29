@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll from Hurricane Helene mounts as aftermath assessment begins**
+**Josh Hart’s Chelsea anger sparks hilarious Karl-Anthony Towns Knicks uproar**
 
-You can read more about it [here](https://www.npr.org/2024/09/28/nx-s1-5132035/death-toll-from-hurricane-helene-mounts-as-aftermath-assessment-begins).
+You can read more about it [here](https://nypost.com/2024/09/28/sports/josh-harts-chelsea-anger-sparks-karl-anthony-towns-knicks-uproar/).
 
 ## Requirements
 - Python 3.8
