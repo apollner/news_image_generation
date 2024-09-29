@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX set to launch capsule that will return Starliner crew next year**
+**Tropical Weather Latest: Millions still without power from Helene as flooding continues**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/09/28/spacex-dragon-launch-nasa/).
+You can read more about it [here](https://apnews.com/article/hurricane-helene-latest-death-toll-aftermath-52162181c47f400351397fe1c71e32a6).
 
 ## Requirements
 - Python 3.8
