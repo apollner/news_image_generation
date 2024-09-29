@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NC Lt. Gov. Mark Robinson hospitalized with second-degree burns following incident at campaign event**
+**Al B. Sure! sends cease-and-desist to Amazon, author of ‘fake’ Kim Porter book that claims he had sex with Diddy**
 
-You can read more about it [here](https://www.cnn.com/2024/09/27/politics/mark-robinson-hospitalized/index.html).
+You can read more about it [here](https://pagesix.com/2024/09/27/celebrity-news/al-b-sure-sends-cease-and-desist-over-kim-porter-book/).
 
 ## Requirements
 - Python 3.8
