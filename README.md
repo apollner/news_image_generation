@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Presidents Cup weather: Saturday play resumes after fog suspension**
+**Hezbollah leader Hassan Nasrallah killed by Israeli airstrike in Lebanon's capital Beirut**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/28/presidents-cup-weather-cold-wind-fog-play-delayed-royal-montreal-u-s-international-team).
+You can read more about it [here](https://www.cbsnews.com/news/israel-lebanon-hezbollah-hassan-nasrallah-killed-beirut-strike/).
 
 ## Requirements
 - Python 3.8
