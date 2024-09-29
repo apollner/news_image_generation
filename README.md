@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumour: 'Switch 2' Will Launch Early Next Year, Claims Accessory Company**
+**Experts warn of empty shelves, rising prices if port workers strike**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/09/rumour-switch-2-will-launch-early-next-year-claims-accessory-company).
+You can read more about it [here](https://nypost.com/2024/09/28/business/experts-warn-of-empty-shelves-rising-prices-if-port-workers-strike/).
 
 ## Requirements
 - Python 3.8
