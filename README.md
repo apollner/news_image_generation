@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the White Sox' Ineptitude Resulted in an Historic MLB Low With Loss No. 121**
+**Austria's far-right Freedom Party eyes unprecedented election win**
 
-You can read more about it [here](https://www.si.com/mlb/white-sox-worst-record-mlb-history-ineptitude-loss-no-121).
+You can read more about it [here](https://www.bbc.com/news/articles/cr4xz013zx7o).
 
 ## Requirements
 - Python 3.8
