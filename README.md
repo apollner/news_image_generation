@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 predictions: Picks against the spread for every game**
+**An Idaho woman is found dead in her bathtub. Did her husband use his law enforcement skills to stage the scene?**
 
-You can read more about it [here](https://nypost.com/2024/09/29/betting/nfl-week-4-predictions-picks-against-the-spread-for-every-game/).
+You can read more about it [here](https://www.cbsnews.com/news/kendy-howard-idaho-murder-dan-howard-law-enforcement-skills-was-bathtub-scene-staged-48-hours/).
 
 ## Requirements
 - Python 3.8
