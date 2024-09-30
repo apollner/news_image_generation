@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An asteroid known as a 'mini-moon' will join Earth's orbit for 2 months starting Sunday**
+**Pope wraps troubled visit to Belgium by praising victims and demanding abusers be judged**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/29/earth-mini-moon-asteroid/75410450007/).
+You can read more about it [here](https://apnews.com/article/belgium-pope-abuse-women-mass-brussels-baudouin-f02c45fb9e902df27fa71fc088ce73a5).
 
 ## Requirements
 - Python 3.8
