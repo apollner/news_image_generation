@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran’s president seeks ‘regional’ response to Israel**
+**'Dancing with the Stars' contestant and convicted felon Anna 'Delvey' rips show as 'predatory': They 'used me'**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/29/iran-president-regional-response-israel-00181581).
+You can read more about it [here](https://www.foxnews.com/entertainment/dancing-stars-contestant-convicted-felon-anna-delvey-rips-show-predatory-used-me).
 
 ## Requirements
 - Python 3.8
