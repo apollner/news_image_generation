@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jordan Love injury update: Packers will start the veteran quarterback in Week 4 vs. Vikings**
+**Rebel Wilson Marries Ramona Agruma in Italian Wedding Ceremony**
 
-You can read more about it [here](https://www.packersnews.com/story/sports/nfl/packers/2024/09/28/jordan-love-injury-update-packers-will-start-the-veteran-quarterback/75415748007/).
+You can read more about it [here](https://www.eonline.com/news/1407943/rebel-wilson-marries-ramona-agruma-in-italian-wedding-ceremony).
 
 ## Requirements
 - Python 3.8
