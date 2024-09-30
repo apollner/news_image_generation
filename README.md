@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Revolutionary Guard general died in Israeli strike that killed Hezbollah leader, reports say**
+**NFL Week 4 predictions: Picks against the spread for every game**
 
-You can read more about it [here](https://apnews.com/article/iran-revolutionary-guard-general-dead-hezbollah-israel-airstrike-46d2133e594b9c4ce448a6b683802995).
+You can read more about it [here](https://nypost.com/2024/09/29/betting/nfl-week-4-predictions-picks-against-the-spread-for-every-game/).
 
 ## Requirements
 - Python 3.8
