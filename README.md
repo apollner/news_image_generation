@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Newport flooding chaos, wrong info on a breached dam led to the right call**
+**Iran Revolutionary Guard general died in Israeli strike that killed Hezbollah leader, reports say**
 
-You can read more about it [here](https://www.knoxnews.com/story/weather/2024/09/28/newport-flooding-chaos-wrong-info-on-a-breached-dam-led-to-rescues/75418060007/).
+You can read more about it [here](https://apnews.com/article/iran-revolutionary-guard-general-dead-hezbollah-israel-airstrike-46d2133e594b9c4ce448a6b683802995).
 
 ## Requirements
 - Python 3.8
