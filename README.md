@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify is down**
+**Longshoremen union's demand for total ban on automation questioned as port strike looms**
 
-You can read more about it [here](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app).
+You can read more about it [here](https://www.foxbusiness.com/economy/longshoremen-unions-demand-for-total-ban-on-automation-questioned-as-port-strike-looms).
 
 ## Requirements
 - Python 3.8
