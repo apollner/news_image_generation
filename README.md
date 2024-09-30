@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump falsely calls Kamala Harris, Joe Biden 'mentally impaired' again, ramping up attacks**
+**Presidents Cup Round 5: Recap Sunday's Singles matches**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/09/29/trump-harris-biden-mentally-impaired/75442272007/).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/29/presidents-cup-round-5-sunday-singles-match-recaps-scores-results-today-usa-international-team-royal-montreal).
 
 ## Requirements
 - Python 3.8
