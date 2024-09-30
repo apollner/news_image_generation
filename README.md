@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rebel Wilson Marries Ramona Agruma in Italian Wedding Ceremony**
+**North Carolina's Asheville devastated after Helene's damage cuts power, floods roads**
 
-You can read more about it [here](https://www.eonline.com/news/1407943/rebel-wilson-marries-ramona-agruma-in-italian-wedding-ceremony).
+You can read more about it [here](https://www.cbsnews.com/news/north-carolina-asheville-devastated-after-helene/).
 
 ## Requirements
 - Python 3.8
