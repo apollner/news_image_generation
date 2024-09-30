@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing with the Stars' contestant and convicted felon Anna 'Delvey' rips show as 'predatory': They 'used me'**
+**Governor Newsom announces new initiatives to advance safe and responsible AI, protect Californians**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/dancing-stars-contestant-convicted-felon-anna-delvey-rips-show-predatory-used-me).
+You can read more about it [here](https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/).
 
 ## Requirements
 - Python 3.8
