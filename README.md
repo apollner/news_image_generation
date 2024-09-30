@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dana Carvey’s Joe Biden, Andy Samberg’s Doug Emhoff, Jim Gaffigan’s Tim Walz Join Maya Rudolph’s Kamala Harris To Kick Off ‘SNL’ 50th Season Premiere Cold Open**
+**YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute**
 
-You can read more about it [here](http://deadline.com/2024/09/snl-cold-open-andy-sambergs-jim-gaffigan-dana-carvey-maya-rudolph-1236102778/).
+You can read more about it [here](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming).
 
 ## Requirements
 - Python 3.8
