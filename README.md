@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UBS chair warns against big increase in capital requirements, newspaper reports**
+**California is first state to banish Froot Loops from school cafeterias**
 
-You can read more about it [here](https://finance.yahoo.com/news/ubs-chair-warns-against-big-224120211.html).
+You can read more about it [here](https://www.politico.com/news/2024/09/28/california-hot-cheetos-school-cafeterias-00181555).
 
 ## Requirements
 - Python 3.8
