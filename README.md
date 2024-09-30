@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Erika Diarte-Carr? Utah mom plans her own funeral after being given 3 months to live**
+**Larry Hogan confirms he won’t vote for Trump, despite the former president’s endorsement**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/who-is-erika-diarte-carr-utah-mom-plans-her-own-funeral-after-being-given-3-months-to-live/articleshow/113788280.cms).
+You can read more about it [here](https://www.politico.com/news/2024/09/29/larry-hogan-trump-maryland-00181572).
 
 ## Requirements
 - Python 3.8
