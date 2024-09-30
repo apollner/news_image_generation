@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Longshoremen union's demand for total ban on automation questioned as port strike looms**
+**US says it killed 37 ISIL, Hurras al-Din fighters in separate Syria attacks**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/longshoremen-unions-demand-for-total-ban-on-automation-questioned-as-port-strike-looms).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/29/us-says-it-killed-37-isil-hurras-al-din-fighters-in-separate-syria-attacks).
 
 ## Requirements
 - Python 3.8
