@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Powerball winning numbers for September 28: Jackpot at $243 million**
+**Jordan Love injury update: Packers will start the veteran quarterback in Week 4 vs. Vikings**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/09/28/powerball-winning-numbers/75414743007/).
+You can read more about it [here](https://www.packersnews.com/story/sports/nfl/packers/2024/09/28/jordan-love-injury-update-packers-will-start-the-veteran-quarterback/75415748007/).
 
 ## Requirements
 - Python 3.8
