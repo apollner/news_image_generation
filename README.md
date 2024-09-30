@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US says it killed 37 ISIL, Hurras al-Din fighters in separate Syria attacks**
+**'Multiple' deaths reported after single-engine plane crashes in North Carolina**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/29/us-says-it-killed-37-isil-hurras-al-din-fighters-in-separate-syria-attacks).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/29/north-carolina-plane-crash-first-flight-airport/75441141007/).
 
 ## Requirements
 - Python 3.8
