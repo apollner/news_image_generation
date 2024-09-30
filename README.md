@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heading into the vice presidential debate, Tim Walz is fighting nerves**
+**Watch: BBC Verify analyses footage of Israeli strikes on Beirut**
 
-You can read more about it [here](https://www.cnn.com/2024/09/28/politics/tim-walz-vice-president-debate/index.html).
+You can read more about it [here](https://www.bbc.com/news/videos/cm28l6pnmxko).
 
 ## Requirements
 - Python 3.8
