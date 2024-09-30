@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California is first state to banish Froot Loops from school cafeterias**
+**YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/28/california-hot-cheetos-school-cafeterias-00181555).
+You can read more about it [here](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming).
 
 ## Requirements
 - Python 3.8
