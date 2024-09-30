@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Wild Robot’ Charms $53M WW, ‘Transformers One’ Rises To $72M; Both With Markets To Come -International Box Office**
+**Iran’s president seeks ‘regional’ response to Israel**
 
-You can read more about it [here](http://deadline.com/2024/09/the-wild-robot-charms-53m-ww-transformers-one-rises-to-72m-both-with-markets-to-come-international-box-office-1236102896/).
+You can read more about it [here](https://www.politico.com/news/2024/09/29/iran-president-regional-response-israel-00181581).
 
 ## Requirements
 - Python 3.8
