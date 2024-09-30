@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maya Rudolph as Harris and Dana Carvey as Biden open 50th season of ‘Saturday Night Live’**
+**In Newport flooding chaos, wrong info on a breached dam led to the right call**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/29/maya-rudolph-as-harris-and-dana-carvey-as-biden-open-50th-season-of-saturday-night-live-00181564).
+You can read more about it [here](https://www.knoxnews.com/story/weather/2024/09/28/newport-flooding-chaos-wrong-info-on-a-breached-dam-led-to-rescues/75418060007/).
 
 ## Requirements
 - Python 3.8
