@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dancing with the Stars' contestant and convicted felon Anna 'Delvey' rips show as 'predatory': They 'used me'**
+**Donald Trump falsely calls Kamala Harris, Joe Biden 'mentally impaired' again, ramping up attacks**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/dancing-stars-contestant-convicted-felon-anna-delvey-rips-show-predatory-used-me).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/09/29/trump-harris-biden-mentally-impaired/75442272007/).
 
 ## Requirements
 - Python 3.8
