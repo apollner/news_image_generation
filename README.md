@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope wraps troubled visit to Belgium by praising victims and demanding abusers be judged**
+**Maya Rudolph as Harris and Dana Carvey as Biden open 50th season of ‘Saturday Night Live’**
 
-You can read more about it [here](https://apnews.com/article/belgium-pope-abuse-women-mass-brussels-baudouin-f02c45fb9e902df27fa71fc088ce73a5).
+You can read more about it [here](https://www.politico.com/news/2024/09/29/maya-rudolph-as-harris-and-dana-carvey-as-biden-open-50th-season-of-saturday-night-live-00181564).
 
 ## Requirements
 - Python 3.8
