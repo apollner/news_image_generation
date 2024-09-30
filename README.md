@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Multiple' deaths reported after single-engine plane crashes in North Carolina**
+**SpaceX grounds its Falcon rocket fleet after upper stage misfire**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/29/north-carolina-plane-crash-first-flight-airport/75441141007/).
+You can read more about it [here](https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/).
 
 ## Requirements
 - Python 3.8
