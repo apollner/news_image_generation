@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it targeted Hezbollah leader in strikes on Beirut: Live updates**
+**Powerball winning numbers for September 28: Jackpot at $243 million**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-28-24/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/09/28/powerball-winning-numbers/75414743007/).
 
 ## Requirements
 - Python 3.8
