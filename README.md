@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina's Asheville devastated after Helene's damage cuts power, floods roads**
+**Steward Health Care CEO Dr. Ralph de la Torre leaves bankrupt company**
 
-You can read more about it [here](https://www.cbsnews.com/news/north-carolina-asheville-devastated-after-helene/).
+You can read more about it [here](https://www.wcvb.com/article/steward-ralph-de-la-torre-separation-sept-28/62423004).
 
 ## Requirements
 - Python 3.8
