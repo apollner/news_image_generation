@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Larry Hogan confirms he won’t vote for Trump, despite the former president’s endorsement**
+**Spotify is down**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/29/larry-hogan-trump-maryland-00181572).
+You can read more about it [here](https://www.theverge.com/2024/9/29/24257477/spotify-outage-down-website-app).
 
 ## Requirements
 - Python 3.8
