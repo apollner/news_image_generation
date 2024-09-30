@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Longshoremen union's demand for total ban on automation questioned as port strike looms**
+**‘The Wild Robot’ Charms $53M WW, ‘Transformers One’ Rises To $72M; Both With Markets To Come -International Box Office**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/longshoremen-unions-demand-for-total-ban-on-automation-questioned-as-port-strike-looms).
+You can read more about it [here](http://deadline.com/2024/09/the-wild-robot-charms-53m-ww-transformers-one-rises-to-72m-both-with-markets-to-come-international-box-office-1236102896/).
 
 ## Requirements
 - Python 3.8
