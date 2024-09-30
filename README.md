@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute**
+**Israel says it targeted Hezbollah leader in strikes on Beirut: Live updates**
 
-You can read more about it [here](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-lebanon-war-hezbollah-09-28-24/index.html).
 
 ## Requirements
 - Python 3.8
