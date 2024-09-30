@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX grounds its Falcon rocket fleet after upper stage misfire**
+**Longshoremen union's demand for total ban on automation questioned as port strike looms**
 
-You can read more about it [here](https://spaceflightnow.com/2024/09/29/spacex-grounds-its-falcon-rocket-fleet-after-upper-stage-misfire/).
+You can read more about it [here](https://www.foxbusiness.com/economy/longshoremen-unions-demand-for-total-ban-on-automation-questioned-as-port-strike-looms).
 
 ## Requirements
 - Python 3.8
