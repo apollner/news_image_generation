@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austria’s far-right Freedom Party projected to win election**
+**Who is Erika Diarte-Carr? Utah mom plans her own funeral after being given 3 months to live**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/29/austrias-far-right-freedom-party-projected-to-win-election).
+You can read more about it [here](https://timesofindia.indiatimes.com/world/us/who-is-erika-diarte-carr-utah-mom-plans-her-own-funeral-after-being-given-3-months-to-live/articleshow/113788280.cms).
 
 ## Requirements
 - Python 3.8
