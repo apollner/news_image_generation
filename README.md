@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FEMA administrator: "I don't know that anybody could be fully prepared for the amount of flooding" from Helene in North Carolina**
+**Malcolm Gladwell on "Revenge of the Tipping Point"**
 
-You can read more about it [here](https://www.cbsnews.com/news/fema-administrator-deanne-criswell-helene-flooding-north-carolina/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
