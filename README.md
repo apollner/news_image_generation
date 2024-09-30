@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Idaho woman is found dead in her bathtub. Did her husband use his law enforcement skills to stage the scene?**
+**FEMA administrator: "I don't know that anybody could be fully prepared for the amount of flooding" from Helene in North Carolina**
 
-You can read more about it [here](https://www.cbsnews.com/news/kendy-howard-idaho-murder-dan-howard-law-enforcement-skills-was-bathtub-scene-staged-48-hours/).
+You can read more about it [here](https://www.cbsnews.com/news/fema-administrator-deanne-criswell-helene-flooding-north-carolina/).
 
 ## Requirements
 - Python 3.8
