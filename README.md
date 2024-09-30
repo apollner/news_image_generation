@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California is first state to banish Froot Loops from school cafeterias**
+**Mom of two, 33, planning own funeral after devastating cancer diagnosis: ‘The most difficult thing’**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/28/california-hot-cheetos-school-cafeterias-00181555).
+You can read more about it [here](https://nypost.com/2024/09/28/us-news/mom-of-two-plans-own-funeral-after-cancer-diagnosis/).
 
 ## Requirements
 - Python 3.8
