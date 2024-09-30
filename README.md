@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mom of two, 33, planning own funeral after devastating cancer diagnosis: ‘The most difficult thing’**
+**How former Idaho state trooper Dan Howard was arrested for his wife's murder**
 
-You can read more about it [here](https://nypost.com/2024/09/28/us-news/mom-of-two-plans-own-funeral-after-cancer-diagnosis/).
+You can read more about it [here](https://www.cbsnews.com/news/how-former-idaho-state-trooper-dan-howard-was-arrested-for-his-wifes-murder/).
 
 ## Requirements
 - Python 3.8
