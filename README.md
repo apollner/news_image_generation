@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steward Health Care CEO Dr. Ralph de la Torre leaves bankrupt company**
+**Heading into the vice presidential debate, Tim Walz is fighting nerves**
 
-You can read more about it [here](https://www.wcvb.com/article/steward-ralph-de-la-torre-separation-sept-28/62423004).
+You can read more about it [here](https://www.cnn.com/2024/09/28/politics/tim-walz-vice-president-debate/index.html).
 
 ## Requirements
 - Python 3.8
