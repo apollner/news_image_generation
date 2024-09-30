@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How former Idaho state trooper Dan Howard was arrested for his wife's murder**
+**Dana Carvey’s Joe Biden, Andy Samberg’s Doug Emhoff, Jim Gaffigan’s Tim Walz Join Maya Rudolph’s Kamala Harris To Kick Off ‘SNL’ 50th Season Premiere Cold Open**
 
-You can read more about it [here](https://www.cbsnews.com/news/how-former-idaho-state-trooper-dan-howard-was-arrested-for-his-wifes-murder/).
+You can read more about it [here](http://deadline.com/2024/09/snl-cold-open-andy-sambergs-jim-gaffigan-dana-carvey-maya-rudolph-1236102778/).
 
 ## Requirements
 - Python 3.8
