@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malcolm Gladwell on "Revenge of the Tipping Point"**
+**Austria’s far-right Freedom Party projected to win election**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/9/29/austrias-far-right-freedom-party-projected-to-win-election).
 
 ## Requirements
 - Python 3.8
