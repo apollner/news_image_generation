@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Presidents Cup Round 5: Recap Sunday's Singles matches**
+**'Dancing with the Stars' contestant and convicted felon Anna 'Delvey' rips show as 'predatory': They 'used me'**
 
-You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/09/29/presidents-cup-round-5-sunday-singles-match-recaps-scores-results-today-usa-international-team-royal-montreal).
+You can read more about it [here](https://www.foxnews.com/entertainment/dancing-stars-contestant-convicted-felon-anna-delvey-rips-show-predatory-used-me).
 
 ## Requirements
 - Python 3.8
