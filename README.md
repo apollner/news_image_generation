@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**YouTube pulls songs from Adele, Nirvana, and others due to SESAC dispute**
+**UBS chair warns against big increase in capital requirements, newspaper reports**
 
-You can read more about it [here](https://www.theverge.com/24257157/youtube-sesac-music-licensing-streaming).
+You can read more about it [here](https://finance.yahoo.com/news/ubs-chair-warns-against-big-224120211.html).
 
 ## Requirements
 - Python 3.8
