@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda reports 8 deaths linked to Ebola-like Marburg virus days after it declared an outbreak**
+**Trump turns to darker rhetoric as voting begins**
 
-You can read more about it [here](https://apnews.com/article/rwanda-marburg-virus-c9728160abef2ca94395ec3ba4dfdc49).
+You can read more about it [here](https://www.npr.org/2024/09/30/g-s1-25459/trump-speech-insult-harris-biden-mentally-impaired-police-rough).
 
 ## Requirements
 - Python 3.8
