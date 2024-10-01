@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conyers chemical plume after BioLab fire updates | Chlorine in air, Rockdale countywide shelter-in-place continues**
+**Israeli Special Forces Launch Raids Into Lebanon Ahead of Possible Ground Incursion**
 
-You can read more about it [here](https://www.11alive.com/article/news/local/conyers-chemical-plume-biolab-fire-latest-updates-monday-september-30/85-2a4ac3d6-4263-4b25-aec8-5d0865c7c960).
+You can read more about it [here](https://www.wsj.com/world/middle-east/israeli-special-forces-launch-raids-into-lebanon-ahead-of-possible-ground-incursion-bf2fe94d).
 
 ## Requirements
 - Python 3.8
