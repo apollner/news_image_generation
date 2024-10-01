@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs lose Rashee Rice, get big game from Kareem Hunt, beat Chargers**
+**Bills vs. Ravens Sunday Night Football: Live updates, score, highlights, how to watch**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-lose-rashee-rice-get-big-game-from-kareem-hunt-beat-chargers).
+You can read more about it [here](https://sports.yahoo.com/live/bills-vs-ravens-sunday-night-football-live-updates-score-highlights-how-to-watch-233034189.html).
 
 ## Requirements
 - Python 3.8
