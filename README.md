@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Hurricane Helene leaves lake filled with debris**
+**What Walz’s and Vance’s past debates may reveal about Tuesday’s high-stakes matchup**
 
-You can read more about it [here](https://www.bbc.com/news/videos/c4g0m8mjvl7o).
+You can read more about it [here](https://www.cnn.com/2024/09/30/politics/vance-walz-past-debates/index.html).
 
 ## Requirements
 - Python 3.8
