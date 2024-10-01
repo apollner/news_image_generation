@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**October's night sky features a newly discovered comet, 2 meteor showers and 4 planets**
+**NFL Week 4 grades: Eagles get 'F' for blowout loss to Bucs, Commanders earn 'A+' for big win over Cardinals**
 
-You can read more about it [here](https://gothamist.com/news/octobers-night-sky-features-a-newly-discovered-comet-2-meteor-showers-and-4-planets).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-grades-eagles-get-f-for-blowout-loss-to-bucs-commanders-earn-a-for-big-win-over-cardinals/).
 
 ## Requirements
 - Python 3.8
