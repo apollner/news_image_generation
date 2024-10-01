@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the aftermath of Hurricane Helene**
+**ULA rolls its Vulcan rocket to the launch pad ahead of second test flight**
 
-You can read more about it [here](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html).
+You can read more about it [here](https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/).
 
 ## Requirements
 - Python 3.8
