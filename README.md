@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A concert and 30 new homes mark Jimmy Carter’s 100th birthday and long legacy of giving**
+**ISS welcomes crew of docked SpaceX capsule**
 
-You can read more about it [here](https://apnews.com/article/jimmy-carter-100th-habitat-philanthropy-1bd18b79510c9cd4952bc723b91f3667).
+You can read more about it [here](https://www.bbc.com/news/videos/cly4j5p21z7o).
 
 ## Requirements
 - Python 3.8
