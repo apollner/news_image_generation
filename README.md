@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Tim Walz's past debate performances reveal about how he may take on JD Vance**
+**Single Utah mother, 33, raising money for her own funeral after cancer diagnosis gives her 3 months to live**
 
-You can read more about it [here](https://www.npr.org/2024/09/30/nx-s1-5130194/tim-walz-jd-vance-vice-presidential-debate).
+You can read more about it [here](https://www.foxnews.com/us/single-utah-mother-33-raising-money-her-own-funeral-after-cancer-diagnosis-gives-her-3-months-live).
 
 ## Requirements
 - Python 3.8
