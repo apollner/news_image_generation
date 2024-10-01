@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodge-maker Stellantis issues profit warning; shares drop 12%**
+**California governor Gavin Newsom vetoes landmark AI safety bill**
 
-You can read more about it [here](https://www.cnbc.com/2024/09/30/dodge-maker-stellantis-drops-profit-warning.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cj9jwyr3kgeo).
 
 ## Requirements
 - Python 3.8
