@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: US stocks start jobs report week lower with Powell set to speak**
+**Stuck NASA astronauts welcome SpaceX capsule that’ll bring them home next year**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-us-stocks-start-jobs-report-week-lower-with-powell-set-to-speak-112731034.html).
+You can read more about it [here](https://apnews.com/article/spacex-boeing-nasa-stuck-astronauts-1162a1723bc426f5de9f30e3817c2605).
 
 ## Requirements
 - Python 3.8
