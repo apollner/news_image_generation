@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Governor Newsom announces new initiatives to advance safe and responsible AI, protect Californians**
+**Chiefs lose Rashee Rice, get big game from Kareem Hunt, beat Chargers**
 
-You can read more about it [here](https://www.gov.ca.gov/2024/09/29/governor-newsom-announces-new-initiatives-to-advance-safe-and-responsible-ai-protect-californians/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-lose-rashee-rice-get-big-game-from-kareem-hunt-beat-chargers).
 
 ## Requirements
 - Python 3.8
