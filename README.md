@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Single Utah mother, 33, raising money for her own funeral after cancer diagnosis gives her 3 months to live**
+**Conyers chemical plume after BioLab fire updates | Chlorine in air, Rockdale countywide shelter-in-place continues**
 
-You can read more about it [here](https://www.foxnews.com/us/single-utah-mother-33-raising-money-her-own-funeral-after-cancer-diagnosis-gives-her-3-months-live).
+You can read more about it [here](https://www.11alive.com/article/news/local/conyers-chemical-plume-biolab-fire-latest-updates-monday-september-30/85-2a4ac3d6-4263-4b25-aec8-5d0865c7c960).
 
 ## Requirements
 - Python 3.8
