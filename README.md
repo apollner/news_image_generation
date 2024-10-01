@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California governor Gavin Newsom vetoes landmark AI safety bill**
+**Biden administration fears Iranian attack and is working with Israel on defenses, US official says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj9jwyr3kgeo).
+You can read more about it [here](https://www.cnn.com/2024/09/30/politics/biden-administration-iran-israel-nasrallah-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
