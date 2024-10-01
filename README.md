@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli airstrike hits central Beirut for the first time in nearly a year of conflict**
+**Fed's Powell set to speak as economists fret about a policy mistake, election risk**
 
-You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-09-29-2024-4696e581e28d8c747f017221f2cf420f).
+You can read more about it [here](https://www.reuters.com/markets/us/feds-powell-set-speak-economists-fret-about-policy-mistake-election-risk-2024-09-30/).
 
 ## Requirements
 - Python 3.8
