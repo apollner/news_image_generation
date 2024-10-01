@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zookeeper mauled to death by lion while feeding it after leaving safety gate open**
+**Cillian Murphy Is Tommy Shelby Once Again as Production Begins on ‘Peaky Blinders’ Film**
 
-You can read more about it [here](https://nypost.com/2024/09/30/world-news/zookeeper-mauled-to-death-by-lion-while-feeding-it-after-hours/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/peaky-blinders-first-look-cillian-murphy-1236017854/).
 
 ## Requirements
 - Python 3.8
