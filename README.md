@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Zookeeper mauled to death by lion while feeding it after leaving safety gate open**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2024/09/30/world-news/zookeeper-mauled-to-death-by-lion-while-feeding-it-after-hours/).
 
 ## Requirements
 - Python 3.8
