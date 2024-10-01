@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Walz’s and Vance’s past debates may reveal about Tuesday’s high-stakes matchup**
+**What Tim Walz's past debate performances reveal about how he may take on JD Vance**
 
-You can read more about it [here](https://www.cnn.com/2024/09/30/politics/vance-walz-past-debates/index.html).
+You can read more about it [here](https://www.npr.org/2024/09/30/nx-s1-5130194/tim-walz-jd-vance-vice-presidential-debate).
 
 ## Requirements
 - Python 3.8
