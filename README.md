@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli Special Forces Launch Raids Into Lebanon Ahead of Possible Ground Incursion**
+**Stock market today: US stocks start jobs report week lower with Powell set to speak**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/israeli-special-forces-launch-raids-into-lebanon-ahead-of-possible-ground-incursion-bf2fe94d).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-us-stocks-start-jobs-report-week-lower-with-powell-set-to-speak-112731034.html).
 
 ## Requirements
 - Python 3.8
