@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says he hopes to visit Helene-impacted areas this week if it doesn't impact emergency response**
+**Watch: Hurricane Helene leaves lake filled with debris**
 
-You can read more about it [here](https://apnews.com/article/hurricane-helene-recover-biden-visit-823be75adbed4fa1d7c108a207dbb3e3).
+You can read more about it [here](https://www.bbc.com/news/videos/c4g0m8mjvl7o).
 
 ## Requirements
 - Python 3.8
