@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump calls for Harris to be 'impeached and prosecuted' at Pennsylvania rally**
+**The latest on the aftermath of Hurricane Helene**
 
-You can read more about it [here](https://abcnews.go.com/Politics/trump-calls-harris-impeached-prosecuted-pennsylvania-rally/story?id\\u003d114339363).
+You can read more about it [here](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html).
 
 ## Requirements
 - Python 3.8
