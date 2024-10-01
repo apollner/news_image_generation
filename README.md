@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Earthquake’: Austria’s far-right Freedom Party wins election**
+**An Israeli airstrike hits central Beirut for the first time in nearly a year of conflict**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/9/30/earthquake-austrias-far-right-freedom-party-wins-election).
+You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-09-29-2024-4696e581e28d8c747f017221f2cf420f).
 
 ## Requirements
 - Python 3.8
