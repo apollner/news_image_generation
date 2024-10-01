@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stuck NASA astronauts welcome SpaceX capsule that’ll bring them home next year**
+**Rwanda reports 8 deaths linked to Ebola-like Marburg virus days after it declared an outbreak**
 
-You can read more about it [here](https://apnews.com/article/spacex-boeing-nasa-stuck-astronauts-1162a1723bc426f5de9f30e3817c2605).
+You can read more about it [here](https://apnews.com/article/rwanda-marburg-virus-c9728160abef2ca94395ec3ba4dfdc49).
 
 ## Requirements
 - Python 3.8
