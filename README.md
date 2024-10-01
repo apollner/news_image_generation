@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills vs. Ravens Sunday Night Football: Live updates, score, highlights, how to watch**
+**FACT SHEET: UPDATE: Biden-Harris Administration’s Continued Response Efforts to Hurricane Helene**
 
-You can read more about it [here](https://sports.yahoo.com/live/bills-vs-ravens-sunday-night-football-live-updates-score-highlights-how-to-watch-233034189.html).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/29/fact-sheet-update-biden-harris-administrations-continued-response-efforts-to-hurricane-helene/).
 
 ## Requirements
 - Python 3.8
