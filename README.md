@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cillian Murphy Is Tommy Shelby Once Again as Production Begins on ‘Peaky Blinders’ Film**
+**Trump calls for Harris to be 'impeached and prosecuted' at Pennsylvania rally**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/peaky-blinders-first-look-cillian-murphy-1236017854/).
+You can read more about it [here](https://abcnews.go.com/Politics/trump-calls-harris-impeached-prosecuted-pennsylvania-rally/story?id\\u003d114339363).
 
 ## Requirements
 - Python 3.8
