@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pixel 9a design leaks with flat cameras that ditch Google's most recognizable design [Gallery]**
+**[Removed]**
 
-You can read more about it [here](http://9to5google.com/2024/09/30/google-pixel-9a-design-leak-camera-bar/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
