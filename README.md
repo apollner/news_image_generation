@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to watch as JD Vance and Tim Walz meet for a vice presidential debate**
+**Chinese woman with type 1 diabetes sees condition reversed after cell transplant**
 
-You can read more about it [here](https://apnews.com/article/debate-what-to-watch-walz-vance-b5ef720628956789c3373562ddbd0b01).
+You can read more about it [here](https://www.scmp.com/news/china/science/article/3280444/chinese-woman-finds-type-1-diabetes-reversed-after-stem-cell-transplant-world-first).
 
 ## Requirements
 - Python 3.8
