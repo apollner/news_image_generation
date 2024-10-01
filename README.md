@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ULA rolls its Vulcan rocket to the launch pad ahead of second test flight**
+**A concert and 30 new homes mark Jimmy Carter’s 100th birthday and long legacy of giving**
 
-You can read more about it [here](https://spaceflightnow.com/2024/09/30/ula-to-roll-its-vulcan-rocket-to-the-launch-pad-ahead-of-second-test-flight/).
+You can read more about it [here](https://apnews.com/article/jimmy-carter-100th-habitat-philanthropy-1bd18b79510c9cd4952bc723b91f3667).
 
 ## Requirements
 - Python 3.8
