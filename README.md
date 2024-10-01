@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed's Powell set to speak as economists fret about a policy mistake, election risk**
+**Dodge-maker Stellantis issues profit warning; shares drop 12%**
 
-You can read more about it [here](https://www.reuters.com/markets/us/feds-powell-set-speak-economists-fret-about-policy-mistake-election-risk-2024-09-30/).
+You can read more about it [here](https://www.cnbc.com/2024/09/30/dodge-maker-stellantis-drops-profit-warning.html).
 
 ## Requirements
 - Python 3.8
