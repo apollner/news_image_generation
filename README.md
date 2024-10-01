@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump turns to darker rhetoric as voting begins**
+**Epic Sues Samsung Over OneUI’s ‘Auto Blocker’ Setting**
 
-You can read more about it [here](https://www.npr.org/2024/09/30/g-s1-25459/trump-speech-insult-harris-biden-mentally-impaired-police-rough).
+You can read more about it [here](https://gizmodo.com/epic-sues-samsung-over-oneuis-auto-blocker-setting-2000504996).
 
 ## Requirements
 - Python 3.8
