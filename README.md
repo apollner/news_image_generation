@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FACT SHEET: UPDATE: Biden-Harris Administration’s Continued Response Efforts to Hurricane Helene**
+**October's night sky features a newly discovered comet, 2 meteor showers and 4 planets**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/09/29/fact-sheet-update-biden-harris-administrations-continued-response-efforts-to-hurricane-helene/).
+You can read more about it [here](https://gothamist.com/news/octobers-night-sky-features-a-newly-discovered-comet-2-meteor-showers-and-4-planets).
 
 ## Requirements
 - Python 3.8
