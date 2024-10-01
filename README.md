@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese woman with type 1 diabetes sees condition reversed after cell transplant**
+**Biden says he hopes to visit Helene-impacted areas this week if it doesn't impact emergency response**
 
-You can read more about it [here](https://www.scmp.com/news/china/science/article/3280444/chinese-woman-finds-type-1-diabetes-reversed-after-stem-cell-transplant-world-first).
+You can read more about it [here](https://apnews.com/article/hurricane-helene-recover-biden-visit-823be75adbed4fa1d7c108a207dbb3e3).
 
 ## Requirements
 - Python 3.8
