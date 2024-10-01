@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 4 grades: Eagles get 'F' for blowout loss to Bucs, Commanders earn 'A+' for big win over Cardinals**
+**Bills vs. Ravens Sunday Night Football: Live updates, score, highlights, how to watch**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-4-grades-eagles-get-f-for-blowout-loss-to-bucs-commanders-earn-a-for-big-win-over-cardinals/).
+You can read more about it [here](https://sports.yahoo.com/live/bills-vs-ravens-sunday-night-football-live-updates-score-highlights-how-to-watch-233034189.html).
 
 ## Requirements
 - Python 3.8
