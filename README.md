@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ISS welcomes crew of docked SpaceX capsule**
+**Fed Chair Powell says the US economy is in ‘solid shape’ with more rate cuts coming**
 
-You can read more about it [here](https://www.bbc.com/news/videos/cly4j5p21z7o).
+You can read more about it [here](https://apnews.com/article/powell-federal-reserve-interest-rate-cuts-c8eed8640d8bd5b7fcb2a47ec70960e6).
 
 ## Requirements
 - Python 3.8
