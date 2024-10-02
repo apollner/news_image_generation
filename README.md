@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. sends more troops, warplanes to Middle East as bulwark against Iran**
+**Gavin Creel, Tony-winning musical theater star, dies at 48**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/09/30/us-troops-middle-east-israel-iran-hezbollah/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/30/gavin-creel-dead/).
 
 ## Requirements
 - Python 3.8
