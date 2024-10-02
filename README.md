@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel vows response to Iran missile attack as fears of conflict escalation rise**
+**Sean 'Diddy' Combs hit with a wave of 120 new sexual assault allegations**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-has-begun-limited-raids-against-hezbollah-targets-border-area-2024-09-30/).
+You can read more about it [here](https://www.nbcnews.com/news/crime-courts/sean-diddy-combs-hit-wave-120-new-sexual-assault-allegations-rcna173474).
 
 ## Requirements
 - Python 3.8
