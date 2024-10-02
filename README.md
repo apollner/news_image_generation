@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kristin Cavallari says Mark Estes will 'thank me' for ending their relationship: 'He needs to experience life'**
+**Cincinnati Reds legend Pete Rose dies at age 83**
 
-You can read more about it [here](https://pagesix.com/2024/10/01/celebrity-news/kristin-cavallari-says-mark-estes-will-thank-me-for-ending-their-relationship-he-needs-to-experience-life/).
+You can read more about it [here](https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died).
 
 ## Requirements
 - Python 3.8
