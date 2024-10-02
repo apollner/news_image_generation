@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WikiLeaks’ Julian Assange says he pleaded ‘guilty to journalism’ in order to be freed**
+**Cincinnati Reds legend Pete Rose dies at age 83**
 
-You can read more about it [here](https://apnews.com/article/julian-assange-statement-council-europe-5373cfb854474deba0e5799b23cb8d2e).
+You can read more about it [here](https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died).
 
 ## Requirements
 - Python 3.8
