@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sony Shocker: Tony Vinciquerra Stepping Down As CEO; Ravi Ahuja To Succeed Him**
+**The latest on the aftermath of Hurricane Helene**
 
-You can read more about it [here](http://deadline.com/2024/09/sony-tony-vinciquerra-ravi-ahuja-1236103582/).
+You can read more about it [here](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html).
 
 ## Requirements
 - Python 3.8
