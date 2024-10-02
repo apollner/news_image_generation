@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs appeals judge's denial of his release from jail on $50 million bond**
+**What to know for the Vance v Walz vice-presidential debate**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/09/30/diddy-appeals-denial-release-from-jail/75459884007/).
+You can read more about it [here](https://www.bbc.com/news/articles/c981glp4v1lo).
 
 ## Requirements
 - Python 3.8
