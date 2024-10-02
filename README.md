@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Walz and JD Vance's 2024 VP debate is tonight. Here's what to know.**
+**Breast cancer rising among younger women at ‘troubling’ rate: report**
 
-You can read more about it [here](https://www.cbsnews.com/news/vp-debate-2024-what-to-know/).
+You can read more about it [here](https://nypost.com/2024/10/01/lifestyle/breast-cancer-rising-among-younger-women-new-report/).
 
 ## Requirements
 - Python 3.8
