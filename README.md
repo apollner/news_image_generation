@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Rose, baseball’s controversial all-time hits leader, dies at 83**
+**2024 MLB playoffs: 10 bold predictions, including another Shohei Ohtani first and an Astros letdown**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/30/pete-rose-dead/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2024-mlb-playoffs-10-bold-predictions-including-another-shohei-ohtani-first-and-an-astros-letdown/).
 
 ## Requirements
 - Python 3.8
