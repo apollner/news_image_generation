@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spirit Halloween Dings 'SNL' With "Irrelevant 50-Year-Old TV Show" Costume Following Season Premiere Sketch**
+**North Texas man smashes signed Taylor Swift guitar after buying it for $4K**
 
-You can read more about it [here](http://deadline.com/2024/09/spirit-halloween-snl-irrelevant-50-year-old-tv-show-costume-sketch-1236103960/).
+You can read more about it [here](https://www.wfaa.com/article/news/local/north-texas-man-smashes-signed-taylor-swift-guitar-after-buying-it/287-a1e538f9-fb00-4689-9a98-6a807bf69b45).
 
 ## Requirements
 - Python 3.8
