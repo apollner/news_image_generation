@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB wild-card round Day 1 live updates: Keep up with all the action as the playoffs begin**
+**Naomi Osaka vs. Coco Gauff | 2024 Beijing Round of 16 | WTA Match Highlights**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41398902/2024-mlb-playoffs-wild-card-game-1-live-updates-analysis-takeaways).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
