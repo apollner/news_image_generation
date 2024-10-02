@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati Reds legend Pete Rose dies at age 83**
+**MLB wild-card round Day 1 live updates: Keep up with all the action as the playoffs begin**
 
-You can read more about it [here](https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41398902/2024-mlb-playoffs-wild-card-game-1-live-updates-analysis-takeaways).
 
 ## Requirements
 - Python 3.8
