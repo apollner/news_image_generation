@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati Reds legend Pete Rose dies at age 83**
+**‘Reacher’ Spinoff Starring Maria Sten Gets Series Order at Prime Video**
 
-You can read more about it [here](https://www.wcpo.com/sports/baseball/reds/reports-cincinnati-reds-legend-pete-rose-has-died).
+You can read more about it [here](https://variety.com/2024/tv/global/reacher-spinoff-maria-sten-untitled-neagley-project-prime-video-1236161290/).
 
 ## Requirements
 - Python 3.8
