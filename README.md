@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breast cancer rising among younger women at ‘troubling’ rate: report**
+**Israel vows response to Iran missile attack as fears of conflict escalation rise**
 
-You can read more about it [here](https://nypost.com/2024/10/01/lifestyle/breast-cancer-rising-among-younger-women-new-report/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-has-begun-limited-raids-against-hezbollah-targets-border-area-2024-09-30/).
 
 ## Requirements
 - Python 3.8
