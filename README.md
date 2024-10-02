@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US East Coast dockworkers strike, halting half the nation's ocean shipping**
+**'Nobody Wants This' Creator Erin Foster Defends Show After Claims It Depicts Jewish Stereotypes**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-east-coast-dockworkers-head-toward-strike-after-deal-deadline-passes-2024-10-01/).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/nobody-wants-this-depict-jewish-stereotypes-creator-erin-foster-response-1235120303/).
 
 ## Requirements
 - Python 3.8
