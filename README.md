@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dockworkers go on strike at East and Gulf Coast ports**
+**Sean 'Diddy' Combs appeals judge's denial of his release from jail on $50 million bond**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/dockworkers-go-strike-east-gulf-coast-ports).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/09/30/diddy-appeals-denial-release-from-jail/75459884007/).
 
 ## Requirements
 - Python 3.8
