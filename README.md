@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Reacher’ Spinoff Starring Maria Sten Gets Series Order at Prime Video**
+**Week 5 NFL Power Rankings: 1-32 poll, plus the biggest issue on defense for every team**
 
-You can read more about it [here](https://variety.com/2024/tv/global/reacher-spinoff-maria-sten-untitled-neagley-project-prime-video-1236161290/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41536335/nfl-power-rankings-week-5-poll-2024-biggest-defense-issue).
 
 ## Requirements
 - Python 3.8
