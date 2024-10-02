@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 5 NFL Power Rankings: 1-32 poll, plus the biggest issue on defense for every team**
+**Israel says it's raiding Hezbollah strongholds in Lebanon, group fires at Israel**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41536335/nfl-power-rankings-week-5-poll-2024-biggest-defense-issue).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-has-begun-limited-raids-against-hezbollah-targets-border-area-2024-09-30/).
 
 ## Requirements
 - Python 3.8
