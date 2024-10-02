@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Naomi Osaka vs. Coco Gauff | 2024 Beijing Round of 16 | WTA Match Highlights**
+**US East Coast dockworkers strike, halting half the nation's ocean shipping**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.reuters.com/world/us/us-east-coast-dockworkers-head-toward-strike-after-deal-deadline-passes-2024-10-01/).
 
 ## Requirements
 - Python 3.8
