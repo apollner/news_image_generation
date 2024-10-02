@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Texas man smashes signed Taylor Swift guitar after buying it for $4K**
+**VCs are rushing to meet with former OpenAI CTO Mira Murati in hopes of funding a new company**
 
-You can read more about it [here](https://www.wfaa.com/article/news/local/north-texas-man-smashes-signed-taylor-swift-guitar-after-buying-it/287-a1e538f9-fb00-4689-9a98-6a807bf69b45).
+You can read more about it [here](https://www.businessinsider.com/mira-murati-exits-openai-venture-capitalist-startup-2024-9).
 
 ## Requirements
 - Python 3.8
