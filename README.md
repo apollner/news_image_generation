@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on the aftermath of Hurricane Helene**
+**Spirit Halloween Dings 'SNL' With "Irrelevant 50-Year-Old TV Show" Costume Following Season Premiere Sketch**
 
-You can read more about it [here](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html).
+You can read more about it [here](http://deadline.com/2024/09/spirit-halloween-snl-irrelevant-50-year-old-tv-show-costume-sketch-1236103960/).
 
 ## Requirements
 - Python 3.8
