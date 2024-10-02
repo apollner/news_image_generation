@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supplies arrive by plane and by mule in North Carolina as Helene’s death toll tops 130**
+**Rumors of New Saudi Oil Price Target Are Warning to OPEC Cut Violators**
 
-You can read more about it [here](https://apnews.com/article/hurricane-helene-north-carolina-asheville-f02869c7d01e68f2d7f0553abb82252f).
+You can read more about it [here](https://oilprice.com/Energy/Crude-Oil/Rumors-of-New-Saudi-Oil-Price-Target-Are-Warning-to-OPEC-Cut-Violators.html).
 
 ## Requirements
 - Python 3.8
