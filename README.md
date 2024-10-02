@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Nobody Wants This' Creator Erin Foster Defends Show After Claims It Depicts Jewish Stereotypes**
+**What Hurricane Helene’s 500-mile path of destruction looks like**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/nobody-wants-this-depict-jewish-stereotypes-creator-erin-foster-response-1235120303/).
+You can read more about it [here](https://www.cnn.com/2024/10/01/weather/hurricane-helene-path-of-destruction-climate-dg/index.html).
 
 ## Requirements
 - Python 3.8
