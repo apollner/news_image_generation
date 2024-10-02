@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden angrily responds to Trump on hurricane response**
+**Pete Rose, baseball’s controversial all-time hits leader, dies at 83**
 
-You can read more about it [here](https://www.politico.com/news/2024/09/30/biden-hurricane-disaster-funding-00181667).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/30/pete-rose-dead/).
 
 ## Requirements
 - Python 3.8
