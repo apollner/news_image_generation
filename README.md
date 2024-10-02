@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**VCs are rushing to meet with former OpenAI CTO Mira Murati in hopes of funding a new company**
+**Supplies arrive by plane and by mule in North Carolina as Helene’s death toll tops 130**
 
-You can read more about it [here](https://www.businessinsider.com/mira-murati-exits-openai-venture-capitalist-startup-2024-9).
+You can read more about it [here](https://apnews.com/article/hurricane-helene-north-carolina-asheville-f02869c7d01e68f2d7f0553abb82252f).
 
 ## Requirements
 - Python 3.8
