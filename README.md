@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Hurricane Helene’s 500-mile path of destruction looks like**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/10/01/weather/hurricane-helene-path-of-destruction-climate-dg/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
