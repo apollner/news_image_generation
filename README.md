@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs hit with a wave of 120 new sexual assault allegations**
+**Switch emulator Ryujinx shuts down development after “contact by Nintendo”**
 
-You can read more about it [here](https://www.nbcnews.com/news/crime-courts/sean-diddy-combs-hit-wave-120-new-sexual-assault-allegations-rcna173474).
+You can read more about it [here](https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/).
 
 ## Requirements
 - Python 3.8
