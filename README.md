@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gavin Creel, Tony-winning musical theater star, dies at 48**
+**This hedge-fund manager says it’s a ‘max-long’ moment for stocks**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/09/30/gavin-creel-dead/).
+You can read more about it [here](https://www.marketwatch.com/story/this-hedge-fund-manager-says-its-a-max-long-moment-for-stocks-65bc50eb).
 
 ## Requirements
 - Python 3.8
