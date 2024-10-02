@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumors of New Saudi Oil Price Target Are Warning to OPEC Cut Violators**
+**Biden angrily responds to Trump on hurricane response**
 
-You can read more about it [here](https://oilprice.com/Energy/Crude-Oil/Rumors-of-New-Saudi-Oil-Price-Target-Are-Warning-to-OPEC-Cut-Violators.html).
+You can read more about it [here](https://www.politico.com/news/2024/09/30/biden-hurricane-disaster-funding-00181667).
 
 ## Requirements
 - Python 3.8
