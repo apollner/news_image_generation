@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This hedge-fund manager says it’s a ‘max-long’ moment for stocks**
+**Kristin Cavallari says Mark Estes will 'thank me' for ending their relationship: 'He needs to experience life'**
 
-You can read more about it [here](https://www.marketwatch.com/story/this-hedge-fund-manager-says-its-a-max-long-moment-for-stocks-65bc50eb).
+You can read more about it [here](https://pagesix.com/2024/10/01/celebrity-news/kristin-cavallari-says-mark-estes-will-thank-me-for-ending-their-relationship-he-needs-to-experience-life/).
 
 ## Requirements
 - Python 3.8
