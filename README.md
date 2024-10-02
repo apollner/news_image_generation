@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tim Walz and JD Vance's 2024 VP debate is tomorrow. Here's what to know.**
+**The latest on the aftermath of Hurricane Helene**
 
-You can read more about it [here](https://www.cbsnews.com/news/vp-debate-2024-what-to-know/).
+You can read more about it [here](https://www.cnn.com/weather/live-news/hurricane-helene-florida-north-carolina-georgia-09-30-24/index.html).
 
 ## Requirements
 - Python 3.8
