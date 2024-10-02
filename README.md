@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it's raiding Hezbollah strongholds in Lebanon, group fires at Israel**
+**WikiLeaks’ Julian Assange says he pleaded ‘guilty to journalism’ in order to be freed**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-military-has-begun-limited-raids-against-hezbollah-targets-border-area-2024-09-30/).
+You can read more about it [here](https://apnews.com/article/julian-assange-statement-council-europe-5373cfb854474deba0e5799b23cb8d2e).
 
 ## Requirements
 - Python 3.8
