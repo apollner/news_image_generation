@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wendy’s is celebrating SpongeBob’s 25th birthday with a Krabby Patty meal**
+**Quarterback Start 'Em, Sit 'Em Picks For Fantasy Football Week 5**
 
-You can read more about it [here](https://www.cnn.com/2024/10/02/food/wendys-spongebob-squarepants-meal/index.html).
+You can read more about it [here](https://www.si.com/fantasy/quarterback-start-em-sit-em-picks-fantasy-football-week-5).
 
 ## Requirements
 - Python 3.8
