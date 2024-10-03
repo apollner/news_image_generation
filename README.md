@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oracle to invest $6.5 billion to set up cloud facilities in Malaysia**
+**Starliner astronauts welcome Crew-9 team, and their ride home, to the space station**
 
-You can read more about it [here](https://www.reuters.com/technology/oracle-invest-65-billion-set-up-cloud-facilities-malaysia-2024-10-02/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/30/starliner-astronauts-spacex-rocket-return-home-space-station/75448533007/).
 
 ## Requirements
 - Python 3.8
