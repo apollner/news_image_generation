@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who won the VP debate? Here's what debate watchers said in CBS News poll**
+**Israel says eight soldiers killed in clashes with Hezbollah in Lebanon**
 
-You can read more about it [here](https://www.cbsnews.com/news/cbs-news-vp-debate-poll-2024/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/iran-says-it-has-finished-attack-israel-amid-fears-spreading-conflict-2024-10-02/).
 
 ## Requirements
 - Python 3.8
