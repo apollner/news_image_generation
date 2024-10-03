@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Switch emulator Ryujinx shuts down development after “contact by Nintendo”**
+**Davante Adams Requests Trade from Raiders; Aidan Hutchinson Joins the Show | The Insiders**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
