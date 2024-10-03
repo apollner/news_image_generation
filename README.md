@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walz and Vance go in depth on policy while attacking each other’s running mates in VP debate**
+**Day later, record-setting Goff given game ball**
 
-You can read more about it [here](https://apnews.com/article/vance-walz-vice-presidential-debate-election-66ff2e5e45a8dda55b0a2242fc238fdc).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41557686/lions-give-goff-game-ball-day-record-setting-outing).
 
 ## Requirements
 - Python 3.8
