@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris' new ad hits Trump's age in criticizing Vance**
+**Switch emulator Ryujinx shuts down development after “contact by Nintendo”**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/harris-launches-new-ad-hits-trumps-age-criticizing-vance-rcna173526).
+You can read more about it [here](https://arstechnica.com/gaming/2024/10/switch-emulator-ryujinx-shuts-down-development-after-contact-by-nintendo/).
 
 ## Requirements
 - Python 3.8
