@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starliner astronauts welcome Crew-9 team, and their ride home, to the space station**
+**Sean ‘Diddy’ Combs accused of sexual misconduct by 120 people, says lawyer**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/09/30/starliner-astronauts-spacex-rocket-return-home-space-station/75448533007/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/2/sean-diddy-combs-accused-of-sexual-misconduct-by-120-people-says-lawyer).
 
 ## Requirements
 - Python 3.8
