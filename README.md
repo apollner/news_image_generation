@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Day later, record-setting Goff given game ball**
+**What we know about Iran's latest missile attack on Israel**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41557686/lions-give-goff-game-ball-day-record-setting-outing).
+You can read more about it [here](https://www.bbc.com/news/articles/c70w1j0l488o).
 
 ## Requirements
 - Python 3.8
