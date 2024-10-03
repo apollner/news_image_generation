@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**October's new moon will bring us a spectacular 'ring of fire' eclipse**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/october-new-moon-2024).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
