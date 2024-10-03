@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Readout of President Biden’s call with the G7**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/02/readout-of-president-bidens-call-with-the-g7/).
 
 ## Requirements
 - Python 3.8
