@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Condoms aren't a fact of life for young Americans. They're an afterthought**
+**Levi Strauss trims guidance as it weighs sale of Dockers business**
 
-You can read more about it [here](https://www.startribune.com/condoms-arent-a-fact-of-life-for-young-americans-theyre-an-afterthought/601155625).
+You can read more about it [here](https://www.cnbc.com/2024/10/02/levi-levi-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
