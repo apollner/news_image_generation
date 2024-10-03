@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike stock tumbles as company withdraws guidance amid CEO change**
+**WNBA playoffs: Sabrina Ionescu, Liberty fend off Aces to take 2-0 series lead over defending champions**
 
-You can read more about it [here](https://finance.yahoo.com/news/nike-stock-tumbles-as-company-withdraws-guidance-amid-ceo-change-202320693.html/).
+You can read more about it [here](https://sports.yahoo.com/wnba-playoffs-sabrina-ionescu-liberty-fend-off-aces-to-take-2-0-series-lead-over-defending-champions-015304950.html).
 
 ## Requirements
 - Python 3.8
