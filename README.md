@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says eight soldiers killed in clashes with Hezbollah in Lebanon**
+**October's new moon will bring us a spectacular 'ring of fire' eclipse**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iran-says-it-has-finished-attack-israel-amid-fears-spreading-conflict-2024-10-02/).
+You can read more about it [here](https://www.space.com/october-new-moon-2024).
 
 ## Requirements
 - Python 3.8
