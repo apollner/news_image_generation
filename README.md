@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For COVID ‘long haulers,’ glimmers of good news**
+**Wendy’s is celebrating SpongeBob’s 25th birthday with a Krabby Patty meal**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/10/02/metro/long-covid-treatments-diagnosis-brigham-and-womens/).
+You can read more about it [here](https://www.cnn.com/2024/10/02/food/wendys-spongebob-squarepants-meal/index.html).
 
 ## Requirements
 - Python 3.8
