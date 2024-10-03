@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Royals-Orioles AL Wild Card Series Game 2 (4:30 ET, ESPN)**
+**US port strike backed by White House**
 
-You can read more about it [here](https://www.mlb.com/news/when-is-royals-vs-orioles-al-wild-card-series-game-2-date-time-and-lineups).
+You can read more about it [here](https://www.reuters.com/world/us/white-house-sides-with-union-dockworker-strike-enters-second-day-2024-10-02/).
 
 ## Requirements
 - Python 3.8
