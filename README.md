@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs: More than 100 people to sue rapper**
+**Royals-Orioles AL Wild Card Series Game 2 (4:30 ET, ESPN)**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cg56em38g2vo).
+You can read more about it [here](https://www.mlb.com/news/when-is-royals-vs-orioles-al-wild-card-series-game-2-date-time-and-lineups).
 
 ## Requirements
 - Python 3.8
