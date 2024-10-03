@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quarterback Start 'Em, Sit 'Em Picks For Fantasy Football Week 5**
+**Stock market today: Stocks waver as Mideast caution grips investors**
 
-You can read more about it [here](https://www.si.com/fantasy/quarterback-start-em-sit-em-picks-fantasy-football-week-5).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-waver-as-mideast-caution-grips-investors-111650456.html).
 
 ## Requirements
 - Python 3.8
