@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bombshell special counsel filing includes new allegations of Trump's 'increasingly desperate' efforts to overturn election**
+**Hurricane center tracks system that could hit Florida**
 
-You can read more about it [here](https://abcnews.go.com/US/bombshell-special-counsel-filing-includes-new-allegations-trumps/story?id\\u003d114409494).
+You can read more about it [here](https://www.tampabay.com/hurricane/2024/10/02/hurricane-florida-gulf-mexico-helene-kirk/).
 
 ## Requirements
 - Python 3.8
