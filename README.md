@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A US bomb from World War II explodes at a Japanese airport, causing a large crater in a taxiway**
+**Bombshell special counsel filing includes new allegations of Trump's 'increasingly desperate' efforts to overturn election**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
+You can read more about it [here](https://abcnews.go.com/US/bombshell-special-counsel-filing-includes-new-allegations-trumps/story?id\\u003d114409494).
 
 ## Requirements
 - Python 3.8
