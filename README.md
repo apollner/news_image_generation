@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Davante Adams trade rumors: Cowboys, Jets, Steelers among teams already interested**
+**For COVID ‘long haulers,’ glimmers of good news**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/davante-adams-trade-rumors-cowboys-jets-steelers-among-teams-already-interested/).
+You can read more about it [here](https://www.bostonglobe.com/2024/10/02/metro/long-covid-treatments-diagnosis-brigham-and-womens/).
 
 ## Requirements
 - Python 3.8
