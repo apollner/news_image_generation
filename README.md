@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Kirk forms; NHC monitors Invest 91-L, Caribbean disturbance**
+**Oracle to invest $6.5 billion to set up cloud facilities in Malaysia**
 
-You can read more about it [here](https://www.wesh.com/article/hurricane-kirk-florida-path-spaghetti-models/62475339).
+You can read more about it [here](https://www.reuters.com/technology/oracle-invest-65-billion-set-up-cloud-facilities-malaysia-2024-10-02/).
 
 ## Requirements
 - Python 3.8
