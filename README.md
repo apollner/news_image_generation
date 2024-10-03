@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indexes end down as Iran launches missiles at Israel; defense shares rise**
+**Nike stock tumbles as company withdraws guidance amid CEO change**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-dip-ahead-labor-data-powell-signals-modest-rate-cuts-2024-10-01/).
+You can read more about it [here](https://finance.yahoo.com/news/nike-stock-tumbles-as-company-withdraws-guidance-amid-ceo-change-202320693.html/).
 
 ## Requirements
 - Python 3.8
