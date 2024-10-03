@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Picket lines form as port strike begins for thousands of New York and New Jersey dockworkers**
+**Walz and Vance go in depth on policy while attacking each other’s running mates in VP debate**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/port-strike-2024-new-york-new-jersey-dockworkers/).
+You can read more about it [here](https://apnews.com/article/vance-walz-vice-presidential-debate-election-66ff2e5e45a8dda55b0a2242fc238fdc).
 
 ## Requirements
 - Python 3.8
