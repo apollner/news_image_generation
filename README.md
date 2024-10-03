@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A court blocks a couple from suing Uber over a crash, citing terms and conditions**
+**Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing**
 
-You can read more about it [here](https://www.npr.org/2024/10/02/nx-s1-5136615/uber-car-crash-lawsuit-uber-eats-arbitration-terms).
+You can read more about it [here](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html).
 
 ## Requirements
 - Python 3.8
