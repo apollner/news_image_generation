@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs accused of sexual misconduct by 120 people, says lawyer**
+**Picket lines form as port strike begins for thousands of New York and New Jersey dockworkers**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/2/sean-diddy-combs-accused-of-sexual-misconduct-by-120-people-says-lawyer).
+You can read more about it [here](https://www.cbsnews.com/newyork/news/port-strike-2024-new-york-new-jersey-dockworkers/).
 
 ## Requirements
 - Python 3.8
