@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Picket lines form as port strike begins for thousands of New York and New Jersey dockworkers**
+**Hurricane Kirk forms; NHC monitors Invest 91-L, Caribbean disturbance**
 
-You can read more about it [here](https://www.cbsnews.com/newyork/news/port-strike-2024-new-york-new-jersey-dockworkers/).
+You can read more about it [here](https://www.wesh.com/article/hurricane-kirk-florida-path-spaghetti-models/62475339).
 
 ## Requirements
 - Python 3.8
