@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WNBA playoffs: Sabrina Ionescu, Liberty fend off Aces to take 2-0 series lead over defending champions**
+**Indexes end down as Iran launches missiles at Israel; defense shares rise**
 
-You can read more about it [here](https://sports.yahoo.com/wnba-playoffs-sabrina-ionescu-liberty-fend-off-aces-to-take-2-0-series-lead-over-defending-champions-015304950.html).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-dip-ahead-labor-data-powell-signals-modest-rate-cuts-2024-10-01/).
 
 ## Requirements
 - Python 3.8
