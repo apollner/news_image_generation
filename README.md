@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets' Sauce Gardner Posts Cryptic Photo in Response to Davante Adams Trade Rumors**
+**Ukraine Ramps Up Weapons Production, Builds 'New Defense Industry,' Zelensky Says**
 
-You can read more about it [here](https://bleacherreport.com/articles/10137668-jets-sauce-gardner-posts-cryptic-photo-in-response-to-davante-adams-trade-rumors).
+You can read more about it [here](https://www.kyivpost.com/post/39884).
 
 ## Requirements
 - Python 3.8
