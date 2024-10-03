@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US port strike backed by White House**
+**Davante Adams trade rumors: Cowboys, Jets, Steelers among teams already interested**
 
-You can read more about it [here](https://www.reuters.com/world/us/white-house-sides-with-union-dockworker-strike-enters-second-day-2024-10-02/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/davante-adams-trade-rumors-cowboys-jets-steelers-among-teams-already-interested/).
 
 ## Requirements
 - Python 3.8
