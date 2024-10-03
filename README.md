@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs accused of sexual misconduct by 120 people, says lawyer**
+**Pixel 9a has me convinced that Apple needs to follow Google to return to glory**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/2/sean-diddy-combs-accused-of-sexual-misconduct-by-120-people-says-lawyer).
+You can read more about it [here](https://www.phonearena.com/news/Pixel-9a-has-me-convinced-that-Apple-needs-to-follow-Google-to-return-to-glory_id163293).
 
 ## Requirements
 - Python 3.8
