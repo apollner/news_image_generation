@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks waver as Mideast caution grips investors**
+**Who won the VP debate? Here's what debate watchers said in CBS News poll**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-waver-as-mideast-caution-grips-investors-111650456.html).
+You can read more about it [here](https://www.cbsnews.com/news/cbs-news-vp-debate-poll-2024/).
 
 ## Requirements
 - Python 3.8
