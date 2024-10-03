@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Levi Strauss trims guidance as it weighs sale of Dockers business**
+**A US bomb from World War II explodes at a Japanese airport, causing a large crater in a taxiway**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/02/levi-levi-earnings-q3-2024.html).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
 
 ## Requirements
 - Python 3.8
