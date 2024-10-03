@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine Ramps Up Weapons Production, Builds 'New Defense Industry,' Zelensky Says**
+**Sean 'Diddy' Combs: More than 100 people to sue rapper**
 
-You can read more about it [here](https://www.kyivpost.com/post/39884).
+You can read more about it [here](https://www.bbc.com/news/articles/cg56em38g2vo).
 
 ## Requirements
 - Python 3.8
