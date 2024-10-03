@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Estes Breaks Silence on Kristin Cavallari Split**
+**Stock market today: Stocks waver as Mideast caution grips investors**
 
-You can read more about it [here](https://www.eonline.com/news/1408036/mark-estes-breaks-silence-on-kristin-cavallari-split).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-waver-as-mideast-caution-grips-investors-111650456.html).
 
 ## Requirements
 - Python 3.8
