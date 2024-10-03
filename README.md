@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane center tracks system that could hit Florida**
+**A court blocks a couple from suing Uber over a crash, citing terms and conditions**
 
-You can read more about it [here](https://www.tampabay.com/hurricane/2024/10/02/hurricane-florida-gulf-mexico-helene-kirk/).
+You can read more about it [here](https://www.npr.org/2024/10/02/nx-s1-5136615/uber-car-crash-lawsuit-uber-eats-arbitration-terms).
 
 ## Requirements
 - Python 3.8
