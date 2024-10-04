@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britney Spears’ on-again, off-again boyfriend Paul Soliz’s wife files for divorce after 8 years of marriage**
+**Voyager 2’s Plasma Spectrometer Turned Off In Power-Saving Measure**
 
-You can read more about it [here](https://pagesix.com/2024/10/02/celebrity-news/britney-spears-on-again-off-again-boyfriend-paul-solizs-wife-files-for-divorce/).
+You can read more about it [here](https://hackaday.com/2024/10/02/voyager-2s-plasma-spectrometer-turned-off-in-power-saving-measure/).
 
 ## Requirements
 - Python 3.8
