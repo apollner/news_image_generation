@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway**
+**Starbucks invests in two innovation farms to help climate-proof its coffee**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
+You can read more about it [here](https://www.cnbc.com/2024/10/03/starbucks-innovation-farms-climate-proof-coffee.html).
 
 ## Requirements
 - Python 3.8
