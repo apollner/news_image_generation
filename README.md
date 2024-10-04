@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brewers claw back a run in fifth, trail 3-2 against Mets**
+**US port workers union backed by White House in strike**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/mlb/brewers/2024/10/02/brewers-vs-mets-wild-card-playoff-game-2-score-updates-highlights/75479698007/).
+You can read more about it [here](https://www.reuters.com/world/us/white-house-sides-with-union-dockworker-strike-enters-second-day-2024-10-02/).
 
 ## Requirements
 - Python 3.8
