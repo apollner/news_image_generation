@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pence and Trump’s frayed relationship leading up to Jan. 6 insurrection on full display in latest special counsel filing**
+**Gemini Live rolling out support for five more languages**
 
-You can read more about it [here](https://www.cnn.com/2024/10/03/politics/pence-trump-january-6-special-counsel-filing/index.html).
+You can read more about it [here](http://9to5google.com/2024/10/03/gemini-live-languages/).
 
 ## Requirements
 - Python 3.8
