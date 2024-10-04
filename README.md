@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. crude oil jumps as Biden comments on possible Israel retaliation on Iran**
+**East Coast port strike workers silent when asked if they support Kamala Harris**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/03/crude-oil-prices-today.html).
+You can read more about it [here](https://www.foxbusiness.com/media/east-coast-port-strike-workers-silent-asked-support-kamala-harris).
 
 ## Requirements
 - Python 3.8
