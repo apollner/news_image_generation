@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects**
+**Israeli strike on Gaza school targeted one Hamas figure, BBC told**
 
-You can read more about it [here](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3dv18l03n1o).
 
 ## Requirements
 - Python 3.8
