@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI raises $6.6 billion in largest VC round ever**
+**Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate**
 
-You can read more about it [here](https://www.axios.com/2024/10/02/openai-new-funding-round-restructuring).
+You can read more about it [here](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592).
 
 ## Requirements
 - Python 3.8
