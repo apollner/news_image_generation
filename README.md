@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gemini Live rolling out support for five more languages**
+**More Americans file for unemployment benefits last week, but layoffs remain historically low**
 
-You can read more about it [here](http://9to5google.com/2024/10/03/gemini-live-languages/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/americans-file-unemployment-benefits-week-layoffs-remain-historically-114460330).
 
 ## Requirements
 - Python 3.8
