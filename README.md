@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly Gaza school strike targeted one Hamas figure, BBC told**
+**Six migrants killed after Mexico soldiers open fire**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3dv18l03n1o).
+You can read more about it [here](https://www.bbc.com/news/articles/c3e9p5j1yelo).
 
 ## Requirements
 - Python 3.8
