@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indexes end lower with U.S. jobs report ahead, Middle East in focus**
+**Tim Walz has a tendency to misspeak. It may haunt the campaign.**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-fall-investors-await-labor-data-assess-middle-east-risk-2024-10-03/).
+You can read more about it [here](https://www.politico.com/news/2024/10/03/tim-walz-misspeak-00182350).
 
 ## Requirements
 - Python 3.8
