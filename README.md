@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York City Mayor Eric Adams — his own security clearance in question — says NYPD on high alert**
+**Deadly Gaza school strike targeted one Hamas figure, BBC told**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/02/eric-adams-security-nypd-00182275).
+You can read more about it [here](https://www.bbc.com/news/articles/c3dv18l03n1o).
 
 ## Requirements
 - Python 3.8
