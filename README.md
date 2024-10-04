@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel extends evacuation warnings in Lebanon, signaling a wider offensive**
+**Eminem reveals daughter Hailie Jade is pregnant with first baby, unveils ‘grandpa’ jersey in new music video**
 
-You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-war-news-10-03-2024-5fad98f56ebcc7e1751388b608c7c8dd).
+You can read more about it [here](https://pagesix.com/2024/10/03/parents/eminem-reveals-daughter-hailie-jade-is-pregnant-with-first-baby-with-grandpa-jersey-in-new-music-video/).
 
 ## Requirements
 - Python 3.8
