@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shock of deadly floods is a reminder of Appalachia’s risk from violent storms in a warming climate**
+**Mets blow Game 2 lead to Brewers to set up decisive wild card finale**
 
-You can read more about it [here](https://apnews.com/article/climate-change-hurricane-helene-flooding-north-carolina-f49b2a6bf2b549473e0211f883332592).
+You can read more about it [here](https://nypost.com/2024/10/02/sports/mets-blow-game-2-lead-to-brewers-to-set-up-decisive-wild-card-finale/).
 
 ## Requirements
 - Python 3.8
