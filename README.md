@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Americans file for unemployment benefits last week, but layoffs remain historically low**
+**Rwanda to start vaccine trials for Marburg disease in a few weeks**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/americans-file-unemployment-benefits-week-layoffs-remain-historically-114460330).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/rwanda-start-marburg-vaccine-trials-health-official-says-2024-10-03/).
 
 ## Requirements
 - Python 3.8
