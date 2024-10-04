@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets blow Game 2 lead to Brewers to set up decisive wild card finale**
+**New York City Mayor Eric Adams — his own security clearance in question — says NYPD on high alert**
 
-You can read more about it [here](https://nypost.com/2024/10/02/sports/mets-blow-game-2-lead-to-brewers-to-set-up-decisive-wild-card-finale/).
+You can read more about it [here](https://www.politico.com/news/2024/10/02/eric-adams-security-nypd-00182275).
 
 ## Requirements
 - Python 3.8
