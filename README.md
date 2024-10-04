@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York City Mayor Eric Adams — his own security clearance in question — says NYPD on high alert**
+**OpenAI raises $6.6 billion in largest VC round ever**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/02/eric-adams-security-nypd-00182275).
+You can read more about it [here](https://www.axios.com/2024/10/02/openai-new-funding-round-restructuring).
 
 ## Requirements
 - Python 3.8
