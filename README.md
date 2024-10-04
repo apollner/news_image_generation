@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing**
+**Voyager 2’s Plasma Spectrometer Turned Off In Power-Saving Measure**
 
-You can read more about it [here](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html).
+You can read more about it [here](https://hackaday.com/2024/10/02/voyager-2s-plasma-spectrometer-turned-off-in-power-saving-measure/).
 
 ## Requirements
 - Python 3.8
