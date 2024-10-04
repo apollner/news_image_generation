@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US port strike: GM, Walmart, LG top importers at impacted ports**
+**Nine killed in Israeli air strike on central Beirut in Lebanon**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/us-port-strike-gm-walmart-lg-top-us-importers-impacted-port-strikes).
+You can read more about it [here](https://www.bbc.com/news/articles/c8rd0gnv68jo).
 
 ## Requirements
 - Python 3.8
