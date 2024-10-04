@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rwanda to start vaccine trials for Marburg disease in a few weeks**
+**A 5th recall for Tesla Cybertruck within a year, the latest due to rearview display**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/rwanda-start-marburg-vaccine-trials-health-official-says-2024-10-03/).
+You can read more about it [here](https://apnews.com/article/tesla-cybertruck-recall-musk-32836a3471855a0a864ac1ba3d5769fc).
 
 ## Requirements
 - Python 3.8
