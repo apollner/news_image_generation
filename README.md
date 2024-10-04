@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem reveals daughter Hailie Jade is pregnant with first baby, unveils ‘grandpa’ jersey in new music video**
+**OpenAI launches new ‘Canvas’ ChatGPT interface tailored to writing and coding projects**
 
-You can read more about it [here](https://pagesix.com/2024/10/03/parents/eminem-reveals-daughter-hailie-jade-is-pregnant-with-first-baby-with-grandpa-jersey-in-new-music-video/).
+You can read more about it [here](https://techcrunch.com/2024/10/03/openai-launches-new-canvas-chatgpt-interface-tailored-to-writing-and-coding-projects/).
 
 ## Requirements
 - Python 3.8
