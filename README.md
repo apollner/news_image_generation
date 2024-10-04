@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six migrants killed after Mexico soldiers open fire**
+**Britney Spears’ on-again, off-again boyfriend Paul Soliz’s wife files for divorce after 8 years of marriage**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3e9p5j1yelo).
+You can read more about it [here](https://pagesix.com/2024/10/02/celebrity-news/britney-spears-on-again-off-again-boyfriend-paul-solizs-wife-files-for-divorce/).
 
 ## Requirements
 - Python 3.8
