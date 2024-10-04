@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike on Gaza school targeted one Hamas figure, BBC told**
+**FEMA is running out of funding, DHS Secretary Mayorkas warns**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3dv18l03n1o).
+You can read more about it [here](https://www.axios.com/2024/10/03/hurricane-helene-fema-funding-mayorkas).
 
 ## Requirements
 - Python 3.8
