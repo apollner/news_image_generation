@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melania Trump reveals pro-abortion rights stance in new memoir: Report**
+**An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway**
 
-You can read more about it [here](https://abcnews.go.com/Politics/melania-trump-reveals-pro-abortion-rights-stance-new/story?id\\u003d114450767).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
 
 ## Requirements
 - Python 3.8
