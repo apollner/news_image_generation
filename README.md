@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nine killed in Israeli air strike on central Beirut in Lebanon**
+**Melania Trump reveals pro-abortion rights stance in new memoir: Report**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8rd0gnv68jo).
+You can read more about it [here](https://abcnews.go.com/Politics/melania-trump-reveals-pro-abortion-rights-stance-new/story?id\\u003d114450767).
 
 ## Requirements
 - Python 3.8
