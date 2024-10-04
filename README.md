@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 5 NFL betting guide: Best expert, model, AI, parlay, DFS and season-long fantasy picks revealed**
+**Pence and Trump’s frayed relationship leading up to Jan. 6 insurrection on full display in latest special counsel filing**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/week-5-nfl-betting-guide-best-expert-model-ai-parlay-dfs-and-season-long-fantasy-picks-revealed/).
+You can read more about it [here](https://www.cnn.com/2024/10/03/politics/pence-trump-january-6-special-counsel-filing/index.html).
 
 ## Requirements
 - Python 3.8
