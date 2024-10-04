@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US port workers union backed by White House in strike**
+**Jax Taylor reveals he never ‘legally’ married Brittany Cartwright; hands over full child custody**
 
-You can read more about it [here](https://www.reuters.com/world/us/white-house-sides-with-union-dockworker-strike-enters-second-day-2024-10-02/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/tv/jax-taylor-reveals-he-never-legally-married-brittany-cartwright-hands-over-full-child-custody-101727913331775.html).
 
 ## Requirements
 - Python 3.8
