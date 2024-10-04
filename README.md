@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doctor pleads guilty in death of 'Friends' star Matthew Perry**
+**Brewers claw back a run in fifth, trail 3-2 against Mets**
 
-You can read more about it [here](https://www.reuters.com/world/us/doctor-expected-plead-guilty-death-friends-star-matthew-perry-2024-10-02/).
+You can read more about it [here](https://www.jsonline.com/story/sports/mlb/brewers/2024/10/02/brewers-vs-mets-wild-card-playoff-game-2-score-updates-highlights/75479698007/).
 
 ## Requirements
 - Python 3.8
