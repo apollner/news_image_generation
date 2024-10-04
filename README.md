@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager 2’s Plasma Spectrometer Turned Off In Power-Saving Measure**
+**An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway**
 
-You can read more about it [here](https://hackaday.com/2024/10/02/voyager-2s-plasma-spectrometer-turned-off-in-power-saving-measure/).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
 
 ## Requirements
 - Python 3.8
