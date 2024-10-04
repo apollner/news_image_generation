@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Geomagnetic Storm Watch issued; Prepare for northern lights over Michigan, southern Midwest**
+**Oura Ring 4 debuts slimmer design, additional sizes, and improved sensing starting at $349**
 
-You can read more about it [here](https://www.mlive.com/weather/2024/10/geomagnetic-storm-watch-issued-prepare-for-northern-lights-over-michigan-southern-midwest.html).
+You can read more about it [here](https://techcrunch.com/2024/10/03/oura-ring-4-debuts-slimmer-design-additional-sizes-and-improved-sensing-starting-at-349/).
 
 ## Requirements
 - Python 3.8
