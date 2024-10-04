@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FEMA is running out of funding, DHS Secretary Mayorkas warns**
+**Former Colorado county clerk Tina Peters sentenced to 9 years for voting data scheme**
 
-You can read more about it [here](https://www.axios.com/2024/10/03/hurricane-helene-fema-funding-mayorkas).
+You can read more about it [here](https://www.politico.com/news/2024/10/03/tina-peters-colorado-voting-sentenced-00182388).
 
 ## Requirements
 - Python 3.8
