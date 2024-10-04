@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ship queue grows at US ports as dockworker strike enters third day**
+**Geomagnetic Storm Watch issued; Prepare for northern lights over Michigan, southern Midwest**
 
-You can read more about it [here](https://www.reuters.com/world/us/ship-queue-grows-us-ports-dockworker-strike-enters-third-day-2024-10-03/).
+You can read more about it [here](https://www.mlive.com/weather/2024/10/geomagnetic-storm-watch-issued-prepare-for-northern-lights-over-michigan-southern-midwest.html).
 
 ## Requirements
 - Python 3.8
