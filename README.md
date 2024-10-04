@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**East Coast port strike workers silent when asked if they support Kamala Harris**
+**Israel extends evacuation warnings in Lebanon, signaling a wider offensive**
 
-You can read more about it [here](https://www.foxbusiness.com/media/east-coast-port-strike-workers-silent-asked-support-kamala-harris).
+You can read more about it [here](https://apnews.com/article/israel-lebanon-hezbollah-gaza-war-news-10-03-2024-5fad98f56ebcc7e1751388b608c7c8dd).
 
 ## Requirements
 - Python 3.8
