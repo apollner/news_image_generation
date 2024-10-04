@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Levi Strauss trims guidance as it weighs sale of Dockers business**
+**Doctor pleads guilty in death of 'Friends' star Matthew Perry**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/02/levi-levi-earnings-q3-2024.html).
+You can read more about it [here](https://www.reuters.com/world/us/doctor-expected-plead-guilty-death-friends-star-matthew-perry-2024-10-02/).
 
 ## Requirements
 - Python 3.8
