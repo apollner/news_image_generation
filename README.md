@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Viral videos show Moo Deng biting her zookeepers, but that’s nothing new for the global sensation**
+**Levi Strauss trims guidance as it weighs sale of Dockers business**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/2024/10/02/viral-videos-moo-deng-biting-zookeepers/75480839007/).
+You can read more about it [here](https://www.cnbc.com/2024/10/02/levi-levi-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
