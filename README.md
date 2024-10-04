@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Voyager 2’s Plasma Spectrometer Turned Off In Power-Saving Measure**
+**Mets need to find more magic yet again with season on the brink**
 
-You can read more about it [here](https://hackaday.com/2024/10/02/voyager-2s-plasma-spectrometer-turned-off-in-power-saving-measure/).
+You can read more about it [here](https://nypost.com/2024/10/03/sports/mets-need-to-find-more-magic-yet-again-with-season-on-the-brink/).
 
 ## Requirements
 - Python 3.8
