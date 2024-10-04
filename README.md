@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An American bomb from WWII explodes at a Japanese airport, leaving a crater on the taxiway**
+**Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing**
 
-You can read more about it [here](https://abcnews.go.com/International/wireStory/us-bomb-world-war-ii-explodes-japanese-airport-114419077).
+You can read more about it [here](https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html).
 
 ## Requirements
 - Python 3.8
