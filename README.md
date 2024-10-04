@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets need to find more magic yet again with season on the brink**
+**Ship queue grows at US ports as dockworker strike enters third day**
 
-You can read more about it [here](https://nypost.com/2024/10/03/sports/mets-need-to-find-more-magic-yet-again-with-season-on-the-brink/).
+You can read more about it [here](https://www.reuters.com/world/us/ship-queue-grows-us-ports-dockworker-strike-enters-third-day-2024-10-03/).
 
 ## Requirements
 - Python 3.8
