@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melania Trump, in rare break with husband, voices support for abortion rights**
+**Reds to hire Terry Francona as manager (source)**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/03/melania-trump-abortion-rights-memoir/).
+You can read more about it [here](https://www.mlb.com/news/reds-terry-francona-manager-hire).
 
 ## Requirements
 - Python 3.8
