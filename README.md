@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors to review new evidence in Menendez brothers case**
+**2024 MLB playoff predictions: ALDS, NLDS expert picks as Dodgers, Yankees, Phillies face intriguing matchups**
 
-You can read more about it [here](https://www.axios.com/2024/10/04/menendez-brothers-case-new-evidence-review).
+You can read more about it [here](https://www.cbssports.com/mlb/news/2024-mlb-playoff-predictions-alds-nlds-expert-picks-as-dodgers-yankees-phillies-face-intriguing-matchups/).
 
 ## Requirements
 - Python 3.8
