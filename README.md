@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Stocks climb after jobs report's massive beat, unemployment rate dip**
+**Is a hurricane headed for Florida? Forecasters say brace for torrential rain.**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-stocks-climb-after-jobs-reports-massive-beat-unemployment-rate-dip-133053687.html).
+You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/10/04/hurricane-forecasters-track-rainy-system-heading-for-florida/75511630007/).
 
 ## Requirements
 - Python 3.8
