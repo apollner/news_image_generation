@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A co-lead on Sora, OpenAI’s video generator, has left for Google**
+**Oil surges after Joe Biden’s comments on Israeli retaliation**
 
-You can read more about it [here](https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/).
+You can read more about it [here](https://www.ft.com/content/25f23a03-6ca2-4560-ae53-42ff17e9992a).
 
 ## Requirements
 - Python 3.8
