@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 MLB playoff predictions: ALDS, NLDS expert picks as Dodgers, Yankees, Phillies face intriguing matchups**
+**Electric cars: EU hits China with tariffs in battle for sales**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/2024-mlb-playoff-predictions-alds-nlds-expert-picks-as-dodgers-yankees-phillies-face-intriguing-matchups/).
+You can read more about it [here](https://www.bbc.com/news/articles/cly20n4d0g9o).
 
 ## Requirements
 - Python 3.8
