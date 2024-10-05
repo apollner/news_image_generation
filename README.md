@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil surges after Joe Biden’s comments on Israeli retaliation**
+**Menendez brothers case under review for possible resentencing amid new evidence, LA County DA says**
 
-You can read more about it [here](https://www.ft.com/content/25f23a03-6ca2-4560-ae53-42ff17e9992a).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/menendez-murder-case-will-be-reviewed-amid-potential-new-evidence-los-angeles-da-says/).
 
 ## Requirements
 - Python 3.8
