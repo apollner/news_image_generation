@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive blasts in Beirut after renewed Israeli air strikes**
+**Reds to hire Terry Francona as manager (source)**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c17lpydd842o).
+You can read more about it [here](https://www.mlb.com/news/reds-terry-francona-manager-hire).
 
 ## Requirements
 - Python 3.8
