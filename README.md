@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Union votes to impose tariffs on Chinese electric vehicles**
+**Massive blasts in Beirut after renewed Israeli air strikes**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/04/european-union-votes-to-impose-tariffs-on-chinese-electric-vehicles.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c17lpydd842o).
 
 ## Requirements
 - Python 3.8
