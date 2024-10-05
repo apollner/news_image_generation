@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Colorado county clerk Tina Peters sentenced to 9 years for voting data scheme**
+**Northern Lights in MN: Solar flares sets stage for aurora**
 
-You can read more about it [here](https://www.cnn.com/2024/10/03/politics/former-colorado-county-clerk-tina-peters-sentenced/index.html).
+You can read more about it [here](https://www.fox9.com/news/northern-lights-mn-solar-flares-sets-stage-aurora).
 
 ## Requirements
 - Python 3.8
