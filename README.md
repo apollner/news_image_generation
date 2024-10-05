@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ChatGPT’s ‘canvas’ interface makes it easier to write and code**
+**Prosecutors to review new evidence in Menendez brothers case**
 
-You can read more about it [here](https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface).
+You can read more about it [here](https://www.axios.com/2024/10/04/menendez-brothers-case-new-evidence-review).
 
 ## Requirements
 - Python 3.8
