@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Britain cedes disputed islands to Mauritius, securing key U.S. military base**
+**Melania Trump, in rare break with husband, voices support for abortion rights**
 
-You can read more about it [here](https://www.nbcnews.com/news/world/britain-cedes-disputed-islands-mauritius-securing-key-us-military-base-rcna173981).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/03/melania-trump-abortion-rights-memoir/).
 
 ## Requirements
 - Python 3.8
