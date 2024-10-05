@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buccaneers vs. Falcons odds, prediction, time: Thursday Night Football picks from NFL model that's 42-23**
+**Kim Kardashian: Free the Menendez brothers**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/buccaneers-vs-falcons-odds-prediction-time-thursday-night-football-picks-from-nfl-model-thats-42-23/).
+You can read more about it [here](https://www.nbcnews.com/news/kim-kardashian-free-menendez-brothers-rcna173638).
 
 ## Requirements
 - Python 3.8
