@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. warships and aircraft strike over a dozen Houthi targets in Yemen**
+**Biden says he doesn't know whether Israel is holding up peace deal to influence 2024 US election**
 
-You can read more about it [here](https://www.cbsnews.com/news/us-airstrikes-yemen-iran-backed-houthi-rebels/).
+You can read more about it [here](https://apnews.com/article/biden-election-mideast-israel-d9f53ba8c7b3b4db953be020f676274c).
 
 ## Requirements
 - Python 3.8
