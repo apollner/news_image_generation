@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Menendez brothers case under review for possible resentencing amid new evidence, LA County DA says**
+**Melania Trump says she supports abortion rights, putting her at odds with the GOP**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/menendez-murder-case-will-be-reviewed-amid-potential-new-evidence-los-angeles-da-says/).
+You can read more about it [here](https://apnews.com/article/melania-trump-harris-abortion-election-2024-vance-walz-a9a44cf9d3113eb55e8c4346c7e1fe59).
 
 ## Requirements
 - Python 3.8
