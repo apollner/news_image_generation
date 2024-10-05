@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mpox in Africa: WHO approves first mpox test for quick diagnosis**
+**Donald Trump returning to Pennsylvania town that was site of first assassination attempt**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2436p21j90o).
+You can read more about it [here](https://www.usatoday.com/videos/news/politics/2024/10/04/donald-trump-returning-town-first-assassination-attempt/75513380007/).
 
 ## Requirements
 - Python 3.8
