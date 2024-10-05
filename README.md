@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helene has become one of the deadliest hurricanes of the modern era**
+**Investors are scrambling to get into ElevenLabs, which may soon be valued at $3 billion**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/10/03/hurricane-helene-deadliest-mainland-since-katrina-storm/).
+You can read more about it [here](https://techcrunch.com/2024/10/03/investors-are-scrambling-to-get-into-elevenlabs-which-may-soon-be-valued-at-3-billion/).
 
 ## Requirements
 - Python 3.8
