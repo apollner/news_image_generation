@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay Gruden is Still Salty About Washington Losing Kirk Cousins Back in 2018**
+**Stock market today: Dow gains 300 points, stocks recoup weekly losses after jobs report blowout**
 
-You can read more about it [here](https://www.si.com/nfl/jay-gruden-is-still-salty-about-washington-losing-kirk-cousins-back-in-2018).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-gains-300-points-stocks-recoup-weekly-losses-after-jobs-report-blowout-200121355.html/).
 
 ## Requirements
 - Python 3.8
