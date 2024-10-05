@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk to attend Trump Pennsylvania rally at site of assassination attempt**
+**Jay Gruden is Still Salty About Washington Losing Kirk Cousins Back in 2018**
 
-You can read more about it [here](https://www.foxnews.com/us/elon-musk-attend-trump-pennsylvania-rally-site-assassination-attempt).
+You can read more about it [here](https://www.si.com/nfl/jay-gruden-is-still-salty-about-washington-losing-kirk-cousins-back-in-2018).
 
 ## Requirements
 - Python 3.8
