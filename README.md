@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reds to hire Terry Francona as manager (source)**
+**Obama to rally support for Harris across key battleground states**
 
-You can read more about it [here](https://www.mlb.com/news/reds-terry-francona-manager-hire).
+You can read more about it [here](https://www.cnn.com/2024/10/04/politics/barack-obama-kamala-harris-campaign-events/index.html).
 
 ## Requirements
 - Python 3.8
