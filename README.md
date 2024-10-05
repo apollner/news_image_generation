@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrikes rock southern suburbs of Beirut and cut off a key crossing into Syria**
+**ChatGPT’s ‘canvas’ interface makes it easier to write and code**
 
-You can read more about it [here](https://apnews.com/article/mideast-wars-lebanon-hezbollah-hamas-4-october-2024-5f2e512d5334b6f7fd7f5a46400e6979).
+You can read more about it [here](https://www.theverge.com/2024/10/4/24261895/openai-chatgpt-canvas-text-code-editing-interface).
 
 ## Requirements
 - Python 3.8
