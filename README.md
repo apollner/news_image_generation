@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama to rally support for Harris across key battleground states**
+**European Union votes to impose tariffs on Chinese electric vehicles**
 
-You can read more about it [here](https://www.cnn.com/2024/10/04/politics/barack-obama-kamala-harris-campaign-events/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/10/04/european-union-votes-to-impose-tariffs-on-chinese-electric-vehicles.html).
 
 ## Requirements
 - Python 3.8
