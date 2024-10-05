@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights in MN: Solar flares sets stage for aurora**
+**A co-lead on Sora, OpenAI’s video generator, has left for Google**
 
-You can read more about it [here](https://www.fox9.com/news/northern-lights-mn-solar-flares-sets-stage-aurora).
+You can read more about it [here](https://techcrunch.com/2024/10/03/a-co-lead-on-sora-openais-video-generator-has-left-for-google/).
 
 ## Requirements
 - Python 3.8
