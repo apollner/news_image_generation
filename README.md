@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Melania Trump says she supports abortion rights, putting her at odds with the GOP**
+**Biden calls for putting ‘politics aside’ in visits to storm-ravaged Florida, Georgia**
 
-You can read more about it [here](https://apnews.com/article/melania-trump-harris-abortion-election-2024-vance-walz-a9a44cf9d3113eb55e8c4346c7e1fe59).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/03/biden-hurricane-georgia-florida/).
 
 ## Requirements
 - Python 3.8
