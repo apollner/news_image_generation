@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Electric cars: EU hits China with tariffs in battle for sales**
+**Mpox in Africa: WHO approves first mpox test for quick diagnosis**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cly20n4d0g9o).
+You can read more about it [here](https://www.bbc.com/news/articles/c2436p21j90o).
 
 ## Requirements
 - Python 3.8
