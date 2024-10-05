@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reds to hire Terry Francona as manager (source)**
+**Hogan tests how far a Senate Republican candidate can run from Trump**
 
-You can read more about it [here](https://www.mlb.com/news/reds-terry-francona-manager-hire).
+You can read more about it [here](https://www.politico.com/news/2024/10/04/hogan-senate-republican-maryland-trump-00182428).
 
 ## Requirements
 - Python 3.8
