@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is a hurricane headed for Florida? Forecasters say brace for torrential rain.**
+**Biden helped end the dockers strike by saying reopening the ports to help Hurricane Helene victims would be patriotic**
 
-You can read more about it [here](https://www.usatoday.com/story/news/weather/2024/10/04/hurricane-forecasters-track-rainy-system-heading-for-florida/75511630007/).
+You can read more about it [here](https://fortune.com/2024/10/04/biden-dockers-strike-opening-ports-patriotic-hurricane-helene/).
 
 ## Requirements
 - Python 3.8
