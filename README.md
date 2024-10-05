@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says he doesn't know whether Israel is holding up peace deal to influence 2024 US election**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/biden-election-mideast-israel-d9f53ba8c7b3b4db953be020f676274c).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
