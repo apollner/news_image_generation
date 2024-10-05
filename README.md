@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Port strike update: Dockworkers going back to work as talks continue amid tentative agreement**
+**Israeli airstrikes rock southern suburbs of Beirut and cut off a key crossing into Syria**
 
-You can read more about it [here](https://6abc.com/post/port-strike-update-dockworkers-going-back-work-talks-continue-amid-tentative-agreement/15391909/).
+You can read more about it [here](https://apnews.com/article/mideast-wars-lebanon-hezbollah-hamas-4-october-2024-5f2e512d5334b6f7fd7f5a46400e6979).
 
 ## Requirements
 - Python 3.8
