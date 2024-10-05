@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow gains 300 points, stocks recoup weekly losses after jobs report blowout**
+**Former Memphis officers found guilty of lesser charges in beating death of Tyre Nichols**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-gains-300-points-stocks-recoup-weekly-losses-after-jobs-report-blowout-200121355.html/).
+You can read more about it [here](https://www.reuters.com/legal/former-memphis-officers-found-guilty-lesser-charge-beating-death-tyre-nichols-2024-10-03/).
 
 ## Requirements
 - Python 3.8
