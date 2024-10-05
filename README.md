@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mixed verdict against former officers in Tyre Nichols beating death case**
+**‘Joker 2’ Ending Explained: The Joke’s On Us**
 
-You can read more about it [here](https://abcnews.go.com/US/tyre-nichols-case-federal-trial-verdict/story?id\\u003d114440582).
+You can read more about it [here](https://www.thewrap.com/joker-2-ending-explained/).
 
 ## Requirements
 - Python 3.8
