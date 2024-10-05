@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Investors are scrambling to get into ElevenLabs, which may soon be valued at $3 billion**
+**Former Colorado county clerk Tina Peters sentenced to 9 years for voting data scheme**
 
-You can read more about it [here](https://techcrunch.com/2024/10/03/investors-are-scrambling-to-get-into-elevenlabs-which-may-soon-be-valued-at-3-billion/).
+You can read more about it [here](https://www.cnn.com/2024/10/03/politics/former-colorado-county-clerk-tina-peters-sentenced/index.html).
 
 ## Requirements
 - Python 3.8
