@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haitian gang kills at least 70 people as thousands flee, UN says**
+**U.S. warships and aircraft strike over a dozen Houthi targets in Yemen**
 
-You can read more about it [here](https://www.reuters.com/world/americas/un-horrified-least-70-killed-haiti-gang-massacre-2024-10-04/).
+You can read more about it [here](https://www.cbsnews.com/news/us-airstrikes-yemen-iran-backed-houthi-rebels/).
 
 ## Requirements
 - Python 3.8
