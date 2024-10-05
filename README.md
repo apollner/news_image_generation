@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Next-generation ULA Vulcan rocket launched on second test flight**
+**Jay Gruden is Still Salty About Washington Losing Kirk Cousins Back in 2018**
 
-You can read more about it [here](https://www.cbsnews.com/news/united-launch-alliance-ula-vulcan-rocket-launched-second-test-flight/).
+You can read more about it [here](https://www.si.com/nfl/jay-gruden-is-still-salty-about-washington-losing-kirk-cousins-back-in-2018).
 
 ## Requirements
 - Python 3.8
