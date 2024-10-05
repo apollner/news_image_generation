@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hogan tests how far a Senate Republican candidate can run from Trump**
+**Port strike update: Dockworkers going back to work as talks continue amid tentative agreement**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/04/hogan-senate-republican-maryland-trump-00182428).
+You can read more about it [here](https://6abc.com/post/port-strike-update-dockworkers-going-back-work-talks-continue-amid-tentative-agreement/15391909/).
 
 ## Requirements
 - Python 3.8
