@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump returning to Pennsylvania town that was site of first assassination attempt**
+**Next-generation ULA Vulcan rocket launched on second test flight**
 
-You can read more about it [here](https://www.usatoday.com/videos/news/politics/2024/10/04/donald-trump-returning-town-first-assassination-attempt/75513380007/).
+You can read more about it [here](https://www.cbsnews.com/news/united-launch-alliance-ula-vulcan-rocket-launched-second-test-flight/).
 
 ## Requirements
 - Python 3.8
