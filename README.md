@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Kardashian: Free the Menendez brothers**
+**Mixed verdict against former officers in Tyre Nichols beating death case**
 
-You can read more about it [here](https://www.nbcnews.com/news/kim-kardashian-free-menendez-brothers-rcna173638).
+You can read more about it [here](https://abcnews.go.com/US/tyre-nichols-case-federal-trial-verdict/story?id\\u003d114440582).
 
 ## Requirements
 - Python 3.8
