@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Memphis officers found guilty of lesser charges in beating death of Tyre Nichols**
+**Haitian gang kills at least 70 people as thousands flee, UN says**
 
-You can read more about it [here](https://www.reuters.com/legal/former-memphis-officers-found-guilty-lesser-charge-beating-death-tyre-nichols-2024-10-03/).
+You can read more about it [here](https://www.reuters.com/world/americas/un-horrified-least-70-killed-haiti-gang-massacre-2024-10-04/).
 
 ## Requirements
 - Python 3.8
