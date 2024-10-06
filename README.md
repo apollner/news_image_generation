@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump To Blame for Timing of Jack Smith's Bombshell Brief: Mary Trump**
+**[Removed]**
 
-You can read more about it [here](https://www.newsweek.com/mary-trump-jack-smith-donald-trump-indictment-1964292).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
