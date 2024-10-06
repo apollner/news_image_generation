@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Garth Brooks called wife Trisha Yearwood his ‘partner in good times’ and ‘bad’ days before being accused of rape**
+**Mets-Brewers deliver record ratings for ESPN during Game 3 thriller**
 
-You can read more about it [here](https://pagesix.com/2024/10/04/celebrity-news/garth-brooks-gushed-over-wife-trisha-yearwood-before-being-accused-of-rape/).
+You can read more about it [here](https://nypost.com/2024/10/04/sports/mets-brewers-deliver-record-tv-ratings-for-espn-during-game-3-thriller/).
 
 ## Requirements
 - Python 3.8
