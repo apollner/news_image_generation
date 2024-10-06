@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haunted by 2016, Democrats fear Kamala Harris is playing it too safe**
+**Garth Brooks called wife Trisha Yearwood his ‘partner in good times’ and ‘bad’ days before being accused of rape**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/05/harris-30-days-00182592).
+You can read more about it [here](https://pagesix.com/2024/10/04/celebrity-news/garth-brooks-gushed-over-wife-trisha-yearwood-before-being-accused-of-rape/).
 
 ## Requirements
 - Python 3.8
