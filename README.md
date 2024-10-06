@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump returns to Butler for rally at site of assassination attempt**
+**Trump To Blame for Timing of Jack Smith's Bombshell Brief: Mary Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/10/05/politics/trump-returns-to-butler/index.html).
+You can read more about it [here](https://www.newsweek.com/mary-trump-jack-smith-donald-trump-indictment-1964292).
 
 ## Requirements
 - Python 3.8
