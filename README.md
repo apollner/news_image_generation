@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti: Gang opens fire killing at least 70 people**
+**Garth Brooks called wife Trisha Yearwood his ‘partner in good times’ and ‘bad’ days before being accused of rape**
 
-You can read more about it [here](https://www.dw.com/en/haiti-gang-opens-fire-killing-at-least-70-people/a-70410530).
+You can read more about it [here](https://pagesix.com/2024/10/04/celebrity-news/garth-brooks-gushed-over-wife-trisha-yearwood-before-being-accused-of-rape/).
 
 ## Requirements
 - Python 3.8
