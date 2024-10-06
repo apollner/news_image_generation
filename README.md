@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Artem Chigvintsev Responds After Nikki Garcia Says He Attacked Her**
+**All of Michigan could see Northern Lights this weekend: What to know**
 
-You can read more about it [here](https://www.eonline.com/news/1408182/artem-chigvintsev-responds-after-nikki-garcia-says-he-attacked-her).
+You can read more about it [here](https://www.clickondetroit.com/news/michigan/2024/10/05/better-chance-for-northern-lights-in-metro-detroit-saturday-night-what-to-know/).
 
 ## Requirements
 - Python 3.8
