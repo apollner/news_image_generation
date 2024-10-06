@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 70 dead in Haiti gang attack, U.N. says**
+**Why Critically Panned ‘Joker 2’ Could Still Be in the Awards Race for Lady Gaga and Joaquin Phoenix**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/04/haiti-gang-attack-pont-sonde-artibonite/).
+You can read more about it [here](https://variety.com/2024/film/awards/lady-gaga-joaquin-phoenix-joker-2-oscar-noms-1236161763/).
 
 ## Requirements
 - Python 3.8
