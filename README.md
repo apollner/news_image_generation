@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the deadly Marburg virus and where has it spread?**
+**Hurricane Helene: Political row erupts overs disaster relief**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/5/what-is-the-deadly-marburg-virus-and-where-has-it-spread).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y3qgqxpwno).
 
 ## Requirements
 - Python 3.8
