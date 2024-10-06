@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The northern lights could be visible in Massachusetts again. See the aurora forecast map.**
+**Haunted by 2016, Democrats fear Kamala Harris is playing it too safe**
 
-You can read more about it [here](https://www.cbsnews.com/boston/news/northern-lights-massachusetts-forecast-map/).
+You can read more about it [here](https://www.politico.com/news/2024/10/05/harris-30-days-00182592).
 
 ## Requirements
 - Python 3.8
