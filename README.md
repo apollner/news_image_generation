@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Critically Panned ‘Joker 2’ Could Still Be in the Awards Race for Lady Gaga and Joaquin Phoenix**
+**How worried should I be about rising oil prices?**
 
-You can read more about it [here](https://variety.com/2024/film/awards/lady-gaga-joaquin-phoenix-joker-2-oscar-noms-1236161763/).
+You can read more about it [here](https://www.bbc.com/news/articles/cgry10924jqo).
 
 ## Requirements
 - Python 3.8
