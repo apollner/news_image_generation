@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At Israel’s cafes and bars, life may seem normal. But the war has cast a pall nationwide**
+**Trump returns to Butler for rally at site of assassination attempt**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-gaza-war-israelis-mood-depression-28daf7e6aa8ddab419cf76e31b111d4f).
+You can read more about it [here](https://www.cnn.com/2024/10/05/politics/trump-returns-to-butler/index.html).
 
 ## Requirements
 - Python 3.8
