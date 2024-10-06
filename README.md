@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steelers have a Justin Fields blueprint -- will they use it?**
+**Northern Lights Update: Here’s Where Aurora Borealis Can Be Viewed Tonight**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41606898/pittsburgh-steelers-offense-justin-fields-vs-cowboys).
+You can read more about it [here](https://www.forbes.com/sites/antoniopequenoiv/2024/10/05/northern-lights-update-heres-where-aurora-borealis-can-be-viewed-tonight/).
 
 ## Requirements
 - Python 3.8
