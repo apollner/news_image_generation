@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ultra-processed foods have these repercussions on children's health, nutritionist warns**
+**The northern lights could be visible in Massachusetts again. See the aurora forecast map.**
 
-You can read more about it [here](https://www.foxnews.com/health/ultra-processed-foods-repercussions-childrens-health-nutritionist-warns).
+You can read more about it [here](https://www.cbsnews.com/boston/news/northern-lights-massachusetts-forecast-map/).
 
 ## Requirements
 - Python 3.8
