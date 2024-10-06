@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How worried should I be about rising oil prices?**
+**Artem Chigvintsev Responds After Nikki Garcia Says He Attacked Her**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cgry10924jqo).
+You can read more about it [here](https://www.eonline.com/news/1408182/artem-chigvintsev-responds-after-nikki-garcia-says-he-attacked-her).
 
 ## Requirements
 - Python 3.8
