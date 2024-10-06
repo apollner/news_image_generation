@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian rallies staged worldwide ahead of October 7 anniversary**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/10/05/world/video/october-7-protests-digvid).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
