@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She sought to prove her grandfather was poisoned at Camp Lejeune. Records she found could help thousands.**
+**Trump returns to Butler for rally at site of assassination attempt**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/sought-prove-grandfather-was-poisoned-camp-lejeune-records-found-help-rcna171679).
+You can read more about it [here](https://www.cnn.com/2024/10/05/politics/trump-returns-to-butler/index.html).
 
 ## Requirements
 - Python 3.8
