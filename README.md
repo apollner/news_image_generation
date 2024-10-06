@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Israel has given no assurances it won’t target Iran’s nuclear facilities, top State Department official tells CNN**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/10/04/politics/state-department-israel-no-assurances-irans-nuclear-facilities/index.html).
 
 ## Requirements
 - Python 3.8
