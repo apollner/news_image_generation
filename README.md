@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anne Hathaway Returns To ‘Princess Diaries 3’: “Miracles Happen”**
+**US warships and planes strike Houthi targets in Yemen**
 
-You can read more about it [here](http://deadline.com/2024/10/anne-hathaway-princess-diaries-3-return-1236108031/).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2ld3wxeyqo).
 
 ## Requirements
 - Python 3.8
