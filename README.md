@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Larry Summers says Fed’s big rate cut was a ‘mistake’ after hot jobs report**
+**At least 70 dead in Haiti gang attack, U.N. says**
 
-You can read more about it [here](https://nypost.com/2024/10/04/business/fed-made-mistake-slashing-rates-by-half-a-point-larry-summers/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/04/haiti-gang-attack-pont-sonde-artibonite/).
 
 ## Requirements
 - Python 3.8
