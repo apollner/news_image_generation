@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The week that pushed the Middle East closer to all-out war**
+**Helene destroyed this North Carolina campground, but customers and strangers are stepping in to help**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0r89qwwx2lo).
+You can read more about it [here](https://www.cbsnews.com/news/north-carolina-helene-mountain-river-family-campground/).
 
 ## Requirements
 - Python 3.8
