@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All of Michigan could see Northern Lights this weekend: What to know**
+**Gang attack in Haiti kills 70 people including infants**
 
-You can read more about it [here](https://www.clickondetroit.com/news/michigan/2024/10/05/better-chance-for-northern-lights-in-metro-detroit-saturday-night-what-to-know/).
+You can read more about it [here](https://www.cnn.com/2024/10/04/americas/haiti-gang-attack-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
