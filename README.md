@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Lights Update: Here’s Where Aurora Borealis Can Be Viewed Tonight**
+**NASA releases photo of ocean world. It shows why NASA's going there.**
 
-You can read more about it [here](https://www.forbes.com/sites/antoniopequenoiv/2024/10/05/northern-lights-update-heres-where-aurora-borealis-can-be-viewed-tonight/).
+You can read more about it [here](https://mashable.com/article/nasa-europa-clipper-moon-image-ocean).
 
 ## Requirements
 - Python 3.8
