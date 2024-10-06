@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets-Brewers deliver record ratings for ESPN during Game 3 thriller**
+**What is the deadly Marburg virus and where has it spread?**
 
-You can read more about it [here](https://nypost.com/2024/10/04/sports/mets-brewers-deliver-record-tv-ratings-for-espn-during-game-3-thriller/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/5/what-is-the-deadly-marburg-virus-and-where-has-it-spread).
 
 ## Requirements
 - Python 3.8
