@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How long will it take the supply chain to normalize after dockworkers strike?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxbusiness.com/economy/how-long-take-ports-return-normal-operations-after-dockworkers-strike).
 
 ## Requirements
 - Python 3.8
