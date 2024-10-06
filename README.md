@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump returns to Butler for rally at site of assassination attempt**
+**False claims about the federal response to Helene are an ominous sign for the coming election**
 
-You can read more about it [here](https://www.cnn.com/2024/10/05/politics/trump-returns-to-butler/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/05/media/hurricane-helene-fema-false-claims-recovery/index.html).
 
 ## Requirements
 - Python 3.8
