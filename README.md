@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Historic Biltmore Estate suffers ‘extensive’ damage in some places after Helene thrashes North Carolina**
+**Ultra-processed foods have these repercussions on children's health, nutritionist warns**
 
-You can read more about it [here](https://www.cnn.com/travel/biltmore-estate-damage-asheville-helene/index.html).
+You can read more about it [here](https://www.foxnews.com/health/ultra-processed-foods-repercussions-childrens-health-nutritionist-warns).
 
 ## Requirements
 - Python 3.8
