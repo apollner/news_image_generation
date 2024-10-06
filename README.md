@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**False claims about the federal response to Helene are an ominous sign for the coming election**
+**Lakers' LeBron James to make preseason debut vs. Suns after sitting out team's opener for 'rest'**
 
-You can read more about it [here](https://www.cnn.com/2024/10/05/media/hurricane-helene-fema-false-claims-recovery/index.html).
+You can read more about it [here](https://www.cbssports.com/nba/news/lakers-lebron-james-to-make-preseason-debut-vs-suns-after-missing-teams-opener-for-rest/).
 
 ## Requirements
 - Python 3.8
