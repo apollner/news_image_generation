@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How long will it take the supply chain to normalize after dockworkers strike?**
+**She sought to prove her grandfather was poisoned at Camp Lejeune. Records she found could help thousands.**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/how-long-take-ports-return-normal-operations-after-dockworkers-strike).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/sought-prove-grandfather-was-poisoned-camp-lejeune-records-found-help-rcna171679).
 
 ## Requirements
 - Python 3.8
