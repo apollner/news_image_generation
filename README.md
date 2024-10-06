@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helene destroyed this North Carolina campground, but customers and strangers are stepping in to help**
+**Garth Brooks called wife Trisha Yearwood his ‘partner in good times’ and ‘bad’ days before being accused of rape**
 
-You can read more about it [here](https://www.cbsnews.com/news/north-carolina-helene-mountain-river-family-campground/).
+You can read more about it [here](https://pagesix.com/2024/10/04/celebrity-news/garth-brooks-gushed-over-wife-trisha-yearwood-before-being-accused-of-rape/).
 
 ## Requirements
 - Python 3.8
