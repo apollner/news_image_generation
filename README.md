@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two more women in Massachusetts test positive for West Nile Virus**
+**Historic Biltmore Estate suffers ‘extensive’ damage in some places after Helene thrashes North Carolina**
 
-You can read more about it [here](https://www.wcvb.com/article/massachusetts-west-nile-virus-oct-4/62517520).
+You can read more about it [here](https://www.cnn.com/travel/biltmore-estate-damage-asheville-helene/index.html).
 
 ## Requirements
 - Python 3.8
