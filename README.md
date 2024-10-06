@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How did 50K dockworkers strike at US ports with only 25K jobs?**
+**The week that pushed the Middle East closer to all-out war**
 
-You can read more about it [here](https://nypost.com/2024/10/04/business/how-did-50k-dockworkers-strike-at-us-ports-with-only-25k-jobs/).
+You can read more about it [here](https://www.bbc.com/news/articles/c0r89qwwx2lo).
 
 ## Requirements
 - Python 3.8
