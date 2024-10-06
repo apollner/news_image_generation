@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA releases photo of ocean world. It shows why NASA's going there.**
+**At Israel’s cafes and bars, life may seem normal. But the war has cast a pall nationwide**
 
-You can read more about it [here](https://mashable.com/article/nasa-europa-clipper-moon-image-ocean).
+You can read more about it [here](https://apnews.com/article/israel-hamas-gaza-war-israelis-mood-depression-28daf7e6aa8ddab419cf76e31b111d4f).
 
 ## Requirements
 - Python 3.8
