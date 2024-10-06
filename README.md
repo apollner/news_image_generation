@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gang attack in Haiti kills 70 people including infants**
+**How did 50K dockworkers strike at US ports with only 25K jobs?**
 
-You can read more about it [here](https://www.cnn.com/2024/10/04/americas/haiti-gang-attack-intl-latam/index.html).
+You can read more about it [here](https://nypost.com/2024/10/04/business/how-did-50k-dockworkers-strike-at-us-ports-with-only-25k-jobs/).
 
 ## Requirements
 - Python 3.8
