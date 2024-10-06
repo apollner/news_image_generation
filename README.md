@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lakers' LeBron James to make preseason debut vs. Suns after sitting out team's opener for 'rest'**
+**Pro-Palestinian rallies staged worldwide ahead of October 7 anniversary**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/lakers-lebron-james-to-make-preseason-debut-vs-suns-after-missing-teams-opener-for-rest/).
+You can read more about it [here](https://www.cnn.com/2024/10/05/world/video/october-7-protests-digvid).
 
 ## Requirements
 - Python 3.8
