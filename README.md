@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Garth Brooks called wife Trisha Yearwood his ‘partner in good times’ and ‘bad’ days before being accused of rape**
+**Steelers have a Justin Fields blueprint -- will they use it?**
 
-You can read more about it [here](https://pagesix.com/2024/10/04/celebrity-news/garth-brooks-gushed-over-wife-trisha-yearwood-before-being-accused-of-rape/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41606898/pittsburgh-steelers-offense-justin-fields-vs-cowboys).
 
 ## Requirements
 - Python 3.8
