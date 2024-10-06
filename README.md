@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Helene: Political row erupts overs disaster relief**
+**Two more women in Massachusetts test positive for West Nile Virus**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y3qgqxpwno).
+You can read more about it [here](https://www.wcvb.com/article/massachusetts-west-nile-virus-oct-4/62517520).
 
 ## Requirements
 - Python 3.8
