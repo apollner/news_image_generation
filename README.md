@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope picks 21 new cardinals in move that broadens pool of who will choose his successor**
+**ADL CEO: Hamas’ October 7 attack triggered ‘tsunami’ of anti-Jewish hate**
 
-You can read more about it [here](https://www.cnn.com/2024/10/06/europe/pope-francis-new-cardinals-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/06/us/video/antisemitism-incidents-spike-us-hamas-israel-october-7-attack-adl-digvid).
 
 ## Requirements
 - Python 3.8
