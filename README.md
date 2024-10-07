@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris visits North Carolina, in second trip to areas ravaged by Helene**
+**Ohtani's HR part of Dodgers' rally in G1 of NLDS**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/05/kamala-harris-north-carolina-helene/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41634373/shohei-ohtani-dazzles-playoff-debut-dodgers-win-game-1).
 
 ## Requirements
 - Python 3.8
