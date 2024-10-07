@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**False claims about the federal response to Helene are an ominous sign for the coming election**
+**Biltmore Village near famous estate ravaged by Hurricane Helene: Before and after**
 
-You can read more about it [here](https://www.cnn.com/2024/10/05/media/hurricane-helene-fema-false-claims-recovery/index.html).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/biltmore-village-near-famous-estate-ravaged-hurricane-helene-before-after).
 
 ## Requirements
 - Python 3.8
