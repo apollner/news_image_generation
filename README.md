@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zac Taylor Explains Late Playcalling in Bengals’ Overtime Loss to Ravens**
+**[Removed]**
 
-You can read more about it [here](https://www.si.com/nfl/bengals/gameday/zac-taylor-explains-late-playcalling-in-bengals-overtime-loss-to-ravens-01j9hsjsdmmw).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
