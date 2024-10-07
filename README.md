@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump returns to Butler, Pennsylvania, after assassination attempt: "16 harrowing seconds"**
+**‘Joker’ sequel gets the last laugh as critical flop takes box office crown**
 
-You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/trump-rally-butler-pennsylvania/).
+You can read more about it [here](https://nypost.com/2024/10/05/entertainment/last-laugh-joker-folie-a-deux-earns-20m-on-opening-day/).
 
 ## Requirements
 - Python 3.8
