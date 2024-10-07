@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rates of sudden unexplained infant deaths increased during pandemic**
+**S&P’s $8 Trillion Rally Will Be Tested by Tricky Earnings Season**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/10/06/sids-baby-deaths-pandemic-rsv/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-06/s-p-s-8-trillion-rally-will-be-tested-by-tricky-earnings-season).
 
 ## Requirements
 - Python 3.8
