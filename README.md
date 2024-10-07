@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson punts on GOP rhetoric, 2020 election outcome**
+**Climbers rescued after three days on mountain in India**
 
-You can read more about it [here](https://abcnews.go.com/Politics/johnson-punts-gop-rhetoric-2020-election-outcome/story?id\\u003d114530238).
+You can read more about it [here](https://www.bbc.com/news/articles/c93y147z4pdo).
 
 ## Requirements
 - Python 3.8
