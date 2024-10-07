@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Try That in a Small Town’ One Year Later: Looking for Truth at a Jason Aldean Concert**
+**Johnson punts on GOP rhetoric, 2020 election outcome**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-features/jason-aldean-concert-review-try-that-in-a-small-town-1235125355/).
+You can read more about it [here](https://abcnews.go.com/Politics/johnson-punts-gop-rhetoric-2020-election-outcome/story?id\\u003d114530238).
 
 ## Requirements
 - Python 3.8
