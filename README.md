@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Joker’ sequel gets the last laugh as critical flop takes box office crown**
+**Fact check: Are Haitian immigrants in Springfield in the US illegally?**
 
-You can read more about it [here](https://nypost.com/2024/10/05/entertainment/last-laugh-joker-folie-a-deux-earns-20m-on-opening-day/).
+You can read more about it [here](https://www.aljazeera.com/features/2024/10/5/fact-check-are-haitian-immigrants-in-springfield-in-the-us-illegally).
 
 ## Requirements
 - Python 3.8
