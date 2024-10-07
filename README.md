@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Joker’ sequel gets the last laugh as critical flop takes box office crown**
+**Heavy strikes shake Beirut as Israel expands Lebanon campaign**
 
-You can read more about it [here](https://nypost.com/2024/10/05/entertainment/last-laugh-joker-folie-a-deux-earns-20m-on-opening-day/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/heavy-strikes-shake-beirut-israel-expands-lebanon-campaign-2024-10-05/).
 
 ## Requirements
 - Python 3.8
