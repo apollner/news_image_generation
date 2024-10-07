@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Milton intensifying, could hit Florida as a major hurricane next week**
+**Frontier Airlines jet appears to catch fire while landing at Las Vegas airport, FAA and NTSB investigating**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-milton-forms-gulf-of-mexico-florida/).
+You can read more about it [here](https://abcnews.go.com/US/frontier-airlines-jet-catches-fire-landing-las-vegas/story?id\\u003d114534255).
 
 ## Requirements
 - Python 3.8
