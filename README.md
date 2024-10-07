@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The power of water.’ How Helene devastated western North Carolina and left communities in ruins**
+**US Inflation Is Set to Reassure a Labor Market-Focused Fed**
 
-You can read more about it [here](https://www.cnn.com/2024/10/06/us/how-helene-devastated-western-north-carolina/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/us-inflation-set-reassure-labor-200000086.html).
 
 ## Requirements
 - Python 3.8
