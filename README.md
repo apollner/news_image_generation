@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tunisia to vote for president as the incumbent consolidates power**
+**‘The power of water.’ How Helene devastated western North Carolina and left communities in ruins**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/05/tunisia-elections-free-fair-saied-kais/).
+You can read more about it [here](https://www.cnn.com/2024/10/06/us/how-helene-devastated-western-north-carolina/index.html).
 
 ## Requirements
 - Python 3.8
