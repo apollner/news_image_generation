@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why so many entry-level jobs aren't entry-level**
+**Frontier Airlines plane has fiery landing at Las Vegas airport**
 
-You can read more about it [here](https://www.businessinsider.com/entry-level-jobs-tech-roles-require-years-of-experience-2024-10).
+You can read more about it [here](https://www.foxbusiness.com/lifestyle/frontier-airlines-plane-fiery-landing-las-vegas-airport).
 
 ## Requirements
 - Python 3.8
