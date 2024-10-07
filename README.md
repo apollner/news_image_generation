@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frontier Airlines plane has fiery landing at Las Vegas airport**
+**Pope picks 21 new cardinals in move that broadens pool of who will choose his successor**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/frontier-airlines-plane-fiery-landing-las-vegas-airport).
+You can read more about it [here](https://www.cnn.com/2024/10/06/europe/pope-francis-new-cardinals-intl/index.html).
 
 ## Requirements
 - Python 3.8
