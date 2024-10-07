@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands join pro-Palestinian rallies around the globe as Oct. 7 anniversary nears**
+**Fact check: Are Haitian immigrants in Springfield in the US illegally?**
 
-You can read more about it [here](https://apnews.com/article/mideast-israel-gaza-war-protests-rallies-propalestine-terror-alerts-b314ac9fc24ab91e3c0639405a15d5d0).
+You can read more about it [here](https://www.aljazeera.com/features/2024/10/5/fact-check-are-haitian-immigrants-in-springfield-in-the-us-illegally).
 
 ## Requirements
 - Python 3.8
