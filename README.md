@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After a year of war, Gazans wonder how to deal with tonnes of rubble**
+**Trump returns to Butler, Pennsylvania, after assassination attempt: "16 harrowing seconds"**
 
-You can read more about it [here](https://www.reuters.com/investigations/after-year-war-gazans-wonder-how-deal-with-tonnes-rubble-2024-10-06/).
+You can read more about it [here](https://www.cbsnews.com/pittsburgh/news/trump-rally-butler-pennsylvania/).
 
 ## Requirements
 - Python 3.8
