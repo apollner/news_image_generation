@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heavy strikes shake Beirut as Israel expands Lebanon campaign**
+**City leaders react amid resignation of Chicago Board of Education**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/heavy-strikes-shake-beirut-israel-expands-lebanon-campaign-2024-10-05/).
+You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-school-board-resignation/).
 
 ## Requirements
 - Python 3.8
