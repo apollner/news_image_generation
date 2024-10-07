@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris attacks Trump with new Jack Smith revelations**
+**Tropical Storm Milton intensifying, could hit Florida as a major hurricane next week**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/06/harris-trump-jack-smith-ad-00182628).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-milton-forms-gulf-of-mexico-florida/).
 
 ## Requirements
 - Python 3.8
