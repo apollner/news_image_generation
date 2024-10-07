@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Replay: Harris visits North Carolina for update on Helene recovery, helps at donation center**
+**‘Joker’ sequel gets the last laugh as critical flop takes box office crown**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/05/kamala-harris-north-carolina-hurricane-helene/75531129007/).
+You can read more about it [here](https://nypost.com/2024/10/05/entertainment/last-laugh-joker-folie-a-deux-earns-20m-on-opening-day/).
 
 ## Requirements
 - Python 3.8
