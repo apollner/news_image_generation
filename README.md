@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Frontier Airlines jet appears to catch fire while landing at Las Vegas airport, FAA and NTSB investigating**
+**‘Try That in a Small Town’ One Year Later: Looking for Truth at a Jason Aldean Concert**
 
-You can read more about it [here](https://abcnews.go.com/US/frontier-airlines-jet-catches-fire-landing-las-vegas/story?id\\u003d114534255).
+You can read more about it [here](http://www.rollingstone.com/music/music-features/jason-aldean-concert-review-try-that-in-a-small-town-1235125355/).
 
 ## Requirements
 - Python 3.8
