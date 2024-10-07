@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The power of water.’ How Helene devastated western North Carolina and left communities in ruins**
+**New York Dems are queasy over Cuomo’s potential comeback**
 
-You can read more about it [here](https://www.cnn.com/2024/10/06/us/how-helene-devastated-western-north-carolina/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/10/06/new-york-dems-cuomos-00182596).
 
 ## Requirements
 - Python 3.8
