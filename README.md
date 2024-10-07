@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biltmore Village near famous estate ravaged by Hurricane Helene: Before and after**
+**Northern lights could be visible over New Hampshire Saturday night**
 
-You can read more about it [here](https://www.foxbusiness.com/lifestyle/biltmore-village-near-famous-estate-ravaged-hurricane-helene-before-after).
+You can read more about it [here](https://www.wmur.com/article/northern-lights-could-be-visible-new-hampshire-10524/62519518).
 
 ## Requirements
 - Python 3.8
