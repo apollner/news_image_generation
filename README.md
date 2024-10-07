@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climbers rescued after three days on mountain in India**
+**Iranian general who vowed to ‘see dead bodies of Americans all over the Middle East’ possibly killed in Israeli airstrike**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c93y147z4pdo).
+You can read more about it [here](https://nypost.com/2024/10/06/world-news/iranian-gen-esmail-qaani-possibly-killed-in-israeli-airstrike/).
 
 ## Requirements
 - Python 3.8
