@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ADL CEO: Hamas’ October 7 attack triggered ‘tsunami’ of anti-Jewish hate**
+**Rates of sudden unexplained infant deaths increased during pandemic**
 
-You can read more about it [here](https://www.cnn.com/2024/10/06/us/video/antisemitism-incidents-spike-us-hamas-israel-october-7-attack-adl-digvid).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/06/sids-baby-deaths-pandemic-rsv/).
 
 ## Requirements
 - Python 3.8
