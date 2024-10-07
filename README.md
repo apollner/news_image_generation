@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Milton intensifying, could hit Florida as a major hurricane next week**
+**Zac Taylor Explains Late Playcalling in Bengals’ Overtime Loss to Ravens**
 
-You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-milton-forms-gulf-of-mexico-florida/).
+You can read more about it [here](https://www.si.com/nfl/bengals/gameday/zac-taylor-explains-late-playcalling-in-bengals-overtime-loss-to-ravens-01j9hsjsdmmw).
 
 ## Requirements
 - Python 3.8
