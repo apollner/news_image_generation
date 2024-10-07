@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**City leaders react amid resignation of Chicago Board of Education**
+**Tunisia to vote for president as the incumbent consolidates power**
 
-You can read more about it [here](https://wgntv.com/news/chicago-news/chicago-school-board-resignation/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/05/tunisia-elections-free-fair-saied-kais/).
 
 ## Requirements
 - Python 3.8
