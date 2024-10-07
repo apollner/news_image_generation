@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iranian general who vowed to ‘see dead bodies of Americans all over the Middle East’ possibly killed in Israeli airstrike**
+**Tropical Storm Milton intensifying, could hit Florida as a major hurricane next week**
 
-You can read more about it [here](https://nypost.com/2024/10/06/world-news/iranian-gen-esmail-qaani-possibly-killed-in-israeli-airstrike/).
+You can read more about it [here](https://www.cbsnews.com/news/tropical-storm-milton-forms-gulf-of-mexico-florida/).
 
 ## Requirements
 - Python 3.8
