@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: Are Haitian immigrants in Springfield in the US illegally?**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/features/2024/10/5/fact-check-are-haitian-immigrants-in-springfield-in-the-us-illegally).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
