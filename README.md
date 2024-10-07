@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P’s $8 Trillion Rally Will Be Tested by Tricky Earnings Season**
+**US officials struggle to quash Hurricane Helene conspiracy theories**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-06/s-p-s-8-trillion-rally-will-be-tested-by-tricky-earnings-season).
+You can read more about it [here](https://www.reuters.com/world/us/us-officials-struggle-quash-hurricane-helene-conspiracy-theories-2024-10-05/).
 
 ## Requirements
 - Python 3.8
