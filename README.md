@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern lights could be visible over New Hampshire Saturday night**
+**Thousands join pro-Palestinian rallies around the globe as Oct. 7 anniversary nears**
 
-You can read more about it [here](https://www.wmur.com/article/northern-lights-could-be-visible-new-hampshire-10524/62519518).
+You can read more about it [here](https://apnews.com/article/mideast-israel-gaza-war-protests-rallies-propalestine-terror-alerts-b314ac9fc24ab91e3c0639405a15d5d0).
 
 ## Requirements
 - Python 3.8
