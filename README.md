@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel marks October 7 attack anniversary as Middle East conflict escalates**
+**Statement from President Joe Biden Marking One Year Since the October 7th Attack**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-hamas-attack-anniversary-war-11-07-24-intl-hnk/index.html).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-president-joe-biden-marking-one-year-since-the-october-7th-attack/).
 
 ## Requirements
 - Python 3.8
