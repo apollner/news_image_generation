@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris talks abortion and more on 'Call Her Daddy' podcast as Democratic ticket steps up interviews**
+**Padres-Dodgers delayed after fans throw objects**
 
-You can read more about it [here](https://apnews.com/article/walz-harris-media-interview-presidential-campaign-83325184cd7f93ca505df590f7a27ede).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41653441/padres-dodgers-nlds-game-2-delayed-fans-throw-objects-field).
 
 ## Requirements
 - Python 3.8
