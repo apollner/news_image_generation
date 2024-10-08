@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Dems are queasy over Cuomo’s potential comeback**
+**Cincinnati Bengals Players Question Lack of Aggression in OT Possession as Team Repeats Mistake From 2021 Loss**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/06/new-york-dems-cuomos-00182596).
+You can read more about it [here](https://www.si.com/nfl/bengals/cincinnati-bengals-players-question-lack-of-aggression-in-ot-possession-as-team-repeats-mistake-from-2021-loss-01j9hye3r4t5).
 
 ## Requirements
 - Python 3.8
