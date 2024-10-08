@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia jails US citizen Stephen Hubbard, 72, on mercenary charges**
+**Joaquin Phoenix's Joker 2 deliver disappointing numbers at the US Box office after a flop opening**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crr5n4nlg79o).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/joaquin-phoenixs-joker-2-deliver-disappointing-numbers-at-the-us-box-office-after-a-flop-opening-101728280779000.html).
 
 ## Requirements
 - Python 3.8
