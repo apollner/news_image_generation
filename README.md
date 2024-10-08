@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Joker: Folie à Deux’ Lower In Opening With $37M+ After ‘D’ CinemaScore – Box Office**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/10/joker-folie-a-deux-box-office-1236109191/).
 
 ## Requirements
 - Python 3.8
