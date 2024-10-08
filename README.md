@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexican mayor assassinated days after taking office**
+**Statement from President Joe Biden Marking One Year Since the October 7th Attack**
 
-You can read more about it [here](https://ca.news.yahoo.com/mexican-mayor-assassinated-days-taking-040533725.html).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-president-joe-biden-marking-one-year-since-the-october-7th-attack/).
 
 ## Requirements
 - Python 3.8
