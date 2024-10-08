@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fauci feared he would never ‘return to normal’ after contracting West Nile virus**
+**Swing state election officials were ready for anything. Not this.**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4919812-fauci-recovery-west-nile-virus/).
+You can read more about it [here](https://www.politico.com/news/2024/10/07/hurricane-helene-election-nc-ga-voting-00182602).
 
 ## Requirements
 - Python 3.8
