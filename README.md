@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden Marking One Year Since the October 7th Attack**
+**Key US Yields Hit 4% for First Time Since August on Fed Rethink**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/10/07/statement-from-president-joe-biden-marking-one-year-since-the-october-7th-attack/).
+You can read more about it [here](https://finance.yahoo.com/news/key-us-yields-near-4-074137831.html/).
 
 ## Requirements
 - Python 3.8
