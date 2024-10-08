@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: Six days of Trump lies about the Hurricane Helene response**
+**Predictions for Chiefs' Week 5 matchup against Saints on 'Monday Night Football'**
 
-You can read more about it [here](https://www.cnn.com/2024/10/06/politics/fact-check-trump-helene-response-north-carolina/index.html).
+You can read more about it [here](https://chiefswire.usatoday.com/lists/chiefs-saints-monday-night-footballl-predictions/).
 
 ## Requirements
 - Python 3.8
