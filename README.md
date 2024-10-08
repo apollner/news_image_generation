@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades**
+**Rio Tinto in Talks to Acquire Arcadium Lithium**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/).
+You can read more about it [here](https://www.wsj.com/business/rio-tinto-in-talks-to-acquire-arcadium-lithium-5ed3b1fc).
 
 ## Requirements
 - Python 3.8
