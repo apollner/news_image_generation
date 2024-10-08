@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Swing state election officials were ready for anything. Not this.**
+**Fact check: Six days of Trump lies about the Hurricane Helene response**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/07/hurricane-helene-election-nc-ga-voting-00182602).
+You can read more about it [here](https://www.cnn.com/2024/10/06/politics/fact-check-trump-helene-response-north-carolina/index.html).
 
 ## Requirements
 - Python 3.8
