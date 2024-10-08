@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Sean Combs’ mother says she’s ‘devastated and profoundly saddened’ by allegations against him**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/10/07/entertainment/sean-diddy-combs-janice-statement/index.html).
 
 ## Requirements
 - Python 3.8
