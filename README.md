@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Swing state election officials were ready for anything. Not this.**
+**Dow tumbles 400 points as 10-year yield tops 4%, oil jumps: Live updates**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/07/hurricane-helene-election-nc-ga-voting-00182602).
+You can read more about it [here](https://www.cnbc.com/2024/10/06/stock-market-news-today.html).
 
 ## Requirements
 - Python 3.8
