@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10-year Treasury yield hits 4% keeping equity bulls in check**
+**[Removed]**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-07/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
