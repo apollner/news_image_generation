@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 5 NFL Takeaways: Caleb Williams Playing Like the No. 1 Pick in the Draft**
+**Mexican mayor assassinated days after taking office**
 
-You can read more about it [here](https://www.si.com/nfl/week-5-nfl-takeaways-caleb-williams-playing-like-no-1-pick-in-draft).
+You can read more about it [here](https://ca.news.yahoo.com/mexican-mayor-assassinated-days-taking-040533725.html).
 
 ## Requirements
 - Python 3.8
