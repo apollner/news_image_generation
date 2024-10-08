@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overdose deaths decline sharply after years of fentanyl-fueled surges**
+**Russia jails US citizen Stephen Hubbard, 72, on mercenary charges**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/10/07/overdose-deaths-decline/).
+You can read more about it [here](https://www.bbc.com/news/articles/crr5n4nlg79o).
 
 ## Requirements
 - Python 3.8
