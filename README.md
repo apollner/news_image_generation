@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alleged M4 MacBook Pro Unboxing Video Reveals These Four Upgrades**
+**Israel intensifies bombardment of Gaza and southern Lebanon ahead of Oct. 7 anniversary**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/06/alleged-m4-macbook-pro-unboxing-video/).
+You can read more about it [here](https://apnews.com/article/mideast-wars-lebanon-hezbollah-hamas-6-october-2024-0210e9d539a899e21ee89b52807b6af7).
 
 ## Requirements
 - Python 3.8
