@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Follows Asteroid Moving Closer to Earth from Sun’s Orbit**
+**Harris talks abortion and more on 'Call Her Daddy' podcast as Democratic ticket steps up interviews**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/nasa-follows-asteroid-moving-closer-to-earth-from-sun-s-orbit/7809482.html).
+You can read more about it [here](https://apnews.com/article/walz-harris-media-interview-presidential-campaign-83325184cd7f93ca505df590f7a27ede).
 
 ## Requirements
 - Python 3.8
