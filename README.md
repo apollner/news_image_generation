@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli hostage family's fight 'not over' one year on**
+**Week 5 NFL Takeaways: Caleb Williams Playing Like the No. 1 Pick in the Draft**
 
-You can read more about it [here](https://www.bbc.com/news/videos/c625nlxjpz7o).
+You can read more about it [here](https://www.si.com/nfl/week-5-nfl-takeaways-caleb-williams-playing-like-no-1-pick-in-draft).
 
 ## Requirements
 - Python 3.8
