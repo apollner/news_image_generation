@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key US Yields Hit 4% for First Time Since August on Fed Rethink**
+**CNBC Daily Open: September’s blockbuster jobs report changes the calculus**
 
-You can read more about it [here](https://finance.yahoo.com/news/key-us-yields-near-4-074137831.html/).
+You can read more about it [here](https://www.cnbc.com/2024/10/07/cnbc-daily-open-septembers-jobs-report-changes-the-calculus.html).
 
 ## Requirements
 - Python 3.8
