@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos 34, Raiders 18: Biggest Studs & Duds**
+**[Removed]**
 
-You can read more about it [here](https://www.si.com/nfl/broncos/news/broncos-beat-raiders-biggest-studs-duds-week-5).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
