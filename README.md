@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow tumbles 400 points as 10-year yield tops 4%, oil jumps: Live updates**
+**Fauci feared he would never ‘return to normal’ after contracting West Nile virus**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/06/stock-market-news-today.html).
+You can read more about it [here](https://thehill.com/policy/healthcare/4919812-fauci-recovery-west-nile-virus/).
 
 ## Requirements
 - Python 3.8
