@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Padres-Dodgers delayed after fans throw objects**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41653441/padres-dodgers-nlds-game-2-delayed-fans-throw-objects-field).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
