@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Predictions for Chiefs' Week 5 matchup against Saints on 'Monday Night Football'**
+**Cissy Houston, Whitney Houston’s mother and a Grammy-winning singer, dies at 91**
 
-You can read more about it [here](https://chiefswire.usatoday.com/lists/chiefs-saints-monday-night-footballl-predictions/).
+You can read more about it [here](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6).
 
 ## Requirements
 - Python 3.8
