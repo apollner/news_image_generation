@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia jails US citizen Stephen Hubbard, 72, on mercenary charges**
+**Activist Starboard Value Takes $1 Billion Stake in Pfizer**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crr5n4nlg79o).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-07/activist-firm-starboard-value-takes-1-billion-stake-in-pfizer).
 
 ## Requirements
 - Python 3.8
