@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNBC Daily Open: September’s blockbuster jobs report changes the calculus**
+**Russia jails US citizen Stephen Hubbard, 72, on mercenary charges**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/07/cnbc-daily-open-septembers-jobs-report-changes-the-calculus.html).
+You can read more about it [here](https://www.bbc.com/news/articles/crr5n4nlg79o).
 
 ## Requirements
 - Python 3.8
