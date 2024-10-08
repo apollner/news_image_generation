@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Activist Starboard Value Takes $1 Billion Stake in Pfizer**
+**Broncos 34, Raiders 18: Biggest Studs & Duds**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-07/activist-firm-starboard-value-takes-1-billion-stake-in-pfizer).
+You can read more about it [here](https://www.si.com/nfl/broncos/news/broncos-beat-raiders-biggest-studs-duds-week-5).
 
 ## Requirements
 - Python 3.8
