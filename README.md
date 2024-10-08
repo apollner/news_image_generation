@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Snapshot: Misinformation miring Hurricane Helene response**
+**NASA Follows Asteroid Moving Closer to Earth from Sun’s Orbit**
 
-You can read more about it [here](https://www.axios.com/2024/10/06/sunday-snapshot-misinformation-helene-fema).
+You can read more about it [here](https://learningenglish.voanews.com/a/nasa-follows-asteroid-moving-closer-to-earth-from-sun-s-orbit/7809482.html).
 
 ## Requirements
 - Python 3.8
