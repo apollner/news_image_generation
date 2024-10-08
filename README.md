@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Follows Asteroid Moving Closer to Earth from Sun’s Orbit**
+**Pro-Palestinian protestors halt traffic on Storrow Drive ahead of anniversary of Oct. 7 Hamas attack**
 
-You can read more about it [here](https://learningenglish.voanews.com/a/nasa-follows-asteroid-moving-closer-to-earth-from-sun-s-orbit/7809482.html).
+You can read more about it [here](https://www.boston25news.com/news/local/pro-palestinian-protestors-halt-traffic-storrow-drive-ahead-oct-7-hamas-attack-anniversary/MFY2AJGTPJD4HJADHE6I52YQ6U/).
 
 ## Requirements
 - Python 3.8
