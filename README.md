@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati Bengals Players Question Lack of Aggression in OT Possession as Team Repeats Mistake From 2021 Loss**
+**Sunday Snapshot: Misinformation miring Hurricane Helene response**
 
-You can read more about it [here](https://www.si.com/nfl/bengals/cincinnati-bengals-players-question-lack-of-aggression-in-ot-possession-as-team-repeats-mistake-from-2021-loss-01j9hye3r4t5).
+You can read more about it [here](https://www.axios.com/2024/10/06/sunday-snapshot-misinformation-helene-fema).
 
 ## Requirements
 - Python 3.8
