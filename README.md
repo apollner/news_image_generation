@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joaquin Phoenix's Joker 2 deliver disappointing numbers at the US Box office after a flop opening**
+**Overdose deaths decline sharply after years of fentanyl-fueled surges**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/joaquin-phoenixs-joker-2-deliver-disappointing-numbers-at-the-us-box-office-after-a-flop-opening-101728280779000.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/07/overdose-deaths-decline/).
 
 ## Requirements
 - Python 3.8
