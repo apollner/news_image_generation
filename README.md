@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel intensifies bombardment of Gaza and southern Lebanon ahead of Oct. 7 anniversary**
+**NASA Follows Asteroid Moving Closer to Earth from Sun’s Orbit**
 
-You can read more about it [here](https://apnews.com/article/mideast-wars-lebanon-hezbollah-hamas-6-october-2024-0210e9d539a899e21ee89b52807b6af7).
+You can read more about it [here](https://learningenglish.voanews.com/a/nasa-follows-asteroid-moving-closer-to-earth-from-sun-s-orbit/7809482.html).
 
 ## Requirements
 - Python 3.8
