@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 5 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
+**Israeli hostage family's fight 'not over' one year on**
 
-You can read more about it [here](https://bleacherreport.com/articles/10138286-week-5-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
+You can read more about it [here](https://www.bbc.com/news/videos/c625nlxjpz7o).
 
 ## Requirements
 - Python 3.8
