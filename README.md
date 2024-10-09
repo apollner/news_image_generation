@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Says It Will Appeal Ruling Allowing Rival App Stores on Android Devices**
+**Carlos Rodon falls apart against Royals in all too familiar Yankees scene**
 
-You can read more about it [here](https://www.barrons.com/articles/google-epic-games-lawsuit-e5258c5c).
+You can read more about it [here](https://nypost.com/2024/10/07/sports/carlos-rodon-falls-apart-against-royals-in-yankees-disaster/).
 
 ## Requirements
 - Python 3.8
