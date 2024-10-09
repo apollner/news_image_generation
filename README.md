@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jets fire head coach Robert Saleh after 20-36 record over 3-plus seasons: 'We are not where we should be'**
+**The Best Prime Day Deals on AirPods, Apple Watch, and More**
 
-You can read more about it [here](https://sports.yahoo.com/jets-fire-head-coach-robert-saleh-after-20-36-record-in-3-plus-seasons-we-are-not-where-we-should-be-141224637.html).
+You can read more about it [here](https://www.macrumors.com/2024/10/08/the-best-prime-day-deals-october-2024/).
 
 ## Requirements
 - Python 3.8
