@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Listen Live: Supreme Court hears arguments in challenge to ATF's ghost gun rule**
+**Tampa Bay hasn’t been hit directly by a major hurricane since 1921. Milton may be the one**
 
-You can read more about it [here](https://www.cbsnews.com/news/supreme-court-ghost-gun-atf-arguments/).
+You can read more about it [here](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac).
 
 ## Requirements
 - Python 3.8
