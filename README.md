@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Until Dawn PS5 and PC Remake Suffers a Rough Launch**
+**SpaceX rocket snaps amazing views of Earth during Hera asteroid probe launch (photos)**
 
-You can read more about it [here](https://www.ign.com/articles/until-dawn-ps5-and-pc-remake-suffers-a-rough-launch).
+You can read more about it [here](https://www.space.com/spacex-falcon-9-hera-launch-earth-photos).
 
 ## Requirements
 - Python 3.8
