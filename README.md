@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carlos Rodon falls apart against Royals in all too familiar Yankees scene**
+**Yankees vs. Royals score: Live updates as Aaron Judge, Juan Soto go for 2-0 series lead in ALDS Game 2**
 
-You can read more about it [here](https://nypost.com/2024/10/07/sports/carlos-rodon-falls-apart-against-royals-in-yankees-disaster/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-kansas-city-evens-alds-as-new-yorks-bats-go-quiet-in-game-2-loss/live/).
 
 ## Requirements
 - Python 3.8
