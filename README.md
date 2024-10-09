@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In landmark move, EPA requires removal of all U.S. lead pipes in a decade**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-solutions/2024/10/08/epa-lead-pipe-removal-rule-drinking-water/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
