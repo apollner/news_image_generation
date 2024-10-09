@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees vs. Royals score: Live updates as Aaron Judge, Juan Soto go for 2-0 series lead in ALDS Game 2**
+**Misinformation has surged following Hurricane Helene. Here's a fact check.**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-kansas-city-evens-alds-as-new-yorks-bats-go-quiet-in-game-2-loss/live/).
+You can read more about it [here](https://www.cbsnews.com/news/hurricane-helene-fact-check-misinformation-conspiracy-theories/).
 
 ## Requirements
 - Python 3.8
