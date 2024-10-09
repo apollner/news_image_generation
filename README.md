@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu says Israel has 'taken out' Nasrallah's successors**
+**James Cleverly emerges as frontrunner in UK Conservatives leadership race**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-israel-has-taken-out-nasrallahs-successors-2024-10-08/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/8/james-cleverly-emerges-as-frontrunner-in-uk-conservatives-leadership-race).
 
 ## Requirements
 - Python 3.8
