@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift excitedly hugs pregnant Brittany Mahomes at Chiefs vs. Saints game following feud rumors**
+**Overdose deaths down in Sacramento County, as San Joaquin County sees increase**
 
-You can read more about it [here](https://pagesix.com/2024/10/07/celebrity-news/taylor-swift-excitedly-hugs-pregnant-brittany-mahomes-at-chiefs-vs-saints-game-following-feud-rumors/).
+You can read more about it [here](https://www.kcra.com/article/overdose-deaths-down-sacramento-county/62535780).
 
 ## Requirements
 - Python 3.8
