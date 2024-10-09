@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Misinformation has surged following Hurricane Helene. Here's a fact check.**
+**CIA director warns "misjudgments" could further escalate conflict in Middle East**
 
-You can read more about it [here](https://www.cbsnews.com/news/hurricane-helene-fact-check-misinformation-conspiracy-theories/).
+You can read more about it [here](https://www.cbsnews.com/news/cia-director-william-burns-warns-misjudgments-could-escalate-conflict-israel-hamas-lebanon/).
 
 ## Requirements
 - Python 3.8
