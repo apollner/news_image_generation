@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overdose deaths down in Sacramento County, as San Joaquin County sees increase**
+**Israel marks year since Hamas attacks as fighting rages**
 
-You can read more about it [here](https://www.kcra.com/article/overdose-deaths-down-sacramento-county/62535780).
+You can read more about it [here](https://www.bbc.com/news/articles/c4g57q20l1vo).
 
 ## Requirements
 - Python 3.8
