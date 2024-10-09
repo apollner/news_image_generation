@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 10 Best Apple Deals Under $100 for Prime Day**
+**Kamala Harris says Iran is ‘greatest adversary’ of US**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/08/under-100-for-prime-day/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/8/kamala-harris-says-iran-is-greatest-adversary-of-us).
 
 ## Requirements
 - Python 3.8
