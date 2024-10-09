@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oct. 7 attack: Pro-Palestinian protesters march throughout NYC's Lower Manhattan one year later**
+**Google Says It Will Appeal Ruling Allowing Rival App Stores on Android Devices**
 
-You can read more about it [here](https://abc7ny.com/post/oct-7-attack-pro-palestinian-protests-college-walkouts-expected-nyc-year-later/15400675/).
+You can read more about it [here](https://www.barrons.com/articles/google-epic-games-lawsuit-e5258c5c).
 
 ## Requirements
 - Python 3.8
