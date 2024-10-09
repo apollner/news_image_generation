@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX rocket snaps amazing views of Earth during Hera asteroid probe launch (photos)**
+**Inside the ‘Joker: Folie à Deux’ Debacle: Todd Phillips ‘Wanted Nothing to Do’ With DC on the $200 Million Misfire**
 
-You can read more about it [here](https://www.space.com/spacex-falcon-9-hera-launch-earth-photos).
+You can read more about it [here](https://variety.com/2024/film/news/joker-folie-a-deux-bombs-what-went-wrong-todd-phillips-1236170946/).
 
 ## Requirements
 - Python 3.8
