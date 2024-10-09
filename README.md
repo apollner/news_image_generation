@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Overdose deaths down in Sacramento County, as San Joaquin County sees increase**
+**Taylor Swift’s dad Scott joins her in suite for Travis Kelce’s Chiefs game**
 
-You can read more about it [here](https://www.kcra.com/article/overdose-deaths-down-sacramento-county/62535780).
+You can read more about it [here](https://nypost.com/2024/10/07/sports/taylor-swifts-dad-scott-joins-her-for-travis-kelces-chiefs-game/).
 
 ## Requirements
 - Python 3.8
