@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With economic-growth faith, China to front-load 100 billion yuan: as it happened**
+**Listen Live: Supreme Court hears arguments in challenge to ATF's ghost gun rule**
 
-You can read more about it [here](https://www.scmp.com/economy/policy/article/3281464/chinas-top-economic-planner-set-unveil-wide-ranging-action-plan).
+You can read more about it [here](https://www.cbsnews.com/news/supreme-court-ghost-gun-atf-arguments/).
 
 ## Requirements
 - Python 3.8
