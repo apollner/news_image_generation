@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PepsiCo trims revenue outlook as North American snacking, key international markets lag**
+**Israel marks year since Hamas attacks as fighting rages**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/08/pepsico-pep-q3-2024-earnings.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c4g57q20l1vo).
 
 ## Requirements
 - Python 3.8
