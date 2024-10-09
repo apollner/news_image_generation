@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift’s dad Scott joins her in suite for Travis Kelce’s Chiefs game**
+**PepsiCo trims revenue outlook as North American snacking, key international markets lag**
 
-You can read more about it [here](https://nypost.com/2024/10/07/sports/taylor-swifts-dad-scott-joins-her-for-travis-kelces-chiefs-game/).
+You can read more about it [here](https://www.cnbc.com/2024/10/08/pepsico-pep-q3-2024-earnings.html).
 
 ## Requirements
 - Python 3.8
