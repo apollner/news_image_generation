@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian court sentences 72-year-old American to prison for fighting in Ukraine**
+**Oct. 7 attack: Pro-Palestinian protesters march throughout NYC's Lower Manhattan one year later**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/07/russian-court-sentences-72-year-old-american-to-prison-for-fighting-in-ukraine-00182773).
+You can read more about it [here](https://abc7ny.com/post/oct-7-attack-pro-palestinian-protests-college-walkouts-expected-nyc-year-later/15400675/).
 
 ## Requirements
 - Python 3.8
