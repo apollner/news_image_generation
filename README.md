@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the ‘Joker: Folie à Deux’ Debacle: Todd Phillips ‘Wanted Nothing to Do’ With DC on the $200 Million Misfire**
+**Jets fire head coach Robert Saleh after 20-36 record over 3-plus seasons: 'We are not where we should be'**
 
-You can read more about it [here](https://variety.com/2024/film/news/joker-folie-a-deux-bombs-what-went-wrong-todd-phillips-1236170946/).
+You can read more about it [here](https://sports.yahoo.com/jets-fire-head-coach-robert-saleh-after-20-36-record-in-3-plus-seasons-we-are-not-where-we-should-be-141224637.html).
 
 ## Requirements
 - Python 3.8
