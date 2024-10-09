@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cissy Houston, Whitney Houston’s mother and a Grammy-winning singer, dies at 91**
+**NASA: New Insights into How Mars Became Uninhabitable**
 
-You can read more about it [here](https://apnews.com/article/cissy-houston-dead-whitney-houston-mother-de8e3486134c7acd599ee3f16fb997c6).
+You can read more about it [here](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/).
 
 ## Requirements
 - Python 3.8
