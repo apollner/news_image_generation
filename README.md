@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia stock heads for fifth day of gains as Wall Street stays bullish on AI**
+**Netanyahu says Israel has 'taken out' Nasrallah's successors**
 
-You can read more about it [here](https://finance.yahoo.com/news/nvidia-notches-fifth-day-of-gains-as-wall-street-stays-bullish-on-ai-182232404.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/netanyahu-says-israel-has-taken-out-nasrallahs-successors-2024-10-08/).
 
 ## Requirements
 - Python 3.8
