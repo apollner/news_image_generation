@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rashee Rice likely out for season in Chiefs injury blow**
+**New Orleans Saints vs. Kansas City Chiefs Game Highlights | NFL 2024 Week 5**
 
-You can read more about it [here](https://nypost.com/2024/10/07/sports/rashee-rice-likely-out-for-season-in-chiefs-injury-blow/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
