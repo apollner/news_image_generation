@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest moves midday: Nvidia, DocuSign, Alibaba, Las Vegas Sands and more**
+**Musk’s X to be reinstated in Brazil after complying with Supreme Court demands**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/08/stocks-making-the-biggest-moves-midday-nvda-docu-baba-lvs-and-more.html).
+You can read more about it [here](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7).
 
 ## Requirements
 - Python 3.8
