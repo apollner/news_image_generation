@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s next MacBook Pros might have leaked in Russia**
+**Rashee Rice likely out for season in Chiefs injury blow**
 
-You can read more about it [here](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video).
+You can read more about it [here](https://nypost.com/2024/10/07/sports/rashee-rice-likely-out-for-season-in-chiefs-injury-blow/).
 
 ## Requirements
 - Python 3.8
