@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tampa Bay hasn’t been hit directly by a major hurricane since 1921. Milton may be the one**
+**Winamp really whips open source coders into frenzy with its source release**
 
-You can read more about it [here](https://apnews.com/article/hurricane-milton-florida-tampa-7678939c52fdf00da748937d22df1fac).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/).
 
 ## Requirements
 - Python 3.8
