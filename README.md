@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CIA director warns "misjudgments" could further escalate conflict in Middle East**
+**Taylor Swift excitedly hugs pregnant Brittany Mahomes at Chiefs vs. Saints game following feud rumors**
 
-You can read more about it [here](https://www.cbsnews.com/news/cia-director-william-burns-warns-misjudgments-could-escalate-conflict-israel-hamas-lebanon/).
+You can read more about it [here](https://pagesix.com/2024/10/07/celebrity-news/taylor-swift-excitedly-hugs-pregnant-brittany-mahomes-at-chiefs-vs-saints-game-following-feud-rumors/).
 
 ## Requirements
 - Python 3.8
