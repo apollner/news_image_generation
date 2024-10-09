@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's stocks rally fizzles as stimulus offer disappoints**
+**DeSantis and Harris accuse each other of "political games" over storm calls**
 
-You can read more about it [here](https://www.reuters.com/markets/asia/china-markets-reopen-with-roar-after-week-long-break-2024-10-08/).
+You can read more about it [here](https://www.axios.com/2024/10/08/harris-desantis-hurricane-helene-milton-calls).
 
 ## Requirements
 - Python 3.8
