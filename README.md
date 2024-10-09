@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk’s X to be reinstated in Brazil after complying with Supreme Court demands**
+**Nvidia stock heads for fifth day of gains as Wall Street stays bullish on AI**
 
-You can read more about it [here](https://apnews.com/article/brazil-x-elon-musk-supreme-court-de-moraes-e32c4b4171e78cbe8994f53713a922f7).
+You can read more about it [here](https://finance.yahoo.com/news/nvidia-notches-fifth-day-of-gains-as-wall-street-stays-bullish-on-ai-182232404.html).
 
 ## Requirements
 - Python 3.8
