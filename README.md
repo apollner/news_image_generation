@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DeSantis and Harris accuse each other of "political games" over storm calls**
+**Until Dawn PS5 and PC Remake Suffers a Rough Launch**
 
-You can read more about it [here](https://www.axios.com/2024/10/08/harris-desantis-hurricane-helene-milton-calls).
+You can read more about it [here](https://www.ign.com/articles/until-dawn-ps5-and-pc-remake-suffers-a-rough-launch).
 
 ## Requirements
 - Python 3.8
