@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA: New Insights into How Mars Became Uninhabitable**
+**Yankees vs. Royals score: Live updates as Aaron Judge, Juan Soto go for 2-0 series lead in ALDS Game 2**
 
-You can read more about it [here](https://science.nasa.gov/solar-system/planets/mars/nasa-new-insights-into-how-mars-became-uninhabitable/).
+You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-kansas-city-evens-alds-as-new-yorks-bats-go-quiet-in-game-2-loss/live/).
 
 ## Requirements
 - Python 3.8
