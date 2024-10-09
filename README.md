@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winamp really whips open source coders into frenzy with its source release**
+**The 10 Best Apple Deals Under $100 for Prime Day**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/).
+You can read more about it [here](https://www.macrumors.com/2024/10/08/under-100-for-prime-day/).
 
 ## Requirements
 - Python 3.8
