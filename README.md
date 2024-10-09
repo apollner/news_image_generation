@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA and SpaceX Delay Crew-8 Return Due to Hurricane Milton**
+**China's stocks rally fizzles as stimulus offer disappoints**
 
-You can read more about it [here](https://dailygalaxy.com/2024/10/nasa-spacex-crew-8-return-hurricane-milton/).
+You can read more about it [here](https://www.reuters.com/markets/asia/china-markets-reopen-with-roar-after-week-long-break-2024-10-08/).
 
 ## Requirements
 - Python 3.8
