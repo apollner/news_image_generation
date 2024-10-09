@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Orleans Saints vs. Kansas City Chiefs Game Highlights | NFL 2024 Week 5**
+**Russian court sentences 72-year-old American to prison for fighting in Ukraine**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.politico.com/news/2024/10/07/russian-court-sentences-72-year-old-american-to-prison-for-fighting-in-ukraine-00182773).
 
 ## Requirements
 - Python 3.8
