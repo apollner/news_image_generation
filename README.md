@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees vs. Royals score: Live updates as Aaron Judge, Juan Soto go for 2-0 series lead in ALDS Game 2**
+**Apple’s next MacBook Pros might have leaked in Russia**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-kansas-city-evens-alds-as-new-yorks-bats-go-quiet-in-game-2-loss/live/).
+You can read more about it [here](https://www.theverge.com/2024/10/7/24264707/apple-m4-macbook-pro-russia-leak-video).
 
 ## Requirements
 - Python 3.8
