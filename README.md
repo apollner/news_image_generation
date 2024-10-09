@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris says Iran is ‘greatest adversary’ of US**
+**Stocks making the biggest moves midday: Nvidia, DocuSign, Alibaba, Las Vegas Sands and more**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/8/kamala-harris-says-iran-is-greatest-adversary-of-us).
+You can read more about it [here](https://www.cnbc.com/2024/10/08/stocks-making-the-biggest-moves-midday-nvda-docu-baba-lvs-and-more.html).
 
 ## Requirements
 - Python 3.8
