@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Best Prime Day Deals on AirPods, Apple Watch, and More**
+**With economic-growth faith, China to front-load 100 billion yuan: as it happened**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/08/the-best-prime-day-deals-october-2024/).
+You can read more about it [here](https://www.scmp.com/economy/policy/article/3281464/chinas-top-economic-planner-set-unveil-wide-ranging-action-plan).
 
 ## Requirements
 - Python 3.8
