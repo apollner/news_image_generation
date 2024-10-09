@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel marks year since Hamas attacks as fighting rages**
+**[Removed]**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4g57q20l1vo).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
