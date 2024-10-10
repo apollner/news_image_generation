@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court’s conservatives wrestle with case of death row inmate Richard Glossip, who prosecutors want spared**
+**Raiders benching Minshew, name O'Connell QB1**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/politics/richard-glossip-supreme-court-death-penalty-arguments/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41702492/raiders-benching-gardner-minshew-name-aidan-oconnell-qb1).
 
 ## Requirements
 - Python 3.8
