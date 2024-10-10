@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok sued by 13 states and DC, accused of harming younger users**
+**Walz says the Electoral College ‘needs to go’**
 
-You can read more about it [here](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/).
+You can read more about it [here](https://www.politico.com/news/2024/10/08/walz-says-the-electoral-college-needs-to-go-00182981).
 
 ## Requirements
 - Python 3.8
