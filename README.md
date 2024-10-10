@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli offensive in hard-hit northern Gaza kills dozens and threatens hospitals**
+**Nintendo Sound Clock: Alarmo – Announcement Trailer**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-lezbollah-war-news-10-09-2024-31a2dff9a2bb49bc3b76f32b1ddee128).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
