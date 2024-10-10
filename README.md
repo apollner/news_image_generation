@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walz says the Electoral College ‘needs to go’**
+**Magical Mets win Game 3, push Phillies to brink**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/08/walz-says-the-electoral-college-needs-to-go-00182981).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41688700/new-york-mets-defeat-philadelphia-phillies-7-2-game-3).
 
 ## Requirements
 - Python 3.8
