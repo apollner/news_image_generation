@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney World joins theme park closures ahead of Hurricane Milton**
+**Magical Mets win Game 3, push Phillies to brink**
 
-You can read more about it [here](https://www.cbsnews.com/news/hurricane-milton-disney-world-closing/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41688700/new-york-mets-defeat-philadelphia-phillies-7-2-game-3).
 
 ## Requirements
 - Python 3.8
