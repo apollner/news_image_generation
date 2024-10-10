@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Cleverly emerges as frontrunner in UK Conservatives leadership race**
+**Afghan national charged with Election Day terror plot on behalf of ISIS: DOJ**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/8/james-cleverly-emerges-as-frontrunner-in-uk-conservatives-leadership-race).
+You can read more about it [here](https://abcnews.go.com/Politics/afghan-national-charged-election-day-terror-plot-behalf/story?id\\u003d114619290).
 
 ## Requirements
 - Python 3.8
