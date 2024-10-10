@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We’re finally going to the Solar System’s most intriguing but unexplored frontier**
+**Aaron Rodgers might not have gotten Robert Saleh fired — but Rodgers could have saved him**
 
-You can read more about it [here](https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-might-not-have-gotten-robert-saleh-fired-but-rodgers-could-have-saved-him).
 
 ## Requirements
 - Python 3.8
