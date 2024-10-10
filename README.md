@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans in Congress call out hurricane misinformation coming from within their own party**
+**Michigan 2024 Trump-Harris Polls: Harris Leads Narrowly In One Of Her Most Important States**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/politics/republicans-congress-hurricane-misinformation/index.html).
+You can read more about it [here](https://www.forbes.com/sites/saradorn/2024/10/09/michigan-2024-trump-harris-polls-harris-leads-narrowly-in-one-of-her-most-important-states/).
 
 ## Requirements
 - Python 3.8
