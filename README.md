@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Proof Taylor Swift Is a Member of Travis Kelce's Squad With His Friends - E! Online**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1408379/proof-taylor-swift-is-a-member-of-travis-kelces-squad-with-his-friends).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
