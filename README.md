@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magical Mets win Game 3, push Phillies to brink**
+**TikTok sued by 13 states and DC, accused of harming younger users**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41688700/new-york-mets-defeat-philadelphia-phillies-7-2-game-3).
+You can read more about it [here](https://www.reuters.com/legal/tiktok-sued-by-13-states-dc-accused-harming-younger-users-2024-10-08/).
 
 ## Requirements
 - Python 3.8
