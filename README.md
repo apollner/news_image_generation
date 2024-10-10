@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets beat Phillies 7-2 behind Alonso and Manaea to take 2-1 lead in NLDS**
+**Woodward book reveals Trump's calls with Putin and Biden's private remarks on Obama and Netanyahu**
 
-You can read more about it [here](https://apnews.com/article/mlb-playoffs-mets-phillies-alonso-manaea-18484e183fb522b6f8580bb2b36f780a).
+You can read more about it [here](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39).
 
 ## Requirements
 - Python 3.8
