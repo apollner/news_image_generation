@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan 2024 Trump-Harris Polls: Harris Leads Narrowly In One Of Her Most Important States**
+**Hurricane Milton To Make Destructive Florida Landfall Tonight**
 
-You can read more about it [here](https://www.forbes.com/sites/saradorn/2024/10/09/michigan-2024-trump-harris-polls-harris-leads-narrowly-in-one-of-her-most-important-states/).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind).
 
 ## Requirements
 - Python 3.8
