@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Covid-19 may increase the risk of heart attacks, strokes and deaths for three years after an infection, study suggests**
+**'Catastrophic' Hurricane Milton heads to Florida Gulf Coast**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/health/covid-heart-attack-stroke-risk/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/floridians-flee-looming-catastrophe-hurricane-milton-approaches-2024-10-09/).
 
 ## Requirements
 - Python 3.8
