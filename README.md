@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tatis again stars as Padres take hold of NLDS**
+**Covid-19 may increase the risk of heart attacks, strokes and deaths for three years after an infection, study suggests**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41691401/san-diego-padres-outlast-los-angeles-dodgers-game-3).
+You can read more about it [here](https://www.cnn.com/2024/10/09/health/covid-heart-attack-stroke-risk/index.html).
 
 ## Requirements
 - Python 3.8
