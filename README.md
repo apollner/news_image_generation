@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kemi Badenoch and Robert Jenrick left in race to be UK Conservative leader**
+**Supreme Court’s conservatives wrestle with case of death row inmate Richard Glossip, who prosecutors want spared**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/9/kemi-badenoch-and-robert-jenrick-left-in-race-to-be-uk-conservative-leader).
+You can read more about it [here](https://www.cnn.com/2024/10/09/politics/richard-glossip-supreme-court-death-penalty-arguments/index.html).
 
 ## Requirements
 - Python 3.8
