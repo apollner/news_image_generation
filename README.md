@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah steps up rocket fire as Israel sends more troops into Lebanon**
+**Chinese stocks tumble as Beijing tries to shore up confidence in economy**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79).
+You can read more about it [here](https://www.ft.com/content/7c106fa8-f450-41a8-91c9-97f055d95b58).
 
 ## Requirements
 - Python 3.8
