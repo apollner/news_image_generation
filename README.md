@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**We're tracking the deals from Amazon's October Prime Day you need to know about**
+**Proof Taylor Swift Is a Member of Travis Kelce's Squad With His Friends - E! Online**
 
-You can read more about it [here](https://www.koco.com/article/amazon-prime-big-deal-days-live-updates/62533791).
+You can read more about it [here](https://www.eonline.com/news/1408379/proof-taylor-swift-is-a-member-of-travis-kelces-squad-with-his-friends).
 
 ## Requirements
 - Python 3.8
