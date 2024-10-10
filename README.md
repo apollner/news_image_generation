@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese stocks tumble as Beijing tries to shore up confidence in economy**
+**[Removed]**
 
-You can read more about it [here](https://www.ft.com/content/7c106fa8-f450-41a8-91c9-97f055d95b58).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
