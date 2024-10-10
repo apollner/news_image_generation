@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese stocks tumble as Beijing tries to shore up confidence in economy**
+**Nobel chemistry prize 2024 goes to protein pioneers Baker, Hassabis and Jumper**
 
-You can read more about it [here](https://www.ft.com/content/7c106fa8-f450-41a8-91c9-97f055d95b58).
+You can read more about it [here](https://www.reuters.com/science/baker-hassabis-jumper-win-2024-nobel-prize-chemistry-2024-10-09/).
 
 ## Requirements
 - Python 3.8
