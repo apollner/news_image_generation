@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woodward book reveals Trump's calls with Putin and Biden's private remarks on Obama and Netanyahu**
+**North Korea Army says to completely cut road and rail links to South Korea**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-biden-putin-war-ukraine-russia-zelenskyy-ce9c59f689d3f438264a64b2bfa0aa39).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-army-says-completely-cut-road-rail-links-south-korea-2024-10-09/).
 
 ## Requirements
 - Python 3.8
