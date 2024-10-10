@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump thrusts hurricane response into center of 2024 campaign**
+**Tatis again stars as Padres take hold of NLDS**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/08/trump-hurricane-response-2024-campaign-00182960).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41691401/san-diego-padres-outlast-los-angeles-dodgers-game-3).
 
 ## Requirements
 - Python 3.8
