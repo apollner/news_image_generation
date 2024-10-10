@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saints turn to rookie QB Rattler with Carr injured**
+**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 6**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41704881/saints-rookie-qb-spencer-rattler-start-vs-buccaneers-derek-carr-injured).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-6).
 
 ## Requirements
 - Python 3.8
