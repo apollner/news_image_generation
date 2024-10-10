@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea Army says to completely cut road and rail links to South Korea**
+**We're tracking the deals from Amazon's October Prime Day you need to know about**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/north-korea-army-says-completely-cut-road-rail-links-south-korea-2024-10-09/).
+You can read more about it [here](https://www.koco.com/article/amazon-prime-big-deal-days-live-updates/62533791).
 
 ## Requirements
 - Python 3.8
