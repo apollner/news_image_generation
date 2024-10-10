@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Magical Mets win Game 3, push Phillies to brink**
+**Mets beat Phillies 7-2 behind Alonso and Manaea to take 2-1 lead in NLDS**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41688700/new-york-mets-defeat-philadelphia-phillies-7-2-game-3).
+You can read more about it [here](https://apnews.com/article/mlb-playoffs-mets-phillies-alonso-manaea-18484e183fb522b6f8580bb2b36f780a).
 
 ## Requirements
 - Python 3.8
