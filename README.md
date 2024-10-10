@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EU Commission chief: Hungary's Russia, China policies pose security risk**
+**Saints turn to rookie QB Rattler with Carr injured**
 
-You can read more about it [here](https://www.reuters.com/world/europe/eu-commission-chief-hungarys-russia-china-policies-pose-security-risk-2024-10-09/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41704881/saints-rookie-qb-spencer-rattler-start-vs-buccaneers-derek-carr-injured).
 
 ## Requirements
 - Python 3.8
