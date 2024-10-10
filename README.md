@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders benching Minshew, name O'Connell QB1**
+**EU Commission chief: Hungary's Russia, China policies pose security risk**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41702492/raiders-benching-gardner-minshew-name-aidan-oconnell-qb1).
+You can read more about it [here](https://www.reuters.com/world/europe/eu-commission-chief-hungarys-russia-china-policies-pose-security-risk-2024-10-09/).
 
 ## Requirements
 - Python 3.8
