@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Best Prime Day Deals on AirPods, Apple Watch, and More**
+**We’re finally going to the Solar System’s most intriguing but unexplored frontier**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/08/the-best-prime-day-deals-october-2024/).
+You can read more about it [here](https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/).
 
 ## Requirements
 - Python 3.8
