@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Milton To Make Destructive Florida Landfall Tonight**
+**Never-before-seen head of prehistoric, car-size 'millipede' solves evolutionary mystery**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind).
+You can read more about it [here](https://www.livescience.com/animals/extinct-species/never-before-seen-head-of-prehistoric-car-size-millipede-solves-evolutionary-mystery).
 
 ## Requirements
 - Python 3.8
