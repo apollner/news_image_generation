@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghan national charged with Election Day terror plot on behalf of ISIS: DOJ**
+**Disney World joins theme park closures ahead of Hurricane Milton**
 
-You can read more about it [here](https://abcnews.go.com/Politics/afghan-national-charged-election-day-terror-plot-behalf/story?id\\u003d114619290).
+You can read more about it [here](https://www.cbsnews.com/news/hurricane-milton-disney-world-closing/).
 
 ## Requirements
 - Python 3.8
