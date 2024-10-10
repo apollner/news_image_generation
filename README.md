@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Sound Clock: Alarmo – Announcement Trailer**
+**Dodgers-Padres NLDS Game 4 FAQ (9 ET/6 PT, FS1)**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.mlb.com/news/dodgers-vs-padres-nl-division-series-game-4-starting-lineups-and-pitching-matchup).
 
 ## Requirements
 - Python 3.8
