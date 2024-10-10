@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alfonso Cuarón Subverted Sci-Fi and Fantasy. Now He’s Coming for TV**
+**Nobel chemistry prize 2024 goes to protein pioneers Baker, Hassabis and Jumper**
 
-You can read more about it [here](https://www.wired.com/story/big-interview-director-alfonso-cuaron-disclaimer-sci-fi/).
+You can read more about it [here](https://www.reuters.com/science/baker-hassabis-jumper-win-2024-nobel-prize-chemistry-2024-10-09/).
 
 ## Requirements
 - Python 3.8
