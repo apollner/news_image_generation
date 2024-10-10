@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers might not have gotten Robert Saleh fired — but Rodgers could have saved him**
+**COVID infection linked to sharp increase in long-term risk of heart attack, stroke: Cleveland Clinic, USC study**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/aaron-rodgers-might-not-have-gotten-robert-saleh-fired-but-rodgers-could-have-saved-him).
+You can read more about it [here](https://nypost.com/2024/10/09/lifestyle/covid-infection-linked-to-sharp-increase-in-long-term-risk-of-heart-attack-stroke-cleveland-clinic-usc-study/).
 
 ## Requirements
 - Python 3.8
