@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Catastrophic' Hurricane Milton heads to Florida Gulf Coast**
+**Chinese stocks tumble as Beijing tries to shore up confidence in economy**
 
-You can read more about it [here](https://www.reuters.com/world/us/floridians-flee-looming-catastrophe-hurricane-milton-approaches-2024-10-09/).
+You can read more about it [here](https://www.ft.com/content/7c106fa8-f450-41a8-91c9-97f055d95b58).
 
 ## Requirements
 - Python 3.8
