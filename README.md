@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Walz says "Electoral College needs to go," but campaign says that's not its position**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/walz-says-electoral-college-needs-to-go-campaign-says-thats-not-its-position/).
 
 ## Requirements
 - Python 3.8
