@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walz says "Electoral College needs to go," but campaign says that's not its position**
+**Hezbollah steps up rocket fire as Israel sends more troops into Lebanon**
 
-You can read more about it [here](https://www.cbsnews.com/news/walz-says-electoral-college-needs-to-go-campaign-says-thats-not-its-position/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-news-10-08-2024-0bc0a8970c066c048ee1875bcdc8df79).
 
 ## Requirements
 - Python 3.8
