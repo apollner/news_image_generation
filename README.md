@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Hurricane Milton and Helene conspiracy theories took over social media**
+**Stellantis Leverages Its Management Organisation with Changes to Drive Performance Under the Leadership of Carlos Tavares**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1e8q50y3v7o).
+You can read more about it [here](https://www.stellantis.com/en/news/press-releases/2024/october/stellantis-leverages-its-management-organisation-with-changes-to-drive-performance-under-the-leadership-of-carlos-tavares).
 
 ## Requirements
 - Python 3.8
