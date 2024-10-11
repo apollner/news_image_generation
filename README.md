@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian officials say an Israeli strike on a Gaza shelter has killed at least 27 people**
+**Thursday Night Football: How to watch the San Francisco 49ers vs. Seattle Seahawks NFL game tonight**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922).
+You can read more about it [here](https://sports.yahoo.com/thursday-night-football-how-to-watch-the-san-francisco-49ers-vs-seattle-seahawks-nfl-game-tonight-110027653.html).
 
 ## Requirements
 - Python 3.8
