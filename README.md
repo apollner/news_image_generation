@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ratan Tata, an Indian industry legend and business icon dies aged 86**
+**Tesla robotaxis will be a game changer, says Wedbush's Dan Ives**
 
-You can read more about it [here](https://apnews.com/article/india-ratan-tata-death-06f48744f603ae3797e4f5df395fdd6d).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
