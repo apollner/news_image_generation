@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees vs. Royals score: Live updates from ALDS Game 3 as Kansas City hosts first playoff game since 2015**
+**Amazon adds Apple TV+ to its Prime Video streaming service in US**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-giancarlo-stanton-helps-new-york-take-2-1-alds-lead-over-kansas-city/live/).
+You can read more about it [here](https://finance.yahoo.com/news/amazon-adds-apple-tv-prime-030427094.html).
 
 ## Requirements
 - Python 3.8
