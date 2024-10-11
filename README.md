@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Creator A-List: The 50 Most Influential Influencers**
+**Kate joins Prince William for her first public appearance since ending cancer treatment**
 
-You can read more about it [here](http://www.hollywoodreporter.com/lists/most-influential-influencers-2024/).
+You can read more about it [here](https://www.cnn.com/2024/10/10/world/kate-princess-of-wales-first-public-engagement-intl/index.html).
 
 ## Requirements
 - Python 3.8
