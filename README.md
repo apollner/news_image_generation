@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Milton damage begins to emerge as storm passes into Atlantic Ocean**
+**Hurricane Milton Moving Across Florida With High Winds, Flooding Rain**
 
-You can read more about it [here](https://abcnews.go.com/US/hurricane-milton-damage-begins-emerge-storm-passes-atlantic/story?id\\u003d114672672).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind).
 
 ## Requirements
 - Python 3.8
