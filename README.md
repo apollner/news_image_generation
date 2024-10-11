@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NC officials say campaigning politicians are suggesting already-passed measures to ensure the post-Hurricane Helene vote**
+**A severe geomagnetic storm could cause colorful auroras over Northern California and Alabama**
 
-You can read more about it [here](https://abcnews.go.com/US/nc-officials-campaigning-politicians-suggesting-passed-measures-ensure/story?id\\u003d114655429).
+You can read more about it [here](https://www.cnn.com/2024/10/09/science/solar-storm-aurora-power-gps/index.html).
 
 ## Requirements
 - Python 3.8
