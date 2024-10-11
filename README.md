@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon Prime Day deals end tonight: 60+ last-minute buys from Apple, Dyson, Ninja and more to snag before Black Friday**
+**Yankees vs. Royals score: Live updates from ALDS Game 3 as Kansas City hosts first playoff game since 2015**
 
-You can read more about it [here](https://www.yahoo.com/lifestyle/live/amazon-prime-day-deals-end-tonight-last-minute-buys-from-apple-dyson-ninja-and-more-to-snag-before-black-friday-235635083.html).
+You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-vs-royals-score-giancarlo-stanton-helps-new-york-take-2-1-alds-lead-over-kansas-city/live/).
 
 ## Requirements
 - Python 3.8
