@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The two forces at work on Biden-Netanyahu phone call**
+**Palestinian officials say an Israeli strike on a Gaza shelter has killed at least 27 people**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2lr0jd37xo).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-10-10-2024-a5e53cdd4fca30be1909506b5c777922).
 
 ## Requirements
 - Python 3.8
