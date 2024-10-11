@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate joins Prince William for her first public appearance since ending cancer treatment**
+**Israeli forces fire on UN peacekeepers in Lebanon, wounding two**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/world/kate-princess-of-wales-first-public-engagement-intl/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/10/israeli-forces-fire-on-un-peacekeepers-in-lebanon-wounding-two).
 
 ## Requirements
 - Python 3.8
