@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: How to watch the San Francisco 49ers vs. Seattle Seahawks NFL game tonight**
+**'A Woody Johnson decision, NOT an Aaron Rodgers decision' - Schefty on Saleh's FIRING | Get Up**
 
-You can read more about it [here](https://sports.yahoo.com/thursday-night-football-how-to-watch-the-san-francisco-49ers-vs-seattle-seahawks-nfl-game-tonight-110027653.html).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
