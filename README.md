@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Social Security cost-of-living benefits increase announcement coming Thursday**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
