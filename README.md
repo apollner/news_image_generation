@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A severe geomagnetic storm could cause colorful auroras over Northern California and Alabama**
+**Nintendo Sound Clock: Alarmo System Update Now Live (Version 2.0.0), Here Are The Full Patch Notes**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/science/solar-storm-aurora-power-gps/index.html).
+You can read more about it [here](https://www.nintendolife.com/news/2024/10/nintendo-sound-clock-alarmo-system-update-now-live-version-2-0-0-here-are-the-full-patch-notes).
 
 ## Requirements
 - Python 3.8
