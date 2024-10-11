@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Antonio Pierce Offers Davante Adams Update Amid Raiders Trade Rumors**
+**Trump-Putin ties are back in the spotlight after new book describes calls**
 
-You can read more about it [here](https://www.si.com/nfl/antonio-pierce-davante-adams-update-raiders-trade-rumors).
+You can read more about it [here](https://apnews.com/article/trump-putin-fbi-russia-election-58fd70da281d47bfa3a3a963e21fc067).
 
 ## Requirements
 - Python 3.8
