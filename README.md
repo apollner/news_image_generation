@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 2 million without power as Hurricane Milton slams Florida, causes deaths and flooding**
+**Indian tycoon Ratan Tata dies aged 86**
 
-You can read more about it [here](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93).
+You can read more about it [here](https://www.bbc.com/news/articles/cjd5835mp4ko).
 
 ## Requirements
 - Python 3.8
