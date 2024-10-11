@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli forces fire on UN peacekeepers in Lebanon, wounding two**
+**Nobel Prize in literature awarded to Han Kang**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/10/israeli-forces-fire-on-un-peacekeepers-in-lebanon-wounding-two).
+You can read more about it [here](https://www.washingtonpost.com/books/2024/10/10/nobel-prize-literature-han-kang-2024/).
 
 ## Requirements
 - Python 3.8
