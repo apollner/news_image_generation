@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kanye West Accused of Investigating Kardashians and Having Wife Bianca Censori Tailed**
+**‘Nobody Wants This’ Renewed For Season 2 By Netflix With Jenni Konner & Bruce Eric Kaplan As New Showrunners**
 
-You can read more about it [here](https://variety.com/2024/music/news/kanye-west-sued-kardashians-bianca-censori-1236174504/).
+You can read more about it [here](http://deadline.com/2024/10/nobody-wants-this-renewed-season-2-netflix-jenni-konner-bruce-eric-kaplan-showrunners-1236111999/).
 
 ## Requirements
 - Python 3.8
