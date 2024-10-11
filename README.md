@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Sound Clock: Alarmo System Update Now Live (Version 2.0.0), Here Are The Full Patch Notes**
+**Kamala Harris Responds to '60 Minutes' Edit Controversy, Distances From CBS**
 
-You can read more about it [here](https://www.nintendolife.com/news/2024/10/nintendo-sound-clock-alarmo-system-update-now-live-version-2-0-0-here-are-the-full-patch-notes).
+You can read more about it [here](https://variety.com/2024/tv/news/kamala-harris-responds-60-minutes-edit-controversy-cbs-1236173842/).
 
 ## Requirements
 - Python 3.8
