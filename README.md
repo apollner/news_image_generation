@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian tycoon Ratan Tata dies aged 86**
+**Shari Redstone says CBS leaders made ‘bad mistake’ with handling of Ta-Nehisi Coates interview fallout**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjd5835mp4ko).
+You can read more about it [here](https://www.cnn.com/2024/10/09/media/shari-redstone-tony-dokoupil-ta-nehisi-coates-interview/index.html).
 
 ## Requirements
 - Python 3.8
