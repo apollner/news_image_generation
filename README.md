@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vermont Department of Health confirms first EEE death since 2012**
+**How Hurricane Milton and Helene conspiracy theories took over social media**
 
-You can read more about it [here](https://www.mynbc5.com/article/first-eee-death-confirmed-vermont/62567461).
+You can read more about it [here](https://www.bbc.com/news/articles/c1e8q50y3v7o).
 
 ## Requirements
 - Python 3.8
