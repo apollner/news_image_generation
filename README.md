@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nobel Prize in literature awarded to Han Kang**
+**FCC chair denounces Trump’s calls for CBS to ‘lose its license’ over Harris’ ‘60 Minutes’ interview**
 
-You can read more about it [here](https://www.washingtonpost.com/books/2024/10/10/nobel-prize-literature-han-kang-2024/).
+You can read more about it [here](https://www.cnn.com/2024/10/10/media/fcc-rosenworcel-trump-cbs-license-60-minutes/index.html).
 
 ## Requirements
 - Python 3.8
