@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kate joins Prince William for her first public appearance since ending cancer treatment**
+**Kanye West Accused of Investigating Kardashians and Having Wife Bianca Censori Tailed**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/world/kate-princess-of-wales-first-public-engagement-intl/index.html).
+You can read more about it [here](https://variety.com/2024/music/news/kanye-west-sued-kardashians-bianca-censori-1236174504/).
 
 ## Requirements
 - Python 3.8
