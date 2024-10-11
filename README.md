@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla robotaxis will be a game changer, says Wedbush's Dan Ives**
+**The Creator A-List: The 50 Most Influential Influencers**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](http://www.hollywoodreporter.com/lists/most-influential-influencers-2024/).
 
 ## Requirements
 - Python 3.8
