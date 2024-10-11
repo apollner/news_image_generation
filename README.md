@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mario & Luigi Brothership charms its way through familial familiarity**
+**Ratan Tata, an Indian industry legend and business icon dies aged 86**
 
-You can read more about it [here](https://www.eurogamer.net/mario-luigi-brothership-charms-its-way-through-familial-familiarity).
+You can read more about it [here](https://apnews.com/article/india-ratan-tata-death-06f48744f603ae3797e4f5df395fdd6d).
 
 ## Requirements
 - Python 3.8
