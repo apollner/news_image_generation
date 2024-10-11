@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Nobody Wants This’ Renewed For Season 2 By Netflix With Jenni Konner & Bruce Eric Kaplan As New Showrunners**
+**Kate joins Prince William for her first public appearance since ending cancer treatment**
 
-You can read more about it [here](http://deadline.com/2024/10/nobody-wants-this-renewed-season-2-netflix-jenni-konner-bruce-eric-kaplan-showrunners-1236111999/).
+You can read more about it [here](https://www.cnn.com/2024/10/10/world/kate-princess-of-wales-first-public-engagement-intl/index.html).
 
 ## Requirements
 - Python 3.8
