@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Milton Moving Across Florida With High Winds, Flooding Rain**
+**Hurricane Milton could cost insurers up to $100 billion, analysts say**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind).
+You can read more about it [here](https://www.reuters.com/business/finance/hurricane-milton-could-cost-insurers-60-bln-raise-reinsurance-rates-rbc-says-2024-10-09/).
 
 ## Requirements
 - Python 3.8
