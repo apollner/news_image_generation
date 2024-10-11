@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris Responds to '60 Minutes' Edit Controversy, Distances From CBS**
+**Comet Tsuchinshan-ATLAS photobombs SOHO spacecraft during powerful solar flare (video)**
 
-You can read more about it [here](https://variety.com/2024/tv/news/kamala-harris-responds-60-minutes-edit-controversy-cbs-1236173842/).
+You can read more about it [here](https://www.space.com/comet-tsuchinshan-atlas-soho-solar-flare-video).
 
 ## Requirements
 - Python 3.8
