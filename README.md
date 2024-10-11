@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A severe geomagnetic storm could cause colorful auroras over Northern California and Alabama**
+**Alarmo Has a Fascinating Connection to Late Nintendo President Satoru Iwata**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/science/solar-storm-aurora-power-gps/index.html).
+You can read more about it [here](https://www.ign.com/articles/alarmo-has-a-fascinating-connection-to-late-nintendo-president-satoru-iwata).
 
 ## Requirements
 - Python 3.8
