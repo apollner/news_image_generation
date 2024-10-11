@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon adds Apple TV+ to its Prime Video streaming service in US**
+**Nintendo Sound Clock: Alarmo System Update Now Live (Version 2.0.0), Here Are The Full Patch Notes**
 
-You can read more about it [here](https://finance.yahoo.com/news/amazon-adds-apple-tv-prime-030427094.html).
+You can read more about it [here](https://www.nintendolife.com/news/2024/10/nintendo-sound-clock-alarmo-system-update-now-live-version-2-0-0-here-are-the-full-patch-notes).
 
 ## Requirements
 - Python 3.8
