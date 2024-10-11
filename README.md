@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Milton could cost insurers up to $100 billion, analysts say**
+**Social Security cost-of-living benefits increase announcement coming Thursday**
 
-You can read more about it [here](https://www.reuters.com/business/finance/hurricane-milton-could-cost-insurers-60-bln-raise-reinsurance-rates-rbc-says-2024-10-09/).
+You can read more about it [here](https://apnews.com/article/social-security-cost-of-living-inflation-increase-e25d292b6c0af80fc9cce9d309e48f02).
 
 ## Requirements
 - Python 3.8
