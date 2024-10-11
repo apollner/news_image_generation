@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Released a Day-One Update for Alarmo and Yes, Now Even Alarm Clocks Have Patch Notes**
+**Mario & Luigi Brothership charms its way through familial familiarity**
 
-You can read more about it [here](https://www.ign.com/articles/nintendo-released-a-day-one-update-for-alarmo-and-yes-now-even-alarm-clocks-have-patch-notes).
+You can read more about it [here](https://www.eurogamer.net/mario-luigi-brothership-charms-its-way-through-familial-familiarity).
 
 ## Requirements
 - Python 3.8
