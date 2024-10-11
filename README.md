@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FCC chair denounces Trump’s calls for CBS to ‘lose its license’ over Harris’ ‘60 Minutes’ interview**
+**Vermont Department of Health confirms first EEE death since 2012**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/media/fcc-rosenworcel-trump-cbs-license-60-minutes/index.html).
+You can read more about it [here](https://www.mynbc5.com/article/first-eee-death-confirmed-vermont/62567461).
 
 ## Requirements
 - Python 3.8
