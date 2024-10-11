@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Milton Moving Across Florida With High Winds, Flooding Rain**
+**Emmanuel Macron has some strong views about ‘Emily in Paris’ heading to Rome**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-09-hurricane-milton-forecast-landfall-florida-storm-surge-wind).
+You can read more about it [here](https://www.cnn.com/2024/10/10/entertainment/macron-emily-in-paris-rome-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
