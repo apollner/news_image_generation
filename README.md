@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'A Woody Johnson decision, NOT an Aaron Rodgers decision' - Schefty on Saleh's FIRING | Get Up**
+**Nintendo Released a Day-One Update for Alarmo and Yes, Now Even Alarm Clocks Have Patch Notes**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.ign.com/articles/nintendo-released-a-day-one-update-for-alarmo-and-yes-now-even-alarm-clocks-have-patch-notes).
 
 ## Requirements
 - Python 3.8
