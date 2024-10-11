@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarmo Has a Fascinating Connection to Late Nintendo President Satoru Iwata**
+**Amazon Prime Day deals end tonight: 60+ last-minute buys from Apple, Dyson, Ninja and more to snag before Black Friday**
 
-You can read more about it [here](https://www.ign.com/articles/alarmo-has-a-fascinating-connection-to-late-nintendo-president-satoru-iwata).
+You can read more about it [here](https://www.yahoo.com/lifestyle/live/amazon-prime-day-deals-end-tonight-last-minute-buys-from-apple-dyson-ninja-and-more-to-snag-before-black-friday-235635083.html).
 
 ## Requirements
 - Python 3.8
