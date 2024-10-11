@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comet Tsuchinshan-ATLAS photobombs SOHO spacecraft during powerful solar flare (video)**
+**More than 2 million without power as Hurricane Milton slams Florida, causes deaths and flooding**
 
-You can read more about it [here](https://www.space.com/comet-tsuchinshan-atlas-soho-solar-flare-video).
+You can read more about it [here](https://apnews.com/article/hurricane-milton-tampa-florida-08bde4b9c29460f471d43c6512821c93).
 
 ## Requirements
 - Python 3.8
