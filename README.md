@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Never-before-seen head of prehistoric, car-size 'millipede' solves evolutionary mystery**
+**Antonio Pierce Offers Davante Adams Update Amid Raiders Trade Rumors**
 
-You can read more about it [here](https://www.livescience.com/animals/extinct-species/never-before-seen-head-of-prehistoric-car-size-millipede-solves-evolutionary-mystery).
+You can read more about it [here](https://www.si.com/nfl/antonio-pierce-davante-adams-update-raiders-trade-rumors).
 
 ## Requirements
 - Python 3.8
