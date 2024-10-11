@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump-Putin ties are back in the spotlight after new book describes calls**
+**NC officials say campaigning politicians are suggesting already-passed measures to ensure the post-Hurricane Helene vote**
 
-You can read more about it [here](https://apnews.com/article/trump-putin-fbi-russia-election-58fd70da281d47bfa3a3a963e21fc067).
+You can read more about it [here](https://abcnews.go.com/US/nc-officials-campaigning-politicians-suggesting-passed-measures-ensure/story?id\\u003d114655429).
 
 ## Requirements
 - Python 3.8
