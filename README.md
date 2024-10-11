@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shari Redstone says CBS leaders made ‘bad mistake’ with handling of Ta-Nehisi Coates interview fallout**
+**A severe geomagnetic storm could cause colorful auroras over Northern California and Alabama**
 
-You can read more about it [here](https://www.cnn.com/2024/10/09/media/shari-redstone-tony-dokoupil-ta-nehisi-coates-interview/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/09/science/solar-storm-aurora-power-gps/index.html).
 
 ## Requirements
 - Python 3.8
