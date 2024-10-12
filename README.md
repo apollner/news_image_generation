@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giancarlo Stanton on his outstanding postseason performances, Gerrit Cole's dominance**
+**Lynx rally from 18 down, stun Liberty in OT in G1**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dtAGxkuZw_dw).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/41727584/lynx-tie-largest-wnba-finals-comeback-g1-win-vs-liberty).
 
 ## Requirements
 - Python 3.8
