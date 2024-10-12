@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, Vegas lines, picks, spreads, game predictions: Model eyeing Falcons, Commanders in Week 6, 2024**
+**Space Force's mysterious X-37B space plane to attempt new 'aerobraking' maneuvers in orbit**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-eyeing-falcons-commanders-in-week-6-2024/).
+You can read more about it [here](https://www.space.com/space-force-x-37b-aerobraking-maneuvers).
 
 ## Requirements
 - Python 3.8
