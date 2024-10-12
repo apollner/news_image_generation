@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunmen kill 20 miners in an attack in southwest Pakistan ahead of an Asian security summit**
+**Lebanon says 22 killed in Israeli strikes on central Beirut**
 
-You can read more about it [here](https://apnews.com/article/pakistan-miners-killed-b4302a6af4888c009212bea622f76679).
+You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
 
 ## Requirements
 - Python 3.8
