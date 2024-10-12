@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lebanon says 22 killed in Israeli strike on central Beirut**
+**Obama calls out ‘brothers’ apprehensive to vote for Harris: ‘You’re thinking of sitting out?’**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
+You can read more about it [here](https://www.foxnews.com/politics/obama-calls-out-brothers-apprehensive-vote-harris-youre-thinking-sitting-out).
 
 ## Requirements
 - Python 3.8
