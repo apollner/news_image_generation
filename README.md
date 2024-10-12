@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netflix Developing ‘Pride And Prejudice’ Series**
+**That was quick: Detroit Tigers break Comerica Park record for postseason attendance again**
 
-You can read more about it [here](http://deadline.com/2024/10/netflix-pride-and-prejudice-series-1236113435/).
+You can read more about it [here](https://www.freep.com/story/sports/mlb/tigers/2024/10/10/detroit-tigers-comerica-park-break-record-postseason-attendance/75615028007/).
 
 ## Requirements
 - Python 3.8
