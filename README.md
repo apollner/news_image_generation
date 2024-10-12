@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ye sued by former employee who was asked to investigate Kim Kardashian, 'tail' Bianca Censori**
+**NFL best bets for Week 6: Breaking down Commanders-Ravens, top props and more**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/10/10/ye-former-employee-lawsuit-kardashians-bianca-censori/75618666007/).
+You can read more about it [here](https://www.espn.com/espn/betting/insider/story/_/id/41685205/week-6-nfl-picks-odds-lines-bets-props-commanders-ravens-rookie-qbs).
 
 ## Requirements
 - Python 3.8
