@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama calls out ‘brothers’ apprehensive to vote for Harris: ‘You’re thinking of sitting out?’**
+**Stellantis CEO Carlos Tavares to retire in 2026 as automaker struggles in North America**
 
-You can read more about it [here](https://www.foxnews.com/politics/obama-calls-out-brothers-apprehensive-vote-harris-youre-thinking-sitting-out).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/stellantis-appoints-doug-ostermann-cfo-amid-management-overhaul-2024-10-10/).
 
 ## Requirements
 - Python 3.8
