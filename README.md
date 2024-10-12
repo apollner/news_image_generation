@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Metaphor: ReFantazio surpasses 1m sales on launch day to become fastest-selling Atlus game**
+**Arizona mom reveals what it was like sheltering inside Disney World during Hurricane Milton**
 
-You can read more about it [here](https://www.eurogamer.net/metaphor-refantazio-surpasses-1m-sales-on-launch-day-to-become-fastest-selling-atlus-game).
+You can read more about it [here](https://nypost.com/2024/10/11/us-news/arizona-mom-sandra-guadarrama-baumunk-and-family-ride-out-hurricane-milto/).
 
 ## Requirements
 - Python 3.8
