@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lebanon says 22 killed in Israeli strikes on central Beirut**
+**Comet likely last seen when Neanderthals walked Earth could soon dazzle in the night sky**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
+You can read more about it [here](https://abc7.com/post/comet-last-seen-when-neanderthals-walked-earth-could-soon-dazzle-night-sky/15414148/).
 
 ## Requirements
 - Python 3.8
