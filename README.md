@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comet likely last seen when Neanderthals walked Earth could soon dazzle in the night sky**
+**MLB playoffs: Yankees advance to ALCS with win vs. Royals; Guardians force ALDS Game 5 vs. Tigers**
 
-You can read more about it [here](https://abc7.com/post/comet-last-seen-when-neanderthals-walked-earth-could-soon-dazzle-night-sky/15414148/).
+You can read more about it [here](https://sports.yahoo.com/live/mlb-playoffs-score-live-updates-tigers-guardians-yankees-royals-alds-game-4-200050951.html).
 
 ## Requirements
 - Python 3.8
