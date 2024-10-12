@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers happy to 'stand tall' after run of late losses**
+**Lebanon says 22 killed in Israeli strikes on central Beirut**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41730142/niners-fall-right-side-pivotal-result-seahawks).
+You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
 
 ## Requirements
 - Python 3.8
