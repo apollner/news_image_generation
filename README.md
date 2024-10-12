@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WSJ battleground Trump-Harris poll: It’s a toss-up, folks**
+**Sister Wives Star Kody Brown’s Daughter Mykelti Lashes Out Against Him After Previous Support - E! Online**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/11/wsj-battleground-trump-harris-poll-00183414).
+You can read more about it [here](https://www.eonline.com/news/1408543/sister-wives-star-kody-browns-daughter-mykelti-lashes-out-against-him-after-previous-support).
 
 ## Requirements
 - Python 3.8
