@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football Week 7 predictions: Ohio State vs. Oregon, more picks against the spread**
+**Tesla's robotaxi event was long on Musk promises. Investors wanted more details.**
 
-You can read more about it [here](https://nypost.com/2024/10/11/betting/college-football-week-7-predictions-ohio-state-vs-oregon-more-picks-against-the-spread/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/tesla-robotaxi-event-was-long-promises-investors-wanted-more-details-2024-10-11/).
 
 ## Requirements
 - Python 3.8
