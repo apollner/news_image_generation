@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 dead and 23 rescued after Colorado tourist mine accident left some trapped 1,000 feet underground for six hours**
+**Minnesota Lynx pull off a rally and overtime victory over the New York Liberty in Game 1 of WNBA Finals**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/us/colorado-mine-accident-leaves/index.html).
+You can read more about it [here](https://www.startribune.com/minnesota-lynx-new-york-liberty-wnba-finals/601160487).
 
 ## Requirements
 - Python 3.8
