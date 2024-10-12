@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Force's mysterious X-37B space plane to attempt new 'aerobraking' maneuvers in orbit**
+**WSJ battleground Trump-Harris poll: It’s a toss-up, folks**
 
-You can read more about it [here](https://www.space.com/space-force-x-37b-aerobraking-maneuvers).
+You can read more about it [here](https://www.politico.com/news/2024/10/11/wsj-battleground-trump-harris-poll-00183414).
 
 ## Requirements
 - Python 3.8
