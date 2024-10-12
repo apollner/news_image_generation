@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ye sued by former employee who was asked to investigate Kim Kardashian, 'tail' Bianca Censori**
+**Drownings of 2 Navy SEALs knocked overboard in raid of ship with Iranian weapons were preventable: probe**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/10/10/ye-former-employee-lawsuit-kardashians-bianca-censori/75618666007/).
+You can read more about it [here](https://nypost.com/2024/10/11/us-news/navy-seals-drownings-of-chrispt/).
 
 ## Requirements
 - Python 3.8
