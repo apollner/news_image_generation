@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, Vegas lines, picks, spreads, game predictions: Model eyeing Falcons, Commanders in Week 6, 2024**
+**College football Week 7 predictions: Ohio State vs. Oregon, more picks against the spread**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-eyeing-falcons-commanders-in-week-6-2024/).
+You can read more about it [here](https://nypost.com/2024/10/11/betting/college-football-week-7-predictions-ohio-state-vs-oregon-more-picks-against-the-spread/).
 
 ## Requirements
 - Python 3.8
