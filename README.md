@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Rescuers dig through debris after Israeli strikes in central Beirut kill 22**
+**Ye sued by former employee who was asked to investigate Kim Kardashian, 'tail' Bianca Censori**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/11/israel-iran-lebanon-hezbollah-war-news-gaza/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/10/10/ye-former-employee-lawsuit-kardashians-bianca-censori/75618666007/).
 
 ## Requirements
 - Python 3.8
