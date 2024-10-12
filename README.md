@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eleven things to know about in the Windows 11 2024 Update**
+**NFL best bets for Week 6: Breaking down Commanders-Ravens, top props and more**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/10/eleven-things-to-know-about-in-the-windows-11-2024-update/).
+You can read more about it [here](https://www.espn.com/espn/betting/insider/story/_/id/41685205/week-6-nfl-picks-odds-lines-bets-props-commanders-ravens-rookie-qbs).
 
 ## Requirements
 - Python 3.8
