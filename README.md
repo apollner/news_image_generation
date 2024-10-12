@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**An elevator malfunction killed 1 and trapped 12 at a Colorado tourist mine**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/colorado-former-gold-mine-death-3ff210f97a9c046bd09499c3c6ef8272).
 
 ## Requirements
 - Python 3.8
