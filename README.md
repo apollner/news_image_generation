@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB playoffs: Yankees advance to ALCS with win vs. Royals; Guardians force ALDS Game 5 vs. Tigers**
+**Netflix Developing ‘Pride And Prejudice’ Series**
 
-You can read more about it [here](https://sports.yahoo.com/live/mlb-playoffs-score-live-updates-tigers-guardians-yankees-royals-alds-game-4-200050951.html).
+You can read more about it [here](http://deadline.com/2024/10/netflix-pride-and-prejudice-series-1236113435/).
 
 ## Requirements
 - Python 3.8
