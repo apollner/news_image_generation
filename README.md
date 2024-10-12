@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona mom reveals what it was like sheltering inside Disney World during Hurricane Milton**
+**Eleven things to know about in the Windows 11 2024 Update**
 
-You can read more about it [here](https://nypost.com/2024/10/11/us-news/arizona-mom-sandra-guadarrama-baumunk-and-family-ride-out-hurricane-milto/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/10/eleven-things-to-know-about-in-the-windows-11-2024-update/).
 
 ## Requirements
 - Python 3.8
