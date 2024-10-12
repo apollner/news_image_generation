@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ethel Kennedy, human rights activist and widow of Robert F. Kennedy, dies at 96**
+**Elon Musk unveils two-door robotaxi**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/politics/ethel-kennedy-dies/index.html).
+You can read more about it [here](https://www.reuters.com/technology/teslas-musk-unveil-robotaxis-amid-fanfare-skepticism-2024-10-10/).
 
 ## Requirements
 - Python 3.8
