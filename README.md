@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republicans to save millions of dollars on ads — thanks to the FEC**
+**How Hurricane Milton and Helene conspiracy theories took over social media**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/10/fec-joint-fundraising-committee-ads-00183356).
+You can read more about it [here](https://www.bbc.com/news/articles/c1e8q50y3v7o).
 
 ## Requirements
 - Python 3.8
