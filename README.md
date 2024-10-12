@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-Checking Obama's Pittsburgh Rally for Kamala Harris**
+**In photos: Northern lights dazzle skies across the U.S. and world**
 
-You can read more about it [here](https://www.newsweek.com/barack-obama-speech-kamala-harris-pittsburgh-fact-check-1967846).
+You can read more about it [here](https://www.axios.com/2024/10/11/northern-lights-aurora-borealis-solar-flare-photos).
 
 ## Requirements
 - Python 3.8
