@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unlocking Uranus: NASA’s Dual Observations Pave the Way to Discovering New Worlds**
+**Metaphor: ReFantazio surpasses 1m sales on launch day to become fastest-selling Atlus game**
 
-You can read more about it [here](https://scitechdaily.com/unlocking-uranus-nasas-dual-observations-pave-the-way-to-discovering-new-worlds/).
+You can read more about it [here](https://www.eurogamer.net/metaphor-refantazio-surpasses-1m-sales-on-launch-day-to-become-fastest-selling-atlus-game).
 
 ## Requirements
 - Python 3.8
