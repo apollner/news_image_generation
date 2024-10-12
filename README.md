@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lynx rally from 18 down, stun Liberty in OT in G1**
+**Gunmen kill 20 miners in an attack in southwest Pakistan ahead of an Asian security summit**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/41727584/lynx-tie-largest-wnba-finals-comeback-g1-win-vs-liberty).
+You can read more about it [here](https://apnews.com/article/pakistan-miners-killed-b4302a6af4888c009212bea622f76679).
 
 ## Requirements
 - Python 3.8
