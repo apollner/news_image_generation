@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks a fight with Detroit**
+**Three H-E-B products named in massive meat recall due to listeria**
 
-You can read more about it [here](https://www.cnn.com/2024/10/10/politics/trump-detroit/index.html).
+You can read more about it [here](https://www.mysanantonio.com/food/article/heb-recall-listeria-19831262.php).
 
 ## Requirements
 - Python 3.8
