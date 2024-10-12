@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis CEO Carlos Tavares to retire in 2026 as automaker struggles in North America**
+**Senate Republicans to save millions of dollars on ads — thanks to the FEC**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/stellantis-appoints-doug-ostermann-cfo-amid-management-overhaul-2024-10-10/).
+You can read more about it [here](https://www.politico.com/news/2024/10/10/fec-joint-fundraising-committee-ads-00183356).
 
 ## Requirements
 - Python 3.8
