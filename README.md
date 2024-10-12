@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sister Wives Star Kody Brown’s Daughter Mykelti Lashes Out Against Him After Previous Support - E! Online**
+**Mike Tyson issues bizarre message to Diddy amid sex-trafficking scandal: ‘I wish him all the best’**
 
-You can read more about it [here](https://www.eonline.com/news/1408543/sister-wives-star-kody-browns-daughter-mykelti-lashes-out-against-him-after-previous-support).
+You can read more about it [here](https://nypost.com/2024/10/11/entertainment/mike-tyson-wishes-sean-diddy-combs-all-the-best-after-arrest/).
 
 ## Requirements
 - Python 3.8
