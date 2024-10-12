@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tyson issues bizarre message to Diddy amid sex-trafficking scandal: ‘I wish him all the best’**
+**Fact-Checking Obama's Pittsburgh Rally for Kamala Harris**
 
-You can read more about it [here](https://nypost.com/2024/10/11/entertainment/mike-tyson-wishes-sean-diddy-combs-all-the-best-after-arrest/).
+You can read more about it [here](https://www.newsweek.com/barack-obama-speech-kamala-harris-pittsburgh-fact-check-1967846).
 
 ## Requirements
 - Python 3.8
