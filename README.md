@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lebanon says 22 killed in Israeli strikes on central Beirut**
+**1 dead and 23 rescued after Colorado tourist mine accident left some trapped 1,000 feet underground for six hours**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
+You can read more about it [here](https://www.cnn.com/2024/10/10/us/colorado-mine-accident-leaves/index.html).
 
 ## Requirements
 - Python 3.8
