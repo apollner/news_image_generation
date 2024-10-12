@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drownings of 2 Navy SEALs knocked overboard in raid of ship with Iranian weapons were preventable: probe**
+**Live updates: Rescuers dig through debris after Israeli strikes in central Beirut kill 22**
 
-You can read more about it [here](https://nypost.com/2024/10/11/us-news/navy-seals-drownings-of-chrispt/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/11/israel-iran-lebanon-hezbollah-war-news-gaza/).
 
 ## Requirements
 - Python 3.8
