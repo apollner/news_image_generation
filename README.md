@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Hurricane Milton and Helene conspiracy theories took over social media**
+**Giancarlo Stanton on his outstanding postseason performances, Gerrit Cole's dominance**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1e8q50y3v7o).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dtAGxkuZw_dw).
 
 ## Requirements
 - Python 3.8
