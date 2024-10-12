@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Minnesota Lynx pull off a rally and overtime victory over the New York Liberty in Game 1 of WNBA Finals**
+**Ethel Kennedy, human rights activist and widow of Robert F. Kennedy, dies at 96**
 
-You can read more about it [here](https://www.startribune.com/minnesota-lynx-new-york-liberty-wnba-finals/601160487).
+You can read more about it [here](https://www.cnn.com/2024/10/10/politics/ethel-kennedy-dies/index.html).
 
 ## Requirements
 - Python 3.8
