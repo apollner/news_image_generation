@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL best bets for Week 6: Breaking down Commanders-Ravens, top props and more**
+**Stock Market Today: Dow Opens Higher; JPMorgan, Wells Fargo in Focus — Live Updates**
 
-You can read more about it [here](https://www.espn.com/espn/betting/insider/story/_/id/41685205/week-6-nfl-picks-odds-lines-bets-props-commanders-ravens-rookie-qbs).
+You can read more about it [here](https://www.wsj.com/livecoverage/jpmorgan-wells-fargo-earnings-stock-market-10-11-2024).
 
 ## Requirements
 - Python 3.8
