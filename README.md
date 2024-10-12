@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**That was quick: Detroit Tigers break Comerica Park record for postseason attendance again**
+**Ye sued by former employee who was asked to investigate Kim Kardashian, 'tail' Bianca Censori**
 
-You can read more about it [here](https://www.freep.com/story/sports/mlb/tigers/2024/10/10/detroit-tigers-comerica-park-break-record-postseason-attendance/75615028007/).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/10/10/ye-former-employee-lawsuit-kardashians-bianca-censori/75618666007/).
 
 ## Requirements
 - Python 3.8
