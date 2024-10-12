@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis Leverages Its Management Organisation with Changes to Drive Performance Under the Leadership of Carlos Tavares**
+**Lebanon says 22 killed in Israeli strike on central Beirut**
 
-You can read more about it [here](https://www.stellantis.com/en/news/press-releases/2024/october/stellantis-leverages-its-management-organisation-with-changes-to-drive-performance-under-the-leadership-of-carlos-tavares).
+You can read more about it [here](https://www.bbc.com/news/articles/cjd58p1g515o).
 
 ## Requirements
 - Python 3.8
