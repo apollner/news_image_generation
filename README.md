@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RSV vaccines reexamined for serious risks and benefits**
+**National Geographic team may have discovered the foot of a famed Mount Everest climber**
 
-You can read more about it [here](https://www.dailykos.com/stories/2024/10/12/2276367/-RSV-vaccines-reexamined-for-serious-risks-and-benefits).
+You can read more about it [here](https://www.npr.org/2024/10/12/nx-s1-5150469/mount-everest-climber-foot-discovered-national-geographic).
 
 ## Requirements
 - Python 3.8
