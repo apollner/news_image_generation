@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7-Eleven is closing more than 400 locations in North America**
+**EF3 tornado cut 21-mile path through Palm Beach County with 140 mph winds, NWS says**
 
-You can read more about it [here](https://abc7.com/post/7-eleven-is-closing-more-400-locations-north-america/15421921/).
+You can read more about it [here](https://www.wptv.com/weather/weather-news/ef3-tornado-cut-21-mile-path-through-palm-beach-county-with-140-mph-winds-nws-says).
 
 ## Requirements
 - Python 3.8
