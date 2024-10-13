@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the 2025 Social Security cost-of-living adjustment**
+**First glimpse of comet visible over San Antonio will be Friday night**
 
-You can read more about it [here](https://thehill.com/business/4929177-social-security-administration-cola-increase/).
+You can read more about it [here](https://www.ksat.com/weather/2024/10/11/first-glimpse-of-comet-visible-over-san-antonio-will-be-friday-night/).
 
 ## Requirements
 - Python 3.8
