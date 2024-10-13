@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania hit hardest by nationwide whooping cough outbreak**
+**China flags more fiscal stimulus for economy, leaves out key details on size**
 
-You can read more about it [here](https://triblive.com/local/regional/pennsylvania-hit-hardest-by-nationwide-whooping-cough-outbreak/).
+You can read more about it [here](https://www.reuters.com/world/china/china-says-will-significantly-increase-debt-revive-economic-growth-2024-10-12/).
 
 ## Requirements
 - Python 3.8
