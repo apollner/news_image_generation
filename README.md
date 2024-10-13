@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado tour guide was person who died in accident at Mollie Kathleen Gold Mine**
+**Rooted in Process | Oregon Football vs. Ohio State Pregame Trailer**
 
-You can read more about it [here](https://www.cbsnews.com/colorado/news/patrick-weier-colorado-mine-death-tour-guide-cripple-creek-mollie-kathleen-gold-mine/).
+You can read more about it [here](https://www.youtube.com/).
 
 ## Requirements
 - Python 3.8
