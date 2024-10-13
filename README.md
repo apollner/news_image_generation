@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China flags more fiscal stimulus for economy, leaves out key details on size**
+**RSV vaccines reexamined for serious risks and benefits**
 
-You can read more about it [here](https://www.reuters.com/world/china/china-says-will-significantly-increase-debt-revive-economic-growth-2024-10-12/).
+You can read more about it [here](https://www.dailykos.com/stories/2024/10/12/2276367/-RSV-vaccines-reexamined-for-serious-risks-and-benefits).
 
 ## Requirements
 - Python 3.8
