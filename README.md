@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Justice Department says Virginia is illegally striking voters off of voter rolls**
+**Colorado tour guide was person who died in accident at Mollie Kathleen Gold Mine**
 
-You can read more about it [here](https://www.npr.org/2024/10/11/nx-s1-5150774/the-justice-department-says-virginia-is-illegally-striking-voters-off-of-voter-rolls).
+You can read more about it [here](https://www.cbsnews.com/colorado/news/patrick-weier-colorado-mine-death-tour-guide-cripple-creek-mollie-kathleen-gold-mine/).
 
 ## Requirements
 - Python 3.8
