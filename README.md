@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First glimpse of comet visible over San Antonio will be Friday night**
+**Trump requests military aircraft and vehicles amid Iran threat**
 
-You can read more about it [here](https://www.ksat.com/weather/2024/10/11/first-glimpse-of-comet-visible-over-san-antonio-will-be-friday-night/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/11/trump-security-threats-iran-election-2024-campaign/).
 
 ## Requirements
 - Python 3.8
