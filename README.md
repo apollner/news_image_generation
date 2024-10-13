@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why is Donald Trump campaigning in California, a state he’s almost certain to lose?**
+**Trump makes blue-state detour with Coachella rally**
 
-You can read more about it [here](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa).
+You can read more about it [here](https://www.cnn.com/2024/10/12/politics/trump-coachella-rally/index.html).
 
 ## Requirements
 - Python 3.8
