@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to visit Hurricane Milton-ravaged Florida with damage estimates 'around $50 billion'**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/us/biden-visit-hurricane-milton-ravaged-florida-damage-estimates-around-50-billion).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
