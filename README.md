@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Terrifier 3’ Winning Weekend as ‘Joker 2’ Suffers Historic Fall and ‘The Apprentice’ Gets Fired**
+**Massive Best Buy weekend sale is live — 25 early Black Friday deals I’d buy now**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/terrifier-3-box-office-joker-1236030807/).
+You can read more about it [here](https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-is-live-19-early-black-friday-deals-id-buy-now).
 
 ## Requirements
 - Python 3.8
