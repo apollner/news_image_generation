@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rooted in Process | Oregon Football vs. Ohio State Pregame Trailer**
+**Whooping cough cases up more than 340% over this time last year**
 
-You can read more about it [here](https://www.youtube.com/).
+You can read more about it [here](https://www.foxnews.com/health/whooping-cough-cases-up-more-than-over-time-last-year).
 
 ## Requirements
 - Python 3.8
