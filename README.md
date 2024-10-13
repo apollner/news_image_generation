@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump requests military aircraft and vehicles amid Iran threat**
+**The Justice Department says Virginia is illegally striking voters off of voter rolls**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/10/11/trump-security-threats-iran-election-2024-campaign/).
+You can read more about it [here](https://www.npr.org/2024/10/11/nx-s1-5150774/the-justice-department-says-virginia-is-illegally-striking-voters-off-of-voter-rolls).
 
 ## Requirements
 - Python 3.8
