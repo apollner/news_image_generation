@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, Vegas lines, picks, spreads, game predictions: Model eyes Falcons, Commanders in Week 6, 2024**
+**Steam adds the harsh truth that you’re buying “a license,” not the game itself**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-eyes-falcons-commanders-in-week-6-2024/).
+You can read more about it [here](https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/).
 
 ## Requirements
 - Python 3.8
