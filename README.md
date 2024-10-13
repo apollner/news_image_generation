@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RSV vaccines reexamined for serious risks and benefits**
+**Why is Donald Trump campaigning in California, a state he’s almost certain to lose?**
 
-You can read more about it [here](https://www.dailykos.com/stories/2024/10/12/2276367/-RSV-vaccines-reexamined-for-serious-risks-and-benefits).
+You can read more about it [here](https://apnews.com/article/trump-california-coachella-nevada-arizona-newsom-4557c2f98ffc179178fe5b6ec5bcf8aa).
 
 ## Requirements
 - Python 3.8
