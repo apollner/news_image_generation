@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EF3 tornado cut 21-mile path through Palm Beach County with 140 mph winds, NWS says**
+**More abortion ballot measures are set to pass. Then state courts will have their say.**
 
-You can read more about it [here](https://www.wptv.com/weather/weather-news/ef3-tornado-cut-21-mile-path-through-palm-beach-county-with-140-mph-winds-nws-says).
+You can read more about it [here](https://www.politico.com/news/2024/10/12/arizona-ballot-abortion-00183538).
 
 ## Requirements
 - Python 3.8
