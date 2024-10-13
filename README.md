@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Justice Department says Virginia is illegally striking voters off of voter rolls**
+**Trump drives his anti-immigration message in Aurora, Colorado**
 
-You can read more about it [here](https://www.npr.org/2024/10/11/nx-s1-5150774/the-justice-department-says-virginia-is-illegally-striking-voters-off-of-voter-rolls).
+You can read more about it [here](https://apnews.com/article/trump-migrants-deportation-colorado-fe8805ec9024cb683a6386bce9f64c70).
 
 ## Requirements
 - Python 3.8
