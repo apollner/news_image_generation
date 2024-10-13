@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alex Salmond, leading figure in Scottish independence movement, dies at age 69**
+**Fifth peacekeeper wounded in southern Lebanon, UN says**
 
-You can read more about it [here](https://www.cnn.com/2024/10/12/europe/alex-salmond-dead-scotland-intl-latam/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy92zjq508o).
 
 ## Requirements
 - Python 3.8
