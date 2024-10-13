@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Massive Best Buy weekend sale is live — 25 early Black Friday deals I’d buy now**
+**Alex Salmond, leading figure in Scottish independence movement, dies at age 69**
 
-You can read more about it [here](https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-is-live-19-early-black-friday-deals-id-buy-now).
+You can read more about it [here](https://www.cnn.com/2024/10/12/europe/alex-salmond-dead-scotland-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
