@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here are some exclusive details on what Xbox Cloud Gaming "Bring Your Own Games" rollout will look like: Regions, game library size, access on iPhone, Android, and more.**
+**RSV vaccines reexamined for serious risks and benefits**
 
-You can read more about it [here](https://www.windowscentral.com/gaming/xbox/xbox-cloud-gaming-bring-your-own-games-faq).
+You can read more about it [here](https://www.dailykos.com/stories/2024/10/12/2276367/-RSV-vaccines-reexamined-for-serious-risks-and-benefits).
 
 ## Requirements
 - Python 3.8
