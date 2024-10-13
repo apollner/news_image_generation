@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania hit hardest by nationwide whooping cough outbreak**
+**Massive Best Buy weekend sale is live — 25 early Black Friday deals I’d buy now**
 
-You can read more about it [here](https://triblive.com/local/regional/pennsylvania-hit-hardest-by-nationwide-whooping-cough-outbreak/).
+You can read more about it [here](https://www.tomsguide.com/sales-events/massive-best-buy-weekend-sale-is-live-19-early-black-friday-deals-id-buy-now).
 
 ## Requirements
 - Python 3.8
