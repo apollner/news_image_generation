@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More abortion ballot measures are set to pass. Then state courts will have their say.**
+**Here are some exclusive details on what Xbox Cloud Gaming "Bring Your Own Games" rollout will look like: Regions, game library size, access on iPhone, Android, and more.**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/12/arizona-ballot-abortion-00183538).
+You can read more about it [here](https://www.windowscentral.com/gaming/xbox/xbox-cloud-gaming-bring-your-own-games-faq).
 
 ## Requirements
 - Python 3.8
