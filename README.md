@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US urges Israel to stop shooting at UN peacekeepers in Lebanon**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/c2ek2gkp9k2o).
 
 ## Requirements
 - Python 3.8
