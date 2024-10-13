@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An elevator malfunction killed 1 and trapped 12 at a Colorado tourist mine**
+**NFL odds, Vegas lines, picks, spreads, game predictions: Model eyes Falcons, Commanders in Week 6, 2024**
 
-You can read more about it [here](https://apnews.com/article/colorado-former-gold-mine-death-3ff210f97a9c046bd09499c3c6ef8272).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-vegas-lines-picks-spreads-game-predictions-model-eyes-falcons-commanders-in-week-6-2024/).
 
 ## Requirements
 - Python 3.8
