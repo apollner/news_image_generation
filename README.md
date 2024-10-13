@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Geographic team may have discovered the foot of a famed Mount Everest climber**
+**Pennsylvania hit hardest by nationwide whooping cough outbreak**
 
-You can read more about it [here](https://www.npr.org/2024/10/12/nx-s1-5150469/mount-everest-climber-foot-discovered-national-geographic).
+You can read more about it [here](https://triblive.com/local/regional/pennsylvania-hit-hardest-by-nationwide-whooping-cough-outbreak/).
 
 ## Requirements
 - Python 3.8
