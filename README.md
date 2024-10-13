@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Xbox Cloud Gaming "Bring Your Own Games" rollout begins in November 2024. Here's what to expect on regions, game library size, access on iPhone, Android, and more.**
+**Pennsylvania hit hardest by nationwide whooping cough outbreak**
 
-You can read more about it [here](https://www.windowscentral.com/gaming/xbox/xbox-cloud-gaming-bring-your-own-games-rollout-begins-in-november-2024-heres-what-to-expect-on-regions-game-library-size-access-on-iphone-android-and-more).
+You can read more about it [here](https://triblive.com/local/regional/pennsylvania-hit-hardest-by-nationwide-whooping-cough-outbreak/).
 
 ## Requirements
 - Python 3.8
