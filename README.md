@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steam adds the harsh truth that you’re buying “a license,” not the game itself**
+**What to know about the 2025 Social Security cost-of-living adjustment**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/10/steam-now-reminds-you-that-it-really-sells-a-license-for-a-digital-product/).
+You can read more about it [here](https://thehill.com/business/4929177-social-security-administration-cola-increase/).
 
 ## Requirements
 - Python 3.8
