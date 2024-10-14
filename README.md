@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pokémon Developer Game Freak Reportedly Hacked, Stolen Data on Unannounced Games as Well as Nintendo Switch 2 Codename Leaked Online**
+**Palestine’s UN envoy says ‘genocide within genocide’ going on in north Gaza**
 
-You can read more about it [here](https://www.ign.com/articles/pokmon-developer-game-freak-reportedly-hacked-stolen-data-on-unannounced-games-as-well-as-nintendo-switch-2-codename-leaked-online).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/13/palestines-un-envoy-says-genocide-within-genocide-going-on-in-north-gaza).
 
 ## Requirements
 - Python 3.8
