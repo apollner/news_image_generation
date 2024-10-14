@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aidan Hutchinson injury update: Lions DE suffers significant leg injury vs. Cowboys**
+**Liam Gallagher Reacts To ‘SNL’ Sketch Poking Fun At Oasis Brothers’ Feud**
 
-You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2024/10/13/aidan-hutchinson-leg-injury-lions-cowboys-game/75664513007/).
+You can read more about it [here](http://deadline.com/2024/10/liam-gallagher-snl-sketch-oasis-feud-1236114682/).
 
 ## Requirements
 - Python 3.8
