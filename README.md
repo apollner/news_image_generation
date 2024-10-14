@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julia Fox claims Kanye West ‘used her as pawn’ amid allegations he raped his ex-assistant at Diddy party**
+**Trump spread conspiracies on mail-in voting for years. Now his campaign is urging people to vote early and by mail**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/julia-fox-claims-kanye-west-used-her-as-pawn-amid-allegations-he-raped-his-ex-assistant-at-diddy-party-101728785892452.html).
+You can read more about it [here](https://www.cnn.com/2024/10/13/politics/trump-mail-in-voting/index.html).
 
 ## Requirements
 - Python 3.8
