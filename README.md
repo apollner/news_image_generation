@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gary Peters is tasked with defending a brutal Senate map for Dems. Then he wants to ‘work and ride motorcycles.’**
+**'Dead heat': Trump pulls even with Harris in NBC News poll**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/13/gary-peters-senate-map-00183541).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/dead-heat-trump-pulls-even-harris-nbc-news-poll-rcna174201).
 
 ## Requirements
 - Python 3.8
