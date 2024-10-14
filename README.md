@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retail sales, big banks' results, and Netflix earnings: What to know this week**
+**Gary Peters is tasked with defending a brutal Senate map for Dems. Then he wants to ‘work and ride motorcycles.’**
 
-You can read more about it [here](https://finance.yahoo.com/news/retail-sales-big-banks-results-and-netflix-earnings-what-to-know-this-week-114506799.html).
+You can read more about it [here](https://www.politico.com/news/2024/10/13/gary-peters-senate-map-00183541).
 
 ## Requirements
 - Python 3.8
