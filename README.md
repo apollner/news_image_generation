@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare deluge floods parts of the Sahara desert for the first time in decades**
+**NASA Updates Coverage for Europa Clipper Following Hurricane Milton**
 
-You can read more about it [here](https://www.cbsnews.com/news/sahara-desert-flooding-morocco/).
+You can read more about it [here](http://www.jpl.nasa.gov/news/nasa-updates-coverage-for-europa-clipper-following-hurricane-milton/).
 
 ## Requirements
 - Python 3.8
