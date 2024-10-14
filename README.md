@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Scottish First Minister Alex Salmond, who nearly got Scotland's independence from UK, dies at 69**
+**What is UNIFIL, the U.N. peacekeeping force in Lebanon?**
 
-You can read more about it [here](https://apnews.com/article/uk-scotland-alex-salmond-dead-bb41c9c8dad38dc16a2760fd15eb8ad4).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/12/unifil-un-peacekeeping-what-is-force-lebanon-united-nations/).
 
 ## Requirements
 - Python 3.8
