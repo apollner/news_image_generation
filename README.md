@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing’s Endless Doom Loop Gives No Respite to New CEO Ortberg**
+**Aidan Hutchinson injury update: Lions DE suffers significant leg injury vs. Cowboys**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-13/boeing-s-endless-doom-loop-gives-no-respite-to-new-ceo-ortberg).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2024/10/13/aidan-hutchinson-leg-injury-lions-cowboys-game/75664513007/).
 
 ## Requirements
 - Python 3.8
