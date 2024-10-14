@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump rallies in solid blue California in unorthodox campaign move**
+**Ex-Scottish First Minister Alex Salmond, who nearly got Scotland's independence from UK, dies at 69**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/12/trump-to-rally-in-solid-blue-california-in-unorthodox-campaign-move).
+You can read more about it [here](https://apnews.com/article/uk-scotland-alex-salmond-dead-bb41c9c8dad38dc16a2760fd15eb8ad4).
 
 ## Requirements
 - Python 3.8
