@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-Scottish First Minister Alex Salmond, who nearly got Scotland's independence from UK, dies at 69**
+**Rare comet may be visible to naked eye. Here's where to look.**
 
-You can read more about it [here](https://apnews.com/article/uk-scotland-alex-salmond-dead-bb41c9c8dad38dc16a2760fd15eb8ad4).
+You can read more about it [here](https://www.cbsnews.com/boston/news/comet-visible-tonight-how-to-watch/).
 
 ## Requirements
 - Python 3.8
