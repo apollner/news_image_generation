@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump spread conspiracies on mail-in voting for years. Now his campaign is urging people to vote early and by mail**
+**Pokémon Developer Game Freak Reportedly Hacked, Stolen Data on Unannounced Games as Well as Nintendo Switch 2 Codename Leaked Online**
 
-You can read more about it [here](https://www.cnn.com/2024/10/13/politics/trump-mail-in-voting/index.html).
+You can read more about it [here](https://www.ign.com/articles/pokmon-developer-game-freak-reportedly-hacked-stolen-data-on-unannounced-games-as-well-as-nintendo-switch-2-codename-leaked-online).
 
 ## Requirements
 - Python 3.8
