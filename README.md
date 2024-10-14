@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Dead heat': Trump pulls even with Harris in NBC News poll**
+**Terrifier 3 beats Joker 2 at box office as Joaquin Phoenix film sees huge drop**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/dead-heat-trump-pulls-even-harris-nbc-news-poll-rcna174201).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/terrifier-3-beats-joker-2-at-box-office-as-joaquin-phoenix-film-sees-huge-drop-101728815242357.html).
 
 ## Requirements
 - Python 3.8
