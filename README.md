@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch Jaguars vs. Bears today: Start time, TV, live stream for NFL London game**
+**Julia Fox claims Kanye West ‘used her as pawn’ amid allegations he raped his ex-assistant at Diddy party**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/10/13/jaguars-bears-game-london-time-tv-streaming/75605623007/).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/julia-fox-claims-kanye-west-used-her-as-pawn-amid-allegations-he-raped-his-ex-assistant-at-diddy-party-101728785892452.html).
 
 ## Requirements
 - Python 3.8
