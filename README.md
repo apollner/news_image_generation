@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The bull market is 2 years old. Here's where Wall Street thinks stocks go next.**
+**Jacksonville Jaguars vs. Chicago Bears | 2024 Week 6 Game Highlights**
 
-You can read more about it [here](https://finance.yahoo.com/news/the-bull-market-is-2-years-old-heres-where-wall-street-thinks-stocks-go-next-100050648.html).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003d5mNcc41F834).
 
 ## Requirements
 - Python 3.8
