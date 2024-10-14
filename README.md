@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is the stock market open on Columbus Day? (S&P Complete Indices:SP500)**
+**Boeing’s Endless Doom Loop Gives No Respite to New CEO Ortberg**
 
-You can read more about it [here](https://seekingalpha.com/news/4158082-is-the-stock-market-open-on-columbus-day).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-13/boeing-s-endless-doom-loop-gives-no-respite-to-new-ceo-ortberg).
 
 ## Requirements
 - Python 3.8
