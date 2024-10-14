@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7-Eleven is closing more than 400 locations in North America**
+**NASA Updates Coverage for Europa Clipper Following Hurricane Milton**
 
-You can read more about it [here](https://abc7.com/post/7-eleven-is-closing-more-400-locations-north-america/15421921/).
+You can read more about it [here](http://www.jpl.nasa.gov/news/nasa-updates-coverage-for-europa-clipper-following-hurricane-milton/).
 
 ## Requirements
 - Python 3.8
