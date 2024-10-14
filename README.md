@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran Responds to 'Secret Documents' Linking Tehran to Hamas' Oct. 7 Attack**
+**Rare deluge floods parts of the Sahara desert for the first time in decades**
 
-You can read more about it [here](https://www.newsweek.com/iran-denies-secret-hamas-oct-7-attack-meetings-1968144).
+You can read more about it [here](https://www.cbsnews.com/news/sahara-desert-flooding-morocco/).
 
 ## Requirements
 - Python 3.8
