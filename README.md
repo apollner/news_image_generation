@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pokémon Developer Game Freak Reportedly Hacked, Stolen Data on Unannounced Games as Well as Nintendo Switch 2 Codename Leaked Online**
+**Inside the TikTok documents: Stripping teens and boosting ‘attractive’ people**
 
-You can read more about it [here](https://www.ign.com/articles/pokmon-developer-game-freak-reportedly-hacked-stolen-data-on-unannounced-games-as-well-as-nintendo-switch-2-codename-leaked-online).
+You can read more about it [here](https://www.npr.org/2024/10/12/g-s1-28040/teens-tiktok-addiction-lawsuit-investigation-documents).
 
 ## Requirements
 - Python 3.8
