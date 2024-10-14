@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestine’s UN envoy says ‘genocide within genocide’ going on in north Gaza**
+**In an engineering feat, mechanical SpaceX arms catch Starship rocket booster back at the launch pad**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/13/palestines-un-envoy-says-genocide-within-genocide-going-on-in-north-gaza).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/spacex-launches-mega-starship-rocket-time-mechanical-arms-114758080).
 
 ## Requirements
 - Python 3.8
