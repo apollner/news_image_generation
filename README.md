@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Christopher Columbus was likely Spanish and Jewish, study suggests**
+**Netanyahu mulls plan to empty northern Gaza of civilians and cut off aid to those left inside**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckg2049ezpko).
+You can read more about it [here](https://apnews.com/article/hamas-israel-generals-plan-eiland-gaza-219d7eb9a3050e281ccc032d5a56263c).
 
 ## Requirements
 - Python 3.8
