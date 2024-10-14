@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EF3 tornado cut 21-mile path through Palm Beach County with 140 mph winds, NWS says**
+**Starship’s fifth test flight is approved: where to watch the launch**
 
-You can read more about it [here](https://www.wptv.com/weather/weather-news/ef3-tornado-cut-21-mile-path-through-palm-beach-county-with-140-mph-winds-nws-says).
+You can read more about it [here](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october).
 
 ## Requirements
 - Python 3.8
