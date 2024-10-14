@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Iran Responds to 'Secret Documents' Linking Tehran to Hamas' Oct. 7 Attack**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.newsweek.com/iran-denies-secret-hamas-oct-7-attack-meetings-1968144).
 
 ## Requirements
 - Python 3.8
