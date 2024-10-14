@@ -1,24 +1,10 @@
-# News Image Generation
-This repository contains a Python script that automatically generates an image based on a news headline. The script uses the [NewsAPI](https://newsapi.org/) to fetch the latest headlines, and then generates an image using the [DiffusionPipeline](https://github.com/huggingface/diffusers) from the `diffusers` Python package for Text-to-Image task.
-The script is scheduled to run every few minutes. Each time it runs, it fetches a new headline and generates a new image, which is then displayed below. The image generation process is performed on a GPU.
 
-## Generated Image
-Below is the latest generated image:
-![Generated Image](image.png)
-
-## Latest News Headline
-The latest news headline used to generate the image is:
-
-**Pokémon Developer Game Freak Reportedly Hacked, Massive Amounts Of Data Allegedly Leaked**
-
-You can read more about it [here](https://www.nintendolife.com/news/2024/10/pokemon-developer-game-freak-reportedly-hacked-massive-amounts-of-data-allegedly-leaked).
-
-## Requirements
-- Python 3.8
-- Hugging Face account
-- NewsAPI key
-- `diffusers` Python package
-- `invisible_watermark` Python package
-- `transformers` Python package
-- `accelerate` Python package
-- `safetensors` Python package
+<html><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>502 Server Error</title>
+</head>
+<body text=#000000 bgcolor=#ffffff>
+<h1>Error: Server Error</h1>
+<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>
+<h2></h2>
+</body></html>
