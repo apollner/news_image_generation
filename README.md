@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rare deluge floods parts of the Sahara desert for the first time in decades**
+**Julia Fox Says She Deeply Regrets Dating Kanye West**
 
-You can read more about it [here](https://www.cbsnews.com/news/sahara-desert-flooding-morocco/).
+You can read more about it [here](https://www.tmz.com/2024/10/12/julia-fox-regret-briefly-dating-kanye-west/).
 
 ## Requirements
 - Python 3.8
