@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel orders evacuation of more southern Lebanese towns, three UN peacekeepers wounded**
+**[Removed]**
 
-You can read more about it [here](https://www.usatoday.com/story/news/world/israel-hamas/2024/10/12/israel-orders-evacuation-southern-lebanon-un-peacekeepers-wounded/75652060007/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
