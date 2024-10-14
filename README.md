@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Updates Coverage for Europa Clipper Following Hurricane Milton**
+**[Removed]**
 
-You can read more about it [here](http://www.jpl.nasa.gov/news/nasa-updates-coverage-for-europa-clipper-following-hurricane-milton/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
