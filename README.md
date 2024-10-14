@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions vs. Cowboys: Live score updates, highlights, analysis**
+**Is the stock market open on Columbus Day? (S&P Complete Indices:SP500)**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/10/13/24269291/detroit-lions-vs-dallas-cowboys-live-score-updates-highlights-analysis).
+You can read more about it [here](https://seekingalpha.com/news/4158082-is-the-stock-market-open-on-columbus-day).
 
 ## Requirements
 - Python 3.8
