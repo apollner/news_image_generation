@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Terrifier 3 beats Joker 2 at box office as Joaquin Phoenix film sees huge drop**
+**Pokémon Developer Game Freak Reportedly Hacked, Stolen Data on Unannounced Games as Well as Nintendo Switch 2 Codename Leaked Online**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/terrifier-3-beats-joker-2-at-box-office-as-joaquin-phoenix-film-sees-huge-drop-101728815242357.html).
+You can read more about it [here](https://www.ign.com/articles/pokmon-developer-game-freak-reportedly-hacked-stolen-data-on-unannounced-games-as-well-as-nintendo-switch-2-codename-leaked-online).
 
 ## Requirements
 - Python 3.8
