@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is UNIFIL, the U.N. peacekeeping force in Lebanon?**
+**Pokémon Developer Game Freak Reportedly Hacked, Massive Amounts Of Data Allegedly Leaked**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/12/unifil-un-peacekeeping-what-is-force-lebanon-united-nations/).
+You can read more about it [here](https://www.nintendolife.com/news/2024/10/pokemon-developer-game-freak-reportedly-hacked-massive-amounts-of-data-allegedly-leaked).
 
 ## Requirements
 - Python 3.8
