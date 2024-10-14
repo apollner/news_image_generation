@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starship’s fifth test flight is approved: where to watch the launch**
+**Trump rallies in solid blue California in unorthodox campaign move**
 
-You can read more about it [here](https://www.theverge.com/2024/10/12/24268720/spacex-starship-launch-faa-approval-suborbital-flight-test-october).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/12/trump-to-rally-in-solid-blue-california-in-unorthodox-campaign-move).
 
 ## Requirements
 - Python 3.8
