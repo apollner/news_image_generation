@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance stands by Trump's false claims about Venezuelan gangs in Aurora, Colorado**
+**Christopher Columbus was likely Spanish and Jewish, study suggests**
 
-You can read more about it [here](https://abcnews.go.com/Politics/vance-stands-trumps-false-claims-venezuelan-gangs-aurora/story?id\\u003d114751512).
+You can read more about it [here](https://www.bbc.com/news/articles/ckg2049ezpko).
 
 ## Requirements
 - Python 3.8
