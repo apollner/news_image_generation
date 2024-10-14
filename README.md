@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jacksonville Jaguars vs. Chicago Bears | 2024 Week 6 Game Highlights**
+**Vance stands by Trump's false claims about Venezuelan gangs in Aurora, Colorado**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003d5mNcc41F834).
+You can read more about it [here](https://abcnews.go.com/Politics/vance-stands-trumps-false-claims-venezuelan-gangs-aurora/story?id\\u003d114751512).
 
 ## Requirements
 - Python 3.8
