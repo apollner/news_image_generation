@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Formation chance for Invest 94-L in Atlantic slightly increases; Tropical depression possible**
+**Taiwan condemns Chinese military drills around island as ‘unreasonable provocation’**
 
-You can read more about it [here](https://www.wesh.com/article/invest-94-tropical-depression-atlantic-ocean-nhc-florida/62590568).
+You can read more about it [here](https://www.cnn.com/2024/10/14/asia/china-military-drills-taiwan-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
