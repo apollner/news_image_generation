@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Power Rankings: Ole Miss plummets, Notre Dame ticks up after dramatic Week 7 slate**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-power-rankings-ole-miss-plummets-notre-dame-ticks-up-after-dramatic-week-7-slate/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
