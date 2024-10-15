@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks making the biggest moves premarket: Flutter Entertainment, Boeing, SiriusXM, Caterpillar and more**
+**Nobel economics prize is awarded for research into how poor institutions affect countries' success**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/14/stocks-making-the-biggest-moves-premarket-flut-ba-siri-cat.html).
+You can read more about it [here](https://apnews.com/article/nobel-economics-prize-db3bfe55ac17dd22cf82f1dd637bfa94).
 
 ## Requirements
 - Python 3.8
