@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats**
+**Conditions should be perfect Monday for viewing comet over Utah**
 
-You can read more about it [here](https://apnews.com/article/fema-threats-disaster-workers-rutherford-county-armed-militia-dbb6b5727eaa12e79f307bf38a4b6256).
+You can read more about it [here](https://www.fox13now.com/news/local-news/conditions-should-be-perfect-monday-for-viewing-comet-over-utah).
 
 ## Requirements
 - Python 3.8
