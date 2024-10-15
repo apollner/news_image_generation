@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DiVincenzo has words with Rick Brunson at MSG**
+**SpaceX catches giant Starship booster in fifth flight test**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/41782685/timberwolves-donte-divincenzo-knicks-assistant-rick-brunson-heated-exchange-preseason-game).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-launches-fifth-starship-test-eyes-novel-booster-catch-2024-10-13/).
 
 ## Requirements
 - Python 3.8
