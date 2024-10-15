@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Forget Black Friday: Here Are 10 Amazon Deals Still Going Strong This Post-Prime Day Monday**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://gizmodo.com/forget-black-friday-here-are-10-amazon-deals-still-going-strong-this-post-prime-day-monday-2000511687).
 
 ## Requirements
 - Python 3.8
