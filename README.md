@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘I, Robot’ Director Mocks Elon Musk for Tesla Ripping Off Film for Optimus, Robotaxi: “Can I Have My Designs Back Please?”**
+**DiVincenzo has words with Rick Brunson at MSG**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/elon-musk-tesla-ripping-off-i-robot-optimus-robotaxis-1236031124/).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/41782685/timberwolves-donte-divincenzo-knicks-assistant-rick-brunson-heated-exchange-preseason-game).
 
 ## Requirements
 - Python 3.8
