@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX catches returning rocket in mid-air, turning a fanciful idea into reality**
+**New travel warning issued following Marburg outbreak**
 
-You can read more about it [here](https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/).
+You can read more about it [here](https://www.jpost.com/health-and-wellness/article-824460).
 
 ## Requirements
 - Python 3.8
