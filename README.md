@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro surfer Bethany Hamilton begs for medical miracle after 3-year-old nephew is found unconscious in bathtub**
+**SpaceX catches returning rocket in mid-air, turning a fanciful idea into reality**
 
-You can read more about it [here](https://pagesix.com/2024/10/13/celebrity-news/bethany-hamilton-says-3-year-old-nephew-was-found-unconscious-in-bathtub/).
+You can read more about it [here](https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/).
 
 ## Requirements
 - Python 3.8
