@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See The Comet And A Supermoon-Saturn Eclipse: The Night Sky This Week**
+**Stocks making the biggest moves premarket: Flutter Entertainment, Boeing, SiriusXM, Caterpillar and more**
 
-You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/10/14/see-the-hunters-supermoon-eclipse-saturn-the-night-sky-this-week/).
+You can read more about it [here](https://www.cnbc.com/2024/10/14/stocks-making-the-biggest-moves-premarket-flut-ba-siri-cat.html).
 
 ## Requirements
 - Python 3.8
