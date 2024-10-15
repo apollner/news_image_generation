@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX catches giant Starship booster in fifth flight test**
+**Tesla stock selloff after robotaxi event could be just the beginning, pros warn**
 
-You can read more about it [here](https://www.reuters.com/technology/space/spacex-launches-fifth-starship-test-eyes-novel-booster-catch-2024-10-13/).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-selloff-after-robotaxi-event-could-be-just-the-beginning-pros-warn-155630131.html).
 
 ## Requirements
 - Python 3.8
