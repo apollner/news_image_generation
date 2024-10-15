@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘SuperLimbs’ could help astronauts recover from falls**
+**‘I, Robot’ Director Mocks Elon Musk for Tesla Ripping Off Film for Optimus, Robotaxi: “Can I Have My Designs Back Please?”**
 
-You can read more about it [here](https://www.cnn.com/science/superlimbs-wearable-robotic-limbs-astronauts-hnk-spc/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/elon-musk-tesla-ripping-off-i-robot-optimus-robotaxis-1236031124/).
 
 ## Requirements
 - Python 3.8
