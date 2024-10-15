@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**On IDF tour of southern Lebanon, signs of Hezbollah tunnels and arms**
+**NFL Week 6 grades: Cowboys get an 'F' for embarrassing blowout loss, Bears earn an 'A' for big win in London**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/13/isarel-military-lebanon-south-hezbollah-war/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-6-grades-bears-earn-an-a-for-big-win-in-london-ravens-get-high-mark-for-beating-commanders/).
 
 ## Requirements
 - Python 3.8
