@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Jones Didn't Mince Words After Cowboys' Blowout Loss vs. Lions**
+**Pro surfer Bethany Hamilton begs for medical miracle after 3-year-old nephew is found unconscious in bathtub**
 
-You can read more about it [here](https://www.si.com/nfl/jerry-jones-didnt-mince-words-after-cowboys-blowout-loss-vs-lions).
+You can read more about it [here](https://pagesix.com/2024/10/13/celebrity-news/bethany-hamilton-says-3-year-old-nephew-was-found-unconscious-in-bathtub/).
 
 ## Requirements
 - Python 3.8
