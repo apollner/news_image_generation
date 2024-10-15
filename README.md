@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Come hurricane or high water, Florida island residents promise to stay**
+**SpaceX catches giant Starship booster in fifth flight test**
 
-You can read more about it [here](https://www.npr.org/2024/10/14/nx-s1-5150472/hurricane-milton-helene-longboat-key-florida-barrier-island).
+You can read more about it [here](https://www.reuters.com/technology/space/spacex-launches-fifth-starship-test-eyes-novel-booster-catch-2024-10-13/).
 
 ## Requirements
 - Python 3.8
