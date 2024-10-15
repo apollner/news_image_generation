@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liam Gallagher Reacts To ‘SNL’ Sketch Poking Fun At Oasis Brothers’ Feud**
+**Jerry Jones Didn't Mince Words After Cowboys' Blowout Loss vs. Lions**
 
-You can read more about it [here](http://deadline.com/2024/10/liam-gallagher-snl-sketch-oasis-feud-1236114682/).
+You can read more about it [here](https://www.si.com/nfl/jerry-jones-didnt-mince-words-after-cowboys-blowout-loss-vs-lions).
 
 ## Requirements
 - Python 3.8
