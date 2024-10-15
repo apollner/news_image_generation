@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada, India expel diplomats as police uncover ‘campaign of violence’**
+**Train operator killed after NJ Transit River Line crash in Burlington County**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/14/india-furious-as-diplomats-declared-persons-of-interest-in-canada-probe).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/new-jersey-transit-fatal-train-crash-burlington-county/).
 
 ## Requirements
 - Python 3.8
