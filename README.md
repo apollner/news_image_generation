@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris will sit down with Bret Baier for her first Fox News interview**
+**Kids and teens who get covid more prone to diabetes, study finds**
 
-You can read more about it [here](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/14/kids-teens-covid-diabetes/).
 
 ## Requirements
 - Python 3.8
