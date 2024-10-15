@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kids and teens who get covid more prone to diabetes, study finds**
+**25% of Adults Suspect Undiagnosed ADHD**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/10/14/kids-teens-covid-diabetes/).
+You can read more about it [here](https://neurosciencenews.com/adult-adhd-psychology-27860/).
 
 ## Requirements
 - Python 3.8
