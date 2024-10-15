@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Hatchet Job’ Made by ‘HUMAN SCUM’: Frothing Trump Reviews ‘The Apprentice’**
+**Stocks making the biggest moves premarket: Flutter Entertainment, Boeing, SiriusXM, Caterpillar and more**
 
-You can read more about it [here](https://www.thedailybeast.com/hatchet-job-made-by-human-scum-frothing-donald-trump-reviews-the-apprentice).
+You can read more about it [here](https://www.cnbc.com/2024/10/14/stocks-making-the-biggest-moves-premarket-flut-ba-siri-cat.html).
 
 ## Requirements
 - Python 3.8
