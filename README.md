@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Galaxy S23, S23+, and S23 Ultra get October 2024 security update - SamMobile**
+**What time will SpaceX launch NASA's Europa Clipper to icy Jupiter moon on Oct. 14 (and how to watch online)?**
 
-You can read more about it [here](https://www.sammobile.com/news/galaxy-s23-plus-ultra-october-2024-security-update-usa/).
+You can read more about it [here](https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream).
 
 ## Requirements
 - Python 3.8
