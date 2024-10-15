@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some FEMA operations paused in North Carolina after reports National Guard troops saw ‘armed militia’ threatening them**
+**FEMA workers change some hurricane-recovery efforts in North Carolina after receiving threats**
 
-You can read more about it [here](https://www.cnn.com/2024/10/14/us/fema-helene-north-carolina-reported-threats/index.html).
+You can read more about it [here](https://apnews.com/article/fema-threats-disaster-workers-rutherford-county-armed-militia-dbb6b5727eaa12e79f307bf38a4b6256).
 
 ## Requirements
 - Python 3.8
