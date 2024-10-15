@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cincinnati Bengals vs. New York Giants Game Highlights | NFL 2024 Season Week 6**
+**SpaceX catches returning rocket in mid-air, turning a fanciful idea into reality**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dEknqQ3Ocy_4).
+You can read more about it [here](https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/).
 
 ## Requirements
 - Python 3.8
