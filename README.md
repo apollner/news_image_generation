@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing factory strike crosses 1-month mark as pressure mounts on new CEO**
+**Kamala Harris will sit down with Bret Baier for her first Fox News interview**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/14/boeing-factory-strike-1-month.html).
+You can read more about it [here](https://apnews.com/article/kamala-harris-fox-news-interview-41d02466eddf3be38126008470335803).
 
 ## Requirements
 - Python 3.8
