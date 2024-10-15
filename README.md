@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Forget Black Friday: Here Are 10 Amazon Deals Still Going Strong This Post-Prime Day Monday**
+**See The Comet And A Supermoon-Saturn Eclipse: The Night Sky This Week**
 
-You can read more about it [here](https://gizmodo.com/forget-black-friday-here-are-10-amazon-deals-still-going-strong-this-post-prime-day-monday-2000511687).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/10/14/see-the-hunters-supermoon-eclipse-saturn-the-night-sky-this-week/).
 
 ## Requirements
 - Python 3.8
