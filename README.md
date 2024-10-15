@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New travel warning issued following Marburg outbreak**
+**On IDF tour of southern Lebanon, signs of Hezbollah tunnels and arms**
 
-You can read more about it [here](https://www.jpost.com/health-and-wellness/article-824460).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/13/isarel-military-lebanon-south-hezbollah-war/).
 
 ## Requirements
 - Python 3.8
