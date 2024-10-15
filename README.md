@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**25% of Adults Suspect Undiagnosed ADHD**
+**Some FEMA operations paused in North Carolina after reports National Guard troops saw ‘armed militia’ threatening them**
 
-You can read more about it [here](https://neurosciencenews.com/adult-adhd-psychology-27860/).
+You can read more about it [here](https://www.cnn.com/2024/10/14/us/fema-helene-north-carolina-reported-threats/index.html).
 
 ## Requirements
 - Python 3.8
