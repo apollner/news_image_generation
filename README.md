@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conditions should be perfect Monday for viewing comet over Utah**
+**Canada, India expel diplomats as police uncover ‘campaign of violence’**
 
-You can read more about it [here](https://www.fox13now.com/news/local-news/conditions-should-be-perfect-monday-for-viewing-comet-over-utah).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/14/india-furious-as-diplomats-declared-persons-of-interest-in-canada-probe).
 
 ## Requirements
 - Python 3.8
