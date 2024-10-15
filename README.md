@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LIVE: NASA, SpaceX set for launch of historic Europa Clipper mission to Jupiter**
+**‘Hatchet Job’ Made by ‘HUMAN SCUM’: Frothing Trump Reviews ‘The Apprentice’**
 
-You can read more about it [here](https://www.nasaspaceflight.com/2024/10/europa-clipper-launch/).
+You can read more about it [here](https://www.thedailybeast.com/hatchet-job-made-by-human-scum-frothing-donald-trump-reviews-the-apprentice).
 
 ## Requirements
 - Python 3.8
