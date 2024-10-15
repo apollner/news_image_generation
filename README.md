@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Boeing factory strike crosses 1-month mark as pressure mounts on new CEO**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/10/14/boeing-factory-strike-1-month.html).
 
 ## Requirements
 - Python 3.8
