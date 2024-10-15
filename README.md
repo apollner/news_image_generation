@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla stock selloff after robotaxi event could be just the beginning, pros warn**
+**What time will SpaceX launch NASA's Europa Clipper to icy Jupiter moon on Oct. 14 (and how to watch online)?**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-selloff-after-robotaxi-event-could-be-just-the-beginning-pros-warn-155630131.html).
+You can read more about it [here](https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream).
 
 ## Requirements
 - Python 3.8
