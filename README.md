@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions DE Aidan Hutchinson undergoes successful surgery after gruesome leg injury in win over Cowboys**
+**LIVE: NASA, SpaceX set for launch of historic Europa Clipper mission to Jupiter**
 
-You can read more about it [here](https://sports.yahoo.com/lions-de-aidan-hutchinson-undergoes-successful-surgery-after-gruesome-leg-injury-in-win-over-cowboys-222638655.html).
+You can read more about it [here](https://www.nasaspaceflight.com/2024/10/europa-clipper-launch/).
 
 ## Requirements
 - Python 3.8
