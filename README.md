@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time will SpaceX launch NASA's Europa Clipper to icy Jupiter moon on Oct. 14 (and how to watch online)?**
+**Come hurricane or high water, Florida island residents promise to stay**
 
-You can read more about it [here](https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream).
+You can read more about it [here](https://www.npr.org/2024/10/14/nx-s1-5150472/hurricane-milton-helene-longboat-key-florida-barrier-island).
 
 ## Requirements
 - Python 3.8
