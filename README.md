@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jerry Jones Makes Declarative Statement on Mike McCarthy's Job After Ugly Loss to Lions**
+**Cincinnati Bengals vs. New York Giants Game Highlights | NFL 2024 Season Week 6**
 
-You can read more about it [here](https://www.si.com/nfl/jerry-jones-makes-declarative-statement-on-mike-mccarthy-job-loss-lions).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dEknqQ3Ocy_4).
 
 ## Requirements
 - Python 3.8
