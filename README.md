@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lufthansa fined $4 million for denying boarding to 128 Jewish passengers**
+**Bills land star WR Cooper in trade with Browns**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/10/15/lufthansa-fine-jewish-passenger-boarding/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41813493/bills-trade-browns-wr-amari-cooper-sources-say).
 
 ## Requirements
 - Python 3.8
