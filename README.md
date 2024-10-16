@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills land star WR Cooper in trade with Browns**
+**Georgia judge rules election officials can't delay certification because of fraud concerns**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41813493/bills-trade-browns-wr-amari-cooper-sources-say).
+You can read more about it [here](https://www.cbsnews.com/news/georgia-election-certification-judge-fraud-concerns/).
 
 ## Requirements
 - Python 3.8
