@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Goldman Sachs, Bank Of America Extend Breakouts On Earnings; Citigroup Eyes Buy Point**
+**Satellite images show how Hurricane Milton reshaped parts of Florida coastline**
 
-You can read more about it [here](https://www.investors.com/news/goldman-sachs-earnings-gs-stock-bank-of-america-bac-citi/).
+You can read more about it [here](https://www.cbsnews.com/news/satellite-images-hurricane-milton-florida-coastline/).
 
 ## Requirements
 - Python 3.8
