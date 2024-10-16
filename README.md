@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN’s Tapper, Youngkin spar over Trump military remarks**
+**Drone attack on Israel puts spotlight on Iron Dome's limitations**
 
-You can read more about it [here](https://thehill.com/homenews/media/4933376-jake-tapper-glenn-youngkin-donald-trump-military-comments/).
+You can read more about it [here](https://www.bbc.com/news/articles/c4g9wx2q09ko).
 
 ## Requirements
 - Python 3.8
