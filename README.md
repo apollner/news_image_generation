@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don’t call it Trump-proofing**
+**Drone War Over Ukraine Is A High Speed Technology Arms Race**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/15/trump-california-environment-supreme-court-00183585).
+You can read more about it [here](https://www.forbes.com/sites/davidhambling/2024/10/15/jammers-and-cameras-new-twists-in-drone-interceptor-war-over-ukraine/).
 
 ## Requirements
 - Python 3.8
