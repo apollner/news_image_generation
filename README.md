@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quest 3S Has Better Low-Light Head & Hand Tracking Than Quest 3**
+**A record number of Chinese warplanes flew close to Taiwan during military drills**
 
-You can read more about it [here](https://www.uploadvr.com/quest3s-hand-tracking-better-than-quest-3/).
+You can read more about it [here](https://www.cnn.com/2024/10/15/asia/record-china-warplanes-taiwan-drills-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
