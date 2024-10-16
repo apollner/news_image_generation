@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers does it again, hits another Hail Mary for Jets**
+**CNN’s Tapper, Youngkin spar over Trump military remarks**
 
-You can read more about it [here](https://sports.yahoo.com/aaron-rodgers-does-it-again-hits-another-hail-mary-for-jets-015053706.html).
+You can read more about it [here](https://thehill.com/homenews/media/4933376-jake-tapper-glenn-youngkin-donald-trump-military-comments/).
 
 ## Requirements
 - Python 3.8
