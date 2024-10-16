@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada expels top India diplomats, links them to murder of Sikh leader**
+**Tracking the tropics: 2 disturbances show no immediate threat to Florida**
 
-You can read more about it [here](https://www.reuters.com/world/india-says-canadas-allegations-against-its-diplomats-preposterous-2024-10-14/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dh_UmJZHRPIg).
 
 ## Requirements
 - Python 3.8
