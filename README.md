@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia judge rules election officials can't delay certification because of fraud concerns**
+**'That is just simple mathematics': Journalist presses Trump on his tariff plan**
 
-You can read more about it [here](https://www.cbsnews.com/news/georgia-election-certification-judge-fraud-concerns/).
+You can read more about it [here](https://www.cnn.com/2024/10/15/politics/video/trump-interview-tariffs-bloomberg-chicago-digvid).
 
 ## Requirements
 - Python 3.8
