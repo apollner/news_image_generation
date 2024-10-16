@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'You're in awe': Worden residents capture spectacular photos of passing comet**
+**A record number of Chinese warplanes flew close to Taiwan during military drills**
 
-You can read more about it [here](https://www.ktvq.com/news/local-news/youre-in-awe-worden-residents-capture-spectacular-photos-of-passing-comet).
+You can read more about it [here](https://www.cnn.com/2024/10/15/asia/record-china-warplanes-taiwan-drills-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
