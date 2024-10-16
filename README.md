@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs accused of assaulting teen in new lawsuits**
+**52-yard Hail-Mary! Rodgers unleashes his classic throw to Lazard for Jets' TD befor**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2eklxx9y1ro).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dY6-hVhFAW9g).
 
 ## Requirements
 - Python 3.8
