@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees' Giancarlo Stanton continues to step up in playoffs with Aaron Judge still stuck in October slump**
+**Don’t call it Trump-proofing**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/yankees-giancarlo-stanton-continues-to-step-up-in-playoffs-with-aaron-judge-still-stuck-in-october-slump/).
+You can read more about it [here](https://www.politico.com/news/2024/10/15/trump-california-environment-supreme-court-00183585).
 
 ## Requirements
 - Python 3.8
