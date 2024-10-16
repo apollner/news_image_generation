@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**92 unaccounted for in North Carolina after Hurricane Helene, 'dangerous flow of misinformation' ongoing: Governor**
+**Lufthansa fined $4 million for denying boarding to 128 Jewish passengers**
 
-You can read more about it [here](https://abcnews.go.com/US/92-unaccounted-north-carolina-after-hurricane-helene-dangerous/story?id\\u003d114814318).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/10/15/lufthansa-fine-jewish-passenger-boarding/).
 
 ## Requirements
 - Python 3.8
