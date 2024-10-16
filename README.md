@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A record number of Chinese warplanes flew close to Taiwan during military drills**
+**Harris blasts Trump's 'enemy from within' comments at Pennsylvania rally**
 
-You can read more about it [here](https://www.cnn.com/2024/10/15/asia/record-china-warplanes-taiwan-drills-intl-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/harris-targets-black-men-with-new-economic-proposals-2024-10-14/).
 
 ## Requirements
 - Python 3.8
