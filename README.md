@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Security Experts Warn Gmail Users of More Sophisticated AI Hacks**
+**Canada expels top India diplomats, links them to murder of Sikh leader**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/security-experts-warn-gmail-users-of-more-sophisticated-ai-hacks/).
+You can read more about it [here](https://www.reuters.com/world/india-says-canadas-allegations-against-its-diplomats-preposterous-2024-10-14/).
 
 ## Requirements
 - Python 3.8
