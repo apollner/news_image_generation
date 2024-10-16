@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bills vs. Jets score: Buffalo brushes off a Hail Mary to beat New York 23-20 on Monday Night Football**
+**India-Canada row: How ties hit rock bottom between the two countries**
 
-You can read more about it [here](https://sports.yahoo.com/live/bills-vs-jets-score-buffalo-brushes-off-a-hail-mary-to-beat-new-york-23-20-on-monday-night-football-225127648.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c89lne2k87vo).
 
 ## Requirements
 - Python 3.8
