@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. raises concern with Israel as Gaza hospital strike appears to leave "displaced civilians burning alive"**
+**US suggests military aid to Israel is at risk in letter demanding more aid for Gaza**
 
-You can read more about it [here](https://www.cbsnews.com/news/israel-iran-gaza-hamas-war-lebanon-hezbollah-al-aqsa-hospital-airstrike/).
+You can read more about it [here](https://www.cnn.com/2024/10/15/politics/us-israel-gaza-humanitarian-situation-letter/index.html).
 
 ## Requirements
 - Python 3.8
