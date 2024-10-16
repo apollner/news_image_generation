@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India-Canada row: How ties hit rock bottom between the two countries**
+**Goldman Sachs, Bank Of America Extend Breakouts On Earnings; Citigroup Eyes Buy Point**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c89lne2k87vo).
+You can read more about it [here](https://www.investors.com/news/goldman-sachs-earnings-gs-stock-bank-of-america-bac-citi/).
 
 ## Requirements
 - Python 3.8
