@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tracking the tropics: 2 disturbances show no immediate threat to Florida**
+**Quest 3S Has Better Low-Light Head & Hand Tracking Than Quest 3**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dh_UmJZHRPIg).
+You can read more about it [here](https://www.uploadvr.com/quest3s-hand-tracking-better-than-quest-3/).
 
 ## Requirements
 - Python 3.8
