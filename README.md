@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oura Ring 4 First Impressions After Using It For a Week**
+**Election 2024 updates: Harris, Trump schedules for Tuesday; latest presidential polls**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dTOf_YgLlvn8).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/15/election-2024-campaign-news-live-updates-harris-trump/75676061007/).
 
 ## Requirements
 - Python 3.8
