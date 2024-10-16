@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walgreens is closing 1,200 stores**
+**US tells Israel to improve Gaza humanitarian situation or risk military aid**
 
-You can read more about it [here](https://www.cnn.com/2024/10/15/business/walgreens-closures-earnings/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/us-gives-israel-30-days-improve-gazas-humanitarian-situation-or-risk-aid-reports-2024-10-15/).
 
 ## Requirements
 - Python 3.8
