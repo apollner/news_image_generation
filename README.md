@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rodón emulates 'robot' Cole, steers Yanks' G1 win**
+**'You're in awe': Worden residents capture spectacular photos of passing comet**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41801323/rodon-gem-hrs-soto-stanton-spark-yankees-game-1-win).
+You can read more about it [here](https://www.ktvq.com/news/local-news/youre-in-awe-worden-residents-capture-spectacular-photos-of-passing-comet).
 
 ## Requirements
 - Python 3.8
