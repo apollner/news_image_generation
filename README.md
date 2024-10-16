@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Train operator killed after NJ Transit River Line crash in Burlington County**
+**‘Terrifier 3’ Headed To $20M-$21M Over 4-Day Holiday: “This Picture Continues To Confound”**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/new-jersey-transit-fatal-train-crash-burlington-county/).
+You can read more about it [here](http://deadline.com/2024/10/terrifier-3-box-office-opening-1236115550/).
 
 ## Requirements
 - Python 3.8
