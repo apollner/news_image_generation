@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**52-yard Hail-Mary! Rodgers unleashes his classic throw to Lazard for Jets' TD befor**
+**Security Experts Warn Gmail Users of More Sophisticated AI Hacks**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dY6-hVhFAW9g).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/security-experts-warn-gmail-users-of-more-sophisticated-ai-hacks/).
 
 ## Requirements
 - Python 3.8
