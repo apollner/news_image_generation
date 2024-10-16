@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US tells Israel to improve Gaza humanitarian situation or risk military aid**
+**Browns trading WR Amari Cooper to Bills**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/us-gives-israel-30-days-improve-gazas-humanitarian-situation-or-risk-aid-reports-2024-10-15/).
+You can read more about it [here](https://www.nfl.com/news/browns-trading-wr-amari-cooper-to-bills).
 
 ## Requirements
 - Python 3.8
