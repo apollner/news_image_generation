@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024 updates: Harris, Trump schedules for Tuesday; latest presidential polls**
+**Bills vs. Jets score: Buffalo brushes off a Hail Mary to beat New York 23-20 on Monday Night Football**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/15/election-2024-campaign-news-live-updates-harris-trump/75676061007/).
+You can read more about it [here](https://sports.yahoo.com/live/bills-vs-jets-score-buffalo-brushes-off-a-hail-mary-to-beat-new-york-23-20-on-monday-night-football-225127648.html).
 
 ## Requirements
 - Python 3.8
