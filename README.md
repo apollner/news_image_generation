@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite images show how Hurricane Milton reshaped parts of Florida coastline**
+**U.S. raises concern with Israel as Gaza hospital strike appears to leave "displaced civilians burning alive"**
 
-You can read more about it [here](https://www.cbsnews.com/news/satellite-images-hurricane-milton-florida-coastline/).
+You can read more about it [here](https://www.cbsnews.com/news/israel-iran-gaza-hamas-war-lebanon-hezbollah-al-aqsa-hospital-airstrike/).
 
 ## Requirements
 - Python 3.8
