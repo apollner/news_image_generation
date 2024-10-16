@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris blasts Trump's 'enemy from within' comments at Pennsylvania rally**
+**North Korea blows up roads near South Korean border as tensions soar**
 
-You can read more about it [here](https://www.reuters.com/world/us/harris-targets-black-men-with-new-economic-proposals-2024-10-14/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/15/north-korea-blows-up-roads-near-south-korean-border-as-tensions-soar).
 
 ## Requirements
 - Python 3.8
