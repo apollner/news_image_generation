@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Browns trading WR Amari Cooper to Bills**
+**92 unaccounted for in North Carolina after Hurricane Helene, 'dangerous flow of misinformation' ongoing: Governor**
 
-You can read more about it [here](https://www.nfl.com/news/browns-trading-wr-amari-cooper-to-bills).
+You can read more about it [here](https://abcnews.go.com/US/92-unaccounted-north-carolina-after-hurricane-helene-dangerous/story?id\\u003d114814318).
 
 ## Requirements
 - Python 3.8
