@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock Down Today as ASML Earnings Leak Out. What’s Behind the Drop.**
+**Reports: Tesla’s prototype Optimus robots were controlled by humans**
 
-You can read more about it [here](https://www.barrons.com/articles/nvidia-stock-amd-chips-china-708f4fc0).
+You can read more about it [here](https://arstechnica.com/ai/2024/10/reports-teslas-prototype-optimus-robots-were-controlled-by-humans/).
 
 ## Requirements
 - Python 3.8
