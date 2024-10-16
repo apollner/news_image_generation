@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Terrifier 3’ Headed To $20M-$21M Over 4-Day Holiday: “This Picture Continues To Confound”**
+**Sean 'Diddy' Combs accused of assaulting teen in new lawsuits**
 
-You can read more about it [here](http://deadline.com/2024/10/terrifier-3-box-office-opening-1236115550/).
+You can read more about it [here](https://www.bbc.com/news/articles/c2eklxx9y1ro).
 
 ## Requirements
 - Python 3.8
