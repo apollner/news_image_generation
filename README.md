@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drone War Over Ukraine Is A High Speed Technology Arms Race**
+**Walgreens says it will close 1,200 stores by 2027, as earnings top estimates**
 
-You can read more about it [here](https://www.forbes.com/sites/davidhambling/2024/10/15/jammers-and-cameras-new-twists-in-drone-interceptor-war-over-ukraine/).
+You can read more about it [here](https://www.cnbc.com/2024/10/15/walgreens-wba-earnings-q4-2024.html).
 
 ## Requirements
 - Python 3.8
