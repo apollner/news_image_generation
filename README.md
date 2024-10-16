@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea blows up roads near South Korean border as tensions soar**
+**A record number of Chinese warplanes flew close to Taiwan during military drills**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/15/north-korea-blows-up-roads-near-south-korean-border-as-tensions-soar).
+You can read more about it [here](https://www.cnn.com/2024/10/15/asia/record-china-warplanes-taiwan-drills-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
