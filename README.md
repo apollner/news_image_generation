@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'That is just simple mathematics': Journalist presses Trump on his tariff plan**
+**Nvidia Stock Down Today as ASML Earnings Leak Out. What’s Behind the Drop.**
 
-You can read more about it [here](https://www.cnn.com/2024/10/15/politics/video/trump-interview-tariffs-bloomberg-chicago-digvid).
+You can read more about it [here](https://www.barrons.com/articles/nvidia-stock-amd-chips-china-708f4fc0).
 
 ## Requirements
 - Python 3.8
