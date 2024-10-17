@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees announce lineup for ALCS Game 2**
+**Gov. Roy Cooper says 81 people still missing in North Carolina, addresses threats**
 
-You can read more about it [here](https://www.pinstripealley.com/2024/10/15/24271138/yankees-mlb-poststeason-lineups-alcs-game-2-guardians-rizzo-soto-torres).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/15/helene-north-carolina-missing-people/75690475007/).
 
 ## Requirements
 - Python 3.8
