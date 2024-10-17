@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UN calls for investigation into deadly Israeli strike on north Lebanese village**
+**Suspect in Santa Monica College shooting dead of self-inflicted gunshot after Hawthorne barricade, police confirm**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crej40034r2o).
+You can read more about it [here](https://abc7.com/post/employee-shot-santa-monica-colleges-center-media-design-search-suspect-underway/15430722/).
 
 ## Requirements
 - Python 3.8
