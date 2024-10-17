@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy passes law clamping down on surrogacy tourism**
+**Victoria's Secret Fashion Show returns with Tyra Banks, Kate Moss, Cher bringing fresh energy to the runway**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWNoaWZtWWI2ZGVDYW9fTXZoeGp6Q3dscDNEdFVGZnptZmdrSHdPbUI0N0FoVlBKSEZyZ0RtVUN3OGpPZVlxSzNya2RUcDQxUDN5WjZkd2FsSTg4S2FRREd6SXhid2hzdzdMLVlTWS1yZjB3Rk9ZQWNWOHphaTIteXptTXJNTjhxcktjQ3JHTV9Kd2pra1g3V2t2WdIBmwFBVV95cUxPYjdURzVES0N6WWJBTnN2bDhiX2xlMkZya2NPMFNyelM3ejlLS1huNFVkdk1NN3NLZWpJTUZrSDc2TTE5dlVOSFMxOXRDT1ZMamlrR0FrSVhMcG5iVGs2UjM1VjdIdS1pNGluQWlXZkRvSEVtQWp4NEMzSllHS3hzbHRLZjY1ejFCaHdTeVZoRHdJVmRremkxZjhqVQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUlrNFJtT2RIeFdwZEl1MzNRU2VEMmwxckhQUkRPa1FiTDM1dTVUYk02ZGxMTkVkbUxKVXRpZ2F1V05GRVJuX2FKNWhQQnJTVjI0V3VELTlfejBIdUoybnpEOWJkd0RKb2tSQ2lyb3kzQjNHQWtSVkRDTDFoUVBFV2ZyX0RyenRab1FidDd0SGkzQjlzN2JxeGRiaUpUdV9ad2ROVDZkZFdCWUFnZWNtYzEzX0pxT2tkTlp4NzJLZTlqa2VXaGw2NWFIRHhJemxLbnRzVFR0UVZZWUVhWS04R2RtTXhUbnh6UDhR?oc=5).
 
 ## Requirements
 - Python 3.8
