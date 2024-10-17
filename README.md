@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon joins Google in investing in small modular nuclear power**
+**US says Israel must show no Gaza 'policy of starvation'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmVQSnFqcEU5WGgxNVh6eEYyeEV6ZXRBOHZCRmJWQmQ2TmM5c1JIS3NTbjN6blVvV19ieDE1aFVnVmdiTnNTazZCeWFmdFJiWl91dGd4Q1JrVUtlb0JQSDZEOVZfUmkzVDBYenhIZjRKN3B5TlU5amx2Szl0M1VfbHdYaVo4aUViWC1XWVNFSkFZQV85LVBlNVA1QjdFeExQdlhVVkh0TQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEVwYzVwRlp3eDBtcVNZWWh0NHd0Y3RjYXZ6ZldVQ2hmUG10bTFNbWZJXzRaa2VTQ1Z1ZGIxa1VoWDlpNXVmdTRhMjFHenA2Y3J5MkxDLUlKNzhrTFBhTGZqaXhnYUVkRjRIWUVsbmc4Q29jYzdvV29obGdDTnFVbkxSQjdqRi14eTlqdk5QZnJtTTBEbUtPM0JZWVMwczBqWWxVMWJLbw?oc=5).
 
 ## Requirements
 - Python 3.8
