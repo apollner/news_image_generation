@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If Jets trade Haason Reddick to NFC team, they owe the Eagles a second-round pick**
+**Amazon joins Google in investing in small modular nuclear power**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTGdGUDZiOU5sYjhYdnRINGdNa1RzUUEtX0FVR0hfaHllZ1BEaFF1TzQ5d0lUY3RHbU4wa2Q1bXc4VGFydWZHbGprYmJiaHNiQUc0ZGRJNGxOeDFRR1A2NV9pVXVuT00zMGM2dUROLXBiRXBoUW5XQmpKS3RYcnItNnpNTnVsYU9NX2hJbzgtZXZWT2hvLTdVSjVyMklobXpzVVRFX3lYbmhfU0VzZUZMYnZkcjhaMEl6eVpYQXJ0MmdLSHlMQ3hBaDdpWXdrYVljbkx4dXZncUpNUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQNmVQSnFqcEU5WGgxNVh6eEYyeEV6ZXRBOHZCRmJWQmQ2TmM5c1JIS3NTbjN6blVvV19ieDE1aFVnVmdiTnNTazZCeWFmdFJiWl91dGd4Q1JrVUtlb0JQSDZEOVZfUmkzVDBYenhIZjRKN3B5TlU5amx2Szl0M1VfbHdYaVo4aUViWC1XWVNFSkFZQV85LVBlNVA1QjdFeExQdlhVVkh0TQ?oc=5).
 
 ## Requirements
 - Python 3.8
