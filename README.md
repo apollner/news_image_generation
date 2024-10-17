@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in Santa Monica College shooting dead of self-inflicted gunshot after Hawthorne barricade, police confirm**
+**Sean Combs Wants Feds To Give Him Victims' Name For Sex Trafficking Trial Defense**
 
-You can read more about it [here](https://abc7.com/post/employee-shot-santa-monica-colleges-center-media-design-search-suspect-underway/15430722/).
+You can read more about it [here](http://deadline.com/2024/10/sean-combs-victims-names-motion-1236117051/).
 
 ## Requirements
 - Python 3.8
