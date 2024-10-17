@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Davante Adams traded to Jets: Raiders WR reunites with Aaron Rodgers as New York aims to turn season around**
+**Tom Brady officially a part owner of the Raiders after NFL owners approve it**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/davante-adams-traded-to-jets-raiders-wr-reunites-with-aaron-rodgers-as-new-york-aims-to-turn-season-around/).
+You can read more about it [here](https://sports.yahoo.com/tom-brady-officially-a-part-owner-of-the-raiders-after-nfl-owners-approve-it-201813931.html).
 
 ## Requirements
 - Python 3.8
