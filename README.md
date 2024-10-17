@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia judge blocks election rule mandating hand-counting of ballots**
+**Mark Davis on Davante Adams trade: "Players come and go"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkpEQ0kzZW9reGJ6MkJBY1cxSWZvVmNvTklIOG0ydWI4UzdWRHZTaVdIRHFMNlZ6VTRFYWVEQ0c1U0ZxVFRZVGhuNGw0UHVyMjVxbkVUTlMtbkNtSWdFbWx1ZmV2ZVFIQW5mZXdFNmVjRHhLaDl1TnAzczBJSHgyUA?oc=5).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-davis-on-davante-adams-trade-players-come-and-go).
 
 ## Requirements
 - Python 3.8
