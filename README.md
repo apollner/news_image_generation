@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands-On With Amazon's New 2024 Kindles, Including a New Color Kindle**
+**SpaceX plans to catch Starship upper stage with 'chopsticks' in early 2025, Elon Musk says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0I2TnVMWDdZdm1ESFkybVBTeHBHSWQ3VENWNy0zS29xODJ5aEhlLTB4MktBRUduTWtOZlA1TnF6UlEyTnRaWnpIYnVycmJDd294Z1lBb1YzX2VZeVpiUVRVcDlvX29NYjAtUE15cU81N3ltXzY2R2JneEl2VWV6Q2ZrbmVuTWtxNTF5ZmdxR2o4QVo2dEp0bnMxWFVFTS0zOEtXeg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNdXRxZEtWQnFYZFVfbzBROU1mNzdRNmRvZ2tjc0N2LXJxOVU3N2tsS1I1bFdRTVBIVWpjaGE2RTFmLXRXOVZUajk1azYzS0drZWVTNHd5dnVLWHVTd3lyT3BRdWI2amhXckQwRm1fS243RTV1QXdGUzdwREZ3OGZOQw?oc=5).
 
 ## Requirements
 - Python 3.8
