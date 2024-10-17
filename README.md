@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Listeria Recalls: What To Know As Nearly 12 Million Pounds Of Meat Recalled**
+**Apple’s new feature lets brands put their stamp on emails and calls to your iPhone**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnoxUDRPZ0JfaEdndDhpSk1YSFNrNlZZSXdoUDZTX3kwUXNaQVRJQXRVNS1Xb2dCM2wxVzZCOGFtdlBsUjR0X0VsMGliQm1jWWJrM2psM2lEUFlNdkRvbVl5cW94ZXRVd0F3THJVMlNvazE4bG9KaC1aU2d1dExKcDJ3SVRvQ1lwQlh2Y2xDSFBmSFFWR21DaEZYVnRyZC1hQVduMkc4YWV3aXppdVFUWGFOY0xJdWtQcjdFdmloSVB6N1c5dXdsWHJtMy1LeVU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0x1OUdUSktHN1ZZY2I3cEt3R1JnQjNoVDR5TEVSZVl3UGpyT3hPdGV4SmUwWUFiTzMxS2JScHk3aGpfX2pITzB6MEVRUkVhMWdkTXdrcE9QaFM2clVaY1M0a2hnWU9tODhwS2NMMG9HZnJTRUxkVmdNY2lkQllsNjZWRVNOMXRqeGpj?oc=5).
 
 ## Requirements
 - Python 3.8
