@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s new feature lets brands put their stamp on emails and calls to your iPhone**
+**Russell Wilson takes first-team reps, is not on injury report**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0x1OUdUSktHN1ZZY2I3cEt3R1JnQjNoVDR5TEVSZVl3UGpyT3hPdGV4SmUwWUFiTzMxS2JScHk3aGpfX2pITzB6MEVRUkVhMWdkTXdrcE9QaFM2clVaY1M0a2hnWU9tODhwS2NMMG9HZnJTRUxkVmdNY2lkQllsNjZWRVNOMXRqeGpj?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYU1rdmNlYjFVcFkwME9XVjYxTlhzYlNjN0Nic2tkRG1nUkxYYmFVd2Y4dXJ3OFdTT0dHX1RkQkpEbzJFdzdoYzBwZW1IU0V4WFV0LXpPWTZuNC05bnJwNDVENUVpQThaT0FOSnlHQzJvWXdBYlQ5SEE3ZGstNTE0dDc4QnhDVmMzMjliV2pSZUo2ZEY3N0FuMExhYzVaYlEyeGlGb1llVUUwOVc5SGRzRW5tUTY1MUI4QTdDeXRyYw?oc=5).
 
 ## Requirements
 - Python 3.8
