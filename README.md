@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands-On With Amazon's New 2024 Kindles, Including a New Color Kindle**
+**Live updates: Israel’s plan to strike Iran is ready, source says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0I2TnVMWDdZdm1ESFkybVBTeHBHSWQ3VENWNy0zS29xODJ5aEhlLTB4MktBRUduTWtOZlA1TnF6UlEyTnRaWnpIYnVycmJDd294Z1lBb1YzX2VZeVpiUVRVcDlvX29NYjAtUE15cU81N3ltXzY2R2JneEl2VWV6Q2ZrbmVuTWtxNTF5ZmdxR2o4QVo2dEp0bnMxWFVFTS0zOEtXeg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEdydHR3WTBvZi1WS1lzV01hZVhYTkw4TWIydkx0R0tkTWVyaVQ0Ql9OM1lxTHR3YzF3WjJkejVwQmtKLUZPZzBWSU5lMnBUV3RBemhFRGtkMDJGSDBEZkJ6LWN5RElUOUFCVGgtV1l1Ui1zTDAtRmlfRjY2OTN0cTVQZzlZazNaVUUzMXozamJVbk9qbjdLa3RDOA?oc=5).
 
 ## Requirements
 - Python 3.8
