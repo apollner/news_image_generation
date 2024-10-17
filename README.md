@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s politics are crashing hard into his business**
+**Judge pauses rule that would require Georgia counties to hand-count ballots**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQUjdIUmY3empNT0RRb3g2dXA5anFCWTRNN0ptZGhiT3FsZkRybXFXMHJmdHU5S2xrY3RDVExjajdZc09va0dCWDFCWFdXcnU0dFJvaEVpRUQzMGVOd0hiRWhCbHJqUlQyZU4ybW9QLXVfWmZqTVdiVDF2OEZJWGNHQU5LODJ1ZU5OaFlNQ3F5VWxNaDQwSXFvTkdWWHdkYjA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1hVdkFuNXZzcGdRZmFXYXk4bHlPUVBaU3RQTVhjM2pCaEt0OEpHSzg0RnpyMlY4TzR3U3lUQ3RZamNHeGRUOGZBUFlJR0NRTm1hMEM4QVVCMTVZNmo0Yjh6OHUtNUNycEI3ajk2YUpuM0E3T2lMZ0VxZWxZYjB1RkMxZ1A0OS1CMHI4cVZtZzFTakxT0gGLAUFVX3lxTE4xaTEwYU1LY0doQmZtVXhYZ0NGamowUEllXzRUMnBHcjZZSlRtcHJ0eW1wNHJXX1NQRkt2UzJKXzZMakx1MTY5RHFpMXFxMjdHQzdIZGhXbVhrUFNZSkRFLWRMbkJ6SmtfRnlpaldBWWJGVDYtSk5JTnI4QmJVRVdOUGxTNTJZVkhlMlk?oc=5).
 
 ## Requirements
 - Python 3.8
