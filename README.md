@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Terrifier 3’ Not Clowning Around: How the Uber-Gruesome Pic Upended the Movie Ratings System**
+**UN calls for investigation into deadly Israeli strike on north Lebanese village**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/terrifier-3-movie-ratings-system-1236032011/).
+You can read more about it [here](https://www.bbc.com/news/articles/crej40034r2o).
 
 ## Requirements
 - Python 3.8
