@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees’ Aaron Judge finally homers, but ‘pretty pissed’ at Gleyber Torres for disrespect**
+**As Bills and Jets show Jerry Jones what ‘all in’ means, Cowboys owner grapples with team's uncertain outlook**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzdzZmRaS2hsNmg3ZlhGbFR1UXJaQllrejFYUXdpWDhDaTZwWktqMFlOVEQ0QmxxTzU1ZTA2eGR2YzFzTlZVYXdacFU4SVMtZ1Z2X1otVjB2S3B1MW5ZVGxkbVB0eWg4LWJWbUZ5d3ZJTmMySk9jYnZ0aFJadWRxYWJVQnpSeUd2ekdZWjRhRUNLeTdTUUVkaXVOOEpucjFlWG45U0JCcmRWVl9CQ21EZGRNMmFPX2NVWFdDdU5WM3ZTc0XSAdcBQVVfeXFMTnpPM1NsbW1nRl80ZFE2MnhlbkZGSmpUZzRhOW40bnM3TThXeGRBUXhpb2xvbzVYODRjOFpBU1lUeE11VVhySHI5UGZOZEVFcWt2anRiNXFKUEtHZWVKRWQzTS1USTg2bHNJT3dWY0cxLUZRQ09fNUlQbFktbTZ3b29wVG5tSmdHZEFQc2x2ZVFtZ2UxcVNCRE1sdEtMbWhGNGJ2VWVoak9CM0pfeUtxa0NBdXhTb05BUDhTNGF3b1pxQV9ISkgyS0VyaFc5MUQ1Z0V5a2djME0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkplMG0wMmFfMkJUd29HZXk1U3RZNHhuRldvUW96LVJlSUNOTEI0S0FkaUFObFU0N2cwM0p0YXRPNlJCQ3UxdmY4aEVMd1RMVjg0dlVWVXBhMEpfUEJaaUlPX1V4VmU5amdJUmdCNHBmbVBNUHR4ZXVZRERYYTZQWWcwQVZBcm5fTl8zX0FveUZsUUJlMU1XZHotbGVKc3JOemxIWkhuSzIwMGZiXzZKYjctb2VZRjBKRlBWSWpmTDFteE1xaFBXanktSmtPMmRmXzJTQ3NQbHFuNzJO?oc=5).
 
 ## Requirements
 - Python 3.8
