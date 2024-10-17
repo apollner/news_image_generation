@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mark Davis on Davante Adams trade: "Players come and go"**
+**'Grey's Anatomy' writer who faked cancer speaks out after docuseries**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-davis-on-davante-adams-trade-players-come-and-go).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDZZQkZwTFUzajN6RW9KSDlKeTVCOE9qeEstbEt5OE54THB6TF9DZFBTSDk0TTZsSWhiWXMzbko4SnVwa0NzUWJGbnUxbV8zRUg2TWpVLVdQWWllM204cXdQZV81TVp1LXFpb0t1VHVBclFEbFBBS2xSbFhsZHJxS2d5QUVkcy1GTnRQeUJ0dktLZw?oc=5).
 
 ## Requirements
 - Python 3.8
