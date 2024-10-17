@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gov. Roy Cooper says 81 people still missing in North Carolina, addresses threats**
+**How Tesla’s plans for ‘unsupervised FSD’ and robotaxis could run into red tape**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/15/helene-north-carolina-missing-people/75690475007/).
+You can read more about it [here](https://techcrunch.com/2024/10/15/how-teslas-plans-for-unsupervised-fsd-and-robotaxis-could-run-into-red-tape/).
 
 ## Requirements
 - Python 3.8
