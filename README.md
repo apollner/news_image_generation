@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Wants Feds To Give Him Victims' Name For Sex Trafficking Trial Defense**
+**Haberman weighs in on Trump's town hall dancing**
 
-You can read more about it [here](http://deadline.com/2024/10/sean-combs-victims-names-motion-1236117051/).
+You can read more about it [here](https://www.cnn.com/2024/10/15/politics/video/maggie-haberman-trump-dancing-town-hall-src-digvid).
 
 ## Requirements
 - Python 3.8
