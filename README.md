@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Brady officially a part owner of the Raiders after NFL owners approve it**
+**Yankees announce lineup for ALCS Game 2**
 
-You can read more about it [here](https://sports.yahoo.com/tom-brady-officially-a-part-owner-of-the-raiders-after-nfl-owners-approve-it-201813931.html).
+You can read more about it [here](https://www.pinstripealley.com/2024/10/15/24271138/yankees-mlb-poststeason-lineups-alcs-game-2-guardians-rizzo-soto-torres).
 
 ## Requirements
 - Python 3.8
