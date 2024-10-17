@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Victoria's Secret Fashion Show returns with Tyra Banks, Kate Moss, Cher bringing fresh energy to the runway**
+**More Listeria Recalls: What To Know As Nearly 12 Million Pounds Of Meat Recalled**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRUlrNFJtT2RIeFdwZEl1MzNRU2VEMmwxckhQUkRPa1FiTDM1dTVUYk02ZGxMTkVkbUxKVXRpZ2F1V05GRVJuX2FKNWhQQnJTVjI0V3VELTlfejBIdUoybnpEOWJkd0RKb2tSQ2lyb3kzQjNHQWtSVkRDTDFoUVBFV2ZyX0RyenRab1FidDd0SGkzQjlzN2JxeGRiaUpUdV9ad2ROVDZkZFdCWUFnZWNtYzEzX0pxT2tkTlp4NzJLZTlqa2VXaGw2NWFIRHhJemxLbnRzVFR0UVZZWUVhWS04R2RtTXhUbnh6UDhR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnoxUDRPZ0JfaEdndDhpSk1YSFNrNlZZSXdoUDZTX3kwUXNaQVRJQXRVNS1Xb2dCM2wxVzZCOGFtdlBsUjR0X0VsMGliQm1jWWJrM2psM2lEUFlNdkRvbVl5cW94ZXRVd0F3THJVMlNvazE4bG9KaC1aU2d1dExKcDJ3SVRvQ1lwQlh2Y2xDSFBmSFFWR21DaEZYVnRyZC1hQVduMkc4YWV3aXppdVFUWGFOY0xJdWtQcjdFdmloSVB6N1c5dXdsWHJtMy1LeVU?oc=5).
 
 ## Requirements
 - Python 3.8
