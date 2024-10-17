@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Bills and Jets show Jerry Jones what ‘all in’ means, Cowboys owner grapples with team's uncertain outlook**
+**Global Chip Stocks Erase $420 Billion After ASML Sales Warning**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkplMG0wMmFfMkJUd29HZXk1U3RZNHhuRldvUW96LVJlSUNOTEI0S0FkaUFObFU0N2cwM0p0YXRPNlJCQ3UxdmY4aEVMd1RMVjg0dlVWVXBhMEpfUEJaaUlPX1V4VmU5amdJUmdCNHBmbVBNUHR4ZXVZRERYYTZQWWcwQVZBcm5fTl8zX0FveUZsUUJlMU1XZHotbGVKc3JOemxIWkhuSzIwMGZiXzZKYjctb2VZRjBKRlBWSWpmTDFteE1xaFBXanktSmtPMmRmXzJTQ3NQbHFuNzJO?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVR5M0JDd3FJRjAxUm5qU2g2ZVIzVWd5c2xYNU5PNFdWM00tWUhqbmRHMF9oUjk2SHhjVVNrMnBDOEZhS21OSk9LaFRyZVNBX1hZd1kwcW1tcTVvbk5pV1V0S01qb3B5SmZLUkNLWHJ3U3V6UUtHSjdDVkk3SjJ4ZXlNVzBfT1o4TnJQdXhVTVJxWVozWE1UMVRmQmgzSDNhU0RSTW44bHMzS2VNZ0thWHJ6SzE?oc=5).
 
 ## Requirements
 - Python 3.8
