@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX will take Starship catch one step further very soon, Elon Musk confirms**
+**Trump doubles down on ‘enemy from within’ comments at Fox town hall**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxQV0VyT21rU21xckp5LUxQUExGTWNfbE5KelpjZWNTbFRWeV9zRGJQVnBhanVEdTVPbWNOXzNwQ2k5X293dXJQZkVfa0sydEZXWDlkdnBhd0RjNXFmZFRYakpCRGg4emJUM25rakhteFlyU1FlbHRnT3dvMzIxeDBMSjZiTFkzSEVUSUk1S0VSUmF1eDQtVXZ4empTeVg3dk9TdlhuTEFYTdIBrAFBVV95cUxNNjYwU0tuVnVncGo3TE52WGh6dTJHMUlCLXRSdDVLVFdnR3gxVVlhY0hLX2pmbHRqXy03YnU4ODhnemlpTWU3VmhQX0R2ODM4R1p6ZE0zdU9LN0l5QmJ0YVBJN3ZCbEVIN1lIbDhTLVhZSjA1eTF5RDcxMkx3QlBHamJYcDdBU0JST0ZCVTl0dDFDUjQ5Qjc0bzBJZTlWalpvRmhEN2pWbDVZZ2Zn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE9tVGl1RkFDbG9aNGpoLUk5NnUyaURlTG5sMFlSaGpvLW5XMng1c0NJMUp0LTlDcjA2Y2tUZnBodGZMZ2ZEMDhuZDhveTBUcjY4R1lfZ0ItX3ltWHVacWlhQ2JfNE14UV9pam1FY1ZLUEM2Wjd5OTFPSFpUTjbSAXxBVV95cUxNREczS2dKd19qbUxTLVJHcUhRRW1BdFFBMDRUYllKR21TY215MEt6MndNS28tcjVZZE5SY2I5ZkpsTVh1TzZyOEFjc0E0QnVyMk1CRFhLeUt6R1I1Q2huaVJSR3RlaHQyQ3JkVGhDYmpkemRkRzJEa1c5VDdL?oc=5).
 
 ## Requirements
 - Python 3.8
