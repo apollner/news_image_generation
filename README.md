@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US says Israel must show no Gaza 'policy of starvation'**
+**Italy passes law clamping down on surrogacy tourism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcEVwYzVwRlp3eDBtcVNZWWh0NHd0Y3RjYXZ6ZldVQ2hmUG10bTFNbWZJXzRaa2VTQ1Z1ZGIxa1VoWDlpNXVmdTRhMjFHenA2Y3J5MkxDLUlKNzhrTFBhTGZqaXhnYUVkRjRIWUVsbmc4Q29jYzdvV29obGdDTnFVbkxSQjdqRi14eTlqdk5QZnJtTTBEbUtPM0JZWVMwczBqWWxVMWJLbw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWNoaWZtWWI2ZGVDYW9fTXZoeGp6Q3dscDNEdFVGZnptZmdrSHdPbUI0N0FoVlBKSEZyZ0RtVUN3OGpPZVlxSzNya2RUcDQxUDN5WjZkd2FsSTg4S2FRREd6SXhid2hzdzdMLVlTWS1yZjB3Rk9ZQWNWOHphaTIteXptTXJNTjhxcktjQ3JHTV9Kd2pra1g3V2t2WdIBmwFBVV95cUxPYjdURzVES0N6WWJBTnN2bDhiX2xlMkZya2NPMFNyelM3ejlLS1huNFVkdk1NN3NLZWpJTUZrSDc2TTE5dlVOSFMxOXRDT1ZMamlrR0FrSVhMcG5iVGs2UjM1VjdIdS1pNGluQWlXZkRvSEVtQWp4NEMzSllHS3hzbHRLZjY1ejFCaHdTeVZoRHdJVmRremkxZjhqVQ?oc=5).
 
 ## Requirements
 - Python 3.8
