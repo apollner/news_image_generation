@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ted Cruz’s Ex-NFL Linebacker Rival Lands Multiple Debate Zingers**
+**Trump campaign's use of Leonard Cohen's "Hallelujah" is "blasphemy," singer Rufus Wainwright says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQU1qd0VuTTNpSElTalJPWmRoa1E4OEU3ZGx2M0N6MkY0UmdwVDNmTjhtMU9sWmoxa2tkWlJlVks2c3NJdWFUaXNtTE0zcWVObmo1TlBFeGxfV0xnQVRKWWpIanhmYm5ldTFXbWRfcmlOZFBLaldvdHpYVzRNcWQxRXBHcGQyZC15c3piTG1QU3ZxM2JkSkw2ZW4zRjlkSzVBUDZienZ1SnVIdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxQUVExQWdjUktIRU5ZZ2NfZ1YwVVR2d0NubEtYanV6UWRaaHU5bllNekFfTmlDdUtoOWxmMFF4bjdzQm9UWC05bDB5V2NkZllOSU1nSTNFZHIzNnAyWEFhUjVVb09UdE5QN1J6X3JrdHJESnVMN0tPNURyVmd6bU95OFFqTlB2WWhYaGh0ZlYzVzBhdkE3RDZkVm95VVY1bVg0ZXhIZ9IBqgFBVV95cUxNYjZLV09aSkFtczFfNjIzd2kwUHBwdVBUaXVnTjBOelFhNjdOTnF3MUhQTWNadXVYaFk0c0ZhX1JXN1VScEdaRmlmWV9DSk11X2xGWGQyRVVJUngzd3ZabFFOV0VnNDBGOTI5NWtpc241SW9wRDduaEU0LXBvMDFWNHVDZ3paT0dZZllXSklwbFJWemsyVFJaUGRJWjJmSHk5QVVicWZweEpNQQ?oc=5).
 
 ## Requirements
 - Python 3.8
