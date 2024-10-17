@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Trade Grades: Davante Adams, Amari Cooper Deals Kickstart Deadline Moves**
+**‘Terrifier 3’ Not Clowning Around: How the Uber-Gruesome Pic Upended the Movie Ratings System**
 
-You can read more about it [here](https://bleacherreport.com/articles/10139532-2024-nfl-trade-grades-davante-adams-amari-cooper-deals-kickstart-deadline-moves).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/terrifier-3-movie-ratings-system-1236032011/).
 
 ## Requirements
 - Python 3.8
