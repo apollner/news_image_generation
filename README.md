@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Listeria Recalls: What To Know As Nearly 12 Million Pounds Of Meat Recalled**
+**Listeria recall expands to nearly 12 million pounds of meat, hits US schools**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnoxUDRPZ0JfaEdndDhpSk1YSFNrNlZZSXdoUDZTX3kwUXNaQVRJQXRVNS1Xb2dCM2wxVzZCOGFtdlBsUjR0X0VsMGliQm1jWWJrM2psM2lEUFlNdkRvbVl5cW94ZXRVd0F3THJVMlNvazE4bG9KaC1aU2d1dExKcDJ3SVRvQ1lwQlh2Y2xDSFBmSFFWR21DaEZYVnRyZC1hQVduMkc4YWV3aXppdVFUWGFOY0xJdWtQcjdFdmloSVB6N1c5dXdsWHJtMy1LeVU?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUprQlR6dTZpVV9GVlZ4dzQ4cGJ2dlREb3RRT2kxZmxHSUp2QkxPY3FvOVRzVVRua2pneHFYZk90VGZwSGFTY3NrOE5YcFJ1NlEzeTZ2TjdpSm4wT2phNTM5QVp5dnpwNDFBc3RicUtqRGRWZTh5U3RocktndUxFWg?oc=5).
 
 ## Requirements
 - Python 3.8
