@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell Wilson takes first-team reps, is not on injury report**
+**More Listeria Recalls: What To Know As Nearly 12 Million Pounds Of Meat Recalled**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQYU1rdmNlYjFVcFkwME9XVjYxTlhzYlNjN0Nic2tkRG1nUkxYYmFVd2Y4dXJ3OFdTT0dHX1RkQkpEbzJFdzdoYzBwZW1IU0V4WFV0LXpPWTZuNC05bnJwNDVENUVpQThaT0FOSnlHQzJvWXdBYlQ5SEE3ZGstNTE0dDc4QnhDVmMzMjliV2pSZUo2ZEY3N0FuMExhYzVaYlEyeGlGb1llVUUwOVc5SGRzRW5tUTY1MUI4QTdDeXRyYw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQnoxUDRPZ0JfaEdndDhpSk1YSFNrNlZZSXdoUDZTX3kwUXNaQVRJQXRVNS1Xb2dCM2wxVzZCOGFtdlBsUjR0X0VsMGliQm1jWWJrM2psM2lEUFlNdkRvbVl5cW94ZXRVd0F3THJVMlNvazE4bG9KaC1aU2d1dExKcDJ3SVRvQ1lwQlh2Y2xDSFBmSFFWR21DaEZYVnRyZC1hQVduMkc4YWV3aXppdVFUWGFOY0xJdWtQcjdFdmloSVB6N1c5dXdsWHJtMy1LeVU?oc=5).
 
 ## Requirements
 - Python 3.8
