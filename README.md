@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk gave $75 million to pro-Trump group, becoming a Republican mega donor**
+**Connecticut dad dies from rare mosquito-borne virus he caught in his own backyard – and cases are on the rise**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNb09ZSGtNdzllakZvdkJHbVc5X2E5OVlBUFpDc2NPZ0lDZVEtQVlwOXFpeF96VGw0QWsyQVlYcG5xQnlsMkNUd1h1amlwaDI5bk1mbkxGbXROM19hVzZpQm8yblRfeGdpU2JrNDhaNWwxeW5QUl9KN3JSdGtuakFBeHBKNmI0eU5KYUJCbjJkV3B4WEhNVUZnRnFDTlBXMzE1NDFnSmF2N05VbDR6VmdlR0hR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmlhalEwRjFrT1RsWVlKM0tDcWFxTEduTFBtUGV1MzJERi1MQ04xemd5S2NMTkM1X3MtVkxnbzdtTDhCSGJMQ0E5eXQwTlFtdmVVWHlaOGpWV3hBWHBXTUg2SVVDZFVrVFdKdGRyN3lDUmpTcXJTaE1YNFVIM2dGOG5PazRXWEFCN1dvbXpfM1dwZFlrdmV5XzNUQmQ?oc=5).
 
 ## Requirements
 - Python 3.8
