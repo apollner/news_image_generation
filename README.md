@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connecticut dad dies from rare mosquito-borne virus he caught in his own backyard – and cases are on the rise**
+**Yankees’ Aaron Judge finally homers, but ‘pretty pissed’ at Gleyber Torres for disrespect**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmlhalEwRjFrT1RsWVlKM0tDcWFxTEduTFBtUGV1MzJERi1MQ04xemd5S2NMTkM1X3MtVkxnbzdtTDhCSGJMQ0E5eXQwTlFtdmVVWHlaOGpWV3hBWHBXTUg2SVVDZFVrVFdKdGRyN3lDUmpTcXJTaE1YNFVIM2dGOG5PazRXWEFCN1dvbXpfM1dwZFlrdmV5XzNUQmQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUzdzZmRaS2hsNmg3ZlhGbFR1UXJaQllrejFYUXdpWDhDaTZwWktqMFlOVEQ0QmxxTzU1ZTA2eGR2YzFzTlZVYXdacFU4SVMtZ1Z2X1otVjB2S3B1MW5ZVGxkbVB0eWg4LWJWbUZ5d3ZJTmMySk9jYnZ0aFJadWRxYWJVQnpSeUd2ekdZWjRhRUNLeTdTUUVkaXVOOEpucjFlWG45U0JCcmRWVl9CQ21EZGRNMmFPX2NVWFdDdU5WM3ZTc0XSAdcBQVVfeXFMTnpPM1NsbW1nRl80ZFE2MnhlbkZGSmpUZzRhOW40bnM3TThXeGRBUXhpb2xvbzVYODRjOFpBU1lUeE11VVhySHI5UGZOZEVFcWt2anRiNXFKUEtHZWVKRWQzTS1USTg2bHNJT3dWY0cxLUZRQ09fNUlQbFktbTZ3b29wVG5tSmdHZEFQc2x2ZVFtZ2UxcVNCRE1sdEtMbWhGNGJ2VWVoak9CM0pfeUtxa0NBdXhTb05BUDhTNGF3b1pxQV9ISkgyS0VyaFc5MUQ1Z0V5a2djME0?oc=5).
 
 ## Requirements
 - Python 3.8
