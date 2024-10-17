@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs ‘gang raped’ woman as payback after she claimed he was involved in Tupac Shakur’s murder, new lawsuit claims**
+**Musk gave $75 million to pro-Trump group, becoming a Republican mega donor**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ3pQVEVwYjNTZFJwdk9LWEdNYWI4QmZjVDUyYWF1eFBtak5LSmZ6MlZDYXpJTWN2LTFnNkVoT1JXNWlxalZtZ1dPdjQ5ZXo1OWpjbmRmZ3Q4VURDaE5wLUJhdXFTdlg2Q2wwME5HbElQSmVKV2JXX0JiVTNHb01yT3c1bC1MMm9Ic3QxOW9wcExWNTNHQUJUREowVlNDRmhPcTQ3eVhOMGxjRi0zRTRRcnVobXllLXlrTlpibTVzS2xfUk5pZTRSMTlxVW5CTzFIUTdJZmpoUml0UjI3TGZIVjUwOWNvYjZGMkZTekp4dlVFSlRZNFNPdG1aUjk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxNb09ZSGtNdzllakZvdkJHbVc5X2E5OVlBUFpDc2NPZ0lDZVEtQVlwOXFpeF96VGw0QWsyQVlYcG5xQnlsMkNUd1h1amlwaDI5bk1mbkxGbXROM19hVzZpQm8yblRfeGdpU2JrNDhaNWwxeW5QUl9KN3JSdGtuakFBeHBKNmI0eU5KYUJCbjJkV3B4WEhNVUZnRnFDTlBXMzE1NDFnSmF2N05VbDR6VmdlR0hR?oc=5).
 
 ## Requirements
 - Python 3.8
