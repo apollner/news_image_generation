@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge pauses rule that would require Georgia counties to hand-count ballots**
+**Mark Davis on Davante Adams trade: "Players come and go"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxNX1hVdkFuNXZzcGdRZmFXYXk4bHlPUVBaU3RQTVhjM2pCaEt0OEpHSzg0RnpyMlY4TzR3U3lUQ3RZamNHeGRUOGZBUFlJR0NRTm1hMEM4QVVCMTVZNmo0Yjh6OHUtNUNycEI3ajk2YUpuM0E3T2lMZ0VxZWxZYjB1RkMxZ1A0OS1CMHI4cVZtZzFTakxT0gGLAUFVX3lxTE4xaTEwYU1LY0doQmZtVXhYZ0NGamowUEllXzRUMnBHcjZZSlRtcHJ0eW1wNHJXX1NQRkt2UzJKXzZMakx1MTY5RHFpMXFxMjdHQzdIZGhXbVhrUFNZSkRFLWRMbkJ6SmtfRnlpaldBWWJGVDYtSk5JTnI4QmJVRVdOUGxTNTJZVkhlMlk?oc=5).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mark-davis-on-davante-adams-trade-players-come-and-go).
 
 ## Requirements
 - Python 3.8
