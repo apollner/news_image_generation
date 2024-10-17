@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Grey's Anatomy' writer who faked cancer speaks out after docuseries**
+**Georgia judge blocks election rule mandating hand-counting of ballots**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxPdDZZQkZwTFUzajN6RW9KSDlKeTVCOE9qeEstbEt5OE54THB6TF9DZFBTSDk0TTZsSWhiWXMzbko4SnVwa0NzUWJGbnUxbV8zRUg2TWpVLVdQWWllM204cXdQZV81TVp1LXFpb0t1VHVBclFEbFBBS2xSbFhsZHJxS2d5QUVkcy1GTnRQeUJ0dktLZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMkpEQ0kzZW9reGJ6MkJBY1cxSWZvVmNvTklIOG0ydWI4UzdWRHZTaVdIRHFMNlZ6VTRFYWVEQ0c1U0ZxVFRZVGhuNGw0UHVyMjVxbkVUTlMtbkNtSWdFbWx1ZmV2ZVFIQW5mZXdFNmVjRHhLaDl1TnAzczBJSHgyUA?oc=5).
 
 ## Requirements
 - Python 3.8
