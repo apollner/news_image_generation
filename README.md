@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'No authority': Georgia election board loses again in court as judge strikes down 7 rules**
+**Mortgage rates spike for third straight week while buyers grow cautious**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/17/georgia-election-board-rules-decision/75711517007/).
+You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-spike-for-third-straight-week-while-buyers-grow-cautious-160130274.html).
 
 ## Requirements
 - Python 3.8
