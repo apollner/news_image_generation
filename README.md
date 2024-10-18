@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Archdiocese of Los Angeles Agrees to Pay $880 Million to Settle Sex Abuse Claims**
+**Saints vs. Broncos odds, prediction, time, spread: Thursday Night Football picks from NFL model on 11-3 run**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHhObFFhLURvOEsyamhkX3lLMC12SXh1VGg4R2xIYy1iSUdIQVE0YVdta0p5ZFhiTktFS1p3Q1pwQ1BrN2VKMEl3X1dyeE5lWGNXWktEN3VKa2FaYUxwV3YxZ2Y2aW9uWlJmeTFCa29Yc3dkbU4wSUtmS2pBejlvc2dUaFlJWUhFTWJrWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSUZCaFRXOGZvT19oQTNfVS13YUZUWEVIOTY5SWVlbzd1UmptZEFpOUZheThhYnY4TWo3UGNsRjdWSTJxaFN1N2gxSmNNYTZKdFdvWF81ZUFEelIyVEVHZTczRk8wUTJJNmgwMUNNTWR5WVZnaTdjbFBOMHhpbnNJamY2ckp1U1ppRmlMZUliT1QzVjdCdXRLcEFVelN6Ymczby1kMWNEM2pPNjFoZDUtcVM5VVNNQ0xUenNOYjhINWZaN2N0YVdfMDZaaGZGU3prX0RrY9IB2gFBVV95cUxOb0t6REtBWl9EMks3cUVqUVRMeU84TjRzdXhOdUpGYnpHTW03cHlrQU9KenFlMzBQeF9xTEtDWkduSW1BLXpFblNXMWpSaS1vRFRtNHB1SlhRdXFuWFJxUUxjZUFBTXZsTFY2SEpPWVk2NVhVS01HVEp5eHZ5Y28yOHprcjR3V1FiV0xZdUJDTkFodzJRLThNOWxhcF9Zc2VpZWFGUWNnMlFUOF9pbmFCaVpDN0dxeHIyajBfYjdwRUVKSmxUX1UyeE9tV2dSZnNzU0tUaFdUQVVOQQ?oc=5).
 
 ## Requirements
 - Python 3.8
