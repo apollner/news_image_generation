@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy surrogacy ban: Couples banned from travelling abroad to seek surrogate**
+**US stealth bombers strike underground Houthi weapons sites in Yemen**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UR0hIdUJ2XzFILW1IOGhObk8xTUlJQ255d1BlTVY3Vm9XM3QwdHdmcEJ0RHRleGFYY3BNZlVwVGJndGk3OUR2UG80TnBUSlZiYjRJaDBZQUpGQdIBX0FVX3lxTFBCWHFLbEtjd0VPUTlaVmpaT2VGMGthaHZqSVpZeW1xcHBScllpQnloSDYzRnJFNFNFLU5RamV6QmdYdnRmM2l1SzRhZnJzYkVseFlLOGpHX0lVUWwxX0ZF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmgwWm9faTBJdjhLN0RPUk9yS3VJMTNQMGlYQV8zVlFMd0dNNmtfU2pVV2gwNDRHVC1PbFpPbEdKdmZrbXF4ZEp1LWJmR0RFTTJjZHJzQU9HSW4wLUlQUEQ4Q1pGS3VQM0pGUHdjNzFwN3g1WmRPaFVsTnozbEk3eFVBLXBxQ3BwbDBFblNNYmpGSnZCcXFTaTJxLXFZNTdSOHdUby0xdnJLZ1ZfZm9QdUVHWElYLVpl?oc=5).
 
 ## Requirements
 - Python 3.8
