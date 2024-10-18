@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US strikes Iran-backed Houthis in Yemen: Live updates**
+**Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-gaza-lebanon-10-17-24-intl-hnk/index.html).
+You can read more about it [here](https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council).
 
 ## Requirements
 - Python 3.8
