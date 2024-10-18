@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Saints vs. Broncos odds, prediction, time, spread: Thursday Night Football picks by NFL model on 11-3 roll**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/saints-vs-broncos-odds-prediction-time-spread-thursday-night-football-picks-by-nfl-model-on-11-3-roll/).
 
 ## Requirements
 - Python 3.8
