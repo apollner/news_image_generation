@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden cancels $4.5 bln in public workers' student loans**
+**US strikes Iran-backed Houthis in Yemen: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-cancels-additional-45-billion-student-debt-2024-10-17/).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-gaza-lebanon-10-17-24-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
