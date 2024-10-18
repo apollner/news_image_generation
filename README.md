@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelensky reveals ‘victory plan,’ calls for urgent NATO membership**
+**3 dead and 4 injured in collapse of Mississippi bridge being prepped for demolition**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPUzZ4ZWdscHJNbjI0Y2ZkT19BQ3RrRkpPbWFfc3VWeTh2MUIyN0FVN25USVF1Tl9CekM1NHY2M3djT3lwMXQtSk9ZMzZVR3NWcDRjSEs1QjVuTEk0djZNSGJXOEdROGNiVEFZU2xkSThXakM4XzU4d1VwWnRhaWpUWXVmbVVPS2taZUdxcFNBUEZHcnk0?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlJhYlVhZG9qWlkwYnBVOUxHZm0xNjNHSUxqeTl2UkxQVFZZOEw5T1o1a0NaSmNQOGFOUVZ0S3ZzUF9xb3JvWVJ5eTQyYWNHS3dHaUhtc0Z2a3pTV0RncEt1VnZUTzMzZ0VWRVdENzBjeGtwZ1psZGV4SDJxbngycUVzRUFvXzZmVXlZZ3lUbldzdXFBc3FSY0FIRllPajY0dGxEamsxc0s0N05IWVE?oc=5).
 
 ## Requirements
 - Python 3.8
