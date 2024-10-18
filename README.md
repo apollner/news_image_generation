@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Family members stand behind Lyle and Erik Menendez as they await a decision that could see them released from prison**
+**New iPad mini 7 seems to have a binned version of the A17 Pro chip**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWVnOGs5OFI1VHVzYlNLRnoxNUNYc001enl0TmxWVXJLRXlycEFzX2NaLTdEUS0wNXFZWEt3c1R4RTJFLUR4TVlPUEcxWUYtS0dYdURMOWh0bmw5NEJJWHQ4VjFSekxQSVlNUWpRVC05cUpnS1ZDN0NZR2doSkw3T09kMznSAXtBVV95cUxNQWFtQmdZX0h2UVlDZ3VFaW5BN0FoUndjZ3FMWHBleXByNVBSd2szVnpVeDJlYlBzaFVRcmI4YlBGZzhRZ3hOeVlEQ2xxcVFPZVoybUtxZ0NaTm5lZTBWSnZYa203aU0tNWRUMWtxX3JQaEt3OVZqQkpLUVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMia0FVX3lxTE9sOGdkeGc4LTEzZEdnZ1RCNjNCR2xPa3BDZTdvNTFRT20xZ28yX3pON1RwV2hhYjhVaVBsN3BzeWhVbVRvbTF3V2VaYlVRT1BUNEhuTk9Td0RyT1FEX3ZOOFZObW1DWVVLcW0w?oc=5).
 
 ## Requirements
 - Python 3.8
