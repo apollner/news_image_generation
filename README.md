@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Execution of Texas inmate scheduled for today now in question after he’s called to testify before state committee**
+**Man rescued after 67 days adrift at sea describes how he survived after brother and nephew died: "I simply had no choice"**
 
-You can read more about it [here](https://www.cnn.com/2024/10/17/us/robert-roberson-texas-execution-lawfulness/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/man-rescued-67-days-sea-talks-ordeal-brother-nephew-dead/).
 
 ## Requirements
 - Python 3.8
