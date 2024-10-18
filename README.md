@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles Archdiocese reaches $880 million sex abuse settlement**
+**Liam Payne, former One Direction member, dead at 31**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2I2RTFKckt2X0RhVU1zeHByZXZhVHR5Q1VJSVVKVU50ZG1DbWR3dldsejZnaThrR1FETGFIb0FoQkpYdU02ZWpHTGMxSTFxTnpHbWQ5cjAxT3U2UEY0THpwS2xPOTlzdjlkOHFiZFdJSnBBUThiZThTV2VrUnpWTEM1UGdkM3hZZEx5VHpBamxEY1pPajFHLVoyb1RIZXc3Ym16eVlfMDFhZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxOdXhTb010N1AtRG03T0I2bFIzdHhiWVh3LU5ZWnFUdUhoZkFLdUx3QUgxN3MyNzl0di1YZFRWMDhleVhGaFVCV1o3Q05lb01tTDJyODQ4RVlCM1Q0eFdXanpSZFFFMXVyVXhickJobG4wd0Y0eTM3UmdCcjV0aVN4dnFoQ01SVXV3WHhKMlc5MNIBhgFBVV95cUxOSUpXSEpuSFlkSGtSeTJ3MjNydFc1RnpkVjI3UTgzT3BNZjVhS2tQZGN1TEFENEE5ZnB2emNRdDYzTE56emU5bXdFTmpuZU1zQ1pQQ1h5aVZTNWotMklnUk9kLTAtMTJKb0toYUNnYlhZRXZiZ1NmdlAxQTV1RmlETWpuY29ZZw?oc=5).
 
 ## Requirements
 - Python 3.8
