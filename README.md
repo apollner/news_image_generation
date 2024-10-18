@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New iPad mini 7 seems to have a binned version of the A17 Pro chip**
+**SpaceX Calls New Starship Test a Success, Captures Rocket at Landing**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMia0FVX3lxTE9sOGdkeGc4LTEzZEdnZ1RCNjNCR2xPa3BDZTdvNTFRT20xZ28yX3pON1RwV2hhYjhVaVBsN3BzeWhVbVRvbTF3V2VaYlVRT1BUNEhuTk9Td0RyT1FEX3ZOOFZObW1DWVVLcW0w?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiugFBVV95cUxOYlIyZmNHVnd1Z1B2dzRpSllpUWkxdVFtRDFNMjZtQUY5TmlWdDZhZDZHYXhzcnYyRWU3UTA4ZEN1Z21oOVl3RzRFa2ZrakZrOVNBRUtaNnJnbWp3NWFXSjQzZDZhOW5lYjhMWGo4bWJWUk0xOFFvS01EU1dLZUVCUExmMGV0TGVMYkFzQm5meU1aZnFYSDNxZUhxc1lWeDdYLXlROW1KVXpCRlpPSmdzZURVZzBrUWtXclHSAbwBQVVfeXFMUHNwMGY3cEc5UTZlVjg4bHQ4OFdXUVNTcm9wOC05bjVnSExEaU5TbjN2MFowdjlrc2ppTExwOURWT0hlOHMxUmpSS0VLREZacDAwWFc0MGhLUklVUWkxenBDcVdXS2xLUmJTNjVxS1J1LWRzdlBVUFBiM1pIcUI3bE9mdU85Uzh1ci13VERfNndCQjBKSUFZMjBaV3FkWHMzN0dmVXgtWEo1RWF1QmNBTkFsMHFDOWJuU1k0R0k?oc=5).
 
 ## Requirements
 - Python 3.8
