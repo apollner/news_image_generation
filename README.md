@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 dead and 4 injured in collapse of Mississippi bridge being prepped for demolition**
+**Ohtani's huge homer makes absurd run with RISP historic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxNMlJhYlVhZG9qWlkwYnBVOUxHZm0xNjNHSUxqeTl2UkxQVFZZOEw5T1o1a0NaSmNQOGFOUVZ0S3ZzUF9xb3JvWVJ5eTQyYWNHS3dHaUhtc0Z2a3pTV0RncEt1VnZUTzMzZ0VWRVdENzBjeGtwZ1psZGV4SDJxbngycUVzRUFvXzZmVXlZZ3lUbldzdXFBc3FSY0FIRllPajY0dGxEamsxc0s0N05IWVE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zM1VEYVdVNjNiRDVUdkprc3ZVN0pMLTNqVkhNZGw1N1R6WTBPNDFMXzdTU2pfTU9FUXo4bUJFV1pscVQ3RjJmZTAxdW5XRVZDSUE1SmN0NWtCWnZNeTIyb0x4SnllOERYbGwtWQ?oc=5).
 
 ## Requirements
 - Python 3.8
