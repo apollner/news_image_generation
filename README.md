@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US stealth bombers strike underground Houthi weapons sites in Yemen**
+**ECB Cuts Interest Rates Again as Eurozone Inflation Slows**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbmgwWm9faTBJdjhLN0RPUk9yS3VJMTNQMGlYQV8zVlFMd0dNNmtfU2pVV2gwNDRHVC1PbFpPbEdKdmZrbXF4ZEp1LWJmR0RFTTJjZHJzQU9HSW4wLUlQUEQ4Q1pGS3VQM0pGUHdjNzFwN3g1WmRPaFVsTnozbEk3eFVBLXBxQ3BwbDBFblNNYmpGSnZCcXFTaTJxLXFZNTdSOHdUby0xdnJLZ1ZfZm9QdUVHWElYLVpl?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGZOQURJNkw3bWZ2SUUwOGdVQTRZNjB0VEJVVzVQV3ZlR2JTWFpZQ2M0NnNTZzU4VXlIOGZOVTFiRi15QkF2dXcwWWVSRW9ic3JhVUtoTjhHVkdjcVh4N1p4YUdmUW5zSGF3b0FjbGZXU2FXdk9tZ2FkUkVMOEE2M2o3ZEtVRTg?oc=5).
 
 ## Requirements
 - Python 3.8
