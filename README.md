@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stress and ‘moon face’: What experts say about this TikTok trend**
+**'No authority': Georgia election board loses again in court as judge strikes down 7 rules**
 
-You can read more about it [here](https://www.cnn.com/2024/10/17/health/moon-face-stress-wellness/index.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/17/georgia-election-board-rules-decision/75711517007/).
 
 ## Requirements
 - Python 3.8
