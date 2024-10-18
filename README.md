@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A 911 caller said a camper was killed by a bear. Police say it was murder.**
+**One Direction’s Liam Payne mourned by Hollywood after death at 31: ‘Absolutely heartbreaking’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVlacWFfMjdkblhFekRvckdJWVl1YXhvV3p0bzN2Z0tHV0lpMU9fcWRKNzgtTVluZmhMeWc5VkR1enFMdE1OaVJOZ08yRFB6TzA2UUU1MGdSdV9ZdzJ1d1BKVlFYSUUtTUpWOE5XaVFrTUp4TWx5TGdIVWhiZ0hhVlRsY082YjRnTWVPWlZ3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxPdnVqYV8xVmhLSVpLY2E4MTBnRTdIdlVaOHVxTFdyOXc5dUM3UkttOWI4OEd0WUV4TkZTZ29EbjM0LUNkR2RQUGlyQWZ5ZDg2LWdfNGFteFZLa0h2MnFobEJJcENfVzlCVU5LWnJRZURJQ2UteFdsczdKMjBhcm1ZREh1TlNERWtneEl0S25kZTNuRE9xNUR5cEZDZjVZSktfS0pDZnVTbHAxV1hiOWlUZFEtMG91UjM4QjAzX3Nn0gHDAUFVX3lxTE1KTWV4akliVzV1bGppWmNNaUpPWENNeFEyblpST2wzZ2xnSHFSZy11ODdwNGR3SzRhNzJwMVo5QmZaT1JDZ2I4Y25yTzlUUkFyZ1lQa01QSUExWWNWTm53MldWRVhEUTlJTVZZUXBfWWtnTEN6MHB4eHIxWk9wTzl2a0FJY2lob3BxQWJld2F3VHM4UDYzSVBaQTFXVXJQb1FfOU83TFM5ZzRlOWZCN3d0SFlXWVBhcWdkUkt6WFp5X2IxNA?oc=5).
 
 ## Requirements
 - Python 3.8
