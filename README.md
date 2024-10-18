@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-Loss Drugs Cut Drug and Alcohol Abuse, According to New Study**
+**Italy surrogacy ban: Couples banned from travelling abroad to seek surrogate**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUN6azFaUDlnQk9mTzQ0bV9PUWZDa21aaGtZa1dDMmdrcjZoVVdQb3FzNFNCUHhzOFpLd0Z5eFdEWHBwLUM2VTQ0bE1qMUU0aWJ5ejB0WlhtS2VKWEpRRzRaNGRSYWJDSHVkcDVYSkhRNEZLcU4tRTVlQ05UQzhDOTdsNmMzSGJWX3djQncxczJvZjRCc3pta3pLNE9fR2NTQzNtUFYweW95MV9QenZV?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UR0hIdUJ2XzFILW1IOGhObk8xTUlJQ255d1BlTVY3Vm9XM3QwdHdmcEJ0RHRleGFYY3BNZlVwVGJndGk3OUR2UG80TnBUSlZiYjRJaDBZQUpGQdIBX0FVX3lxTFBCWHFLbEtjd0VPUTlaVmpaT2VGMGthaHZqSVpZeW1xcHBScllpQnloSDYzRnJFNFNFLU5RamV6QmdYdnRmM2l1SzRhZnJzYkVseFlLOGpHX0lVUWwxX0ZF?oc=5).
 
 ## Requirements
 - Python 3.8
