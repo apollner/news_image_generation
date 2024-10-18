@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why is everyone wearing the Oura Ring?**
+**Weight-Loss Drugs Cut Drug and Alcohol Abuse, According to New Study**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVUZ4UFNWUVRUYXVTcXFfMHRQSEJ4cE9mZTR3TzBES1BtNkx0aWVSc25KSVRFWVFZanlUWUlHUGRsS2pGTnd3WjJNOVlWUktKUkIxVGNmbkdUQWR1ZnVjZmJBQmNFTVprMEljaVJhQ1BwVnFWNUhOZmFxRFI5OG0yWVRjbm5EeEpsY0pB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUN6azFaUDlnQk9mTzQ0bV9PUWZDa21aaGtZa1dDMmdrcjZoVVdQb3FzNFNCUHhzOFpLd0Z5eFdEWHBwLUM2VTQ0bE1qMUU0aWJ5ejB0WlhtS2VKWEpRRzRaNGRSYWJDSHVkcDVYSkhRNEZLcU4tRTVlQ05UQzhDOTdsNmMzSGJWX3djQncxczJvZjRCc3pta3pLNE9fR2NTQzNtUFYweW95MV9QenZV?oc=5).
 
 ## Requirements
 - Python 3.8
