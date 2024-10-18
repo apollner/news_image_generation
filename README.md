@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ECB Cuts Interest Rates Again as Eurozone Inflation Slows**
+**Stress and ‘moon face’: What experts say about this TikTok trend**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcGZOQURJNkw3bWZ2SUUwOGdVQTRZNjB0VEJVVzVQV3ZlR2JTWFpZQ2M0NnNTZzU4VXlIOGZOVTFiRi15QkF2dXcwWWVSRW9ic3JhVUtoTjhHVkdjcVh4N1p4YUdmUW5zSGF3b0FjbGZXU2FXdk9tZ2FkUkVMOEE2M2o3ZEtVRTg?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/10/17/health/moon-face-stress-wellness/index.html).
 
 ## Requirements
 - Python 3.8
