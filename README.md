@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu concerns mount as California reports more human cases**
+**Texas man set to be first in US executed over shaken baby syndrome makes last appeals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnZlWTFfbS1Rb29DaUc4dFNwZXpfZ2FyOGUzbmxqNDN1ZFBRVmtteGF3bU9HcXRVTjVSYnkxWmFRc0hQRTlhenVkRFVSLTgybTNYMmpSRTl2Y0t6WUcxYlNQV0xuaml4cG1GcFloeXFRQmlhLVRUbXJiM1JWSlBkWTAyZ2dzYUVNZXRBLVRmU2paQWRk0gGaAUFVX3lxTE9uT1RkNFR4VTF4WHl4MkVPUUdFMWZFT1JveHppRGd2aDBVMDBIeXUxeUc2RS0weVAzZlh3ejU3Q0RxWmlONUxCV014UXo5ckVTcDhvTlJnLWw0dDVXS0tNUFYwX3dpUXNJM1diOHFOTFB0LUZmMzJuNzFtMloyTm9TWlhSeDFPeFo0TG5xOHlycU1ndmpaOFJGeWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1ZDVEs1WXktTG9JQktuRzBjSzVxZXB0end3Z2VTYVBpN05KcnYtOFIxMmdJVFRPaFRlbzFvM1JUSS1HWEE3WWplcS1zcHBkd05FTnVxbU9reVZKU0VOeWtwXzdXelpGNXBXNUF1VVBWWTJkZXFpenlCX28zZ3k2T1d5UUp2bm9CWkJ2dndDLVQ5WmtqNTRFeEFaVzU?oc=5).
 
 ## Requirements
 - Python 3.8
