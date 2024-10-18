@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First clear look at OnePlus 13: Leak reveals design of upcoming Snapdragon 8 Extreme-powered flagship**
+**Saints vs. Broncos odds, prediction, time, spread: Thursday Night Football picks from NFL model on 11-3 roll**
 
-You can read more about it [here](https://www.notebookcheck.net/First-clear-look-at-OnePlus-13-Leak-reveals-design-of-upcoming-Snapdragon-8-Extreme-powered-flagship.903068.0.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/saints-vs-broncos-odds-prediction-time-spread-thursday-night-football-picks-from-nfl-model-on-11-3-roll/).
 
 ## Requirements
 - Python 3.8
