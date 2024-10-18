@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says Jan. 6 was a "day of love," glossing over his supporters' assault on officers**
+**Execution of Texas inmate scheduled for today now in question after he’s called to testify before state committee**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-january-6-univision-town-hall/).
+You can read more about it [here](https://www.cnn.com/2024/10/17/us/robert-roberson-texas-execution-lawfulness/index.html).
 
 ## Requirements
 - Python 3.8
