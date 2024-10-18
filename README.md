@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hacker arrested for the fake SEC tweet that caused a Bitcoin price spike**
+**First clear look at OnePlus 13: Leak reveals design of upcoming Snapdragon 8 Extreme-powered flagship**
 
-You can read more about it [here](https://www.theverge.com/2024/10/17/24272739/sec-fake-bitcoin-etf-tweet-fbi-arrest-eric-council).
+You can read more about it [here](https://www.notebookcheck.net/First-clear-look-at-OnePlus-13-Leak-reveals-design-of-upcoming-Snapdragon-8-Extreme-powered-flagship.903068.0.html).
 
 ## Requirements
 - Python 3.8
