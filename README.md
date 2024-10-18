@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Central Bank set for first back-to-back interest rate cut in 13 years**
+**Zelenskiy pitches victory plan to EU, seeks NATO invitation and military support**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMif0FVX3lxTE91LS0zS2M0NXpnS242a01CUE9VWm5lamI3QkhpM0RpM2FfcjlLVzhlSnRoUUpjLU9sblZZX2hUTDRCV3NGUWliNmFsVFRUMFdKeFVKVUNCWGg3OU03Slp3UmF0Vy1pV3pBa1RtT3hGTy05QTJfdjVUX0dsUHJuZFHSAYQBQVVfeXFMTkVTRVh6R0haakgybDBsU19xWUlZajIxeTR5RmZZbFB2QnlFdHczRTZZcTBDZlhCYW9GY1pXc3Y3SmdGdjVzaVdELVVVUGJ2OXVuS0o4Yk5Kbkt4QmZtSXVwaVNOX2llenlDem4wZE9iRzRyTmN3WWZ3VU5KY3FfM2c2ZUsx?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3FMZWxHX3V6OEwtY3BhWTBXQk5CeWs1MFdveWpoZEh2TFpGX3k0UlcySG1wdmJsczVhNzhuSFQ3dHZQTzN3YmZsVHVlYUxGQnBKcnVfWnVMRndrdXpabGE2MmZhejE0M290a0hiellDcm9Ib1VMUXlnT2dPb0Vnd0hmdkZwdFpBZFhwNG9Fd3N0QzlvQkJEcDlB?oc=5).
 
 ## Requirements
 - Python 3.8
