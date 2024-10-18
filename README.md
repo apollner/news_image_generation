@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Archdiocese of Los Angeles Agrees to Pay $880 Million to Settle Sex Abuse Claims**
+**Stock futures are little changed after Dow closes at another record high: Live updates**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHhObFFhLURvOEsyamhkX3lLMC12SXh1VGg4R2xIYy1iSUdIQVE0YVdta0p5ZFhiTktFS1p3Q1pwQ1BrN2VKMEl3X1dyeE5lWGNXWktEN3VKa2FaYUxwV3YxZ2Y2aW9uWlJmeTFCa29Yc3dkbU4wSUtmS2pBejlvc2dUaFlJWUhFTWJrWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1weTdWSnJpSHp3MEwtTGQxM2hDS29LVEZtT0k0LTJZQXlFVmlLVU5MaHJCcEJQMXNwT25POUU2UHFsTml4eEszZEs1NGRNWFhTMHh3dk54ek0wam94VTI5U01haU9wWnE2Wmd5dE5MLURfbXJGdldF0gF8QVVfeXFMTWtwZDdjdl9QQzdsaU00SjNnOG1nWk8ybHRRNlVOWGI5QWloQk15TmdVZTJtbEZ4RWpPTVNDczNGSHU3aHdNaE1IdEo2RWxMMmdIcEtHeUFybUR6OXUyN2g1RjJkamFtd01CN0pLOS1pYkhjck1MbHVyZktKdg?oc=5).
 
 ## Requirements
 - Python 3.8
