@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man rescued after 67 days adrift at sea describes how he survived after brother and nephew died: "I simply had no choice"**
+**Trump asks judge in Jan. 6 case to delay release of additional immunity filing**
 
-You can read more about it [here](https://www.cbsnews.com/news/man-rescued-67-days-sea-talks-ordeal-brother-nephew-dead/).
+You can read more about it [here](https://abcnews.go.com/US/trump-asks-judge-jan-6-case-delay-release/story?id\\u003d114892192).
 
 ## Requirements
 - Python 3.8
