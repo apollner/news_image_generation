@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a ‘putrid’ find in a museum cupboard could be the key to bringing the Tasmanian tiger back to life**
+**Archdiocese of Los Angeles Agrees to Pay $880 Million to Settle Sex Abuse Claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdFNCWmxsbEZwRGZfY1dKMk9YQjdiYVpoYklwR05sVDljTnBQS2Fad2RUaWp5T2lDczNwcjZfMUY5cVBOOWc3NjdUUXNTNHFqTVRwS0RZSENhNEhkcmpwQU1zWTEzWHg1TUpZTUNNUEdEMFljVXBEWDdza3F2SXZ2anlsYkRwcnBsdHRJUHluc0U1dUN2OEd3a1l5OVAwNmFkSlQteTF3ZEZGX1Y2OEtZLWI1aTNOZUZqdEJ1bGVYdWxseFhtUElOdWNXclpQM3RDZExDeFZuTnNDMGxVTWgwbTR30gHiAUFVX3lxTE93LXNKNy1WZlFUNVh1V2pYVnFKdTRpdUwwTFdPV3ZqWUdXV0loRk9jMXZpd0MwcTdJX3dsU0R4ZzU5LUJHXzFhY1F4bFl6dDhXMS0yWlhEcDVtWTZ2SEs0dzQ3dHVjRi1lcXpJRWlXN0dNUGMzN292YllYOFduektQSlduOFJfX3RPbm4wUFQ3Q28tb3BZa3FuZlV2UVRfbmtrUnpla2ZYRmZ2X0FscnVhWFNOYWFqSTBVTUhPZTJ5cWtWaGk2bUw4LXBfd2ZlbkszTUlLV1U3WWVlM09xNUtncGc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHhObFFhLURvOEsyamhkX3lLMC12SXh1VGg4R2xIYy1iSUdIQVE0YVdta0p5ZFhiTktFS1p3Q1pwQ1BrN2VKMEl3X1dyeE5lWGNXWktEN3VKa2FaYUxwV3YxZ2Y2aW9uWlJmeTFCa29Yc3dkbU4wSUtmS2pBejlvc2dUaFlJWUhFTWJrWQ?oc=5).
 
 ## Requirements
 - Python 3.8
