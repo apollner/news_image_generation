@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Listeria recall expands to nearly 12 million pounds of meat, hits US schools**
+**Family members stand behind Lyle and Erik Menendez as they await a decision that could see them released from prison**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNVUprQlR6dTZpVV9GVlZ4dzQ4cGJ2dlREb3RRT2kxZmxHSUp2QkxPY3FvOVRzVVRua2pneHFYZk90VGZwSGFTY3NrOE5YcFJ1NlEzeTZ2TjdpSm4wT2phNTM5QVp5dnpwNDFBc3RicUtqRGRWZTh5U3RocktndUxFWg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWVnOGs5OFI1VHVzYlNLRnoxNUNYc001enl0TmxWVXJLRXlycEFzX2NaLTdEUS0wNXFZWEt3c1R4RTJFLUR4TVlPUEcxWUYtS0dYdURMOWh0bmw5NEJJWHQ4VjFSekxQSVlNUWpRVC05cUpnS1ZDN0NZR2doSkw3T09kMznSAXtBVV95cUxNQWFtQmdZX0h2UVlDZ3VFaW5BN0FoUndjZ3FMWHBleXByNVBSd2szVnpVeDJlYlBzaFVRcmI4YlBGZzhRZ3hOeVlEQ2xxcVFPZVoybUtxZ0NaTm5lZTBWSnZYa203aU0tNWRUMWtxX3JQaEt3OVZqQkpLUVE?oc=5).
 
 ## Requirements
 - Python 3.8
