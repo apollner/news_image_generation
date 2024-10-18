@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani's huge homer makes absurd run with RISP historic**
+**Archdiocese of Los Angeles Agrees to Pay $880 Million to Settle Sex Abuse Claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMibEFVX3lxTE4zM1VEYVdVNjNiRDVUdkprc3ZVN0pMLTNqVkhNZGw1N1R6WTBPNDFMXzdTU2pfTU9FUXo4bUJFV1pscVQ3RjJmZTAxdW5XRVZDSUE1SmN0NWtCWnZNeTIyb0x4SnllOERYbGwtWQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijAFBVV95cUxPSHhObFFhLURvOEsyamhkX3lLMC12SXh1VGg4R2xIYy1iSUdIQVE0YVdta0p5ZFhiTktFS1p3Q1pwQ1BrN2VKMEl3X1dyeE5lWGNXWktEN3VKa2FaYUxwV3YxZ2Y2aW9uWlJmeTFCa29Yc3dkbU4wSUtmS2pBejlvc2dUaFlJWUhFTWJrWQ?oc=5).
 
 ## Requirements
 - Python 3.8
