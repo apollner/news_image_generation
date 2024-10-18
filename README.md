@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates spike for third straight week while buyers grow cautious**
+**Trump says Jan. 6 was a "day of love," glossing over his supporters' assault on officers**
 
-You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-spike-for-third-straight-week-while-buyers-grow-cautious-160130274.html).
+You can read more about it [here](https://www.cbsnews.com/news/trump-january-6-univision-town-hall/).
 
 ## Requirements
 - Python 3.8
