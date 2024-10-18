@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after Dow closes at another record high: Live updates**
+**A 911 caller said a camper was killed by a bear. Police say it was murder.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE1weTdWSnJpSHp3MEwtTGQxM2hDS29LVEZtT0k0LTJZQXlFVmlLVU5MaHJCcEJQMXNwT25POUU2UHFsTml4eEszZEs1NGRNWFhTMHh3dk54ek0wam94VTI5U01haU9wWnE2Wmd5dE5MLURfbXJGdldF0gF8QVVfeXFMTWtwZDdjdl9QQzdsaU00SjNnOG1nWk8ybHRRNlVOWGI5QWloQk15TmdVZTJtbEZ4RWpPTVNDczNGSHU3aHdNaE1IdEo2RWxMMmdIcEtHeUFybUR6OXUyN2g1RjJkamFtd01CN0pLOS1pYkhjck1MbHVyZktKdg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVlacWFfMjdkblhFekRvckdJWVl1YXhvV3p0bzN2Z0tHV0lpMU9fcWRKNzgtTVluZmhMeWc5VkR1enFMdE1OaVJOZ08yRFB6TzA2UUU1MGdSdV9ZdzJ1d1BKVlFYSUUtTUpWOE5XaVFrTUp4TWx5TGdIVWhiZ0hhVlRsY082YjRnTWVPWlZ3?oc=5).
 
 ## Requirements
 - Python 3.8
