@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump asks judge in Jan. 6 case to delay release of additional immunity filing**
+**US strikes Iran-backed Houthis in Yemen: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/US/trump-asks-judge-jan-6-case-delay-release/story?id\\u003d114892192).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-gaza-lebanon-10-17-24-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
