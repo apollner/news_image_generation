@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Caitlin Clark snubbed of another unanimous WNBA honor after Rookie of the Year controversy**
+**Florida homeowners fear soaring insurance cost after hurricanes**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilAFBVV95cUxPVGVtbk9abVptMHdqMUNHWldEOVdNbXBUcEtKc3dJYTBINEU1NmZrWEE1ODVJamJBWWE5Nk9PM2I5U25WYlp0bnpRMi1oM2N2SlpEUTh5TEViSDBiN1Z1YVA1VkJqSGxid196c21ZVldLVE9LT05Gdi0tLWlnTlBBa3F6VWI5SFp3WXhtYkI4ZG1CYXF5?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQV3NWeEdVLWZHWjlqSXdyNVNTdnU2V0dqb3RwVVlQM2JQdUVlekJBN0NVWUVaTGIwX2NHRnJIOGg1Y1hjRnpGUE00VFJFQS0tSUJReEhGZk9iWkNPMTY1eVphZ2E1WGhwV0NWcUxYdUZrbU8zXzRmWXNUM241MWNYQmpYc3BsekNWTDk0bVEzVG4?oc=5).
 
 ## Requirements
 - Python 3.8
