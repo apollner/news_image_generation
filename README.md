@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s NotebookLM now lets you guide the hosts of your AI podcast**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
