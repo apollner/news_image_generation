@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani, Betts lead way as L.A. puts Mets on brink**
+**‘Ton of’ Steelers don’t agree with benching Justin Fields for Russell Wilson: NFL insider**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41859232/dodgers-roll-mets-game-4-take-3-1-lead-nlcs).
+You can read more about it [here](https://nypost.com/2024/10/18/sports/ton-of-steelers-dont-agree-with-possible-justin-fields-benching-nfl-insider/).
 
 ## Requirements
 - Python 3.8
