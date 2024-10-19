@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unusual surge of "walking pneumonia" reported in young kids this year**
+**"Agatha All Along" Team on Billy Maximoff's Return, Evan Peters Cameo and More**
 
-You can read more about it [here](https://www.cbsnews.com/news/walking-pneumonia-cases-children-2024/).
+You can read more about it [here](https://variety.com/2024/tv/news/agatha-all-along-billy-maximoff-return-evan-peters-cameo-1236181984/).
 
 ## Requirements
 - Python 3.8
