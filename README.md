@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump considers bucking presidential transition system**
+**Unusual surge of "walking pneumonia" reported in young kids this year**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/18/trump-transition-distrust-feds-00184404).
+You can read more about it [here](https://www.cbsnews.com/news/walking-pneumonia-cases-children-2024/).
 
 ## Requirements
 - Python 3.8
