@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father and son indicted over mass shooting at Georgia school**
+**In Photos: Year’s Largest Supermoon Turns Night To Day Across World As Comet Shines**
 
-You can read more about it [here](https://www.axios.com/2024/10/17/gerogia-school-shooting-father-son-indicted).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/10/18/in-photos-years-largest-supermoon-turns-night-to-day-across-world-as-comet-shines/).
 
 ## Requirements
 - Python 3.8
