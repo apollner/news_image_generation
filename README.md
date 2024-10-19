@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Agatha All Along" Team on Billy Maximoff's Return, Evan Peters Cameo and More**
+**Trump campaign in talks with Nikki Haley to join him on the campaign trail to close the gender gap with Harris**
 
-You can read more about it [here](https://variety.com/2024/tv/news/agatha-all-along-billy-maximoff-return-evan-peters-cameo-1236181984/).
+You can read more about it [here](https://www.cnn.com/2024/10/18/politics/donald-trump-nikki-haley-campaign/index.html).
 
 ## Requirements
 - Python 3.8
