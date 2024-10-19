@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani, Betts lead way as L.A. puts Mets on brink**
+**Judge blocks execution of Robert Roberson in controversial shaken baby case**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41859232/dodgers-roll-mets-game-4-take-3-1-lead-nlcs).
+You can read more about it [here](https://www.bbc.com/news/articles/c30l5e562leo).
 
 ## Requirements
 - Python 3.8
