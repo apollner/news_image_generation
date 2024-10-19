@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**East Asia Tonight: China posts slowest quarterly GDP growth since 2023**
+**Olympian Ryan James Wedding Wanted by FBI for Allegedly Running Deadly Drug Trafficking Operation**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003d7MfiKXKxleU).
+You can read more about it [here](https://www.eonline.com/news/1408832/olympic-snowboarder-wanted-by-fbi-for-murder-drug-trafficking).
 
 ## Requirements
 - Python 3.8
