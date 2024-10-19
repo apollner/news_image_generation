@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Broncos vs. Saints score, live updates: Denver looks to get over .500 at slumping New Orleans on Thursday Night Football**
+**One Direction pays tribute to Liam Payne: 'We will miss him terribly'**
 
-You can read more about it [here](https://sports.yahoo.com/live/broncos-vs-saints-score-live-updates-highlights-denver-new-orleans-thursday-night-football-how-to-watch-231506285.html).
+You can read more about it [here](https://abcnews.go.com/GMA/Culture/direction-pays-tribute-liam-payne-miss-terribly/story?id\\u003d114878267).
 
 ## Requirements
 - Python 3.8
