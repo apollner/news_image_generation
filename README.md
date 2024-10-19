@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liam Payne had ‘very tense’ argument with mystery woman he offered $20K shortly before death**
+**Google’s NotebookLM now lets you guide the hosts of your AI podcast**
 
-You can read more about it [here](https://nypost.com/2024/10/18/world-news/liam-payne-argued-with-mystery-woman-shortly-before-death/).
+You can read more about it [here](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize).
 
 ## Requirements
 - Python 3.8
