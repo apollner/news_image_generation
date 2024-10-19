@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks execution of Robert Roberson in controversial shaken baby case**
+**Netanyahu promises more war, dashing peace hopes after Hamas leader killed**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c30l5e562leo).
+You can read more about it [here](https://www.reuters.com/world/middle-east/hezbollah-says-it-will-escalate-war-with-israel-after-hamas-leader-killed-2024-10-18/).
 
 ## Requirements
 - Python 3.8
