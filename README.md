@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**For One Direction fans, Liam Payne's death is a 'watershed' moment**
+**Virginia men’s basketball coach Tony Bennett to retire, effective immediately**
 
-You can read more about it [here](https://www.nbcnews.com/pop-culture/one-direction-fans-mourn-liam-payne-rcna175822).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/17/tony-bennett-virginia-retires/).
 
 ## Requirements
 - Python 3.8
