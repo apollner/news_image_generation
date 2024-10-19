@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fox News’ Bret Baier Says He Made A Mistake And Another Donald Trump Clip Should Have Run During Key Moment Of Kamala Harris Interview**
+**King Charles's Australia tour - and why it nearly did not happen**
 
-You can read more about it [here](http://deadline.com/2024/10/fox-news-kamala-harris-interview-bret-baier-mistake-clip-1236119696/).
+You can read more about it [here](https://www.bbc.com/news/articles/c93y2r75ky7o).
 
 ## Requirements
 - Python 3.8
