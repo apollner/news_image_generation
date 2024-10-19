@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lin-Manuel Miranda’s Warriors Musical Pulls Too Many Punches**
+**Google’s NotebookLM now lets you guide the hosts of your AI podcast**
 
-You can read more about it [here](https://slate.com/culture/2024/10/warriors-lin-manuel-miranda-album-musical-movie-lauryn-hill-hamilton.html).
+You can read more about it [here](https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize).
 
 ## Requirements
 - Python 3.8
