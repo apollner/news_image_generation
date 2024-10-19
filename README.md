@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Ton of’ Steelers don’t agree with benching Justin Fields for Russell Wilson: NFL insider**
+**Serious infections linked to dementia risk, study shows**
 
-You can read more about it [here](https://nypost.com/2024/10/18/sports/ton-of-steelers-dont-agree-with-possible-justin-fields-benching-nfl-insider/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/18/dementia-risk-infections-flu-herpes-respiratory/).
 
 ## Requirements
 - Python 3.8
