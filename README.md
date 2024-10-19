@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'All the emotions': Guardians top Yanks in wild G3**
+**For One Direction fans, Liam Payne's death is a 'watershed' moment**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41857118/guardians-top-yankees-walk-hr-10th-alcs-game-3).
+You can read more about it [here](https://www.nbcnews.com/pop-culture/one-direction-fans-mourn-liam-payne-rcna175822).
 
 ## Requirements
 - Python 3.8
