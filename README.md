@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brightest supermoon of the year above Minnesota Thursday night**
+**Thursday Night Football: Sean Payton, Broncos leave New Orleans with 33-10 win**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/10/17/brightest-supermoon-of-the-year-above-minnesota-thursday-night).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-sean-payton-broncos-leave-new-orleans-with-33-10-win).
 
 ## Requirements
 - Python 3.8
