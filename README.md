@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohtani, Betts lead way as L.A. puts Mets on brink**
+**Father and son indicted over mass shooting at Georgia school**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41859232/dodgers-roll-mets-game-4-take-3-1-lead-nlcs).
+You can read more about it [here](https://www.axios.com/2024/10/17/gerogia-school-shooting-father-son-indicted).
 
 ## Requirements
 - Python 3.8
