@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-loss drugs could reduce risk of overdoses, new study says**
+**'All the emotions': Guardians top Yanks in wild G3**
 
-You can read more about it [here](https://wset.com/news/nation-world/weight-loss-drugs-could-reduce-risk-of-overdoses-new-study-says-ozempic-wegovy-alcohol-intoxication-substance-abuse-fda-prescriptions-health).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41857118/guardians-top-yankees-walk-hr-10th-alcs-game-3).
 
 ## Requirements
 - Python 3.8
