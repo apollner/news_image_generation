@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Week 7 NFL score predictions, odds, picks: Expert releases exact scores for all 14 remaining games**
+**Trump considers bucking presidential transition system**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-week-7-nfl-score-predictions-odds-picks-expert-releases-exact-scores-for-all-14-remaining-games/).
+You can read more about it [here](https://www.politico.com/news/2024/10/18/trump-transition-distrust-feds-00184404).
 
 ## Requirements
 - Python 3.8
