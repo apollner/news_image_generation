@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia men’s basketball coach Tony Bennett to retire, effective immediately**
+**Israel says it has killed Hamas leader Yahya Sinwar in Gaza**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/17/tony-bennett-virginia-retires/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182).
 
 ## Requirements
 - Python 3.8
