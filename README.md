@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CVS Health CEO Karen Lynch steps down, replaced by David Joyner, after 19% stock plunge**
+**Liam Payne had ‘very tense’ argument with mystery woman he offered $20K shortly before death**
 
-You can read more about it [here](https://www.cbsnews.com/news/cvs-health-ceo-karen-lynch-david-joyner/).
+You can read more about it [here](https://nypost.com/2024/10/18/world-news/liam-payne-argued-with-mystery-woman-shortly-before-death/).
 
 ## Requirements
 - Python 3.8
