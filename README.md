@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meta's quest for 'efficiency' sparks new wave of layoffs across departments**
+**Harris campaign shifts strategy as anxiety rises over Trump gains**
 
-You can read more about it [here](https://fortune.com/2024/10/17/meta-permanent-efficiency-layoffs-100-employees-engineers-monetization-mark-zuckerberg/).
+You can read more about it [here](https://www.reuters.com/world/us/harris-campaign-shifts-strategy-anxiety-rises-over-trump-gains-2024-10-17/).
 
 ## Requirements
 - Python 3.8
