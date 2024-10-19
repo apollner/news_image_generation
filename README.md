@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One Direction pays tribute to Liam Payne: 'We will miss him terribly'**
+**Diddy accused of leading gang rape of Bay Area woman in Orinda**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Culture/direction-pays-tribute-liam-payne-miss-terribly/story?id\\u003d114878267).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/diddy-orinda-gang-rape-allegation-19842256.php).
 
 ## Requirements
 - Python 3.8
