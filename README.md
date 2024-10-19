@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Serious infections linked to dementia risk, study shows**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/18/dementia-risk-infections-flu-herpes-respiratory/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
