@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thursday Night Football: Sean Payton, Broncos leave New Orleans with 33-10 win**
+**Weight-loss drugs could reduce risk of overdoses, new study says**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-sean-payton-broncos-leave-new-orleans-with-33-10-win).
+You can read more about it [here](https://wset.com/news/nation-world/weight-loss-drugs-could-reduce-risk-of-overdoses-new-study-says-ozempic-wegovy-alcohol-intoxication-substance-abuse-fda-prescriptions-health).
 
 ## Requirements
 - Python 3.8
