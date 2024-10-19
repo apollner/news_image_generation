@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diddy accused of leading gang rape of Bay Area woman in Orinda**
+**Thursday Night Football: Sean Payton, Broncos leave New Orleans with 33-10 win**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/diddy-orinda-gang-rape-allegation-19842256.php).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/thursday-night-football-sean-payton-broncos-leave-new-orleans-with-33-10-win).
 
 ## Requirements
 - Python 3.8
