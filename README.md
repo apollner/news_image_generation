@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says it has killed Hamas leader Yahya Sinwar in Gaza**
+**Fox News’ Bret Baier Says He Made A Mistake And Another Donald Trump Clip Should Have Run During Key Moment Of Kamala Harris Interview**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-lebanon-hezbollah-news-10-17-2024-d12ca71945313e601cf10876072f4182).
+You can read more about it [here](http://deadline.com/2024/10/fox-news-kamala-harris-interview-bret-baier-mistake-clip-1236119696/).
 
 ## Requirements
 - Python 3.8
