@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu promises more war, dashing peace hopes after Hamas leader killed**
+**Ohtani, Betts lead way as L.A. puts Mets on brink**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/hezbollah-says-it-will-escalate-war-with-israel-after-hamas-leader-killed-2024-10-18/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41859232/dodgers-roll-mets-game-4-take-3-1-lead-nlcs).
 
 ## Requirements
 - Python 3.8
