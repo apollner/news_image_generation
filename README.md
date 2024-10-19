@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris campaign shifts strategy as anxiety rises over Trump gains**
+**Broncos vs. Saints score, live updates: Denver looks to get over .500 at slumping New Orleans on Thursday Night Football**
 
-You can read more about it [here](https://www.reuters.com/world/us/harris-campaign-shifts-strategy-anxiety-rises-over-trump-gains-2024-10-17/).
+You can read more about it [here](https://sports.yahoo.com/live/broncos-vs-saints-score-live-updates-highlights-denver-new-orleans-thursday-night-football-how-to-watch-231506285.html).
 
 ## Requirements
 - Python 3.8
