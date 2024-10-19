@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**King Charles's Australia tour - and why it nearly did not happen**
+**Arizona prosecutors drop charges against deaf Black man beaten by Phoenix police**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c93y2r75ky7o).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/17/arizona-deaf-black-police-beating/75726113007/).
 
 ## Requirements
 - Python 3.8
