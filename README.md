@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas**
+**Keller Fire evacuations: What you need to know**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html).
+You can read more about it [here](http://oaklandside.org/2024/10/19/keller-fire-evacuations-what-you-need-to-know/).
 
 ## Requirements
 - Python 3.8
