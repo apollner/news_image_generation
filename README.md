@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow and S&P end at fresh record highs, lifted by Netflix earnings and tech stocks**
+**Questions remain as investigation into Liam Payne’s fatal fall continues**
 
-You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-rise-tech-stocks-gain-netflix-jumps-after-strong-earnings-2024-10-18/).
+You can read more about it [here](https://www.cnn.com/2024/10/18/entertainment/liam-payne-death-investigation/index.html).
 
 ## Requirements
 - Python 3.8
