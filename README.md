@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas**
+**Drone 'launched towards' Israeli PM Netanyahu's home**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cwyl4e7w2e7o).
 
 ## Requirements
 - Python 3.8
