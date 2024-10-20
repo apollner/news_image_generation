@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cuba's electrical grid collapses for second time, entire country again without power**
+**Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas**
 
-You can read more about it [here](https://www.reuters.com/world/americas/cubas-electrical-grid-collapses-second-time-entire-country-again-without-power-2024-10-19/).
+You can read more about it [here](https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html).
 
 ## Requirements
 - Python 3.8
