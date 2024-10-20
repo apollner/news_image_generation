@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Gladiator II’ First Reactions From Early Screening: “A Total Spectacle With a Pulsating Pace”**
+**Lynx win with late FTs to force deciding Game 5**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/gladiator-2-first-reactions-screening-1236035517/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/41875503/minnesota-lynx-hold-new-york-liberty-force-deciding-game-5-wnba-finals).
 
 ## Requirements
 - Python 3.8
