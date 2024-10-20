@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bose SoundLink Home Review: Big Sound From a Sleek Little Bluetooth Speaker**
+**Peer inside the underwater volcanic caves where life thrives**
 
-You can read more about it [here](https://www.cnet.com/tech/home-entertainment/bose-soundlink-home-review-sleek-little-bluetooth-speaker-big-sound/).
+You can read more about it [here](https://www.cnn.com/2024/10/19/science/subseafloor-ecosystem-science-newsletter-wt/index.html).
 
 ## Requirements
 - Python 3.8
