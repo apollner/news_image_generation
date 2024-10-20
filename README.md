@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees win ALCS Game 4 8–6, can eliminate Guardians with Game 5 victory**
+**How Elon Musk became Trump’s biggest supporter**
 
-You can read more about it [here](https://sports.yahoo.com/live/yankees-win-alcs-game-4-86-can-eliminate-guardians-with-game-5-victory-231005663.html).
+You can read more about it [here](https://www.cnn.com/2024/10/18/politics/video/elon-musk-trump-campaign-danny-freeman-ebof-digvid).
 
 ## Requirements
 - Python 3.8
