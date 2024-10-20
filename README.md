@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cuba suffers nationwide blackout after main power plant fails**
+**Day 1 of Richard Allen's Delphi murders trial brings new details, heartwrenching testimony**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8elzx8dg7zo).
+You can read more about it [here](https://www.indystar.com/story/news/crime/2024/10/18/delphi-murders-trial-underway-in-carroll-county-indiana-opening-statements-richard-m-allen/75607345007/).
 
 ## Requirements
 - Python 3.8
