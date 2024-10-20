@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A drone targets Israeli prime minister’s house while strikes in Gaza kill more than 50**
+**Bose SoundLink Home Review: Big Sound From a Sleek Little Bluetooth Speaker**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11).
+You can read more about it [here](https://www.cnet.com/tech/home-entertainment/bose-soundlink-home-review-sleek-little-bluetooth-speaker-big-sound/).
 
 ## Requirements
 - Python 3.8
