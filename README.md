@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video and an unused bullet prove man’s guilt in Delphi killings, prosecutor says**
+**US Interest Burden Hits 28-Year High, Escalating Political Risk**
 
-You can read more about it [here](https://www.wane.com/top-stories/video-and-an-unused-bullet-prove-mans-guilt-in-delphi-killings-prosecutor-says/).
+You can read more about it [here](https://finance.yahoo.com/news/us-interest-burden-hits-28-121500054.html).
 
 ## Requirements
 - Python 3.8
