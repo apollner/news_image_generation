@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The latest on Hamas leader’s death and war in the Middle East**
+**Cuba suffers nationwide blackout after main power plant fails**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-hamas-lebanon-sinwar-gaza-iran-10-19-24/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c8elzx8dg7zo).
 
 ## Requirements
 - Python 3.8
