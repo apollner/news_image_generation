@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump campaign in talks with Nikki Haley to join him on the campaign trail to close the gender gap with Harris**
+**iPhone 17 Pro Models Again Rumored to Feature 48MP Telephoto Camera, 12GB of RAM, and More**
 
-You can read more about it [here](https://www.cnn.com/2024/10/18/politics/donald-trump-nikki-haley-campaign/index.html).
+You can read more about it [here](https://www.macrumors.com/2024/10/18/iphone-17-pro-rumored-features/).
 
 ## Requirements
 - Python 3.8
