@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Day 1 of Richard Allen's Delphi murders trial brings new details, heartwrenching testimony**
+**Mets embrace 'opportunity to do something special' as NLCS against Dodgers reaches Game 6**
 
-You can read more about it [here](https://www.indystar.com/story/news/crime/2024/10/18/delphi-murders-trial-underway-in-carroll-county-indiana-opening-statements-richard-m-allen/75607345007/).
+You can read more about it [here](https://sny.tv/articles/mets-embrace-opportunity-to-do-something-special-as-nlcs-against-dodgers-reaches-game-6).
 
 ## Requirements
 - Python 3.8
