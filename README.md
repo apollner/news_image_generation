@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops seen being equipped in Russia ahead of likely deployment to Ukraine**
+**SMOKED: Nebraska Football Rolled by Curt Cignetti’s Indiana Hoosiers, 56-7**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/asia/north-korea-ukraine-russia-troops-uniform-intl/index.html).
+You can read more about it [here](https://www.si.com/college/nebraska/football/smoked-nebraska-football-rolled-by-curt-cignetti-indiana-hoosiers-cornhuskers-big-ten).
 
 ## Requirements
 - Python 3.8
