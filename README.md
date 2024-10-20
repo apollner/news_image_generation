@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mets embrace 'opportunity to do something special' as NLCS against Dodgers reaches Game 6**
+**Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas**
 
-You can read more about it [here](https://sny.tv/articles/mets-embrace-opportunity-to-do-something-special-as-nlcs-against-dodgers-reaches-game-6).
+You can read more about it [here](https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html).
 
 ## Requirements
 - Python 3.8
