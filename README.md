@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states**
+**Yankees win ALCS Game 4 8–6, can eliminate Guardians with Game 5 victory**
 
-You can read more about it [here](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf).
+You can read more about it [here](https://sports.yahoo.com/live/yankees-win-alcs-game-4-86-can-eliminate-guardians-with-game-5-victory-231005663.html).
 
 ## Requirements
 - Python 3.8
