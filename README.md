@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peer inside the underwater volcanic caves where life thrives**
+**Cuba's electrical grid collapses for second time, entire country again without power**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/science/subseafloor-ecosystem-science-newsletter-wt/index.html).
+You can read more about it [here](https://www.reuters.com/world/americas/cubas-electrical-grid-collapses-second-time-entire-country-again-without-power-2024-10-19/).
 
 ## Requirements
 - Python 3.8
