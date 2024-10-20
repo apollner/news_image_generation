@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Virginia's Tony Bennett digs deeper after retirement news conference: 'I felt I was the one holding them back'**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/virginias-tony-bennett-digs-deeper-after-retirement-news-conference-i-felt-i-was-the-one-holding-them-back/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
