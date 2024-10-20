@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Peer inside the underwater volcanic caves where life thrives**
+**A drone targets Israeli prime minister’s house while strikes in Gaza kill more than 50**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/science/subseafloor-ecosystem-science-newsletter-wt/index.html).
+You can read more about it [here](https://apnews.com/article/israel-hamas-war-news-10-18-2024-c49911f11a40b7d81b21bc8568ecfe11).
 
 ## Requirements
 - Python 3.8
