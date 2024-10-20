@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions winning numbers for October 18 drawing: Jackpot rises to $185 million**
+**‘Gladiator II’ First Reactions From Early Screening: “A Total Spectacle With a Pulsating Pace”**
 
-You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/10/18/mega-millions-winning-numbers/75739514007/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/gladiator-2-first-reactions-screening-1236035517/).
 
 ## Requirements
 - Python 3.8
