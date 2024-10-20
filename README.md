@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Elon Musk became Trump’s biggest supporter**
+**Missouri elementary school names building after beloved custodian**
 
-You can read more about it [here](https://www.cnn.com/2024/10/18/politics/video/elon-musk-trump-campaign-danny-freeman-ebof-digvid).
+You can read more about it [here](https://www.cbsnews.com/news/missouri-swedeborg-elementary-school-names-building-after-custodian-claudene-wilson/).
 
 ## Requirements
 - Python 3.8
