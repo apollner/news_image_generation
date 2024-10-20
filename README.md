@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lynx win with late FTs to force deciding Game 5**
+**Dow and S&P end at fresh record highs, lifted by Netflix earnings and tech stocks**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/41875503/minnesota-lynx-hold-new-york-liberty-force-deciding-game-5-wnba-finals).
+You can read more about it [here](https://www.reuters.com/markets/us/wall-street-futures-rise-tech-stocks-gain-netflix-jumps-after-strong-earnings-2024-10-18/).
 
 ## Requirements
 - Python 3.8
