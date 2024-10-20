@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The latest on Hamas leader’s death and war in the Middle East**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-hamas-lebanon-sinwar-gaza-iran-10-19-24/index.html).
 
 ## Requirements
 - Python 3.8
