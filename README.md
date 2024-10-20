@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Interest Burden Hits 28-Year High, Escalating Political Risk**
+**Betting tips for Patriots vs. Jaguars**
 
-You can read more about it [here](https://finance.yahoo.com/news/us-interest-burden-hits-28-121500054.html).
+You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/41868440/new-england-patriots-vs-jacksonville-jaguars-sunday-nfl-betting-odds-picks-lines).
 
 ## Requirements
 - Python 3.8
