@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bose SoundLink Home Review: Big Sound From a Sleek Little Bluetooth Speaker**
+**Diablo Winds Fuel Destructive Fire In Oakland**
 
-You can read more about it [here](https://www.cnet.com/tech/home-entertainment/bose-soundlink-home-review-sleek-little-bluetooth-speaker-big-sound/).
+You can read more about it [here](https://weather.com/news/weather/video/hundreds-evacuate-as-diablo-winds-fan-keller-fire-flames).
 
 ## Requirements
 - Python 3.8
