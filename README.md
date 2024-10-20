@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lynx win with late FTs to force deciding Game 5**
+**Whooping cough cases have exploded since 2023, new CDC data shows**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/41875503/minnesota-lynx-hold-new-york-liberty-force-deciding-game-5-wnba-finals).
+You can read more about it [here](https://www.cnn.com/2024/10/18/health/whooping-cough-cases-rising/index.html).
 
 ## Requirements
 - Python 3.8
