@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uncertainty reigns in an election closer 'than any I have ever seen'**
+**Report: Russell Wilson will start vs. Jets, but Justin Fields also will play**
 
-You can read more about it [here](https://www.nbcnews.com/politics/2024-election/uncertainty-reigns-election-closer-ever-seen-rcna175326).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-russell-wilson-will-start-vs-jets-but-justin-fields-also-will-play).
 
 ## Requirements
 - Python 3.8
