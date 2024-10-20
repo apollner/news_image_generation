@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri elementary school names building after beloved custodian**
+**Lynx win with late FTs to force deciding Game 5**
 
-You can read more about it [here](https://www.cbsnews.com/news/missouri-swedeborg-elementary-school-names-building-after-custodian-claudene-wilson/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/41875503/minnesota-lynx-hold-new-york-liberty-force-deciding-game-5-wnba-finals).
 
 ## Requirements
 - Python 3.8
