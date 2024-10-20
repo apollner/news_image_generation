@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drone 'launched towards' Israeli PM Netanyahu's home**
+**Uncertainty reigns in an election closer 'than any I have ever seen'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwyl4e7w2e7o).
+You can read more about it [here](https://www.nbcnews.com/politics/2024-election/uncertainty-reigns-election-closer-ever-seen-rcna175326).
 
 ## Requirements
 - Python 3.8
