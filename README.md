@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Mega Millions winning numbers for October 18 drawing: Jackpot rises to $185 million**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/money/lottery/2024/10/18/mega-millions-winning-numbers/75739514007/).
 
 ## Requirements
 - Python 3.8
