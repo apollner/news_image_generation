@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 17 Pro Models Again Rumored to Feature 48MP Telephoto Camera, 12GB of RAM, and More**
+**Harris and Trump seek Arab American votes in Michigan in effort to shore up battleground states**
 
-You can read more about it [here](https://www.macrumors.com/2024/10/18/iphone-17-pro-rumored-features/).
+You can read more about it [here](https://apnews.com/article/kamala-harris-donald-trump-michigan-6b034753290276bfa96d7caf8f7639bf).
 
 ## Requirements
 - Python 3.8
