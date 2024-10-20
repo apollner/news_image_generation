@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Trump duked it out in Michigan on Friday. Here’s what they said**
+**Video and an unused bullet prove man’s guilt in Delphi killings, prosecutor says**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/politics/president-election-michigan-harris-trump/index.html).
+You can read more about it [here](https://www.wane.com/top-stories/video-and-an-unused-bullet-prove-mans-guilt-in-delphi-killings-prosecutor-says/).
 
 ## Requirements
 - Python 3.8
