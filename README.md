@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Questions remain as investigation into Liam Payne’s fatal fall continues**
+**Virginia's Tony Bennett digs deeper after retirement news conference: 'I felt I was the one holding them back'**
 
-You can read more about it [here](https://www.cnn.com/2024/10/18/entertainment/liam-payne-death-investigation/index.html).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/virginias-tony-bennett-digs-deeper-after-retirement-news-conference-i-felt-i-was-the-one-holding-them-back/).
 
 ## Requirements
 - Python 3.8
