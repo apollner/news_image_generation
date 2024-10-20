@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Killing Sinwar: A chance encounter after a yearlong manhunt for the head of Hamas**
+**North Korean troops seen being equipped in Russia ahead of likely deployment to Ukraine**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/politics/sinwar-hamas-manhunt-death/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/19/asia/north-korea-ukraine-russia-troops-uniform-intl/index.html).
 
 ## Requirements
 - Python 3.8
