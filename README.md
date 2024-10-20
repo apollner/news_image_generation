@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Russell Wilson will start vs. Jets, but Justin Fields also will play**
+**Harris and Trump duked it out in Michigan on Friday. Here’s what they said**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-russell-wilson-will-start-vs-jets-but-justin-fields-also-will-play).
+You can read more about it [here](https://www.cnn.com/2024/10/19/politics/president-election-michigan-harris-trump/index.html).
 
 ## Requirements
 - Python 3.8
