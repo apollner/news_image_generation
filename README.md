@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Betting tips for Patriots vs. Jaguars**
+**Peer inside the underwater volcanic caves where life thrives**
 
-You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/41868440/new-england-patriots-vs-jacksonville-jaguars-sunday-nfl-betting-odds-picks-lines).
+You can read more about it [here](https://www.cnn.com/2024/10/19/science/subseafloor-ecosystem-science-newsletter-wt/index.html).
 
 ## Requirements
 - Python 3.8
