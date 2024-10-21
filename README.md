@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Orionid meteor shower, debris from Halley’s comet**
+**Trump kicks off a Pennsylvania rally by talking about Arnold Palmer’s genitalia**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/science/orionids-meteor-shower-october/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-kicks-off-a-pennsylvania-rally-by-talking-about-arnold-palmers-genitalia).
 
 ## Requirements
 - Python 3.8
