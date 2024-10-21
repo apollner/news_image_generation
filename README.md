@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As bird flu outbreaks rise, piles of dead cattle become shocking Central Valley tableau**
+**Birmingham's Ozzy Osbourne inducted into Rock and Roll Hall of Fame**
 
-You can read more about it [here](https://www.yahoo.com/news/bird-flu-outbreaks-rise-piles-100044871.html).
+You can read more about it [here](https://www.bbc.co.uk/news/articles/c5yw7xlxqw9o).
 
 ## Requirements
 - Python 3.8
