@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Machinists to vote Wednesday on new proposal to end the strike**
+**Trump kicks off a Pennsylvania rally by talking about Arnold Palmer’s genitalia**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/boeing-machinists-will-vote-wednesday-on-new-proposal-to-end-the-strike/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-kicks-off-a-pennsylvania-rally-by-talking-about-arnold-palmers-genitalia).
 
 ## Requirements
 - Python 3.8
