@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump kicks off a Pennsylvania rally by talking about Arnold Palmer’s genitalia**
+**Your lookahead horoscope: October 20, 2024**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trump-kicks-off-a-pennsylvania-rally-by-talking-about-arnold-palmers-genitalia).
+You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-october-20-2024/).
 
 ## Requirements
 - Python 3.8
