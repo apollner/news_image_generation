@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Orionid meteor shower, debris from Halley’s comet**
+**Musk promises to award $1 million each day to a signer of his petition**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/science/orionids-meteor-shower-october/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/elon-musk-promises-award-1-mln-each-day-signer-his-petition-2024-10-20/).
 
 ## Requirements
 - Python 3.8
