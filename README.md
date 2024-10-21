@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers vs. Chiefs second quarter thread: It’s a wild one already**
+**Georgia authorities investigating the ‘catastrophic’ failure of a 3-year-old boat dock gangway that killed 7**
 
-You can read more about it [here](https://www.ninersnation.com/2024/10/20/24275177/49ers-vs-chiefs-second-quarter-thread-its-a-wild-one-already).
+You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
 
 ## Requirements
 - Python 3.8
