@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your lookahead horoscope: October 20, 2024**
+**3 killed and 8 injured in a mass shooting after a homecoming game in Mississippi**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-october-20-2024/).
+You can read more about it [here](https://www.cnn.com/2024/10/19/us/lexington-mississippi-homecoming-shooting/index.html).
 
 ## Requirements
 - Python 3.8
