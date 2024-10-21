@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Smile 2’ Leads Box Office With $23 Million Debut, A24’s ‘We Live in Time’ Cracks Top Five**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/film/box-office/smile-2-box-office-opening-weekend-we-live-in-time-impresses-1236183702/).
 
 ## Requirements
 - Python 3.8
