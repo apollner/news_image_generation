@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unconventional relationship holds answers to Florida woman's violent murder**
+**Trump kicks off a Pennsylvania rally by talking about Arnold Palmer’s genitalia**
 
-You can read more about it [here](https://www.cbsnews.com/news/aileen-seiden-florida-throuple-murder-investigation-zach-abell-christina-araujo-48-hours/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-kicks-off-a-pennsylvania-rally-by-talking-about-arnold-palmers-genitalia).
 
 ## Requirements
 - Python 3.8
