@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whelan says he fed information to Western officials that he received from fellow prisoners fighting in Ukraine**
+**Orionid meteor shower 2024: How, when to see one of most beautiful showers**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/politics/paul-whalen-interview/index.html).
+You can read more about it [here](https://www.axios.com/2024/10/19/orionids-meteor-shower-2024-comet).
 
 ## Requirements
 - Python 3.8
