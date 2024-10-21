@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Smile 2’ Leads Box Office With $23 Million Debut, A24’s ‘We Live in Time’ Cracks Top Five**
+**Here's What Absolutely Everyone Wore To The 2024 Academy Museum Gala**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/smile-2-box-office-opening-weekend-we-live-in-time-impresses-1236183702/).
+You can read more about it [here](https://www.buzzfeed.com/mychalthompson/academy-museum-gala-fasihon-2024).
 
 ## Requirements
 - Python 3.8
