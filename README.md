@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some spots on Mars could have the potential to support life: Study**
+**How to watch the Orionid meteor shower, debris from Halley’s comet**
 
-You can read more about it [here](https://www.newsnationnow.com/space/some-spots-on-mars-could-support-life/).
+You can read more about it [here](https://www.cnn.com/2024/10/20/science/orionids-meteor-shower-october/index.html).
 
 ## Requirements
 - Python 3.8
