@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 killed and 8 injured in a mass shooting after a homecoming game in Mississippi**
+**Cher, Kool & the Gang, Dionne Warwick inducted into Rock & Roll Hall of Fame**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/us/lexington-mississippi-homecoming-shooting/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/rock-roll-hall-of-fame-induction-ceremony-cher-dionne-warwick-mary-j-blige-jimmy-buffett/).
 
 ## Requirements
 - Python 3.8
