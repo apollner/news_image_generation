@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia authorities investigating the ‘catastrophic’ failure of a 3-year-old boat dock gangway that killed 7**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
