@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops seen being equipped in Russia ahead of likely deployment to Ukraine**
+**Drone strike launched toward Benjamin Netanyahu's home, Israel says; no injuries reported**
 
-You can read more about it [here](https://www.cnn.com/2024/10/19/asia/north-korea-ukraine-russia-troops-uniform-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/drone-strike-benjamin-netanyahu-israel-gaza-lebanon-hamas/).
 
 ## Requirements
 - Python 3.8
