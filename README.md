@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cher, Kool & the Gang, Dionne Warwick inducted into Rock & Roll Hall of Fame**
+**Some spots on Mars could have the potential to support life: Study**
 
-You can read more about it [here](https://www.cbsnews.com/news/rock-roll-hall-of-fame-induction-ceremony-cher-dionne-warwick-mary-j-blige-jimmy-buffett/).
+You can read more about it [here](https://www.newsnationnow.com/space/some-spots-on-mars-could-support-life/).
 
 ## Requirements
 - Python 3.8
