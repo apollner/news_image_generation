@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia authorities investigating the ‘catastrophic’ failure of a 3-year-old boat dock gangway that killed 7**
+**4 agricultural workers test 'presumptively positive' for avian flu, first cases in WA**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
+You can read more about it [here](https://komonews.com/news/local/4-agricultural-workers-test-presumptively-positive-for-avian-flu-first-human-cases-in-washington-state-department-of-health-infection-bird-flu-symptoms-h5n1-fluenza-doh-chickens-turkeys-pheasants-quail-ducks-geese).
 
 ## Requirements
 - Python 3.8
