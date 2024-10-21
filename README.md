@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the Orionid meteor shower, debris from Halley’s comet**
+**Georgia authorities investigating the ‘catastrophic’ failure of a 3-year-old boat dock gangway that killed 7**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/science/orionids-meteor-shower-october/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
 
 ## Requirements
 - Python 3.8
