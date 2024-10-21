@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's What Absolutely Everyone Wore To The 2024 Academy Museum Gala**
+**Whelan says he fed information to Western officials that he received from fellow prisoners fighting in Ukraine**
 
-You can read more about it [here](https://www.buzzfeed.com/mychalthompson/academy-museum-gala-fasihon-2024).
+You can read more about it [here](https://www.cnn.com/2024/10/20/politics/paul-whalen-interview/index.html).
 
 ## Requirements
 - Python 3.8
