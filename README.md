@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump kicks off a Pennsylvania rally by talking about Arnold Palmer’s genitalia**
+**Ngannou wins PFL title; dedicates fight to son**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trump-kicks-off-a-pennsylvania-rally-by-talking-about-arnold-palmers-genitalia).
+You can read more about it [here](https://www.espn.com/mma/story/_/id/41891838/emotional-francis-ngannou-wins-pfl-title-says-fight-was-son).
 
 ## Requirements
 - Python 3.8
