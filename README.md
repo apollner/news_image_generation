@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The United States of Automobiles**
+**Patriots vs. Jaguars score, live updates: Jacksonville plays second straight NFL London Game, looks to bounce back**
 
-You can read more about it [here](https://www.businessinsider.com/united-states-car-models-interactive-guide-politics-color-brand-location-2024-10).
+You can read more about it [here](https://sports.yahoo.com/live/patriots-vs-jaguars-score-live-updates-highlights-nfl-london-game-new-england-jaguars-123027908.html).
 
 ## Requirements
 - Python 3.8
