@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A collapse on Georgia’s Sapelo Island dock left 7 dead and turned celebration into tragedy. An investigation is now underway**
+**Oscar Makes First Landfall On Great Inagua Island**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-10-19-tropical-storm-nadine-oscar-caribbean-tracker).
 
 ## Requirements
 - Python 3.8
