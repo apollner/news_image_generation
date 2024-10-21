@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moldova says 'no' in vote on joining EU: partial results**
+**49ers vs. Chiefs second quarter thread: It’s a wild one already**
 
-You can read more about it [here](https://www.dw.com/en/moldova-votes-no-in-referendum-on-eu-partial-results/a-70544401).
+You can read more about it [here](https://www.ninersnation.com/2024/10/20/24275177/49ers-vs-chiefs-second-quarter-thread-its-a-wild-one-already).
 
 ## Requirements
 - Python 3.8
