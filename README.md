@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 7 bold predictions: Giants' Daniel Jones ends home TD skid; Jared Goff, Lions hand Vikings first loss**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-7-bold-predictions-giants-daniel-jones-ends-home-td-skid-jared-goff-lions-hand-vikings-first-loss/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
