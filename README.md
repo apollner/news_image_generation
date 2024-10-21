@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drone strike launched toward Benjamin Netanyahu's home, Israel says; no injuries reported**
+**A collapse on Georgia’s Sapelo Island dock left 7 dead and turned celebration into tragedy. An investigation is now underway**
 
-You can read more about it [here](https://www.cbsnews.com/news/drone-strike-benjamin-netanyahu-israel-gaza-lebanon-hamas/).
+You can read more about it [here](https://www.cnn.com/2024/10/20/us/georgia-sapelo-island-ferry-dock-collapse-sunday/index.html).
 
 ## Requirements
 - Python 3.8
