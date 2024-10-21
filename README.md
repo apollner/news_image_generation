@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest Starship flight prompts praise and worries at IAC**
+**Asian IPOs Set for Blockbuster Week as ‘Animal Spirits’ Return**
 
-You can read more about it [here](https://spacenews.com/latest-starship-flight-prompts-praise-and-worries-at-iac/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-20/asian-ipos-set-for-blockbuster-week-as-animal-spirits-return).
 
 ## Requirements
 - Python 3.8
