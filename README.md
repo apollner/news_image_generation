@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ngannou wins PFL title; dedicates fight to son**
+**Unconventional relationship holds answers to Florida woman's violent murder**
 
-You can read more about it [here](https://www.espn.com/mma/story/_/id/41891838/emotional-francis-ngannou-wins-pfl-title-says-fight-was-son).
+You can read more about it [here](https://www.cbsnews.com/news/aileen-seiden-florida-throuple-murder-investigation-zach-abell-christina-araujo-48-hours/).
 
 ## Requirements
 - Python 3.8
