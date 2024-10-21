@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pennsylvania woman sentenced to life for murders of 2 young children found hanging in home's basement**
+**As bird flu outbreaks rise, piles of dead cattle become shocking Central Valley tableau**
 
-You can read more about it [here](https://www.foxnews.com/us/pennsylvania-woman-sentenced-life-murders-2-young-children-found-hanging-homes-basement).
+You can read more about it [here](https://www.yahoo.com/news/bird-flu-outbreaks-rise-piles-100044871.html).
 
 ## Requirements
 - Python 3.8
