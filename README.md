@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orionid meteor shower 2024: How, when to see one of most beautiful showers**
+**Burrow hits Higgins to get up by two scores going into the 4th**
 
-You can read more about it [here](https://www.axios.com/2024/10/19/orionids-meteor-shower-2024-comet).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dr2JoYDVA3Ig).
 
 ## Requirements
 - Python 3.8
