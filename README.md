@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Pennsylvania woman sentenced to life for murders of 2 young children found hanging in home's basement**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/us/pennsylvania-woman-sentenced-life-murders-2-young-children-found-hanging-homes-basement).
 
 ## Requirements
 - Python 3.8
