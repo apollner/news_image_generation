@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whelan says he fed information to Western officials that he received from fellow prisoners fighting in Ukraine**
+**Moldova says 'no' in vote on joining EU: partial results**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/politics/paul-whalen-interview/index.html).
+You can read more about it [here](https://www.dw.com/en/moldova-votes-no-in-referendum-on-eu-partial-results/a-70544401).
 
 ## Requirements
 - Python 3.8
