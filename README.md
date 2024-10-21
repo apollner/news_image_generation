@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SMOKED: Nebraska Football Rolled by Curt Cignetti’s Indiana Hoosiers, 56-7**
+**Oakland fire burns homes, sends residents fleeing amid gusty California winds**
 
-You can read more about it [here](https://www.si.com/college/nebraska/football/smoked-nebraska-football-rolled-by-curt-cignetti-indiana-hoosiers-cornhuskers-big-ten).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/19/oakland-wildfire-diablo-winds-california/75751285007/).
 
 ## Requirements
 - Python 3.8
