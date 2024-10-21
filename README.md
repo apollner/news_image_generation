@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian IPOs Set for Blockbuster Week as ‘Animal Spirits’ Return**
+**Liam Payne likely got drugs from hotel employee before he died, indictment may follow: report**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-20/asian-ipos-set-for-blockbuster-week-as-animal-spirits-return).
+You can read more about it [here](https://pagesix.com/2024/10/19/celebrity-news/liam-payne-likely-got-drugs-from-hotel-employee-before-he-died/).
 
 ## Requirements
 - Python 3.8
