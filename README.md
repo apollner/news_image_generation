@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liam Payne likely got drugs from hotel employee before he died, indictment may follow: report**
+**Boeing Machinists to vote Wednesday on new proposal to end the strike**
 
-You can read more about it [here](https://pagesix.com/2024/10/19/celebrity-news/liam-payne-likely-got-drugs-from-hotel-employee-before-he-died/).
+You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/boeing-machinists-will-vote-wednesday-on-new-proposal-to-end-the-strike/).
 
 ## Requirements
 - Python 3.8
