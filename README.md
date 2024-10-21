@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Birmingham's Ozzy Osbourne inducted into Rock and Roll Hall of Fame**
+**The United States of Automobiles**
 
-You can read more about it [here](https://www.bbc.co.uk/news/articles/c5yw7xlxqw9o).
+You can read more about it [here](https://www.businessinsider.com/united-states-car-models-interactive-guide-politics-color-brand-location-2024-10).
 
 ## Requirements
 - Python 3.8
