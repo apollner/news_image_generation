@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burrow hits Higgins to get up by two scores going into the 4th**
+**Whelan says he fed information to Western officials that he received from fellow prisoners fighting in Ukraine**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dr2JoYDVA3Ig).
+You can read more about it [here](https://www.cnn.com/2024/10/20/politics/paul-whalen-interview/index.html).
 
 ## Requirements
 - Python 3.8
