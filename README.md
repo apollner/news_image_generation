@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Propaganda war: Israel, Hamas battle over final images of Yahya Sinwar**
+**Latest update from the National Hurricane Center on Tropical Storm Oscar for Monday, Oct 21**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/20/yahya-sinwar-gaza-hamas-isarel-drone/).
+You can read more about it [here](https://www.miamiherald.com/news/weather/hurricane/article294282879.html).
 
 ## Requirements
 - Python 3.8
