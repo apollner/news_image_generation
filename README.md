@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arnold Palmer’s Daughter Reacts to Trump Story About Her Dad’s Manhood**
+**Bitter Cheryl Reeve blames refs for WNBA Finals loss to Liberty in wild rant: ‘S–t was stolen from us’**
 
-You can read more about it [here](https://www.thedailybeast.com/arnold-palmers-daughter-reacts-to-trump-story-about-her-dads-manhood/).
+You can read more about it [here](https://nypost.com/2024/10/21/sports/cheryl-reeve-blames-refs-for-wnba-finals-loss-s-t-was-stolen-from-us/).
 
 ## Requirements
 - Python 3.8
