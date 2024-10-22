@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Genocide unfolding’: 640 Palestinians killed in north Gaza in 17 days**
+**5 things to know before the stock market opens Monday**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/21/genocide-unfolding-640-palestinians-killed-in-north-gaza-in-17-days).
+You can read more about it [here](https://www.cnbc.com/2024/10/21/5-things-to-know-before-the-stock-market-opens-monday-october-21.html).
 
 ## Requirements
 - Python 3.8
