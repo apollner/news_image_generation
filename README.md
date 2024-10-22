@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow drops more than 250 points as Wall Street's rally takes a breather: Live updates**
+**Ancient meteorite was 'giant fertilizer bomb' for life on Earth**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/20/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.yahoo.com/news/ancient-meteorite-giant-fertilizer-bomb-190314530.html).
 
 ## Requirements
 - Python 3.8
