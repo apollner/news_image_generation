@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is rucking? This popular fitness trend goes back to basics for big gains**
+**Comet Tracker Tonight: When And Where To See It On Monday With ‘Shooting Stars’**
 
-You can read more about it [here](https://www.foxnews.com/health/what-rucking-popular-fitness-trend-back-basics-big-gains).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/10/21/comet-tracker-for-monday-when-and-where-to-see-it-tonight-with-halleys-comet-shooting-stars/).
 
 ## Requirements
 - Python 3.8
