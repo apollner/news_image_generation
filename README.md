@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US veteran Daniel Penny on trial in New York for fatal subway chokehold**
+**Dow drops more than 250 points as Wall Street's rally takes a breather: Live updates**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/21/us-veteran-daniel-penny-on-trial-in-new-york-for-fatal-subway).
+You can read more about it [here](https://www.cnbc.com/2024/10/20/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
