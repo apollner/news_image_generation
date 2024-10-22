@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas**
+**Sunday Night Football: Russell Wilson throws for 264 yards as Steelers win 37-15**
 
-You can read more about it [here](https://thehill.com/homenews/ap/ap-international/ap-oscar-brings-winds-heavy-rains-to-eastern-cuba-after-striking-the-bahamas/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-russell-wilson-throws-for-264-yards-as-steelers-win-37-15).
 
 ## Requirements
 - Python 3.8
