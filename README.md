@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orionid meteor shower 2024: How, when to see one of most beautiful showers**
+**Ex-general Prabowo, once accused of rights abuses, takes up presidency of world’s third-largest democracy**
 
-You can read more about it [here](https://www.axios.com/2024/10/19/orionids-meteor-shower-2024-comet).
+You can read more about it [here](https://www.cnn.com/2024/10/20/asia/prabowo-indonesia-presidency-int-latam/index.html).
 
 ## Requirements
 - Python 3.8
