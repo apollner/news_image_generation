@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Monday**
+**Harris, Trump in dead heat across swing states in Washington Post poll**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/21/5-things-to-know-before-the-stock-market-opens-monday-october-21.html).
+You can read more about it [here](https://www.reuters.com/world/us/harris-trump-dead-heat-across-swing-states-washington-post-poll-2024-10-21/).
 
 ## Requirements
 - Python 3.8
