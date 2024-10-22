@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**40% of parents said their teen consumed protein supplements in the past year, according to new poll**
+**OnePlus 13 launch date and color options officially confirmed**
 
-You can read more about it [here](https://www.cnn.com/2024/10/21/health/protein-supplement-teens-poll-wellness/index.html).
+You can read more about it [here](https://www.notebookcheck.net/OnePlus-13-launch-date-and-color-options-officially-confirmed.905009.0.html).
 
 ## Requirements
 - Python 3.8
