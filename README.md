@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Propaganda war: Israel, Hamas battle over final images of Yahya Sinwar**
+**Reeve blasts officiating; title 'stolen' from Lynx**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/20/yahya-sinwar-gaza-hamas-isarel-drone/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/41917031/cheryl-reeve-blasts-officiating-says-title-stolen-lynx).
 
 ## Requirements
 - Python 3.8
