@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cubans struggle with an extended power outage and a new tropical storm**
+**Does Musk’s daily $1m giveaway constitute election interference?**
 
-You can read more about it [here](https://apnews.com/article/cuba-power-blackout-hurricane-oscar-b197e174af2c9f664d4c3aaf0c5a6e75).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/21/does-musks-daily-1m-giveaway-constitute-election-interference).
 
 ## Requirements
 - Python 3.8
