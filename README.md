@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-general Prabowo, once accused of rights abuses, takes up presidency of world’s third-largest democracy**
+**At least 87 killed in Israeli strike on northern Gaza, health ministry says**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/asia/prabowo-indonesia-presidency-int-latam/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/20/middleeast/gaza-israel-beit-lahia-deadly-strike-intl/index.html).
 
 ## Requirements
 - Python 3.8
