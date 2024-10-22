@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Monday**
+**Dodgers headed to the World Series after scoring victory against Mets in NLCS**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/21/5-things-to-know-before-the-stock-market-opens-monday-october-21.html).
+You can read more about it [here](https://www.cbsnews.com/losangeles/news/dodgers-headed-to-the-world-series-after-scoring-victory-against-mets-in-game-6-of-nlcs/).
 
 ## Requirements
 - Python 3.8
