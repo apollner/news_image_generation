@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitter Cheryl Reeve blames refs for WNBA Finals loss to Liberty in wild rant: ‘S–t was stolen from us’**
+**NFL Week 7 grades: Steelers earn high mark for destroying Jets, 49ers get 'C-' after ugly loss to Chiefs**
 
-You can read more about it [here](https://nypost.com/2024/10/21/sports/cheryl-reeve-blames-refs-for-wnba-finals-loss-s-t-was-stolen-from-us/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-7-grades-49ers-get-c-for-ugly-loss-to-chiefs-eagles-earn-high-mark-for-blowing-out-giants/).
 
 ## Requirements
 - Python 3.8
