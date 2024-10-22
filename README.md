@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers lose WR Aiyuk to torn ACL, source says**
+**Helicopter crashes into radio tower in Houston, killing 4 on board, authorities say**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41930114/49ers-lose-wr-brandon-aiyuk-torn-acl-source-says).
+You can read more about it [here](https://www.cbsnews.com/news/helicopter-crashes-into-radio-tower-in-houston-killing-4-on-board-authorities-say/).
 
 ## Requirements
 - Python 3.8
