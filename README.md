@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris, Trump in dead heat across swing states in Washington Post poll**
+**South Korea calls for immediate withdrawal of North Korean troops allegedly in Russia**
 
-You can read more about it [here](https://www.reuters.com/world/us/harris-trump-dead-heat-across-swing-states-washington-post-poll-2024-10-21/).
+You can read more about it [here](https://apnews.com/article/north-south-korea-russia-ukraine-27780e4b672ee638b96099ec5f5168e4).
 
 ## Requirements
 - Python 3.8
