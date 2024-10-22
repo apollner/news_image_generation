@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli airstrikes pound Lebanon and Gaza**
+**Boeing Rebounds On Agreement, But Union Vote, Earnings Just Ahead**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-lebanon-gaza-war-10-21-24-intl-hnk/index.html).
+You can read more about it [here](https://www.investors.com/news/boeing-stock-union-strike-deal-q3-earnings/).
 
 ## Requirements
 - Python 3.8
