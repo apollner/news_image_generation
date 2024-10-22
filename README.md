@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OnePlus 13 launch date and color options officially confirmed**
+**What is rucking? This popular fitness trend goes back to basics for big gains**
 
-You can read more about it [here](https://www.notebookcheck.net/OnePlus-13-launch-date-and-color-options-officially-confirmed.905009.0.html).
+You can read more about it [here](https://www.foxnews.com/health/what-rucking-popular-fitness-trend-back-basics-big-gains).
 
 ## Requirements
 - Python 3.8
