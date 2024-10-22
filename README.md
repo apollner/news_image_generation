@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 7 grades: Steelers earn high mark for destroying Jets, 49ers get 'C-' after ugly loss to Chiefs**
+**Jelly Roll Calls X 'Most Toxic' App Ever, Says He's Quitting It**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-7-grades-49ers-get-c-for-ugly-loss-to-chiefs-eagles-earn-high-mark-for-blowing-out-giants/).
+You can read more about it [here](https://www.tmz.com/2024/10/20/jelly-roll-x-toxic-negative-app-quits/).
 
 ## Requirements
 - Python 3.8
