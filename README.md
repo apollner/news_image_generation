@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reeve blasts officiating; title 'stolen' from Lynx**
+**Latest update from the National Hurricane Center on Tropical Storm Oscar for Monday, Oct 21**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/41917031/cheryl-reeve-blasts-officiating-says-title-stolen-lynx).
+You can read more about it [here](https://www.miamiherald.com/news/weather/hurricane/article294282879.html).
 
 ## Requirements
 - Python 3.8
