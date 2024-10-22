@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers Eliminate Mets to Set Up Dream World Series vs. Yankees: Takeaways**
+**Arnold Palmer’s Daughter Reacts to Trump Story About Her Dad’s Manhood**
 
-You can read more about it [here](https://www.si.com/mlb/nlcs-game-6-takeaways-dodgers-eliminate-mets).
+You can read more about it [here](https://www.thedailybeast.com/arnold-palmers-daughter-reacts-to-trump-story-about-her-dads-manhood/).
 
 ## Requirements
 - Python 3.8
