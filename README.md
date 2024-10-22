@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest update from the National Hurricane Center on Tropical Storm Oscar for Monday, Oct 21**
+**Dodgers Eliminate Mets to Set Up Dream World Series vs. Yankees: Takeaways**
 
-You can read more about it [here](https://www.miamiherald.com/news/weather/hurricane/article294282879.html).
+You can read more about it [here](https://www.si.com/mlb/nlcs-game-6-takeaways-dodgers-eliminate-mets).
 
 ## Requirements
 - Python 3.8
