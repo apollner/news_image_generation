@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is the Hezbollah-linked financial institution Israel is targeting in Lebanon?**
+**49ers lose WR Aiyuk to torn ACL, source says**
 
-You can read more about it [here](https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41930114/49ers-lose-wr-brandon-aiyuk-torn-acl-source-says).
 
 ## Requirements
 - Python 3.8
