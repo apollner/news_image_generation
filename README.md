@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Comet Tracker Tonight: When And Where To See It On Monday With ‘Shooting Stars’**
+**'Is this really the closing message you want voters to hear?': Tapper presses Johnson over vulgar Trump rally**
 
-You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/10/21/comet-tracker-for-monday-when-and-where-to-see-it-tonight-with-halleys-comet-shooting-stars/).
+You can read more about it [here](https://www.cnn.com/2024/10/21/politics/video/sotu-speaker-mike-johnson-trump-arnold-palmer-tangent-digvid).
 
 ## Requirements
 - Python 3.8
