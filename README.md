@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 agricultural workers test 'presumptively positive' for avian flu, first cases in WA**
+**Orionid meteor shower 2024: How, when to see one of most beautiful showers**
 
-You can read more about it [here](https://komonews.com/news/local/4-agricultural-workers-test-presumptively-positive-for-avian-flu-first-human-cases-in-washington-state-department-of-health-infection-bird-flu-symptoms-h5n1-fluenza-doh-chickens-turkeys-pheasants-quail-ducks-geese).
+You can read more about it [here](https://www.axios.com/2024/10/19/orionids-meteor-shower-2024-comet).
 
 ## Requirements
 - Python 3.8
