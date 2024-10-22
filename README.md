@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers headed to the World Series after scoring victory against Mets in NLCS**
+**‘Genocide unfolding’: 640 Palestinians killed in north Gaza in 17 days**
 
-You can read more about it [here](https://www.cbsnews.com/losangeles/news/dodgers-headed-to-the-world-series-after-scoring-victory-against-mets-in-game-6-of-nlcs/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/21/genocide-unfolding-640-palestinians-killed-in-north-gaza-in-17-days).
 
 ## Requirements
 - Python 3.8
