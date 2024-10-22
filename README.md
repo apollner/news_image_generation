@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: Russell Wilson throws for 264 yards as Steelers win 37-15**
+**Propaganda war: Israel, Hamas battle over final images of Yahya Sinwar**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-russell-wilson-throws-for-264-yards-as-steelers-win-37-15).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/20/yahya-sinwar-gaza-hamas-isarel-drone/).
 
 ## Requirements
 - Python 3.8
