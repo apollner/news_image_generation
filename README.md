@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know before the stock market opens Monday**
+**Cubans struggle with an extended power outage and a new tropical storm**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/21/5-things-to-know-before-the-stock-market-opens-monday-october-21.html).
+You can read more about it [here](https://apnews.com/article/cuba-power-blackout-hurricane-oscar-b197e174af2c9f664d4c3aaf0c5a6e75).
 
 ## Requirements
 - Python 3.8
