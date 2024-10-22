@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Juvenile in custody after 5 people killed, including 3 children, in Washington state home**
+**What is the Hezbollah-linked financial institution Israel is targeting in Lebanon?**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/21/fall-city-washington-murders/75780678007/).
+You can read more about it [here](https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3).
 
 ## Requirements
 - Python 3.8
