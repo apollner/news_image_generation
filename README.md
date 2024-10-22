@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient meteorite was 'giant fertilizer bomb' for life on Earth**
+**Juvenile in custody after 5 people killed, including 3 children, in Washington state home**
 
-You can read more about it [here](https://www.yahoo.com/news/ancient-meteorite-giant-fertilizer-bomb-190314530.html).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/21/fall-city-washington-murders/75780678007/).
 
 ## Requirements
 - Python 3.8
