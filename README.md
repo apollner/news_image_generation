@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s daily $1 million giveaway to registered voters could be illegal, experts say**
+**US veteran Daniel Penny on trial in New York for fatal subway chokehold**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/politics/elon-musk-voter-giveaway-legal-questions/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/21/us-veteran-daniel-penny-on-trial-in-new-york-for-fatal-subway).
 
 ## Requirements
 - Python 3.8
