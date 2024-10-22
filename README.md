@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea calls for immediate withdrawal of North Korean troops allegedly in Russia**
+**5 things to know before the stock market opens Monday**
 
-You can read more about it [here](https://apnews.com/article/north-south-korea-russia-ukraine-27780e4b672ee638b96099ec5f5168e4).
+You can read more about it [here](https://www.cnbc.com/2024/10/21/5-things-to-know-before-the-stock-market-opens-monday-october-21.html).
 
 ## Requirements
 - Python 3.8
