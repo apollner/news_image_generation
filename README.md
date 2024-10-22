@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jelly Roll Calls X 'Most Toxic' App Ever, Says He's Quitting It**
+**40% of parents said their teen consumed protein supplements in the past year, according to new poll**
 
-You can read more about it [here](https://www.tmz.com/2024/10/20/jelly-roll-x-toxic-negative-app-quits/).
+You can read more about it [here](https://www.cnn.com/2024/10/21/health/protein-supplement-teens-poll-wellness/index.html).
 
 ## Requirements
 - Python 3.8
