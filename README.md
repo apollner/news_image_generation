@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jelly Roll Calls X 'Most Toxic' App Ever, Says He's Quitting It**
+**Propaganda war: Israel, Hamas battle over final images of Yahya Sinwar**
 
-You can read more about it [here](https://www.tmz.com/2024/10/20/jelly-roll-x-toxic-negative-app-quits/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/20/yahya-sinwar-gaza-hamas-isarel-drone/).
 
 ## Requirements
 - Python 3.8
