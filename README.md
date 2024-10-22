@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reeve blasts officiating; title 'stolen' from Lynx**
+**Jelly Roll Calls X 'Most Toxic' App Ever, Says He's Quitting It**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/41917031/cheryl-reeve-blasts-officiating-says-title-stolen-lynx).
+You can read more about it [here](https://www.tmz.com/2024/10/20/jelly-roll-x-toxic-negative-app-quits/).
 
 ## Requirements
 - Python 3.8
