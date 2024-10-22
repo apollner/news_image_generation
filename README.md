@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 87 killed in Israeli strike on northern Gaza, health ministry says**
+**Oscar brings winds, heavy rains to eastern Cuba after striking the Bahamas**
 
-You can read more about it [here](https://www.cnn.com/2024/10/20/middleeast/gaza-israel-beit-lahia-deadly-strike-intl/index.html).
+You can read more about it [here](https://thehill.com/homenews/ap/ap-international/ap-oscar-brings-winds-heavy-rains-to-eastern-cuba-after-striking-the-bahamas/).
 
 ## Requirements
 - Python 3.8
