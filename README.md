@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is pink cocaine? Autopsy finds drug in Liam Payne’s body**
+**Teenager taken into custody after 5 killed in Washington state shooting**
 
-You can read more about it [here](https://www.newsnationnow.com/entertainment-news/liam-payne-pink-cocaine-autopsy/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/10/21/fall-city-shooting-washington-state/).
 
 ## Requirements
 - Python 3.8
