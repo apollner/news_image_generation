@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump makes more debunked claims about FEMA as he surveys storm damage in North Carolina**
+**Qualcomm's new chipset that will power flagship Android phones makes the iPhone seem outdated**
 
-You can read more about it [here](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386).
+You can read more about it [here](https://www.zdnet.com/article/qualcomms-new-chipset-that-will-power-flagship-android-phones-makes-the-iphone-seem-outdated/).
 
 ## Requirements
 - Python 3.8
