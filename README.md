@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Treasuries Plunge Like It’s 1995 as Traders See US Soft Landing**
+**'Kind of disgusting': Harris makes move that could backfire in critical swing state**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-22/treasuries-plunge-like-it-s-1995-as-traders-see-us-soft-landing).
+You can read more about it [here](https://www.foxnews.com/politics/kind-disgusting-harris-makes-move-could-backfire-critical-swing-state).
 
 ## Requirements
 - Python 3.8
