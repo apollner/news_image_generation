@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sapelo Island ferry resumes operations after deadly boat dock gangway collapse**
+**Israel Claims It Found $500 Million In "Secret" Hezbollah Bunker In Beirut**
 
-You can read more about it [here](https://www.cnn.com/2024/10/21/us/georgia-sapelo-island-ferry-dock-collapse-monday/index.html).
+You can read more about it [here](https://www.ndtv.com/world-news/israel-hezbollah-hamas-israel-claims-it-found-500-million-in-secret-hezbollah-bunker-in-beirut-6843741).
 
 ## Requirements
 - Python 3.8
