@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: Over a dozen killed in Israeli strikes near one of Beirut’s main hospitals**
+**Treasuries Plunge Like It’s 1995 as Traders See US Soft Landing**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-22-october-2024-9fc49430fd9824a0143b3ba6dd0f0d6c).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-22/treasuries-plunge-like-it-s-1995-as-traders-see-us-soft-landing).
 
 ## Requirements
 - Python 3.8
