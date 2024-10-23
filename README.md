@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hands-on with the 2024 iPad mini: Spot the differences**
+**Putin hosts Global South leaders at BRICS summit meant to counterbalance Western clout**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/10/hands-on-with-the-2024-ipad-mini-spot-the-differences/).
+You can read more about it [here](https://apnews.com/article/russia-brics-summit-china-india-ukraine-war-39e90fce8443b922f4d224c65c2ec932).
 
 ## Requirements
 - Python 3.8
