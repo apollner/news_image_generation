@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM raises 2024 earnings guidance after easily topping Wall Street's third-quarter expectations**
+**What leaked US assessment of Israeli plans to strike Iran shows**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/22/general-motors-gm-earnings-q3-2024.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cz6w6p8x7p8o).
 
 ## Requirements
 - Python 3.8
