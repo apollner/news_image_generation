@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA awards predictions, odds: Expert picks for MVP, Defensive Player of the Year and more for 2024-25 season**
+**Trump makes more debunked claims about FEMA as he surveys storm damage in North Carolina**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-awards-predictions-odds-expert-picks-for-mvp-defensive-player-of-the-year-and-more-for-2024-25-season/).
+You can read more about it [here](https://apnews.com/article/kamala-harris-donald-trump-2024-north-carolina-2dea5d3130416a56f21a5c22ce2e4386).
 
 ## Requirements
 - Python 3.8
