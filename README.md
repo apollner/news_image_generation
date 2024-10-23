@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arnold Palmer’s daughter calls Trump’s remarks about her father 'disrespectful'**
+**Monday Night Football scores, live updates: Ravens take on Buccaneers, Chargers play Cardinals in MNF doubleheader**
 
-You can read more about it [here](https://abcnews.go.com/Politics/arnold-palmers-daughter-calls-trumps-remarks-father-disrespectful/story?id\\u003d115008367).
+You can read more about it [here](https://sports.yahoo.com/live/monday-night-football-ravens-dominate-buccaneers-cardinals-stun-chargers-with-game-winning-field-goal-231340393.html).
 
 ## Requirements
 - Python 3.8
