@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas lawmakers hear testimony supporting death row inmate Robert Roberson – but despite subpoena, he does not appear**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/10/21/us/robert-roberson-texas-execution-shaken-baby/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
