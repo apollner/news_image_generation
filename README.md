@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin hosts Global South leaders at BRICS summit meant to counterbalance Western clout**
+**Middle East latest: Over a dozen killed in Israeli strikes near one of Beirut’s main hospitals**
 
-You can read more about it [here](https://apnews.com/article/russia-brics-summit-china-india-ukraine-war-39e90fce8443b922f4d224c65c2ec932).
+You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-22-october-2024-9fc49430fd9824a0143b3ba6dd0f0d6c).
 
 ## Requirements
 - Python 3.8
