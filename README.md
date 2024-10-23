@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Kind of disgusting': Harris makes move that could backfire in critical swing state**
+**GM beats on Q3 earnings, raises profit forecast for third time this year**
 
-You can read more about it [here](https://www.foxnews.com/politics/kind-disgusting-harris-makes-move-could-backfire-critical-swing-state).
+You can read more about it [here](https://finance.yahoo.com/news/gm-beats-on-q3-earnings-raises-profit-forecast-for-third-time-this-year-141848417.html).
 
 ## Requirements
 - Python 3.8
