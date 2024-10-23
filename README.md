@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM reports Q3 pretax profits rose 15.5% on strong prices, cost discipline**
+**Hands-on with the 2024 iPad mini: Spot the differences**
 
-You can read more about it [here](https://www.freep.com/story/money/cars/general-motors/2024/10/22/gm-reports-rise-in-q3-profits-boosting-its-full-year-outlook/75775200007/).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/10/hands-on-with-the-2024-ipad-mini-spot-the-differences/).
 
 ## Requirements
 - Python 3.8
