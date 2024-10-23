@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rudy Giuliani must give control of luxury items and Manhattan apartment to Georgia election workers he defamed, judge rules**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/10/22/politics/rudy-giuliani-bankruptcy-georgia-election-workers/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
