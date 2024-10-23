@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Helicopter crashes into radio tower in Houston, killing 4 on board, authorities say**
+**Biden is 'deeply concerned' about the release of secret documents on Israel's possible attack plans**
 
-You can read more about it [here](https://www.cbsnews.com/news/helicopter-crashes-into-radio-tower-in-houston-killing-4-on-board-authorities-say/).
+You can read more about it [here](https://apnews.com/article/united-states-israel-iran-classified-documents-5cc9b0f30b7119a039d122599bf0c285).
 
 ## Requirements
 - Python 3.8
