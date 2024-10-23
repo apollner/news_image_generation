@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What leaked US assessment of Israeli plans to strike Iran shows**
+**Harvey Weinstein is diagnosed with cancer, source says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cz6w6p8x7p8o).
+You can read more about it [here](https://www.wbaltv.com/article/harvey-weinstein-is-diagnosed-with-cancer/62675670).
 
 ## Requirements
 - Python 3.8
