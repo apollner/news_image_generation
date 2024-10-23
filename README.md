@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qualcomm's new chipset that will power flagship Android phones makes the iPhone seem outdated**
+**What is pink cocaine? Autopsy finds drug in Liam Payne’s body**
 
-You can read more about it [here](https://www.zdnet.com/article/qualcomms-new-chipset-that-will-power-flagship-android-phones-makes-the-iphone-seem-outdated/).
+You can read more about it [here](https://www.newsnationnow.com/entertainment-news/liam-payne-pink-cocaine-autopsy/).
 
 ## Requirements
 - Python 3.8
