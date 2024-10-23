@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S2 meteorite: What happened when a rock as big as London hit Earth?**
+**Texas lawmakers hear testimony supporting death row inmate Robert Roberson – but despite subpoena, he does not appear**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4g4g455p8lo).
+You can read more about it [here](https://www.cnn.com/2024/10/21/us/robert-roberson-texas-execution-shaken-baby/index.html).
 
 ## Requirements
 - Python 3.8
