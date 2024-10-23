@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Arnold Palmer’s daughter calls Trump’s remarks about her father 'disrespectful'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/Politics/arnold-palmers-daughter-calls-trumps-remarks-father-disrespectful/story?id\\u003d115008367).
 
 ## Requirements
 - Python 3.8
