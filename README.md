@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US intel assesses Russian operatives behind fake video trying to smear Tim Walz**
+**UFC 308 Embedded: Vlog Series - Episode 2**
 
-You can read more about it [here](https://www.cnn.com/2024/10/22/politics/us-intel-assesses-russian-operatives-behind-fake-walz-video/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dR9K61eLR9L0).
 
 ## Requirements
 - Python 3.8
