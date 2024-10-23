@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel Claims It Found $500 Million In "Secret" Hezbollah Bunker In Beirut**
+**Storm causes at least 6 deaths in Cuba, where a long power outage is raising tempers**
 
-You can read more about it [here](https://www.ndtv.com/world-news/israel-hezbollah-hamas-israel-claims-it-found-500-million-in-secret-hezbollah-bunker-in-beirut-6843741).
+You can read more about it [here](https://apnews.com/article/cuba-power-blackout-hurricane-oscar-b197e174af2c9f664d4c3aaf0c5a6e75).
 
 ## Requirements
 - Python 3.8
