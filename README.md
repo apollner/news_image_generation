@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 308 Embedded: Vlog Series - Episode 2**
+**NBA awards predictions, odds: Expert picks for MVP, Defensive Player of the Year and more for 2024-25 season**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dR9K61eLR9L0).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-awards-predictions-odds-expert-picks-for-mvp-defensive-player-of-the-year-and-more-for-2024-25-season/).
 
 ## Requirements
 - Python 3.8
