@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Commanders are ‘hopeful’ Jayden Daniels can play Sunday after injury**
+**GM raises 2024 earnings guidance after easily topping Wall Street's third-quarter expectations**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/21/jayden-daniels-status/).
+You can read more about it [here](https://www.cnbc.com/2024/10/22/general-motors-gm-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
