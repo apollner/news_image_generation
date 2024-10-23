@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM beats on Q3 earnings, raises profit forecast for third time this year**
+**Rudy Giuliani must give control of luxury items and Manhattan apartment to Georgia election workers he defamed, judge rules**
 
-You can read more about it [here](https://finance.yahoo.com/news/gm-beats-on-q3-earnings-raises-profit-forecast-for-third-time-this-year-141848417.html).
+You can read more about it [here](https://www.cnn.com/2024/10/22/politics/rudy-giuliani-bankruptcy-georgia-election-workers/index.html).
 
 ## Requirements
 - Python 3.8
