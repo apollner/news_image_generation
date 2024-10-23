@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teenager taken into custody after 5 killed in Washington state shooting**
+**Sapelo Island ferry resumes operations after deadly boat dock gangway collapse**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/10/21/fall-city-shooting-washington-state/).
+You can read more about it [here](https://www.cnn.com/2024/10/21/us/georgia-sapelo-island-ferry-dock-collapse-monday/index.html).
 
 ## Requirements
 - Python 3.8
