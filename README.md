@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk sued for using AI-generated Blade Runner imagery at robotaxi event**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/2024/10/21/24276092/alcon-entertainment-blade-runner-2049-tesla-musk-warner-bros-discovery-copyright).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
