@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buccaneers lose WR Chris Godwin to injury so bad ESPN wouldn't show the replay in loss to Ravens**
+**Inside the battle to run the Trump White House**
 
-You can read more about it [here](https://sports.yahoo.com/buccaneers-lose-wr-chris-godwin-to-injury-so-bad-espn-wouldnt-show-the-replay-in-loss-to-ravens-032439942.html).
+You can read more about it [here](https://www.politico.com/news/2024/10/22/trump-chief-of-staff-wiles-rollins-mccarthy-00184820).
 
 ## Requirements
 - Python 3.8
