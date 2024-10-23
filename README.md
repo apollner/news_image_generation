@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**North West Gifts Mom Kim Kardashian With Eyebrow-Raising Diamond Necklace for Her 44th Birthday**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.eonline.com/news/1408939/north-west-gifts-mom-kim-kardashian-with-eyebrow-raising-diamond-necklace-for-her-44th-birthday).
 
 ## Requirements
 - Python 3.8
