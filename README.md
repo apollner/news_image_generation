@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Venom 3' First Reactions Praise Final Movie, Tom Hardy's Performance**
+**Commanders are ‘hopeful’ Jayden Daniels can play Sunday after injury**
 
-You can read more about it [here](https://variety.com/2024/film/news/venom-the-last-dance-first-reactions-tom-hardy-1236185752/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/21/jayden-daniels-status/).
 
 ## Requirements
 - Python 3.8
