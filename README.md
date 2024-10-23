@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storm causes at least 6 deaths in Cuba, where a long power outage is raising tempers**
+**'Venom 3' First Reactions Praise Final Movie, Tom Hardy's Performance**
 
-You can read more about it [here](https://apnews.com/article/cuba-power-blackout-hurricane-oscar-b197e174af2c9f664d4c3aaf0c5a6e75).
+You can read more about it [here](https://variety.com/2024/film/news/venom-the-last-dance-first-reactions-tom-hardy-1236185752/).
 
 ## Requirements
 - Python 3.8
