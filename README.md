@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**See the 'comet of the century' light up the night sky in breathtaking photos**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.space.com/comet-c2023-a3-tsuchinshan-atlas-photos).
 
 ## Requirements
 - Python 3.8
