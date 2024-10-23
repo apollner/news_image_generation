@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Diddy accuser claims pro-athlete intervened during sexual assault at star-studded party: lawsuit**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.yahoo.com/news/diddy-accuser-claims-pro-athlete-162653771.html).
 
 ## Requirements
 - Python 3.8
