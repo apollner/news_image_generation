@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the 2 US Navy aviators killed in jet crash near Mount Rainier**
+**NBA awards predictions, odds: Expert picks for MVP, Defensive Player of the Year and more for 2024-25 season**
 
-You can read more about it [here](https://komonews.com/news/local/lyndsay-evans-serena-wileman-ea18g-growler-us-navy-military-naswi-president-biden-aviators-super-bowl-flyover-jet-aircraft-planenaval-air-station-whidbey-island).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-awards-predictions-odds-expert-picks-for-mvp-defensive-player-of-the-year-and-more-for-2024-25-season/).
 
 ## Requirements
 - Python 3.8
