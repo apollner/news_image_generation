@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monday Night Football scores, live updates: Ravens take on Buccaneers, Chargers play Cardinals in MNF doubleheader**
+**What we know about the 2 US Navy aviators killed in jet crash near Mount Rainier**
 
-You can read more about it [here](https://sports.yahoo.com/live/monday-night-football-ravens-dominate-buccaneers-cardinals-stun-chargers-with-game-winning-field-goal-231340393.html).
+You can read more about it [here](https://komonews.com/news/local/lyndsay-evans-serena-wileman-ea18g-growler-us-navy-military-naswi-president-biden-aviators-super-bowl-flyover-jet-aircraft-planenaval-air-station-whidbey-island).
 
 ## Requirements
 - Python 3.8
