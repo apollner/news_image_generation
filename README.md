@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Today: Stocks Inch Higher in Afternoon Trading; Major Indexes Near Record Levels**
+**[Removed]**
 
-You can read more about it [here](https://www.investopedia.com/dow-jones-today-10222024-8731915).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
