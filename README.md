@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing is expected to report a big Q3 loss, then wait for results of vote by striking workers**
+**Coca-Cola tops earnings estimates, as higher prices offset sluggish demand**
 
-You can read more about it [here](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9).
+You can read more about it [here](https://www.cnbc.com/2024/10/23/coca-cola-ko-q3-2024-earnings.html).
 
 ## Requirements
 - Python 3.8
