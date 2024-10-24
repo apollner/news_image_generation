@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem introduces Barack Obama at Kamala Harris rally in Detroit**
+**Georgia Supreme Court maintains block on controversial election rules from Trump allies**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dVr-EW-Xdx0g).
+You can read more about it [here](https://www.cnn.com/2024/10/22/politics/georgia-supreme-court-maintains-block-on-controversial-new-election-rules/index.html).
 
 ## Requirements
 - Python 3.8
