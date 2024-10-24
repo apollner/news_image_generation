@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roman Polanski Lawsuit Alleging Director Raped Minor in 1973 Has Been Settled**
+**Boeing’s Earnings Showed a Huge Loss. Today’s Workers Vote Is Huge for the Stock.**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/roman-polanski-rape-minor-allegation-settled-1236042311/).
+You can read more about it [here](https://www.barrons.com/articles/boeing-earnings-stock-price-workers-vote-f2fb88cc).
 
 ## Requirements
 - Python 3.8
