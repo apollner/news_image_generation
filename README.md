@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Harvey Weinstein’s retrial moved to next year, lawyer plans to hire a private investigator**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3).
 
 ## Requirements
 - Python 3.8
