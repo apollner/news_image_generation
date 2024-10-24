@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harvey Weinstein’s retrial moved to next year, lawyer plans to hire a private investigator**
+**Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel**
 
-You can read more about it [here](https://apnews.com/article/harvey-weinstein-sex-crimes-charges-new-york-d47bcb965b6721ee022ae14da1216bc3).
+You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f).
 
 ## Requirements
 - Python 3.8
