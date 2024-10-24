@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel**
+**China’s Xi and India’s Modi meet after border accord between two countries**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/23/chinas-xi-and-indias-modi-meet-following-military-pact-on-disputed-border).
 
 ## Requirements
 - Python 3.8
