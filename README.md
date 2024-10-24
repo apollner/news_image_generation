@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Olivia Munn Bares Mastectomy Scars in New SKIMS Campaign**
+**North Korean troops are in Russia, would be ‘legitimate targets’ in Ukraine, U.S. says**
 
-You can read more about it [here](https://www.eonline.com/news/1409030/olivia-munn-bares-mastectomy-scars-in-new-skims-campaign).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/23/austin-north-korea-troops-russia/).
 
 ## Requirements
 - Python 3.8
