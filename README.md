@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Space Force official expects to certify Vulcan rocket despite nozzle failure**
+**Zelenskyy asks allies to act on reports of North Korean troops helping Russia**
 
-You can read more about it [here](https://arstechnica.com/space/2024/10/space-force-official-expects-to-certify-vulcan-rocket-despite-nozzle-failure/).
+You can read more about it [here](https://www.politico.eu/article/volodymyr-zelenskyy-allies-north-korean-troops/).
 
 ## Requirements
 - Python 3.8
