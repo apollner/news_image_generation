@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key takeaways: What you missed from Harris' NBC interview**
+**Boeing is expected to report a big Q3 loss, then wait for results of vote by striking workers**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cq646evy26go).
+You can read more about it [here](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9).
 
 ## Requirements
 - Python 3.8
