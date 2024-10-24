@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Craig Federighi Explains Apple Intelligence Delays, Siri’s Future and More | WSJ**
+**Tulsi Gabbard Turning Republican Is 'Surprise' to Donald Trump**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dfr8ALcEiYAk).
+You can read more about it [here](https://www.newsweek.com/tulsi-gabbard-donald-trump-republican-party-1973340).
 
 ## Requirements
 - Python 3.8
