@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla stock jumps on Q3 earnings beat**
+**Panthers' Young to start after Dalton hurt in crash**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-jumps-on-q3-earnings-beat-202258345.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/41964652/panthers-bryce-young-start-dalton-hurts-thumb-crash).
 
 ## Requirements
 - Python 3.8
