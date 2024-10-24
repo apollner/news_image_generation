@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia Supreme Court maintains block on controversial election rules from Trump allies**
+**Rookie hazing, cupcakes and extra shots: LeBron and Bronny's path to NBA history**
 
-You can read more about it [here](https://www.cnn.com/2024/10/22/politics/georgia-supreme-court-maintains-block-on-controversial-new-election-rules/index.html).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/41948228/seven-lebron-bronny-moments-lakers-preseason-led-nba-history).
 
 ## Requirements
 - Python 3.8
