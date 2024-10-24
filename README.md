@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Labour volunteers in US helping Harris in spare time, Keir Starmer says**
+**Knicks Guard Makes ‘Demand’ To NBA After Celtics’ Blowout Win**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c62m2pde4p6o).
+You can read more about it [here](https://nesn.com/2024/10/knicks-guard-makes-demand-to-nba-after-celtics-blowout-win/).
 
 ## Requirements
 - Python 3.8
