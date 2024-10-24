@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New guidance for stroke prevention includes Ozempic, other weight loss drugs**
+**Roman Polanski Lawsuit Alleging Director Raped Minor in 1973 Has Been Settled**
 
-You can read more about it [here](https://www.usatoday.com/story/news/health/2024/10/21/stroke-ozempic-new-prevention-guidance/75774688007/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/roman-polanski-rape-minor-allegation-settled-1236042311/).
 
 ## Requirements
 - Python 3.8
