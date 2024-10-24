@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Coca-Cola tops earnings estimates, as higher prices offset sluggish demand**
+**Images capture exact moments an Israeli missile strikes building in Beirut**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/23/coca-cola-ko-q3-2024-earnings.html).
+You can read more about it [here](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e).
 
 ## Requirements
 - Python 3.8
