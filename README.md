@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four killed, 14 injured in terror attack on Turkish aerospace company**
+**Tesla stock jumps on Q3 earnings beat**
 
-You can read more about it [here](https://www.cnn.com/2024/10/23/europe/turkey-ankara-aerospace-attack-intl/index.html).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-jumps-on-q3-earnings-beat-202258345.html).
 
 ## Requirements
 - Python 3.8
