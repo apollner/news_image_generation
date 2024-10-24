@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama recalls Trump’s 2020 election chaos while campaigning for Harris in Michigan**
+**Key takeaways: What you missed from Harris' NBC interview**
 
-You can read more about it [here](https://www.cnn.com/2024/10/22/politics/obama-rally-for-harris-detroit-trump/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cq646evy26go).
 
 ## Requirements
 - Python 3.8
