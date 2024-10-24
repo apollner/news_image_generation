@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Capitol riot defendants face upheld trespassing charges in US court**
+**Eminem introduces Barack Obama at Kamala Harris rally in Detroit**
 
-You can read more about it [here](https://www.reuters.com/legal/capitol-riot-defendants-face-upheld-trespassing-charges-us-court-2024-10-22/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dVr-EW-Xdx0g).
 
 ## Requirements
 - Python 3.8
