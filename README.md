@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More Republicans are voting early, helping break records. Over 17 million ballots cast so far**
+**Starbucks shares slide after preliminary results show sales fell again**
 
-You can read more about it [here](https://apnews.com/article/early-vote-records-trump-harris-1c219d0d27d56996388f2e2be5a58fac).
+You can read more about it [here](https://www.cnbc.com/2024/10/22/starbucks-shares-slide-after-preliminary-results-show-sales-fell-again.html).
 
 ## Requirements
 - Python 3.8
