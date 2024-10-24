@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**15-year-old boy to remain in custody after deaths of 5 people in Fall City home**
+**U.S. officials say Russia smeared Tim Walz, might stoke post-vote violence**
 
-You can read more about it [here](https://www.kiro7.com/news/local/investigation-underway-after-shooting-fall-city-early-monday-morning/GLHVVGPDCNCIDIROZYP2Q53GNM/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/22/russia-election-disruption-tim-walz/).
 
 ## Requirements
 - Python 3.8
