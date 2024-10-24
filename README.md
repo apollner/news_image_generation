@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Early Addition: Get tested for syphilis**
+**Apple Reportedly Launching a Separate Game App Store to Fully Stick It to Epic**
 
-You can read more about it [here](https://gothamist.com/news/early-addition-get-tested-for-syphilis).
+You can read more about it [here](https://gizmodo.com/apple-reportedly-launching-a-separate-game-app-store-to-fully-stick-it-to-epic-2000515490).
 
 ## Requirements
 - Python 3.8
