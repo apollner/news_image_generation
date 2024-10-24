@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s former chief of staff says he fits ‘fascist’ definition and prefers ‘dictator approach’**
+**Apple’s Craig Federighi Explains Apple Intelligence Delays, Siri’s Future and More | WSJ**
 
-You can read more about it [here](https://www.cnn.com/2024/10/22/politics/trump-fascist-john-kelly/index.html).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dfr8ALcEiYAk).
 
 ## Requirements
 - Python 3.8
