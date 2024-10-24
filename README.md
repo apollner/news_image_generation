@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing’s Earnings Showed a Huge Loss. Today’s Workers Vote Is Huge for the Stock.**
+**Labour volunteers in US helping Harris in spare time, Keir Starmer says**
 
-You can read more about it [here](https://www.barrons.com/articles/boeing-earnings-stock-price-workers-vote-f2fb88cc).
+You can read more about it [here](https://www.bbc.com/news/articles/c62m2pde4p6o).
 
 ## Requirements
 - Python 3.8
