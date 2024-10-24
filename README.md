@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Knicks Guard Makes ‘Demand’ To NBA After Celtics’ Blowout Win**
+**[Removed]**
 
-You can read more about it [here](https://nesn.com/2024/10/knicks-guard-makes-demand-to-nba-after-celtics-blowout-win/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
