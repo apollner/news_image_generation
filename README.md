@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 8**
+**New Carbon Capture Design Is Major Step Forward In Removing CO2 From The Air**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-8).
+You can read more about it [here](https://www.iflscience.com/new-carbon-capture-design-is-major-step-forward-in-removing-co2-from-the-air-76492).
 
 ## Requirements
 - Python 3.8
