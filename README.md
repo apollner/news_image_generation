@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Blindsided’ Brianna Chickenfry Confirms Zach Bryan Breakup**
+**1st wheel was invented 6,000 years ago in the Carpathian Mountains, modeling study suggests**
 
-You can read more about it [here](http://www.vulture.com/article/zach-bryan-brianna-chickenfry-breakup-drama-explained.html).
+You can read more about it [here](https://www.livescience.com/archaeology/1st-wheel-was-invented-6-000-years-ago-in-the-carpathian-mountains-modeling-study-suggests).
 
 ## Requirements
 - Python 3.8
