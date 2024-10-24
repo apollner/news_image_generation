@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Images capture exact moments an Israeli missile strikes building in Beirut**
+**New guidance for stroke prevention includes Ozempic, other weight loss drugs**
 
-You can read more about it [here](https://apnews.com/article/lebanon-beirut-israel-missile-41be424dcf3031457bd93acd0cb3389e).
+You can read more about it [here](https://www.usatoday.com/story/news/health/2024/10/21/stroke-ozempic-new-prevention-guidance/75774688007/).
 
 ## Requirements
 - Python 3.8
