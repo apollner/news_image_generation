@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rookie hazing, cupcakes and extra shots: LeBron and Bronny's path to NBA history**
+**‘Blindsided’ Brianna Chickenfry Confirms Zach Bryan Breakup**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/41948228/seven-lebron-bronny-moments-lakers-preseason-led-nba-history).
+You can read more about it [here](http://www.vulture.com/article/zach-bryan-brianna-chickenfry-breakup-drama-explained.html).
 
 ## Requirements
 - Python 3.8
