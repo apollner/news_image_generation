@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks shares slide after preliminary results show sales fell again**
+**15-year-old boy to remain in custody after deaths of 5 people in Fall City home**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/22/starbucks-shares-slide-after-preliminary-results-show-sales-fell-again.html).
+You can read more about it [here](https://www.kiro7.com/news/local/investigation-underway-after-shooting-fall-city-early-monday-morning/GLHVVGPDCNCIDIROZYP2Q53GNM/).
 
 ## Requirements
 - Python 3.8
