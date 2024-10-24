@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tulsi Gabbard Turning Republican Is 'Surprise' to Donald Trump**
+**Obama recalls Trump’s 2020 election chaos while campaigning for Harris in Michigan**
 
-You can read more about it [here](https://www.newsweek.com/tulsi-gabbard-donald-trump-republican-party-1973340).
+You can read more about it [here](https://www.cnn.com/2024/10/22/politics/obama-rally-for-harris-detroit-trump/index.html).
 
 ## Requirements
 - Python 3.8
