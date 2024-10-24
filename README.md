@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1st wheel was invented 6,000 years ago in the Carpathian Mountains, modeling study suggests**
+**Space Force official expects to certify Vulcan rocket despite nozzle failure**
 
-You can read more about it [here](https://www.livescience.com/archaeology/1st-wheel-was-invented-6-000-years-ago-in-the-carpathian-mountains-modeling-study-suggests).
+You can read more about it [here](https://arstechnica.com/space/2024/10/space-force-official-expects-to-certify-vulcan-rocket-despite-nozzle-failure/).
 
 ## Requirements
 - Python 3.8
