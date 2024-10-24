@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Carbon Capture Design Is Major Step Forward In Removing CO2 From The Air**
+**Early Addition: Get tested for syphilis**
 
-You can read more about it [here](https://www.iflscience.com/new-carbon-capture-design-is-major-step-forward-in-removing-co2-from-the-air-76492).
+You can read more about it [here](https://gothamist.com/news/early-addition-get-tested-for-syphilis).
 
 ## Requirements
 - Python 3.8
