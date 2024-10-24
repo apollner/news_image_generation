@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy asks allies to act on reports of North Korean troops helping Russia**
+**High turnout on opening day of in-person absentee voting causes delays**
 
-You can read more about it [here](https://www.politico.eu/article/volodymyr-zelenskyy-allies-north-korean-troops/).
+You can read more about it [here](https://www.wisn.com/article/high-voter-turnout-opening-day-in-person-voting-absentee-voting-causes-delays/62685954).
 
 ## Requirements
 - Python 3.8
