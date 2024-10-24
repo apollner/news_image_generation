@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. officials say Russia smeared Tim Walz, might stoke post-vote violence**
+**Capitol riot defendants face upheld trespassing charges in US court**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/22/russia-election-disruption-tim-walz/).
+You can read more about it [here](https://www.reuters.com/legal/capitol-riot-defendants-face-upheld-trespassing-charges-us-court-2024-10-22/).
 
 ## Requirements
 - Python 3.8
