@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panthers' Young to start after Dalton hurt in crash**
+**Olivia Munn Bares Mastectomy Scars in New SKIMS Campaign**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/41964652/panthers-bryce-young-start-dalton-hurts-thumb-crash).
+You can read more about it [here](https://www.eonline.com/news/1409030/olivia-munn-bares-mastectomy-scars-in-new-skims-campaign).
 
 ## Requirements
 - Python 3.8
