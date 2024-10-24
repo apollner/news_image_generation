@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Reportedly Launching a Separate Game App Store to Fully Stick It to Epic**
+**Four killed, 14 injured in terror attack on Turkish aerospace company**
 
-You can read more about it [here](https://gizmodo.com/apple-reportedly-launching-a-separate-game-app-store-to-fully-stick-it-to-epic-2000515490).
+You can read more about it [here](https://www.cnn.com/2024/10/23/europe/turkey-ankara-aerospace-attack-intl/index.html).
 
 ## Requirements
 - Python 3.8
