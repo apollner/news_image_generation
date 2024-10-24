@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China’s Xi and India’s Modi meet after border accord between two countries**
+**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 8**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/23/chinas-xi-and-indias-modi-meet-following-military-pact-on-disputed-border).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-8).
 
 ## Requirements
 - Python 3.8
