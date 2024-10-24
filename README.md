@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High turnout on opening day of in-person absentee voting causes delays**
+**Trump’s former chief of staff says he fits ‘fascist’ definition and prefers ‘dictator approach’**
 
-You can read more about it [here](https://www.wisn.com/article/high-voter-turnout-opening-day-in-person-voting-absentee-voting-causes-delays/62685954).
+You can read more about it [here](https://www.cnn.com/2024/10/22/politics/trump-fascist-john-kelly/index.html).
 
 ## Requirements
 - Python 3.8
