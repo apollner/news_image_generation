@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US, Israeli negotiators to discuss Gaza ceasefire deal in Doha**
+**PFT’s Week 8 2024 NFL picks: Florio vs. Simms**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-says-he-expects-gaza-negotiators-meet-coming-days-2024-10-24/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-8-2024-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
