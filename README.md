@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four space station fliers undock and head for Friday splashdown to wrap up extended mission**
+**Maxx Crosby: "Fighting words" for coach to call team soft**
 
-You can read more about it [here](https://www.cbsnews.com/news/four-space-station-fliers-undock-and-head-for-friday-splashdown-to-wrap-up-extended-mission/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-fighting-words-for-coach-to-call-team-soft).
 
 ## Requirements
 - Python 3.8
