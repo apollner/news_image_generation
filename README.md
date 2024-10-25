@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rams vs. Vikings odds, prediction, time, spread: Thursday Night Football picks from NFL model on 12-5 run**
+**Israeli strike on Gaza shelter kills 17 as Blinken says cease-fire talks will resume**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/rams-vs-vikings-odds-prediction-time-spread-thursday-night-football-picks-from-nfl-model-on-12-5-run/).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421).
 
 ## Requirements
 - Python 3.8
