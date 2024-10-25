@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ted Danson & Kelsey Grammer Settle 30-Year ‘Cheers’ Dispute: “Stuck In Both Of Our Memories”**
+**Clippers' gleaming new arena can't obscure the mediocrity of the team that plays inside it**
 
-You can read more about it [here](http://deadline.com/2024/10/ted-danson-kelsey-grammer-settle-30-year-cheers-dispute-1236157060/).
+You can read more about it [here](https://www.cbssports.com/nba/news/clippers-gleaming-new-arena-cant-obscure-the-mediocrity-of-the-team-that-plays-inside-it/).
 
 ## Requirements
 - Python 3.8
