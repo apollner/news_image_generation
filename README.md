@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Clippers' gleaming new arena can't obscure the mediocrity of the team that plays inside it**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/clippers-gleaming-new-arena-cant-obscure-the-mediocrity-of-the-team-that-plays-inside-it/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
