@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing factory workers vote to reject contract and continue 6-week strike**
+**Israel strikes Lebanese city of Tyre after evacuation orders**
 
-You can read more about it [here](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y387ne93po).
 
 ## Requirements
 - Python 3.8
