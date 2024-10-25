@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Poll shows California’s Prop 36 crime initiative poised to pass by large margin**
+**[Removed]**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/24/california-prop-36-crime-initiative-00185192).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
