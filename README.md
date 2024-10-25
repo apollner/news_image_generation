@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ warned Elon Musk about his $1 million voting sweepstakes in swing states: reports**
+**Boeing factory workers vote to reject contract and continue 6-week strike**
 
-You can read more about it [here](https://www.businessinsider.com/doj-warns-elon-musk-voting-sweepstakes-reports-2024-10).
+You can read more about it [here](https://apnews.com/article/boeing-earnings-strike-vote-new-ceo-af6c6dab8747d5b8189df97a55e6b8d9).
 
 ## Requirements
 - Python 3.8
