@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Turkey strikes Kurdish militant targets in Syria and Iraq for a second day**
+**Horoscope for Thursday, October 24, 2024**
 
-You can read more about it [here](https://apnews.com/article/turkey-strikes-pkk-targets-syria-iraq-8b8c5e09716e2d3e3a29809b4082854d).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/10/24/horoscopes-today-thursday-october-24-2024).
 
 ## Requirements
 - Python 3.8
