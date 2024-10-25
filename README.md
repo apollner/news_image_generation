@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Four space station fliers undock and head for Friday splashdown to wrap up extended mission**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbsnews.com/news/four-space-station-fliers-undock-and-head-for-friday-splashdown-to-wrap-up-extended-mission/).
 
 ## Requirements
 - Python 3.8
