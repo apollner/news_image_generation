@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Argentina police raid Liam Payne’s hotel where singer fell to his death, demand more security footage**
+**Novo Nordisk's diabetes drug Ozempic may reduce the risk of Alzheimer's disease, study says**
 
-You can read more about it [here](https://nypost.com/2024/10/24/entertainment/liam-paynes-argentina-hotel-room-raided-by-police-after-one-direction-singer-fell-to-his-death/).
+You can read more about it [here](https://www.cnbc.com/2024/10/24/novo-nordisks-ozempic-may-reduce-risk-of-alzheimers-disease-study.html).
 
 ## Requirements
 - Python 3.8
