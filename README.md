@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Nordisk's diabetes drug Ozempic may reduce the risk of Alzheimer's disease, study says**
+**Rams vs. Vikings odds, prediction, time, spread: Thursday Night Football picks from NFL model on 12-5 run**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/24/novo-nordisks-ozempic-may-reduce-risk-of-alzheimers-disease-study.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/rams-vs-vikings-odds-prediction-time-spread-thursday-night-football-picks-from-nfl-model-on-12-5-run/).
 
 ## Requirements
 - Python 3.8
