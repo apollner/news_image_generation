@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US election: 12 days left – Who is ahead, what Harris and Trump are up to**
+**Turkey strikes Kurdish militant targets in Syria and Iraq for a second day**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/24/us-election-12-days-left-who-is-ahead-what-harris-and-trump-are-up-to).
+You can read more about it [here](https://apnews.com/article/turkey-strikes-pkk-targets-syria-iraq-8b8c5e09716e2d3e3a29809b4082854d).
 
 ## Requirements
 - Python 3.8
