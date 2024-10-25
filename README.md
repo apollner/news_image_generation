@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel strikes Lebanese city of Tyre after evacuation orders**
+**US election: 12 days left – Who is ahead, what Harris and Trump are up to**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y387ne93po).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/24/us-election-12-days-left-who-is-ahead-what-harris-and-trump-are-up-to).
 
 ## Requirements
 - Python 3.8
