@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Trying to curry favor’: Lobbyists on tax matters hired Richard Neal’s son**
+**Ozempic may significantly lower the risk of Alzheimer’s disease — here’s how**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/24/richard-neal-son-congress-lobbying-00181853).
+You can read more about it [here](https://nypost.com/2024/10/24/lifestyle/ozempic-may-lower-the-risk-of-alzheimers-disease-new-study/).
 
 ## Requirements
 - Python 3.8
