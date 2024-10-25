@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Mara makes defiant statement on Giants futures of Brian Daboll, Joe Schoen**
+**Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel**
 
-You can read more about it [here](https://nypost.com/2024/10/23/sports/john-mara-backs-brian-daboll-joe-schoen-in-defiant-giants-move/).
+You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f).
 
 ## Requirements
 - Python 3.8
