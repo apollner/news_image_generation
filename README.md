@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk Gets $21 Billion Richer As Tesla Stock Rides Earnings To 19% Rally**
+**US warns Elon Musk that his $1m voter giveaway may be illegal**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2024/10/24/elon-musk-gets-20-billion-richer-as-tesla-stock-rides-earnings-to-17-rally/).
+You can read more about it [here](https://www.bbc.com/news/articles/c748l0zv4x8o).
 
 ## Requirements
 - Python 3.8
