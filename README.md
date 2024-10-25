@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: Sirens sound across Tel Aviv as projectiles are intercepted near Blinken's hotel**
+**Poll shows California’s Prop 36 crime initiative poised to pass by large margin**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-mideast-latest-23-october-2024-7069fe55933f3be5ea43a0ef09fc6a0f).
+You can read more about it [here](https://www.politico.com/news/2024/10/24/california-prop-36-crime-initiative-00185192).
 
 ## Requirements
 - Python 3.8
