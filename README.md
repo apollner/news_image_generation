@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla stock soars after investors cheer Q3 earnings report**
+**A Secret ‘Predator’ Movie, An ‘Alien’ Sequel and ‘Speed 3’ on the Table: A Chat with 20th Century Studios Boss Steve Asbell**
 
-You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-soars-for-best-day-since-2013-as-investors-cheer-q3-earnings-report-223811898.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/predator-movie-an-alien-sequel-speed-3-1236042464/).
 
 ## Requirements
 - Python 3.8
