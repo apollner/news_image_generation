@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic may significantly lower the risk of Alzheimer’s disease — here’s how**
+**US election: 12 days left – Who is ahead, what Harris and Trump are up to**
 
-You can read more about it [here](https://nypost.com/2024/10/24/lifestyle/ozempic-may-lower-the-risk-of-alzheimers-disease-new-study/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/10/24/us-election-12-days-left-who-is-ahead-what-harris-and-trump-are-up-to).
 
 ## Requirements
 - Python 3.8
