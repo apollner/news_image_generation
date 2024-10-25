@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stevie Nicks: ‘I Believe in the Church of Stevie’**
+**Elon Musk Gets $21 Billion Richer As Tesla Stock Rides Earnings To 19% Rally**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-features/stevie-nicks-fleetwood-mac-kamala-harris-new-music-1235140437/).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2024/10/24/elon-musk-gets-20-billion-richer-as-tesla-stock-rides-earnings-to-17-rally/).
 
 ## Requirements
 - Python 3.8
