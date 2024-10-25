@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strike on Gaza shelter kills 17 as Blinken says cease-fire talks will resume**
+**Stevie Nicks: ‘I Believe in the Church of Stevie’**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-24-2024-ab2b634abca70923712a655cd097a421).
+You can read more about it [here](http://www.rollingstone.com/music/music-features/stevie-nicks-fleetwood-mac-kamala-harris-new-music-1235140437/).
 
 ## Requirements
 - Python 3.8
