@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maxx Crosby: "Fighting words" for coach to call team soft**
+**Officials say North Korea has sent troops to Russia. What would that mean for the war with Ukraine?**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/maxx-crosby-fighting-words-for-coach-to-call-team-soft).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-north-korea-war-735ab717dcf92a718adcb68bfbddc653).
 
 ## Requirements
 - Python 3.8
