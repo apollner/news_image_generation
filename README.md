@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Kamala Harris town hall on CNN | CNN Politics**
+**Washington state officials identify four new cases of bird flu, as H5N1 outbreak spreads**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/harris-town-hall-10-23-24/index.html).
+You can read more about it [here](https://www.foxnews.com/health/washington-state-officials-identify-four-new-cases-bird-flu-h5n1-outbreak-spreads).
 
 ## Requirements
 - Python 3.8
