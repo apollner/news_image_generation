@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT’s Week 8 2024 NFL picks: Florio vs. Simms**
+**10 Men’s College Basketball Breakout Candidates for 2024–25 Season**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-8-2024-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://www.si.com/college-basketball/10-mens-college-basketball-breakout-candidates-for-2024-25-season).
 
 ## Requirements
 - Python 3.8
