@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials say North Korea has sent troops to Russia. What would that mean for the war with Ukraine?**
+**S&P 500 futures are little changed after index posts three straight losing days: Live updates**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-north-korea-war-735ab717dcf92a718adcb68bfbddc653).
+You can read more about it [here](https://www.cnbc.com/2024/10/23/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
