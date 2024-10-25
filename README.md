@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**DOJ warned Elon Musk about his $1 million voting sweepstakes in swing states: reports**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.businessinsider.com/doj-warns-elon-musk-voting-sweepstakes-reports-2024-10).
 
 ## Requirements
 - Python 3.8
