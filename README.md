@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US warns Elon Musk that his $1m voter giveaway may be illegal**
+**Tesla stock soars after investors cheer Q3 earnings report**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c748l0zv4x8o).
+You can read more about it [here](https://finance.yahoo.com/news/tesla-stock-soars-for-best-day-since-2013-as-investors-cheer-q3-earnings-report-223811898.html).
 
 ## Requirements
 - Python 3.8
