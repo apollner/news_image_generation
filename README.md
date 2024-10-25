@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 futures are little changed after index posts three straight losing days: Live updates**
+**Ted Danson & Kelsey Grammer Settle 30-Year ‘Cheers’ Dispute: “Stuck In Both Of Our Memories”**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/23/stock-market-today-live-updates.html).
+You can read more about it [here](http://deadline.com/2024/10/ted-danson-kelsey-grammer-settle-30-year-cheers-dispute-1236157060/).
 
 ## Requirements
 - Python 3.8
