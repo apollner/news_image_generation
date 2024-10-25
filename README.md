@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**10 Men’s College Basketball Breakout Candidates for 2024–25 Season**
+**[Removed]**
 
-You can read more about it [here](https://www.si.com/college-basketball/10-mens-college-basketball-breakout-candidates-for-2024-25-season).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
