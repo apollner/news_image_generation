@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Juror No. 2’ Could Be Clint Eastwood’s Last Film — So Why Is Warner Bros. Burying It?**
+**US, Israeli negotiators to discuss Gaza ceasefire deal in Doha**
 
-You can read more about it [here](https://variety.com/2024/film/news/clint-eastwood-juror-no-2-release-warner-bros-burying-1236188876/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/blinken-says-he-expects-gaza-negotiators-meet-coming-days-2024-10-24/).
 
 ## Requirements
 - Python 3.8
