@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles district attorney says he’ll recommend resentencing in decades-old Menendez brothers’ murder case**
+**Trump says he’d ‘fire’ special counsel Jack Smith in ‘two seconds’ if elected again**
 
-You can read more about it [here](https://www.cnn.com/2024/10/24/us/menendez-brothers-case-trial-now/index.html).
+You can read more about it [here](https://www.washingtonpost.com/elections/2024/10/24/trump-fire-jack-smith/).
 
 ## Requirements
 - Python 3.8
