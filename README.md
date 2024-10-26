@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: NASA, SpaceX prepare for the splashdown of Crew-8 off the coast of Pensacola, Florida**
+**[Removed]**
 
-You can read more about it [here](https://spaceflightnow.com/2024/10/25/live-coverage-nasa-spacex-prepare-for-the-splashdown-of-crew-8-off-the-coast-of-pensacola-florida/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
