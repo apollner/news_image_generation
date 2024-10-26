@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin looks to halt neighboring Georgia's Western ambitions in vital election**
+**Satellite images show major expansion at Russian site with secret bioweapons past**
 
-You can read more about it [here](https://www.foxnews.com/world/putin-looks-halt-neighboring-georgias-western-ambitions-vital-election).
+You can read more about it [here](https://www.washingtonpost.com/national-security/interactive/2024/russia-biological-chemical-weapons-laboratory-expansion/).
 
 ## Requirements
 - Python 3.8
