@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Briefing: Gaza cease-fire talks set to resume; Iran braces for Israeli retaliation**
+**CDC says 75 people affected in E. coli outbreak linked to McDonald's Quarter Pounders**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/25/israel-iran-war-news-gaza-hamas-lebanon/).
+You can read more about it [here](https://www.cnbc.com/2024/10/25/mcdonalds-e-coli-outbreak-cdc-updates-case-count.html).
 
 ## Requirements
 - Python 3.8
