@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prosecutors seek resentencing for Erik and Lyle Menendez in 1989 killings of their parents**
+**Constructing the all-time Yankees-Dodgers roster: Which World Series legends make the cut?**
 
-You can read more about it [here](https://apnews.com/article/california-menendez-brothers-cdd1a0158856b9f5709b07cf469229ab).
+You can read more about it [here](https://nypost.com/2024/10/24/sports/constructing-the-all-time-yankees-dodgers-roster-which-world-series-legends-make-the-cut/).
 
 ## Requirements
 - Python 3.8
