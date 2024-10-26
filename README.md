@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-8 astronauts taken to medical facility ‘out of an abundance of caution,’ NASA says**
+**Biden Issues Rare Presidential Apology Over Indian Boarding Schools**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/science/spacex-nasa-crew-8-medical-facility/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-10-25/biden-issues-rare-presidential-apology-over-indian-boarding-schools).
 
 ## Requirements
 - Python 3.8
