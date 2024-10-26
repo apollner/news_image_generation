@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Harris and Obama use first joint campaign event to rally voters in battleground Georgia**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/10/24/politics/obama-harris-campaign-appearance-election/index.html).
 
 ## Requirements
 - Python 3.8
