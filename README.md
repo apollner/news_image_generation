@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google plans to announce its next Gemini model soon**
+**She threw a 70s-themed ‘cancerversary’ to ‘dance in death’s face’**
 
-You can read more about it [here](https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december).
+You can read more about it [here](https://www.washingtonpost.com/lifestyle/2024/10/25/breast-cancer-survivor-cancerversary/).
 
 ## Requirements
 - Python 3.8
