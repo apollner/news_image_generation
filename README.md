@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite images show major expansion at Russian site with secret bioweapons past**
+**Zelensky says North Korean troops on front lines in days**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/interactive/2024/russia-biological-chemical-weapons-laboratory-expansion/).
+You can read more about it [here](https://www.newsweek.com/zelensky-claims-north-korean-soldiers-frontlines-within-days-1975007).
 
 ## Requirements
 - Python 3.8
