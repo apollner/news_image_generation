@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Grammy-winning rapper Lil Durk charged with orchestrating 2022 Los Angeles killing**
+**Biden to make history apology to Native Americans for Indigenous boarding school abuses**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/us/lil-durk-arrested-murder-for-hire-plot/index.html).
+You can read more about it [here](https://www.axios.com/2024/10/25/biden-apologize-native-american-boarding-schools).
 
 ## Requirements
 - Python 3.8
