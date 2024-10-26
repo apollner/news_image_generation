@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Global climate disaster inevitable if emissions aren't drastically reduced by 2035, U.N. warns**
+**Google plans to announce its next Gemini model soon**
 
-You can read more about it [here](https://www.cbsnews.com/news/climate-change-un-report-disaster-emissions-future/).
+You can read more about it [here](https://www.theverge.com/2024/10/25/24279600/google-next-gemini-ai-model-openai-december).
 
 ## Requirements
 - Python 3.8
