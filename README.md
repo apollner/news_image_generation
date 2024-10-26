@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN Poll: Harris and Trump remain in a locked race and are tied heading into the final stretch**
+**‘What the f**k to do with them?’ Russian soldiers heard condemning North Korean recruits in intercepted audio**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/politics/cnn-poll-harris-trump/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/25/europe/russian-soldiers-north-korean-recruits-intercepts-intl/index.html).
 
 ## Requirements
 - Python 3.8
