@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scout Motors mounts an electric comeback with new SUV and truck concepts**
+**Los Angeles district attorney says he’ll recommend resentencing in decades-old Menendez brothers’ murder case**
 
-You can read more about it [here](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs).
+You can read more about it [here](https://www.cnn.com/2024/10/24/us/menendez-brothers-case-trial-now/index.html).
 
 ## Requirements
 - Python 3.8
