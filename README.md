@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX Crew-8 astronauts return to Earth early Oct. 25**
+**World Series scouting report: This Dodgers strength could be ‘a recipe for disaster’ for Yankees**
 
-You can read more about it [here](https://www.space.com/spacex-crew-8-astronaut-mission-return-to-earth).
+You can read more about it [here](https://nypost.com/2024/10/24/sports/this-dodgers-strength-could-be-a-recipe-for-disaster-for-yankees/).
 
 ## Requirements
 - Python 3.8
