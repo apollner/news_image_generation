@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he’d ‘fire’ special counsel Jack Smith in ‘two seconds’ if elected again**
+**Emotional Nicole Kidman tears up on red carpet after her mom’s death: ‘It’s a hard road’**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2024/10/24/trump-fire-jack-smith/).
+You can read more about it [here](https://pagesix.com/2024/10/24/celebrity-news/emotional-nicole-kidman-tears-up-on-red-carpet-after-her-moms-death/).
 
 ## Requirements
 - Python 3.8
