@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden to make history apology to Native Americans for Indigenous boarding school abuses**
+**Global climate disaster inevitable if emissions aren't drastically reduced by 2035, U.N. warns**
 
-You can read more about it [here](https://www.axios.com/2024/10/25/biden-apologize-native-american-boarding-schools).
+You can read more about it [here](https://www.cbsnews.com/news/climate-change-un-report-disaster-emissions-future/).
 
 ## Requirements
 - Python 3.8
