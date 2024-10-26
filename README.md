@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ warns Musk his $1 million petition contest could violate election laws**
+**Prosecutors seek resentencing for Erik and Lyle Menendez in 1989 killings of their parents**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/24/doj-elon-musk-1-million-giveaway-election-laws/).
+You can read more about it [here](https://apnews.com/article/california-menendez-brothers-cdd1a0158856b9f5709b07cf469229ab).
 
 ## Requirements
 - Python 3.8
