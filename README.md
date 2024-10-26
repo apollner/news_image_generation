@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Obama use first joint campaign event to rally voters in battleground Georgia**
+**'We can't change our history' on slave trade, says Keir Starmer**
 
-You can read more about it [here](https://www.cnn.com/2024/10/24/politics/obama-harris-campaign-appearance-election/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c238lje181ko).
 
 ## Requirements
 - Python 3.8
