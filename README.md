@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Constructing the all-time Yankees-Dodgers roster: Which World Series legends make the cut?**
+**Nicole Scherzinger, Who Helped Create One Direction on X-Factor, Was Texting Liam Payne Day He Died - E! Online**
 
-You can read more about it [here](https://nypost.com/2024/10/24/sports/constructing-the-all-time-yankees-dodgers-roster-which-world-series-legends-make-the-cut/).
+You can read more about it [here](https://www.eonline.com/news/1409098/nicole-scherzinger-who-helped-create-one-direction-on-x-factor-was-texting-liam-payne-day-he-died).
 
 ## Requirements
 - Python 3.8
