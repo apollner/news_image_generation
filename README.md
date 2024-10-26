@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ warns Musk his $1 million petition contest could violate election laws**
+**He lost his son to fentanyl poisoning. He’s developed a video game he hopes will save others**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/24/doj-elon-musk-1-million-giveaway-election-laws/).
+You can read more about it [here](https://www.cnn.com/2024/10/25/us/kamal-ethan-bherwani-fentanyl-overdose-cec/index.html).
 
 ## Requirements
 - Python 3.8
