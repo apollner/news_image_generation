@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stocks head for weekly loss as Japan election and earnings risks loom**
+**DOJ warns Musk his $1 million petition contest could violate election laws**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-25/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/24/doj-elon-musk-1-million-giveaway-election-laws/).
 
 ## Requirements
 - Python 3.8
