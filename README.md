@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump team bullish about 2024 election victory as early votes roll in: 'Things look pretty good'**
+**Scout Motors mounts an electric comeback with new SUV and truck concepts**
 
-You can read more about it [here](https://nypost.com/2024/10/24/us-news/trump-team-bullish-about-2024-election-victory-as-early-votes-roll-in-things-look-pretty-good/).
+You can read more about it [here](https://www.theverge.com/2024/10/24/24277692/scout-motors-suv-truck-ev-concept-announce-price-specs).
 
 ## Requirements
 - Python 3.8
