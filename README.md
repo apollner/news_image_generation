@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nicole Scherzinger, Who Helped Create One Direction on X-Factor, Was Texting Liam Payne Day He Died - E! Online**
+**Start 'Em, Sit 'Em running backs: Week 8 fantasy football**
 
-You can read more about it [here](https://www.eonline.com/news/1409098/nicole-scherzinger-who-helped-create-one-direction-on-x-factor-was-texting-liam-payne-day-he-died).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/fantasy/2024/10/24/nfl-fantasy-football-start-sit-running-backs-week-8/75813463007/).
 
 ## Requirements
 - Python 3.8
