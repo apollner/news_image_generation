@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Holland’s ‘Spider-Man 4’ Sets July 2026 Release, Two Months After ‘Avengers: Doomsday’**
+**Grammy-winning rapper Lil Durk charged with orchestrating 2022 Los Angeles killing**
 
-You can read more about it [here](https://variety.com/2024/film/news/spider-man-4-release-date-july-2024-tom-holland-1236191085/).
+You can read more about it [here](https://www.cnn.com/2024/10/25/us/lil-durk-arrested-murder-for-hire-plot/index.html).
 
 ## Requirements
 - Python 3.8
