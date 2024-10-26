@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former Sports Illustrated swimsuit model says Trump groped her to show off for Jeffrey Epstein**
+**North Korean troops spotted in Russian border region with Ukraine, says Kyiv**
 
-You can read more about it [here](https://www.cnn.com/2024/10/24/politics/stacey-williams-donald-trump-jeffrey-epstein/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/24/europe/ukraine-north-korean-troops-spotted-kursk-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
