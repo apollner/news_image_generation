@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC says 75 people affected in E. coli outbreak linked to McDonald's Quarter Pounders**
+**CNN Poll: Harris and Trump remain in a locked race and are tied heading into the final stretch**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/25/mcdonalds-e-coli-outbreak-cdc-updates-case-count.html).
+You can read more about it [here](https://www.cnn.com/2024/10/25/politics/cnn-poll-harris-trump/index.html).
 
 ## Requirements
 - Python 3.8
