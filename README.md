@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Refuting criticism, Donald Trump says he is 'just the opposite' of Adolf Hitler**
+**Stocks head for weekly loss as Japan election and earnings risks loom**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/2024/10/24/donald-trump-says-he-is-just-the-opposite-of-adolf-hitler/75832158007/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-25/).
 
 ## Requirements
 - Python 3.8
