@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**He lost his son to fentanyl poisoning. He’s developed a video game he hopes will save others**
+**Live Briefing: Gaza cease-fire talks set to resume; Iran braces for Israeli retaliation**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/us/kamal-ethan-bherwani-fentanyl-overdose-cec/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/25/israel-iran-war-news-gaza-hamas-lebanon/).
 
 ## Requirements
 - Python 3.8
