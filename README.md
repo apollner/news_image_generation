@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops spotted in Russian border region with Ukraine, says Kyiv**
+**Trump team bullish about 2024 election victory as early votes roll in: 'Things look pretty good'**
 
-You can read more about it [here](https://www.cnn.com/2024/10/24/europe/ukraine-north-korean-troops-spotted-kursk-intl-latam/index.html).
+You can read more about it [here](https://nypost.com/2024/10/24/us-news/trump-team-bullish-about-2024-election-victory-as-early-votes-roll-in-things-look-pretty-good/).
 
 ## Requirements
 - Python 3.8
