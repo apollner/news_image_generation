@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing's New CEO Is Taking on the Ultimate Management Test**
+**Horoscope for Saturday, October 26, 2024**
 
-You can read more about it [here](https://www.businessinsider.com/boeings-ceo-facing-challenges-management-test-2024-10).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/10/26/horoscopes-today-saturday-october-26-2024).
 
 ## Requirements
 - Python 3.8
