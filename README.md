@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attack on an Iranian police convoy kills at least 10 officers; no suspects have been identified, authorities say**
+**Live updates: Israel strikes Iran in high-stakes retaliation**
 
-You can read more about it [here](https://www.cbsnews.com/news/iran-police-convoy-attack-officers-killed/).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-strikes-lebanon-gaza-war-10-26-24/index.html).
 
 ## Requirements
 - Python 3.8
