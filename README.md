@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American Airlines tests boarding technology that audibly shames line cutters**
+**SpaceX Crew-8 astronaut hospitalized with ‘medical issue’ after splashdown has been released, NASA says**
 
-You can read more about it [here](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc).
+You can read more about it [here](https://www.cnn.com/2024/10/25/science/spacex-nasa-crew-8-medical-facility/index.html).
 
 ## Requirements
 - Python 3.8
