@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump and Joe Rogan sit for three hour interview**
+**NASA Astronaut Hospitalized: Unraveling the Medical Mystery After Crew-8’s Space Odyssey**
 
-You can read more about it [here](https://thehill.com/homenews/campaign/4954722-trump-rogan-interview-podcast/).
+You can read more about it [here](https://scitechdaily.com/?p=426807).
 
 ## Requirements
 - Python 3.8
