@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-8 astronaut hospitalized with ‘medical issue’ after splashdown has been released, NASA says**
+**'Take our lives seriously,' Michelle Obama pleads as she rallies for Kamala Harris in Michigan**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/science/spacex-nasa-crew-8-medical-facility/index.html).
+You can read more about it [here](https://apnews.com/article/harris-michelle-obama-biden-michigan-61897674ddc94706031d00aca5c1dc86).
 
 ## Requirements
 - Python 3.8
