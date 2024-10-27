@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal judge halts Virginia’s pre-election voter roll purge aimed at suspected noncitizens**
+**Washington Post won’t endorse candidate in 2024 presidential election after Bezos decision**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/politics/virginia-voter-purge-noncitizens/index.html).
+You can read more about it [here](https://www.cnn.com/2024/10/25/media/washington-post-wont-endorse-presidential-candidate/index.html).
 
 ## Requirements
 - Python 3.8
