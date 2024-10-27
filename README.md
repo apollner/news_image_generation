@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts**
+**Patients Taking Ozempic Are Up to 70 Percent Less Likely to Develop Alzheimer’s, Research Finds**
 
-You can read more about it [here](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02).
+You can read more about it [here](https://futurism.com/neoscope/ozempic-lowered-alzheimers-risk).
 
 ## Requirements
 - Python 3.8
