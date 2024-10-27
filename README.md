@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasdaq closes higher ahead of a heavy week of earnings**
+**How some Nevada voters see the affordable housing crisis**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-gain-treasury-yields-fall-tesla-slips-2024-10-25/).
+You can read more about it [here](https://www.cbsnews.com/news/nevada-voters-affordable-housing-crisis/).
 
 ## Requirements
 - Python 3.8
