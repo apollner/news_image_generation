@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut hospitalized with medical issue after crew’s delayed return from space station**
+**UFC 308 Embedded: Vlog Series - Episode 6**
 
-You can read more about it [here](https://www.foxnews.com/us/nasa-astronaut-hospitalized-medical-issue-crews-delayed-return-space-station).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dSNeZniDg6-A).
 
 ## Requirements
 - Python 3.8
