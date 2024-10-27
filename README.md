@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington Post won’t endorse candidate in 2024 presidential election after Bezos decision**
+**What's next for the Menendez brothers?**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/media/washington-post-wont-endorse-presidential-candidate/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c170l0n8j54o).
 
 ## Requirements
 - Python 3.8
