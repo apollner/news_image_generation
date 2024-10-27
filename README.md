@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA Astronaut Hospitalized: Unraveling the Medical Mystery After Crew-8’s Space Odyssey**
+**McDonald's E. coli outbreak has sickened at least 75 people in 13 states, CDC says**
 
-You can read more about it [here](https://scitechdaily.com/?p=426807).
+You can read more about it [here](https://www.cbsnews.com/news/cdc-mcdonalds-e-coli-outbreak-75-people-sickened-one-death/).
 
 ## Requirements
 - Python 3.8
