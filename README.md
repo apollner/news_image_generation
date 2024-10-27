@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Take our lives seriously,' Michelle Obama pleads as she rallies for Kamala Harris in Michigan**
+**Trump cites Biden’s ‘lock him up’ remark in defending Cannon ruling to 11th Circuit**
 
-You can read more about it [here](https://apnews.com/article/harris-michelle-obama-biden-michigan-61897674ddc94706031d00aca5c1dc86).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/26/trump-jack-smith-cannon-11th-circuit-appeal/).
 
 ## Requirements
 - Python 3.8
