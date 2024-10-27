@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel raids north Gaza hospital as UN warns ‘darkest moment’ is unfolding in the strip**
+**Attack on an Iranian police convoy kills at least 10 officers; no suspects have been identified, authorities say**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/middleeast/kamal-adwan-hospital-northern-gaza-raid-israel-war-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/iran-police-convoy-attack-officers-killed/).
 
 ## Requirements
 - Python 3.8
