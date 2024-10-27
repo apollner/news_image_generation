@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joe Rogan to Donald Trump: You Said a Lot of ‘Crazy S**t’**
+**Live updates: Israel strikes Iran in high-stakes retaliation**
 
-You can read more about it [here](https://www.thedailybeast.com/joe-rogan-to-donald-trump-you-said-a-lot-of-crazy-st/).
+You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-strikes-lebanon-gaza-war-10-26-24/index.html).
 
 ## Requirements
 - Python 3.8
