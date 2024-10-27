@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, October 26, 2024**
+**Israel raids north Gaza hospital as UN warns ‘darkest moment’ is unfolding in the strip**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/10/26/horoscopes-today-saturday-october-26-2024).
+You can read more about it [here](https://www.cnn.com/2024/10/25/middleeast/kamal-adwan-hospital-northern-gaza-raid-israel-war-intl/index.html).
 
 ## Requirements
 - Python 3.8
