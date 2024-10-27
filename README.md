@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Phil Lesh, founding member of the Grateful Dead, dies at 84**
+**NASA astronaut remains in the hospital after returning from an extended stay in space**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/10/25/phil-lesh-grateful-dead-dies/).
+You can read more about it [here](https://nypost.com/2024/10/26/us-news/nasa-astronaut-remains-in-the-hospital-after-returning-from-an-extended-stay-in-space/).
 
 ## Requirements
 - Python 3.8
