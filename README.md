@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA chief calls for reported Musk-Putin talks to be investigated**
+**2024 election updates: Harris rips Trump over 'garbage can' comment on migrants**
 
-You can read more about it [here](https://thehill.com/policy/defense/4954550-musk-putin-alleged-conversations-nasa/).
+You can read more about it [here](https://abcnews.go.com/Politics/live-updates/2024-election-updates-harris-heads-texas-highlight-abortion/?id\\u003d115137328).
 
 ## Requirements
 - Python 3.8
