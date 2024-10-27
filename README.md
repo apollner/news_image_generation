@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 election updates: Trump, Harris, Michelle Obama hit the trail in Michigan**
+**Beyoncé endorses Harris for president at Houston rally: "It's time to sing a new song"**
 
-You can read more about it [here](https://abcnews.go.com/Politics/live-updates/2024-election-updates-harris-heads-texas-highlight-abortion/?id\\u003d115137328).
+You can read more about it [here](https://www.cbsnews.com/news/beyonce-willie-nelson-houston-rally-kamala-harris-reproductive-rights/).
 
 ## Requirements
 - Python 3.8
