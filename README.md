@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut remains in the hospital after returning from an extended stay in space**
+**iPhone 17 Pro Max Design Upgrade: New Look Predicted In Latest Leak**
 
-You can read more about it [here](https://nypost.com/2024/10/26/us-news/nasa-astronaut-remains-in-the-hospital-after-returning-from-an-extended-stay-in-space/).
+You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/10/26/iphone-17-pro-max-design-upgrade-new-look-predicted-in-latest-leak/).
 
 ## Requirements
 - Python 3.8
