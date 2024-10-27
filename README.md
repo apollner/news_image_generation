@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut hospitalized with medical issue after crew’s delayed return from space station**
+**Federal judge halts Virginia’s pre-election voter roll purge aimed at suspected noncitizens**
 
-You can read more about it [here](https://www.foxnews.com/us/nasa-astronaut-hospitalized-medical-issue-crews-delayed-return-space-station).
+You can read more about it [here](https://www.cnn.com/2024/10/25/politics/virginia-voter-purge-noncitizens/index.html).
 
 ## Requirements
 - Python 3.8
