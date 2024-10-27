@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How some Nevada voters see the affordable housing crisis**
+**Phil Lesh, founding member of the Grateful Dead, dies at 84**
 
-You can read more about it [here](https://www.cbsnews.com/news/nevada-voters-affordable-housing-crisis/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/10/25/phil-lesh-grateful-dead-dies/).
 
 ## Requirements
 - Python 3.8
