@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What's next for the Menendez brothers?**
+**Apple wins a battle (and $250) in its smartwatch patent fight with Masimo**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c170l0n8j54o).
+You can read more about it [here](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo).
 
 ## Requirements
 - Python 3.8
