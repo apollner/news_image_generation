@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé endorses Harris for president at Houston rally: "It's time to sing a new song"**
+**Brooks Nader and 'DWTS' Partner Gleb Savchenko Allude to Their Breakup with Cryptic TikTok Posts**
 
-You can read more about it [here](https://www.cbsnews.com/news/beyonce-willie-nelson-houston-rally-kamala-harris-reproductive-rights/).
+You can read more about it [here](https://people.com/brooks-nader-dwts-partner-gleb-savchenko-allude-to-breakup-tiktok-8734933).
 
 ## Requirements
 - Python 3.8
