@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Bezos Overrode His Own Publisher to Kill Washington Post’s Kamala Harris Endorsement**
+**Yankees blow Game 1 of World Series on Freddie Freeman’s walkoff grand slam**
 
-You can read more about it [here](https://www.thedailybeast.com/jeff-bezos-overrode-his-own-publisher-to-kill-washington-posts-kamala-harris-endorsement/).
+You can read more about it [here](https://nypost.com/2024/10/25/sports/yankees-lose-game-1-of-world-series-on-walkoff-grand-slam/).
 
 ## Requirements
 - Python 3.8
