@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump cites Biden’s ‘lock him up’ remark in defending Cannon ruling to 11th Circuit**
+**Joe Rogan to Donald Trump: You Said a Lot of ‘Crazy S**t’**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/10/26/trump-jack-smith-cannon-11th-circuit-appeal/).
+You can read more about it [here](https://www.thedailybeast.com/joe-rogan-to-donald-trump-you-said-a-lot-of-crazy-st/).
 
 ## Requirements
 - Python 3.8
