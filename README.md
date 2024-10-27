@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 17 Pro Max Design Upgrade: New Look Predicted In Latest Leak**
+**Cargo ship owner in Baltimore bridge collapse agrees to pay $102M for cleanup**
 
-You can read more about it [here](https://www.forbes.com/sites/davidphelan/2024/10/26/iphone-17-pro-max-design-upgrade-new-look-predicted-in-latest-leak/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/25/baltimore-bridge-collapse-cleanup-settlement/75831166007/).
 
 ## Requirements
 - Python 3.8
