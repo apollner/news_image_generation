@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them**
+**Teen accused of slaying family near Fall City appears in court**
 
-You can read more about it [here](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/law-justice/teen-accused-of-slaying-family-near-fall-city-appears-in-court/).
 
 ## Requirements
 - Python 3.8
