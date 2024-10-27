@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 308 Embedded: Vlog Series - Episode 6**
+**NASA chief calls for reported Musk-Putin talks to be investigated**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dSNeZniDg6-A).
+You can read more about it [here](https://thehill.com/policy/defense/4954550-musk-putin-alleged-conversations-nasa/).
 
 ## Requirements
 - Python 3.8
