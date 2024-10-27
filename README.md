@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brooks Nader and 'DWTS' Partner Gleb Savchenko Allude to Their Breakup with Cryptic TikTok Posts**
+**American Airlines tests boarding technology that audibly shames line cutters**
 
-You can read more about it [here](https://people.com/brooks-nader-dwts-partner-gleb-savchenko-allude-to-breakup-tiktok-8734933).
+You can read more about it [here](https://apnews.com/article/american-airlines-technology-boarding-line-cutters-aae3374524aa87b2278053a33dc030bc).
 
 ## Requirements
 - Python 3.8
