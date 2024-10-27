@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's E. coli outbreak has sickened at least 75 people in 13 states, CDC says**
+**Nasdaq closes higher ahead of a heavy week of earnings**
 
-You can read more about it [here](https://www.cbsnews.com/news/cdc-mcdonalds-e-coli-outbreak-75-people-sickened-one-death/).
+You can read more about it [here](https://www.reuters.com/markets/us/futures-gain-treasury-yields-fall-tesla-slips-2024-10-25/).
 
 ## Requirements
 - Python 3.8
