@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Series Game 1 Preview: Yankees vs. Dodgers | On-field Preview**
+**Harris, Beyoncé team up for a Texas rally on abortion rights and hope battleground states hear them**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003d8Q8CVFqgSxc).
+You can read more about it [here](https://apnews.com/article/kamala-harris-abortion-rights-2024-election-democrats-f228eedd3308dab2e1125fdf6029a4a2).
 
 ## Requirements
 - Python 3.8
