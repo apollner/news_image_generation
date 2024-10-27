@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees blow Game 1 of World Series on Freddie Freeman’s walkoff grand slam**
+**Trump and Joe Rogan sit for three hour interview**
 
-You can read more about it [here](https://nypost.com/2024/10/25/sports/yankees-lose-game-1-of-world-series-on-walkoff-grand-slam/).
+You can read more about it [here](https://thehill.com/homenews/campaign/4954722-trump-rogan-interview-podcast/).
 
 ## Requirements
 - Python 3.8
