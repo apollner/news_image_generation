@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She threw a 70s-themed ‘cancerversary’ to ‘dance in death’s face’**
+**World Series Game 1 Preview: Yankees vs. Dodgers | On-field Preview**
 
-You can read more about it [here](https://www.washingtonpost.com/lifestyle/2024/10/25/breast-cancer-survivor-cancerversary/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003d8Q8CVFqgSxc).
 
 ## Requirements
 - Python 3.8
