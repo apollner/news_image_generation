@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump argues Smith unlawfully appointed in documents and election cases**
+**Prelim Results | UFC 308: Topuria vs Holloway**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-argues-smith-unlawfully-appointed-documents-election-cases/).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-308-topuria-vs-holloway).
 
 ## Requirements
 - Python 3.8
