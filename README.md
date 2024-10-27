@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen accused of slaying family near Fall City appears in court**
+**US intelligence assesses Russian operatives behind fake video showing Pennsylvania ballots being destroyed**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/law-justice/teen-accused-of-slaying-family-near-fall-city-appears-in-court/).
+You can read more about it [here](https://www.cnn.com/2024/10/25/politics/us-intelligence-assesses-russians-behind-fake-video-pennsylvania-ballots/index.html).
 
 ## Requirements
 - Python 3.8
