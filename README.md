@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple wins a battle (and $250) in its smartwatch patent fight with Masimo**
+**Jeff Bezos Overrode His Own Publisher to Kill Washington Post’s Kamala Harris Endorsement**
 
-You can read more about it [here](https://www.theverge.com/2024/10/25/24279853/apple-wins-a-battle-and-250-in-its-smartwatch-patent-fight-with-masimo).
+You can read more about it [here](https://www.thedailybeast.com/jeff-bezos-overrode-his-own-publisher-to-kill-washington-posts-kamala-harris-endorsement/).
 
 ## Requirements
 - Python 3.8
