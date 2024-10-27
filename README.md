@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prelim Results | UFC 308: Topuria vs Holloway**
+**FACT FOCUS: Trump repeated election lies in his interview with Joe Rogan. Here are the facts**
 
-You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-308-topuria-vs-holloway).
+You can read more about it [here](https://apnews.com/article/trump-election-lies-rogan-interview-ballots-voting-c8c06eb608c1b1ae8ca0e93ec1022b02).
 
 ## Requirements
 - Python 3.8
