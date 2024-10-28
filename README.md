@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Navy issues apology for destroying Alaska Native village in 1882**
+**Tom Hanks Says Reuniting With ‘Forrest Gump’s Robin Wright For ‘Here’ Was “So Easy”**
 
-You can read more about it [here](https://www.cbsnews.com/news/navy-apology-for-destroying-alaska-native-village-angoon-tlingit/).
+You can read more about it [here](http://deadline.com/2024/10/tom-hanks-reuniting-forrest-gump-robin-wright-here-so-easy-1236159294/).
 
 ## Requirements
 - Python 3.8
