@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan’s ruling party is certain to lose a majority in the lower house, broadcaster says**
+**READ: JD Vance’s interview with Jake Tapper on ‘State of the Union’**
 
-You can read more about it [here](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c).
+You can read more about it [here](https://www.cnn.com/2024/10/27/politics/jd-vance-jake-tapper-state-of-the-union-transcript/index.html).
 
 ## Requirements
 - Python 3.8
