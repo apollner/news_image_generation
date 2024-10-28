@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live updates: Israel strikes Iran in high-stakes retaliation**
+**Pope Francis' Catholic church reform process ends without giving more equity to women**
 
-You can read more about it [here](https://www.cnn.com/world/live-news/israel-iran-strikes-lebanon-gaza-war-10-26-24/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/pope-francis-catholic-church-reform-no-equity-women/).
 
 ## Requirements
 - Python 3.8
