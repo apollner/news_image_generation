@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington Post publisher says he killed Kamala Harris endorsement, not Jeff Bezos: report**
+**SpaceX Crew-8 astronaut hospitalized with ‘medical issue’ after splashdown has been released, NASA says**
 
-You can read more about it [here](https://nypost.com/2024/10/26/us-news/washington-post-ceo-william-lewis-takes-the-blame-for-killing-presidential-endorsement-for-kamala-harris/).
+You can read more about it [here](https://www.cnn.com/2024/10/25/science/spacex-nasa-crew-8-medical-facility/index.html).
 
 ## Requirements
 - Python 3.8
