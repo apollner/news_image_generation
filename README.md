@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple wins $250 from Masimo in watch patent trial**
+**Navy issues apology for destroying Alaska Native village in 1882**
 
-You can read more about it [here](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/).
+You can read more about it [here](https://www.cbsnews.com/news/navy-apology-for-destroying-alaska-native-village-angoon-tlingit/).
 
 ## Requirements
 - Python 3.8
