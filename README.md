@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**E. coli outbreak in Colorado: People sickened in 13 states; other fast food restaurants pull onions off menus**
+**Bring in the closer: Michelle Obama lends her popularity to Kamala Harris**
 
-You can read more about it [here](https://gazette.com/news/e-coli-outbreak-in-colorado-people-sickened-in-13-states-other-fast-food-restaurants-pull/article_49b8faf4-9302-11ef-8294-2b1f37d87975.html).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/26/michelle-obama-rally-kamala-harris/75857905007/).
 
 ## Requirements
 - Python 3.8
