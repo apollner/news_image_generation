@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally**
+**Bring in the closer: Michelle Obama lends her popularity to Kamala Harris**
 
-You can read more about it [here](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/26/michelle-obama-rally-kamala-harris/75857905007/).
 
 ## Requirements
 - Python 3.8
