@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Lovato's Sister Madison De La Garza Mourns Death of Her First Baby - E! Online**
+**Week 8 NFL betting guide, odds: Top expert, model, AI, parlay, season-long, DFS fantasy picks revealed**
 
-You can read more about it [here](https://www.eonline.com/videos/2383391299863/demi-lovatos-sister-madison-de-la-garza-mourns-death-of-her-first-baby).
+You can read more about it [here](https://www.cbssports.com/nfl/news/week-8-nfl-betting-guide-odds-top-expert-model-ai-parlay-season-long-dfs-fantasy-picks-revealed/).
 
 ## Requirements
 - Python 3.8
