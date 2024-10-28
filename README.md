@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean Soldiers Arrive on Russia’s Front Line. How Ready Are They to Fight?**
+**Japan’s new PM faces major test with an election just weeks after taking office**
 
-You can read more about it [here](https://www.wsj.com/world/asia/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa).
+You can read more about it [here](https://www.cnn.com/2024/10/26/asia/japan-elections-ldp-shigeru-ishiba-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
