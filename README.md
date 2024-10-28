@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google is reportedly developing a ‘computer-using agent’ AI system**
+**Demi Lovato’s baby niece dies after emergency C-section**
 
-You can read more about it [here](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent).
+You can read more about it [here](https://fox8.com/news/demi-lovatos-baby-niece-dies-after-emergency-c-section/).
 
 ## Requirements
 - Python 3.8
