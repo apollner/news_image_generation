@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tomorrow's Top 25 Today: Texas A&M vaults into top 10 as LSU plummets in college football rankings**
+**North Korean Soldiers Arrive on Russia’s Front Line. How Ready Are They to Fight?**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/tomorrows-top-25-today-texas-a-m-vaults-into-top-10-as-lsu-plummets-in-college-football-rankings/).
+You can read more about it [here](https://www.wsj.com/world/asia/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa).
 
 ## Requirements
 - Python 3.8
