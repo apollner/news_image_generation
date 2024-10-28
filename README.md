@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pompeii archaeologists discover ancient tiny house with elaborate frescoes**
+**Georgian president won’t recognize parliamentary election result and calls public protests**
 
-You can read more about it [here](https://www.cbsnews.com/news/pompeii-archaeologists-ancient-tiny-house-elaborate-fresco-paintings/).
+You can read more about it [here](https://apnews.com/article/georgia-russia-election-european-union-8f040cb30e1d9c9e778383cbcbb7b2c1).
 
 ## Requirements
 - Python 3.8
