@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Lovato’s baby niece dies after emergency C-section**
+**Washington Post publisher says he killed Kamala Harris endorsement, not Jeff Bezos: report**
 
-You can read more about it [here](https://fox8.com/news/demi-lovatos-baby-niece-dies-after-emergency-c-section/).
+You can read more about it [here](https://nypost.com/2024/10/26/us-news/washington-post-ceo-william-lewis-takes-the-blame-for-killing-presidential-endorsement-for-kamala-harris/).
 
 ## Requirements
 - Python 3.8
