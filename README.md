@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Elections, Oct 27, 2024**
+**Proof the Kardashian-Jenner Family's Halloween Costumes Are the Most Interesting to Look At**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/10/27/2024-elections-live-coverage-updates-analysis).
+You can read more about it [here](https://www.eonline.com/news/1408560/proof-the-kardashian-jenner-familys-halloween-costumes-are-the-most-interesting-to-look-at).
 
 ## Requirements
 - Python 3.8
