@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan’s new PM faces major test with an election just weeks after taking office**
+**FC Barcelona Ace Lamine Yamal Provokes Real Madrid With Post-El Clasico Comments**
 
-You can read more about it [here](https://www.cnn.com/2024/10/26/asia/japan-elections-ldp-shigeru-ishiba-intl-hnk/index.html).
+You can read more about it [here](https://www.forbes.com/sites/tomsanderson/2024/10/26/fc-barcelona-ace-lamine-yamal-provokes-real-madrid-with-post-el-clasico-comments/).
 
 ## Requirements
 - Python 3.8
