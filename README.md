@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**READ: JD Vance’s interview with Jake Tapper on ‘State of the Union’**
+**Demi Lovato's Sister Madison De La Garza Mourns Death of Her First Baby - E! Online**
 
-You can read more about it [here](https://www.cnn.com/2024/10/27/politics/jd-vance-jake-tapper-state-of-the-union-transcript/index.html).
+You can read more about it [here](https://www.eonline.com/videos/2383391299863/demi-lovatos-sister-madison-de-la-garza-mourns-death-of-her-first-baby).
 
 ## Requirements
 - Python 3.8
