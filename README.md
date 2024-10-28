@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 8 fantasy football rankings: PPR, half-PPR and standard leagues**
+**Japan’s ruling party is certain to lose a majority in the lower house, broadcaster says**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/nfl/fantasy/2024/10/27/fantasy-football-rankings-week-8-qb-rb-wr-te-defense/75875891007/).
+You can read more about it [here](https://apnews.com/article/japan-ishiba-parliament-election-ldp-opposition-5c6509c7b83963ffe40588c50998967c).
 
 ## Requirements
 - Python 3.8
