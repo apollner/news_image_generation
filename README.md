@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope Francis' Catholic church reform process ends without giving more equity to women**
+**Apple wins $250 from Masimo in watch patent trial**
 
-You can read more about it [here](https://www.cbsnews.com/news/pope-francis-catholic-church-reform-no-equity-women/).
+You can read more about it [here](https://techcrunch.com/2024/10/26/apple-wins-250-from-masimo-in-watch-patent-trial/).
 
 ## Requirements
 - Python 3.8
