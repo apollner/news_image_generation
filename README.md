@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Truck Hits Crowd at Israel Bus Stop, Killing One and Injuring Dozens**
+**The 10 Best Mobile Games for iOS and Android**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/truck-hits-crowd-at-israel-bus-stop-injuring-dozens-0e9c69c4).
+You can read more about it [here](https://www.wired.com/gallery/best-mobile-games-iphone-android/).
 
 ## Requirements
 - Python 3.8
