@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Perez Hilton predicts Menendez brothers could see public ‘turn’ on them after prison release**
+**2024 Elections, Oct 27, 2024**
 
-You can read more about it [here](https://www.foxnews.com/us/perez-hilton-predicts-menendez-brothers-could-see-public-turn-them-after-prison-release).
+You can read more about it [here](https://www.politico.com/live-updates/2024/10/27/2024-elections-live-coverage-updates-analysis).
 
 ## Requirements
 - Python 3.8
