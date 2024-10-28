@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Demi Lovato’s baby niece dies after emergency C-section**
+**North Korean Soldiers Arrive on Russia’s Front Line. How Ready Are They to Fight?**
 
-You can read more about it [here](https://fox8.com/news/demi-lovatos-baby-niece-dies-after-emergency-c-section/).
+You can read more about it [here](https://www.wsj.com/world/asia/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa).
 
 ## Requirements
 - Python 3.8
