@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Season: Seahawks vs. Bills 1st quarter game thread**
+**Bears vs. Commanders odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions**
 
-You can read more about it [here](https://www.fieldgulls.com/2024/10/27/24280478/2024-nfl-season-seahawks-vs-bills-1st-quarter-game-thread).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bears-vs-commanders-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-8-nfl-predictions/).
 
 ## Requirements
 - Python 3.8
