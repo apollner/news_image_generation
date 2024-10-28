@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 10 Best Mobile Games for iOS and Android**
+**Ric Flair's Stepson, Sebastian Kidder, Dies By Suicide At 24**
 
-You can read more about it [here](https://www.wired.com/gallery/best-mobile-games-iphone-android/).
+You can read more about it [here](https://www.tmz.com/2024/10/27/ric-flair-stepson-sebastian-kidder-dies-suicide/).
 
 ## Requirements
 - Python 3.8
