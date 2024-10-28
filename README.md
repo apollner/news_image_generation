@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX Crew-8 astronaut hospitalized with ‘medical issue’ after splashdown has been released, NASA says**
+**UFC 308 highlights: Ilia Topuria knocks out Max Holloway with devastating, star-making performance**
 
-You can read more about it [here](https://www.cnn.com/2024/10/25/science/spacex-nasa-crew-8-medical-facility/index.html).
+You can read more about it [here](https://sports.yahoo.com/live/ufc-308-highlights-ilia-topuria-knocks-out-max-holloway-with-devastating-star-making-performance-030144467.html).
 
 ## Requirements
 - Python 3.8
