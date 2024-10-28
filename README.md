@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FC Barcelona Ace Lamine Yamal Provokes Real Madrid With Post-El Clasico Comments**
+**North Korean Soldiers Arrive on Russia’s Front Line. How Ready Are They to Fight?**
 
-You can read more about it [here](https://www.forbes.com/sites/tomsanderson/2024/10/26/fc-barcelona-ace-lamine-yamal-provokes-real-madrid-with-post-el-clasico-comments/).
+You can read more about it [here](https://www.wsj.com/world/asia/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa).
 
 ## Requirements
 - Python 3.8
