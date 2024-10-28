@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact check: 32 false claims Trump made to Joe Rogan**
+**Truck Hits Crowd at Israel Bus Stop, Killing One and Injuring Dozens**
 
-You can read more about it [here](https://www.cnn.com/2024/10/27/politics/fact-check-trump-rogan-podcast/index.html).
+You can read more about it [here](https://www.wsj.com/world/middle-east/truck-hits-crowd-at-israel-bus-stop-injuring-dozens-0e9c69c4).
 
 ## Requirements
 - Python 3.8
