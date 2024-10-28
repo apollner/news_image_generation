@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean Soldiers Arrive on Russia’s Front Line. How Ready Are They to Fight?**
+**Spirit Airlines takes drastic steps to avoid bankruptcy**
 
-You can read more about it [here](https://www.wsj.com/world/asia/north-korean-soldiers-arrive-on-russias-front-line-how-ready-are-they-to-fight-84f885fa).
+You can read more about it [here](https://www.thestreet.com/investing/spirit-airlines-takes-drastic-steps-to-avoid-bankruptcy).
 
 ## Requirements
 - Python 3.8
