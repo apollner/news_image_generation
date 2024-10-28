@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes on Gaza kill 22, officials say, as truck ramming near Tel Aviv hurts dozens**
+**This is the Mac Mini’s big moment**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2).
+You can read more about it [here](https://www.theverge.com/2024/10/27/24278827/apple-mac-mini-m4-redesign-preview).
 
 ## Requirements
 - Python 3.8
