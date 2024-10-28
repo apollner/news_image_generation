@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 8 NFL betting guide, odds: Top expert, model, AI, parlay, season-long, DFS fantasy picks revealed**
+**Fact check: 32 false claims Trump made to Joe Rogan**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/week-8-nfl-betting-guide-odds-top-expert-model-ai-parlay-season-long-dfs-fantasy-picks-revealed/).
+You can read more about it [here](https://www.cnn.com/2024/10/27/politics/fact-check-trump-rogan-podcast/index.html).
 
 ## Requirements
 - Python 3.8
