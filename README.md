@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Hanks Says Reuniting With ‘Forrest Gump’s Robin Wright For ‘Here’ Was “So Easy”**
+**Google is reportedly developing a ‘computer-using agent’ AI system**
 
-You can read more about it [here](http://deadline.com/2024/10/tom-hanks-reuniting-forrest-gump-robin-wright-here-so-easy-1236159294/).
+You can read more about it [here](https://www.theverge.com/2024/10/26/24280431/google-project-jarvis-ai-system-computer-using-agent).
 
 ## Requirements
 - Python 3.8
