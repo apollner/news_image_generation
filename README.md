@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Season: Seahawks vs. Bills 1st quarter game thread**
+**Biden calls out Musk over a published report that the Tesla CEO once worked in the US illegally**
 
-You can read more about it [here](https://www.fieldgulls.com/2024/10/27/24280478/2024-nfl-season-seahawks-vs-bills-1st-quarter-game-thread).
+You can read more about it [here](https://apnews.com/article/biden-elon-musk-student-visa-work-fbd836b3de358148cda16c273ff904c4).
 
 ## Requirements
 - Python 3.8
