@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spirit Airlines takes drastic steps to avoid bankruptcy**
+**Demi Lovato’s baby niece dies after emergency C-section**
 
-You can read more about it [here](https://www.thestreet.com/investing/spirit-airlines-takes-drastic-steps-to-avoid-bankruptcy).
+You can read more about it [here](https://fox8.com/news/demi-lovatos-baby-niece-dies-after-emergency-c-section/).
 
 ## Requirements
 - Python 3.8
