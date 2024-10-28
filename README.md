@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 308 highlights: Ilia Topuria knocks out Max Holloway with devastating, star-making performance**
+**Tomorrow's Top 25 Today: Texas A&M vaults into top 10 as LSU plummets in college football rankings**
 
-You can read more about it [here](https://sports.yahoo.com/live/ufc-308-highlights-ilia-topuria-knocks-out-max-holloway-with-devastating-star-making-performance-030144467.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/tomorrows-top-25-today-texas-a-m-vaults-into-top-10-as-lsu-plummets-in-college-football-rankings/).
 
 ## Requirements
 - Python 3.8
