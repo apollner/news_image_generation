@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bring in the closer: Michelle Obama lends her popularity to Kamala Harris**
+**Pompeii archaeologists discover ancient tiny house with elaborate frescoes**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/26/michelle-obama-rally-kamala-harris/75857905007/).
+You can read more about it [here](https://www.cbsnews.com/news/pompeii-archaeologists-ancient-tiny-house-elaborate-fresco-paintings/).
 
 ## Requirements
 - Python 3.8
