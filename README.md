@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel pounds Gaza and Lebanon after Iran strikes**
+**Week 8 fantasy football rankings: PPR, half-PPR and standard leagues**
 
-You can read more about it [here](https://www.yahoo.com/news/israel-pounds-gaza-lebanon-iran-103605899.html).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/fantasy/2024/10/27/fantasy-football-rankings-week-8-qb-rb-wr-te-defense/75875891007/).
 
 ## Requirements
 - Python 3.8
