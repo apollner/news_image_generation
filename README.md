@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No new limits on Ukraine's use of US arms if North Korea joins fight, Pentagon says**
+**Philadelphia DA sues Elon Musk and his super PAC over $1M sweepstakes**
 
-You can read more about it [here](https://www.reuters.com/world/europe/nato-chief-says-he-can-confirm-north-korean-troops-are-russias-kursk-2024-10-28/).
+You can read more about it [here](https://www.cnn.com/2024/10/28/politics/elon-musk-philadelphia-lawsuit/index.html).
 
 ## Requirements
 - Python 3.8
