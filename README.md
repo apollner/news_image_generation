@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The SpaceX Advantage That Rivals Are Trying to Emulate**
+**All the news from Apple’s ‘week’ of Mac announcements**
 
-You can read more about it [here](https://www.wsj.com/science/space-astronomy/the-spacex-advantage-that-rivals-are-trying-to-emulate-ebde2568).
+You can read more about it [here](https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements).
 
 ## Requirements
 - Python 3.8
