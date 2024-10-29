@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Betting by the numbers: Commanders' Hail Mary "not great" for sportsbooks**
+**Computers normally can't see optical illusions — but a scientist combined AI with quantum mechanics to make it happen**
 
-You can read more about it [here](https://www.espn.com/espn/betting/story/_/id/42048927/betting-numbers-week-8-sportsbooks-nfl-college-jayden-daniels).
+You can read more about it [here](https://www.livescience.com/technology/artificial-intelligence/computers-normally-cant-see-optical-illusions-but-a-scientist-combined-ai-with-quantum-mechanics-to-make-it-happen).
 
 ## Requirements
 - Python 3.8
