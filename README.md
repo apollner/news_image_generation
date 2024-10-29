@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Venom: The Last Dance’ Climbs to $124 Million at International Box Office, $175 Million Globally**
+**McDonald’s rules out beef patties as source of E. coli outbreak**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/venom-3-box-office-global-opening-weekend-1236191839/).
+You can read more about it [here](https://nypost.com/2024/10/27/business/mcdonalds-rules-out-beef-patties-as-source-of-e-coli-outbreak/).
 
 ## Requirements
 - Python 3.8
