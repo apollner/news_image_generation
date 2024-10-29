@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alien: Rogue Incursion Hands-On: Survios Aims For Aliens**
+**Google Pixel 10 and 11 leak reveals new AI tools and a big camera update**
 
-You can read more about it [here](https://www.uploadvr.com/alien-rogue-incursion-hands-on/).
+You can read more about it [here](https://www.theverge.com/2024/10/28/24281679/google-pixel-10-11-leak-ai-features-rumors).
 
 ## Requirements
 - Python 3.8
