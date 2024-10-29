@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris mocked for unveiling 'new accent' at Philadelphia event: 'Everything about this woman is fake'**
+**Timothée Chalamet crashes his own look-alike contest after police shut down crowded event**
 
-You can read more about it [here](https://nypost.com/2024/10/28/us-news/harris-mocked-for-unveiling-new-accent-at-philadelphia-event-everything-about-this-woman-is-fake/).
+You can read more about it [here](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028).
 
 ## Requirements
 - Python 3.8
