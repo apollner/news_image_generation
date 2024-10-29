@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers 'banking on' Ohtani to start in Game 3 following shoulder injury**
+**NFL Week 8 grades: Browns earn high mark for shocking Ravens, Commanders get 'B+' after Hail Mary win**
 
-You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-injury-update-world-series).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-grades-browns-earn-high-mark-for-shocking-ravens-commanders-get-b-after-hail-mary-win/).
 
 ## Requirements
 - Python 3.8
