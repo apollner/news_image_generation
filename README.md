@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iOS 18.1 Is Here: Apple Intelligence, New Siri Look, AirPod Hearing Aids and More**
+**Prenatal Cannabis Use Linked to Child Aggression and Cognitive Deficits**
 
-You can read more about it [here](https://www.wsj.com/tech/personal-tech/ios-18-1-released-apple-intelligence-ai-features-a4b983fc).
+You can read more about it [here](https://neurosciencenews.com/cud-pregnancy-aggression-neurodevelopment-27950/).
 
 ## Requirements
 - Python 3.8
