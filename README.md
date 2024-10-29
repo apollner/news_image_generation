@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FIRST DRIVE: Aston Martin Vanquish – 824bhp And Looks To Die For**
+**California governor proposes more than doubling the state’s film and TV tax incentives**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dE5m6UwWp4OA).
+You can read more about it [here](https://www.cnn.com/2024/10/27/entertainment/california-governor-proposes-more-than-doubling-the-states-film-and-tv-tax-incentives/index.html).
 
 ## Requirements
 - Python 3.8
