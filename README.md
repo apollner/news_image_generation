@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prenatal Cannabis Use Linked to Child Aggression and Cognitive Deficits**
+**No new limits on Ukraine's use of US arms if North Korea joins fight, Pentagon says**
 
-You can read more about it [here](https://neurosciencenews.com/cud-pregnancy-aggression-neurodevelopment-27950/).
+You can read more about it [here](https://www.reuters.com/world/europe/nato-chief-says-he-can-confirm-north-korean-troops-are-russias-kursk-2024-10-28/).
 
 ## Requirements
 - Python 3.8
