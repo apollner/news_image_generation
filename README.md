@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Afternoon at the Timothée Chalamet Look-alike Competition**
+**7 winning dietary supplements for sleep, bone health and more**
 
-You can read more about it [here](http://www.vulture.com/article/an-afternoon-at-the-timothe-chalamet-lookalike-competition.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/28/calcium-b12-vitamind-melatonin-collagen-fishoil-magnesium/).
 
 ## Requirements
 - Python 3.8
