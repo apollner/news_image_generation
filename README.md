@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 winning dietary supplements for sleep, bone health and more**
+**U.S. death from Lassa fever, an Ebola-like virus, is reported in Iowa**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/28/calcium-b12-vitamind-melatonin-collagen-fishoil-magnesium/).
+You can read more about it [here](https://www.statnews.com/2024/10/28/lassa-fever-us-case-iowa-death/).
 
 ## Requirements
 - Python 3.8
