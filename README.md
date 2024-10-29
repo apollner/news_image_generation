@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Aaron Rodgers' Jets, Chicago Bears offer Packers fans a double dose of Sunday Schadenfreude**
+**Alien: Rogue Incursion Hands-On: Survios Aims For Aliens**
 
-You can read more about it [here](https://www.jsonline.com/story/sports/nfl/packers/2024/10/28/rodgers-jets-bears-both-suffer-gut-punching-losses-sunday/75893875007/).
+You can read more about it [here](https://www.uploadvr.com/alien-rogue-incursion-hands-on/).
 
 ## Requirements
 - Python 3.8
