@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**All the news from Apple’s ‘week’ of Mac announcements**
+**[Removed]**
 
-You can read more about it [here](https://www.theverge.com/24279307/apple-mac-m4-updates-news-announcements).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
