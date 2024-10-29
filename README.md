@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dak Prescott blames himself for "boneheaded" interception**
+**A Giant Structure in Space Challenges Our Understanding of The Universe**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-blames-himself-for-boneheaded-interception).
+You can read more about it [here](https://www.sciencealert.com/a-giant-structure-in-space-challenges-our-understanding-of-the-universe).
 
 ## Requirements
 - Python 3.8
