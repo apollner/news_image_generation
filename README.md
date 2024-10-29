@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Pixel 10 and 11 leak reveals new AI tools and a big camera update**
+**iOS 18.1 Is Here: Apple Intelligence, New Siri Look, AirPod Hearing Aids and More**
 
-You can read more about it [here](https://www.theverge.com/2024/10/28/24281679/google-pixel-10-11-leak-ai-features-rumors).
+You can read more about it [here](https://www.wsj.com/tech/personal-tech/ios-18-1-released-apple-intelligence-ai-features-a4b983fc).
 
 ## Requirements
 - Python 3.8
