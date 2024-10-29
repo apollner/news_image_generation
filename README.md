@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Computers normally can't see optical illusions — but a scientist combined AI with quantum mechanics to make it happen**
+**Harris mocked for unveiling 'new accent' at Philadelphia event: 'Everything about this woman is fake'**
 
-You can read more about it [here](https://www.livescience.com/technology/artificial-intelligence/computers-normally-cant-see-optical-illusions-but-a-scientist-combined-ai-with-quantum-mechanics-to-make-it-happen).
+You can read more about it [here](https://nypost.com/2024/10/28/us-news/harris-mocked-for-unveiling-new-accent-at-philadelphia-event-everything-about-this-woman-is-fake/).
 
 ## Requirements
 - Python 3.8
