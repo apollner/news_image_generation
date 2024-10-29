@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philadelphia DA sues Elon Musk and his super PAC over $1M sweepstakes**
+**Boeing launches $19bn share sale to bolster finances and avoid downgrade**
 
-You can read more about it [here](https://www.cnn.com/2024/10/28/politics/elon-musk-philadelphia-lawsuit/index.html).
+You can read more about it [here](https://www.ft.com/content/f96ba803-5d80-45b1-8057-dd6924805a6b).
 
 ## Requirements
 - Python 3.8
