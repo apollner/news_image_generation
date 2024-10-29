@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Giant Structure in Space Challenges Our Understanding of The Universe**
+**Column | The real reason women crave chocolate during their period**
 
-You can read more about it [here](https://www.sciencealert.com/a-giant-structure-in-space-challenges-our-understanding-of-the-universe).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/28/period-cravings-chocolate/).
 
 ## Requirements
 - Python 3.8
