@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California governor proposes more than doubling the state’s film and TV tax incentives**
+**Uruguay's 2 presidential front-runners say they'll face off in a second round of voting next month**
 
-You can read more about it [here](https://www.cnn.com/2024/10/27/entertainment/california-governor-proposes-more-than-doubling-the-states-film-and-tv-tax-incentives/index.html).
+You can read more about it [here](https://apnews.com/article/uruguay-election-politics-leftwing-president-rightwing-86984f87bb0607d9c061c293ec11fe71).
 
 ## Requirements
 - Python 3.8
