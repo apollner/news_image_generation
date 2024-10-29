@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Column | The real reason women crave chocolate during their period**
+**China wants to make its Tiangong space station bigger and better**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/10/28/period-cravings-chocolate/).
+You can read more about it [here](https://www.space.com/china-expand-upgrade-tiangong-space-station).
 
 ## Requirements
 - Python 3.8
