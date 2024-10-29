@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California governor proposes more than doubling the state’s film and TV tax incentives**
+**Bears CB sorry for taunts before fateful Hail Mary**
 
-You can read more about it [here](https://www.cnn.com/2024/10/27/entertainment/california-governor-proposes-more-than-doubling-the-states-film-and-tv-tax-incentives/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42043231/tyrique-stevenson-taunts-commanders-fans-seconds-bears-lose-hail-mary-td).
 
 ## Requirements
 - Python 3.8
