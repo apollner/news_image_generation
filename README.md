@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timothée Chalamet crashes his own look-alike contest after police shut down crowded event**
+**No new limits on Ukraine's use of US arms if North Korea joins fight, Pentagon says**
 
-You can read more about it [here](https://apnews.com/article/timothee-chalamet-lookalike-dune-7acc6bda7612cb72eca31d2cc0106028).
+You can read more about it [here](https://www.reuters.com/world/europe/nato-chief-says-he-can-confirm-north-korean-troops-are-russias-kursk-2024-10-28/).
 
 ## Requirements
 - Python 3.8
