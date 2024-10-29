@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears vs. Commanders odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 8 NFL predictions**
+**‘Venom: The Last Dance’ Climbs to $124 Million at International Box Office, $175 Million Globally**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bears-vs-commanders-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-8-nfl-predictions/).
+You can read more about it [here](https://variety.com/2024/film/box-office/venom-3-box-office-global-opening-weekend-1236191839/).
 
 ## Requirements
 - Python 3.8
