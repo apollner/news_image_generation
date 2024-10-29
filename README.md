@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 8 grades: Browns earn high mark for shocking Ravens, Commanders get 'B+' after Hail Mary win**
+**Vance defends Trump on using U.S. military against Americans**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-8-grades-browns-earn-high-mark-for-shocking-ravens-commanders-get-b-after-hail-mary-win/).
+You can read more about it [here](https://www.washingtonpost.com/elections/2024/10/27/jd-vance-trump-authoritarian/).
 
 ## Requirements
 - Python 3.8
