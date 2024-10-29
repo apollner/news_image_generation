@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears CB sorry for taunts before fateful Hail Mary**
+**Japan’s politics gets a rare dose of upheaval after snap election**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42043231/tyrique-stevenson-taunts-commanders-fans-seconds-bears-lose-hail-mary-td).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2nn16wrk2o).
 
 ## Requirements
 - Python 3.8
