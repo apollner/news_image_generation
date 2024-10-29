@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s rules out beef patties as source of E. coli outbreak**
+**Sunday Night Football: 49ers back on track with 30-24 win over Cowboys**
 
-You can read more about it [here](https://nypost.com/2024/10/27/business/mcdonalds-rules-out-beef-patties-as-source-of-e-coli-outbreak/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-49ers-get-back-on-track-with-30-24-win-over-cowboys).
 
 ## Requirements
 - Python 3.8
