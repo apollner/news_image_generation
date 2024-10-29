@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan’s politics gets a rare dose of upheaval after snap election**
+**Dodgers 'banking on' Ohtani to start in Game 3 following shoulder injury**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2nn16wrk2o).
+You can read more about it [here](https://www.mlb.com/news/shohei-ohtani-injury-update-world-series).
 
 ## Requirements
 - Python 3.8
