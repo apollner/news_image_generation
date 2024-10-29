@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran leader says Israeli attack should not be 'exaggerated or downplayed'**
+**Harris mocked for unveiling 'new accent' at Philadelphia event: 'Everything about this woman is fake'**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ced99eznje9o).
+You can read more about it [here](https://nypost.com/2024/10/28/us-news/harris-mocked-for-unveiling-new-accent-at-philadelphia-event-everything-about-this-woman-is-fake/).
 
 ## Requirements
 - Python 3.8
