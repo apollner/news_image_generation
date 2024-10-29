@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. death from Lassa fever, an Ebola-like virus, is reported in Iowa**
+**NASA astronaut Don Pettit is a giant nerd, and we’re all luckier for it**
 
-You can read more about it [here](https://www.statnews.com/2024/10/28/lassa-fever-us-case-iowa-death/).
+You can read more about it [here](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/).
 
 ## Requirements
 - Python 3.8
