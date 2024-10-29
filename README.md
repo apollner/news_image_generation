@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sunday Night Football: 49ers back on track with 30-24 win over Cowboys**
+**FIRST DRIVE: Aston Martin Vanquish – 824bhp And Looks To Die For**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sunday-night-football-49ers-get-back-on-track-with-30-24-win-over-cowboys).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dE5m6UwWp4OA).
 
 ## Requirements
 - Python 3.8
