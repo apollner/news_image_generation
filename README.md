@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vance defends Trump on using U.S. military against Americans**
+**Shohei Ohtani is expected to play in World Series Game 3 on Monday**
 
-You can read more about it [here](https://www.washingtonpost.com/elections/2024/10/27/jd-vance-trump-authoritarian/).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/27/shohei-ohtani-injury-update/).
 
 ## Requirements
 - Python 3.8
