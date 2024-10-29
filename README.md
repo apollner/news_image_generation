@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China wants to make its Tiangong space station bigger and better**
+**Dak Prescott blames himself for "boneheaded" interception**
 
-You can read more about it [here](https://www.space.com/china-expand-upgrade-tiangong-space-station).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/dak-prescott-blames-himself-for-boneheaded-interception).
 
 ## Requirements
 - Python 3.8
