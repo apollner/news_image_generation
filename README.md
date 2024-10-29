@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Philippine town in the shadow of a volcano is hit by landslides it never expected**
+**The SpaceX Advantage That Rivals Are Trying to Emulate**
 
-You can read more about it [here](https://apnews.com/article/philippines-talisay-volcano-landslide-trami-e18e6d928e8d8233c521c378ff58c1b1).
+You can read more about it [here](https://www.wsj.com/science/space-astronomy/the-spacex-advantage-that-rivals-are-trying-to-emulate-ebde2568).
 
 ## Requirements
 - Python 3.8
