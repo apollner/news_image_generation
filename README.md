@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uruguay's 2 presidential front-runners say they'll face off in a second round of voting next month**
+**Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages**
 
-You can read more about it [here](https://apnews.com/article/uruguay-election-politics-leftwing-president-rightwing-86984f87bb0607d9c061c293ec11fe71).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2).
 
 ## Requirements
 - Python 3.8
