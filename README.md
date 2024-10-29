@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key mediator Egypt proposes a 2-day Gaza cease-fire and the release of 4 hostages**
+**California governor proposes more than doubling the state’s film and TV tax incentives**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-10-27-2024-b4bf551e7c7de2af29257f6d4cc74da2).
+You can read more about it [here](https://www.cnn.com/2024/10/27/entertainment/california-governor-proposes-more-than-doubling-the-states-film-and-tv-tax-incentives/index.html).
 
 ## Requirements
 - Python 3.8
