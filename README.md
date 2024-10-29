@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shohei Ohtani is expected to play in World Series Game 3 on Monday**
+**A Philippine town in the shadow of a volcano is hit by landslides it never expected**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/10/27/shohei-ohtani-injury-update/).
+You can read more about it [here](https://apnews.com/article/philippines-talisay-volcano-landslide-trami-e18e6d928e8d8233c521c378ff58c1b1).
 
 ## Requirements
 - Python 3.8
