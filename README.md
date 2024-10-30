@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Game 3 takeaways: Dodgers take 3-0 World Series lead on Yankees**
+**Satellite photos show Israeli strike likely hit important Iran Revolutionary Guard missile base**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41942783/2024-world-series-game-3-los-angeles-dodgers-new-york-yankees-updates-analysis-takeaways).
+You can read more about it [here](https://apnews.com/article/iran-israel-attack-shahroud-guard-base-satellite-photos-b9cdb18b252d6dd9014dc4dcb3dd4b2f).
 
 ## Requirements
 - Python 3.8
