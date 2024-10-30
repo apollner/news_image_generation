@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Freeman and Buehler lead Dodgers past slumping Yankees 4-2 for 3-0 advantage in World Series**
+**Puerto Ricans in must-win state say Trump rally joke won’t be forgotten**
 
-You can read more about it [here](https://apnews.com/article/world-series-dodgers-yankees-game-3-score-d3099c04a70ae7732d69da0821e3f5dd).
+You can read more about it [here](https://www.bbc.com/news/articles/cgj7689v757o).
 
 ## Requirements
 - Python 3.8
