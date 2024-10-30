@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel has banned the UN agency for Palestinian refugees. That could be devastating for millions**
+**McDonald's is about to report earnings. Here's what to expect**
 
-You can read more about it [here](https://www.cnn.com/2024/10/28/middleeast/unrwa-israel-knesset-vote-ban-palestinians-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/10/29/mcdonalds-mcd-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
