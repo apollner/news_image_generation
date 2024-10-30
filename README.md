@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia fires missiles to simulate 'massive' response to a nuclear attack**
+**'Hopeful they'll move our country forward': George W. Bush's daughter campaigns for Harris**
 
-You can read more about it [here](https://www.jpost.com/breaking-news/article-826682).
+You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/29/barbara-bush-daughter-harris-campaign/75912669007/).
 
 ## Requirements
 - Python 3.8
