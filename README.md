@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Game 3 takeaways: Dodgers take 3-0 World Series lead on Yankees**
+**Sean “Diddy” Combs Accused In New Lawsuits of Sexually Assaulting 10- and 17-Year-Old Boys**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/41942783/2024-world-series-game-3-los-angeles-dodgers-new-york-yankees-updates-analysis-takeaways).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-new-lawsuits-sexual-assault-young-boys-1236047252/).
 
 ## Requirements
 - Python 3.8
