@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time is Kamala Harris' speech tonight? How to watch live**
+**An Israeli airstrike in north Gaza killed dozens of people, as parliament bans UNRWA**
 
-You can read more about it [here](https://www.statesman.com/story/news/politics/2024/10/29/what-time-kamala-harris-speech-rally-ellipse-washington-dc-watch-live-stream/75921215007/).
+You can read more about it [here](https://www.npr.org/2024/10/29/nx-s1-5170281/israel-hamas-war-north-gaza-airstrike-unrwa-ban).
 
 ## Requirements
 - Python 3.8
