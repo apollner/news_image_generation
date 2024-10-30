@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Puerto Ricans in must-win state say Trump rally joke won’t be forgotten**
+**Death from Ebola-like virus reported in Iowa after travel to West Africa**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cgj7689v757o).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/28/lassa-fever-ebola-iowa/).
 
 ## Requirements
 - Python 3.8
