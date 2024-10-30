@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli airstrike in north Gaza killed dozens of people, as parliament bans UNRWA**
+**Channing Tatum and Zoë Kravitz split, call off engagement after 3 years together: report**
 
-You can read more about it [here](https://www.npr.org/2024/10/29/nx-s1-5170281/israel-hamas-war-north-gaza-airstrike-unrwa-ban).
+You can read more about it [here](https://pagesix.com/2024/10/29/celebrity-news/channing-tatum-and-zoe-kravitz-split/).
 
 ## Requirements
 - Python 3.8
