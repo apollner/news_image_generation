@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tom Brady Posted A Cryptic Instagram Story Amid Reports That Gisele Is “Excited” About Her Third Pregnancy**
+**North Korea sends foreign minister to Russia as its troops train to fight against Ukraine**
 
-You can read more about it [here](https://www.buzzfeed.com/ellendurney/tom-brady-post-after-gisele-bundchen-pregnancy).
+You can read more about it [here](https://apnews.com/article/north-korea-russia-ukraine-war-choe-son-hui-foreign-minister-c67d98128d06e8959aa34f21428f5081).
 
 ## Requirements
 - Python 3.8
