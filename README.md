@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death from Ebola-like virus reported in Iowa after travel to West Africa**
+**Israel has banned the UN agency for Palestinian refugees. That could be devastating for millions**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/10/28/lassa-fever-ebola-iowa/).
+You can read more about it [here](https://www.cnn.com/2024/10/28/middleeast/unrwa-israel-knesset-vote-ban-palestinians-intl/index.html).
 
 ## Requirements
 - Python 3.8
