@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ancient Critter Preserved in Fool’s Gold Flaunts a ‘Great Appendage’**
+**Tom Brady Posted A Cryptic Instagram Story Amid Reports That Gisele Is “Excited” About Her Third Pregnancy**
 
-You can read more about it [here](https://gizmodo.com/ancient-critter-preserved-in-fools-gold-flaunts-a-great-appendage-2000517642).
+You can read more about it [here](https://www.buzzfeed.com/ellendurney/tom-brady-post-after-gisele-bundchen-pregnancy).
 
 ## Requirements
 - Python 3.8
