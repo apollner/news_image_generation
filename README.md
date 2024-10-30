@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How American Tax Breaks Brought a Chinese Solar Energy Giant to Ohio**
+**Iran executes German-Iranian Jamshid Sharmahd**
 
-You can read more about it [here](https://www.bloomberg.com/news/features/2024-10-29/ira-investment-created-us-jobs-and-tax-breaks-for-chinese-solar-firms).
+You can read more about it [here](https://www.dw.com/en/iran-executes-german-iranian-jamshid-sharmahd/a-70622205).
 
 ## Requirements
 - Python 3.8
