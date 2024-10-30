@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean “Diddy” Combs Accused In New Lawsuits of Sexually Assaulting 10- and 17-Year-Old Boys**
+**Harris to give speech in DC as Trump campaigns in Pennsylvania one week to Election Day**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/sean-diddy-combs-new-lawsuits-sexual-assault-young-boys-1236047252/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-10-29-24/index.html).
 
 ## Requirements
 - Python 3.8
