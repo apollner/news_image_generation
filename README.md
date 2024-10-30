@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newspapers That Backed Joe Biden Last Time Won't Endorse Kamala Harris**
+**Game 3 takeaways: Dodgers take 3-0 World Series lead on Yankees**
 
-You can read more about it [here](https://www.newsweek.com/newspapers-that-backed-joe-biden-last-time-wont-endorse-kamala-harris-1976413).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41942783/2024-world-series-game-3-los-angeles-dodgers-new-york-yankees-updates-analysis-takeaways).
 
 ## Requirements
 - Python 3.8
