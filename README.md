@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen accused of fatally stabbing 3 girls at U.K. dance class made ricin and had al Qaeda training manual, police say**
+**Menendez brothers' attorney Mark Geragos asking for murder conviction to be reduced to voluntary manslaughter**
 
-You can read more about it [here](https://www.cbsnews.com/news/axel-rudakubana-girls-killed-uk-dance-class-ricin-al-qaeda-manual-police/).
+You can read more about it [here](https://abc7.com/post/menendez-brothers-attorney-mark-geragos-asking-murder-conviction-reduced-voluntary-manslaughter/15484934/).
 
 ## Requirements
 - Python 3.8
