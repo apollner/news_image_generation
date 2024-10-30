@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ford stock falls despite Q3 sales beat, as it guides to lower end of 2024 profit forecast**
+**McDonald's is about to report earnings. Here's what to expect**
 
-You can read more about it [here](https://finance.yahoo.com/news/ford-stock-falls-despite-q3-sales-beat-as-it-guides-to-lower-end-of-2024-profit-forecast-202614405.html).
+You can read more about it [here](https://www.cnbc.com/2024/10/29/mcdonalds-mcd-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
