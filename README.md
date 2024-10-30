@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police are searching for the person who set ballot boxes on fire in Washington and Oregon. Here’s what we know**
+**What time is Kamala Harris' speech tonight? How to watch live**
 
-You can read more about it [here](https://www.cnn.com/2024/10/29/us/ballot-box-fires-what-we-know/index.html).
+You can read more about it [here](https://www.statesman.com/story/news/politics/2024/10/29/what-time-kamala-harris-speech-rally-ellipse-washington-dc-watch-live-stream/75921215007/).
 
 ## Requirements
 - Python 3.8
