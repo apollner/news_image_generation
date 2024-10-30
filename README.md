@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Pelosi attack: David DePape sentenced to life in prison in state trial**
+**Police are searching for the person who set ballot boxes on fire in Washington and Oregon. Here’s what we know**
 
-You can read more about it [here](https://abcnews.go.com/US/david-depape-paul-pelosi-state-sentence/story?id\\u003d115274832).
+You can read more about it [here](https://www.cnn.com/2024/10/29/us/ballot-box-fires-what-we-know/index.html).
 
 ## Requirements
 - Python 3.8
