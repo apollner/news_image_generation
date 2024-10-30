@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronaut Don Pettit is a giant nerd, and we’re all luckier for it**
+**Puerto Ricans in must-win state say Trump rally joke won’t be forgotten**
 
-You can read more about it [here](https://arstechnica.com/space/2024/10/nasa-astronaut-don-pettit-is-a-giant-nerd-and-were-all-luckier-for-it/).
+You can read more about it [here](https://www.bbc.com/news/articles/cgj7689v757o).
 
 ## Requirements
 - Python 3.8
