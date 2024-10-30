@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean Combs Sued for Alleged Sexual Assault of 10-Year-Old Boy in New Round of Lawsuits**
+**Freeman and Buehler lead Dodgers past slumping Yankees 4-2 for 3-0 advantage in World Series**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/sean-diddy-combs-sexual-assault-lawsuits-buzbee-1235144062/).
+You can read more about it [here](https://apnews.com/article/world-series-dodgers-yankees-game-3-score-d3099c04a70ae7732d69da0821e3f5dd).
 
 ## Requirements
 - Python 3.8
