@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea sends foreign minister to Russia as its troops train to fight against Ukraine**
+**Stefon Diggs out for season with torn ACL**
 
-You can read more about it [here](https://apnews.com/article/north-korea-russia-ukraine-war-choe-son-hui-foreign-minister-c67d98128d06e8959aa34f21428f5081).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stefon-diggs-out-for-season-with-torn-acl).
 
 ## Requirements
 - Python 3.8
