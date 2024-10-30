@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CIA director floated 28-day Gaza ceasefire, hostage deal in Doha**
+**Boeing to raise up to $24.3 bln to shore up finances, stave off downgrade**
 
-You can read more about it [here](https://www.axios.com/2024/10/29/gaza-ceasefire-hostage-talks-doha).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-launches-offering-90-mln-common-shares-5-bln-depositary-shares-2024-10-28/).
 
 ## Requirements
 - Python 3.8
