@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's is about to report earnings. Here's what to expect**
+**How American Tax Breaks Brought a Chinese Solar Energy Giant to Ohio**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/29/mcdonalds-mcd-earnings-q3-2024.html).
+You can read more about it [here](https://www.bloomberg.com/news/features/2024-10-29/ira-investment-created-us-jobs-and-tax-breaks-for-chinese-solar-firms).
 
 ## Requirements
 - Python 3.8
