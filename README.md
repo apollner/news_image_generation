@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald's is about to report earnings. Here's what to expect**
+**CIA director floated 28-day Gaza ceasefire, hostage deal in Doha**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/29/mcdonalds-mcd-earnings-q3-2024.html).
+You can read more about it [here](https://www.axios.com/2024/10/29/gaza-ceasefire-hostage-talks-doha).
 
 ## Requirements
 - Python 3.8
