@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stefon Diggs out for season with torn ACL**
+**Teen accused of fatally stabbing 3 girls at U.K. dance class made ricin and had al Qaeda training manual, police say**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/stefon-diggs-out-for-season-with-torn-acl).
+You can read more about it [here](https://www.cbsnews.com/news/axel-rudakubana-girls-killed-uk-dance-class-ricin-al-qaeda-manual-police/).
 
 ## Requirements
 - Python 3.8
