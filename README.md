@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Series 2024: Freddie Freeman, Walker Buehler lead Dodgers past Yankees for commanding 3-0 lead**
+**Death from Ebola-like virus reported in Iowa after travel to West Africa**
 
-You can read more about it [here](https://sports.yahoo.com/live/world-series-2024-freddie-freeman-walker-buehler-lead-dodgers-past-yankees-for-commanding-3-0-lead-230010724.html).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/28/lassa-fever-ebola-iowa/).
 
 ## Requirements
 - Python 3.8
