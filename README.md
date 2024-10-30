@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran executes German-Iranian Jamshid Sharmahd**
+**Israel votes to ban UN aid agency, Palestinians say 100,000 residents trapped**
 
-You can read more about it [here](https://www.dw.com/en/iran-executes-german-iranian-jamshid-sharmahd/a-70622205).
+You can read more about it [here](https://www.reuters.com/world/middle-east/palestinians-say-100000-residents-trapped-israels-north-gaza-assault-2024-10-28/).
 
 ## Requirements
 - Python 3.8
