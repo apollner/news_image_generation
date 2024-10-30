@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris to give speech in DC as Trump campaigns in Pennsylvania one week to Election Day**
+**Newspapers That Backed Joe Biden Last Time Won't Endorse Kamala Harris**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-10-29-24/index.html).
+You can read more about it [here](https://www.newsweek.com/newspapers-that-backed-joe-biden-last-time-wont-endorse-kamala-harris-1976413).
 
 ## Requirements
 - Python 3.8
