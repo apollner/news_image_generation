@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel votes to ban UN aid agency, Palestinians say 100,000 residents trapped**
+**Game 3 takeaways: Dodgers take 3-0 World Series lead on Yankees**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/palestinians-say-100000-residents-trapped-israels-north-gaza-assault-2024-10-28/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/41942783/2024-world-series-game-3-los-angeles-dodgers-new-york-yankees-updates-analysis-takeaways).
 
 ## Requirements
 - Python 3.8
