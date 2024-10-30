@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs accused of sexually assaulting 10- and 17-year-old boys in new lawsuits**
+**North Korea’s elite troops are in Russia to fight Ukraine: What we know**
 
-You can read more about it [here](https://www.inquirer.com/entertainment/sean-diddy-combs-sexual-assault-10-17-year-old-boys-20241029.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/29/north-korea-elite-troops-russia-ukraine-war/).
 
 ## Requirements
 - Python 3.8
