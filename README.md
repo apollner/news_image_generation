@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing to raise up to $24.3 bln to shore up finances, stave off downgrade**
+**Ford stock falls despite Q3 sales beat, as it guides to lower end of 2024 profit forecast**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-launches-offering-90-mln-common-shares-5-bln-depositary-shares-2024-10-28/).
+You can read more about it [here](https://finance.yahoo.com/news/ford-stock-falls-despite-q3-sales-beat-as-it-guides-to-lower-end-of-2024-profit-forecast-202614405.html).
 
 ## Requirements
 - Python 3.8
