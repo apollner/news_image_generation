@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Hopeful they'll move our country forward': George W. Bush's daughter campaigns for Harris**
+**Sean ‘Diddy’ Combs accused of sexually assaulting 10- and 17-year-old boys in new lawsuits**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/10/29/barbara-bush-daughter-harris-campaign/75912669007/).
+You can read more about it [here](https://www.inquirer.com/entertainment/sean-diddy-combs-sexual-assault-10-17-year-old-boys-20241029.html).
 
 ## Requirements
 - Python 3.8
