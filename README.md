@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Menendez brothers' attorney Mark Geragos asking for murder conviction to be reduced to voluntary manslaughter**
+**Paul Pelosi attack: David DePape sentenced to life in prison in state trial**
 
-You can read more about it [here](https://abc7.com/post/menendez-brothers-attorney-mark-geragos-asking-murder-conviction-reduced-voluntary-manslaughter/15484934/).
+You can read more about it [here](https://abcnews.go.com/US/david-depape-paul-pelosi-state-sentence/story?id\\u003d115274832).
 
 ## Requirements
 - Python 3.8
