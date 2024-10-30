@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gisele Bündchen's ex Tom Brady shares cryptic post after model's pregnancy news goes public**
+**Russia fires missiles to simulate 'massive' response to a nuclear attack**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/gisele-bundchens-ex-tom-brady-shares-cryptic-post-after-models-pregnancy-news-goes-public).
+You can read more about it [here](https://www.jpost.com/breaking-news/article-826682).
 
 ## Requirements
 - Python 3.8
