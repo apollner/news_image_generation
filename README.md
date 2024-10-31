@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia prosecutors investigating allegations of election fraud**
+**Prisco's Week 9 NFL picks: Lions knock off host Packers in NFC North showdown; surging Rams topple Seahawks**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/10/30/georgia-prosecutors-investigating-allegations-of-election-fraud).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-9-nfl-picks-lions-knock-off-host-packers-in-nfc-north-showdown-surging-rams-topple-seahawks/).
 
 ## Requirements
 - Python 3.8
