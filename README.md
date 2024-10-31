@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden clarifies 'garbage' comment after fresh US election row**
+**Alphabet stock surges as earnings crush estimates on strong cloud growth**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cdd09e4nl30o).
+You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-as-earnings-crush-estimates-on-strong-cloud-growth-213627222.html).
 
 ## Requirements
 - Python 3.8
