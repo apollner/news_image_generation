@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tax, wages and prices - what the Budget means for you and your money**
+**Marvel’s 2025 TV Slate Revealed, Including First Looks at ‘Wonder Man,’ Animated ‘Spider-Man’ and ‘Wakanda’ Shows**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx25w7qpr0yo).
+You can read more about it [here](https://variety.com/2024/tv/news/marvel-tv-wonder-man-daredevil-spider-man-wakanda-first-looks-1236194677/).
 
 ## Requirements
 - Python 3.8
