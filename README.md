@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden suggests Trump supporters are ‘garbage’ after comic’s insult of Puerto Rico**
+**'I'm just figuring it out' | Shawn Mendes opens up about sexuality, public's speculations at Red Rocks concert**
 
-You can read more about it [here](https://apnews.com/article/biden-trump-supporters-garbage-puerto-rico-comic-e62ccf9108ba0ca8d1ee694f91a6867e).
+You can read more about it [here](https://www.9news.com/article/news/entertainment-news/shawn-mendes-discusses-sexuality-speculations-red-rocks-colorado-concert/73-eb852826-a2e6-4787-93d6-533f6fd5f2e3).
 
 ## Requirements
 - Python 3.8
