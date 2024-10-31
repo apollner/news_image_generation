@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dems see signs for optimism in gender gap in early vote**
+**Google says its next-gen AI agents won’t launch until 2025 at the earliest**
 
-You can read more about it [here](https://www.politico.com/news/2024/10/29/gender-gap-early-voting-00186155).
+You can read more about it [here](https://techcrunch.com/2024/10/29/google-says-its-next-gen-ai-agents-wont-launch-until-2025-at-the-earliest/).
 
 ## Requirements
 - Python 3.8
