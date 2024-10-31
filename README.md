@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I'm just figuring it out' | Shawn Mendes opens up about sexuality, public's speculations at Red Rocks concert**
+**Trump rally’s Puerto Rico slur lands with a thud in Pennsylvania**
 
-You can read more about it [here](https://www.9news.com/article/news/entertainment-news/shawn-mendes-discusses-sexuality-speculations-red-rocks-colorado-concert/73-eb852826-a2e6-4787-93d6-533f6fd5f2e3).
+You can read more about it [here](https://www.ft.com/content/c5ab17e7-1ad4-4ce2-b8aa-10e90b20707c).
 
 ## Requirements
 - Python 3.8
