@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prisco's Week 9 NFL picks: Lions knock off host Packers in NFC North showdown; surging Rams topple Seahawks**
+**Marvel’s 2025 TV Slate Revealed, Including First Looks at ‘Wonder Man,’ Animated ‘Spider-Man’ and ‘Wakanda’ Shows**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-9-nfl-picks-lions-knock-off-host-packers-in-nfc-north-showdown-surging-rams-topple-seahawks/).
+You can read more about it [here](https://variety.com/2024/tv/news/marvel-tv-wonder-man-daredevil-spider-man-wakanda-first-looks-1236194677/).
 
 ## Requirements
 - Python 3.8
