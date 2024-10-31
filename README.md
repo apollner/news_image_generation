@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris gives closing argument speech at the Ellipse, offering "a different path" than Trump**
+**Paul Pelosi attacker sentenced to life in prison in California trial**
 
-You can read more about it [here](https://www.cbsnews.com/news/kamala-harris-speech-ellipse-donald-trump-2024-election/).
+You can read more about it [here](https://www.bbc.com/news/articles/cje09qx348do).
 
 ## Requirements
 - Python 3.8
