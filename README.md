@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Channing Tatum and Zoë Kravitz split, call off engagement after 3 years together: report**
+**Dems see signs for optimism in gender gap in early vote**
 
-You can read more about it [here](https://pagesix.com/2024/10/29/celebrity-news/channing-tatum-and-zoe-kravitz-split/).
+You can read more about it [here](https://www.politico.com/news/2024/10/29/gender-gap-early-voting-00186155).
 
 ## Requirements
 - Python 3.8
