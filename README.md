@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Will Venable to be named White Sox manager (source)**
+**Biden clarifies 'garbage' comment after fresh US election row**
 
-You can read more about it [here](https://www.mlb.com/news/will-venable-white-sox-manager).
+You can read more about it [here](https://www.bbc.com/news/articles/cdd09e4nl30o).
 
 ## Requirements
 - Python 3.8
