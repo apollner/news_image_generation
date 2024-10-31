@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 100 researchers call for pause in Musk Starlink launches**
+**Officials call for hate crime charges after Jewish man shot walking to Chicago synagogue**
 
-You can read more about it [here](https://thehill.com/policy/energy-environment/4962207-researchers-call-for-pause-musk-starlink-launches/).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/30/chicago-shooting-jewish-synagogue/75934186007/).
 
 ## Requirements
 - Python 3.8
