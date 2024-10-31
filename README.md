@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**EA Boss Says BioWare Has Returned to Its Strengths With Dragon Age, Predicts 'Breakout Potential' Thanks in Part to 'Limited Competition'**
+**Will Venable to be named White Sox manager (source)**
 
-You can read more about it [here](https://www.ign.com/articles/ea-boss-says-bioware-has-returned-to-its-strengths-with-dragon-age-predicts-breakout-potential-thanks-in-part-to-limited-competition).
+You can read more about it [here](https://www.mlb.com/news/will-venable-white-sox-manager).
 
 ## Requirements
 - Python 3.8
