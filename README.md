@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Pelosi attacker sentenced to life in prison in California trial**
+**‘No somos ninguna basura’: Philly-area Puerto Ricans react to ‘racist’ joke at Trump rally**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cje09qx348do).
+You can read more about it [here](http://whyy.org/articles/trump-rally-racist-joke-philadelphia-puerto-ricans/).
 
 ## Requirements
 - Python 3.8
