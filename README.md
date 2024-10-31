@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alphabet stock surges as earnings crush estimates on strong cloud growth**
+**NFL odds, lines, picks, spreads, bets, predictions for Week 9, 2024: Model loving Bears, Seahawks**
 
-You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-as-earnings-crush-estimates-on-strong-cloud-growth-213627222.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-for-week-9-2024-model-loving-bears-seahawks/).
 
 ## Requirements
 - Python 3.8
