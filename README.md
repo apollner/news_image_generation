@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jimmy Kimmel Makes Case Against Donald Trump in Plea to Moderate Republicans: ‘He’s the Exact Meeting Point Between QAnon and QVC’**
+**EA Boss Says BioWare Has Returned to Its Strengths With Dragon Age, Predicts 'Breakout Potential' Thanks in Part to 'Limited Competition'**
 
-You can read more about it [here](https://variety.com/2024/tv/news/jimmy-kimmel-urges-republicans-not-vote-donald-trump-1236194616/).
+You can read more about it [here](https://www.ign.com/articles/ea-boss-says-bioware-has-returned-to-its-strengths-with-dragon-age-predicts-breakout-potential-thanks-in-part-to-limited-competition).
 
 ## Requirements
 - Python 3.8
