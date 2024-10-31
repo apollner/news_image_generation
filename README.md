@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google says its next-gen AI agents won’t launch until 2025 at the earliest**
+**Biden suggests Trump supporters are ‘garbage’ after comic’s insult of Puerto Rico**
 
-You can read more about it [here](https://techcrunch.com/2024/10/29/google-says-its-next-gen-ai-agents-wont-launch-until-2025-at-the-earliest/).
+You can read more about it [here](https://apnews.com/article/biden-trump-supporters-garbage-puerto-rico-comic-e62ccf9108ba0ca8d1ee694f91a6867e).
 
 ## Requirements
 - Python 3.8
