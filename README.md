@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 63 people die in devastating flash floods in eastern Spain, officials say**
+**Biden clarifies 'garbage' comment after fresh US election row**
 
-You can read more about it [here](https://apnews.com/article/spain-floods-valencia-weather-ef0dffabe1a106a05c239dca4dfec1ae).
+You can read more about it [here](https://www.bbc.com/news/articles/cdd09e4nl30o).
 
 ## Requirements
 - Python 3.8
