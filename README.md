@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police say man behind ballot box arsons has metalworking experience and may be planning more attacks**
+**Microsoft Earnings: Stock Jumps As AI Drives Record Profits**
 
-You can read more about it [here](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99).
+You can read more about it [here](https://www.forbes.com/sites/dereksaul/2024/10/30/microsoft-earnings-stock-jumps-as-ai-drives-record-profits/).
 
 ## Requirements
 - Python 3.8
