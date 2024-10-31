@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The sad, bizarre tale of hype fanning fears modern cryptography was slain**
+**Tax, wages and prices - what the Budget means for you and your money**
 
-You can read more about it [here](https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/).
+You can read more about it [here](https://www.bbc.com/news/articles/cx25w7qpr0yo).
 
 ## Requirements
 - Python 3.8
