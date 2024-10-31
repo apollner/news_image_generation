@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Police say man behind ballot box arsons has metalworking experience and may be planning more attacks**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99).
 
 ## Requirements
 - Python 3.8
