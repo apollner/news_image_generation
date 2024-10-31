@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Houthis Went From Ragtag Rebels to Global Threat**
+**Active shooter at Atlanta hotel is taken into custody after multiple shots fired**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/how-the-houthis-went-from-ragtag-rebels-to-global-threat-5aa268d0).
+You can read more about it [here](https://www.cnn.com/2024/10/29/us/active-shooter-at-atlanta-hotel-is-taken-into-custody-after-multiple-shots-fired/index.html).
 
 ## Requirements
 - Python 3.8
