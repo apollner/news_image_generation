@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marvel’s 2025 TV Slate Revealed, Including First Looks at ‘Wonder Man,’ Animated ‘Spider-Man’ and ‘Wakanda’ Shows**
+**Grammys Shocker: Awards Moving to Disney From CBS**
 
-You can read more about it [here](https://variety.com/2024/tv/news/marvel-tv-wonder-man-daredevil-spider-man-wakanda-first-looks-1236194677/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/grammy-awards-moving-to-disney-from-cbs-2027-1236049335/).
 
 ## Requirements
 - Python 3.8
