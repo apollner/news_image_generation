@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lisa Kudrow Pays Tribute To 'Friends' TV Mom Teri Garr Calling Her "A Comedic Acting Genius"**
+**'Unrwa means everything to us': Gazans fear aid collapse**
 
-You can read more about it [here](http://deadline.com/2024/10/lisa-kudrow-tribute-friends-tv-mom-teri-garr-1236161787/).
+You can read more about it [here](https://www.bbc.com/news/articles/cr4lryx7304o).
 
 ## Requirements
 - Python 3.8
