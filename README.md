@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump rally’s Puerto Rico slur lands with a thud in Pennsylvania**
+**Harris gives closing argument speech at the Ellipse, offering "a different path" than Trump**
 
-You can read more about it [here](https://www.ft.com/content/c5ab17e7-1ad4-4ce2-b8aa-10e90b20707c).
+You can read more about it [here](https://www.cbsnews.com/news/kamala-harris-speech-ellipse-donald-trump-2024-election/).
 
 ## Requirements
 - Python 3.8
