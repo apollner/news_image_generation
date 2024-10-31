@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heroes and heartbreak: 36 hours of hell during Helene's historic floods**
+**Alphabet stock surges as earnings crush estimates on strong cloud growth**
 
-You can read more about it [here](https://www.usatoday.com/story/news/investigations/2024/10/30/helene/75823281007/).
+You can read more about it [here](https://finance.yahoo.com/news/alphabet-stock-surges-as-earnings-crush-estimates-on-strong-cloud-growth-213627222.html).
 
 ## Requirements
 - Python 3.8
