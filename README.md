@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Houthis Went From Ragtag Rebels to Global Threat**
+**Paul Pelosi attacker sentenced to life in prison in California trial**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/how-the-houthis-went-from-ragtag-rebels-to-global-threat-5aa268d0).
+You can read more about it [here](https://www.bbc.com/news/articles/cje09qx348do).
 
 ## Requirements
 - Python 3.8
