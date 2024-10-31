@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘No somos ninguna basura’: Philly-area Puerto Ricans react to ‘racist’ joke at Trump rally**
+**Heroes and heartbreak: 36 hours of hell during Helene's historic floods**
 
-You can read more about it [here](http://whyy.org/articles/trump-rally-racist-joke-philadelphia-puerto-ricans/).
+You can read more about it [here](https://www.usatoday.com/story/news/investigations/2024/10/30/helene/75823281007/).
 
 ## Requirements
 - Python 3.8
