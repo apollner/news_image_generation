@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Paul Pelosi attacker sentenced to life in prison in California trial**
+**121-loss White Sox turn to Venable, sources say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cje09qx348do).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/42083747/chicago-white-sox-hiring-venable-manager).
 
 ## Requirements
 - Python 3.8
