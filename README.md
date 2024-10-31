@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**121-loss White Sox turn to Venable, sources say**
+**Jimmy Kimmel Makes Case Against Donald Trump in Plea to Moderate Republicans: ‘He’s the Exact Meeting Point Between QAnon and QVC’**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/42083747/chicago-white-sox-hiring-venable-manager).
+You can read more about it [here](https://variety.com/2024/tv/news/jimmy-kimmel-urges-republicans-not-vote-donald-trump-1236194616/).
 
 ## Requirements
 - Python 3.8
