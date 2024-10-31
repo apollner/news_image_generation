@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Earnings Beat but AI Expenses Mount.**
+**A first look at Apple’s redesigned Mac Mini and its other new Macs**
 
-You can read more about it [here](https://www.barrons.com/articles/microsoft-earnings-stock-price-e12bc920).
+You can read more about it [here](https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos).
 
 ## Requirements
 - Python 3.8
