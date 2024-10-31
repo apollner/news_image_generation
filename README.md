@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What is Unrwa and why has Israel banned it?**
+**How the Houthis Went From Ragtag Rebels to Global Threat**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8jy9v43z89o).
+You can read more about it [here](https://www.wsj.com/world/middle-east/how-the-houthis-went-from-ragtag-rebels-to-global-threat-5aa268d0).
 
 ## Requirements
 - Python 3.8
