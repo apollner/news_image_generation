@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials call for hate crime charges after Jewish man shot walking to Chicago synagogue**
+**Microsoft Earnings Beat but AI Expenses Mount.**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/30/chicago-shooting-jewish-synagogue/75934186007/).
+You can read more about it [here](https://www.barrons.com/articles/microsoft-earnings-stock-price-e12bc920).
 
 ## Requirements
 - Python 3.8
