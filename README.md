@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles sees city bus burned, store thefts and rowdy crowds after Dodgers win World Series**
+**Mortgage rates rise for fifth straight week**
 
-You can read more about it [here](https://apnews.com/article/dodgers-world-series-crowds-bus-burned-arrests-a42e1c2b4a069cb6cf3c92572000ecbc).
+You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-october-31-2024).
 
 ## Requirements
 - Python 3.8
