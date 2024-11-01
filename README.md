@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 95 killed and dozens missing in Spain’s flash floods**
+**Asia markets slip as BOJ holds rates; China factory activity expands for first time since April**
 
-You can read more about it [here](https://www.cnn.com/2024/10/30/europe/spain-flash-floods-intl/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/10/31/asia-markets.html).
 
 ## Requirements
 - Python 3.8
