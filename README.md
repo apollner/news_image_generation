@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN Polls: Harris and Trump remain neck and neck in Georgia and North Carolina**
+**The Gaming Legend Continues — AMD Introduces Next-Generation AMD Ryzen 7 9800X3D Processor**
 
-You can read more about it [here](https://www.cnn.com/2024/10/31/politics/cnn-poll-georgia-north-carolina/index.html).
+You can read more about it [here](https://ir.amd.com/news-events/press-releases/detail/1225/the-gaming-legend-continues-amd-introduces).
 
 ## Requirements
 - Python 3.8
