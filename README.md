@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, October 31, 2024**
+**Microsoft Shares Drop on Disappointing Cloud Growth Forecast**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/10/31/horoscope-for-thursday-october-31-2024).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-cloud-fuels-stronger-expected-203124073.html).
 
 ## Requirements
 - Python 3.8
