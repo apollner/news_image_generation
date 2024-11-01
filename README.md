@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Portland police say ballot box arsonist has ‘wealth of experience’ with welding, metal fabrication**
+**Microsoft Shares Drop on Disappointing Azure Growth Forecast**
 
-You can read more about it [here](https://www.opb.org/article/2024/10/30/portland-police-ballot-box-bomber-metal-fabrication/).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-cloud-fuels-stronger-expected-203124073.html).
 
 ## Requirements
 - Python 3.8
