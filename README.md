@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops in Russian uniforms are heading toward Ukraine, US says**
+**Shaun White Pranked Nina Dobrev Into Marrying Him**
 
-You can read more about it [here](https://apnews.com/article/united-states-north-korea-russia-ukraine-war-faeabb0b2c2ea162bbc6c4691df4d6c8).
+You can read more about it [here](http://www.vulture.com/article/shaun-white-nina-dobrev-engagement-proposal-prank.html).
 
 ## Requirements
 - Python 3.8
