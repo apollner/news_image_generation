@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A first look at Apple’s redesigned Mac Mini and its other new Macs**
+**North Korean troops in Russian uniforms are heading toward Ukraine, US says**
 
-You can read more about it [here](https://www.theverge.com/2024/10/30/24283861/apple-redesigned-mac-mini-macbook-pro-imac-m4-photos).
+You can read more about it [here](https://apnews.com/article/united-states-north-korea-russia-ukraine-war-faeabb0b2c2ea162bbc6c4691df4d6c8).
 
 ## Requirements
 - Python 3.8
