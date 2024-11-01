@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates rise for fifth straight week**
+**Donald Trump says he will protect women whether they ‘like it or not’**
 
-You can read more about it [here](https://www.foxbusiness.com/economy/mortgage-rates-october-31-2024).
+You can read more about it [here](https://www.ft.com/content/076cef9d-e435-4fe1-88d0-f5ebe8ac77d5).
 
 ## Requirements
 - Python 3.8
