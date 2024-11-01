@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian stocks dragged by tech, yen gains on BOJ's hawkish hints**
+**Police say the man behind ballot box fires has metalworking experience and might plan more attacks**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-31/).
+You can read more about it [here](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99).
 
 ## Requirements
 - Python 3.8
