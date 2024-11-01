@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Briefing: IDF hits north Gaza’s last functioning hospital, officials say; U.S. officials in Israel**
+**At least 95 killed and dozens missing in Spain’s flash floods**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/31/israel-iran-war-news-lebanon-gaza-palestine/).
+You can read more about it [here](https://www.cnn.com/2024/10/30/europe/spain-flash-floods-intl/index.html).
 
 ## Requirements
 - Python 3.8
