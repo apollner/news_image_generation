@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shaun White Pranked Nina Dobrev Into Marrying Him**
+**Even Mark Zuckerberg seems surprised by Meta's pace of spending on AI**
 
-You can read more about it [here](http://www.vulture.com/article/shaun-white-nina-dobrev-engagement-proposal-prank.html).
+You can read more about it [here](https://www.cnbc.com/2024/10/30/metas-mark-zuckerberg-seems-surprised-by-pace-of-spending-on-ai.html).
 
 ## Requirements
 - Python 3.8
