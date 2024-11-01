@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says "whether the women like it or not, I'm going to protect them" at Wisconsin rally**
+**Death toll in Spain's floods rises to 158, among Europe's worst storm disasters**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-protecting-women-whether-they-like-it-or-not-wisconsin/).
+You can read more about it [here](https://www.reuters.com/world/europe/spanish-rescue-teams-hunt-missing-after-deadly-floods-2024-10-31/).
 
 ## Requirements
 - Python 3.8
