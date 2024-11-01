@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Stock Slips To Worst Day In Years Despite Record Earnings**
+**North Korea’s long-range missile test signals its improved, potential capability to attack US**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2024/10/31/microsoft-stock-slips-to-worst-day-in-years-despite-record-earnings/).
+You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5).
 
 ## Requirements
 - Python 3.8
