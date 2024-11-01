@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian stocks dragged by tech, yen gains on BOJ's hawkish hints**
+**Analysts Cautious on Super Micro Computer (NASDAQ:SMCI) Post E&Y Exit**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-31/).
+You can read more about it [here](https://us.tipranks.com/news/analysts-cautious-on-super-micro-computer-nasdaqsmci-post-ey-exit).
 
 ## Requirements
 - Python 3.8
