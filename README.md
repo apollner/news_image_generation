@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah rocket attacks kill seven in northern Israel**
+**The Gaming Legend Continues — AMD Introduces Next-Generation AMD Ryzen 7 9800X3D Processor**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce8yjr3zyz8o).
+You can read more about it [here](https://ir.amd.com/news-events/press-releases/detail/1225/the-gaming-legend-continues-amd-introduces).
 
 ## Requirements
 - Python 3.8
