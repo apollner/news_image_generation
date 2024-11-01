@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police say the man behind ballot box fires has metalworking experience and might plan more attacks**
+**Starbucks CEO: Plans underway to pause price increases, remove iced energy drink, make coffee in 4 minutes or less**
 
-You can read more about it [here](https://apnews.com/article/ballot-drop-box-fires-portland-vancouver-60fea753ceb761624e6aba49f0e9dd99).
+You can read more about it [here](https://finance.yahoo.com/news/starbucks-ceo-plans-underway-to-pause-price-increases-remove-iced-energy-drink-make-coffee-in-4-minutes-or-less-000042046.html).
 
 ## Requirements
 - Python 3.8
