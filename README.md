@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft Shares Drop on Disappointing Azure Growth Forecast**
+**Deadly Israeli strike targeted 'spotter' on Beit Lahia building's roof, official says**
 
-You can read more about it [here](https://finance.yahoo.com/news/microsoft-cloud-fuels-stronger-expected-203124073.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c6247nwz73do).
 
 ## Requirements
 - Python 3.8
