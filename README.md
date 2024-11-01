@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death toll in Spain's floods rises to 158, among Europe's worst storm disasters**
+**About 8,000 North Korean troops at Ukraine's border are expected in combat in days, US says**
 
-You can read more about it [here](https://www.reuters.com/world/europe/spanish-rescue-teams-hunt-missing-after-deadly-floods-2024-10-31/).
+You can read more about it [here](https://apnews.com/article/south-korea-north-korea-troops-russia-ukraine-9ee96dc1d4f07ac0813c698e6873f96b).
 
 ## Requirements
 - Python 3.8
