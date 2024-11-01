@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What time does the 'Love is Blind' reunion drop? Will Tyler's kids be addressed?**
+**Asia markets slip as BOJ holds rates; China factory activity expands for first time since April**
 
-You can read more about it [here](https://www.cincinnati.com/story/entertainment/2024/10/30/what-time-does-love-is-blind-reunion-drop-everything-to-know/75921163007/).
+You can read more about it [here](https://www.cnbc.com/2024/10/31/asia-markets.html).
 
 ## Requirements
 - Python 3.8
