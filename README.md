@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Gaming Legend Continues — AMD Introduces Next-Generation AMD Ryzen 7 9800X3D Processor**
+**Los Angeles sees city bus burned, store thefts and rowdy crowds after Dodgers win World Series**
 
-You can read more about it [here](https://ir.amd.com/news-events/press-releases/detail/1225/the-gaming-legend-continues-amd-introduces).
+You can read more about it [here](https://apnews.com/article/dodgers-world-series-crowds-bus-burned-arrests-a42e1c2b4a069cb6cf3c92572000ecbc).
 
 ## Requirements
 - Python 3.8
