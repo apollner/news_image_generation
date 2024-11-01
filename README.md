@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Breathtaking Views: NASA’s Perseverance Rover Battles Slippery Terrain To Reach Mars’ Summit**
+**At least 95 killed and dozens missing in Spain’s flash floods**
 
-You can read more about it [here](https://scitechdaily.com/breathtaking-views-nasas-perseverance-rover-battles-slippery-terrain-to-reach-mars-summit/).
+You can read more about it [here](https://www.cnn.com/2024/10/30/europe/spain-flash-floods-intl/index.html).
 
 ## Requirements
 - Python 3.8
