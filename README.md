@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees blow 5-run lead with epic defensive meltdown as Dodgers rally to clinch World Series**
+**Analysts Cautious on Super Micro Computer (NASDAQ:SMCI) Post E&Y Exit**
 
-You can read more about it [here](https://apnews.com/article/world-series-yankees-errors-ff3ca215e6064c1983e4cce4f41a97e0).
+You can read more about it [here](https://us.tipranks.com/news/analysts-cautious-on-super-micro-computer-nasdaqsmci-post-ey-exit).
 
 ## Requirements
 - Python 3.8
