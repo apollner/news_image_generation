@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newly appointed Chicago Board of Education president resigns, mayor says**
+**Trump says "whether the women like it or not, I'm going to protect them" at Wisconsin rally**
 
-You can read more about it [here](https://abc7chicago.com/post/call-grow-new-chicago-board-education-president-rev-mitchell-johnson-resign-antisemitic-facebook-posts/15492695/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-protecting-women-whether-they-like-it-or-not-wisconsin/).
 
 ## Requirements
 - Python 3.8
