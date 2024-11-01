@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's Energy Infrastructure More Vulnerable To Future Attacks**
+**Bird flu has been found in a pig for the first time in the U.S.**
 
-You can read more about it [here](https://oilprice.com/Energy/Energy-General/Irans-Energy-Infrastructure-More-Vulnerable-To-Future-Attacks.html).
+You can read more about it [here](https://www.npr.org/2024/10/30/nx-s1-5172615/bird-flu-pig-oregon-first-infection-h5n1).
 
 ## Requirements
 - Python 3.8
