@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia markets slip as BOJ holds rates; China factory activity expands for first time since April**
+**Breathtaking Views: NASA’s Perseverance Rover Battles Slippery Terrain To Reach Mars’ Summit**
 
-You can read more about it [here](https://www.cnbc.com/2024/10/31/asia-markets.html).
+You can read more about it [here](https://scitechdaily.com/breathtaking-views-nasas-perseverance-rover-battles-slippery-terrain-to-reach-mars-summit/).
 
 ## Requirements
 - Python 3.8
