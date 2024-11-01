@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch: Aaron Judge error kick-starts Yankees' disastrous inning in Game 5**
+**Asian stocks dragged by tech, yen gains on BOJ's hawkish hints**
 
-You can read more about it [here](https://www.usatoday.com/story/sports/mlb/2024/10/30/yankees-game-5-earon-judge-error-dodgers-world-series/75953932007/).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-31/).
 
 ## Requirements
 - Python 3.8
