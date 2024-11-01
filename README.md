@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Gaming Legend Continues — AMD Introduces Next-Generation AMD Ryzen 7 9800X3D Processor**
+**Comcast Exploring Spinoff of NBCU Cable Networks Into New Company**
 
-You can read more about it [here](https://ir.amd.com/news-events/press-releases/detail/1225/the-gaming-legend-continues-amd-introduces).
+You can read more about it [here](https://variety.com/2024/biz/news/comcast-exploring-spinoff-cable-networks-1236196190/).
 
 ## Requirements
 - Python 3.8
