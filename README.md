@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starbucks CEO: Plans underway to pause price increases, remove iced energy drink, make coffee in 4 minutes or less**
+**Asian stocks dragged by tech, yen gains on BOJ's hawkish hints**
 
-You can read more about it [here](https://finance.yahoo.com/news/starbucks-ceo-plans-underway-to-pause-price-increases-remove-iced-energy-drink-make-coffee-in-4-minutes-or-less-000042046.html).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-10-31/).
 
 ## Requirements
 - Python 3.8
