@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu has been found in a pig for the first time in the U.S.**
+**Watch: Aaron Judge error kick-starts Yankees' disastrous inning in Game 5**
 
-You can read more about it [here](https://www.npr.org/2024/10/30/nx-s1-5172615/bird-flu-pig-oregon-first-infection-h5n1).
+You can read more about it [here](https://www.usatoday.com/story/sports/mlb/2024/10/30/yankees-game-5-earon-judge-error-dodgers-world-series/75953932007/).
 
 ## Requirements
 - Python 3.8
