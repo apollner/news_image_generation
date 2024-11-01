@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea’s long-range missile test signals its improved, potential capability to attack US**
+**Hezbollah rocket attacks kill seven in northern Israel**
 
-You can read more about it [here](https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5).
+You can read more about it [here](https://www.bbc.com/news/articles/ce8yjr3zyz8o).
 
 ## Requirements
 - Python 3.8
