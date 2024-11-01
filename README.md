@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly Israeli strike targeted 'spotter' on Beit Lahia building's roof, official says**
+**Iran's Energy Infrastructure More Vulnerable To Future Attacks**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c6247nwz73do).
+You can read more about it [here](https://oilprice.com/Energy/Energy-General/Irans-Energy-Infrastructure-More-Vulnerable-To-Future-Attacks.html).
 
 ## Requirements
 - Python 3.8
