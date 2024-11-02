@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to build a company that can save the world and generate a profit**
+**Exxon Mobil CEO Darren Woods on Q3 results: Company transformation is beginning to manifest itself**
 
-You can read more about it [here](https://techcrunch.com/2024/11/01/how-to-build-a-company-that-can-save-the-world-and-generate-a-profit/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003d4v_DBtlwVb8).
 
 ## Requirements
 - Python 3.8
