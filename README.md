@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Game of Thrones’ Movie in Early Development at Warner Bros.**
+**Halloween 2024: Jennifer Garner, Demi Moore, Kelly Clarkson's wild transformations**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/game-of-thrones-movie-warner-bros-1236050190/).
+You can read more about it [here](https://www.foxnews.com/entertainment/halloween-2024-jennifer-garner-demi-moore-kelly-clarksons-transformations).
 
 ## Requirements
 - Python 3.8
