@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Ulbrich: I was frustrated and angry at Malachi Corley, that will never happen again**
+**Look of the Week: Heidi Klum arrives at annual Halloween bash in elaborate E.T. costume**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-ulbrich-i-was-frustrated-and-angry-at-malachi-corley-that-will-never-happen-again).
+You can read more about it [here](https://www.cnn.com/2024/11/01/style/heidi-klum-halloween-costume-et-lotw/index.html).
 
 ## Requirements
 - Python 3.8
