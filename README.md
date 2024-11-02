@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea will back Russia until victory in Ukraine, foreign minister says**
+**Exxon Mobil CEO Darren Woods on Q3 results: Company transformation is beginning to manifest itself**
 
-You can read more about it [here](https://www.reuters.com/world/north-korean-foreign-minister-arrives-moscow-talks-2024-11-01/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003d4v_DBtlwVb8).
 
 ## Requirements
 - Python 3.8
