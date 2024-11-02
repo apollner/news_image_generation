@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jennifer Lopez says ‘every Latino in this country’ offended by Trump’s Madison Square Garden rally**
+**Asia-Pacific markets fall as investors await Fed rate verdict, U.S. elections**
 
-You can read more about it [here](https://www.cnn.com/2024/11/01/politics/jennifer-lopez-kamala-harris-latino-voters/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/01/asia-markets-live-updates-caixin-china-pmi-australia-ppi.html).
 
 ## Requirements
 - Python 3.8
