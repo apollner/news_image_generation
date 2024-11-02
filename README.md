@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exxon earnings beat, increases fourth-quarter dividend**
+**Young Thug released from Fulton County Jail trial after pleading guilty in RICO trial**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/01/exxon-xom-earnings-q3-2024.html).
+You can read more about it [here](https://www.wsbtv.com/news/local/fulton-county/young-thug-sentenced-ysl-rico-trial-after-pleading-guilty/CXWTWJ6LCNA23FIWL4SCKU5EXY/).
 
 ## Requirements
 - Python 3.8
