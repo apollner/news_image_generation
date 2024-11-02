@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WH edit of Biden's 'garbage' remark about Trump supporters breached stenographers' protocol: 'Spoilation of transcript integrity'**
+**Leni Klum, Charli D'Amelio and More Stars' Terror-ific Costumes at Heidi Klum's Halloween Party - E! Online**
 
-You can read more about it [here](https://nypost.com/2024/10/31/us-news/wh-edit-of-bidens-garbage-remark-about-trump-supporters-breached-stenographers-protocol-spoilation-of-transcript-integrity/).
+You can read more about it [here](https://www.eonline.com/news/1409282/leni-klum-charli-damelio-and-more-stars-terror-ific-costumes-at-heidi-klums-halloween-party).
 
 ## Requirements
 - Python 3.8
