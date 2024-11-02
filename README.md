@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young Thug released from Fulton County Jail trial after pleading guilty in RICO trial**
+**Transcript of Biden’s ‘garbage’ remarks altered by White House: AP**
 
-You can read more about it [here](https://www.wsbtv.com/news/local/fulton-county/young-thug-sentenced-ysl-rico-trial-after-pleading-guilty/CXWTWJ6LCNA23FIWL4SCKU5EXY/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/1/transcript-of-bidens-garbage-remarks-altered-by-white-house-ap).
 
 ## Requirements
 - Python 3.8
