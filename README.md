@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eerie Eclipse on the Red Planet: NASA’s Perseverance Spots “Googly Eye” in Mars Sky [Video]**
+**Lawrence: Trump’s ‘whether women like it or not’ comment revives Access Hollywood tape**
 
-You can read more about it [here](https://scitechdaily.com/?p=428168).
+You can read more about it [here](https://www.msnbc.com/the-last-word/watch/lawrence-trump-s-whether-women-like-it-or-not-comment-revives-access-hollywood-tape-223247429835).
 
 ## Requirements
 - Python 3.8
