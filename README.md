@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Zombie Star' could light up Halloween sky as NASA anticipates nova eruption**
+**Watch These Amazon Price Levels as Stock Jumps After Cloud Growth Drives Earnings Beat**
 
-You can read more about it [here](https://www.wisn.com/article/wisconsin-zombie-star-cosmic-nova-halloween-spectacle/62777806).
+You can read more about it [here](https://www.investopedia.com/watch-these-amazon-price-levels-as-stock-jumps-after-cloud-growth-drives-earnings-beat-8738073).
 
 ## Requirements
 - Python 3.8
