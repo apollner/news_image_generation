@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wilson's 'Jumpman' TD grab leaves Jets awestruck**
+**Jennifer Lopez says ‘every Latino in this country’ offended by Trump’s Madison Square Garden rally**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42124283/garrett-wilson-one-handed-td-grab-leaves-jets-awestruck).
+You can read more about it [here](https://www.cnn.com/2024/11/01/politics/jennifer-lopez-kamala-harris-latino-voters/index.html).
 
 ## Requirements
 - Python 3.8
