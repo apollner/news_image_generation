@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel has damaged or destroyed nearly a quarter of buildings in Lebanon’s south**
+**Jeff Ulbrich: I was frustrated and angry at Malachi Corley, that will never happen again**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/10/31/israel-war-lebanon-south-destruction/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jeff-ulbrich-i-was-frustrated-and-angry-at-malachi-corley-that-will-never-happen-again).
 
 ## Requirements
 - Python 3.8
