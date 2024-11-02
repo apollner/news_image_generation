@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US Supreme Court girds for rush of election-related litigation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-girds-rush-election-related-litigation-2024-11-01/).
 
 ## Requirements
 - Python 3.8
