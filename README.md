@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spain hit by deadliest floods in decades. Here’s what we know**
+**‘Game of Thrones’ Movie in Early Development at Warner Bros.**
 
-You can read more about it [here](https://www.cnn.com/2024/10/31/europe/spain-deadly-flash-flooding-wwk-intl/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/game-of-thrones-movie-warner-bros-1236050190/).
 
 ## Requirements
 - Python 3.8
