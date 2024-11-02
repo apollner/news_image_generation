@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Halloween 2024: Jennifer Garner, Demi Moore, Kelly Clarkson's wild transformations**
+**Texans vs. Jets where to watch: NFL kickoff time, live stream, odds, spread, prediction for Week 9 game**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/halloween-2024-jennifer-garner-demi-moore-kelly-clarksons-transformations).
+You can read more about it [here](https://www.cbssports.com/nfl/news/texans-vs-jets-where-to-watch-nfl-kickoff-time-live-stream-odds-spread-prediction-for-week-9-game/).
 
 ## Requirements
 - Python 3.8
