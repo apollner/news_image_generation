@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch These Amazon Price Levels as Stock Jumps After Cloud Growth Drives Earnings Beat**
+**Carol Lombardini Stepping Down As President Of AMPTP**
 
-You can read more about it [here](https://www.investopedia.com/watch-these-amazon-price-levels-as-stock-jumps-after-cloud-growth-drives-earnings-beat-8738073).
+You can read more about it [here](http://deadline.com/2024/10/carol-lombardini-stepping-down-amptp-president-1236164122/).
 
 ## Requirements
 - Python 3.8
