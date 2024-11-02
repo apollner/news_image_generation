@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walking pneumonia cases are rising among kids. Here’s what to know.**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/10/31/mycoplasma-pneumoniae-cases-rise-kids/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
