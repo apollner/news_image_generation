@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leni Klum, Charli D'Amelio and More Stars' Terror-ific Costumes at Heidi Klum's Halloween Party - E! Online**
+**Wilson's 'Jumpman' TD grab leaves Jets awestruck**
 
-You can read more about it [here](https://www.eonline.com/news/1409282/leni-klum-charli-damelio-and-more-stars-terror-ific-costumes-at-heidi-klums-halloween-party).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42124283/garrett-wilson-one-handed-td-grab-leaves-jets-awestruck).
 
 ## Requirements
 - Python 3.8
