@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapper Young Thug to be released on house arrest for time served as part of plea deal in Georgia RICO case**
+**Walking pneumonia cases are rising among kids. Here’s what to know.**
 
-You can read more about it [here](https://abcnews.go.com/US/rapper-young-thug-accepts-plea-deal-georgia-rico/story?id\\u003d115370318).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/10/31/mycoplasma-pneumoniae-cases-rise-kids/).
 
 ## Requirements
 - Python 3.8
