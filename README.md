@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia to join Dow Jones Industrial Average, replacing rival chipmaker Intel**
+**Float in Pennsylvania parade had person in chains resembling Harris**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/01/nvidia-to-join-dow-jones-industrial-average-replacing-intel.html).
+You can read more about it [here](https://thehill.com/homenews/race-politics/4966078-racist-offensive-halloween-parade/).
 
 ## Requirements
 - Python 3.8
