@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Transcript of Biden’s ‘garbage’ remarks altered by White House: AP**
+**Burnes to Mets? Adames to Braves? Best fits for top free agents not named Juan Soto**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/1/transcript-of-bidens-garbage-remarks-altered-by-white-house-ap).
+You can read more about it [here](https://www.espn.com/mlb/insider/story/_/id/42117549/mlb-2024-25-best-fits-top-free-agents-burnes-alonso-adames-snell).
 
 ## Requirements
 - Python 3.8
