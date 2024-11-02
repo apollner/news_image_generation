@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Look of the Week: Heidi Klum arrives at annual Halloween bash in elaborate E.T. costume**
+**Exxon earnings beat, increases fourth-quarter dividend**
 
-You can read more about it [here](https://www.cnn.com/2024/11/01/style/heidi-klum-halloween-costume-et-lotw/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/01/exxon-xom-earnings-q3-2024.html).
 
 ## Requirements
 - Python 3.8
