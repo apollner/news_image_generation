@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about the unprecedented floods that killed more than 200 in Spain**
+**North Korea boasts of ‘the world’s strongest’ missile, but experts say it’s too big to use in war**
 
-You can read more about it [here](https://apnews.com/article/flash-floods-spain-valencia-climate-change-what-to-know-f942142b82de24f5b4a18867bc32ae00).
+You can read more about it [here](https://nypost.com/2024/11/01/world-news/north-korea-boasts-of-the-worlds-strongest-missile-but-experts-say-its-too-big-to-use-in-war/).
 
 ## Requirements
 - Python 3.8
