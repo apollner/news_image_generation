@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Supreme Court girds for rush of election-related litigation**
+**2 dead, 6 wounded in shootings during Halloween celebration in downtown Orlando**
 
-You can read more about it [here](https://www.reuters.com/legal/us-supreme-court-girds-rush-election-related-litigation-2024-11-01/).
+You can read more about it [here](https://www.cbsnews.com/news/orlando-mass-shooting-possible/).
 
 ## Requirements
 - Python 3.8
