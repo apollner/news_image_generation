@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Burnes to Mets? Adames to Braves? Best fits for top free agents not named Juan Soto**
+**Nasdaq 100 futures rise as investors parse latest tech earnings, await jobs data: Live updates**
 
-You can read more about it [here](https://www.espn.com/mlb/insider/story/_/id/42117549/mlb-2024-25-best-fits-top-free-agents-burnes-alonso-adames-snell).
+You can read more about it [here](https://www.cnbc.com/2024/10/31/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
