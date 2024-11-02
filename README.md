@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dodgers' Simple Plan on Scouting Report to Beat Yankees in World Series Rang True**
+**North Korea will back Russia until victory in Ukraine, foreign minister says**
 
-You can read more about it [here](https://www.si.com/mlb/dodgers-simple-scouting-report-to-beat-yankees-in-world-series-rang-true).
+You can read more about it [here](https://www.reuters.com/world/north-korean-foreign-minister-arrives-moscow-talks-2024-11-01/).
 
 ## Requirements
 - Python 3.8
