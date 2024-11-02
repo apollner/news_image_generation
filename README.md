@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Carol Lombardini Stepping Down As President Of AMPTP**
+**WH edit of Biden's 'garbage' remark about Trump supporters breached stenographers' protocol: 'Spoilation of transcript integrity'**
 
-You can read more about it [here](http://deadline.com/2024/10/carol-lombardini-stepping-down-amptp-president-1236164122/).
+You can read more about it [here](https://nypost.com/2024/10/31/us-news/wh-edit-of-bidens-garbage-remark-about-trump-supporters-breached-stenographers-protocol-spoilation-of-transcript-integrity/).
 
 ## Requirements
 - Python 3.8
