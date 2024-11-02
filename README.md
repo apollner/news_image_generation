@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Obama shares thoughts on daughter Malia dropping last name professionally**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://thehill.com/homenews/4965100-obama-shares-thoughts-on-daughter-malia-dropping-last-name-professionally/).
 
 ## Requirements
 - Python 3.8
