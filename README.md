@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**'Zombie Star' could light up Halloween sky as NASA anticipates nova eruption**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wisn.com/article/wisconsin-zombie-star-cosmic-nova-halloween-spectacle/62777806).
 
 ## Requirements
 - Python 3.8
