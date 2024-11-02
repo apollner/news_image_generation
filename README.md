@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Obama shares thoughts on daughter Malia dropping last name professionally**
+**Rapper Young Thug to be released on house arrest for time served as part of plea deal in Georgia RICO case**
 
-You can read more about it [here](https://thehill.com/homenews/4965100-obama-shares-thoughts-on-daughter-malia-dropping-last-name-professionally/).
+You can read more about it [here](https://abcnews.go.com/US/rapper-young-thug-accepts-plea-deal-georgia-rico/story?id\\u003d115370318).
 
 ## Requirements
 - Python 3.8
