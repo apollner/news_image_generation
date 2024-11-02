@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia-Pacific markets fall as investors await Fed rate verdict, U.S. elections**
+**Eerie Eclipse on the Red Planet: NASA’s Perseverance Spots “Googly Eye” in Mars Sky [Video]**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/01/asia-markets-live-updates-caixin-china-pmi-australia-ppi.html).
+You can read more about it [here](https://scitechdaily.com/?p=428168).
 
 ## Requirements
 - Python 3.8
