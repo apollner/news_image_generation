@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 dead, 6 wounded in shootings during Halloween celebration in downtown Orlando**
+**Final jobs report before Election Day shows US economy added 12,000 positions amid strikes and storms**
 
-You can read more about it [here](https://www.cbsnews.com/news/orlando-mass-shooting-possible/).
+You can read more about it [here](https://www.cnn.com/2024/11/01/economy/us-jobs-report-october-final/index.html).
 
 ## Requirements
 - Python 3.8
