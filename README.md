@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawrence: Trump’s ‘whether women like it or not’ comment revives Access Hollywood tape**
+**Israel has damaged or destroyed nearly a quarter of buildings in Lebanon’s south**
 
-You can read more about it [here](https://www.msnbc.com/the-last-word/watch/lawrence-trump-s-whether-women-like-it-or-not-comment-revives-access-hollywood-tape-223247429835).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/10/31/israel-war-lebanon-south-destruction/).
 
 ## Requirements
 - Python 3.8
