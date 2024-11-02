@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exxon Mobil CEO Darren Woods on Q3 results: Company transformation is beginning to manifest itself**
+**What to know about the unprecedented floods that killed more than 200 in Spain**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003d4v_DBtlwVb8).
+You can read more about it [here](https://apnews.com/article/flash-floods-spain-valencia-climate-change-what-to-know-f942142b82de24f5b4a18867bc32ae00).
 
 ## Requirements
 - Python 3.8
