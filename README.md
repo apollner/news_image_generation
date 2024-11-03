@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Surfer loses part of leg in shark attack off Maui beach**
+**Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free**
 
-You can read more about it [here](https://www.hawaiinewsnow.com/2024/11/01/surfer-61-critically-injured-shark-attack-mauis-waiehu-beach-park/).
+You can read more about it [here](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free).
 
 ## Requirements
 - Python 3.8
