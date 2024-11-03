@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine’s Zelenskyy urges allies to act before North Korean troops reach the front**
+**Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-north-korea-troops-912e5e54ad3170bd77580405c6f97018).
+You can read more about it [here](https://apnews.com/article/breonna-taylor-brett-hankison-kentucky-louisville-3eccaf41592f8172e66e3557556a89be).
 
 ## Requirements
 - Python 3.8
