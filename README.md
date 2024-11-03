@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio State remains in Big Ten title mix, tops PSU**
+**Berkshire's cash soars to $325 billion, Buffett sells Apple, Bank of America**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/42152542/no-3-ohio-state-rides-stifling-defense-handles-no-4-penn-state).
+You can read more about it [here](https://www.reuters.com/markets/us/berkshires-cash-sets-record-buffett-sells-apple-bofa-operating-profit-falls-2024-11-02/).
 
 ## Requirements
 - Python 3.8
