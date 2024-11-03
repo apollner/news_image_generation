@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's enemies will receive crushing response - Khamenei**
+**UGA overcomes Beck's 3 INTs, rallies past Florida**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce3yqzx72zno).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/42156093/georgia-overcomes-carson-beck-3-ints-rallies-florida).
 
 ## Requirements
 - Python 3.8
