@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Channing Tatum & Jenna Dewan's Daughter Looks So Grown Up on Halloween**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1409453/channing-tatum-and-jenna-dewans-daughter-everly-looks-so-grown-up-on-halloween).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
