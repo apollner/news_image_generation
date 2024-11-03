@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UGA overcomes Beck's 3 INTs, rallies past Florida**
+**Alan Rachins, Actor on ‘L.A. Law’ and ‘Dharma & Greg,’ Dies at 82**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/42156093/georgia-overcomes-carson-beck-3-ints-rallies-florida).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/alan-rachins-dead-la-law-dharma-greg-1236052218/).
 
 ## Requirements
 - Python 3.8
