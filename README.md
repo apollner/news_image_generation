@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Union Joe,’ Harris and Trump all made gains with unions — but not enough**
+**‘Agatha All Along’ Ends On A High Note As Final Episodes Spellbind Strong Audience**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/01/harris-trump-unions-elections-00186873).
+You can read more about it [here](http://deadline.com/2024/11/agatha-all-along-finale-ratings-disney-1236165137/).
 
 ## Requirements
 - Python 3.8
