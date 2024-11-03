@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Agatha All Along’ Ends On A High Note As Final Episodes Spellbind Strong Audience**
+**Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert**
 
-You can read more about it [here](http://deadline.com/2024/11/agatha-all-along-finale-ratings-disney-1236165137/).
+You can read more about it [here](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice).
 
 ## Requirements
 - Python 3.8
