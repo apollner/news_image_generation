@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bubba Watson Donates House After Making Ace at Indonesian Masters**
+**WWE Crown Jewel 2024 Results: Winners, Live Grades, Reaction and Highlights**
 
-You can read more about it [here](https://www.si.com/golf/bubba-watson-donates-house-after-making-ace-at-indonesian-masters).
+You can read more about it [here](https://bleacherreport.com/articles/10141893-wwe-crown-jewel-2024-results-winners-live-grades-reaction-and-highlights).
 
 ## Requirements
 - Python 3.8
