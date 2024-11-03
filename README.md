@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US adds just 12,000 jobs as hurricanes and strikes produce worst report of Biden’s term**
+**Kim Jong Un has sent North Korean troops to Russia. What’s in it for him?**
 
-You can read more about it [here](https://www.ft.com/content/53cc7aa0-075b-437e-ba29-cef3dcc78767).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/01/north-korea-troops-russia-ukraine-kim-putin/).
 
 ## Requirements
 - Python 3.8
