@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fake videos from Russian propagandists aim to raise tensions ahead of Election Day**
+**Channing Tatum & Jenna Dewan's Daughter Looks So Grown Up on Halloween**
 
-You can read more about it [here](https://www.npr.org/2024/11/01/nx-s1-5170334/russia-propaganda-georgia-video).
+You can read more about it [here](https://www.eonline.com/news/1409453/channing-tatum-and-jenna-dewans-daughter-everly-looks-so-grown-up-on-halloween).
 
 ## Requirements
 - Python 3.8
