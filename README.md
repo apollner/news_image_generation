@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing CEO delivered ultimatum to Machinists. Union leaders believe him**
+**Gaza polio vaccination drive to restart in north of territory**
 
-You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/boeing-ceo-delivered-ultimatum-to-machinists-union-leaders-believe-him/).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2mnlg43k4o).
 
 ## Requirements
 - Python 3.8
