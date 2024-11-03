@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s at stake for stocks, bonds, and other markets as investors await election**
+**Ohio State vs. Penn State live stream, where to watch, TV channel, odds, spread, prediction, pick**
 
-You can read more about it [here](https://www.marketwatch.com/story/here-are-the-stakes-for-stocks-bonds-gold-and-other-markets-as-investors-await-too-close-to-call-election-ff6d4b7d).
+You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-penn-state-live-stream-where-to-watch-tv-channel-odds-spread-prediction-pick/).
 
 ## Requirements
 - Python 3.8
