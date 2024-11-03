@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio State vs. Penn State live stream, where to watch, TV channel, odds, spread, prediction, pick**
+**Ukraine’s Zelenskyy urges allies to act before North Korean troops reach the front**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-penn-state-live-stream-where-to-watch-tv-channel-odds-spread-prediction-pick/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-north-korea-troops-912e5e54ad3170bd77580405c6f97018).
 
 ## Requirements
 - Python 3.8
