@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid**
+**NASA's Perseverance rover captures 'googly-eye' Martian moon passing sun: See video**
 
-You can read more about it [here](https://apnews.com/article/breonna-taylor-brett-hankison-kentucky-louisville-3eccaf41592f8172e66e3557556a89be).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/31/nasa-rover-perseverance-mars-moon-video/75975653007/).
 
 ## Requirements
 - Python 3.8
