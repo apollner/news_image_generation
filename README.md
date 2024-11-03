@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fortnite kicked off its remixed Chapter 2 season with a Snoop Dogg and Ice Spice concert**
+**‘Union Joe,’ Harris and Trump all made gains with unions — but not enough**
 
-You can read more about it [here](https://www.theverge.com/2024/11/1/24283508/fortnite-remix-chapter-2-concert-snoop-dogg-ice-spice).
+You can read more about it [here](https://www.politico.com/news/2024/11/01/harris-trump-unions-elections-00186873).
 
 ## Requirements
 - Python 3.8
