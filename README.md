@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker**
+**Israel's path of destruction in southern Lebanon raises fears of an attempt to create a buffer zone**
 
-You can read more about it [here](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/).
+You can read more about it [here](https://apnews.com/article/hezbollah-israel-lebanon-buffer-zone-invasion-478f6970b049b3be52cc56c8e14b84e6).
 
 ## Requirements
 - Python 3.8
