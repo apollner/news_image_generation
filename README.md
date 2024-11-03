@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaza polio vaccination drive to restart in north of territory**
+**What’s at stake for stocks, bonds, and other markets as investors await election**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm2mnlg43k4o).
+You can read more about it [here](https://www.marketwatch.com/story/here-are-the-stakes-for-stocks-bonds-gold-and-other-markets-as-investors-await-too-close-to-call-election-ff6d4b7d).
 
 ## Requirements
 - Python 3.8
