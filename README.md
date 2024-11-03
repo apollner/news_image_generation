@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Union Joe,’ Harris and Trump all made gains with unions — but not enough**
+**Spain flooding: Search for survivors continues**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/01/harris-trump-unions-elections-00186873).
+You can read more about it [here](https://www.bbc.com/news/articles/cx27exg5g33o).
 
 ## Requirements
 - Python 3.8
