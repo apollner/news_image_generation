@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kim Jong Un has sent North Korean troops to Russia. What’s in it for him?**
+**Orlando mayor issues curfew, early end to alcohol sales for businesses near downtown mass shooting**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/01/north-korea-troops-russia-ukraine-kim-putin/).
+You can read more about it [here](https://www.wesh.com/article/orlando-mayor-curfew-end-alcohol-sales-businesses-downtown-mass-shooting/62787270).
 
 ## Requirements
 - Python 3.8
