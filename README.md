@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow average gains Nvidia, loses Intel as one chipmaker replaces another**
+**Maui surfer loses part of leg in shark attack, officials say**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/11/01/nvidia-intel-dow-jones-average/).
+You can read more about it [here](https://www.cbsnews.com/news/maui-surfer-loses-part-of-leg-shark-attack-waiehu-beach-hawaii/).
 
 ## Requirements
 - Python 3.8
