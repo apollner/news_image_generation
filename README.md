@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida's convicted killer clown released from prison for the murder of her husband's then-wife**
+**Iran's enemies will receive crushing response - Khamenei**
 
-You can read more about it [here](https://apnews.com/article/killer-clown-florida-sheila-warren-53f78ff2c505a277894a55b4cbd8e564).
+You can read more about it [here](https://www.bbc.com/news/articles/ce3yqzx72zno).
 
 ## Requirements
 - Python 3.8
