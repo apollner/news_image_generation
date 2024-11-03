@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA's Perseverance rover captures 'googly-eye' Martian moon passing sun: See video**
+**Ohio State remains in Big Ten title mix, tops PSU**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/10/31/nasa-rover-perseverance-mars-moon-video/75975653007/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/42152542/no-3-ohio-state-rides-stifling-defense-handles-no-4-penn-state).
 
 ## Requirements
 - Python 3.8
