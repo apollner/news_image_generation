@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ice Spice, Snoop Dogg Perform Times Square Concert for 'Fortnite'**
+**Boeing CEO delivered ultimatum to Machinists. Union leaders believe him**
 
-You can read more about it [here](https://variety.com/2024/gaming/news/ice-spice-snoop-dogg-eminem-juice-wrld-times-square-concert-fortnite-1236197948/).
+You can read more about it [here](https://www.seattletimes.com/business/boeing-aerospace/boeing-ceo-delivered-ultimatum-to-machinists-union-leaders-believe-him/).
 
 ## Requirements
 - Python 3.8
