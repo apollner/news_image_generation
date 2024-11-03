@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury convicts former Kentucky officer of using excessive force on Breonna Taylor during deadly raid**
+**Ohio State vs. Penn State live stream, where to watch, TV channel, odds, spread, prediction, pick**
 
-You can read more about it [here](https://apnews.com/article/breonna-taylor-brett-hankison-kentucky-louisville-3eccaf41592f8172e66e3557556a89be).
+You can read more about it [here](https://www.cbssports.com/college-football/news/ohio-state-vs-penn-state-live-stream-where-to-watch-tv-channel-odds-spread-prediction-pick/).
 
 ## Requirements
 - Python 3.8
