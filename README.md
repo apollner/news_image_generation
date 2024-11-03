@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Float in Pennsylvania parade had person in chains resembling Harris**
+**US adds just 12,000 jobs as hurricanes and strikes produce worst report of Biden’s term**
 
-You can read more about it [here](https://thehill.com/homenews/race-politics/4966078-racist-offensive-halloween-parade/).
+You can read more about it [here](https://www.ft.com/content/53cc7aa0-075b-437e-ba29-cef3dcc78767).
 
 ## Requirements
 - Python 3.8
