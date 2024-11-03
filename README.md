@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Berkshire's cash soars to $325 billion, Buffett sells Apple, Bank of America**
+**Bubba Watson Donates House After Making Ace at Indonesian Masters**
 
-You can read more about it [here](https://www.reuters.com/markets/us/berkshires-cash-sets-record-buffett-sells-apple-bofa-operating-profit-falls-2024-11-02/).
+You can read more about it [here](https://www.si.com/golf/bubba-watson-donates-house-after-making-ace-at-indonesian-masters).
 
 ## Requirements
 - Python 3.8
