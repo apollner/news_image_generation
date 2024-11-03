@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Orlando mayor issues curfew, early end to alcohol sales for businesses near downtown mass shooting**
+**Surfer loses part of leg in shark attack off Maui beach**
 
-You can read more about it [here](https://www.wesh.com/article/orlando-mayor-curfew-end-alcohol-sales-businesses-downtown-mass-shooting/62787270).
+You can read more about it [here](https://www.hawaiinewsnow.com/2024/11/01/surfer-61-critically-injured-shark-attack-mauis-waiehu-beach-park/).
 
 ## Requirements
 - Python 3.8
