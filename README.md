@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some iPhone 14 Plus phones have a camera issue, but Apple may fix it for free**
+**Fake videos from Russian propagandists aim to raise tensions ahead of Election Day**
 
-You can read more about it [here](https://www.theverge.com/2024/11/1/24285851/some-iphone-14-plus-phones-have-a-camera-issue-but-apple-may-fix-it-for-free).
+You can read more about it [here](https://www.npr.org/2024/11/01/nx-s1-5170334/russia-propaganda-georgia-video).
 
 ## Requirements
 - Python 3.8
