@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Maui surfer loses part of leg in shark attack, officials say**
+**OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker**
 
-You can read more about it [here](https://www.cbsnews.com/news/maui-surfer-loses-part-of-leg-shark-attack-waiehu-beach-hawaii/).
+You can read more about it [here](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/).
 
 ## Requirements
 - Python 3.8
