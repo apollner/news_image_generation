@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Crown Jewel 2024 Results: Winners, Live Grades, Reaction and Highlights**
+**Florida's convicted killer clown released from prison for the murder of her husband's then-wife**
 
-You can read more about it [here](https://bleacherreport.com/articles/10141893-wwe-crown-jewel-2024-results-winners-live-grades-reaction-and-highlights).
+You can read more about it [here](https://apnews.com/article/killer-clown-florida-sheila-warren-53f78ff2c505a277894a55b4cbd8e564).
 
 ## Requirements
 - Python 3.8
