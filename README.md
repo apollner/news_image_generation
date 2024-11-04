@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA investigating reports that Philadelphia 76ers’ Joel Embiid shoved columnist**
+**IRS raises 401(k) contribution limits, adds super catch-up for 60-63 year olds in 2025**
 
-You can read more about it [here](https://www.cnn.com/2024/11/03/sport/76ers-embiid-reportedly-shoves-reporter-nba-investigates-spt-intl/index.html).
+You can read more about it [here](https://www.usatoday.com/story/money/2024/11/03/irs-401k-limits-2025-super-catch-up/75994341007/).
 
 ## Requirements
 - Python 3.8
