@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Development As Hurricane Season Winds Down**
+**Detroit Lions vs. Green Bay Packers first half live chat, open thread**
 
-You can read more about it [here](https://weather.com/storms/hurricane/news/2024-11-03-potential-tropical-cyclone-forms-in-caribbean-hurricane-watches).
+You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24287045/detroit-lions-vs-green-bay-packers-first-half-live-chat-open-thread).
 
 ## Requirements
 - Python 3.8
