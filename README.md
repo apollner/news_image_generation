@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Women in AI: Sophia Velastegui believes AI is moving too fast**
+**NFL Week 9 expert picks, score predictions: Lions at Packers**
 
-You can read more about it [here](https://techcrunch.com/2024/11/03/women-in-ai-sophia-velastegui-believes-ai-is-moving-too-fast/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24282397/week-9-expert-picks-score-predictions-detroit-lions-at-green-bay-packers).
 
 ## Requirements
 - Python 3.8
