@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Moreno is back!': Social media reacts to Brandon Moreno's shutout vs. Amir Albazi at UFC Fight Night 246**
+**Detroit Lions predictions vs. Green Bay Packers: Who'll be kings of NFC North, for 1 week?**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/lists/ufc-fight-night-246-edmonton-brandon-moreno-vs-amir-albazi-reactions).
+You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2024/11/03/detroit-lions-predictions-vs-green-bay-packers-nfc-north-kings/76008091007/).
 
 ## Requirements
 - Python 3.8
