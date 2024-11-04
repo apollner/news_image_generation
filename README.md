@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**College football winners, losers in Week 10: Ole Miss sizzles in win, Nebraska still can't break through**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-winners-losers-in-week-10-ole-miss-sizzles-in-win-nebraska-still-cant-break-through/).
 
 ## Requirements
 - Python 3.8
