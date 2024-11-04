@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Crown Jewel 2024 Results: Winners, Live Grades, Reaction and Highlights**
+**Israel says Hezbollah operative captured in naval raid**
 
-You can read more about it [here](https://bleacherreport.com/articles/10141893-wwe-crown-jewel-2024-results-winners-live-grades-reaction-and-highlights).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2zeyvpnkxo).
 
 ## Requirements
 - Python 3.8
