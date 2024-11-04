@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid confronts, shoves Philadelphia columnist**
+**[Removed]**
 
-You can read more about it [here](https://www.espn.com/nba/story/_/id/42159993/joel-embiid-confronts-shoves-philadelphia-columnist).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
