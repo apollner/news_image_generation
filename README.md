@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teddi Mellencamp’s ex Edwin Arroyave shares cryptic post about ‘dark days’ after divorce announcement**
+**Tropical Development As Hurricane Season Winds Down**
 
-You can read more about it [here](https://pagesix.com/2024/11/03/celebrity-news/teddi-mellencamps-ex-edwin-arroyave-shares-cryptic-post-about-dark-days-amid-divorce/).
+You can read more about it [here](https://weather.com/storms/hurricane/news/2024-11-03-potential-tropical-cyclone-forms-in-caribbean-hurricane-watches).
 
 ## Requirements
 - Python 3.8
