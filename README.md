@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions updated 2024 depth chart: Week 9 at Green Bay Packers**
+**M4 Ultra Designed For The Mac Pro Has Been Hinted To Feature Up To An 80-Core GPU, As Apple Said To Be In A Better Position To Enter The Mainstream Gaming Market**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24282402/detroit-lions-updated-2024-depth-chart-week-9-at-green-bay-packers).
+You can read more about it [here](https://wccftech.com/m4-ultra-for-the-mac-pro-rumored-to-feature-an-80-core-gpu/).
 
 ## Requirements
 - Python 3.8
