@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 9 expert picks, score predictions: Lions at Packers**
+**Kuo: Cheaper ‘Apple Vision’ headset delayed beyond 2027**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24282397/week-9-expert-picks-score-predictions-detroit-lions-at-green-bay-packers).
+You can read more about it [here](https://9to5mac.com/2024/11/03/cheaper-apple-vision-delayed/).
 
 ## Requirements
 - Python 3.8
