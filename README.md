@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says Hezbollah operative captured in naval raid**
+**College football scores, results No. 10 Texas A&M falls to South Carolina, No. 11 Clemson falls to Louisville**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm2zeyvpnkxo).
+You can read more about it [here](https://sports.yahoo.com/live/college-football-scores-results-no-10-texas-am-blown-out-by-south-carolina-no-11-clemson-falls-to-louisville-150014344.html).
 
 ## Requirements
 - Python 3.8
