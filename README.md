@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This swing state saw some of the country’s highest food inflation. Republicans hope voters blame Dems.**
+**Harris and Trump command market’s attention — but Powell may steal the spotlight**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/03/grocery-prices-surge-philadelphia-00186460).
+You can read more about it [here](https://www.marketwatch.com/story/harris-and-trump-command-the-markets-attention-but-jerome-powell-may-steal-the-spotlight-89207883).
 
 ## Requirements
 - Python 3.8
