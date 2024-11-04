@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**M4 Ultra Designed For The Mac Pro Has Been Hinted To Feature Up To An 80-Core GPU, As Apple Said To Be In A Better Position To Enter The Mainstream Gaming Market**
+**This swing state saw some of the country’s highest food inflation. Republicans hope voters blame Dems.**
 
-You can read more about it [here](https://wccftech.com/m4-ultra-for-the-mac-pro-rumored-to-feature-an-80-core-gpu/).
+You can read more about it [here](https://www.politico.com/news/2024/11/03/grocery-prices-surge-philadelphia-00186460).
 
 ## Requirements
 - Python 3.8
