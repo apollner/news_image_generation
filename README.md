@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College football scores, results No. 10 Texas A&M falls to South Carolina, No. 11 Clemson falls to Louisville**
+**Iran’s supreme leader threatens Israel and US with ‘a crushing response’ over Israeli attack**
 
-You can read more about it [here](https://sports.yahoo.com/live/college-football-scores-results-no-10-texas-am-blown-out-by-south-carolina-no-11-clemson-falls-to-louisville-150014344.html).
+You can read more about it [here](https://apnews.com/article/iran-khamenei-israel-hamas-lebanon-war-30385c3a17d1fca9415eb37db86dc9c5).
 
 ## Requirements
 - Python 3.8
