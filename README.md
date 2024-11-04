@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says Hezbollah operative captured in naval raid**
+**DJ Lagway injury: Florida's freshman phenom QB carted from field during Georgia game**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm2zeyvpnkxo).
+You can read more about it [here](https://www.cbssports.com/college-football/news/dj-lagway-injury-floridas-freshman-phenom-qb-carted-from-field-during-georgia-game/).
 
 ## Requirements
 - Python 3.8
