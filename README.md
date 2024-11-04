@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Faces a Dilemma With North Korean Troops Pouring Into Russia**
+**Iowa Poll: Kamala Harris leapfrogs Donald Trump to take lead near Election Day. Here's how**
 
-You can read more about it [here](https://www.wsj.com/world/china-faces-a-dilemma-with-north-korean-troops-pouring-into-russia-34f0532f).
+You can read more about it [here](https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/11/02/iowa-poll-kamala-harris-leads-donald-trump-2024-presidential-race/75354033007/).
 
 ## Requirements
 - Python 3.8
