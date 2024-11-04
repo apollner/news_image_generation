@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran’s supreme leader threatens Israel and US with ‘a crushing response’ over Israeli attack**
+**High stakes, even higher pressure | NASCAR Official Xfinity Series Extended Highlights**
 
-You can read more about it [here](https://apnews.com/article/iran-khamenei-israel-hamas-lebanon-war-30385c3a17d1fca9415eb37db86dc9c5).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dZ6wFYvsFZlU).
 
 ## Requirements
 - Python 3.8
