@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kemi Badenoch promises change after historic Tory leadership win**
+**Warren Buffett is sitting on over $325 billion cash as Berkshire Hathaway keeps selling Apple stock**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0qdnewgx19o).
+You can read more about it [here](https://apnews.com/article/warren-buffett-berkshire-hathaway-earnings-profit-6f2772721d5d8f00578f8265c70db3d1).
 
 ## Requirements
 - Python 3.8
