@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida's convicted killer clown released from prison for the murder of her husband's then-wife**
+**Joel Embiid confronts, shoves Philadelphia columnist**
 
-You can read more about it [here](https://apnews.com/article/killer-clown-florida-sheila-warren-53f78ff2c505a277894a55b4cbd8e564).
+You can read more about it [here](https://www.espn.com/nba/story/_/id/42159993/joel-embiid-confronts-shoves-philadelphia-columnist).
 
 ## Requirements
 - Python 3.8
