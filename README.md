@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tornado warning issued on University of Oklahoma campus**
+**Apple Is Charging The Exact Same Price For A Single Base M4 Mac mini If Buyers Want To Double The Existing Unified RAM And Internal Storage**
 
-You can read more about it [here](https://abcnews.go.com/US/tornado-warning-issued-university-oklahoma-campus/story?id\\u003d115436662).
+You can read more about it [here](https://wccftech.com/apple-charging-same-m4-mac-mini-for-doubling-storage-and-ram/).
 
 ## Requirements
 - Python 3.8
