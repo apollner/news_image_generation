@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 6 were injured after tornado-spawning thunderstorms left a trail of destruction across parts of Oklahoma**
+**Women in AI: Sophia Velastegui believes AI is moving too fast**
 
-You can read more about it [here](https://www.cnn.com/2024/11/03/weather/oklahoma-thunderstorms-tornado/index.html).
+You can read more about it [here](https://techcrunch.com/2024/11/03/women-in-ai-sophia-velastegui-believes-ai-is-moving-too-fast/).
 
 ## Requirements
 - Python 3.8
