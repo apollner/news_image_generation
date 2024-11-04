@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kuo: Cheaper ‘Apple Vision’ headset delayed beyond 2027**
+**Detroit Lions updated 2024 depth chart: Week 9 at Green Bay Packers**
 
-You can read more about it [here](https://9to5mac.com/2024/11/03/cheaper-apple-vision-delayed/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24282402/detroit-lions-updated-2024-depth-chart-week-9-at-green-bay-packers).
 
 ## Requirements
 - Python 3.8
