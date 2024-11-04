@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**High stakes, even higher pressure | NASCAR Official Xfinity Series Extended Highlights**
+**Florida's convicted killer clown released from prison for the murder of her husband's then-wife**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dZ6wFYvsFZlU).
+You can read more about it [here](https://apnews.com/article/killer-clown-florida-sheila-warren-53f78ff2c505a277894a55b4cbd8e564).
 
 ## Requirements
 - Python 3.8
