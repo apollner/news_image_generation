@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Third ‘Venom’ film tops box office, Tom Hanks flick debuts third**
+**Israel says Hezbollah operative captured in naval raid**
 
-You can read more about it [here](https://nypost.com/2024/11/02/entertainment/third-venom-film-spends-second-week-at-no-1/).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2zeyvpnkxo).
 
 ## Requirements
 - Python 3.8
