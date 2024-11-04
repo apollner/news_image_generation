@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Fall back" an hour to standard time this Sunday**
+**Kemi Badenoch promises change after historic Tory leadership win**
 
-You can read more about it [here](https://www.axios.com/2024/11/02/daylight-savings-2024-time-change-fall-back).
+You can read more about it [here](https://www.bbc.com/news/articles/c0qdnewgx19o).
 
 ## Requirements
 - Python 3.8
