@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions vs. Green Bay Packers first half live chat, open thread**
+**RFK Jr. says fluoride is ‘an industrial waste’ linked to cancer, diseases and disorders. Here’s what the science says**
 
-You can read more about it [here](https://www.prideofdetroit.com/2024/11/3/24287045/detroit-lions-vs-green-bay-packers-first-half-live-chat-open-thread).
+You can read more about it [here](https://www.cnn.com/2024/11/03/health/rfk-jr-fluoride-science/index.html).
 
 ## Requirements
 - Python 3.8
