@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett is sitting on over $325 billion cash as Berkshire Hathaway keeps selling Apple stock**
+**How much protein you need depends on your exercise routine**
 
-You can read more about it [here](https://apnews.com/article/warren-buffett-berkshire-hathaway-earnings-profit-6f2772721d5d8f00578f8265c70db3d1).
+You can read more about it [here](https://fortune.com/well/article/how-much-protein-you-need-workout-exercise/).
 
 ## Requirements
 - Python 3.8
