@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LACMA Art + Film Gala 2024 Red Carpet Shoes: Arrivals Photos, Live Updates**
+**'Moreno is back!': Social media reacts to Brandon Moreno's shutout vs. Amir Albazi at UFC Fight Night 246**
 
-You can read more about it [here](https://footwearnews.com/gallery/lacma-art-and-film-gala-2024-shoes-red-carpet-photos/).
+You can read more about it [here](https://mmajunkie.usatoday.com/lists/ufc-fight-night-246-edmonton-brandon-moreno-vs-amir-albazi-reactions).
 
 ## Requirements
 - Python 3.8
