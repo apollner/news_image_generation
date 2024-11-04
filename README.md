@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LACMA Art + Film Gala 2024 Red Carpet Shoes: Arrivals Photos, Live Updates**
+**"Fall back" an hour to standard time this Sunday**
 
-You can read more about it [here](https://footwearnews.com/gallery/lacma-art-and-film-gala-2024-shoes-red-carpet-photos/).
+You can read more about it [here](https://www.axios.com/2024/11/02/daylight-savings-2024-time-change-fall-back).
 
 ## Requirements
 - Python 3.8
