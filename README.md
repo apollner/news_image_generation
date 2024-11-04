@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iowa Poll: Kamala Harris leapfrogs Donald Trump to take lead near Election Day. Here's how**
+**LACMA Art + Film Gala 2024 Red Carpet Shoes: Arrivals Photos, Live Updates**
 
-You can read more about it [here](https://www.desmoinesregister.com/story/news/politics/iowa-poll/2024/11/02/iowa-poll-kamala-harris-leads-donald-trump-2024-presidential-race/75354033007/).
+You can read more about it [here](https://footwearnews.com/gallery/lacma-art-and-film-gala-2024-shoes-red-carpet-photos/).
 
 ## Requirements
 - Python 3.8
