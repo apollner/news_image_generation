@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DJ Lagway injury: Florida's freshman phenom QB carted from field during Georgia game**
+**WWE Crown Jewel 2024 Results: Winners, Live Grades, Reaction and Highlights**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/dj-lagway-injury-floridas-freshman-phenom-qb-carted-from-field-during-georgia-game/).
+You can read more about it [here](https://bleacherreport.com/articles/10141893-wwe-crown-jewel-2024-results-winners-live-grades-reaction-and-highlights).
 
 ## Requirements
 - Python 3.8
