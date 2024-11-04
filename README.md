@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett is sitting on over $325 billion cash as Berkshire Hathaway keeps selling Apple stock**
+**NBA investigating reports that Philadelphia 76ers’ Joel Embiid shoved columnist**
 
-You can read more about it [here](https://apnews.com/article/warren-buffett-berkshire-hathaway-earnings-profit-6f2772721d5d8f00578f8265c70db3d1).
+You can read more about it [here](https://www.cnn.com/2024/11/03/sport/76ers-embiid-reportedly-shoves-reporter-nba-investigates-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
