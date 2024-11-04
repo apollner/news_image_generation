@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Trump command market’s attention — but Powell may steal the spotlight**
+**Teddi Mellencamp’s ex Edwin Arroyave shares cryptic post about ‘dark days’ after divorce announcement**
 
-You can read more about it [here](https://www.marketwatch.com/story/harris-and-trump-command-the-markets-attention-but-jerome-powell-may-steal-the-spotlight-89207883).
+You can read more about it [here](https://pagesix.com/2024/11/03/celebrity-news/teddi-mellencamps-ex-edwin-arroyave-shares-cryptic-post-about-dark-days-amid-divorce/).
 
 ## Requirements
 - Python 3.8
