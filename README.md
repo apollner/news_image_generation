@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Detroit Lions predictions vs. Green Bay Packers: Who'll be kings of NFC North, for 1 week?**
+**Tornado warning issued on University of Oklahoma campus**
 
-You can read more about it [here](https://www.freep.com/story/sports/nfl/lions/2024/11/03/detroit-lions-predictions-vs-green-bay-packers-nfc-north-kings/76008091007/).
+You can read more about it [here](https://abcnews.go.com/US/tornado-warning-issued-university-oklahoma-campus/story?id\\u003d115436662).
 
 ## Requirements
 - Python 3.8
