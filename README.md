@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moldova’s pro-Western president wins 2nd term in runoff overshadowed by Russian meddling claims**
+**Asia stocks rise with China stimulus, US elections in focus**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmx0cWhKOVhjbUY5YTQ0LWROSXkwR3k3U2VhenpoX200c0xBX2llMzJONUFZYUFZb3RzTlNadkMxTUhPd3JwbWVuWjczZzg0cjlGb2dzNU5Kc0FkdUpZeTdTZUhRMGNuVXJvQ195NWUzNzN3QUVGSUZnYW1PXzdJVjhJZUhoTTBnMDR4TEkwZXZNbU5VUC01X2U4SFBKZGtOTGE4VmNpQkViU0pLWGVWdFFGOA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWEwbjJlRWtGSjRScnlIUFRheDBzWF9NMmtPYW1TTlR3ZkNhUlRKNC03SzF1dkVlUzRPNEt2dko5ckJhd1pROGxlV1RpZGJWSkhydWZqQ19uYlM4c1BLYk9RYTZCbUp3ZV9NZFg2aE1BNld6VnNlSHM4cXVocHpxU3ZoM3puNXU3b3pKV1dwZ2pkV1ZnZFhabkhYWFo5cWNlazZDcTgzSkZWY2I2UHg3ZjB4OEcxUQ?oc=5).
 
 ## Requirements
 - Python 3.8
