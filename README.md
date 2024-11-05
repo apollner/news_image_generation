@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Playoff Picture, Week 9: Surprising Cardinals Lead the NFC West**
+**Warren Buffett cuts Apple stake massively and artfully**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxNNDRVeFpRYUFuR0d5V3Y2SEI5dmNKLWFQeEo0Q05fNzM5b1FLX0wwYkNfNFBmc3ptS3NXLWIxUkU0Q1dwZjVnTFhYNzB1aFNGWXpFOXo3SkNWVTh6dzYweEN6dnQ1aC1aa0JDc1I0VWJQT3RLVWhNdWJMdW8xUEplaE9TWFJMOUJFM3JPLW1va2VjVkk?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFVyVTVFMVVuaGFoODN0bUlFelJHV3Vfa3BmNUdXeFoxTFlncDZoeE9zVTNBQk5lNFNJZTc2MVJKcU51TEJNSEdnM3hkQWlrS0lrM3NaVU56UThDVzdWMTN5NHN1THg1c1FIS2Z6M2JEekloUWlLS1hxc21mNHdyc1RldWF1bGNRckN3?oc=5).
 
 ## Requirements
 - Python 3.8
