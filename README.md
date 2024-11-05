@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple To Release iOS 18.2 Update Earlier Than Expected, As The Company Desperately Wants Apple Intelligence To Make A Difference On The iPhone**
+**Singapore Airlines will add first class, revamp cabins for longest flights**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTE05QnYtbkwwTEVGdnBvWVZaU2REUXo3R2w0MFlIYWNZY2VUWU9yd0dTYzVIU1RDRzM1ME5aV3NoMVZtTTByVUhhU21ZbmRTa3BGb09nUndfN3BWZ05rYno5RE5JbVRBeWdXbEhWSXU5N2dXZ0lIVF9zWnREYWTSAYIBQVVfeXFMTVgyRTFvVUtFWF82Z3dNYTVtXzRpUGwydjlJM2cxemUtVndzUEZabmtTeGtvRlJfSVc0OEFGN0lENExOZWJaTWFXYUVzLW5RYmdKdDJ5MGlXa0wwZ01lQkRBQVlTbWJMMGlIVDRHQWJpM3JQWnRhamZidjlybU5tdndXZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU0xM1U0cl9uWVZMMFB4V29aUk4tYzZxbWFkcmpfTnJfZFVTakF0akkzOFlJSFZMR3JkYXNXVGRzRXliUm12RHdNa1JuQWgwWm1YSHRzVTY4VTF5UF9RLXUwcFRNM20tcjBNLVh6Tl96UUlRTjc1TW5JYVhPNkdma2lJUFB0QTRGeVJreHA1SWJ2UVktUEU0Q9IBngFBVV95cUxNQ2RBVUFWSWZSVE5BSm5MeFVfZHJPVU5DelVBME1oVWVhM0JOS1NvbU4yVnNqaHNyNGdTUmJjY3YybHQ2UXVzRzJndUlEUFhfbmUzbS1uNEpGZ2pLMTBzeW1qOXpkU2huUVJXemZZVVlqV2h3QkRsS281MV9LTHpKdnJCaU14Y1dOTkNwQlBaT0NIa28zR3hpM3JRMjlHZw?oc=5).
 
 ## Requirements
 - Python 3.8
