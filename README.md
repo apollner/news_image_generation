@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moldova's pro-Western Sandu claims election win after meddling allegations**
+**Quincy Jones, music titan who worked with everyone from Frank Sinatra to Michael Jackson, dies at 91**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JTZ3NHUlI4QWJiREZ0NmJ2c1BPZXRxaE9rc3U5NTY4M3FBblF4OWpGNC1TcFliaFhmbGQ5UTd5SGxxSlFRNWJSaXkyNkowUDNydGhNN0RleVdyQkpLbzBiUTR4MktfNnB3eHByR2dCem5lZHMxNjRCM244bjBkZ1dTeks1UDdTY3lSZm1rOVlwSHRNN21sMjVyQ0ZBbGpVSTR0Z0tHNjJ1QVJibF9EenVmeFJtaHdlNzYyaw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQMVpzMkRDRlQ2X0pyN3BXdXRtTVJMUTBmSERNQ2NwdXBmcG1lb1dTbzZpelUwMC04cFNMeDZkczdqZmRVaGFnS0dyYy1TN3RFVmhGelNxNVBWbEljeXhuVzRNcXFVTkJLQndlbUNLZVZ0bGNQRWU2WWpPUlVDeXRqZ2NmRQ?oc=5).
 
 ## Requirements
 - Python 3.8
