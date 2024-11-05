@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. says fluoride is ‘an industrial waste’ linked to cancer, diseases and disorders. Here’s what the science says**
+**Saturday Night Live alum Pete Davidson breaks character with pal John Mulaney in latest musical sketch**
 
-You can read more about it [here](https://www.cnn.com/2024/11/03/health/rfk-jr-fluoride-science/index.html).
+You can read more about it [here](https://ew.com/pete-davidson-returns-to-snl-john-mulaney-musical-sketch-8738859).
 
 ## Requirements
 - Python 3.8
