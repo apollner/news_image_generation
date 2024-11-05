@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What life is like in one of the most remote places on Earth**
+**Protests over Spain flood response interrupt king's visit to stricken Valencia suburb**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZBZUNZUi1Hay00OTVmN3h5blpxalZIMlFKdGJPQWlhMkNPR0lKS3BWUjlkVzBuZEV5elYwa1FSQ1VhY01NQjdvYzBfVGxsT2pPSWdORVFlSC1XM0NISzhXR3BwWHVpZXpaSUZEOFY3YjNhdTlXTzFhRG1NNEJQWFBtbXlfa2t1TVBMMG84UUJxQdIBiAFBVV95cUxOcGZUem9yVExaTWxVU2Q5VzFTNVR5alFDSHFMSXhacFBnZkdtZkFpMU5TVVk3OVhjQ3dJaF9USGhIMl93TG83Vlh1ZG1hZzdYQ1dPNTMzbC1DZ0dxbFNnT2hPUmpmb1J3NVg3MjhXY1F2NUc1eGhMU3RCbTQ1SWtjZTkzUENUa3lf?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemE3NHBNQlBudUdBUXdxRFJqNEVSaUVYdVZxMXpvOG9kb3hHUHFQTEhDR3BQUnRnVHd2YzNWV25aVVpaRnlPeGhqMk5TYy12TUk3TS13MTZNbG01S1BJbnFLQ1g5MHNUSFJmQTB5VENuWXU3em5wVVI0RG1pTGFDLWJPQ0xJeno4Tk9iMWNyeDZYVG96MFV4QWxNdlhiWEJsUTcxY1JVT0ZZdlFqYkFkLXFMYWUtT0VMeWNlT1pWWDI4bTQ?oc=5).
 
 ## Requirements
 - Python 3.8
