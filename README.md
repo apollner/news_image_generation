@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Martin falls into hole in stage during Coldplay gig in Australia**
+**Scientists Found a 'Yellow Brick Road' at The Bottom of The Pacific Ocean**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXBXN0J6U29hblk0Vmk4X2tKSTJzTGFaMHlhOFJOcEx4M0xJc2RubTZVU19QbElxMU5ocFRCS3R3TklhTGNEcERnbXJBcG9VNk5oVkk1UUFuVGZ0N2ZMam5QS0ZSYUpORUNseXFkdkphME5QMHFXOHlOVUlXZmpEQVlKR3kxVXBGaXFtZlAwSndPSkRXdHVWWjJnWEY0OEk5MTZSSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTlueTR5ckROVUEyNVNOaUVOYmh0b2RLYXlhYlJucjNjQzMteTdGVFB3TGd3S2FfLVNhMmNjamxYakhqckYyYU9pY1VWdEJKMTZUdExEWDlXdjJ2OEpTLUcybXJwLXZvYUlPU3ZFYTlDeEt0UTBubGR5NG5IZmc1S2Z3Q1IzS2tLQk5UTEhnakYwTklza0k5ZkRka0lDZ0lJdXc?oc=5).
 
 ## Requirements
 - Python 3.8
