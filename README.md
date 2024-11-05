@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**UPDATES: Oklahoma sees more storms amid another severe weather day**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.koco.com/article/oklahoma-storms-tornado-risk-severe-weather-timeline-hail-monday/62800488).
 
 ## Requirements
 - Python 3.8
