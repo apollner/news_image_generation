@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where Did All the Hollywood Assistants Go?**
+**James Van Der Beek forced to reveal cancer diagnosis ahead of planned timeline**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/hollywood-assistants-work-hiring-1236053258/).
+You can read more about it [here](https://www.foxnews.com/entertainment/james-van-der-beek-forced-reveal-cancer-diagnosis-ahead-planned-timeline).
 
 ## Requirements
 - Python 3.8
