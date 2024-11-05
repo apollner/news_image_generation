@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Flacco fails to jolt Colts but still QB1 'right now'**
+**Hurricane and tropical storm watches issued for weather system heading for Jamaica and Caymans**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVNRaktvMFljZEZPRVd4Wnd2QzFnbDB6b2JiNHVPQU55YkFjWXpSb3IwbW9tZXdYRWp2RnRxNzlDYnNfZlFIVS0yTjBZTmpWbkxnTGoyem1SQ0szSnlYTm51TXhwQ3lFSjA5X3RIdjZVcEFoUFJLa2JZVEp2Y2dWNlZNYWNKUGxubi11MzVfOE95NVpfdWg1YXJvYUJYWVdSbTZRelZsNmZ5V1k4RmhaREhfM2dZQ3pVTDM3X0xpUEp5RWdjQmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUYtQWczdkxkUEw0bllqYjJYNHVYcVM5RkRuVWdkQUJXV1dVRTN5dHNmRkdkTmhucjR6WWY4MUFfV1lTenItMXJUWWhKWmtnbmM3UjhGNlh3MU9MeFJrcDJITEdGS0dXSklZTldtbUZmOFIxU3U3cmlBM0pLbnRHdWpGd1dqSmxoSHR5VE5zc1FudFNFd0xXUTFIS1NHR0tqdXhYVC05RFBMYUE?oc=5).
 
 ## Requirements
 - Python 3.8
