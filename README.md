@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL trade deadline live updates: Latest news, rumors, analysis ahead of Tuesday's cutoff**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.usatoday.com/story/sports/nfl/2024/11/04/nfl-trade-deadline-live-updates-news-rumors-analysis/76040508007/).
 
 ## Requirements
 - Python 3.8
