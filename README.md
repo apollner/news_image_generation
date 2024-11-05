@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane and tropical storm watches issued for weather system heading for Jamaica and Caymans**
+**Moldova’s pro-Western president wins vote overshadowed by Russian meddling claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUYtQWczdkxkUEw0bllqYjJYNHVYcVM5RkRuVWdkQUJXV1dVRTN5dHNmRkdkTmhucjR6WWY4MUFfV1lTenItMXJUWWhKWmtnbmM3UjhGNlh3MU9MeFJrcDJITEdGS0dXSklZTldtbUZmOFIxU3U3cmlBM0pLbnRHdWpGd1dqSmxoSHR5VE5zc1FudFNFd0xXUTFIS1NHR0tqdXhYVC05RFBMYUE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE00N1FlbGtJVDR6R0tUaVdrRzRRMkJxb1Zhck50d3A1MlZscGxsRTQzckhHZzl6aXVhY0ViV0puTE8zUUVFTmFjQk9PUDY4eUVfNzVfSlIwcW9hd2R5RFM0WlduQ2ZNQ3pMWWUxOERhMlc0OTY5dDR5UGtEZVNodw?oc=5).
 
 ## Requirements
 - Python 3.8
