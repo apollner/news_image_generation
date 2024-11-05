@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Trump to hold final campaign events day before election**
+**Watch SpaceX launch 3 tons of cargo to ISS today**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-11-04-24/index.html).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today).
 
 ## Requirements
 - Python 3.8
