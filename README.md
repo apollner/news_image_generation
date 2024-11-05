@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Davidson gives rare look at tattoo-free arms on ‘Saturday Night Live’ after ink removal**
+**Harris and Trump to hold final campaign events day before election**
 
-You can read more about it [here](https://pagesix.com/2024/11/04/style/pete-davidson-gives-rare-look-at-tattoo-free-arms-on-saturday-night-live-after-removal/).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-11-04-24/index.html).
 
 ## Requirements
 - Python 3.8
