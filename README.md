@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett cuts Apple stake massively and artfully**
+**Moldova's pro-Western Sandu claims election win after meddling allegations**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFVyVTVFMVVuaGFoODN0bUlFelJHV3Vfa3BmNUdXeFoxTFlncDZoeE9zVTNBQk5lNFNJZTc2MVJKcU51TEJNSEdnM3hkQWlrS0lrM3NaVU56UThDVzdWMTN5NHN1THg1c1FIS2Z6M2JEekloUWlLS1hxc21mNHdyc1RldWF1bGNRckN3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0JTZ3NHUlI4QWJiREZ0NmJ2c1BPZXRxaE9rc3U5NTY4M3FBblF4OWpGNC1TcFliaFhmbGQ5UTd5SGxxSlFRNWJSaXkyNkowUDNydGhNN0RleVdyQkpLbzBiUTR4MktfNnB3eHByR2dCem5lZHMxNjRCM244bjBkZ1dTeks1UDdTY3lSZm1rOVlwSHRNN21sMjVyQ0ZBbGpVSTR0Z0tHNjJ1QVJibF9EenVmeFJtaHdlNzYyaw?oc=5).
 
 ## Requirements
 - Python 3.8
