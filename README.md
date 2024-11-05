@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three impressions from Seahawks’ 26-20 overtime loss to Rams**
+**Moldova’s pro-Western president wins 2nd term in runoff overshadowed by Russian meddling claims**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGxOTEV0S0RfR0pJcDhkeEs0RDY0d25UT3JMcXBTdTY3dXRuSEFPUWhybHFSMllMVkhVMmRZRHk4LUxObms0dHNpYUU0ekU3NWtsTzFEVjNUZ2ZGVDVVVmp1ZmxBYWRfTGY0ZmZ2d1NNYU8yS05lZG5GR0F2X19lUnpSMTF4U180TlRwZWQ2MW4yM3AycmRMWUdsUExpSEJyYWMtYlJEZlI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmx0cWhKOVhjbUY5YTQ0LWROSXkwR3k3U2VhenpoX200c0xBX2llMzJONUFZYUFZb3RzTlNadkMxTUhPd3JwbWVuWjczZzg0cjlGb2dzNU5Kc0FkdUpZeTdTZUhRMGNuVXJvQ195NWUzNzN3QUVGSUZnYW1PXzdJVjhJZUhoTTBnMDR4TEkwZXZNbU5VUC01X2U4SFBKZGtOTGE4VmNpQkViU0pLWGVWdFFGOA?oc=5).
 
 ## Requirements
 - Python 3.8
