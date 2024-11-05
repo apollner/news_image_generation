@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Foreclosures in China Soar, Threatening to Choke Off Bank Profits**
+**Flacco fails to jolt Colts but still QB1 'right now'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxObGQwODJiekZEeC1rSF8zQWl5ZUJzSnVBS0xGTGd4eHZVVHg2Z3lFb0N5YUwtUC1Ic1pQcGZWYW41bUxxVm1hM0k5bmZZWWQydjVOUklXRktLZTlCVHh5VVB6cTh6elBCV3B5M2FweFFudUNiWnE2UHdtMTNfeHJmbS1SZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVVNRaktvMFljZEZPRVd4Wnd2QzFnbDB6b2JiNHVPQU55YkFjWXpSb3IwbW9tZXdYRWp2RnRxNzlDYnNfZlFIVS0yTjBZTmpWbkxnTGoyem1SQ0szSnlYTm51TXhwQ3lFSjA5X3RIdjZVcEFoUFJLa2JZVEp2Y2dWNlZNYWNKUGxubi11MzVfOE95NVpfdWg1YXJvYUJYWVdSbTZRelZsNmZ5V1k4RmhaREhfM2dZQ3pVTDM3X0xpUEp5RWdjQmc?oc=5).
 
 ## Requirements
 - Python 3.8
