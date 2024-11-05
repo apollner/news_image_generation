@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Protests over Spain flood response interrupt king's visit to stricken Valencia suburb**
+**Warren Buffett cuts Apple stake massively and artfully**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemE3NHBNQlBudUdBUXdxRFJqNEVSaUVYdVZxMXpvOG9kb3hHUHFQTEhDR3BQUnRnVHd2YzNWV25aVVpaRnlPeGhqMk5TYy12TUk3TS13MTZNbG01S1BJbnFLQ1g5MHNUSFJmQTB5VENuWXU3em5wVVI0RG1pTGFDLWJPQ0xJeno4Tk9iMWNyeDZYVG96MFV4QWxNdlhiWEJsUTcxY1JVT0ZZdlFqYkFkLXFMYWUtT0VMeWNlT1pWWDI4bTQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcFVyVTVFMVVuaGFoODN0bUlFelJHV3Vfa3BmNUdXeFoxTFlncDZoeE9zVTNBQk5lNFNJZTc2MVJKcU51TEJNSEdnM3hkQWlrS0lrM3NaVU56UThDVzdWMTN5NHN1THg1c1FIS2Z6M2JEekloUWlLS1hxc21mNHdyc1RldWF1bGNRckN3?oc=5).
 
 ## Requirements
 - Python 3.8
