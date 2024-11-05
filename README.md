@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump indicates he is open to RFK Jr’s proposal to ban vaccines if elected**
+**Saints fire Dennis Allen after losing streak during his 3rd season leading team, name Darren Rizzi interim head coach**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWxqdGQ2LU95RWFhT256V09wN3JSblBTaFNsdFlBVko1NjYzLVdvR2YxRUFRbll4amF5Q21hSnYyWEIyYUE4SnR4N19JQV8yNVEyQTI2TFZ5NmNmRlZTNUhHUUNLazdXbDlYcHVfOGZyMEtnUmFtS0tKSFFnSlFzZk03eEJnT2h4WFRXNjNxZDTSAZABQVVfeXFMT2oyVlpOYkpkMXRwck5aelM2V2ZLc3QwLUNGM3JvM216QkpZekVyTWtIZksySVRGWXNBRXZESVE4aXlwRjJxV3FnQjVfQWpMUDRGY3pmQnNxb0xxVTIxX0xzZEp1RktXcEdmUllqVF9QRGhxd215ajNGcDZrQ3E1S2F0NDZBY0N0WTVpQzAzaWVN?oc=5).
+You can read more about it [here](https://sports.yahoo.com/saints-fire-dennis-allen-after-losing-streak-during-his-3rd-season-leading-team-name-darren-rizzi-interim-head-coach-145933024.html).
 
 ## Requirements
 - Python 3.8
