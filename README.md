@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia stocks rise with China stimulus, US elections in focus**
+**What life is like in one of the most remote places on Earth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWEwbjJlRWtGSjRScnlIUFRheDBzWF9NMmtPYW1TTlR3ZkNhUlRKNC03SzF1dkVlUzRPNEt2dko5ckJhd1pROGxlV1RpZGJWSkhydWZqQ19uYlM4c1BLYk9RYTZCbUp3ZV9NZFg2aE1BNld6VnNlSHM4cXVocHpxU3ZoM3puNXU3b3pKV1dwZ2pkV1ZnZFhabkhYWFo5cWNlazZDcTgzSkZWY2I2UHg3ZjB4OEcxUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxOWEZBZUNZUi1Hay00OTVmN3h5blpxalZIMlFKdGJPQWlhMkNPR0lKS3BWUjlkVzBuZEV5elYwa1FSQ1VhY01NQjdvYzBfVGxsT2pPSWdORVFlSC1XM0NISzhXR3BwWHVpZXpaSUZEOFY3YjNhdTlXTzFhRG1NNEJQWFBtbXlfa2t1TVBMMG84UUJxQdIBiAFBVV95cUxOcGZUem9yVExaTWxVU2Q5VzFTNVR5alFDSHFMSXhacFBnZkdtZkFpMU5TVVk3OVhjQ3dJaF9USGhIMl93TG83Vlh1ZG1hZzdYQ1dPNTMzbC1DZ0dxbFNnT2hPUmpmb1J3NVg3MjhXY1F2NUc1eGhMU3RCbTQ1SWtjZTkzUENUa3lf?oc=5).
 
 ## Requirements
 - Python 3.8
