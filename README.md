@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Singapore Airlines will add first class, revamp cabins for longest flights**
+**Foreclosures in China Soar, Threatening to Choke Off Bank Profits**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxNMU0xM1U0cl9uWVZMMFB4V29aUk4tYzZxbWFkcmpfTnJfZFVTakF0akkzOFlJSFZMR3JkYXNXVGRzRXliUm12RHdNa1JuQWgwWm1YSHRzVTY4VTF5UF9RLXUwcFRNM20tcjBNLVh6Tl96UUlRTjc1TW5JYVhPNkdma2lJUFB0QTRGeVJreHA1SWJ2UVktUEU0Q9IBngFBVV95cUxNQ2RBVUFWSWZSVE5BSm5MeFVfZHJPVU5DelVBME1oVWVhM0JOS1NvbU4yVnNqaHNyNGdTUmJjY3YybHQ2UXVzRzJndUlEUFhfbmUzbS1uNEpGZ2pLMTBzeW1qOXpkU2huUVJXemZZVVlqV2h3QkRsS281MV9LTHpKdnJCaU14Y1dOTkNwQlBaT0NIa28zR3hpM3JRMjlHZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxObGQwODJiekZEeC1rSF8zQWl5ZUJzSnVBS0xGTGd4eHZVVHg2Z3lFb0N5YUwtUC1Ic1pQcGZWYW41bUxxVm1hM0k5bmZZWWQydjVOUklXRktLZTlCVHh5VVB6cTh6elBCV3B5M2FweFFudUNiWnE2UHdtMTNfeHJmbS1SZw?oc=5).
 
 ## Requirements
 - Python 3.8
