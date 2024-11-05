@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow, S&P 500, Nasdaq slip as Wall Street braces for Election Day**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-waver-as-wall-street-braces-for-election-day-171531483.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
