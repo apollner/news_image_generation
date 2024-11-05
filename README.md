@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Moldova’s pro-Western president wins vote overshadowed by Russian meddling claims**
+**Chris Martin falls into hole in stage during Coldplay gig in Australia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE00N1FlbGtJVDR6R0tUaVdrRzRRMkJxb1Zhck50d3A1MlZscGxsRTQzckhHZzl6aXVhY0ViV0puTE8zUUVFTmFjQk9PUDY4eUVfNzVfSlIwcW9hd2R5RFM0WlduQ2ZNQ3pMWWUxOERhMlc0OTY5dDR5UGtEZVNodw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXBXN0J6U29hblk0Vmk4X2tKSTJzTGFaMHlhOFJOcEx4M0xJc2RubTZVU19QbElxMU5ocFRCS3R3TklhTGNEcERnbXJBcG9VNk5oVkk1UUFuVGZ0N2ZMam5QS0ZSYUpORUNseXFkdkphME5QMHFXOHlOVUlXZmpEQVlKR3kxVXBGaXFtZlAwSndPSkRXdHVWWjJnWEY0OEk5MTZSSQ?oc=5).
 
 ## Requirements
 - Python 3.8
