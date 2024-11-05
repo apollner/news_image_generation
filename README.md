@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing machinists are holding a contract vote that could end their 7-week strike**
+**Harris and Trump to hold final campaign events day before election**
 
-You can read more about it [here](https://apnews.com/article/boeing-contract-vote-strike-machinists-union-614c4d5afd97d1f50ab9cfe1f4f94255).
+You can read more about it [here](https://www.cnn.com/politics/live-news/trump-harris-election-11-04-24/index.html).
 
 ## Requirements
 - Python 3.8
