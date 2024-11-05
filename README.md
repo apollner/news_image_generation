@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saints fire Dennis Allen after losing streak during his 3rd season leading team, name Darren Rizzi interim head coach**
+**Boeing machinists are holding a contract vote that could end their 7-week strike**
 
-You can read more about it [here](https://sports.yahoo.com/saints-fire-dennis-allen-after-losing-streak-during-his-3rd-season-leading-team-name-darren-rizzi-interim-head-coach-145933024.html).
+You can read more about it [here](https://apnews.com/article/boeing-contract-vote-strike-machinists-union-614c4d5afd97d1f50ab9cfe1f4f94255).
 
 ## Requirements
 - Python 3.8
