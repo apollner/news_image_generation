@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli authorities probe suspected Gaza intelligence leak by Netanyahu aide**
+**Israeli naval commandos abduct Hezbollah operative: Report**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-authorities-probe-suspected-gaza-intelligence-leak-by-netanyahu-aide-2024-11-03/).
+You can read more about it [here](https://thehill.com/policy/international/4968682-israeli-naval-commandos-abduct-hezbollah-operative-report/).
 
 ## Requirements
 - Python 3.8
