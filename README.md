@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Van Der Beek forced to reveal cancer diagnosis ahead of planned timeline**
+**Live weather updates: Severe storms crossing Oklahoma City metro, tornado warnings issued**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/james-van-der-beek-forced-reveal-cancer-diagnosis-ahead-planned-timeline).
+You can read more about it [here](https://www.oklahoman.com/story/weather/2024/11/04/live-weather-radar-tornado-warning-watch-in-oklahoma-city-moore-edmond-monday-tornado-today/76041563007/).
 
 ## Requirements
 - Python 3.8
