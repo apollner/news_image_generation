@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch SpaceX launch 3 tons of cargo to ISS today**
+**Biden says Moldova election results show "Russia failed" in efforts to undermine democracy**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today).
+You can read more about it [here](https://www.cbsnews.com/news/moldova-election-results-2024-maia-sandu-russia-biden-eu-ukraine-war/).
 
 ## Requirements
 - Python 3.8
