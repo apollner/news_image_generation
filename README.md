@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane watch for Caymans, tropical storm warning for Jamaica as system in Caribbean expected to strengthen**
+**Trump indicates he is open to RFK Jr’s proposal to ban vaccines if elected**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxPdzBJV0ZlS0dUSFdYdnZ0RERZS29SdkJaR0dfdnZYNC1WRUdqSl90ZmcwUVpjYTBnMDlBcW1DU05tQ3NteERRdTJfLWk3T1JiWmR1aDNhTUk1NTFMaThRdFk1Q0Jxb3ZPRXJIN1JUM19RU2JPWEI1NHNDMDNnVVRnNUZXVHdmM1dlS1N0Ti05aWjSAZYBQVVfeXFMUDRNOERkOUhUa19oTFRERWZrMHVFSFl5MjAyTWhzNHZmekpBRHQ3UGc2RGpYXzhlWkoyTk9MUjRDR1ExcTJYSXFtWEprTTFLTHF3Wk1rcGlsaFVFRjh0aDdyZlJia1pMNE9GY0Z1TkJTdzJIRWR2VEhWdEN4TFBEZW5mem9uekdfUDBDQ25POWVoTDZTbjdn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcWxqdGQ2LU95RWFhT256V09wN3JSblBTaFNsdFlBVko1NjYzLVdvR2YxRUFRbll4amF5Q21hSnYyWEIyYUE4SnR4N19JQV8yNVEyQTI2TFZ5NmNmRlZTNUhHUUNLazdXbDlYcHVfOGZyMEtnUmFtS0tKSFFnSlFzZk03eEJnT2h4WFRXNjNxZDTSAZABQVVfeXFMT2oyVlpOYkpkMXRwck5aelM2V2ZLc3QwLUNGM3JvM216QkpZekVyTWtIZksySVRGWXNBRXZESVE4aXlwRjJxV3FnQjVfQWpMUDRGY3pmQnNxb0xxVTIxX0xzZEp1RktXcEdmUllqVF9QRGhxd215ajNGcDZrQ3E1S2F0NDZBY0N0WTVpQzAzaWVN?oc=5).
 
 ## Requirements
 - Python 3.8
