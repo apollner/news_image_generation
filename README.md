@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists Found a 'Yellow Brick Road' at The Bottom of The Pacific Ocean**
+**Republicans bring back fake electors in battlegrounds**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTlueTR5ckROVUEyNVNOaUVOYmh0b2RLYXlhYlJucjNjQzMteTdGVFB3TGd3S2FfLVNhMmNjamxYakhqckYyYU9pY1VWdEJKMTZUdExEWDlXdjJ2OEpTLUcybXJwLXZvYUlPU3ZFYTlDeEt0UTBubGR5NG5IZmc1S2Z3Q1IzS2tLQk5UTEhnakYwTklza0k5ZkRka0lDZ0lJdXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxNLWk4QzNWMWxXYkFSMnpXRDZNOGswVzQtdWFCYlA0MDE0OTluRERBelhqQVlZT3FQdng5bHRhdkY0UmlmSzNna0RwWm55Y2tWb21oenItMTFUbmgzTy04cXVoUk5wX0FVeUtFekZuQmhRUFNtem40MEs3Uy0xeGFETlh4Mm5ISWk0Q21fQmszdTBFT3RsbWRF?oc=5).
 
 ## Requirements
 - Python 3.8
