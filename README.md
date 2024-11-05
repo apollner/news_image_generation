@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saturday Night Live alum Pete Davidson breaks character with pal John Mulaney in latest musical sketch**
+**Israeli authorities probe suspected Gaza intelligence leak by Netanyahu aide**
 
-You can read more about it [here](https://ew.com/pete-davidson-returns-to-snl-john-mulaney-musical-sketch-8738859).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-authorities-probe-suspected-gaza-intelligence-leak-by-netanyahu-aide-2024-11-03/).
 
 ## Requirements
 - Python 3.8
