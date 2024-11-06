@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Steelers trading for Jets WR Williams**
+**Thirty-five Palestinians killed in Gaza, Israel issues new evacuation orders**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42212277/source-steelers-trade-jets-wr-mike-williams).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-least-30-palestinians-gaza-medics-say-2024-11-05/).
 
 ## Requirements
 - Python 3.8
