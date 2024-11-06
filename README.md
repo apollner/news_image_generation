@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Where Did All the Hollywood Assistants Go?**
+**Vice President Kamala Harris holds campaign rally at Carrie Blast Furnaces**
 
-You can read more about it [here](http://www.hollywoodreporter.com/business/business-news/hollywood-assistants-work-hiring-1236053258/).
+You can read more about it [here](https://www.wtae.com/article/kamala-harris-rally-pittsburgh-carrie-furnaces/62802339).
 
 ## Requirements
 - Python 3.8
