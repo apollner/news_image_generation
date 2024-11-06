@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Study: Special mud rubbed on MLB baseballs has 'magical' properties**
+**Celebrities who have voted in the 2024 presidential election: Lizzo, Ariana Grande, Blake Lively, more**
 
-You can read more about it [here](https://www.nbcnews.com/science/science-news/why-baseball-mud-rubbed-on-balls-works-study-rcna178321).
+You can read more about it [here](https://pagesix.com/2024/11/04/photos/celebrities-who-have-voted-in-the-2024-presidential-election-lizzo-ariana-grande-blake-lively-more/).
 
 ## Requirements
 - Python 3.8
