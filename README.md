@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Stock Is Rising. Workers Voted to End Strike.**
+**Israel PM Netanyahu fires defence minister Gallant**
 
-You can read more about it [here](https://www.barrons.com/articles/boeing-stock-strike-yes-vote-1881f177).
+You can read more about it [here](https://www.bbc.com/news/articles/cqj07jdzzgno).
 
 ## Requirements
 - Python 3.8
