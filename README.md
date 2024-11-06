@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baby Haggis is the new Moo Deng: A pygmy hippo is born in Edinburgh**
+**Cowboys Trolled by NFL Fans for Getting 'Fleeced' in Jonathan Mingo Trade at Deadline**
 
-You can read more about it [here](https://www.npr.org/2024/11/05/nx-s1-5179701/moo-deng-haggis-pygmy-hippo-scotland).
+You can read more about it [here](https://bleacherreport.com/articles/10142298-cowboys-trolled-by-nfl-fans-for-getting-fleeced-in-jonathan-mingo-trade-at-deadline).
 
 ## Requirements
 - Python 3.8
