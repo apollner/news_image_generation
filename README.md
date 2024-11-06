@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian Stocks Slip With US Vote on Knife’s Edge: Markets Wrap**
+**Russia suspected of sending incendiary devices on US- and Canada-bound planes, Wall Street Journal reports**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-04/stock-market-today-dow-s-p-live-updates).
+You can read more about it [here](https://www.cnn.com/2024/11/04/europe/russia-suspected-incendiary-devices-europe-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
