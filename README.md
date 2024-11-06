@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 3 tons of cargo on 31st ISS resupply flight for NASA (video)**
+**Ex-49ers QB Lance to remain on Cowboys' bench after Prescott injury**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/dak-prescott-injury-trey-lance-cooper-rush/1800835/).
 
 ## Requirements
 - Python 3.8
