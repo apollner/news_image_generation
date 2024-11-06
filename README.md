@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What you need to know about the Electoral College as 2024 race nears end**
+**Source: Steelers trading for Jets WR Williams**
 
-You can read more about it [here](https://abc7.com/post/what-need-know-electoral-college-2024-race-nears-end/15512604/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42212277/source-steelers-trade-jets-wr-mike-williams).
 
 ## Requirements
 - Python 3.8
