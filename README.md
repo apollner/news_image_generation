@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kamala Harris holds final campaign event before Election Day in Philadelphia on Art Museum steps**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/philadelphia/news/kamala-harris-rally-philadelphia-lady-gaga/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
