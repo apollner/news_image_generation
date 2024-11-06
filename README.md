@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Asia-Pacific markets trade mixed as investors await U.S. election outcome, Fed rate verdict**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/11/05/asia-markets-live-updates-rba-decision-south-korea-cpi.html).
 
 ## Requirements
 - Python 3.8
