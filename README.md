@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Dow, S&P 500, Nasdaq set for a comeback as Election Day kicks off**
+**Why have five been arrested over leaked Hamas documents in Israel?**
 
-You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-set-for-comeback-as-election-day-kicks-off-143211362.html).
+You can read more about it [here](https://www.aljazeera.com/features/2024/11/5/why-have-five-been-arrested-over-leaked-hamas-documents-in-israel).
 
 ## Requirements
 - Python 3.8
