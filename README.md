@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-49ers QB Lance to remain on Cowboys' bench after Prescott injury**
+**Kourtney Kardashian Shares Photos of Baby Rocky's First Birthday Party Celebrations**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/dak-prescott-injury-trey-lance-cooper-rush/1800835/).
+You can read more about it [here](https://www.eonline.com/news/1409520/kourtney-kardashian-shares-photos-of-baby-rockys-first-birthday-party-celebrations).
 
 ## Requirements
 - Python 3.8
