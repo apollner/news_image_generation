@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucs HC gives puzzling explanation for not attempting two-point conversion; Chiefs' Andy Reid glad they didn't**
+**Kamala Harris holds final campaign event before Election Day in Philadelphia on Art Museum steps**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/bucs-hc-gives-puzzling-explanation-for-not-attempting-two-point-conversion-chiefs-andy-reid-glad-they-didnt/).
+You can read more about it [here](https://www.cbsnews.com/philadelphia/news/kamala-harris-rally-philadelphia-lady-gaga/).
 
 ## Requirements
 - Python 3.8
