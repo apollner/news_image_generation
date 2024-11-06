@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Harris and Trump set sights on Pennsylvania in final push before Election Day**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/donald-trump-kamala-harris-2024-election-0429c35a84739bd90d9e5bb92fe803de).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
