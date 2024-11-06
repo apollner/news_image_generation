@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia suspected of sending incendiary devices on US- and Canada-bound planes, Wall Street Journal reports**
+**SpaceX launches 3 tons of cargo on 31st ISS resupply flight for NASA (video)**
 
-You can read more about it [here](https://www.cnn.com/2024/11/04/europe/russia-suspected-incendiary-devices-europe-intl-latam/index.html).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-launch-3-tons-of-cargo-to-iss-today).
 
 ## Requirements
 - Python 3.8
