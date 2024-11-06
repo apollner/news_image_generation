@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Metal Slug Tactics is an odd mix of arcade shooter and grid strategy that works**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
