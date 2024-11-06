@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel PM Netanyahu fires defence minister Gallant**
+**What you need to know about the Electoral College as 2024 race nears end**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cqj07jdzzgno).
+You can read more about it [here](https://abc7.com/post/what-need-know-electoral-college-2024-race-nears-end/15512604/).
 
 ## Requirements
 - Python 3.8
