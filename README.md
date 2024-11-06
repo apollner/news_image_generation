@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thirty-five Palestinians killed in Gaza, Israel issues new evacuation orders**
+**LignoSat: First wood-panelled satellite launched into space**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-least-30-palestinians-gaza-medics-say-2024-11-05/).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y3qzd5ql9o).
 
 ## Requirements
 - Python 3.8
