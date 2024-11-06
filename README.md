@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing Stock Is Rising. Workers Voted to End Strike.**
+**Stock market today: Dow, S&P 500, Nasdaq set for a comeback as Election Day kicks off**
 
-You can read more about it [here](https://www.barrons.com/articles/boeing-stock-strike-yes-vote-1881f177).
+You can read more about it [here](https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-set-for-comeback-as-election-day-kicks-off-143211362.html).
 
 ## Requirements
 - Python 3.8
