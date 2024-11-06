@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kourtney Kardashian Shares Photos of Baby Rocky's First Birthday Party Celebrations**
+**See Taylor Swift, Andrea Swift and Donna Kelce Unite to Cheer on Travis Kelce**
 
-You can read more about it [here](https://www.eonline.com/news/1409520/kourtney-kardashian-shares-photos-of-baby-rockys-first-birthday-party-celebrations).
+You can read more about it [here](https://www.eonline.com/news/1409528/see-taylor-swift-andrea-swift-and-donna-kelce-unite-to-cheer-on-travis-kelce).
 
 ## Requirements
 - Python 3.8
