@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Tuesday, November 5, 2024**
+**Boeing strike ends as workers accept new contract**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/05/horoscopes-today-tuesday-november-5-2024).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/boeing-workers-vote-wage-deal-that-could-end-strike-2024-11-04/).
 
 ## Requirements
 - Python 3.8
