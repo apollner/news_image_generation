@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘I’m not proud of it’: Jason Kelce apologizes after video shows him spiking a cellphone after fan used a homophobic slur**
+**Harris and Trump set sights on Pennsylvania in final push before Election Day**
 
-You can read more about it [here](https://www.cnn.com/2024/11/04/sport/jason-kelce-apologizes-after-spiking-a-cellphone-after-fan-slur-spt-intl/index.html).
+You can read more about it [here](https://apnews.com/article/donald-trump-kamala-harris-2024-election-0429c35a84739bd90d9e5bb92fe803de).
 
 ## Requirements
 - Python 3.8
