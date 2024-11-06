@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 things to know for Nov. 5: Election Day, Boeing, Tropical Storm Rafael, Power plant plot, Teacher scandal**
+**Metal Slug Tactics is an odd mix of arcade shooter and grid strategy that works**
 
-You can read more about it [here](https://www.cnn.com/2024/11/05/us/5-things-to-know-for-nov-5-election-day-boeing-tropical-storm-rafael-power-plant-plot-teacher-scandal/index.html).
+You can read more about it [here](https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/).
 
 ## Requirements
 - Python 3.8
