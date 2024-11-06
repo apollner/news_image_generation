@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thirty-five Palestinians killed in Gaza, Israel issues new evacuation orders**
+**Baby Haggis is the new Moo Deng: A pygmy hippo is born in Edinburgh**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-least-30-palestinians-gaza-medics-say-2024-11-05/).
+You can read more about it [here](https://www.npr.org/2024/11/05/nx-s1-5179701/moo-deng-haggis-pygmy-hippo-scotland).
 
 ## Requirements
 - Python 3.8
