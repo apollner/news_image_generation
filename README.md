@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vice President Kamala Harris holds campaign rally at Carrie Blast Furnaces**
+**Bengals at Chargers Flexed Into Sunday Night Football**
 
-You can read more about it [here](https://www.wtae.com/article/kamala-harris-rally-pittsburgh-carrie-furnaces/62802339).
+You can read more about it [here](https://www.bengals.com/news/bengals-at-chargers-flexed-into-sunday-night-football).
 
 ## Requirements
 - Python 3.8
