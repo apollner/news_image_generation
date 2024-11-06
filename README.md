@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals at Chargers Flexed Into Sunday Night Football**
+**Study: Special mud rubbed on MLB baseballs has 'magical' properties**
 
-You can read more about it [here](https://www.bengals.com/news/bengals-at-chargers-flexed-into-sunday-night-football).
+You can read more about it [here](https://www.nbcnews.com/science/science-news/why-baseball-mud-rubbed-on-balls-works-study-rcna178321).
 
 ## Requirements
 - Python 3.8
