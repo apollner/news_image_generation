@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys Trolled by NFL Fans for Getting 'Fleeced' in Jonathan Mingo Trade at Deadline**
+**LIVE UPDATES: Polls open across North Carolina for Election Day 2024**
 
-You can read more about it [here](https://bleacherreport.com/articles/10142298-cowboys-trolled-by-nfl-fans-for-getting-fleeced-in-jonathan-mingo-trade-at-deadline).
+You can read more about it [here](https://wlos.com/news/local/north-carolina-polls-open-election-day-results-presidential-kamala-harris-donald-trump-governor-josh-stein-mark-robinson-chuck-edwards-2024).
 
 ## Requirements
 - Python 3.8
