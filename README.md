@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LIVE UPDATES: Polls open across North Carolina for Election Day 2024**
+**Marshon Lattimore Deal Makes Sense for Commanders and Saints**
 
-You can read more about it [here](https://wlos.com/news/local/north-carolina-polls-open-election-day-results-presidential-kamala-harris-donald-trump-governor-josh-stein-mark-robinson-chuck-edwards-2024).
+You can read more about it [here](https://www.si.com/nfl/marshon-lattimore-deal-makes-sense-for-commanders-and-saints-trade-deadline).
 
 ## Requirements
 - Python 3.8
