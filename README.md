@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See Taylor Swift, Andrea Swift and Donna Kelce Unite to Cheer on Travis Kelce**
+**Bucs HC gives puzzling explanation for not attempting two-point conversion; Chiefs' Andy Reid glad they didn't**
 
-You can read more about it [here](https://www.eonline.com/news/1409528/see-taylor-swift-andrea-swift-and-donna-kelce-unite-to-cheer-on-travis-kelce).
+You can read more about it [here](https://www.cbssports.com/nfl/news/bucs-hc-gives-puzzling-explanation-for-not-attempting-two-point-conversion-chiefs-andy-reid-glad-they-didnt/).
 
 ## Requirements
 - Python 3.8
