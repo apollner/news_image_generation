@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia-Pacific markets trade mixed as investors await U.S. election outcome, Fed rate verdict**
+**Horoscope for Tuesday, November 5, 2024**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/05/asia-markets-live-updates-rba-decision-south-korea-cpi.html).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/05/horoscopes-today-tuesday-november-5-2024).
 
 ## Requirements
 - Python 3.8
