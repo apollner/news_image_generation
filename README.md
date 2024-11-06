@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LignoSat: First wood-panelled satellite launched into space**
+**Boeing Stock Is Rising. Workers Voted to End Strike.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y3qzd5ql9o).
+You can read more about it [here](https://www.barrons.com/articles/boeing-stock-strike-yes-vote-1881f177).
 
 ## Requirements
 - Python 3.8
