@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing workers agree to new contract offer, concluding strike**
+**Trump’s media stock is halted for extremely volatile trading as America goes to the polls**
 
-You can read more about it [here](https://abcnews.go.com/Business/boeing-workers-vote-new-contract-end-strike/story?id\\u003d115462308).
+You can read more about it [here](https://www.cnn.com/2024/11/05/investing/trump-stock-election-truth-social/index.html).
 
 ## Requirements
 - Python 3.8
