@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PS5 Pro Review: The Best Console Graphics Yet**
+**How was the HPAI-infected pig discovered?**
 
-You can read more about it [here](https://www.cnet.com/tech/gaming/ps5-pro-review-the-best-console-graphics-yet-playstation-5/).
+You can read more about it [here](https://www.rfdtv.com/how-was-the-hpai-infected-pig-discovered).
 
 ## Requirements
 - Python 3.8
