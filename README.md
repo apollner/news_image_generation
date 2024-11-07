@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL trade deadline winners, losers: 49ers make buzzer-beating deal**
+**Stock futures, bitcoin and dollar surge as election results roll in**
 
-You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/nfl-trade-deadline-winners-losers-khalil-davis-kyle-shanahan/1801192/).
+You can read more about it [here](https://www.cnn.com/2024/11/05/investing/us-stocks-presidential-election-outcome/index.html).
 
 ## Requirements
 - Python 3.8
