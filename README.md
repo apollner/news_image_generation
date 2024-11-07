@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Battleground states rush to count ballots after mostly smooth Election Day vote**
+**Rafael strengthens into a hurricane in the Caribbean. The storm and its path could change drastically as it heads toward US**
 
-You can read more about it [here](https://www.cnn.com/2024/11/06/politics/battleground-states-vote-count-ballots/index.html).
+You can read more about it [here](https://www.cnn.com/2024/11/05/us/tropical-storm-rafael-forecast-hurricane-hnk/index.html).
 
 ## Requirements
 - Python 3.8
