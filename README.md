@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin spikes to record as traders expect Trump’s victory to boost cryptocurrencies**
+**Election 2024: Presidential results**
 
-You can read more about it [here](https://apnews.com/article/bitcoin-crypto-donald-trump-election-c2e2a1a895288c5e9c0df2721012a5bb).
+You can read more about it [here](https://www.cnn.com/election/2024/results/president).
 
 ## Requirements
 - Python 3.8
