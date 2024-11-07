@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump wins the White House in political comeback rooted in appeals to frustrated voters**
+**Europe praises Trump's victory amid wider fears of an impending economic nightmare**
 
-You can read more about it [here](https://apnews.com/article/election-day-trump-harris-white-house-83c8e246ab97f5b97be45cdc156af4e2).
+You can read more about it [here](https://www.cnbc.com/2024/11/06/eu-reaction-to-us-election-2024.html).
 
 ## Requirements
 - Python 3.8
