@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Results for the 2024 Massachusetts ballot questions**
+**Jim Justice wins West Virginia Senate race, flipping seat for Republicans**
 
-You can read more about it [here](https://www.wgbh.org/news/politics/2024-11-05/results-for-the-2024-massachusetts-ballot-questions).
+You can read more about it [here](https://www.npr.org/2024/11/05/g-s1-32669/west-virginia-governor-race-result-jim-justice).
 
 ## Requirements
 - Python 3.8
