@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL trade deadline winners and losers: While Chiefs and Lions bolster Super Bowl hopes, Cowboys sacrifice only their future**
+**Trump wins the White House in political comeback rooted in appeals to frustrated voters**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-trade-deadline-winners-and-losers-while-chiefs-and-lions-bolster-super-bowl-hopes-cowboys-sacrifice-only-their-future-042711249.html).
+You can read more about it [here](https://apnews.com/article/election-day-trump-harris-white-house-83c8e246ab97f5b97be45cdc156af4e2).
 
 ## Requirements
 - Python 3.8
