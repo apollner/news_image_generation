@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reviews for Dwayne Johnson's Christmas movie are in, and they're pretty brutal: "Will make you wish Christmas was canceled"**
+**Bitcoin spikes to record as traders expect Trump’s victory to boost cryptocurrencies**
 
-You can read more about it [here](https://www.gamesradar.com/entertainment/family-movies/reviews-for-dwayne-johnsons-christmas-movie-are-in-and-theyre-pretty-brutal-will-make-you-wish-christmas-was-canceled/).
+You can read more about it [here](https://apnews.com/article/bitcoin-crypto-donald-trump-election-c2e2a1a895288c5e9c0df2721012a5bb).
 
 ## Requirements
 - Python 3.8
