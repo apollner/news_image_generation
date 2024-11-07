@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK identifies 4 cases of new mpox variant, the first cluster outside Africa**
+**German government coalition collapses as Scholz sacks Finance Minister Lindner**
 
-You can read more about it [here](https://apnews.com/article/mpox-variant-clade-uk-africa-vaccine-cf54bba3e8731a30feac34f4006e9a15).
+You can read more about it [here](https://www.politico.eu/article/germany-coalition-government-collapse-olaf-scholz-finance-minister-christian-lindner/).
 
 ## Requirements
 - Python 3.8
