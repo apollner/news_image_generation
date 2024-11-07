@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bloodborne PS5 Pro Gameplay: Image Quality Enhancement**
+**Reviews for Dwayne Johnson's Christmas movie are in, and they're pretty brutal: "Will make you wish Christmas was canceled"**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003d72yrZZTSdOQ).
+You can read more about it [here](https://www.gamesradar.com/entertainment/family-movies/reviews-for-dwayne-johnsons-christmas-movie-are-in-and-theyre-pretty-brutal-will-make-you-wish-christmas-was-canceled/).
 
 ## Requirements
 - Python 3.8
