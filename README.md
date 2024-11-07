@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inter Milan 1-0 Arsenal (Nov 6, 2024) Game Analysis**
+**Ariana Grande has a new 10 year acting plan**
 
-You can read more about it [here](https://www.espn.com/soccer/report/_/gameId/720387).
+You can read more about it [here](https://www.avclub.com/ariana-grande-acting-wicked).
 
 ## Requirements
 - Python 3.8
