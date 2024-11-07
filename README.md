@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe praises Trump's victory amid wider fears of an impending economic nightmare**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/06/eu-reaction-to-us-election-2024.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
