@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Narco sub" carrying 8,000 pounds of cocaine intercepted in Pacific Ocean, Mexican Navy says**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/narco-sub-cocaine-intercepted-pacific-ocean-mexican-navy/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
