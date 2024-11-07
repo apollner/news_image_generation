@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Justice wins West Virginia Senate race, flipping seat for Republicans**
+**Nintendo says its Switch successor will be backward compatible with Switch games**
 
-You can read more about it [here](https://www.npr.org/2024/11/05/g-s1-32669/west-virginia-governor-race-result-jim-justice).
+You can read more about it [here](https://www.theverge.com/2024/11/5/24284745/switch-2-backward-compatibility-nintendo-online-preservation).
 
 ## Requirements
 - Python 3.8
