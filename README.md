@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tesla Shares Hit Record—Soaring 12%—And Elon Musk Becomes $15 Billion Richer With Trump Victory**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/11/06/tesla-shares-hit-record-soaring-12-and-elon-musk-becomes-15-billion-richer-with-trump-victory/).
 
 ## Requirements
 - Python 3.8
