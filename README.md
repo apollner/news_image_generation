@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump trades continue to rally as his odds improve**
+**Battleground states rush to count ballots after mostly smooth Election Day vote**
 
-You can read more about it [here](https://www.forexlive.com/news/trump-trades-continue-to-rally-as-his-odds-improve-20241106/).
+You can read more about it [here](https://www.cnn.com/2024/11/06/politics/battleground-states-vote-count-ballots/index.html).
 
 ## Requirements
 - Python 3.8
