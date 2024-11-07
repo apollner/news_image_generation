@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo Switch 2 Will Officially Be Backward-Compatible With Original Switch Games**
+**Bloodborne PS5 Pro Gameplay: Image Quality Enhancement**
 
-You can read more about it [here](https://www.ign.com/articles/nintendo-switch-2-will-officially-be-backward-compatible-with-original-switch-games).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003d72yrZZTSdOQ).
 
 ## Requirements
 - Python 3.8
