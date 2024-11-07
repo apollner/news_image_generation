@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Shares Hit Record—Soaring 12%—And Elon Musk Becomes $15 Billion Richer With Trump Victory**
+**AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache Review**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/11/06/tesla-shares-hit-record-soaring-12-and-elon-musk-becomes-15-billion-richer-with-trump-victory/).
+You can read more about it [here](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux).
 
 ## Requirements
 - Python 3.8
