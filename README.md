@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla Soars as Musk’s All-In Bet on Trump Seen Reaping Rewards**
+**Five dead after plane crash near Falcon Field in Mesa**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-06/tesla-soars-as-musk-s-all-in-bet-on-trump-seen-reaping-rewards).
+You can read more about it [here](https://www.abc15.com/news/region-southeast-valley/mesa/apparent-plane-crash-near-falcon-field).
 
 ## Requirements
 - Python 3.8
