@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina election 2024: How to track live results**
+**Boeing workers agree to new contract offer, concluding strike**
 
-You can read more about it [here](https://www.wbtv.com/2024/11/05/north-carolina-election-2024-how-track-live-results/).
+You can read more about it [here](https://abcnews.go.com/Business/boeing-workers-vote-new-contract-end-strike/story?id\\u003d115462308).
 
 ## Requirements
 - Python 3.8
