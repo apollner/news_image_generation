@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marshon Lattimore Deal Makes Sense for Commanders and Saints**
+**North Carolina election 2024: How to track live results**
 
-You can read more about it [here](https://www.si.com/nfl/marshon-lattimore-deal-makes-sense-for-commanders-and-saints-trade-deadline).
+You can read more about it [here](https://www.wbtv.com/2024/11/05/north-carolina-election-2024-how-track-live-results/).
 
 ## Requirements
 - Python 3.8
