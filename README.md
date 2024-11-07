@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Media stock was halted three times on Election Day after its price dropped 15% in just 15 minutes**
+**NFL trade deadline winners, losers: 49ers make buzzer-beating deal**
 
-You can read more about it [here](https://fortune.com/2024/11/05/trump-media-stock-price-halted-three-times-election-day/).
+You can read more about it [here](https://www.nbcsportsbayarea.com/nfl/nfl-trade-deadline-winners-losers-khalil-davis-kyle-shanahan/1801192/).
 
 ## Requirements
 - Python 3.8
