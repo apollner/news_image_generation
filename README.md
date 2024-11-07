@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 live election results map: North Carolina votes for president, US House, governor, and more**
+**Results for the 2024 Massachusetts ballot questions**
 
-You can read more about it [here](https://abc11.com/post/2024-live-election-results-map-north-carolina-votes-president-us-house-governor-more/15509584/).
+You can read more about it [here](https://www.wgbh.org/news/politics/2024-11-05/results-for-the-2024-massachusetts-ballot-questions).
 
 ## Requirements
 - Python 3.8
