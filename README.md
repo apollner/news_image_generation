@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli PM Netanyahu fires defence minister Gallant, citing lack of trust**
+**Buccaneers-Chiefs tops 20 million on Disney multicast**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-pm-netanyahu-fires-defence-minister-gallant-citing-lack-trust-2024-11-05/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-chiefs-tops-20-million-on-disney-multicast).
 
 ## Requirements
 - Python 3.8
