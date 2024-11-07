@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five dead after plane crash near Falcon Field in Mesa**
+**Nintendo Switch 2 Will Officially Be Backward-Compatible With Original Switch Games**
 
-You can read more about it [here](https://www.abc15.com/news/region-southeast-valley/mesa/apparent-plane-crash-near-falcon-field).
+You can read more about it [here](https://www.ign.com/articles/nintendo-switch-2-will-officially-be-backward-compatible-with-original-switch-games).
 
 ## Requirements
 - Python 3.8
