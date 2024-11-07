@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How was the HPAI-infected pig discovered?**
+**Champions League live blog: Arsenal-Inter Milan, PSG-Atletico Madrid**
 
-You can read more about it [here](https://www.rfdtv.com/how-was-the-hpai-infected-pig-discovered).
+You can read more about it [here](https://www.espn.com/soccer/story/_/id/42114426/2024-uefa-champions-league-matchday-4-live-updates-highlights-inter-milan-arsenal-psg-atletico-madrid-bayern-munich-barcelona).
 
 ## Requirements
 - Python 3.8
