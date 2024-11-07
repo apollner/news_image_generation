@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tesla shares soar during after-hours trading as a Trump victory appears increasingly likely**
+**Queen Camilla withdraws from engagements due to chest infection**
 
-You can read more about it [here](https://fortune.com/2024/11/06/tesla-shares-soar-after-hours-trading-elon-musk-donald-trump-election/).
+You can read more about it [here](https://www.bbc.com/news/articles/c8dm13r2je6o).
 
 ## Requirements
 - Python 3.8
