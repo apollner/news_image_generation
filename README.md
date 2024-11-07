@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nintendo says its Switch successor will be backward compatible with Switch games**
+**Trump Media stock was halted three times on Election Day after its price dropped 15% in just 15 minutes**
 
-You can read more about it [here](https://www.theverge.com/2024/11/5/24284745/switch-2-backward-compatibility-nintendo-online-preservation).
+You can read more about it [here](https://fortune.com/2024/11/05/trump-media-stock-price-halted-three-times-election-day/).
 
 ## Requirements
 - Python 3.8
