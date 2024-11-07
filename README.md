@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Red One’ Review: Dwayne Johnson & Chris Evans’ Slightly Absurd Christmas Action Comedy Commits To The Bit**
+**Live election updates: Donald Trump wins U.S. presidency**
 
-You can read more about it [here](http://deadline.com/2024/11/red-one-review-dwayne-johnson-chris-evans-1236165948/).
+You can read more about it [here](https://apnews.com/live/trump-harris-election-updates-11-5-2024).
 
 ## Requirements
 - Python 3.8
