@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rafael strengthens into a hurricane in the Caribbean. The storm and its path could change drastically as it heads toward US**
+**Hoax bomb threats linked to Russia target polling places in battleground states, FBI says**
 
-You can read more about it [here](https://www.cnn.com/2024/11/05/us/tropical-storm-rafael-forecast-hurricane-hnk/index.html).
+You can read more about it [here](https://www.reuters.com/world/us/fake-bomb-threats-linked-russia-briefly-close-georgia-polling-locations-2024-11-05/).
 
 ## Requirements
 - Python 3.8
