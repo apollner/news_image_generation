@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hoax bomb threats linked to Russia target polling places in battleground states, FBI says**
+**‘Red One’ Review: Dwayne Johnson & Chris Evans’ Slightly Absurd Christmas Action Comedy Commits To The Bit**
 
-You can read more about it [here](https://www.reuters.com/world/us/fake-bomb-threats-linked-russia-briefly-close-georgia-polling-locations-2024-11-05/).
+You can read more about it [here](http://deadline.com/2024/11/red-one-review-dwayne-johnson-chris-evans-1236165948/).
 
 ## Requirements
 - Python 3.8
