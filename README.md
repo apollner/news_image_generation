@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buccaneers-Chiefs tops 20 million on Disney multicast**
+**2024 live election results map: North Carolina votes for president, US House, governor, and more**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/buccaneers-chiefs-tops-20-million-on-disney-multicast).
+You can read more about it [here](https://abc11.com/post/2024-live-election-results-map-north-carolina-votes-president-us-house-governor-more/15509584/).
 
 ## Requirements
 - Python 3.8
