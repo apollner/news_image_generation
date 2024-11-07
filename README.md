@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ariana Grande has a new 10 year acting plan**
+**UK identifies 4 cases of new mpox variant, the first cluster outside Africa**
 
-You can read more about it [here](https://www.avclub.com/ariana-grande-acting-wicked).
+You can read more about it [here](https://apnews.com/article/mpox-variant-clade-uk-africa-vaccine-cf54bba3e8731a30feac34f4006e9a15).
 
 ## Requirements
 - Python 3.8
