@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live election updates: Donald Trump wins U.S. presidency**
+**Tesla shares soar during after-hours trading as a Trump victory appears increasingly likely**
 
-You can read more about it [here](https://apnews.com/live/trump-harris-election-updates-11-5-2024).
+You can read more about it [here](https://fortune.com/2024/11/06/tesla-shares-soar-after-hours-trading-elon-musk-donald-trump-election/).
 
 ## Requirements
 - Python 3.8
