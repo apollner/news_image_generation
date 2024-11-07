@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AMD Ryzen 7 9800X3D Linux Performance: Zen 5 With 3D V-Cache Review**
+**Europe praises Trump's victory amid wider fears of an impending economic nightmare**
 
-You can read more about it [here](https://www.phoronix.com/review/amd-ryzen-7-9800x3d-linux).
+You can read more about it [here](https://www.cnbc.com/2024/11/06/eu-reaction-to-us-election-2024.html).
 
 ## Requirements
 - Python 3.8
