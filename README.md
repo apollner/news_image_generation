@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top names for Trump's foreign policy team**
+**NFL Week 10 picks: Can Chargers and Rams keep their winning streaks going?**
 
-You can read more about it [here](https://www.axios.com/2024/11/07/trump-national-security-foreign-policy-team).
+You can read more about it [here](https://sports.yahoo.com/nfl-week-10-picks-chargers-110002610.html).
 
 ## Requirements
 - Python 3.8
