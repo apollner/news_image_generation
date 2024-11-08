@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Australia plans a social media ban for children under 16**
+**Horoscope for Thursday, November 7, 2024**
 
-You can read more about it [here](https://apnews.com/article/australia-social-media-age-limit-e8259408c0b1456f41967decd474782a).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/07/horoscopes-today-thursday-november-7-2024).
 
 ## Requirements
 - Python 3.8
