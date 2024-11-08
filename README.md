@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**"There were a lot of mistakes": Democrats start clawing each others' eyes out**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.axios.com/2024/11/07/democrats-blame-game-2024-election-harris).
 
 ## Requirements
 - Python 3.8
