@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump takes calls from growing list of world leaders following election victory**
+**Top names for Trump's foreign policy team**
 
-You can read more about it [here](https://abcnews.go.com/International/trump-takes-calls-growing-list-world-leaders-election/story?id\\u003d115594837).
+You can read more about it [here](https://www.axios.com/2024/11/07/trump-national-security-foreign-policy-team).
 
 ## Requirements
 - Python 3.8
