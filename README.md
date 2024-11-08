@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southern California fire moving 'dangerously fast' with 0% containment**
+**Hear what RFK Jr. said about vaccines post-election**
 
-You can read more about it [here](https://abcnews.go.com/US/southern-california-extreme-fire-warnings-dry-windy-conditions/story?id\\u003d115573200).
+You can read more about it [here](https://www.cnn.com/2024/11/07/politics/video/rfk-jr-vaccine-plan-health-trump-administration-digvid).
 
 ## Requirements
 - Python 3.8
