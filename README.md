@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US reinstates plea deals for Khalid Sheikh Mohammed, other 9/11 suspects**
+**Steph Curry Makes NBA History in Golden State Warriors vs. Boston Celtics**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/7/us-reinstates-plea-deals-for-khalid-sheikh-mohammed-other-9-11).
+You can read more about it [here](https://www.si.com/nba/warriors/news/steph-curry-makes-nba-history-in-golden-state-warriors-vs-boston-celtics-01jc27717sc2).
 
 ## Requirements
 - Python 3.8
