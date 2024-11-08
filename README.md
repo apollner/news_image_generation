@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hear what RFK Jr. said about vaccines post-election**
+**Harris allies blame Biden for vice president’s resounding loss to Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/11/07/politics/video/rfk-jr-vaccine-plan-health-trump-administration-digvid).
+You can read more about it [here](https://www.pbs.org/newshour/politics/harris-allies-blame-biden-for-vice-presidents-resounding-loss-to-trump).
 
 ## Requirements
 - Python 3.8
