@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"Only When It Is Dark...": Kamala Harris' Message As She Concedes To Trump**
+**Silicon Valley is officially grieving over Trump but quietly gleeful over a possible tech deal resurgence**
 
-You can read more about it [here](https://www.ndtv.com/world-news/harris-concedes-election-to-trump-outcome-not-what-we-wanted-but-light-of-americas-promise-will-always-burn-bright-6960835).
+You can read more about it [here](https://www.businessinsider.com/silicon-valley-trump-return-startups-venture-capital-2024-11).
 
 ## Requirements
 - Python 3.8
