@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX's Dragon is about to do something to the ISS it's never done before**
+**EU leaders strain for unity after Donald Trump win and German crisis**
 
-You can read more about it [here](https://www.space.com/space-exploration/international-space-station/spacex-dragon-spacecraft-will-raise-iss-orbit-tomorrow-in-1st-ever-reboost).
+You can read more about it [here](https://www.ft.com/content/61970b07-ff49-4fae-ac37-428dcc8900de).
 
 ## Requirements
 - Python 3.8
