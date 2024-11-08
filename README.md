@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed after major post-election rally as focus shifts to Fed: Live updates**
+**Scrub! SpaceX stands down from Wednesday launch from Cape Canaveral SLC-40**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/06/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/11/06/what-falcon-9-fairing-dragon-satellite-spacex-starlink-launch-from-florida-cape-canaveral-wednesday/76064477007/).
 
 ## Requirements
 - Python 3.8
