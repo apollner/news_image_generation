@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lennox: After Trump’s win, Republicans eye 2026**
+**Canada orders shutdown of TikTok's Canadian business, app access to continue**
 
-You can read more about it [here](https://www.detroitnews.com/story/opinion/2024/11/06/after-trumps-win-republicans-eye-2026/76092550007/).
+You can read more about it [here](https://www.reuters.com/technology/canada-orders-wind-up-tiktoks-canadian-business-app-access-continue-2024-11-06/).
 
 ## Requirements
 - Python 3.8
