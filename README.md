@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane Rafael lashes Cuba, power grid collapse**
+**Stock futures rise as Wall Street tries to extend major post-election rally, Fed ahead: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/americas/hurricane-rafael-strengthening-quickly-it-churns-north-towards-cuba-2024-11-06/).
+You can read more about it [here](https://www.cnbc.com/2024/11/06/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
