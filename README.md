@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Silicon Valley is officially grieving over Trump but quietly gleeful over a possible tech deal resurgence**
+**Southern California fire moving 'dangerously fast' with 0% containment**
 
-You can read more about it [here](https://www.businessinsider.com/silicon-valley-trump-return-startups-venture-capital-2024-11).
+You can read more about it [here](https://abcnews.go.com/US/southern-california-extreme-fire-warnings-dry-windy-conditions/story?id\\u003d115573200).
 
 ## Requirements
 - Python 3.8
