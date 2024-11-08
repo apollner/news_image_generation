@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German government coalition collapses as Scholz sacks Finance Minister Lindner**
+**"Only When It Is Dark...": Kamala Harris' Message As She Concedes To Trump**
 
-You can read more about it [here](https://www.politico.eu/article/germany-coalition-government-collapse-olaf-scholz-finance-minister-christian-lindner/).
+You can read more about it [here](https://www.ndtv.com/world-news/harris-concedes-election-to-trump-outcome-not-what-we-wanted-but-light-of-americas-promise-will-always-burn-bright-6960835).
 
 ## Requirements
 - Python 3.8
