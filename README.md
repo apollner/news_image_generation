@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Incoming Los Angeles County district attorney could ask to delay Menendez brothers’ resentencing**
+**Silicon Valley is officially grieving over Trump but quietly gleeful over a possible tech deal resurgence**
 
-You can read more about it [here](https://www.cnn.com/2024/11/06/us/erik-lyle-menendez-brothers-resentencing-new-district-attorney/index.html).
+You can read more about it [here](https://www.businessinsider.com/silicon-valley-trump-return-startups-venture-capital-2024-11).
 
 ## Requirements
 - Python 3.8
