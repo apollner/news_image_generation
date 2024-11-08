@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump victory to reverberate through global economy**
+**German government coalition collapses as Scholz sacks Finance Minister Lindner**
 
-You can read more about it [here](https://www.reuters.com/markets/us/trump-victory-reverberate-through-global-economy-2024-11-06/).
+You can read more about it [here](https://www.politico.eu/article/germany-coalition-government-collapse-olaf-scholz-finance-minister-christian-lindner/).
 
 ## Requirements
 - Python 3.8
