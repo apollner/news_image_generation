@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany coalition: Government on brink of collapse after key minister fired**
+**Trump takes calls from growing list of world leaders following election victory**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c7v3r046pzzo).
+You can read more about it [here](https://abcnews.go.com/International/trump-takes-calls-growing-list-world-leaders-election/story?id\\u003d115594837).
 
 ## Requirements
 - Python 3.8
