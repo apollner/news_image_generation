@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"There were a lot of mistakes": Democrats start clawing each others' eyes out**
+**Australia plans a social media ban for children under 16**
 
-You can read more about it [here](https://www.axios.com/2024/11/07/democrats-blame-game-2024-election-harris).
+You can read more about it [here](https://apnews.com/article/australia-social-media-age-limit-e8259408c0b1456f41967decd474782a).
 
 ## Requirements
 - Python 3.8
