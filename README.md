@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX scrubs Starlink 6-77 mission launch for a second time**
+**'It's simple, really' - why Latinos flocked to Trump**
 
-You can read more about it [here](https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/).
+You can read more about it [here](https://www.bbc.com/news/articles/cze3yr77j9wo).
 
 ## Requirements
 - Python 3.8
