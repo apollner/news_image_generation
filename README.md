@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada orders shutdown of TikTok's Canadian business, app access to continue**
+**Incoming Los Angeles County district attorney could ask to delay Menendez brothers’ resentencing**
 
-You can read more about it [here](https://www.reuters.com/technology/canada-orders-wind-up-tiktoks-canadian-business-app-access-continue-2024-11-06/).
+You can read more about it [here](https://www.cnn.com/2024/11/06/us/erik-lyle-menendez-brothers-resentencing-new-district-attorney/index.html).
 
 ## Requirements
 - Python 3.8
