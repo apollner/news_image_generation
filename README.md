@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s biggest courtroom nemesis is looking for an exit strategy**
+**Are Ozempic weight loss shots worth side effects? Do better options exist?**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/06/trump-jack-smith-exit-strategy-00188108).
+You can read more about it [here](https://www.ksl.com/article/51183030/are-ozempic-weight-loss-shots-worth-side-effects--do-better-options-exist).
 
 ## Requirements
 - Python 3.8
