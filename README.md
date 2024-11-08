@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Elon Musk’s $130 million investment in Trump's victory could reap a huge pay off for Tesla and the rest of his business empire**
+**Hurricane Rafael lashes Cuba, power grid collapse**
 
-You can read more about it [here](https://fortune.com/2024/11/06/elon-musk-donald-trump-tesla-spacex-xai-boring-neuralink/).
+You can read more about it [here](https://www.reuters.com/world/americas/hurricane-rafael-strengthening-quickly-it-churns-north-towards-cuba-2024-11-06/).
 
 ## Requirements
 - Python 3.8
