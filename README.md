@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'It's simple, really' - why Latinos flocked to Trump**
+**Stock futures are little changed after major post-election rally as focus shifts to Fed: Live updates**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cze3yr77j9wo).
+You can read more about it [here](https://www.cnbc.com/2024/11/06/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
