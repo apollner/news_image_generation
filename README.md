@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scrub! SpaceX stands down from Wednesday launch from Cape Canaveral SLC-40**
+**Who will win the House? Here are the outstanding races to watch**
 
-You can read more about it [here](https://www.floridatoday.com/story/tech/science/space/spacex/2024/11/06/what-falcon-9-fairing-dragon-satellite-spacex-starlink-launch-from-florida-cape-canaveral-wednesday/76064477007/).
+You can read more about it [here](https://www.bbc.com/news/articles/c04ld19vlg6o).
 
 ## Requirements
 - Python 3.8
