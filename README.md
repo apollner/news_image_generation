@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southern California fire moving 'dangerously fast' with 0% containment**
+**SpaceX scrubs Starlink 6-77 mission launch for a second time**
 
-You can read more about it [here](https://abcnews.go.com/US/southern-california-extreme-fire-warnings-dry-windy-conditions/story?id\\u003d115573200).
+You can read more about it [here](https://spaceflightnow.com/2024/11/06/live-coverage-spacex-to-launch-23-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-4/).
 
 ## Requirements
 - Python 3.8
