@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steph Curry Makes NBA History in Golden State Warriors vs. Boston Celtics**
+**Germany coalition: Government on brink of collapse after key minister fired**
 
-You can read more about it [here](https://www.si.com/nba/warriors/news/steph-curry-makes-nba-history-in-golden-state-warriors-vs-boston-celtics-01jc27717sc2).
+You can read more about it [here](https://www.bbc.com/news/articles/c7v3r046pzzo).
 
 ## Requirements
 - Python 3.8
