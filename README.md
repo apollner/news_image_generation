@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Mac Mini 2024 Review: A Button Push Away From Flawless**
+**Judge scolds Giuliani for not turning over assets to two women, including car he's driving**
 
-You can read more about it [here](https://gizmodo.com/apple-mac-mini-2024-review-a-button-push-away-from-flawless-2000521416).
+You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-bankruptcy-fight-valuables/).
 
 ## Requirements
 - Python 3.8
