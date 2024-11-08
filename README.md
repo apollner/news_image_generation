@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Liam Payne: 3 people arrested, charged in connection with former One Direction singer's death**
+**‘This is awkward’: World leaders contend with past insults of Trump**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/liam-payne-3-people-arrested-charged-in-connection-with-former-one-direction-singers-death-211813213.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/07/trump-2024-world-leaders-critics-controversy/).
 
 ## Requirements
 - Python 3.8
