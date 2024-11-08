@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Thursday, November 7, 2024**
+**US reinstates plea deals for Khalid Sheikh Mohammed, other 9/11 suspects**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/07/horoscopes-today-thursday-november-7-2024).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/7/us-reinstates-plea-deals-for-khalid-sheikh-mohammed-other-9-11).
 
 ## Requirements
 - Python 3.8
