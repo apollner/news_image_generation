@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 picks: Can Chargers and Rams keep their winning streaks going?**
+**Who will win control of the House? The outstanding races to watch**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-week-10-picks-chargers-110002610.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c04ld19vlg6o).
 
 ## Requirements
 - Python 3.8
