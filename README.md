@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quick News: GTA6, Michael, Switch, Marty, You**
+**The view from countries where Trump's win really matters**
 
-You can read more about it [here](https://www.darkhorizons.com/quick-news-gta6-michael-switch-marty-you/).
+You can read more about it [here](https://www.bbc.com/news/articles/c4gpd2487e5o).
 
 ## Requirements
 - Python 3.8
