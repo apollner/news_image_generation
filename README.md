@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crew-8 astronauts will speak publicly for the first time since post-splashdown hospitalizations**
+**Toyota says California-led EV mandates are 'impossible' as states fall short of goal**
 
-You can read more about it [here](https://www.cnn.com/2024/11/08/science/spacex-nasa-crew-8-astronauts-update/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/08/toyota-california-ev-mandates-impossible.html).
 
 ## Requirements
 - Python 3.8
