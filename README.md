@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ja’Marr Chase has 238 receiving yards after 70-yard touchdown ties game**
+**China unveils $1.4 trillion local debt package but no direct stimulus**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-has-238-receiving-yards-after-70-yard-touchdown-ties-game).
+You can read more about it [here](https://www.reuters.com/world/china/china-unveils-steps-tackle-hidden-debt-local-goverments-2024-11-08/).
 
 ## Requirements
 - Python 3.8
