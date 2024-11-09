@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden urges Americans to 'bring down the temperature' after Trump's US election win**
+**Prince William says this has been hardest year of his life as he opens up on 'pride' in Kate**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-set-address-nation-after-trumps-decisive-us-election-win-2024-11-07/).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003drbIejCJNaLY).
 
 ## Requirements
 - Python 3.8
