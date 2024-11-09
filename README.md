@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Futures Mixed On Earnings, China**
+**Notre Dame Bells Ring Out In Paris For First Time Since 2019 Fire**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-earnings-china-stimulus-fed-trump/).
+You can read more about it [here](https://www.barrons.com/articles/notre-dame-bells-ring-out-in-paris-for-first-time-since-2019-fire-466132fa).
 
 ## Requirements
 - Python 3.8
