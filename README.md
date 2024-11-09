@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli soccer fans attacked in Amsterdam, Israeli authorities say**
+**Stock futures gain marginally as Wall Street looks to extend postelection rally: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2024/11/07/europe/israel-soccer-fans-attacked-amsterdam-intl-hnk/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/07/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
