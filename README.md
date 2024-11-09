@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge declares Biden immigration program for spouses of U.S. citizens illegal**
+**Ja’Marr Chase had an NFL record 457 receiving yards against the Ravens this season**
 
-You can read more about it [here](https://www.cbsnews.com/news/judge-declares-biden-immigration-program-for-spouses-of-u-s-citizens-illegal/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-had-an-nfl-record-457-receiving-yards-against-the-ravens-this-season).
 
 ## Requirements
 - Python 3.8
