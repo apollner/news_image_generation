@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Racist texts referring to ‘picking cotton’ sent to several people across US following election**
+**‘This is awkward’: World leaders contend with past insults of Trump**
 
-You can read more about it [here](https://www.cnn.com/2024/11/07/us/racist-text-messages-post-election/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/07/trump-2024-world-leaders-critics-controversy/).
 
 ## Requirements
 - Python 3.8
