@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The new Mac Mini takes a small step towards upgradeable storage**
+**Country star Zach Bryan’s ex accuses him of emotional abuse, claims she was offered $12M to sign NDA**
 
-You can read more about it [here](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability).
+You can read more about it [here](https://www.foxnews.com/entertainment/country-star-zach-bryans-ex-accuses-him-emotional-abuse-claims-she-offered-12m-sign-nda).
 
 ## Requirements
 - Python 3.8
