@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame Bells Ring Out In Paris For First Time Since 2019 Fire**
+**[Removed]**
 
-You can read more about it [here](https://www.barrons.com/articles/notre-dame-bells-ring-out-in-paris-for-first-time-since-2019-fire-466132fa).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
