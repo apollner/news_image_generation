@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What channel is Thursday Night Football game on tonight? Ravens vs Bengals, NFL Week 10 schedule**
+**Three people face preliminary charges over Liam Payne’s death in Buenos Aires**
 
-You can read more about it [here](https://www.courier-journal.com/story/sports/nfl/2024/11/07/when-nfl-game-today-2024-watch-ravens-bengals-thursday-night-football-game-nov-7-week-10-schedule/76109018007/).
+You can read more about it [here](https://www.cnn.com/2024/11/07/americas/liam-payne-charged-buenos-aires-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
