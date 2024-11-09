@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'9-1-1' star Oliver Stark on Buck and Tommy's shocking relationship developments**
+**Racist texts referring to ‘picking cotton’ sent to several people across US following election**
 
-You can read more about it [here](https://ew.com/911-season-8-episode-6-buck-tommy-abby-breakup-oliver-stark-interview-8742016).
+You can read more about it [here](https://www.cnn.com/2024/11/07/us/racist-text-messages-post-election/index.html).
 
 ## Requirements
 - Python 3.8
