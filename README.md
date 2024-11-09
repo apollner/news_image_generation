@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Bengals vs. Ravens score, live updates: Cincinnati leads Baltimore 7–0 after 1st quarter on Thursday Night Football**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/live/bengals-vs-ravens-score-live-updates-cincinnati-leads-147-at-halftime-on-thursday-night-football-000001519.html).
 
 ## Requirements
 - Python 3.8
