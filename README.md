@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**United Nations warily awaits Donald Trump's return to power**
+**Investors Dial Back ‘Trump Trades’ as Policy Doubts Seep In**
 
-You can read more about it [here](https://www.reuters.com/world/united-nations-warily-awaits-donald-trumps-return-power-2024-11-08/).
+You can read more about it [here](https://finance.yahoo.com/news/investors-dial-back-trump-trades-051048976.html).
 
 ## Requirements
 - Python 3.8
