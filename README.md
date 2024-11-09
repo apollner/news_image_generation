@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘This is awkward’: World leaders contend with past insults of Trump**
+**Israeli soccer fans attacked in Amsterdam, Israeli authorities say**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/07/trump-2024-world-leaders-critics-controversy/).
+You can read more about it [here](https://www.cnn.com/2024/11/07/europe/israel-soccer-fans-attacked-amsterdam-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
