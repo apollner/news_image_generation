@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'They shouted Jewish, IDF': Israeli football fan describes attack in Amsterdam**
+**Nearly 70% of verified Gaza war dead women and children, UN rights office says**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckgv4mdr9y8o).
+You can read more about it [here](https://www.reuters.com/world/middle-east/nearly-70-gaza-war-dead-women-children-un-rights-office-says-2024-11-08/).
 
 ## Requirements
 - Python 3.8
