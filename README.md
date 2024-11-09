@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 70% of verified Gaza war dead women and children, UN rights office says**
+**NFL Week 10 bold predictions: Panthers, Bryce Young win away from home; Drake Maye outduels Caleb Williams**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/nearly-70-gaza-war-dead-women-children-un-rights-office-says-2024-11-08/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-bold-predictions-panthers-bryce-young-win-away-from-home-drake-maye-outduels-caleb-williams/).
 
 ## Requirements
 - Python 3.8
