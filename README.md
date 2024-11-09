@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives**
+**In Trump 2020 election case, Jack Smith asks judge for time to determine "appropriate course"**
 
-You can read more about it [here](https://www.justice.gov/opa/pr/justice-department-announces-murder-hire-and-related-charges-against-irgc-asset-and-two).
+You can read more about it [here](https://www.cbsnews.com/news/trump-2020-election-case-smith-asks-for-time/).
 
 ## Requirements
 - Python 3.8
