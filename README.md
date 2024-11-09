@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William says this has been hardest year of his life as he opens up on 'pride' in Kate**
+**What channel is Thursday Night Football game on tonight? Ravens vs Bengals, NFL Week 10 schedule**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003drbIejCJNaLY).
+You can read more about it [here](https://www.courier-journal.com/story/sports/nfl/2024/11/07/when-nfl-game-today-2024-watch-ravens-bengals-thursday-night-football-game-nov-7-week-10-schedule/76109018007/).
 
 ## Requirements
 - Python 3.8
