@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hypnotic PS5 Pro Boot Screen, Background Worth the Upgrade**
+**A grand bargain with Putin or confrontation with China: 3 ways Trump may change America’s place in the world**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/11/hypnotic-ps5-pro-boot-screen-background-worth-the-upgrade).
+You can read more about it [here](https://theconversation.com/a-grand-bargain-with-putin-or-confrontation-with-china-3-ways-trump-may-change-americas-place-in-the-world-243151).
 
 ## Requirements
 - Python 3.8
