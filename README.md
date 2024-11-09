@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toyota says California-led EV mandates are 'impossible' as states fall short of goal**
+**Blaney, Byron, Logano, Reddick: Who will be 2024 NASCAR champion?**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/08/toyota-california-ev-mandates-impossible.html).
+You can read more about it [here](https://www.espn.com/racing/nascar/story/_/id/42269097/ryan-blaney-william-byron-joey-logano-tyler-reddick-2024-nascar-cup-series-champion).
 
 ## Requirements
 - Python 3.8
