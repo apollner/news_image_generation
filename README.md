@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blaney, Byron, Logano, Reddick: Who will be 2024 NASCAR champion?**
+**The new Mac Mini takes a small step towards upgradeable storage**
 
-You can read more about it [here](https://www.espn.com/racing/nascar/story/_/id/42269097/ryan-blaney-william-byron-joey-logano-tyler-reddick-2024-nascar-cup-series-champion).
+You can read more about it [here](https://www.theverge.com/2024/11/8/24291328/mac-mini-removable-ssd-storage-nand-chips-upgradability).
 
 ## Requirements
 - Python 3.8
