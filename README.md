@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures gain marginally as Wall Street looks to extend postelection rally: Live updates**
+**Just five minutes of exercise could help your blood pressure, study says**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/07/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/11/07/blood-pressure-exercise-five-minutes/).
 
 ## Requirements
 - Python 3.8
