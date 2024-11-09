@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brianna Chickenfry Accuses Zach Bryan of Emotional Abuse, Asking Her to Sign $12 Million NDA**
+**'Narrowly missed a tragedy': Teen believed to be armed stopped from entering Wisconsin elementary school**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/zach-bryan-brianna-chickenfry-emotional-abuse-sign-nda-1235157592/).
+You can read more about it [here](https://abcnews.go.com/US/narrowly-missed-tragedy-teen-believed-armed-stopped-entering/story?id\\u003d115624055).
 
 ## Requirements
 - Python 3.8
