@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 bold predictions: Panthers, Bryce Young win away from home; Drake Maye outduels Caleb Williams**
+**Crew-8 astronauts will speak publicly for the first time since post-splashdown hospitalizations**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-10-bold-predictions-panthers-bryce-young-win-away-from-home-drake-maye-outduels-caleb-williams/).
+You can read more about it [here](https://www.cnn.com/2024/11/08/science/spacex-nasa-crew-8-astronauts-update/index.html).
 
 ## Requirements
 - Python 3.8
