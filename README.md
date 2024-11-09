@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A grand bargain with Putin or confrontation with China: 3 ways Trump may change America’s place in the world**
+**Officials might have missed not 1, but 2 Ravens penalties on Bengals' 2-point try**
 
-You can read more about it [here](https://theconversation.com/a-grand-bargain-with-putin-or-confrontation-with-china-3-ways-trump-may-change-americas-place-in-the-world-243151).
+You can read more about it [here](https://sports.yahoo.com/officials-might-have-missed-not-1-but-2-ravens-penalties-on-bengals-2-point-try-045302866.html).
 
 ## Requirements
 - Python 3.8
