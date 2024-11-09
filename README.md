@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Racist texts about slaves and ‘picking cotton’ sent to Black people as state AGs, colleges and police probe their origins**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/11/07/us/racist-text-messages-post-election/index.html).
 
 ## Requirements
 - Python 3.8
