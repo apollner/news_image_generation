@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ja’Marr Chase had an NFL record 457 receiving yards against the Ravens this season**
+**United Nations warily awaits Donald Trump's return to power**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-had-an-nfl-record-457-receiving-yards-against-the-ravens-this-season).
+You can read more about it [here](https://www.reuters.com/world/united-nations-warily-awaits-donald-trumps-return-power-2024-11-08/).
 
 ## Requirements
 - Python 3.8
