@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge scolds Giuliani for not turning over assets to two women, including car he's driving**
+**Biden urges Americans to 'bring down the temperature' after Trump's US election win**
 
-You can read more about it [here](https://www.cbsnews.com/news/rudy-giuliani-bankruptcy-fight-valuables/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-set-address-nation-after-trumps-decisive-us-election-win-2024-11-07/).
 
 ## Requirements
 - Python 3.8
