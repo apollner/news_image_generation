@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Racist texts about slaves and ‘picking cotton’ sent to Black people as state AGs, colleges and police probe their origins**
+**Nearly 70% of verified Gaza war dead women and children, UN rights office says**
 
-You can read more about it [here](https://www.cnn.com/2024/11/07/us/racist-text-messages-post-election/index.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/nearly-70-gaza-war-dead-women-children-un-rights-office-says-2024-11-08/).
 
 ## Requirements
 - Python 3.8
