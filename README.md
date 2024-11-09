@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Election 2024 live updates: Who will control the House? Dozens of races not decided**
+**Fed's Powell flags careful, patient approach after rate cut**
 
-You can read more about it [here](https://www.usatoday.com/story/news/politics/elections/2024/11/07/election-2024-live-updates-house-control/76094069007/).
+You can read more about it [here](https://www.reuters.com/markets/rates-bonds/fed-cut-rates-with-new-landscape-decipher-after-trump-win-2024-11-07/).
 
 ## Requirements
 - Python 3.8
