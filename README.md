@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Three people face preliminary charges over Liam Payne’s death in Buenos Aires**
+**Prince William says 2024 was 'hardest year in my life' after Kate Middleton, King Charles' cancer diagnoses**
 
-You can read more about it [here](https://www.cnn.com/2024/11/07/americas/liam-payne-charged-buenos-aires-intl-latam/index.html).
+You can read more about it [here](https://www.foxnews.com/entertainment/prince-william-says-2024-hardest-year-my-life-after-kate-middleton-king-charles-cancer-diagnoses).
 
 ## Requirements
 - Python 3.8
