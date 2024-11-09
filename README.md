@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures gain marginally as Wall Street looks to extend postelection rally: Live updates**
+**Judge declares Biden immigration program for spouses of U.S. citizens illegal**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/07/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cbsnews.com/news/judge-declares-biden-immigration-program-for-spouses-of-u-s-citizens-illegal/).
 
 ## Requirements
 - Python 3.8
