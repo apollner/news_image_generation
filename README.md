@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nearly 70% of verified Gaza war dead women and children, UN rights office says**
+**MLB, Braves object to Diamond Sports reorganization plan, question company's future viability**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/nearly-70-gaza-war-dead-women-children-un-rights-office-says-2024-11-08/).
+You can read more about it [here](https://www.cnbc.com/2024/11/08/mlb-baseball-braves-diamond-sports-reorganization-plan.html).
 
 ## Requirements
 - Python 3.8
