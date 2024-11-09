@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In Trump 2020 election case, Jack Smith asks judge for time to determine "appropriate course"**
+**'They shouted Jewish, IDF': Israeli football fan describes attack in Amsterdam**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-2020-election-case-smith-asks-for-time/).
+You can read more about it [here](https://www.bbc.com/news/articles/ckgv4mdr9y8o).
 
 ## Requirements
 - Python 3.8
