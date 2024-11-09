@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Narrowly missed a tragedy': Teen believed to be armed stopped from entering Wisconsin elementary school**
+**Futures Mixed On Earnings, China**
 
-You can read more about it [here](https://abcnews.go.com/US/narrowly-missed-tragedy-teen-believed-armed-stopped-entering/story?id\\u003d115624055).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-earnings-china-stimulus-fed-trump/).
 
 ## Requirements
 - Python 3.8
