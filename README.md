@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William says 2024 was 'hardest year in my life' after Kate Middleton, King Charles' cancer diagnoses**
+**[Removed]**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/prince-william-says-2024-hardest-year-my-life-after-kate-middleton-king-charles-cancer-diagnoses).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
