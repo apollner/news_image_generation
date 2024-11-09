@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Officials might have missed not 1, but 2 Ravens penalties on Bengals' 2-point try**
+**Ja’Marr Chase has 238 receiving yards after 70-yard touchdown ties game**
 
-You can read more about it [here](https://sports.yahoo.com/officials-might-have-missed-not-1-but-2-ravens-penalties-on-bengals-2-point-try-045302866.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/jamarr-chase-has-238-receiving-yards-after-70-yard-touchdown-ties-game).
 
 ## Requirements
 - Python 3.8
