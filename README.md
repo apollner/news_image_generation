@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Country star Zach Bryan’s ex accuses him of emotional abuse, claims she was offered $12M to sign NDA**
+**Justice Department Announces Murder-For-Hire and Related Charges Against IRGC Asset and Two Local Operatives**
 
-You can read more about it [here](https://www.foxnews.com/entertainment/country-star-zach-bryans-ex-accuses-him-emotional-abuse-claims-she-offered-12m-sign-nda).
+You can read more about it [here](https://www.justice.gov/opa/pr/justice-department-announces-murder-hire-and-related-charges-against-irgc-asset-and-two).
 
 ## Requirements
 - Python 3.8
