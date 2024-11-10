@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anger over ‘street chaos’ fuels ouster of another blue-city mayor**
+**PlayStation Has Swiftly Solved Its Profitability Problem**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/09/san-francisco-london-breed-ouster-00188581).
+You can read more about it [here](https://www.pushsquare.com/news/2024/11/playstation-has-swiftly-solved-its-profitability-problem).
 
 ## Requirements
 - Python 3.8
