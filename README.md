@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump promised massive tariffs on imports but how he’ll pull it off is still being figured out**
+**FBI investigates racist text messages sent to black people across US**
 
-You can read more about it [here](https://www.cnn.com/2024/11/08/politics/tariffs-donald-trump-strategy/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy93dp4zk3o).
 
 ## Requirements
 - Python 3.8
