@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US charges man over alleged Iranian plot to kill Trump**
+**Trump Wins Here Are the Implications for the Energy Sector**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx28x187rmko).
+You can read more about it [here](https://oilprice.com/Energy/Energy-General/Trump-Wins-Here-Are-the-Implications-for-the-Energy-Sector.html).
 
 ## Requirements
 - Python 3.8
