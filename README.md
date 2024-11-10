@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After Trump’s win, some women are considering the 4B movement**
+**Trump's win gives US stocks best week of the year**
 
-You can read more about it [here](https://www.cnn.com/2024/11/09/us/4b-movement-trump-south-korea-wellness-cec/index.html).
+You can read more about it [here](https://www.foxbusiness.com/markets/trump-win-gives-u-s-stocks-best-week-year).
 
 ## Requirements
 - Python 3.8
