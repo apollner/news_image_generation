@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA still mum about SpaceX Crew-8 astronaut's medical issue**
+**Just 5 minutes of exercise could reduce high blood pressure, study finds**
 
-You can read more about it [here](https://www.space.com/nasa-spacex-crew-8-astronaut-health-issue-privacy-concerns).
+You can read more about it [here](https://www.foxnews.com/health/just-minutes-exercise-could-reduce-high-blood-pressure-study-finds).
 
 ## Requirements
 - Python 3.8
