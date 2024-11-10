@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Just 5 minutes of exercise could reduce high blood pressure, study finds**
+**Tony Todd Dies: ‘Candyman’ Star Whose Hundreds Of Credits Include ‘The Crow’ & ‘Platoon’ Was 69**
 
-You can read more about it [here](https://www.foxnews.com/health/just-minutes-exercise-could-reduce-high-blood-pressure-study-finds).
+You can read more about it [here](http://deadline.com/2024/11/tony-todd-dead-candyman-1236171521/).
 
 ## Requirements
 - Python 3.8
