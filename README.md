@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Smoke Smell Hits NYC As Forecasters Warn Of ‘Critical’ Fire Conditions In The Northeast—Here’s What To Know**
+**PlayStation Has Swiftly Solved Its Profitability Problem**
 
-You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/11/09/wildfires-spread-in-new-jersey-as-forecasters-warn-of-critical-fire-conditions-in-the-northeast-heres-what-to-know/).
+You can read more about it [here](https://www.pushsquare.com/news/2024/11/playstation-has-swiftly-solved-its-profitability-problem).
 
 ## Requirements
 - Python 3.8
