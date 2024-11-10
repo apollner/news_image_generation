@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI, Justice Department investigating racist mass texts sent following the election**
+**Hal Steinbrenner To Meet With Boras/Soto**
 
-You can read more about it [here](https://apnews.com/article/racist-text-messages-slavery-investigations-election-efc248569cb48e056931ed3e8470ae65).
+You can read more about it [here](https://www.mlbtraderumors.com/2024/11/hal-steinbrenner-to-meet-with-boras-soto.html).
 
 ## Requirements
 - Python 3.8
