@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s daily horoscope for Nov. 9, 2024**
+**Attacks on Israeli soccer fans a ‘black night’ for Amsterdam, mayor says**
 
-You can read more about it [here](https://www.nj.com/advice/2024/11/todays-daily-horoscope-for-nov-9-2024.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/08/amsterdam-attack-israel-soccer-match-violence/).
 
 ## Requirements
 - Python 3.8
