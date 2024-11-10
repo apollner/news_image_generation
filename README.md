@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palworld Dev Reveals Patents at Heart of Nintendo Lawsuit - IGN Daily Fix**
+**Trump promised massive tariffs on imports but how he’ll pull it off is still being figured out**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dIniwmdAt0sI).
+You can read more about it [here](https://www.cnn.com/2024/11/08/politics/tariffs-donald-trump-strategy/index.html).
 
 ## Requirements
 - Python 3.8
