@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PlayStation Has Swiftly Solved Its Profitability Problem**
+**NASA astronauts who spent 7 months on ISS won’t reveal which one had medical episode when they returned home**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/11/playstation-has-swiftly-solved-its-profitability-problem).
+You can read more about it [here](https://nypost.com/2024/11/09/world-news/nasa-astronauts-mum-on-who-got-sick-after-7-months-in-space/).
 
 ## Requirements
 - Python 3.8
