@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attacks on Israeli soccer fans a ‘black night’ for Amsterdam, mayor says**
+**After Trump’s win, some women are considering the 4B movement**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/08/amsterdam-attack-israel-soccer-match-violence/).
+You can read more about it [here](https://www.cnn.com/2024/11/09/us/4b-movement-trump-south-korea-wellness-cec/index.html).
 
 ## Requirements
 - Python 3.8
