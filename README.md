@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hal Steinbrenner To Meet With Boras/Soto**
+**49ers waive RB Patrick Taylor to make room for Christian McCaffrey**
 
-You can read more about it [here](https://www.mlbtraderumors.com/2024/11/hal-steinbrenner-to-meet-with-boras-soto.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-waive-rb-patrick-taylor-to-make-room-for-christian-mccaffrey).
 
 ## Requirements
 - Python 3.8
