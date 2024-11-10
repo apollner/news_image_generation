@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI investigates racist text messages sent to black people across US**
+**US charges man over alleged Iranian plot to kill Trump**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwy93dp4zk3o).
+You can read more about it [here](https://www.bbc.com/news/articles/cx28x187rmko).
 
 ## Requirements
 - Python 3.8
