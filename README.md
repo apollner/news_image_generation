@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert F. Kennedy Jr. could be on short list for HHS secretary, Trump allies say**
+**I've been testing Apple Intelligence — here's 3 reasons why it's worth upgrading to a new iPhone**
 
-You can read more about it [here](https://www.cbsnews.com/news/robert-f-kennedy-trump-short-list-hhs-secretary-allies-say/).
+You can read more about it [here](https://www.tomsguide.com/phones/iphones/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone).
 
 ## Requirements
 - Python 3.8
