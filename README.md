@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anger over ‘street chaos’ fuels ouster of another blue-city mayor**
+**Trump’s new chief of staff is an unassuming figure in his brash inner circle. She’s also one of its most effective operators.**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/09/san-francisco-london-breed-ouster-00188581).
+You can read more about it [here](https://www.cnn.com/2024/11/09/politics/susie-wiles-trump-chief-of-staff/index.html).
 
 ## Requirements
 - Python 3.8
