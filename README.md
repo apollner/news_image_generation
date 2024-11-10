@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Todd Dies At 69, Voice Of Venom, Horror Legend**
+**Attacks on Israeli soccer fans a ‘black night’ for Amsterdam, mayor says**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/11/09/tony-todd-dies-at-69-voice-of-venom-horror-legend/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/08/amsterdam-attack-israel-soccer-match-violence/).
 
 ## Requirements
 - Python 3.8
