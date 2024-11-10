@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tony Todd Dies: ‘Candyman’ Star Whose Hundreds Of Credits Include ‘The Crow’ & ‘Platoon’ Was 69**
+**Skynet-1A: Why did the UK's first satellite end up thousands of miles from where it should have been?**
 
-You can read more about it [here](http://deadline.com/2024/11/tony-todd-dead-candyman-1236171521/).
+You can read more about it [here](https://www.bbc.com/news/articles/cpwrr58801yo).
 
 ## Requirements
 - Python 3.8
