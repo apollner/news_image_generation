@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Fried Chicken Sandwich Day 2024 is Saturday: Check out these deals and freebies**
+**Trump promised massive tariffs on imports but how he’ll pull it off is still being figured out**
 
-You can read more about it [here](https://www.usatoday.com/story/money/food/2024/11/08/national-fried-chicken-sandwich-day-2024-deals-freebies/76127992007/).
+You can read more about it [here](https://www.cnn.com/2024/11/08/politics/tariffs-donald-trump-strategy/index.html).
 
 ## Requirements
 - Python 3.8
