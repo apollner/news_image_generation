@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I've been testing Apple Intelligence — here's 3 reasons why it's worth upgrading to a new iPhone**
+**FBI investigates racist text messages sent to black people across US**
 
-You can read more about it [here](https://www.tomsguide.com/phones/iphones/ive-been-testing-apple-intelligence-heres-3-reasons-why-its-worth-upgrading-to-a-new-iphone).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy93dp4zk3o).
 
 ## Requirements
 - Python 3.8
