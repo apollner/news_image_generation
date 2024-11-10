@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Attacks on Israeli soccer fans a ‘black night’ for Amsterdam, mayor says**
+**Robert F. Kennedy Jr. could be on short list for HHS secretary, Trump allies say**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/08/amsterdam-attack-israel-soccer-match-violence/).
+You can read more about it [here](https://www.cbsnews.com/news/robert-f-kennedy-trump-short-list-hhs-secretary-allies-say/).
 
 ## Requirements
 - Python 3.8
