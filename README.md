@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southern California firefighters make progress against wildfire as fierce winds start to subside**
+**National Fried Chicken Sandwich Day 2024 is Saturday: Check out these deals and freebies**
 
-You can read more about it [here](https://apnews.com/article/california-mountain-fire-winds-structures-destroyed-f526521a2e1427aa228cad771037bd56).
+You can read more about it [here](https://www.usatoday.com/story/money/food/2024/11/08/national-fried-chicken-sandwich-day-2024-deals-freebies/76127992007/).
 
 ## Requirements
 - Python 3.8
