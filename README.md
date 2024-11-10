@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's win gives US stocks best week of the year**
+**UNC, Kansas provide epic love letter to college hoops — in a crushing loss for Tar Heels**
 
-You can read more about it [here](https://www.foxbusiness.com/markets/trump-win-gives-u-s-stocks-best-week-year).
+You can read more about it [here](https://www.newsobserver.com/sports/college/acc/unc/article294996579.html).
 
 ## Requirements
 - Python 3.8
