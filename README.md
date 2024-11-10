@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UNC, Kansas provide epic love letter to college hoops — in a crushing loss for Tar Heels**
+**Attacks on Israeli soccer fans a ‘black night’ for Amsterdam, mayor says**
 
-You can read more about it [here](https://www.newsobserver.com/sports/college/acc/unc/article294996579.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/08/amsterdam-attack-israel-soccer-match-violence/).
 
 ## Requirements
 - Python 3.8
