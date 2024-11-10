@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Today’s daily horoscope for Nov. 9, 2024**
+**Susie Wiles' journey to be Trump's gatekeeper**
 
-You can read more about it [here](https://www.nj.com/advice/2024/11/todays-daily-horoscope-for-nov-9-2024.html).
+You can read more about it [here](https://www.axios.com/2024/11/08/susie-wiles-trump-2024-white-house).
 
 ## Requirements
 - Python 3.8
