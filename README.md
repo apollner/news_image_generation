@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s new chief of staff is an unassuming figure in his brash inner circle. She’s also one of its most effective operators.**
+**Smoke Smell Hits NYC As Forecasters Warn Of ‘Critical’ Fire Conditions In The Northeast—Here’s What To Know**
 
-You can read more about it [here](https://www.cnn.com/2024/11/09/politics/susie-wiles-trump-chief-of-staff/index.html).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/11/09/wildfires-spread-in-new-jersey-as-forecasters-warn-of-critical-fire-conditions-in-the-northeast-heres-what-to-know/).
 
 ## Requirements
 - Python 3.8
