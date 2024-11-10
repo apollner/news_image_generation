@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Wins Here Are the Implications for the Energy Sector**
+**NASA still mum about SpaceX Crew-8 astronaut's medical issue**
 
-You can read more about it [here](https://oilprice.com/Energy/Energy-General/Trump-Wins-Here-Are-the-Implications-for-the-Energy-Sector.html).
+You can read more about it [here](https://www.space.com/nasa-spacex-crew-8-astronaut-health-issue-privacy-concerns).
 
 ## Requirements
 - Python 3.8
