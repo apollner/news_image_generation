@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Fight Night: Magny vs Prates Prelim Results | Winner Interviews, Highlights And More From Las Vegas**
+**FEMA employee fired after telling relief team to skip houses with Trump signs following Florida hurricane**
 
-You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-fight-night-magny-vs-prates-vegas-100).
+You can read more about it [here](https://www.cnn.com/2024/11/08/politics/fema-employee-trump-florida-hurricane/index.html).
 
 ## Requirements
 - Python 3.8
