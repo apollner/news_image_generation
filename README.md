@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eastern Cuba rocked by earthquake of magnitude 6.8**
+**‘Venom 3’ Leads Box Office Again, A24’s ‘Heretic’ Scares Up $11 Million Debut in Sleepy Weekend**
 
-You can read more about it [here](https://www.reuters.com/world/americas/eastern-cuba-rocked-by-earthquake-magnitude-68-2024-11-10/).
+You can read more about it [here](https://variety.com/2024/film/box-office/venom-3-box-office-winner-a24-heretic-opening-weekend-1236205857/).
 
 ## Requirements
 - Python 3.8
