@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘SNL’ Cast Praises Trump in Sarcastic Cold Open as Dana Carvey Debuts Elon Musk Impression: ‘I Run the Country Now!’**
+**UFC Fight Night: Magny vs Prates Prelim Results | Winner Interviews, Highlights And More From Las Vegas**
 
-You can read more about it [here](https://variety.com/2024/tv/news/snl-cold-open-praises-trump-dana-carvey-elon-musk-impression-1236205730/).
+You can read more about it [here](https://www.ufc.com/news/prelim-results-highlights-winner-interviews-ufc-fight-night-magny-vs-prates-vegas-100).
 
 ## Requirements
 - Python 3.8
