@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Crypto Analyst Sees Bitcoin Hitting $80,000 This Month**
+**Dangerous air quality hits New York as brush fires erupt in Northeast**
 
-You can read more about it [here](https://www.benzinga.com/markets/cryptocurrency/24/11/41866459/crypto-analyst-sees-bitcoin-hitting-80000-this-month).
+You can read more about it [here](https://abcnews.go.com/US/dangerous-air-quality-hits-new-york-brush-fires/story?id\\u003d115696563).
 
 ## Requirements
 - Python 3.8
