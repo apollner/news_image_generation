@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Unexpected twist in Texas cold case murder probe: Victim was a bridesmaid in killer's wedding**
+**Qatar halts role as cease-fire broker while panel warns of famine in Gaza**
 
-You can read more about it [here](https://www.cbsnews.com/news/mary-catherine-edwards-clayton-foreman-texas-murder-bridesmaid-killers-wedding-48-hours/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/09/qatar-gaza-israel-famine/).
 
 ## Requirements
 - Python 3.8
