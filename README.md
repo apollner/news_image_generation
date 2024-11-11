@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘SNL’ Star Michael Che Drinks on Air After Trump Victory, Shouts Out R. Kelly: ‘If White People Can Elect Their Felon, I Can Dance to Mine’**
+**Unexpected twist in Texas cold case murder probe: Victim was a bridesmaid in killer's wedding**
 
-You can read more about it [here](https://variety.com/2024/tv/news/snl-weekend-update-michael-che-trump-r-kelly-1236205801/).
+You can read more about it [here](https://www.cbsnews.com/news/mary-catherine-edwards-clayton-foreman-texas-murder-bridesmaid-killers-wedding-48-hours/).
 
 ## Requirements
 - Python 3.8
