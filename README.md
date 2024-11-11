@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump completes swing-state sweep with Arizona victory**
+**‘SNL’ Cast Praises Trump in Sarcastic Cold Open as Dana Carvey Debuts Elon Musk Impression: ‘I Run the Country Now!’**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/09/donald-trump-wins-arizona-00188147).
+You can read more about it [here](https://variety.com/2024/tv/news/snl-cold-open-praises-trump-dana-carvey-elon-musk-impression-1236205730/).
 
 ## Requirements
 - Python 3.8
