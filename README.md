@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 10 Rankings (Sunday Update): Injuries loom large for several star WRs**
+**Bitcoin hits record high as Trump edges closer to full control of Congress**
 
-You can read more about it [here](https://thescore.com/nflfan/news/3123079).
+You can read more about it [here](https://www.ft.com/content/170785ce-68e5-4de5-88bc-168a9a7fa3ed).
 
 ## Requirements
 - Python 3.8
