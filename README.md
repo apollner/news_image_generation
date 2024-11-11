@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qatar halts role as cease-fire broker while panel warns of famine in Gaza**
+**New York Giants at Carolina Panthers odds, picks and predictions**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/09/qatar-gaza-israel-famine/).
+You can read more about it [here](https://sportsbookwire.usatoday.com/2024/11/09/new-york-giants-at-carolina-panthers-odds-picks-and-predictions/).
 
 ## Requirements
 - Python 3.8
