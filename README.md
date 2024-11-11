@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your lookahead horoscope: November 10, 2024**
+**[Removed]**
 
-You can read more about it [here](https://www.theglobeandmail.com/life/horoscopes/article-your-lookahead-horoscope-november-10-2024/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
