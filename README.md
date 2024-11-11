@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FEMA worker fired for telling hurricane responders to avoid homes with pro-Trump signs**
+**[Removed]**
 
-You can read more about it [here](https://www.npr.org/2024/11/09/g-s1-33601/fema-worker-hurricane-trump-signs-florida).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
