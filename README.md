@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA astronauts who spent 7 months on ISS won’t reveal which one had medical episode when they returned home**
+**Dangerous air quality hits New York as brush fires erupt in Northeast**
 
-You can read more about it [here](https://nypost.com/2024/11/09/world-news/nasa-astronauts-mum-on-who-got-sick-after-7-months-in-space/).
+You can read more about it [here](https://abcnews.go.com/US/dangerous-air-quality-hits-new-york-brush-fires/story?id\\u003d115696563).
 
 ## Requirements
 - Python 3.8
