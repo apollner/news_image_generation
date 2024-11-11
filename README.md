@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**With Trump Win Boosting Stocks, Investors Hunt for Next Winners**
+**Chiefs vs. Broncos odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 10 NFL predictions**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-10/with-trump-win-boosting-stocks-investors-hunt-for-next-winners).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-broncos-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-10-nfl-predictions/).
 
 ## Requirements
 - Python 3.8
