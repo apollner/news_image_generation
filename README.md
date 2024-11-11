@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AP Race Call: Donald Trump wins Nevada**
+**5 Minutes a Day to Lower Blood Pressure? Here’s the Science**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/ap-race-call-donald-trump-wins-nevada).
+You can read more about it [here](https://scitechdaily.com/5-minutes-a-day-to-lower-blood-pressure-heres-the-science/).
 
 ## Requirements
 - Python 3.8
