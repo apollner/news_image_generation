@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drones strike Moscow as top UK official highlights Russian casualties in Ukraine**
+**Supreme Court Justice Sonia Sotomayor to remain at post as some call for her to step down**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-moscow-drones-204fd4df47c4fa4be50441f5e9c047c3).
+You can read more about it [here](https://www.cnn.com/2024/11/10/politics/sonia-sotomayor-supreme-court-remain/index.html).
 
 ## Requirements
 - Python 3.8
