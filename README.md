@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin breaks $79K and 'no rash action is needed,' says analyst**
+**‘Joker: Folie à Deux’ Is the “Worst Film Ever Made” Sequel Actor Says**
 
-You can read more about it [here](https://cointelegraph.com/news/bitcoin-breaks-79k-all-time-high-crypto-analysts).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/joker-folie-a-deux-worst-film-ever-made-tim-dillon-joe-rogan-1236057243/).
 
 ## Requirements
 - Python 3.8
