@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York Giants at Carolina Panthers odds, picks and predictions**
+**FEMA worker fired for telling hurricane responders to avoid homes with pro-Trump signs**
 
-You can read more about it [here](https://sportsbookwire.usatoday.com/2024/11/09/new-york-giants-at-carolina-panthers-odds-picks-and-predictions/).
+You can read more about it [here](https://www.npr.org/2024/11/09/g-s1-33601/fema-worker-hurricane-trump-signs-florida).
 
 ## Requirements
 - Python 3.8
