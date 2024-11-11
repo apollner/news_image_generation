@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine launches biggest drone attack yet on Moscow**
+**With Trump Win Boosting Stocks, Investors Hunt for Next Winners**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/10/russia-ukraine-war-drone-attack-moscow/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-10/with-trump-win-boosting-stocks-investors-hunt-for-next-winners).
 
 ## Requirements
 - Python 3.8
