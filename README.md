@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Still-stunned Democrats begin to squint toward their future**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/11/10/politics/democrats-election-party-future-voters/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
