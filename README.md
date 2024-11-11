@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs vs. Broncos odds, picks, spread, how to watch, live stream: Model reveals 2024 Week 10 NFL predictions**
+**Drones strike Moscow as top UK official highlights Russian casualties in Ukraine**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-vs-broncos-odds-picks-spread-how-to-watch-live-stream-model-reveals-2024-week-10-nfl-predictions/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-moscow-drones-204fd4df47c4fa4be50441f5e9c047c3).
 
 ## Requirements
 - Python 3.8
