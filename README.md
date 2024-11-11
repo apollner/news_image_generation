@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin breaks $79K and 'no rash action is needed,' says analyst**
+**‘SNL’ Star Michael Che Drinks on Air After Trump Victory, Shouts Out R. Kelly: ‘If White People Can Elect Their Felon, I Can Dance to Mine’**
 
-You can read more about it [here](https://cointelegraph.com/news/bitcoin-breaks-79k-all-time-high-crypto-analysts).
+You can read more about it [here](https://variety.com/2024/tv/news/snl-weekend-update-michael-che-trump-r-kelly-1236205801/).
 
 ## Requirements
 - Python 3.8
