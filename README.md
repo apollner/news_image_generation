@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Trump completes swing-state sweep with Arizona victory**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.com/news/2024/11/09/donald-trump-wins-arizona-00188147).
 
 ## Requirements
 - Python 3.8
