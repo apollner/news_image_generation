@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dangerous air quality hits New York as brush fires erupt in Northeast**
+**NFL hands Nick Bosa $11K fine for crashing interview with MAGA hat**
 
-You can read more about it [here](https://abcnews.go.com/US/dangerous-air-quality-hits-new-york-brush-fires/story?id\\u003d115696563).
+You can read more about it [here](https://nypost.com/2024/11/09/sports/nfl-hands-nick-bosa-11k-fine-for-crashing-interview-in-maga-hat/).
 
 ## Requirements
 - Python 3.8
