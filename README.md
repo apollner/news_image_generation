@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Venom 3’ Leads Box Office Again, A24’s ‘Heretic’ Scares Up $11 Million Debut in Sleepy Weekend**
+**Deebo Samuel blames "frustration" for yelling at K Jake Moody, striking LS Taybor Pepper**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/venom-3-box-office-winner-a24-heretic-opening-weekend-1236205857/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-blames-frustration-for-yelling-at-k-jake-moody-striking-ls-taybor-pepper).
 
 ## Requirements
 - Python 3.8
