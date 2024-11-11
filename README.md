@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court Justice Sonia Sotomayor to remain at post as some call for her to step down**
+**Help your knees by doing these easy exercises**
 
-You can read more about it [here](https://www.cnn.com/2024/11/10/politics/sonia-sotomayor-supreme-court-remain/index.html).
+You can read more about it [here](https://www.cnn.com/2024/11/10/health/painful-knees-pilates-exercises-wellness/index.html).
 
 ## Requirements
 - Python 3.8
