@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 Minutes a Day to Lower Blood Pressure? Here’s the Science**
+**Dangerous air quality hits New York as brush fires erupt in Northeast**
 
-You can read more about it [here](https://scitechdaily.com/5-minutes-a-day-to-lower-blood-pressure-heres-the-science/).
+You can read more about it [here](https://abcnews.go.com/US/dangerous-air-quality-hits-new-york-brush-fires/story?id\\u003d115696563).
 
 ## Requirements
 - Python 3.8
