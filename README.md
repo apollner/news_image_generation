@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FEMA employee fired after telling relief team to skip houses with Trump signs following Florida hurricane**
+**Bitcoin breaks $79K and 'no rash action is needed,' says analyst**
 
-You can read more about it [here](https://www.cnn.com/2024/11/08/politics/fema-employee-trump-florida-hurricane/index.html).
+You can read more about it [here](https://cointelegraph.com/news/bitcoin-breaks-79k-all-time-high-crypto-analysts).
 
 ## Requirements
 - Python 3.8
