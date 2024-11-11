@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Prisco's Week 10 NFL picks: Eagles edge Cowboys, Texans upset Lions on 'Sunday Night Football'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/priscos-week-10-nfl-picks-eagles-edge-cowboys-texans-upset-lions-on-sunday-night-football/).
 
 ## Requirements
 - Python 3.8
