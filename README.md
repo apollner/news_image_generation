@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump wins Arizona**
+**FEMA worker fired for telling hurricane responders to avoid homes with pro-Trump signs**
 
-You can read more about it [here](https://www.npr.org/2024/11/10/g-s1-33609/donald-trump-wins-arizona).
+You can read more about it [here](https://www.npr.org/2024/11/09/g-s1-33601/fema-worker-hurricane-trump-signs-florida).
 
 ## Requirements
 - Python 3.8
