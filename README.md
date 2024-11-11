@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dangerous air quality hits New York as brush fires erupt in Northeast**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/dangerous-air-quality-hits-new-york-brush-fires/story?id\\u003d115696563).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
