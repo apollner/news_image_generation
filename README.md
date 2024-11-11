@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How gophers brought Mount St. Helens back to life in one day**
+**'The prescription is nature': How satellites can show us the healing effects of nature**
 
-You can read more about it [here](https://phys.org/news/2024-11-gophers-brought-mount-st-helens.html).
+You can read more about it [here](https://www.livescience.com/health/the-prescription-is-nature-how-satellites-can-show-us-the-healing-effects-of-nature).
 
 ## Requirements
 - Python 3.8
