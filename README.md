@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoff picture: Chiefs lead AFC, Lions lead NFC postseason races after tight wins in Week 10**
+**The Penguin Finale: Deaths and Oswald's Fate Set Up 'The Batman 2'**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-playoff-picture-chiefs-lead-afc-lions-lead-nfc-postseason-races-after-tight-wins-in-week-10-050950681.html).
+You can read more about it [here](https://variety.com/2024/tv/features/the-penguin-finale-deaths-oswald-fate-the-batman-2-1236204538/).
 
 ## Requirements
 - Python 3.8
