@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk reposts call to end the Federal Reserve Bank**
+**Apple Has Begun Selling iPhone 16 Replacement Parts**
 
-You can read more about it [here](https://cointelegraph.com/news/elon-musk-reposts-call-end-federal-reserve-bank).
+You can read more about it [here](https://gizmodo.com/apple-has-begun-selling-iphone-16-replacement-parts-2000522783).
 
 ## Requirements
 - Python 3.8
