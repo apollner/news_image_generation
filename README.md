@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans inch closer to formally locking up House majority**
+**FTX is suing Binance to recover nearly $1.8 billion**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/11/11/congress/hill-state-of-play-00188743).
+You can read more about it [here](https://www.theverge.com/2024/11/11/24293431/ftx-suing-binance-1-8-billion-fraud-allegations).
 
 ## Requirements
 - Python 3.8
