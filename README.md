@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6.8 magnitude earthquake strikes off coast of eastern Cuba**
+**Logano holds off Blaney for third NASCAR title**
 
-You can read more about it [here](https://www.cnn.com/2024/11/10/americas/earthquake-cuba-intl-latam/index.html).
+You can read more about it [here](https://www.espn.com/racing/nascar/story/_/id/42316163/joey-logano-wins-third-nascar-cup-series-title).
 
 ## Requirements
 - Python 3.8
