@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Malnourished emperor penguin that swam ashore in Australia 2,000 miles from home a quandary for rescuers**
+**Bitcoin jumps to record as Trump's election turbocharges cryptocurrencies**
 
-You can read more about it [here](https://www.cbsnews.com/news/emperor-penguin-australia-2000-miles-from-antarctic-ice-melting-climate-change/).
+You can read more about it [here](https://www.reuters.com/technology/bitcoin-surges-record-high-trump-bets-2024-11-11/).
 
 ## Requirements
 - Python 3.8
