@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin jumps to record as Trump's election turbocharges cryptocurrencies**
+**PFT’s Week 10 2024 NFL results and recap**
 
-You can read more about it [here](https://www.reuters.com/technology/bitcoin-surges-record-high-trump-bets-2024-11-11/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-10-2024-nfl-results-and-recap).
 
 ## Requirements
 - Python 3.8
