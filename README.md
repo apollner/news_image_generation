@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious craters exploded in Siberia’s permafrost. Scientists say they now know why**
+**Bitcoin jumps to record as Trump's election turbocharges cryptocurrencies**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/climate/exploding-siberian-craters-permafrost-explained/index.html).
+You can read more about it [here](https://www.reuters.com/technology/bitcoin-surges-record-high-trump-bets-2024-11-11/).
 
 ## Requirements
 - Python 3.8
