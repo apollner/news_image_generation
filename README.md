@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**To Cope With Dementia, Seniors Are Turning to Cannabis**
+**Mysterious craters exploded in Siberia’s permafrost. Scientists say they now know why**
 
-You can read more about it [here](https://www.wsj.com/health/wellness/dementia-symptoms-treatment-marijuana-562b1c9e).
+You can read more about it [here](https://www.cnn.com/2024/11/11/climate/exploding-siberian-craters-permafrost-explained/index.html).
 
 ## Requirements
 - Python 3.8
