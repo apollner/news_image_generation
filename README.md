@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic Rep. Ro Khanna says party needs "to be emphasizing the economic issues"**
+**'Heretic' and Hugh Grant debut with $11 million, but 'Venom: The Last Dance' tops box office again**
 
-You can read more about it [here](https://www.cbsnews.com/news/ro-khanna-democrats-economic-agenda-face-the-nation/).
+You can read more about it [here](https://apnews.com/article/box-office-heretic-venom-last-dance-christmas-pageant-954b7e1b4812ff960759ef0ae8324208).
 
 ## Requirements
 - Python 3.8
