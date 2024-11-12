@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli fire kills 30 Palestinians as tanks roll into central Gaza camp**
+**SpaceX launching 24 Starlink satellites from Florida today after weather delay**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-fire-kills-11-palestinians-tanks-roll-into-central-gaza-camp-2024-11-11/).
+You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-69).
 
 ## Requirements
 - Python 3.8
