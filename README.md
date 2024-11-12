@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names former Rep. Lee Zeldin to lead EPA, adviser Stephen Miller to be deputy chief of policy**
+**Apple execs address Mac mini's hidden power button in 2024 redesign**
 
-You can read more about it [here](https://apnews.com/article/trump-stephen-miller-policy-immigration-9cc6ad3118779b23bff88022ca5e2260).
+You can read more about it [here](https://appleinsider.com/articles/24/11/11/apple-execs-address-mac-minis-hidden-power-button-in-2024-redesign).
 
 ## Requirements
 - Python 3.8
