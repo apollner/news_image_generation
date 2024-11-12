@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Gladiator II’ Review: Paul Mescal And Denzel Washington Power Ridley Scott’s Long Awaited Sequel To His Only Best Picture Oscar Winner**
+**Kremlin says reports that Trump and Putin spoke in recent days are 'pure fiction'**
 
-You can read more about it [here](http://deadline.com/2024/11/gladiator-ii-review-paul-mescal-denzel-washington-ridley-scotts-long-awaited-sequel-best-picture-oscar-winner-1236172181/).
+You can read more about it [here](https://www.reuters.com/world/kremlin-says-there-was-no-putin-trump-call-2024-11-11/).
 
 ## Requirements
 - Python 3.8
