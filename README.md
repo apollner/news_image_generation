@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions-Texans: Detroit overcomes Jared Goff's 5 INTs, rally to stun Houston 26-23**
+**6.8 magnitude earthquake strikes off coast of eastern Cuba**
 
-You can read more about it [here](https://sports.yahoo.com/live/lions-texans-detroit-overcomes-jared-goffs-5-ints-rally-to-stun-houston-26-23-000049102.html).
+You can read more about it [here](https://www.cnn.com/2024/11/10/americas/earthquake-cuba-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
