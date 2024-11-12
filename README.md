@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deebo Samuel blames "frustration" for yelling at K Jake Moody, striking LS Taybor Pepper**
+**Trump presses next GOP Senate leader to allow ‘recess appointments’**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/deebo-samuel-blames-frustration-for-yelling-at-k-jake-moody-striking-ls-taybor-pepper).
+You can read more about it [here](https://www.politico.com/news/2024/11/10/trump-presses-next-republican-senate-leader-recess-appointments-00188640).
 
 ## Requirements
 - Python 3.8
