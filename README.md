@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 10 Takeaways: Pulse Checks for League's Most Embarrassing Teams**
+**Elon Musk reposts call to end the Federal Reserve Bank**
 
-You can read more about it [here](https://bleacherreport.com/articles/10142597-nfl-week-10-takeaways-pulse-checks-for-leagues-most-embarrassing-teams).
+You can read more about it [here](https://cointelegraph.com/news/elon-musk-reposts-call-end-federal-reserve-bank).
 
 ## Requirements
 - Python 3.8
