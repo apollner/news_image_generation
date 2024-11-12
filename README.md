@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Heretic' and Hugh Grant debut with $11 million, but 'Venom: The Last Dance' tops box office again**
+**The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country**
 
-You can read more about it [here](https://apnews.com/article/box-office-heretic-venom-last-dance-christmas-pageant-954b7e1b4812ff960759ef0ae8324208).
+You can read more about it [here](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park).
 
 ## Requirements
 - Python 3.8
