@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launching 24 Starlink satellites from Florida today after weather delay**
+**Trump names former Rep. Lee Zeldin to lead EPA, adviser Stephen Miller to be deputy chief of policy**
 
-You can read more about it [here](https://www.space.com/spacex-starlink-launch-group-6-69).
+You can read more about it [here](https://apnews.com/article/trump-stephen-miller-policy-immigration-9cc6ad3118779b23bff88022ca5e2260).
 
 ## Requirements
 - Python 3.8
