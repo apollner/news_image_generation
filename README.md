@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Trump’s win tests the world order, diplomats are fretting over what it means for the planet**
+**Israeli PM Benjamin Netanyahu confirms he was behind deadly pager attacks against Hezbollah, faced ‘opposition’**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/climate/cop29-climate-talks-trump/index.html).
+You can read more about it [here](https://nypost.com/2024/11/11/world-news/israels-netanyahu-approved-deadly-pager-attacks-against-hezbollah/).
 
 ## Requirements
 - Python 3.8
