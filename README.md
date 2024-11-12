@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen has Canada’s 1st presumptive human avian flu case**
+**NFL playoff picture: Chiefs lead AFC, Lions lead NFC postseason races after tight wins in Week 10**
 
-You can read more about it [here](https://www.youtube.com/watch?v\\u003dS1uLAg1GOP8).
+You can read more about it [here](https://sports.yahoo.com/nfl-playoff-picture-chiefs-lead-afc-lions-lead-nfc-postseason-races-after-tight-wins-in-week-10-050950681.html).
 
 ## Requirements
 - Python 3.8
