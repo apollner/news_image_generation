@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One SpaceX launch down, another hours away as Space Coast prepares for double-header launches**
+**Israeli fire kills 30 Palestinians as tanks roll into central Gaza camp**
 
-You can read more about it [here](https://www.wesh.com/article/spacex-double-launches-florida-starlink-koreasat-mission/62869113).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-fire-kills-11-palestinians-tanks-roll-into-central-gaza-camp-2024-11-11/).
 
 ## Requirements
 - Python 3.8
