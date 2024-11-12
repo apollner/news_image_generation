@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin jumps to record as Trump's election turbocharges cryptocurrencies**
+**Will mail be delivered on Veterans Day?**
 
-You can read more about it [here](https://www.reuters.com/technology/bitcoin-surges-record-high-trump-bets-2024-11-11/).
+You can read more about it [here](https://fox8.com/news/will-mail-be-delivered-on-veterans-day-2/).
 
 ## Requirements
 - Python 3.8
