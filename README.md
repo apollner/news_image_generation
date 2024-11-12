@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Logano holds off Blaney for third NASCAR title**
+**Teen has Canada’s 1st presumptive human avian flu case**
 
-You can read more about it [here](https://www.espn.com/racing/nascar/story/_/id/42316163/joey-logano-wins-third-nascar-cup-series-title).
+You can read more about it [here](https://www.youtube.com/watch?v\\u003dS1uLAg1GOP8).
 
 ## Requirements
 - Python 3.8
