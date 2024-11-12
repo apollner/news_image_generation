@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kremlin says reports that Trump and Putin spoke in recent days are 'pure fiction'**
+**To Cope With Dementia, Seniors Are Turning to Cannabis**
 
-You can read more about it [here](https://www.reuters.com/world/kremlin-says-there-was-no-putin-trump-call-2024-11-11/).
+You can read more about it [here](https://www.wsj.com/health/wellness/dementia-symptoms-treatment-marijuana-562b1c9e).
 
 ## Requirements
 - Python 3.8
