@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Penguin Finale: Deaths and Oswald's Fate Set Up 'The Batman 2'**
+**What drivers said after 2024 Phoenix NASCAR Cup championship race won by Joey Logano**
 
-You can read more about it [here](https://variety.com/2024/tv/features/the-penguin-finale-deaths-oswald-fate-the-batman-2-1236204538/).
+You can read more about it [here](https://www.nbcsports.com/nascar/news/what-drivers-said-after-2024-phoenix-nascar-cup-championship-race-won-by-joey-logano).
 
 ## Requirements
 - Python 3.8
