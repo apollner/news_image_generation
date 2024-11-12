@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT’s Week 10 2024 NFL results and recap**
+**Republicans inch closer to formally locking up House majority**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-10-2024-nfl-results-and-recap).
+You can read more about it [here](https://www.politico.com/live-updates/2024/11/11/congress/hill-state-of-play-00188743).
 
 ## Requirements
 - Python 3.8
