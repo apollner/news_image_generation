@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FTX sues Binance for $1.76B in battle of crypto exchanges founded by convicts**
+**One SpaceX launch down, another hours away as Space Coast prepares for double-header launches**
 
-You can read more about it [here](https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/).
+You can read more about it [here](https://www.wesh.com/article/spacex-double-launches-florida-starlink-koreasat-mission/62869113).
 
 ## Requirements
 - Python 3.8
