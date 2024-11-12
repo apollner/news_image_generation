@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli PM Benjamin Netanyahu confirms he was behind deadly pager attacks against Hezbollah, faced ‘opposition’**
+**Malnourished emperor penguin that swam ashore in Australia 2,000 miles from home a quandary for rescuers**
 
-You can read more about it [here](https://nypost.com/2024/11/11/world-news/israels-netanyahu-approved-deadly-pager-attacks-against-hezbollah/).
+You can read more about it [here](https://www.cbsnews.com/news/emperor-penguin-australia-2000-miles-from-antarctic-ice-melting-climate-change/).
 
 ## Requirements
 - Python 3.8
