@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The next Nintendo Direct is all about Super Nintendo World’s Donkey Kong Country**
+**6.8 magnitude earthquake shakes Cuba after hurricanes and blackouts**
 
-You can read more about it [here](https://www.theverge.com/2024/11/10/24293054/super-nintendo-world-donkey-kong-country-area-direct-showcase-theme-park).
+You can read more about it [here](https://abcnews.go.com/International/wireStory/68-magnitude-earthquake-shakes-cuba-after-hurricanes-blackouts-115713978).
 
 ## Requirements
 - Python 3.8
