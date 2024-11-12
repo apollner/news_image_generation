@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump presses next GOP Senate leader to allow ‘recess appointments’**
+**Democratic Rep. Ro Khanna says party needs "to be emphasizing the economic issues"**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/10/trump-presses-next-republican-senate-leader-recess-appointments-00188640).
+You can read more about it [here](https://www.cbsnews.com/news/ro-khanna-democrats-economic-agenda-face-the-nation/).
 
 ## Requirements
 - Python 3.8
