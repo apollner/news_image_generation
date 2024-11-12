@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Has Begun Selling iPhone 16 Replacement Parts**
+**Lions-Texans: Detroit overcomes Jared Goff's 5 INTs, rally to stun Houston 26-23**
 
-You can read more about it [here](https://gizmodo.com/apple-has-begun-selling-iphone-16-replacement-parts-2000522783).
+You can read more about it [here](https://sports.yahoo.com/live/lions-texans-detroit-overcomes-jared-goffs-5-ints-rally-to-stun-houston-26-23-000049102.html).
 
 ## Requirements
 - Python 3.8
