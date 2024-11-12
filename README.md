@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL playoff picture: Chiefs lead AFC, Lions lead NFC postseason races after tight wins in Week 10**
+**Chinese Stocks Slide on Disappointing Fiscal Plan, Weak Data**
 
-You can read more about it [here](https://sports.yahoo.com/nfl-playoff-picture-chiefs-lead-afc-lions-lead-nfc-postseason-races-after-tight-wins-in-week-10-050950681.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-11/chinese-stocks-face-pressure-as-fiscal-stimulus-underwhelms).
 
 ## Requirements
 - Python 3.8
