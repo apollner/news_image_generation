@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Monday, November 11, 2024**
+**NFL playoff picture: Chiefs lead AFC, Lions lead NFC postseason races after tight wins in Week 10**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/11/horoscopes-today-monday-november-11-2024).
+You can read more about it [here](https://sports.yahoo.com/nfl-playoff-picture-chiefs-lead-afc-lions-lead-nfc-postseason-races-after-tight-wins-in-week-10-050950681.html).
 
 ## Requirements
 - Python 3.8
