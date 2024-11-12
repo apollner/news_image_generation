@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious craters exploded in Siberia’s permafrost. Scientists say they now know why**
+**‘Gladiator II’ Review: Paul Mescal And Denzel Washington Power Ridley Scott’s Long Awaited Sequel To His Only Best Picture Oscar Winner**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/climate/exploding-siberian-craters-permafrost-explained/index.html).
+You can read more about it [here](http://deadline.com/2024/11/gladiator-ii-review-paul-mescal-denzel-washington-ridley-scotts-long-awaited-sequel-best-picture-oscar-winner-1236172181/).
 
 ## Requirements
 - Python 3.8
