@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Haiti’s prime minister ousted in latest blow to transition**
+**Horoscope for Monday, November 11, 2024**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/10/haiti-prime-minister-garry-conille-fired/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/11/horoscopes-today-monday-november-11-2024).
 
 ## Requirements
 - Python 3.8
