@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese Stocks Slide on Disappointing Fiscal Plan, Weak Data**
+**Haiti’s prime minister ousted in latest blow to transition**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-11/chinese-stocks-face-pressure-as-fiscal-stimulus-underwhelms).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/10/haiti-prime-minister-garry-conille-fired/).
 
 ## Requirements
 - Python 3.8
