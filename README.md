@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump expected to announce Stephen Miller as deputy chief of staff for policy**
+**FTX sues Binance for $1.76B in battle of crypto exchanges founded by convicts**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/politics/stephen-miller-trump-administration/index.html).
+You can read more about it [here](https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/).
 
 ## Requirements
 - Python 3.8
