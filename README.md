@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names former Rep. Lee Zeldin to lead EPA, adviser Stephen Miller to be deputy chief of policy**
+**Apple May Stop Vision Pro Production as Components Pile Up**
 
-You can read more about it [here](https://apnews.com/article/trump-stephen-miller-policy-immigration-9cc6ad3118779b23bff88022ca5e2260).
+You can read more about it [here](https://www.cnet.com/tech/computing/apple-may-stop-vision-pro-production-as-components-pile-up/).
 
 ## Requirements
 - Python 3.8
