@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Kristi Noem to serve as his Homeland Security secretary**
+**Jury finds Richard Allen guilty on all counts in Delphi murders trial**
 
-You can read more about it [here](https://www.cnn.com/2024/11/12/politics/kristi-noem-homeland-security-secretary/index.html).
+You can read more about it [here](https://www.wlwt.com/article/jury-reaches-verdict-richard-allen-trial-delphi-murders/62872896).
 
 ## Requirements
 - Python 3.8
