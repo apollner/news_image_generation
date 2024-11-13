@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Mike Huckabee to serve as US ambassador to Israel**
+**Cowboys QB Dak Prescott will have surgery on hamstring and miss the rest of the season, per Jerry Jones**
 
-You can read more about it [here](https://www.cnn.com/2024/11/12/politics/mike-huckabee-israel/index.html).
+You can read more about it [here](https://sports.yahoo.com/cowboys-qb-dak-prescott-will-have-surgery-on-hamstring-and-miss-the-rest-of-the-season-per-jerry-jones-150452571.html).
 
 ## Requirements
 - Python 3.8
