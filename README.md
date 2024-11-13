@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears fire Shane Waldron, promote Thomas Brown to offensive coordinator**
+**Dow Jones Today: Stocks Slip as Market Takes a Breather After Post-Election Rally**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-fire-shane-waldron-promote-thomas-brown-to-offensive-coordinator).
+You can read more about it [here](https://www.investopedia.com/dow-jones-today-11122024-8743437).
 
 ## Requirements
 - Python 3.8
