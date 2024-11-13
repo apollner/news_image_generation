@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Zealand offers national apology to people abused in care**
+**Democrat Ruben Gallego will defeat Kari Lake for Arizona Senate seat, CNN projects**
 
-You can read more about it [here](https://www.reuters.com/world/asia-pacific/new-zealand-offers-national-apology-people-abused-care-2024-11-11/).
+You can read more about it [here](https://www.cnn.com/2024/11/11/politics/ruben-gallego-arizona-senate-race-kari-lake/index.html).
 
 ## Requirements
 - Python 3.8
