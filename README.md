@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple May Stop Vision Pro Production as Components Pile Up**
+**Bitcoin reaches record high of $87,000 as crypto, Trump trades dominate stock market**
 
-You can read more about it [here](https://www.cnet.com/tech/computing/apple-may-stop-vision-pro-production-as-components-pile-up/).
+You can read more about it [here](https://finance.yahoo.com/news/bitcoin-reaches-record-high-of-87000-as-crypto-trump-trades-dominate-stock-market-143831823.html).
 
 ## Requirements
 - Python 3.8
