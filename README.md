@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin reaches record high of $87,000 as crypto, Trump trades dominate stock market**
+**Finalists for MVP, Cy Young, Rookie & Manager of the Year revealed**
 
-You can read more about it [here](https://finance.yahoo.com/news/bitcoin-reaches-record-high-of-87000-as-crypto-trump-trades-dominate-stock-market-143831823.html).
+You can read more about it [here](https://www.mlb.com/news/2024-bbwaa-finalists-announced-mvp-cy-young-and-more).
 
 ## Requirements
 - Python 3.8
