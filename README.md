@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**100 Most Powerful People in Business**
+**New York judge expected to issue crucial presidential immunity ruling in Trump "hush money" case**
 
-You can read more about it [here](https://fortune.com/ranking/most-powerful-people/).
+You can read more about it [here](https://www.cbsnews.com/news/trump-new-york-presidential-immunity-hush-money/).
 
 ## Requirements
 - Python 3.8
