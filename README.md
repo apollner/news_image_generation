@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Potential For Life Found On Uranus' Moons, Scientists Reveal**
+**Trump lining up Marco Rubio and Kristi Noem for top jobs**
 
-You can read more about it [here](https://www.ndtv.com/science/potential-for-life-found-on-uranus-moons-scientists-reveal-7003800).
+You can read more about it [here](https://www.bbc.com/news/articles/c33epjve28ko).
 
 ## Requirements
 - Python 3.8
