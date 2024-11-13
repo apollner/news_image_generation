@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Signal gets new video call features, making it a viable alternative to Zoom, Meet and Teams**
+**Trump picks Kristi Noem to serve as his Homeland Security secretary**
 
-You can read more about it [here](https://techcrunch.com/2024/11/12/signal-gets-new-video-call-features-making-it-a-viable-alternative-to-zoom-meet-and-teams/).
+You can read more about it [here](https://www.cnn.com/2024/11/12/politics/kristi-noem-homeland-security-secretary/index.html).
 
 ## Requirements
 - Python 3.8
