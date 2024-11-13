@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Northern Taurids Meteor Shower Peak Starts Tonight—Here’s How To Watch**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.forbes.com/sites/antoniopequenoiv/2024/11/11/northern-taurids-meteor-shower-peak-starts-tonight-heres-how-to-watch/).
 
 ## Requirements
 - Python 3.8
