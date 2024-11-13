@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Been a long time since I felt that way’: Sexually transmitted infection numbers provide new hope**
+**Zhuhai: 35 killed after car ploughs into crowd in China**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/12/sti-progress-backsliding-trump-00188995).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy1k2rx724o).
 
 ## Requirements
 - Python 3.8
