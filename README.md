@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York judge expected to issue crucial presidential immunity ruling in Trump "hush money" case**
+**Your Daily Horoscope by Madame Clairevoyant: November 12, 2024**
 
-You can read more about it [here](https://www.cbsnews.com/news/trump-new-york-presidential-immunity-hush-money/).
+You can read more about it [here](http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-nov-12-2024.html).
 
 ## Requirements
 - Python 3.8
