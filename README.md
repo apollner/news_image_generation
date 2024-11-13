@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress returns to unfinished business and a new Trump era**
+**FAA considers banning US flights to Haiti after planes struck by gunfire**
 
-You can read more about it [here](https://apnews.com/article/congress-senate-leadership-elections-house-trump-82730f474a365a0d6e6af78a84bceda7).
+You can read more about it [here](https://abcnews.go.com/International/faa-considers-banning-us-flights-haiti-after-planes/story?id\\u003d115761998).
 
 ## Requirements
 - Python 3.8
