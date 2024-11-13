@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Palestinian Factions Edge Toward Plan for Postwar Gaza Recovery**
+**European Google rivals partner on search engine infrastructure to counter Big Tech**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkpwSHdYMEJha0RHY0w1cHVNR3BNN0xUQ0VUR3ZkOWFzVWxwWWI4WFhKZFdxOFVoSHQzM1NKbThqNWdVTThPZEJnVDU1N1dXNU9aaS1hdzkxYm9aNU5zckR5cThybGx2eGMzQlJ3cllkd1RIa1dnaEJ1WnFSVGJMM2RwSU5NNkNnMXptZU5FVVhTRFRFcE9vdXA3WkR2Zkh3RjFGNWozT25uanZaajVv?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/11/12/ecosia-qwant-partner-on-search-engine-tech-to-counter-googles-power.html).
 
 ## Requirements
 - Python 3.8
