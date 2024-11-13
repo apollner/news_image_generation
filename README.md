@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern Taurids Meteor Shower Peak Starts Tonight—Here’s How To Watch**
+**Kevin Costner Not In A Rush To See John Dutton’s ‘Yellowstone’ Fate In Season 5B Premiere: “I Didn’t See It”**
 
-You can read more about it [here](https://www.forbes.com/sites/antoniopequenoiv/2024/11/11/northern-taurids-meteor-shower-peak-starts-tonight-heres-how-to-watch/).
+You can read more about it [here](http://deadline.com/2024/11/kevin-costner-john-dutton-yellowstone-fate-season-5b-premiere-1236173189/).
 
 ## Requirements
 - Python 3.8
