@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**11 bank stocks trading at low valuations, even after Trump bump**
+**Bears fire Shane Waldron, promote Thomas Brown to offensive coordinator**
 
-You can read more about it [here](https://www.marketwatch.com/story/11-bank-stocks-trading-at-low-valuations-even-after-trump-bump-93ba262b).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bears-fire-shane-waldron-promote-thomas-brown-to-offensive-coordinator).
 
 ## Requirements
 - Python 3.8
