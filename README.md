@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fans think Jessica Simpson’s cryptic post is hint at Eric Johnson split**
+**Trump likely to pick Marco Rubio to serve as his secretary of state, sources say**
 
-You can read more about it [here](https://pagesix.com/2024/11/11/celebrity-news/fans-think-jessica-simpsons-cryptic-post-is-hint-at-eric-johnson-split/).
+You can read more about it [here](https://www.cnn.com/2024/11/11/politics/marco-rubio-secretary-of-state/index.html).
 
 ## Requirements
 - Python 3.8
