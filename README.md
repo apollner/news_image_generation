@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zhuhai: 35 killed after car ploughs into crowd in China**
+**Trump picks Mike Huckabee to serve as US ambassador to Israel**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwy1k2rx724o).
+You can read more about it [here](https://www.cnn.com/2024/11/12/politics/mike-huckabee-israel/index.html).
 
 ## Requirements
 - Python 3.8
