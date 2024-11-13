@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 40 killed in Gaza as Israeli drone attacks ‘safe zone’ café**
+**Mike McCarthy, Micah Parsons ‘had a conversation’ after edge rusher’s controversial comments following Cowboys loss**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/11/at-least-30-palestinians-killed-in-gaza-as-israeli-tanks-enter-nuseirat).
+You can read more about it [here](https://sports.yahoo.com/mike-mccarthy-micah-parsons-had-a-conversation-after-edge-rushers-controversial-comments-following-cowboys-loss-232222649.html).
 
 ## Requirements
 - Python 3.8
