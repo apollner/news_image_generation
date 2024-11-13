@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike McCarthy, Micah Parsons ‘had a conversation’ after edge rusher’s controversial comments following Cowboys loss**
+**Fans think Jessica Simpson’s cryptic post is hint at Eric Johnson split**
 
-You can read more about it [here](https://sports.yahoo.com/mike-mccarthy-micah-parsons-had-a-conversation-after-edge-rushers-controversial-comments-following-cowboys-loss-232222649.html).
+You can read more about it [here](https://pagesix.com/2024/11/11/celebrity-news/fans-think-jessica-simpsons-cryptic-post-is-hint-at-eric-johnson-split/).
 
 ## Requirements
 - Python 3.8
