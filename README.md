@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 40 killed in Gaza as Israeli drone attacks ‘safe zone’ café**
+**[Removed]**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/11/at-least-30-palestinians-killed-in-gaza-as-israeli-tanks-enter-nuseirat).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
