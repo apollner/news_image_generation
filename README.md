@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump likely to pick Marco Rubio to serve as his secretary of state, sources say**
+**At least 40 killed in Gaza as Israeli drone attacks ‘safe zone’ café**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/politics/marco-rubio-secretary-of-state/index.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/11/at-least-30-palestinians-killed-in-gaza-as-israeli-tanks-enter-nuseirat).
 
 ## Requirements
 - Python 3.8
