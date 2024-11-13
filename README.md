@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Zealand’s leaders formally apologize to survivors of abuse in state and church care**
+**Brian Austin Green Shares Message to Sharna Burgess Amid Ex Megan Fox's Baby News - E! Online**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/world/new-zealand-luxon-apology-care-abuse-intl-hnk/index.html).
+You can read more about it [here](https://www.eonline.com/news/1409831/brian-austin-green-shares-message-to-sharna-burgess-amid-ex-megan-foxs-baby-news).
 
 ## Requirements
 - Python 3.8
