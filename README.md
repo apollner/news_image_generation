@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Your Daily Horoscope by Madame Clairevoyant: November 12, 2024**
+**Congress returns to unfinished business and a new Trump era**
 
-You can read more about it [here](http://www.thecut.com/article/your-daily-horoscope-madame-clairevoyant-nov-12-2024.html).
+You can read more about it [here](https://apnews.com/article/congress-senate-leadership-elections-house-trump-82730f474a365a0d6e6af78a84bceda7).
 
 ## Requirements
 - Python 3.8
