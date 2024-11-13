@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**2025 NFL Draft order after Week 10: Jaguars take over top spot, Giants climb to No. 2 after loss to Panthers**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2025-nfl-draft-order-after-week-10-jaguars-take-over-top-spot-giants-climb-to-no-2-after-loss-to-panthers/).
 
 ## Requirements
 - Python 3.8
