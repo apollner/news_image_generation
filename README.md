@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lena Dunham Writing Movie About FTX Founder Sam Bankman-Fried for Apple, A24**
+**Cowboys QB Dak Prescott will have surgery on hamstring and miss the rest of the season, per Jerry Jones**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/lena-dunham-ftx-sam-bankman-fried-apple-a24-1236059813/).
+You can read more about it [here](https://sports.yahoo.com/cowboys-qb-dak-prescott-will-have-surgery-on-hamstring-and-miss-the-rest-of-the-season-per-jerry-jones-150452571.html).
 
 ## Requirements
 - Python 3.8
