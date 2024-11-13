@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Google rivals partner on search engine infrastructure to counter Big Tech**
+**New Zealand offers national apology to people abused in care**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/12/ecosia-qwant-partner-on-search-engine-tech-to-counter-googles-power.html).
+You can read more about it [here](https://www.reuters.com/world/asia-pacific/new-zealand-offers-national-apology-people-abused-care-2024-11-11/).
 
 ## Requirements
 - Python 3.8
