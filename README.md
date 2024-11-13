@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Today: Stocks Slip as Market Takes a Breather After Post-Election Rally**
+**Potential For Life Found On Uranus' Moons, Scientists Reveal**
 
-You can read more about it [here](https://www.investopedia.com/dow-jones-today-11122024-8743437).
+You can read more about it [here](https://www.ndtv.com/science/potential-for-life-found-on-uranus-moons-scientists-reveal-7003800).
 
 ## Requirements
 - Python 3.8
