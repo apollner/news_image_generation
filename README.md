@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrat Ruben Gallego will defeat Kari Lake for Arizona Senate seat, CNN projects**
+**Hands-on: iOS 18.2 beta 3 changes and features [Video]**
 
-You can read more about it [here](https://www.cnn.com/2024/11/11/politics/ruben-gallego-arizona-senate-race-kari-lake/index.html).
+You can read more about it [here](https://9to5mac.com/2024/11/11/ios-18-2-beta-3-changes-features-camera-control-photos-fix-writing-tools-video/).
 
 ## Requirements
 - Python 3.8
