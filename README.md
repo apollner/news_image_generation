@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven Baffling Apple Design Decisions**
+**‘Been a long time since I felt that way’: Sexually transmitted infection numbers provide new hope**
 
-You can read more about it [here](https://lifehacker.com/tech/seven-baffling-apple-design-decisions).
+You can read more about it [here](https://www.politico.com/news/2024/11/12/sti-progress-backsliding-trump-00188995).
 
 ## Requirements
 - Python 3.8
