@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jury finds Richard Allen guilty on all counts in Delphi murders trial**
+**100 Most Powerful People in Business**
 
-You can read more about it [here](https://www.wlwt.com/article/jury-reaches-verdict-richard-allen-trial-delphi-murders/62872896).
+You can read more about it [here](https://fortune.com/ranking/most-powerful-people/).
 
 ## Requirements
 - Python 3.8
