@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Horoscope for Tuesday, November 12, 2024**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/12/horoscopes-today-tuesday-november-12-2024).
 
 ## Requirements
 - Python 3.8
