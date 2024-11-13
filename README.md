@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chloe Fineman Claims Elon Musk Is the ‘SNL’ Host Who Made Her ‘Burst Into Tears’**
+**[Removed]**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/chloe-fineman-elon-musk-snl-host-cry-1235162955/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
