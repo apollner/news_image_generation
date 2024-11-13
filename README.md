@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Finalists for MVP, Cy Young, Rookie & Manager of the Year revealed**
+**Bird Flu Case Found in Hospitalized Canadian Teenager. What Happens Next.**
 
-You can read more about it [here](https://www.mlb.com/news/2024-bbwaa-finalists-announced-mvp-cy-young-and-more).
+You can read more about it [here](https://www.barrons.com/articles/bird-flu-canada-teenager-hospitalized-5533e261).
 
 ## Requirements
 - Python 3.8
