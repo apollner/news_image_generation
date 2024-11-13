@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Tuesday, November 12, 2024**
+**Signal gets new video call features, making it a viable alternative to Zoom, Meet and Teams**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/12/horoscopes-today-tuesday-november-12-2024).
+You can read more about it [here](https://techcrunch.com/2024/11/12/signal-gets-new-video-call-features-making-it-a-viable-alternative-to-zoom-meet-and-teams/).
 
 ## Requirements
 - Python 3.8
