@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kevin Costner Not In A Rush To See John Dutton’s ‘Yellowstone’ Fate In Season 5B Premiere: “I Didn’t See It”**
+**New Zealand’s leaders formally apologize to survivors of abuse in state and church care**
 
-You can read more about it [here](http://deadline.com/2024/11/kevin-costner-john-dutton-yellowstone-fate-season-5b-premiere-1236173189/).
+You can read more about it [here](https://www.cnn.com/2024/11/11/world/new-zealand-luxon-apology-care-abuse-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
