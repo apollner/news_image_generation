@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lining up Marco Rubio and Kristi Noem for top jobs**
+**Seven Baffling Apple Design Decisions**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c33epjve28ko).
+You can read more about it [here](https://lifehacker.com/tech/seven-baffling-apple-design-decisions).
 
 ## Requirements
 - Python 3.8
