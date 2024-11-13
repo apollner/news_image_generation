@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brian Austin Green Shares Message to Sharna Burgess Amid Ex Megan Fox's Baby News - E! Online**
+**[Removed]**
 
-You can read more about it [here](https://www.eonline.com/news/1409831/brian-austin-green-shares-message-to-sharna-burgess-amid-ex-megan-foxs-baby-news).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
