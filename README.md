@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timothy West Dies: British Theater And Screen Actor Was 90**
+**UPDATE: At least 2 people dead after massive factory explosion in Louisville**
 
-You can read more about it [here](http://deadline.com/2024/11/timothy-west-dead-theater-screen-actor-was-90-1236175108/).
+You can read more about it [here](https://www.whas11.com/article/news/local/2-people-dead-large-factory-explosion-louisville/417-a05bfdd5-6dd4-40cf-ab4c-11918f041b6d).
 
 ## Requirements
 - Python 3.8
