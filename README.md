@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird brain from the age of dinosaurs reveals roots of avian intelligence**
+**Teen in critical condition with Canada’s first human case of H5 bird flu**
 
-You can read more about it [here](https://phys.org/news/2024-11-bird-brain-age-dinosaurs-reveals.html).
+You can read more about it [here](https://arstechnica.com/health/2024/11/teen-in-critical-condition-with-canadas-first-human-case-of-h5-bird-flu/).
 
 ## Requirements
 - Python 3.8
