@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli strikes in two Mount Lebanon villages kill 23 - ministry**
+**Cold War bomber enhances China’s ability to strike US bases**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c86q5qeqxldo).
+You can read more about it [here](https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/).
 
 ## Requirements
 - Python 3.8
