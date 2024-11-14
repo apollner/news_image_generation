@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Kristi Noem to serve as his Homeland Security secretary | CNN Politics**
+**Report: 49ers, CB Deommodore Lenoir agree to five-year, $92 million extension**
 
-You can read more about it [here](https://www.cnn.com/2024/11/12/politics/kristi-noem-homeland-security-secretary/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-cb-deommodore-lenoir-agree-to-five-year-92-million-extension).
 
 ## Requirements
 - Python 3.8
