@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houthis launch missile, drone attacks on US warships off Yemen’s coast**
+**Tencent posts better-than-expected 47% profit surge as games, AI tools shine**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/13/houthis-launch-missile-drone-attacks-on-us-warships-off-yemens-coast).
+You can read more about it [here](https://www.cnbc.com/2024/11/13/tencent-q3-2024-earnings.html).
 
 ## Requirements
 - Python 3.8
