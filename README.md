@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon’s new $20 and under store is here to challenge Shein and Temu**
+**Pete Hegseth: Trump names Fox News host as defence secretary pick**
 
-You can read more about it [here](https://www.theverge.com/2024/11/13/24295655/amazon-haul-challenges-shein-and-temu-bargain-webstore).
+You can read more about it [here](https://www.bbc.com/news/articles/c937ndxvkggo).
 
 ## Requirements
 - Python 3.8
