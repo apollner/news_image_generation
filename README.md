@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Hegseth: Trump names Fox News host as defence secretary pick**
+**Bird brain from the age of dinosaurs reveals roots of avian intelligence**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c937ndxvkggo).
+You can read more about it [here](https://phys.org/news/2024-11-bird-brain-age-dinosaurs-reveals.html).
 
 ## Requirements
 - Python 3.8
