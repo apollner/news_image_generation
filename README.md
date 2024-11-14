@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Thune elected Senate majority leader in rebuke to Trump allies**
+**Lady Gaga Boards ‘Wednesday’ Season 2 at Netflix**
 
-You can read more about it [here](https://www.ft.com/content/bbd9d071-b8cc-41a7-b2b7-0ce9de7ad4ed).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/lady-gaga-wednesday-season-2-netflix-1236061095/).
 
 ## Requirements
 - Python 3.8
