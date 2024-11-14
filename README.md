@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office Preview: Dwayne Johnson-Chris Evans’ ‘Red One’ Kicks Off Year-End Tentpole Parade**
+**Republican David Valadao, Democrat George Whitesides win US House races in California**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-preview-red-one-1236060213/).
+You can read more about it [here](https://apnews.com/article/california-house-majority-republicans-democrats-swing-districts-e146c98a3809edaafd892caa3bcaf7bd).
 
 ## Requirements
 - Python 3.8
