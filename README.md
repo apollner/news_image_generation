@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Full House’ Star Dave Coulier Reveals He Has Stage 3 Non-Hodgkin Lymphoma**
+**Amazon’s new $20 and under store is here to challenge Shein and Temu**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/full-house-dave-coulier-cancer-non-hodgkin-lymphoma-stage-3-1236060572/).
+You can read more about it [here](https://www.theverge.com/2024/11/13/24295655/amazon-haul-challenges-shein-and-temu-bargain-webstore).
 
 ## Requirements
 - Python 3.8
