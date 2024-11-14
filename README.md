@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Mike Huckabee, pro-Israel conservative, as ambassador**
+**Nvidia and SoftBank pilot world's first AI and 5G telecom network**
 
-You can read more about it [here](https://www.reuters.com/world/trump-picks-ex-arkansas-gov-mike-huckabee-be-israel-ambassador-2024-11-12/).
+You can read more about it [here](https://www.reuters.com/business/media-telecom/nvidia-softbank-pilot-worlds-first-ai-5g-telecom-network-2024-11-13/).
 
 ## Requirements
 - Python 3.8
