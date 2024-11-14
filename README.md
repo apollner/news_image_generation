@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Mike Tyson-Jake Paul boxing match shows streaming is just cable now**
+**Jack Teixeira: US airman sentenced to 15 years in prison**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/11/12/mike-tyson-vs-jake-paul-netflix-ads-streaming/).
+You can read more about it [here](https://www.bbc.com/news/articles/c62l00g0k65o).
 
 ## Requirements
 - Python 3.8
