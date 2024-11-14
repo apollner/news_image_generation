@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested in Tuskegee shooting admits firing gun with Glock switch, denies shooting anyone, records state**
+**Heated Debate On Amsterdam Violence In Dutch Parliament**
 
-You can read more about it [here](https://www.al.com/news/2024/11/man-arrested-in-tuskegee-shooting-admits-firing-gun-with-glock-switch-denies-shooting-anyone-records-state.html).
+You can read more about it [here](https://www.barrons.com/articles/heated-debate-on-amsterdam-violence-in-dutch-parliament-710fda0d).
 
 ## Requirements
 - Python 3.8
