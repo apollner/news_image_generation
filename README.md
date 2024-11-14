@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oregon tops Week 2 College Football Playoff rankings and Georgia drops out of the bracket**
+**Cold War bomber enhances China’s ability to strike US bases**
 
-You can read more about it [here](https://apnews.com/article/college-football-playoff-rankings-fc725ce2b5fb1d7d4f29ba88beedabac).
+You can read more about it [here](https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/).
 
 ## Requirements
 - Python 3.8
