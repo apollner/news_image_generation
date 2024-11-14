@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican David Valadao, Democrat George Whitesides win US House races in California**
+**Oregon tops Week 2 College Football Playoff rankings and Georgia drops out of the bracket**
 
-You can read more about it [here](https://apnews.com/article/california-house-majority-republicans-democrats-swing-districts-e146c98a3809edaafd892caa3bcaf7bd).
+You can read more about it [here](https://apnews.com/article/college-football-playoff-rankings-fc725ce2b5fb1d7d4f29ba88beedabac).
 
 ## Requirements
 - Python 3.8
