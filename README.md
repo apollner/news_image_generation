@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk and Vivek Ramaswamy will lead new ‘Department of Government Efficiency’ in Trump administration**
+**Pentagon leaker Jack Teixeira sentenced to 15 years on federal charges**
 
-You can read more about it [here](https://www.cnn.com/2024/11/12/politics/elon-musk-vivek-ramaswamy-department-of-government-efficiency-trump/index.html).
+You can read more about it [here](https://abcnews.go.com/US/jack-teixeira-pentagon-secrets-leaker-set-sentenced-faces/story?id\\u003d115762346).
 
 ## Requirements
 - Python 3.8
