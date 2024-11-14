@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UPDATE: At least 2 people dead after massive factory explosion in Louisville**
+**Man arrested in Tuskegee shooting admits firing gun with Glock switch, denies shooting anyone, records state**
 
-You can read more about it [here](https://www.whas11.com/article/news/local/2-people-dead-large-factory-explosion-louisville/417-a05bfdd5-6dd4-40cf-ab4c-11918f041b6d).
+You can read more about it [here](https://www.al.com/news/2024/11/man-arrested-in-tuskegee-shooting-admits-firing-gun-with-glock-switch-denies-shooting-anyone-records-state.html).
 
 ## Requirements
 - Python 3.8
