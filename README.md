@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon leaker Jack Teixeira sentenced to 15 years on federal charges**
+**Trump picks Kristi Noem to serve as his Homeland Security secretary | CNN Politics**
 
-You can read more about it [here](https://abcnews.go.com/US/jack-teixeira-pentagon-secrets-leaker-set-sentenced-faces/story?id\\u003d115762346).
+You can read more about it [here](https://www.cnn.com/2024/11/12/politics/kristi-noem-homeland-security-secretary/index.html).
 
 ## Requirements
 - Python 3.8
