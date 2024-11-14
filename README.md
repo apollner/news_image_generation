@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Personal luxury goods market to shrink for first time since the 2008 financial crash, research finds**
+**US Senate Republicans to pick new leader amid pressure from Trump allies**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/13/personal-luxury-goods-market-to-shrink-for-first-time-since-gfc.html).
+You can read more about it [here](https://www.reuters.com/world/us/us-senate-republicans-pick-new-leader-amid-pressure-trump-allies-2024-11-13/).
 
 ## Requirements
 - Python 3.8
