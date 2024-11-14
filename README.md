@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tyson Vs. Jake Paul—What To Know About The Netflix Live Boxing Fight**
+**John Thune elected Senate majority leader in rebuke to Trump allies**
 
-You can read more about it [here](https://www.forbes.com/sites/lindseychoo/2024/11/13/mike-tyson-jake-paul-netflix-live-boxing-fight/).
+You can read more about it [here](https://www.ft.com/content/bbd9d071-b8cc-41a7-b2b7-0ce9de7ad4ed).
 
 ## Requirements
 - Python 3.8
