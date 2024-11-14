@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen in critical condition with Canada’s first human case of H5 bird flu**
+**Trump taps Rep. Matt Gaetz as attorney general**
 
-You can read more about it [here](https://arstechnica.com/health/2024/11/teen-in-critical-condition-with-canadas-first-human-case-of-h5-bird-flu/).
+You can read more about it [here](https://www.cnbc.com/2024/11/13/trump-taps-rep-matt-gaetz-as-attorney-general.html).
 
 ## Requirements
 - Python 3.8
