@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US Senate Republicans to pick new leader amid pressure from Trump allies**
+**Timothy West Dies: British Theater And Screen Actor Was 90**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-republicans-pick-new-leader-amid-pressure-trump-allies-2024-11-13/).
+You can read more about it [here](http://deadline.com/2024/11/timothy-west-dead-theater-screen-actor-was-90-1236175108/).
 
 ## Requirements
 - Python 3.8
