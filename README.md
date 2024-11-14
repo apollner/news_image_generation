@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senior Russian naval officer killed in car bombing claimed by Kyiv**
+**‘Full House’ Star Dave Coulier Reveals He Has Stage 3 Non-Hodgkin Lymphoma**
 
-You can read more about it [here](https://www.reuters.com/world/europe/senior-russian-naval-officer-killed-car-bomb-hit-claimed-by-kyiv-2024-11-13/).
+You can read more about it [here](http://www.hollywoodreporter.com/news/general-news/full-house-dave-coulier-cancer-non-hodgkin-lymphoma-stage-3-1236060572/).
 
 ## Requirements
 - Python 3.8
