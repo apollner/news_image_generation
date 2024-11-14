@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Pete Hegseth to serve as secretary of defense**
+**Stock futures are little changed as investors look toward key inflation report: Live updates**
 
-You can read more about it [here](https://www.cnn.com/2024/11/12/politics/pete-hegseth-secretary-of-defense/index.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/12/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
