@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cold War bomber enhances China’s ability to strike US bases**
+**Newsom’s Hail Mary to defend California from Trump**
 
-You can read more about it [here](https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/).
+You can read more about it [here](https://www.politico.com/news/2024/11/12/newsom-goes-to-washington-for-last-ditch-help-on-climate-00189201).
 
 ## Requirements
 - Python 3.8
