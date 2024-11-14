@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: 49ers, CB Deommodore Lenoir agree to five-year, $92 million extension**
+**Trump picks Mike Huckabee, pro-Israel conservative, as ambassador**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-49ers-cb-deommodore-lenoir-agree-to-five-year-92-million-extension).
+You can read more about it [here](https://www.reuters.com/world/trump-picks-ex-arkansas-gov-mike-huckabee-be-israel-ambassador-2024-11-12/).
 
 ## Requirements
 - Python 3.8
