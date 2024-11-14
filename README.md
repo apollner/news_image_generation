@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teen in critical condition with Canada’s first human case of H5 bird flu**
+**Mike Tyson Vs. Jake Paul—What To Know About The Netflix Live Boxing Fight**
 
-You can read more about it [here](https://arstechnica.com/health/2024/11/teen-in-critical-condition-with-canadas-first-human-case-of-h5-bird-flu/).
+You can read more about it [here](https://www.forbes.com/sites/lindseychoo/2024/11/13/mike-tyson-jake-paul-netflix-live-boxing-fight/).
 
 ## Requirements
 - Python 3.8
