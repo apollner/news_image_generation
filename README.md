@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cold War bomber enhances China’s ability to strike US bases**
+**Houthis launch missile, drone attacks on US warships off Yemen’s coast**
 
-You can read more about it [here](https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/13/houthis-launch-missile-drone-attacks-on-us-warships-off-yemens-coast).
 
 ## Requirements
 - Python 3.8
