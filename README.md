@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia and SoftBank pilot world's first AI and 5G telecom network**
+**The Mike Tyson-Jake Paul boxing match shows streaming is just cable now**
 
-You can read more about it [here](https://www.reuters.com/business/media-telecom/nvidia-softbank-pilot-worlds-first-ai-5g-telecom-network-2024-11-13/).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/11/12/mike-tyson-vs-jake-paul-netflix-ads-streaming/).
 
 ## Requirements
 - Python 3.8
