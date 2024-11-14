@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump chooses Elon Musk and Vivek Ramaswamy to lead government efficiency effort**
+**Box Office Preview: Dwayne Johnson-Chris Evans’ ‘Red One’ Kicks Off Year-End Tentpole Parade**
 
-You can read more about it [here](https://www.ft.com/content/a8e7c76d-1098-47d1-8ac6-f6f026b18631).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/box-office-preview-red-one-1236060213/).
 
 ## Requirements
 - Python 3.8
