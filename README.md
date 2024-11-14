@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tencent posts better-than-expected 47% profit surge as games, AI tools shine**
+**Personal luxury goods market to shrink for first time since the 2008 financial crash, research finds**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/13/tencent-q3-2024-earnings.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/13/personal-luxury-goods-market-to-shrink-for-first-time-since-gfc.html).
 
 ## Requirements
 - Python 3.8
