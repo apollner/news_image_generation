@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cold War bomber enhances China’s ability to strike US bases**
+**Donald Trump chooses Elon Musk and Vivek Ramaswamy to lead government efficiency effort**
 
-You can read more about it [here](https://www.reuters.com/world/cold-war-bomber-enhances-chinas-ability-strike-us-bases-2024-11-13/).
+You can read more about it [here](https://www.ft.com/content/a8e7c76d-1098-47d1-8ac6-f6f026b18631).
 
 ## Requirements
 - Python 3.8
