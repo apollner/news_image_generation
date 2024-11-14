@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Mike Tyson-Jake Paul boxing match shows streaming is just cable now**
+**Elon Musk and Vivek Ramaswamy will lead new ‘Department of Government Efficiency’ in Trump administration**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/11/12/mike-tyson-vs-jake-paul-netflix-ads-streaming/).
+You can read more about it [here](https://www.cnn.com/2024/11/12/politics/elon-musk-vivek-ramaswamy-department-of-government-efficiency-trump/index.html).
 
 ## Requirements
 - Python 3.8
