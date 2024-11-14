@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Timothy West Dies: British Theater And Screen Actor Was 90**
+**Senior Russian naval officer killed in car bombing claimed by Kyiv**
 
-You can read more about it [here](http://deadline.com/2024/11/timothy-west-dead-theater-screen-actor-was-90-1236175108/).
+You can read more about it [here](https://www.reuters.com/world/europe/senior-russian-naval-officer-killed-car-bomb-hit-claimed-by-kyiv-2024-11-13/).
 
 ## Requirements
 - Python 3.8
