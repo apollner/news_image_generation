@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heated Debate On Amsterdam Violence In Dutch Parliament**
+**Senior Russian naval officer killed in car bombing claimed by Kyiv**
 
-You can read more about it [here](https://www.barrons.com/articles/heated-debate-on-amsterdam-violence-in-dutch-parliament-710fda0d).
+You can read more about it [here](https://www.reuters.com/world/europe/senior-russian-naval-officer-killed-car-bomb-hit-claimed-by-kyiv-2024-11-13/).
 
 ## Requirements
 - Python 3.8
