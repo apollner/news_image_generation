@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jack Teixeira: US airman sentenced to 15 years in prison**
+**Israeli strikes in two Mount Lebanon villages kill 23 - ministry**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c62l00g0k65o).
+You can read more about it [here](https://www.bbc.com/news/articles/c86q5qeqxldo).
 
 ## Requirements
 - Python 3.8
