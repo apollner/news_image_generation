@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Hilariously stupid’: Donald Trump’s Pentagon pick sparks alarm — and scorn**
+**Trump selects Matt Gaetz to serve as attorney general**
 
-You can read more about it [here](https://www.ft.com/content/562c9e87-dabd-40d8-a412-c579ff49d8f2).
+You can read more about it [here](https://www.axios.com/2024/11/13/trump-attorney-general-matt-gaetz).
 
 ## Requirements
 - Python 3.8
