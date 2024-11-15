@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden, China's Xi to meet on Saturday in Peru, US officials say**
+**Republicans win majority in US House, giving Trump control of Congress**
 
-You can read more about it [here](https://www.reuters.com/world/biden-xi-meet-saturday-peru-us-officials-say-2024-11-13/).
+You can read more about it [here](https://www.ft.com/content/26387a5c-425d-428c-9a57-922f16a15864).
 
 ## Requirements
 - Python 3.8
