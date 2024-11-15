@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s Gemini AI now has its own iPhone app**
+**Mortgage rates stay flat as Trump’s second term comes into focus**
 
-You can read more about it [here](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai).
+You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-stay-flat-as-trumps-second-term-comes-into-focus-172941908.html).
 
 ## Requirements
 - Python 3.8
