@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Tulsi Gabbard as director of national intelligence**
+**Matt Gaetz resigns from Congress ahead of key Ethics Committee meeting**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/11/13/tulsi-gabbard-trump-director-national-intelligence/).
+You can read more about it [here](https://www.axios.com/2024/11/14/matt-gaetz-resigns-congress-ethics-committee).
 
 ## Requirements
 - Python 3.8
