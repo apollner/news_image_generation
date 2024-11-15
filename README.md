@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Sara forms in the Caribbean and heads toward ‘life-threatening’ impact with Central America**
+**O'Leary crushes theory that Polymarket CEO home raid was 'political retribution': The rules are 'transparent'**
 
-You can read more about it [here](https://www.cnn.com/2024/11/14/weather/tropical-storm-sara-florida-hurricane-season-climate/index.html).
+You can read more about it [here](https://www.foxbusiness.com/media/oleary-crushes-theory-polymarket-ceo-home-raid-political-retribution-rules-transparent).
 
 ## Requirements
 - Python 3.8
