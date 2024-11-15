@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**O'Leary crushes theory that Polymarket CEO home raid was 'political retribution': The rules are 'transparent'**
+**Hochul pushes ahead with Manhattan toll plan before Trump takes office**
 
-You can read more about it [here](https://www.foxbusiness.com/media/oleary-crushes-theory-polymarket-ceo-home-raid-political-retribution-rules-transparent).
+You can read more about it [here](https://www.politico.com/news/2024/11/14/hochul-new-york-toll-plan-00189628).
 
 ## Requirements
 - Python 3.8
