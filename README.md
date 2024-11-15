@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Hurricane Center tells Floridians to monitor soon-to-be Tropical Storm Sara**
+**Eva Longoria Reveals She Left 'Dystopian' U.S. With Her Family**
 
-You can read more about it [here](https://www.cnn.com/2024/11/13/weather/tropical-storm-sara-path-florida-climate/index.html).
+You can read more about it [here](https://www.huffpost.com/entry/eva-longoria-reveals-she-has-left-dystopian-us-with-her-family_n_6735f6bee4b0958bad3e6dca).
 
 ## Requirements
 - Python 3.8
