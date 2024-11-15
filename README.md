@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hochul pushes ahead with Manhattan toll plan before Trump takes office**
+**House Republicans probe allegations of FEMA discrimination in Florida**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/14/hochul-new-york-toll-plan-00189628).
+You can read more about it [here](https://thehill.com/policy/energy-environment/4991476-house-republicans-probe-allegations-of-fema-discrimination-in-florida/).
 
 ## Requirements
 - Python 3.8
