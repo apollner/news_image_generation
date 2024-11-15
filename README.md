@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Golden Bachelorette’ Finale: a Proposal, a Tearful Pre-Final Rose Twist and a Trip to Disney World**
+**Israel is committing ‘ethnic cleansing’ amid mass forced displacements in Gaza, HRW report says**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/the-golden-bachelorette-finale-proposal-pre-rose-twist-disney-trip-1236061560/).
+You can read more about it [here](https://www.france24.com/en/middle-east/20241114-israel-committing-ethnic-cleansing-amid-mass-forced-displacements-gaza-hrw-report-says).
 
 ## Requirements
 - Python 3.8
