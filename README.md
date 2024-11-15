@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snapchat will let parents request their teen’s real-time location**
+**National Hurricane Center tells Floridians to monitor soon-to-be Tropical Storm Sara**
 
-You can read more about it [here](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update).
+You can read more about it [here](https://www.cnn.com/2024/11/13/weather/tropical-storm-sara-path-florida-climate/index.html).
 
 ## Requirements
 - Python 3.8
