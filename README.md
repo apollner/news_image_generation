@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI raids home of Polymarket CEO Shayne Coplan**
+**Ozempic and Wegovy may be beneficial in fighting alcohol addiction: Study**
 
-You can read more about it [here](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan).
+You can read more about it [here](https://thehill.com/policy/healthcare/4989492-ozempic-and-wegovy-may-be-beneficial-in-fighting-alcohol-addiction-study/).
 
 ## Requirements
 - Python 3.8
