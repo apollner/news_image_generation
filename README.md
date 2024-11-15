@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands evacuated as parts of Spain hit with nearly a month’s rainfall in one hour**
+**Google’s Gemini AI now has its own iPhone app**
 
-You can read more about it [here](https://www.cnn.com/2024/11/13/europe/spain-rain-thousands-evacuated-malaga-intl-latam/index.html).
+You can read more about it [here](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai).
 
 ## Requirements
 - Python 3.8
