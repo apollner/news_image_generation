@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump selects Matt Gaetz to serve as attorney general**
+**[Removed]**
 
-You can read more about it [here](https://www.axios.com/2024/11/13/trump-attorney-general-matt-gaetz).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
