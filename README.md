@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lady Gaga Boards ‘Wednesday’ Season 2 at Netflix**
+**News Releases | Governor Phil Murphy and DEP Commissioner Shawn M. LaTourette Give Update on New Jersey’s Record-breaking Dry Spell and Wildfire Response (Joint Release)**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/lady-gaga-wednesday-season-2-netflix-1236061095/).
+You can read more about it [here](https://dep.nj.gov/newsrel/24_0054/).
 
 ## Requirements
 - Python 3.8
