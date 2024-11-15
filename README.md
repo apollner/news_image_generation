@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tropical Storm Sara forms in the Caribbean and heads toward ‘life-threatening’ impact with Central America**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/11/14/weather/tropical-storm-sara-florida-hurricane-season-climate/index.html).
 
 ## Requirements
 - Python 3.8
