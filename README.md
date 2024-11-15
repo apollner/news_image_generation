@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ozempic and Wegovy may be beneficial in fighting alcohol addiction: Study**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/policy/healthcare/4989492-ozempic-and-wegovy-may-be-beneficial-in-fighting-alcohol-addiction-study/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
