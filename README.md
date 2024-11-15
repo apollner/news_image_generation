@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What We Know About Elon Musk’s ‘Department Of Government Efficiency’—Staffed By 80-Hour-A-Week ‘Revolutionaries’**
+**Democrat senator reacts to Gaetz nomination: 'Red alert moment'**
 
-You can read more about it [here](https://www.forbes.com/sites/dereksaul/2024/11/14/what-we-know-about-elon-musks-department-of-government-efficiency-staffed-by-80-hour-a-week-revolutionaries/).
+You can read more about it [here](https://www.foxnews.com/politics/democrat-senator-reacts-gaetz-nomination-red-alert-moment).
 
 ## Requirements
 - Python 3.8
