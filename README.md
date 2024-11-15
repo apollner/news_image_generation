@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mortgage rates stay flat as Trump’s second term comes into focus**
+**Snapchat will let parents request their teen’s real-time location**
 
-You can read more about it [here](https://finance.yahoo.com/news/mortgage-rates-stay-flat-as-trumps-second-term-comes-into-focus-172941908.html).
+You can read more about it [here](https://www.theverge.com/2024/11/14/24294970/snapchat-live-location-sharing-app-feature-update).
 
 ## Requirements
 - Python 3.8
