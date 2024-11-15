@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s Gemini AI now has its own iPhone app**
+**Republicans "stunned and disgusted" as Trump taps Matt Gaetz for attorney general**
 
-You can read more about it [here](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai).
+You can read more about it [here](https://www.axios.com/2024/11/13/matt-gaetz-republicans-trump-attorney-general).
 
 ## Requirements
 - Python 3.8
