@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans "stunned and disgusted" as Trump taps Matt Gaetz for attorney general**
+**Disney shares rally on ‘Deadpool’-driven earnings boost**
 
-You can read more about it [here](https://www.axios.com/2024/11/13/matt-gaetz-republicans-trump-attorney-general).
+You can read more about it [here](https://www.ft.com/content/5585026c-50fe-4d62-905d-9da14590f8c7).
 
 ## Requirements
 - Python 3.8
