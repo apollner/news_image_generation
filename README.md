@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI raids home of Polymarket CEO**
+**Days after he’s indicted, mayor attends National League of Cities convention**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2024/11/14/fbi-raids-home-of-polymarket-ceo).
+You can read more about it [here](https://www.wlbt.com/2024/11/13/days-after-hes-indicted-mayor-attends-national-league-cities-convention/).
 
 ## Requirements
 - Python 3.8
