@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China opens huge port in Peru to extend its reach in Latin America**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/14/china-peru-port-latin-america/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
