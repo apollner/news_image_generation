@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Spurs coach Gregg Popovich had a stroke earlier this month, is expected to make full recovery**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/spurs-gregg-popovich-stroke-26fdfd84655c42536a5d90ac82f7162e).
 
 ## Requirements
 - Python 3.8
