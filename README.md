@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans win majority in US House, giving Trump control of Congress**
+**FBI raids home of Polymarket CEO Shayne Coplan**
 
-You can read more about it [here](https://www.ft.com/content/26387a5c-425d-428c-9a57-922f16a15864).
+You can read more about it [here](https://www.axios.com/2024/11/13/polymarket-fbi-shayne-coplan).
 
 ## Requirements
 - Python 3.8
