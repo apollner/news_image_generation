@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz: the radical Trump loyalist handed US law enforcement**
+**Thousands evacuated as parts of Spain hit with nearly a month’s rainfall in one hour**
 
-You can read more about it [here](https://www.ft.com/content/cd33ab05-9a03-46ca-96dd-cd90af7ef55c).
+You can read more about it [here](https://www.cnn.com/2024/11/13/europe/spain-rain-thousands-evacuated-malaga-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
