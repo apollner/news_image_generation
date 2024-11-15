@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Ethics committee was set to meet this week to vote on releasing Gaetz report**
+**Matt Gaetz resigns from Congress ahead of key Ethics Committee meeting**
 
-You can read more about it [here](https://www.cnn.com/2024/11/13/politics/house-ethics-committee-report-gaetz-investigation/index.html).
+You can read more about it [here](https://www.axios.com/2024/11/14/matt-gaetz-resigns-congress-ethics-committee).
 
 ## Requirements
 - Python 3.8
