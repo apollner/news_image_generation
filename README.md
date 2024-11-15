@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**News Releases | Governor Phil Murphy and DEP Commissioner Shawn M. LaTourette Give Update on New Jersey’s Record-breaking Dry Spell and Wildfire Response (Joint Release)**
+**Nvidia Stock Slips. Why Missing Earnings Expectations Wouldn't Be a Disaster.**
 
-You can read more about it [here](https://dep.nj.gov/newsrel/24_0054/).
+You can read more about it [here](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-softbank-e6211bab).
 
 ## Requirements
 - Python 3.8
