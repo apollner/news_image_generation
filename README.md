@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Webb Spots Massive ‘Red Monsters’—A Discovery That’s Shaking Astronomy to Its Core**
+**Google’s Gemini AI now has its own iPhone app**
 
-You can read more about it [here](https://dailygalaxy.com/2024/11/james-webb-spots-massive-red-monsters/).
+You can read more about it [here](https://www.theverge.com/2024/11/14/24296295/google-gemini-app-iphone-ios-ai).
 
 ## Requirements
 - Python 3.8
