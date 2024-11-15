@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here Are the Top 10 Passwords for 2024, and They're All Embarrassing**
+**‘Hilariously stupid’: Donald Trump’s Pentagon pick sparks alarm — and scorn**
 
-You can read more about it [here](https://www.cnet.com/tech/services-and-software/here-are-the-top-10-passwords-for-2024-and-theyre-all-embarrassing/).
+You can read more about it [here](https://www.ft.com/content/562c9e87-dabd-40d8-a412-c579ff49d8f2).
 
 ## Requirements
 - Python 3.8
