@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eva Longoria Reveals She Left 'Dystopian' U.S. With Her Family**
+**Democrat senator reacts to Gaetz nomination: 'Red alert moment'**
 
-You can read more about it [here](https://www.huffpost.com/entry/eva-longoria-reveals-she-has-left-dystopian-us-with-her-family_n_6735f6bee4b0958bad3e6dca).
+You can read more about it [here](https://www.foxnews.com/politics/democrat-senator-reacts-gaetz-nomination-red-alert-moment).
 
 ## Requirements
 - Python 3.8
