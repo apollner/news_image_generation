@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI raids home of Polymarket CEO**
+**‘The Golden Bachelorette’ Finale: a Proposal, a Tearful Pre-Final Rose Twist and a Trip to Disney World**
 
-You can read more about it [here](https://www.aljazeera.com/economy/2024/11/14/fbi-raids-home-of-polymarket-ceo).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/the-golden-bachelorette-finale-proposal-pre-rose-twist-disney-trip-1236061560/).
 
 ## Requirements
 - Python 3.8
