@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democrat senator reacts to Gaetz nomination: 'Red alert moment'**
+**China opens huge port in Peru to extend its reach in Latin America**
 
-You can read more about it [here](https://www.foxnews.com/politics/democrat-senator-reacts-gaetz-nomination-red-alert-moment).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/14/china-peru-port-latin-america/).
 
 ## Requirements
 - Python 3.8
