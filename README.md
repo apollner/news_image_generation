@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz resigns from Congress ahead of key Ethics Committee meeting**
+**FBI raids home of Polymarket CEO**
 
-You can read more about it [here](https://www.axios.com/2024/11/14/matt-gaetz-resigns-congress-ethics-committee).
+You can read more about it [here](https://www.aljazeera.com/economy/2024/11/14/fbi-raids-home-of-polymarket-ceo).
 
 ## Requirements
 - Python 3.8
