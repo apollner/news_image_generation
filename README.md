@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Days after he’s indicted, mayor attends National League of Cities convention**
+**Here Are the Top 10 Passwords for 2024, and They're All Embarrassing**
 
-You can read more about it [here](https://www.wlbt.com/2024/11/13/days-after-hes-indicted-mayor-attends-national-league-cities-convention/).
+You can read more about it [here](https://www.cnet.com/tech/services-and-software/here-are-the-top-10-passwords-for-2024-and-theyre-all-embarrassing/).
 
 ## Requirements
 - Python 3.8
