@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney shares rally on ‘Deadpool’-driven earnings boost**
+**Matt Gaetz: the radical Trump loyalist handed US law enforcement**
 
-You can read more about it [here](https://www.ft.com/content/5585026c-50fe-4d62-905d-9da14590f8c7).
+You can read more about it [here](https://www.ft.com/content/cd33ab05-9a03-46ca-96dd-cd90af7ef55c).
 
 ## Requirements
 - Python 3.8
