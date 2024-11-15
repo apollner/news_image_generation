@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock Slips. Why Missing Earnings Expectations Wouldn't Be a Disaster.**
+**Biden, China's Xi to meet on Saturday in Peru, US officials say**
 
-You can read more about it [here](https://www.barrons.com/articles/nvidia-stock-price-ai-chips-softbank-e6211bab).
+You can read more about it [here](https://www.reuters.com/world/biden-xi-meet-saturday-peru-us-officials-say-2024-11-13/).
 
 ## Requirements
 - Python 3.8
