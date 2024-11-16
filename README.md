@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rachel Zegler apologizes for anti-Trump post after calls for Disney to fire ‘Snow White’ star**
+**Elon Musk is hiring for his DOGE taskforce—but you’ll need to work 80+ hours per week on unglamorous cost-cutting**
 
-You can read more about it [here](https://pagesix.com/2024/11/15/celebrity-news/rachel-zegler-apologizes-for-anti-trump-post-after-calls-for-snow-white-firin/).
+You can read more about it [here](https://fortune.com/2024/11/15/elon-musk-doge-donald-trump-vivek-ramaswamy-government-efficiency-department/).
 
 ## Requirements
 - Python 3.8
