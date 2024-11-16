@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Meet New Zealand's youngest MP whose Māori Haka dance in Parliament goes viral**
+**Tulsi Gabbard’s Ties to ‘Cult’ Could Cost Her Intel Job**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/meet-new-zealands-youngest-mp-whose-m-ori-haka-dance-in-parliament-goes-viral-101731630392109.html).
+You can read more about it [here](https://www.thedailybeast.com/tulsi-gabbards-ties-to-cult-could-cost-her-intel-job/).
 
 ## Requirements
 - Python 3.8
