@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starting Latin America trip, Xi Jinping opens huge port in Peru funded by China**
+**India: Delhi shuts primary schools as hazardous smog worsens**
 
-You can read more about it [here](https://www.reuters.com/world/chinas-xi-arrives-lima-apec-open-pacific-megaport-2024-11-14/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3wqz8xn8jgo).
 
 ## Requirements
 - Python 3.8
