@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ISS Is Leaking Air—And NASA and Russia Can’t Agree Why**
+**Wall Street Boosts Nvidia Price Targets Ahead of Q3 Earnings**
 
-You can read more about it [here](https://gizmodo.com/the-iss-is-leaking-air-and-nasa-and-russia-cant-agree-why-2000524781).
+You can read more about it [here](https://finance.yahoo.com/news/wall-street-boosts-nvidia-price-162455854.html).
 
 ## Requirements
 - Python 3.8
