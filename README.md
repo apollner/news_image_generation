@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Games of Thrones' Sophie Turner reportedly in talks to play Lara Croft in Amazon's Tomb Raider TV series**
+**Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple Stock**
 
-You can read more about it [here](https://www.eurogamer.net/games-of-thrones-sophie-turner-reportedly-in-talks-to-play-lara-croft-in-amazons-tomb-raider-tv-series).
+You can read more about it [here](https://www.investopedia.com/warren-buffett-berkshire-hathaway-13f-q3-2024-apple-bank-of-america-dominos-pool-corp-8745805).
 
 ## Requirements
 - Python 3.8
