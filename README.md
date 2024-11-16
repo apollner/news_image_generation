@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saquon Barkley makes NFL MVP case as he carries Eagles to win with unreal ‘TNF’ second half**
+**UK economy ekes out 0.1% growth in the third quarter, below expectations**
 
-You can read more about it [here](https://nypost.com/2024/11/15/sports/saquon-barkley-makes-nfl-mvp-case-as-he-carries-eagles-to-win/).
+You can read more about it [here](https://www.cnbc.com/2024/11/15/uk-q3-gdp-uk-economy-ekes-out-0point1percent-growth-below-expectations-.html).
 
 ## Requirements
 - Python 3.8
