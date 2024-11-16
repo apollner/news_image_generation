@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mavericks vs Jazz Final Score: Dallas falls in Utah, 115-113**
+**Trump’s team skips FBI background checks for some Cabinet picks**
 
-You can read more about it [here](https://www.mavsmoneyball.com/2024/11/14/24296998/mavericks-vs-jazz-final-score-dallas-loses-utah-115-113-luka-doncic-john-collins-jason-kidd).
+You can read more about it [here](https://www.cnn.com/2024/11/15/politics/security-clearances-fbi-gabbard-gaetz/index.html).
 
 ## Requirements
 - Python 3.8
