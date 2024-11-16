@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Super Micro Stock Falls as Moment of Truth Nears**
+**The ISS Is Leaking Air—And NASA and Russia Can’t Agree Why**
 
-You can read more about it [here](https://www.barrons.com/articles/super-micro-stock-delisting-deadline-e2bd2e3e).
+You can read more about it [here](https://gizmodo.com/the-iss-is-leaking-air-and-nasa-and-russia-cant-agree-why-2000524781).
 
 ## Requirements
 - Python 3.8
