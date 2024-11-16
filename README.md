@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wall Street Boosts Nvidia Price Targets Ahead of Q3 Earnings**
+**Beaver Moon Gets Ready For Its Peak**
 
-You can read more about it [here](https://finance.yahoo.com/news/wall-street-boosts-nvidia-price-162455854.html).
+You can read more about it [here](https://weather.com/science/space/video/supermoon-beaver-moon-photos).
 
 ## Requirements
 - Python 3.8
