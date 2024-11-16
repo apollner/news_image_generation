@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Disney earnings offer hope that streaming can successfully supplant linear TV**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/11/14/disney-earnings-offer-hope-that-streaming-can-supplant-linear-tv.html).
 
 ## Requirements
 - Python 3.8
