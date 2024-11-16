@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Biden economy is about to get a new salesman: Donald Trump**
+**Rachel Zegler apologizes for anti-Trump post after calls for Disney to fire ‘Snow White’ star**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/15/biden-economy-donald-trump-rebrand-00189731).
+You can read more about it [here](https://pagesix.com/2024/11/15/celebrity-news/rachel-zegler-apologizes-for-anti-trump-post-after-calls-for-snow-white-firin/).
 
 ## Requirements
 - Python 3.8
