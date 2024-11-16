@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump looks to bypass Senate for polarizing Cabinet picks**
+**NASA worries space station leaks in Russian module are potentially ‘catastrophic.’ Russia doesn’t seem to agree**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/14/trump-recess-appointments-gaetz-rfk/).
+You can read more about it [here](https://www.cnn.com/2024/11/15/science/international-space-station-leak-nasa-russia/index.html).
 
 ## Requirements
 - Python 3.8
