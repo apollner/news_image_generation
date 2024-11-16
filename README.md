@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk is hiring for his DOGE taskforce—but you’ll need to work 80+ hours per week on unglamorous cost-cutting**
+**Texas Supreme Court clears way for new execution date for Robert Roberson in 2-year-old daughter’s death**
 
-You can read more about it [here](https://fortune.com/2024/11/15/elon-musk-doge-donald-trump-vivek-ramaswamy-government-efficiency-department/).
+You can read more about it [here](https://www.cnn.com/2024/11/15/us/texas-robert-roberson-death-row/index.html).
 
 ## Requirements
 - Python 3.8
