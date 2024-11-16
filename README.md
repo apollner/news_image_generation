@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korea Shows Its Drone Capabilities With Explosive Exhibition**
+**Review: Amazon’s 2024 Kindle Paperwhite makes the best e-reader a little better**
 
-You can read more about it [here](https://www.wsj.com/world/north-korea-shows-its-drone-capabilities-with-explosive-exhibition-b799a8b2).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/11/review-amazons-2024-kindle-paperwhite-makes-the-best-e-reader-a-little-better/).
 
 ## Requirements
 - Python 3.8
