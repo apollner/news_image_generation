@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Cormier: Stipe Miocic 'was so mad and upset' backstage after UFC 309 faceoff with Jon Jones**
+**Robert Roberson's execution can resume, Texas Supreme Court declares**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/2024/11/ufc-309-daniel-cormier-stipe-moicic-so-mad-jon-jones-faceoff).
+You can read more about it [here](https://abcnews.go.com/US/robert-robersons-execution-resume-texas-supreme-court-declares/story?id\\u003d115901572).
 
 ## Requirements
 - Python 3.8
