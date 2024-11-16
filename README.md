@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satire publication The Onion buys Alex Jones' Infowars at auction with Sandy Hook families' backing**
+**Disney earnings offer hope that streaming can successfully supplant linear TV**
 
-You can read more about it [here](https://abcnews.go.com/Business/wireStory/satire-slinger-onion-buys-alex-jones-infowars-auction-115858173).
+You can read more about it [here](https://www.cnbc.com/2024/11/14/disney-earnings-offer-hope-that-streaming-can-supplant-linear-tv.html).
 
 ## Requirements
 - Python 3.8
