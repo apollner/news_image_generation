@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA worries space station leaks in Russian module are potentially ‘catastrophic.’ Russia doesn’t seem to agree**
+**Tyson slaps Paul in face during final stare-down**
 
-You can read more about it [here](https://www.cnn.com/2024/11/15/science/international-space-station-leak-nasa-russia/index.html).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/42397251/mike-tyson-slaps-jake-paul-face-final-staredown).
 
 ## Requirements
 - Python 3.8
