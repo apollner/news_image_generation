@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert Roberson's execution can resume, Texas Supreme Court declares**
+**GM laying off nearly 1,000 workers, mostly in US, source says**
 
-You can read more about it [here](https://abcnews.go.com/US/robert-robersons-execution-resume-texas-supreme-court-declares/story?id\\u003d115901572).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-laying-off-nearly-1000-workers-most-us-source-says-2024-11-15/).
 
 ## Requirements
 - Python 3.8
