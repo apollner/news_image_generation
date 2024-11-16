@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beaver Moon Gets Ready For Its Peak**
+**Daniel Cormier: Stipe Miocic 'was so mad and upset' backstage after UFC 309 faceoff with Jon Jones**
 
-You can read more about it [here](https://weather.com/science/space/video/supermoon-beaver-moon-photos).
+You can read more about it [here](https://mmajunkie.usatoday.com/2024/11/ufc-309-daniel-cormier-stipe-moicic-so-mad-jon-jones-faceoff).
 
 ## Requirements
 - Python 3.8
