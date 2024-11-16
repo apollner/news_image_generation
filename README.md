@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks North Dakota governor to lead Interior**
+**Games of Thrones' Sophie Turner reportedly in talks to play Lara Croft in Amazon's Tomb Raider TV series**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/14/doug-burgum-interior-secretary-trump-00188590).
+You can read more about it [here](https://www.eurogamer.net/games-of-thrones-sophie-turner-reportedly-in-talks-to-play-lara-croft-in-amazons-tomb-raider-tv-series).
 
 ## Requirements
 - Python 3.8
