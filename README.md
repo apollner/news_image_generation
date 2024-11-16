@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House Republicans probe allegations of FEMA discrimination in Florida**
+**[Removed]**
 
-You can read more about it [here](https://thehill.com/policy/energy-environment/4991476-house-republicans-probe-allegations-of-fema-discrimination-in-florida/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
