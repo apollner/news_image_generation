@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s team skips FBI background checks for some Cabinet picks**
+**North Korea Shows Its Drone Capabilities With Explosive Exhibition**
 
-You can read more about it [here](https://www.cnn.com/2024/11/15/politics/security-clearances-fbi-gabbard-gaetz/index.html).
+You can read more about it [here](https://www.wsj.com/world/north-korea-shows-its-drone-capabilities-with-explosive-exhibition-b799a8b2).
 
 ## Requirements
 - Python 3.8
