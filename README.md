@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GM laying off nearly 1,000 workers, mostly in US, source says**
+**Exclusive: Woman told House Ethics panel she witnessed Gaetz having sex with minor, lawyer says**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/gm-laying-off-nearly-1000-workers-most-us-source-says-2024-11-15/).
+You can read more about it [here](https://abcnews.go.com/US/exclusive-woman-told-house-ethics-panel-witnessed-gaetz/story?id\\u003d115897603).
 
 ## Requirements
 - Python 3.8
