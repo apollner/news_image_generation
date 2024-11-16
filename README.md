@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Angry Judge Questions Transparency of Onion Bid for Infowars**
+**Trump’s wildcard Cabinet choices leave oil industry scratching its head**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-14/angry-judge-questions-transparency-of-onion-bid-for-infowars).
+You can read more about it [here](https://www.politico.com/news/2024/11/14/trumps-wildcard-cabinet-choices-oil-industry-00189727).
 
 ## Requirements
 - Python 3.8
