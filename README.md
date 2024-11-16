@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia’s Fulton County Jail subjects inmates to ‘inhumane, violent’ conditions that threaten their safety, DOJ finds**
+**Angry Judge Questions Transparency of Onion Bid for Infowars**
 
-You can read more about it [here](https://www.cnn.com/2024/11/14/us/fulton-county-jail-georgia-doj-investigation/index.html).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-14/angry-judge-questions-transparency-of-onion-bid-for-infowars).
 
 ## Requirements
 - Python 3.8
