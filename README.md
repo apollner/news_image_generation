@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Gets a Price Target Hike. The Stock Is Down Anyway.**
+**Leonid meteor shower peaks alongside supermoon this weekend. What to know.**
 
-You can read more about it [here](https://www.barrons.com/articles/nvidia-stock-price-target-hike-ai-chips-41f63b1a).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/11/15/leonid-meteor-shower-supermoon/).
 
 ## Requirements
 - Python 3.8
