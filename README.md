@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles vs. Commanders odds, prediction, spread, time: Thursday Night Football picks by NFL model on 17-7 roll**
+**Jake Paul betting entire $40 million purse that he’ll beat Mike Tyson**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-vs-commanders-odds-prediction-spread-time-thursday-night-football-picks-by-nfl-model-on-17-7-roll/).
+You can read more about it [here](https://nypost.com/2024/11/14/betting/jake-paul-bets-40-million-purse-that-hell-beat-mike-tyson/).
 
 ## Requirements
 - Python 3.8
