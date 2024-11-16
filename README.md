@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffett's Berkshire Buys Shares of Domino's Pizza and Pool Corp., Dumps Apple Stock**
+**Starting Latin America trip, Xi Jinping opens huge port in Peru funded by China**
 
-You can read more about it [here](https://www.investopedia.com/warren-buffett-berkshire-hathaway-13f-q3-2024-apple-bank-of-america-dominos-pool-corp-8745805).
+You can read more about it [here](https://www.reuters.com/world/chinas-xi-arrives-lima-apec-open-pacific-megaport-2024-11-14/).
 
 ## Requirements
 - Python 3.8
