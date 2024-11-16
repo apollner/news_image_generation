@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Review: Amazon’s 2024 Kindle Paperwhite makes the best e-reader a little better**
+**The Biden economy is about to get a new salesman: Donald Trump**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/11/review-amazons-2024-kindle-paperwhite-makes-the-best-e-reader-a-little-better/).
+You can read more about it [here](https://www.politico.com/news/2024/11/15/biden-economy-donald-trump-rebrand-00189731).
 
 ## Requirements
 - Python 3.8
