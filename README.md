@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UK economy ekes out 0.1% growth in the third quarter, below expectations**
+**Trump’s wildcard Cabinet choices leave oil industry scratching its head**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/15/uk-q3-gdp-uk-economy-ekes-out-0point1percent-growth-below-expectations-.html).
+You can read more about it [here](https://www.politico.com/news/2024/11/14/trumps-wildcard-cabinet-choices-oil-industry-00189727).
 
 ## Requirements
 - Python 3.8
