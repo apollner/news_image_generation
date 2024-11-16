@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jake Paul betting entire $40 million purse that he’ll beat Mike Tyson**
+**Satire publication The Onion buys Alex Jones' Infowars at auction with Sandy Hook families' backing**
 
-You can read more about it [here](https://nypost.com/2024/11/14/betting/jake-paul-bets-40-million-purse-that-hell-beat-mike-tyson/).
+You can read more about it [here](https://abcnews.go.com/Business/wireStory/satire-slinger-onion-buys-alex-jones-infowars-auction-115858173).
 
 ## Requirements
 - Python 3.8
