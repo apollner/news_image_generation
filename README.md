@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whooping Cough Is Soaring in the Bay Area. Here’s How to Get Vaccines**
+**Games of Thrones' Sophie Turner reportedly in talks to play Lara Croft in Amazon's Tomb Raider TV series**
 
-You can read more about it [here](https://www.kqed.org/news/12014470/whooping-cough-is-soaring-in-the-bay-area-heres-how-to-get-vaccines).
+You can read more about it [here](https://www.eurogamer.net/games-of-thrones-sophie-turner-reportedly-in-talks-to-play-lara-croft-in-amazons-tomb-raider-tv-series).
 
 ## Requirements
 - Python 3.8
