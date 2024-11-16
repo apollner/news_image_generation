@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyson slaps Paul in face during final stare-down**
+**Mavericks vs Jazz Final Score: Dallas falls in Utah, 115-113**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/42397251/mike-tyson-slaps-jake-paul-face-final-staredown).
+You can read more about it [here](https://www.mavsmoneyball.com/2024/11/14/24296998/mavericks-vs-jazz-final-score-dallas-loses-utah-115-113-luka-doncic-john-collins-jason-kidd).
 
 ## Requirements
 - Python 3.8
