@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney earnings offer hope that streaming can successfully supplant linear TV**
+**Eagles vs. Commanders odds, prediction, spread, time: Thursday Night Football picks by NFL model on 17-7 roll**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/14/disney-earnings-offer-hope-that-streaming-can-supplant-linear-tv.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/eagles-vs-commanders-odds-prediction-spread-time-thursday-night-football-picks-by-nfl-model-on-17-7-roll/).
 
 ## Requirements
 - Python 3.8
