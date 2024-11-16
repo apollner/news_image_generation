@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Disney earnings offer hope that streaming can successfully supplant linear TV**
+**Meet New Zealand's youngest MP whose Māori Haka dance in Parliament goes viral**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/14/disney-earnings-offer-hope-that-streaming-can-supplant-linear-tv.html).
+You can read more about it [here](https://www.hindustantimes.com/world-news/meet-new-zealands-youngest-mp-whose-m-ori-haka-dance-in-parliament-goes-viral-101731630392109.html).
 
 ## Requirements
 - Python 3.8
