@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s wildcard Cabinet choices leave oil industry scratching its head**
+**Saquon Barkley makes NFL MVP case as he carries Eagles to win with unreal ‘TNF’ second half**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/14/trumps-wildcard-cabinet-choices-oil-industry-00189727).
+You can read more about it [here](https://nypost.com/2024/11/15/sports/saquon-barkley-makes-nfl-mvp-case-as-he-carries-eagles-to-win/).
 
 ## Requirements
 - Python 3.8
