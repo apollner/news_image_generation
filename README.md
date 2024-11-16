@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s wildcard Cabinet choices leave oil industry scratching its head**
+**Trump looks to bypass Senate for polarizing Cabinet picks**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/14/trumps-wildcard-cabinet-choices-oil-industry-00189727).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/14/trump-recess-appointments-gaetz-rfk/).
 
 ## Requirements
 - Python 3.8
