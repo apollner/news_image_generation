@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tulsi Gabbard’s Ties to ‘Cult’ Could Cost Her Intel Job**
+**Whooping Cough Is Soaring in the Bay Area. Here’s How to Get Vaccines**
 
-You can read more about it [here](https://www.thedailybeast.com/tulsi-gabbards-ties-to-cult-could-cost-her-intel-job/).
+You can read more about it [here](https://www.kqed.org/news/12014470/whooping-cough-is-soaring-in-the-bay-area-heres-how-to-get-vaccines).
 
 ## Requirements
 - Python 3.8
