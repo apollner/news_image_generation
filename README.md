@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**India: Delhi shuts primary schools as hazardous smog worsens**
+**Georgia’s Fulton County Jail subjects inmates to ‘inhumane, violent’ conditions that threaten their safety, DOJ finds**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3wqz8xn8jgo).
+You can read more about it [here](https://www.cnn.com/2024/11/14/us/fulton-county-jail-georgia-doj-investigation/index.html).
 
 ## Requirements
 - Python 3.8
