@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Avian influenza confirmed in birds on Central Oahu property**
+**Trump looms over Biden’s final meeting with Xi in Peru**
 
-You can read more about it [here](https://www.staradvertiser.com/2024/11/15/breaking-news/avian-influenza-confirmed-in-birds-on-central-oahu-property/).
+You can read more about it [here](https://www.cnn.com/2024/11/16/politics/joe-biden-xi-jinping-donald-trump/index.html).
 
 ## Requirements
 - Python 3.8
