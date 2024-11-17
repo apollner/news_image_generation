@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick Drops Funny One-Liner to Describe the Heated Steelers-Ravens Rivalry**
+**Trump names Interior nominee Burgum to head new National Energy Council**
 
-You can read more about it [here](https://www.si.com/nfl/bill-belichick-funny-one-liner-steelers-ravens-rivalry).
+You can read more about it [here](https://www.politico.com/news/2024/11/15/doug-burgum-national-energy-council-trump-00189456).
 
 ## Requirements
 - Python 3.8
