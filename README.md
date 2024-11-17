@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Pentagon pick had been flagged by fellow service member as possible 'Insider Threat'**
+**North Korean troops in Ukraine ‘grave escalation’, Scholz tells Putin**
 
-You can read more about it [here](https://www.startribune.com/trump-defense-pick-had-been-flagged-by-fellow-service-member-as-possible-insider-threat/601181381).
+You can read more about it [here](https://www.bbc.com/news/articles/c75lxypz7wqo).
 
 ## Requirements
 - Python 3.8
