@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops in Ukraine ‘grave escalation’, Scholz tells Putin**
+**Hispanic, LGBTQ communities receive hateful emails after racist text surge**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c75lxypz7wqo).
+You can read more about it [here](https://abcnews.go.com/US/hispanic-lgbtq-communities-receive-hateful-emails-after-racist/story?id\\u003d115916272).
 
 ## Requirements
 - Python 3.8
