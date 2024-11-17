@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**"The Voice" winner Sundance Head recovering after accidental shooting at his Texas ranch**
+**[Removed]**
 
-You can read more about it [here](https://www.cbsnews.com/news/the-voice-winner-sundance-head-accidental-shooting-texas/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
