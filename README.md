@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs is trying to obstruct his sex trafficking case, prosecutors say**
+**Trump’s Pentagon pick was flagged as a possible ‘Insider Threat’ in the National Guard**
 
-You can read more about it [here](https://abcnews.go.com/US/sean-diddy-combs-obstruct-sex-trafficking-case-prosecutors/story?id\\u003d115930458).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trumps-pentagon-pick-was-flagged-as-a-possible-insider-threat-in-the-national-guard).
 
 ## Requirements
 - Python 3.8
