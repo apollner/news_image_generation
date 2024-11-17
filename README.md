@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**MLB rumors: Juan Soto meets with another AL East rival, Orioles looking beyond Corbin Burnes**
+**Biden’s White House stares down a Trump takeover**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/mlb-rumors-juan-soto-meets-with-another-al-east-rival-orioles-looking-beyond-corbin-burnes/).
+You can read more about it [here](https://www.politico.com/news/2024/11/16/biden-trump-legacy-proof-00189936).
 
 ## Requirements
 - Python 3.8
