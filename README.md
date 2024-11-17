@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bullet strikes Southwest Airlines plane without injuries at Dallas airport**
+**Washington’s lobbyists are stunned Trump chose RFK Jr.**
 
-You can read more about it [here](https://apnews.com/article/dallas-texas-bullet-hits-airplane-southwest-airlines-19feb604518202ef544ce0102e3ea2c3).
+You can read more about it [here](https://www.politico.com/news/2024/11/15/industry-rfk-donald-trump-hhs-00189674).
 
 ## Requirements
 - Python 3.8
