@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jake Paul beats 58-year-old Mike Tyson in a much-hyped Netflix boxing match**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.npr.org/2024/11/16/nx-s1-5193807/jake-paul-beats-58-year-old-mike-tyson-in-a-much-hyped-netflix-boxing-match).
 
 ## Requirements
 - Python 3.8
