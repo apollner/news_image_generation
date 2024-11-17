@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's X collapses: hundreds of artists and media flee to a booming social network**
+**Taylor edges out Serrano in controversial decision**
 
-You can read more about it [here](https://www.marca.com/en/lifestyle/us-news/2024/11/15/6737cdd4ca4741dc5d8b4594.html).
+You can read more about it [here](https://www.espn.com/boxing/story/_/id/42417518/katie-taylor-edges-amanda-serrano-controversial-decision).
 
 ## Requirements
 - Python 3.8
