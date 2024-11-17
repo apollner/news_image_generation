@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor edges out Serrano in controversial decision**
+**Trump names Interior nominee Burgum to head new National Energy Council**
 
-You can read more about it [here](https://www.espn.com/boxing/story/_/id/42417518/katie-taylor-edges-amanda-serrano-controversial-decision).
+You can read more about it [here](https://www.politico.com/news/2024/11/15/doug-burgum-national-energy-council-trump-00189456).
 
 ## Requirements
 - Python 3.8
