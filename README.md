@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health stocks hit after Trump taps RFK Jr for top regulator post**
+**Here's why an unbearable cough is surging in the Bay Area**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cp3nzp782ejo).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/why-whooping-cough-surging-bay-area-19920052.php).
 
 ## Requirements
 - Python 3.8
