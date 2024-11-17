@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump transition team concerned Pete Hegseth not vetted properly**
+**Elon Musk's X collapses: hundreds of artists and media flee to a booming social network**
 
-You can read more about it [here](https://www.newsweek.com/election-2024-live-updates-donald-trump-kamala-harris-cabinet-administration-11-15-24-1986328).
+You can read more about it [here](https://www.marca.com/en/lifestyle/us-news/2024/11/15/6737cdd4ca4741dc5d8b4594.html).
 
 ## Requirements
 - Python 3.8
