@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starting Seahawks center Connor Williams abruptly retires**
+**What is Bluesky, the fast-growing social platform welcoming fleeing X users?**
 
-You can read more about it [here](https://sports.yahoo.com/starting-seahawks-center-connor-williams-abruptly-retires-221219382.html).
+You can read more about it [here](https://apnews.com/article/bluesky-x-twitter-dcc4f92f9d0386dbacc3f30376b38dbc).
 
 ## Requirements
 - Python 3.8
