@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden’s White House stares down a Trump takeover**
+**Trump’s Pentagon pick was flagged as a possible ‘Insider Threat’ in the National Guard**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/16/biden-trump-legacy-proof-00189936).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trumps-pentagon-pick-was-flagged-as-a-possible-insider-threat-in-the-national-guard).
 
 ## Requirements
 - Python 3.8
