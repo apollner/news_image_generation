@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Woman told House Ethics panel she witnessed Gaetz having sex with minor, lawyer says**
+**Trump transition team concerned Pete Hegseth not vetted properly**
 
-You can read more about it [here](https://abcnews.go.com/US/exclusive-woman-told-house-ethics-panel-witnessed-gaetz/story?id\\u003d115897603).
+You can read more about it [here](https://www.newsweek.com/election-2024-live-updates-donald-trump-kamala-harris-cabinet-administration-11-15-24-1986328).
 
 ## Requirements
 - Python 3.8
