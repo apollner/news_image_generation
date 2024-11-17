@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austria says Russia to cut off gas supplies on Saturday**
+**Sean 'Diddy' Combs is trying to obstruct his sex trafficking case, prosecutors say**
 
-You can read more about it [here](https://www.politico.eu/article/austria-russia-cut-off-gas-supplies-omv-karl-nehammer/).
+You can read more about it [here](https://abcnews.go.com/US/sean-diddy-combs-obstruct-sex-trafficking-case-prosecutors/story?id\\u003d115930458).
 
 ## Requirements
 - Python 3.8
