@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Centrist Dems seize opening at the DNC: ‘I don’t want to be the freak show party’**
+**Health stocks hit after Trump taps RFK Jr for top regulator post**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/15/centrist-democrats-chair-dnc-00189933).
+You can read more about it [here](https://www.bbc.com/news/articles/cp3nzp782ejo).
 
 ## Requirements
 - Python 3.8
