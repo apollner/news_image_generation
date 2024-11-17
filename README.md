@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX stacks Flight 6 Starship megarocket ahead of Nov. 19 launch (photos)**
+**Austria says Russia to cut off gas supplies on Saturday**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-stacks-flight-6-starship-megarocket-photos).
+You can read more about it [here](https://www.politico.eu/article/austria-russia-cut-off-gas-supplies-omv-karl-nehammer/).
 
 ## Requirements
 - Python 3.8
