@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names Interior nominee Burgum to head new National Energy Council**
+**Laken Riley: Migrant accused of killing nursing student stands trial**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/15/doug-burgum-national-energy-council-trump-00189456).
+You can read more about it [here](https://www.bbc.com/news/articles/c9371vxeyzpo).
 
 ## Requirements
 - Python 3.8
