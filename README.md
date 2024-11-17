@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laken Riley: Migrant accused of killing nursing student stands trial**
+**North Korean troops in Ukraine ‘grave escalation’, Scholz tells Putin**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c9371vxeyzpo).
+You can read more about it [here](https://www.bbc.com/news/articles/c75lxypz7wqo).
 
 ## Requirements
 - Python 3.8
