@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names Interior nominee Burgum to head new National Energy Council**
+**`Please die`, `you are a stain on the universe,` AI chatbot tells girl seeking help for homework**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/15/doug-burgum-national-energy-council-trump-00189456).
+You can read more about it [here](https://www.wionews.com/world/please-die-you-are-a-stain-on-the-universe-ai-chatbot-tells-girl-seeking-help-for-homework-776635).
 
 ## Requirements
 - Python 3.8
