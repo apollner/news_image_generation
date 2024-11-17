@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fans praying for Jim Carrey’s family after heartbreaking news**
+**Bullet strikes Southwest Airlines plane without injuries at Dallas airport**
 
-You can read more about it [here](https://www.pennlive.com/entertainment/2024/11/fans-praying-for-jim-carreys-family-after-heartbreaking-news.html).
+You can read more about it [here](https://apnews.com/article/dallas-texas-bullet-hits-airplane-southwest-airlines-19feb604518202ef544ce0102e3ea2c3).
 
 ## Requirements
 - Python 3.8
