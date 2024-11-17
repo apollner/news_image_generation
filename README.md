@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health stocks hit after Trump taps RFK Jr for top regulator post**
+**Elon Musk's X collapses: hundreds of artists and media flee to a booming social network**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cp3nzp782ejo).
+You can read more about it [here](https://www.marca.com/en/lifestyle/us-news/2024/11/15/6737cdd4ca4741dc5d8b4594.html).
 
 ## Requirements
 - Python 3.8
