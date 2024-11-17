@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's why an unbearable cough is surging in the Bay Area**
+**Starting Seahawks center Connor Williams abruptly retires**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/why-whooping-cough-surging-bay-area-19920052.php).
+You can read more about it [here](https://sports.yahoo.com/starting-seahawks-center-connor-williams-abruptly-retires-221219382.html).
 
 ## Requirements
 - Python 3.8
