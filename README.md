@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**`Please die`, `you are a stain on the universe,` AI chatbot tells girl seeking help for homework**
+**Trump may start his second term with a stunning power grab**
 
-You can read more about it [here](https://www.wionews.com/world/please-die-you-are-a-stain-on-the-universe-ai-chatbot-tells-girl-seeking-help-for-homework-776635).
+You can read more about it [here](https://www.vox.com/politics/385884/trump-recess-appointments-cabinet-adjourn-senate-ed-whelan).
 
 ## Requirements
 - Python 3.8
