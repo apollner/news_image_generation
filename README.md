@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hispanic, LGBTQ communities receive hateful emails after racist text surge**
+**Trump names Interior nominee Burgum to head new National Energy Council**
 
-You can read more about it [here](https://abcnews.go.com/US/hispanic-lgbtq-communities-receive-hateful-emails-after-racist/story?id\\u003d115916272).
+You can read more about it [here](https://www.politico.com/news/2024/11/15/doug-burgum-national-energy-council-trump-00189456).
 
 ## Requirements
 - Python 3.8
