@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s Pentagon pick was flagged as a possible ‘Insider Threat’ in the National Guard**
+**Steve Sarkisian 'Erupts' at Quinn Ewers Clutch Play in Texas Win**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trumps-pentagon-pick-was-flagged-as-a-possible-insider-threat-in-the-national-guard).
+You can read more about it [here](https://athlonsports.com/college/texas-longhorns/steve-sarkisian-erupts-at-quinn-ewers-clutch-play-in-texas-win-).
 
 ## Requirements
 - Python 3.8
