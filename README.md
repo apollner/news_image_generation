@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Standoff Deep Inside an Abandoned South African Gold Mine**
+**Robert Roberson's execution can resume, Texas Supreme Court says**
 
-You can read more about it [here](https://www.wsj.com/world/africa/south-africa-illegal-gold-mining-337ee875).
+You can read more about it [here](https://www.bbc.com/news/articles/cq6lvd6pr0eo).
 
 ## Requirements
 - Python 3.8
