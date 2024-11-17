@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starting Seahawks center Connor Williams abruptly retires**
+**Exclusive: Woman told House Ethics panel she witnessed Gaetz having sex with minor, lawyer says**
 
-You can read more about it [here](https://sports.yahoo.com/starting-seahawks-center-connor-williams-abruptly-retires-221219382.html).
+You can read more about it [here](https://abcnews.go.com/US/exclusive-woman-told-house-ethics-panel-witnessed-gaetz/story?id\\u003d115897603).
 
 ## Requirements
 - Python 3.8
