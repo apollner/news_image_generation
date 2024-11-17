@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Washington’s lobbyists are stunned Trump chose RFK Jr.**
+**"The Voice" winner Sundance Head recovering after accidental shooting at his Texas ranch**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/15/industry-rfk-donald-trump-hhs-00189674).
+You can read more about it [here](https://www.cbsnews.com/news/the-voice-winner-sundance-head-accidental-shooting-texas/).
 
 ## Requirements
 - Python 3.8
