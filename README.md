@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Woman told House Ethics panel she witnessed Gaetz having sex with minor, lawyer says**
+**The Standoff Deep Inside an Abandoned South African Gold Mine**
 
-You can read more about it [here](https://abcnews.go.com/US/exclusive-woman-told-house-ethics-panel-witnessed-gaetz/story?id\\u003d115897603).
+You can read more about it [here](https://www.wsj.com/world/africa/south-africa-illegal-gold-mining-337ee875).
 
 ## Requirements
 - Python 3.8
