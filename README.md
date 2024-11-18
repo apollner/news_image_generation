@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Boeing issues layoff notices to 400-plus workers as it begins drastic cuts**
+**Eight killed and 17 injured in mass stabbing in eastern China**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/16/boeing-issues-layoff-notices-to-400-plus-workers-as-it-begins-drastic-cuts-00190027).
+You can read more about it [here](https://www.cnn.com/2024/11/16/china/china-stabbing-yixing-campus-intl/index.html).
 
 ## Requirements
 - Python 3.8
