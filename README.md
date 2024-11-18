@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eight killed and 17 injured in mass stabbing in eastern China**
+**Southwest Airlines says one of its planes full of passengers was struck by bullet**
 
-You can read more about it [here](https://www.cnn.com/2024/11/16/china/china-stabbing-yixing-campus-intl/index.html).
+You can read more about it [here](https://local12.com/news/nation-world/southwest-airlines-says-one-of-its-planes-was-struck-by-bullets-removed-from-service-shot-dallas-flight-injuries-airplanes-terminal-travelers-hit-damaged-aircraft).
 
 ## Requirements
 - Python 3.8
