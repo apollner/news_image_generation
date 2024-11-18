@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines says one of its planes full of passengers was struck by bullet**
+**Trump Ally Urges Duties on Goods Shipped Via China’s Peru Port**
 
-You can read more about it [here](https://local12.com/news/nation-world/southwest-airlines-says-one-of-its-planes-was-struck-by-bullets-removed-from-service-shot-dallas-flight-injuries-airplanes-terminal-travelers-hit-damaged-aircraft).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-16/trump-ally-urges-duties-on-goods-shipped-via-china-s-peru-port).
 
 ## Requirements
 - Python 3.8
