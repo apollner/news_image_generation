@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bessent, Lutnick in Final Push for Trump Treasury Secretary Pick**
+**In Photos: 2024’s Final Supermoon Lights Up Night Sky Around The World**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-16/musk-throws-support-to-lutnick-over-bessent-in-treasury-race).
+You can read more about it [here](https://www.forbes.com/sites/jamiecartereurope/2024/11/16/in-photos-2024s-final-supermoon-lights-up-night-sky-around-the-world/).
 
 ## Requirements
 - Python 3.8
