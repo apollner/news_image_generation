@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it**
+**Boeing issues layoff notices to 400-plus workers as it begins drastic cuts**
 
-You can read more about it [here](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/).
+You can read more about it [here](https://www.politico.com/news/2024/11/16/boeing-issues-layoff-notices-to-400-plus-workers-as-it-begins-drastic-cuts-00190027).
 
 ## Requirements
 - Python 3.8
