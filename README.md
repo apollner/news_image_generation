@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: Dwayne Johnson-Chris Evans’ Christmas Pic ‘Red One’ Battling for $30M Opening**
+**[Removed]**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/red-one-box-office-opening-1236063802/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
