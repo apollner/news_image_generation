@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Gladiator II’ Unleashes $87M In Overseas Bow; Biggest Ever Offshore Start For A Ridley Scott-Directed Movie – International Box Office**
+**NFL odds, Week 11 lines, ATS predictions, game picks, tips, and times: Model simulates all games 10,000 times**
 
-You can read more about it [here](http://deadline.com/2024/11/gladiator-2-opening-weekend-international-box-office-ridley-scott-1236179583/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-week-11-lines-ats-predictions-game-picks-tips-and-times-model-simulates-all-games-10000-times/).
 
 ## Requirements
 - Python 3.8
