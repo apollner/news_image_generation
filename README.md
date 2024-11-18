@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Ally Urges Duties on Goods Shipped Via China’s Peru Port**
+**UFC 309: Jones vs Miocic Main Card Results | Winner Interviews, Highlights & More From New York City**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-16/trump-ally-urges-duties-on-goods-shipped-via-china-s-peru-port).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-309-jones-vs-miocic).
 
 ## Requirements
 - Python 3.8
