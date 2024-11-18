@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A popular technique to make AI more efficient has drawbacks**
+**Ohio governor, other leaders condemn neo-Nazi march in Columbus: "Your hate isn't welcome in our city"**
 
-You can read more about it [here](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/).
+You can read more about it [here](https://www.cbsnews.com/news/neo-nazi-march-columbus-ohio/).
 
 ## Requirements
 - Python 3.8
