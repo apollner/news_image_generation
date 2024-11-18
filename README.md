@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gmail Alert—Leak Reveals New Email Addresses Coming For 2.5 Billion Users**
+**First U.S. case of deadlier mpox virus strain reported in California**
 
-You can read more about it [here](https://www.forbes.com/sites/daveywinder/2024/11/17/gmail-privacy-warning-for-25-billion-users-new-email-address-alert/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/16/mpox-first-case-california-africa/).
 
 ## Requirements
 - Python 3.8
