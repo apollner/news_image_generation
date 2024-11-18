@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia results will rock markets**
+**Pentagon pick left Guard after being reported as possible ‘insider threat’ due to tattoo**
 
-You can read more about it [here](https://www.thestreet.com/finance/nvidia-results-will-rock-markets).
+You can read more about it [here](https://www.washingtonpost.com/investigations/2024/11/16/pete-hegseth-tattoo-national-guard/).
 
 ## Requirements
 - Python 3.8
