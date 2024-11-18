@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A third November storm, Sara, serves notice that a busy hurricane season isn’t over yet**
+**First U.S. case of deadlier mpox virus strain reported in California**
 
-You can read more about it [here](https://apnews.com/article/november-hurricanes-sara-florida-caribbean-a88648635e3910edd190388563cc7b52).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/16/mpox-first-case-california-africa/).
 
 ## Requirements
 - Python 3.8
