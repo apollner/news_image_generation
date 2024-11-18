@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pentagon pick left Guard after being reported as possible ‘insider threat’ due to tattoo**
+**A third November storm, Sara, serves notice that a busy hurricane season isn’t over yet**
 
-You can read more about it [here](https://www.washingtonpost.com/investigations/2024/11/16/pete-hegseth-tattoo-national-guard/).
+You can read more about it [here](https://apnews.com/article/november-hurricanes-sara-florida-caribbean-a88648635e3910edd190388563cc7b52).
 
 ## Requirements
 - Python 3.8
