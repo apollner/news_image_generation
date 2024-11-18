@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Baltimore Ravens vs. Pittsburgh Steelers game: How to watch, kickoff time and more**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://sports.yahoo.com/baltimore-ravens-vs-pittsburgh-steelers-game-how-to-watch-kickoff-time-and-more-120133783.html).
 
 ## Requirements
 - Python 3.8
