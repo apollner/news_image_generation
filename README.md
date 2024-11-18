@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is Jordan James playing today? Injury updates for Oregon Ducks RB**
+**Pool Report on the foul called on Giannis Antetokounmpo with 7.3 second remaining in the Bucks at Hornets Game**
 
-You can read more about it [here](https://duckswire.usatoday.com/2024/11/16/jordan-james-injury-updates-oregon-ducks-week-12/).
+You can read more about it [here](https://official.nba.com/pool-report-on-the-foul-called-on-giannis-antetokounmpo-with-7-3-second-remaining-in-the-bucks-at-hornets-game/).
 
 ## Requirements
 - Python 3.8
