@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC 309: Jones vs Miocic Main Card Results | Winner Interviews, Highlights & More From New York City**
+**Mike Tyson vs Jake Paul: Netflix says 60m households watched fight**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-309-jones-vs-miocic).
+You can read more about it [here](https://www.bbc.com/news/articles/c8xpyg2lr28o).
 
 ## Requirements
 - Python 3.8
