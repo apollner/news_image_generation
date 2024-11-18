@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tyson vs Jake Paul: Netflix says 60m households watched fight**
+**First U.S. case of deadlier mpox virus strain reported in California**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8xpyg2lr28o).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/16/mpox-first-case-california-africa/).
 
 ## Requirements
 - Python 3.8
