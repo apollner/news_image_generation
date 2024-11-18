@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump looms over Biden’s final meeting with Xi in Peru**
+**Box Office: Dwayne Johnson-Chris Evans’ Christmas Pic ‘Red One’ Battling for $30M Opening**
 
-You can read more about it [here](https://www.cnn.com/2024/11/16/politics/joe-biden-xi-jinping-donald-trump/index.html).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/red-one-box-office-opening-1236063802/).
 
 ## Requirements
 - Python 3.8
