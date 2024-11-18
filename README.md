@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a decades-old unsolved murder case changed the way we consume medicine**
+**Stipe Miocic announces retirement after UFC 309 loss to Jon Jones: ‘I’m done’**
 
-You can read more about it [here](https://www.cnn.com/2024/11/17/us/the-1982-tylenol-murders-an-enduring-mystery/index.html).
+You can read more about it [here](https://www.mmafighting.com/2024/11/17/24298613/stipe-miocic-announces-retirement-after-ufc-309-loss-to-jon-jones-im-done).
 
 ## Requirements
 - Python 3.8
