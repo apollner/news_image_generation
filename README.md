@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stipe Miocic announces retirement after UFC 309 loss to Jon Jones: ‘I’m done’**
+**Republicans suddenly think the economy’s great and the election wasn’t rigged**
 
-You can read more about it [here](https://www.mmafighting.com/2024/11/17/24298613/stipe-miocic-announces-retirement-after-ufc-309-loss-to-jon-jones-im-done).
+You can read more about it [here](https://www.politico.com/news/2024/11/17/republicans-trump-win-economy-election-security-confidence-00189941).
 
 ## Requirements
 - Python 3.8
