@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Charli XCX shouts out 'brat' Post columnist during 'SNL' monologue for her Martha Stewart takedown**
+**A popular technique to make AI more efficient has drawbacks**
 
-You can read more about it [here](https://pagesix.com/2024/11/17/celebrity-news/charli-xcx-shouts-out-brat-post-columnist-during-snl-monologue-for-her-martha-stewart-takedown/).
+You can read more about it [here](https://techcrunch.com/2024/11/17/a-popular-technique-to-make-ai-more-efficient-has-drawbacks/).
 
 ## Requirements
 - Python 3.8
