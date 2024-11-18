@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Restaurant executives can't wait for 2025 after slow traffic and wave of bankruptcies**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/17/restaurant-industry-2025-outlook-mcdonalds-starbucks-aim-to-improve.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
