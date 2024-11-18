@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trista Sutter Details Why She Was Apart From Family After Husband Ryan's Cryptic Posts**
+**Eight killed and 17 injured in mass stabbing in eastern China**
 
-You can read more about it [here](https://toofab.com/2024/11/16/trista-sutter-details-mysterious-absence-ryan-cryptic-post-special-forces/).
+You can read more about it [here](https://www.cnn.com/2024/11/16/china/china-stabbing-yixing-campus-intl/index.html).
 
 ## Requirements
 - Python 3.8
