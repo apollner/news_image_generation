@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eight killed and 17 injured in mass stabbing in eastern China**
+**Xi says he will work with Trump in last meeting with Biden**
 
-You can read more about it [here](https://www.cnn.com/2024/11/16/china/china-stabbing-yixing-campus-intl/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2l4dn802lo).
 
 ## Requirements
 - Python 3.8
