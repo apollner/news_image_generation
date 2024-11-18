@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trista Sutter Details Why She Was Apart From Family After Husband Ryan's Cryptic Posts**
+**Bessent, Lutnick in Final Push for Trump Treasury Secretary Pick**
 
-You can read more about it [here](https://toofab.com/2024/11/16/trista-sutter-details-mysterious-absence-ryan-cryptic-post-special-forces/).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-11-16/musk-throws-support-to-lutnick-over-bessent-in-treasury-race).
 
 ## Requirements
 - Python 3.8
