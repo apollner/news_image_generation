@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive data: Trump's record pace for Cabinet picks**
+**Charli XCX shouts out 'brat' Post columnist during 'SNL' monologue for her Martha Stewart takedown**
 
-You can read more about it [here](https://www.axios.com/2024/11/17/trump-cabinet-picks-timeline).
+You can read more about it [here](https://pagesix.com/2024/11/17/celebrity-news/charli-xcx-shouts-out-brat-post-columnist-during-snl-monologue-for-her-martha-stewart-takedown/).
 
 ## Requirements
 - Python 3.8
