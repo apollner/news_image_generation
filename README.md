@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pool Report on the foul called on Giannis Antetokounmpo with 7.3 second remaining in the Bucks at Hornets Game**
+**Consumer tech is bouncing back, and consumer founders like Brynn Putnam are bouncing back with it**
 
-You can read more about it [here](https://official.nba.com/pool-report-on-the-foul-called-on-giannis-antetokounmpo-with-7-3-second-remaining-in-the-bucks-at-hornets-game/).
+You can read more about it [here](https://techcrunch.com/2024/11/16/consumer-tech-is-bouncing-back-and-consumer-founders-like-brynn-putnam-are-bouncing-back-with-it/).
 
 ## Requirements
 - Python 3.8
