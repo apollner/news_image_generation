@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First U.S. case of deadlier mpox virus strain reported in California**
+**Nvidia results will rock markets**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/16/mpox-first-case-california-africa/).
+You can read more about it [here](https://www.thestreet.com/finance/nvidia-results-will-rock-markets).
 
 ## Requirements
 - Python 3.8
