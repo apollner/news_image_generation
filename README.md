@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It's 2009 Again: Apple is Apparently Reconsidering Making a TV**
+**‘Gladiator II’ Unleashes $87M In Overseas Bow; Biggest Ever Offshore Start For A Ridley Scott-Directed Movie – International Box Office**
 
-You can read more about it [here](https://www.macrumors.com/2024/11/17/apple-evaluating-a-tv-set-report/).
+You can read more about it [here](http://deadline.com/2024/11/gladiator-2-opening-weekend-international-box-office-ridley-scott-1236179583/).
 
 ## Requirements
 - Python 3.8
