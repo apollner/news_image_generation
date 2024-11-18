@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stipe Miocic announces retirement after UFC 309 loss to Jon Jones: ‘I’m done’**
+**Charli XCX shouts out 'brat' Post columnist during 'SNL' monologue for her Martha Stewart takedown**
 
-You can read more about it [here](https://www.mmafighting.com/2024/11/17/24298613/stipe-miocic-announces-retirement-after-ufc-309-loss-to-jon-jones-im-done).
+You can read more about it [here](https://pagesix.com/2024/11/17/celebrity-news/charli-xcx-shouts-out-brat-post-columnist-during-snl-monologue-for-her-martha-stewart-takedown/).
 
 ## Requirements
 - Python 3.8
