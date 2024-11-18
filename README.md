@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Steve Sarkisian 'Erupts' at Quinn Ewers Clutch Play in Texas Win**
+**Trump looms over Biden’s final meeting with Xi in Peru**
 
-You can read more about it [here](https://athlonsports.com/college/texas-longhorns/steve-sarkisian-erupts-at-quinn-ewers-clutch-play-in-texas-win-).
+You can read more about it [here](https://www.cnn.com/2024/11/16/politics/joe-biden-xi-jinping-donald-trump/index.html).
 
 ## Requirements
 - Python 3.8
