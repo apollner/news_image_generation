@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock Price Levels to Watch as Earnings Report Looms**
+**The Game Awards announces Game of the Year 2024 nominees**
 
-You can read more about it [here](https://www.investopedia.com/nvidia-stock-price-levels-to-watch-as-earnings-report-looms-8746934).
+You can read more about it [here](https://www.polygon.com/480312/game-awards-2024-nominees-list-game-of-the-year).
 
 ## Requirements
 - Python 3.8
