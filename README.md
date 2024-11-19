@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ohio governor, other leaders condemn neo-Nazi march in Columbus: "Your hate isn't welcome in our city"**
+**Live coverage: SpaceX to launch mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center**
 
-You can read more about it [here](https://www.cbsnews.com/news/neo-nazi-march-columbus-ohio/).
+You can read more about it [here](https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/).
 
 ## Requirements
 - Python 3.8
