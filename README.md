@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX fuels up Starship megarocket in key test ahead of 6th test flight (photos)**
+**Bears coach Matt Eberflus is protesting to the NFL that the refs missed a penalty on the Packers' winning FG block**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-megarocket-in-key-test-ahead-of-6th-test-flight-photos).
+You can read more about it [here](https://ftw.usatoday.com/2024/11/bears-matt-eberflus-protest-long-snapper-packers-fg-block).
 
 ## Requirements
 - Python 3.8
