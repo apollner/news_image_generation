@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Timothée Chalamet ‘Pushed the Bounds’ to Play Bob Dylan in ‘A Complete Unknown’**
+**2024 NFL Week 11 winners and losers: Lions, Steelers complete teams; Jaguars, Jets total flops**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-features/timothee-chalamet-a-complete-unknown-bob-dylan-cover-story-interview-1235157596/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-week-11-winners-and-losers-lions-steelers-complete-teams-jaguars-jets-total-flops/).
 
 ## Requirements
 - Python 3.8
