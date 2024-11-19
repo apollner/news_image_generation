@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Beyoncé to perform at halftime show of NFL Christmas Day game on Netflix**
+**A Russian ballistic missile with cluster munitions kills 11 people and injures 84 in Ukraine's north**
 
-You can read more about it [here](https://www.cnn.com/2024/11/18/entertainment/beyonce-nfl-halftime-christmas-day-show-hnk/index.html).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-missile-attack-sumy-5cd4f9fe2cee1ae8aed67d63c22b0703).
 
 ## Requirements
 - Python 3.8
