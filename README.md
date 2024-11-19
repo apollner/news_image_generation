@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Storms to bring rain, colder air and mountain snow across parts of the US**
+**Spirit Airlines files bankruptcy after heavy losses**
 
-You can read more about it [here](https://www.cnn.com/2024/11/18/weather/storms-to-bring-rain-mountain-snow-colder-air-hnk/index.html).
+You can read more about it [here](https://www.axios.com/2024/11/18/spirit-airlines-chapter-11-bankruptcy).
 
 ## Requirements
 - Python 3.8
