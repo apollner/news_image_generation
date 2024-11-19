@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Budget travel icon Spirit Airlines files for bankruptcy protection after mounting losses**
+**Trump shock waves ripple through fragmented G20**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/18/spirit-airlines-files-bankruptcy-protection.html).
+You can read more about it [here](https://www.politico.eu/article/donald-trump-us-elections-g20-summit-joe-biden-war-crises-china/).
 
 ## Requirements
 - Python 3.8
