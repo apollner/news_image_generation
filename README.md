@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Russian ballistic missile with cluster munitions kills 11 people and injures 84 in Ukraine's north**
+**Organic carrots recalled as E coli outbreak leaves 1 dead, dozens infected in 18 states**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-missile-attack-sumy-5cd4f9fe2cee1ae8aed67d63c22b0703).
+You can read more about it [here](https://www.axios.com/2024/11/18/e-coli-organic-carrots-outbreak).
 
 ## Requirements
 - Python 3.8
