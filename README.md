@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden visits Amazon rainforest, a first for an American president**
+**Separate shootings near New Orleans parade route leave 2 dead, 10 wounded**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/).
+You can read more about it [here](https://www.foxnews.com/us/separate-shootings-near-new-orleans-parade-route-leave-2-dead-10-wounded).
 
 ## Requirements
 - Python 3.8
