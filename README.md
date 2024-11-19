@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Separate shootings near New Orleans parade route leave 2 dead, 10 wounded**
+**Trump’s immigration crackdown is expected to start on Day 1**
 
-You can read more about it [here](https://www.foxnews.com/us/separate-shootings-near-new-orleans-parade-route-leave-2-dead-10-wounded).
+You can read more about it [here](https://www.politico.com/news/2024/11/18/immigration-100-days-trump-executive-action-00189286).
 
 ## Requirements
 - Python 3.8
