@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The Exploration Company raises $160M to build Europe’s answer to SpaceX Dragon**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/).
 
 ## Requirements
 - Python 3.8
