@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden visits Amazon rainforest, a first for an American president**
+**Matt Gaetz feels the heat**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/).
+You can read more about it [here](https://www.politico.com/news/2024/11/18/matt-gaetz-feels-heat-attorney-general-00190091).
 
 ## Requirements
 - Python 3.8
