@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 are killed and 1 is critically wounded in New York City knife rampage. A suspect is in custody**
+**SpaceX fuels up Starship megarocket in key test ahead of 6th test flight (photos)**
 
-You can read more about it [here](https://apnews.com/article/new-york-city-knife-attacks-f16e3de00b1c9f8ef7cd2b2e4c0cc75c).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-fuels-up-starship-megarocket-in-key-test-ahead-of-6th-test-flight-photos).
 
 ## Requirements
 - Python 3.8
