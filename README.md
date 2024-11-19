@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How 1,000 days of conflict evolved into robot war between Russia and Ukraine**
+**Budget travel icon Spirit Airlines files for bankruptcy protection after mounting losses**
 
-You can read more about it [here](https://www.reuters.com/world/europe/how-1000-days-conflict-fuelled-robot-wars-between-russia-ukraine-2024-11-18/).
+You can read more about it [here](https://www.cnbc.com/2024/11/18/spirit-airlines-files-bankruptcy-protection.html).
 
 ## Requirements
 - Python 3.8
