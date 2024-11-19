@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Organic carrots recalled as E coli outbreak leaves 1 dead, dozens infected in 18 states**
+**Biden visits Amazon rainforest, a first for an American president**
 
-You can read more about it [here](https://www.axios.com/2024/11/18/e-coli-organic-carrots-outbreak).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/).
 
 ## Requirements
 - Python 3.8
