@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch mystery ‘Optus-X’ on Falcon 9 rocket from the Kennedy Space Center**
+**[Removed]**
 
-You can read more about it [here](https://spaceflightnow.com/2024/11/17/live-coverage-spacex-to-launch-mystery-optus-x-on-falcon-9-rocket-from-the-kennedy-space-center/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
