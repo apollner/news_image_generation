@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia launches 'massive' attack on Ukraine infrastructure**
+**Chargers vs. Bengals Player Prop for Sunday Night Football: Geno Stone Tackles Under**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c206l3qgnx2o).
+You can read more about it [here](https://www.actionnetwork.com/nfl/chargers-vs-bengals-player-prop-sunday-night-football-geno-stone-tackles).
 
 ## Requirements
 - Python 3.8
