@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Game Awards announces Game of the Year 2024 nominees**
+**How Timothée Chalamet ‘Pushed the Bounds’ to Play Bob Dylan in ‘A Complete Unknown’**
 
-You can read more about it [here](https://www.polygon.com/480312/game-awards-2024-nominees-list-game-of-the-year).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-features/timothee-chalamet-a-complete-unknown-bob-dylan-cover-story-interview-1235157596/).
 
 ## Requirements
 - Python 3.8
