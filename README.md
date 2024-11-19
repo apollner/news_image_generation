@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Exploration Company raises $160M to build Europe’s answer to SpaceX Dragon**
+**Josh Allen’s insane touchdown run helps Bills hand Chiefs first loss**
 
-You can read more about it [here](https://techcrunch.com/2024/11/17/the-exploration-company-raises-160m-to-build-europes-answer-to-spacex-dragon/).
+You can read more about it [here](https://nypost.com/2024/11/17/sports/josh-allens-insane-26-yard-td-run-helps-bills-hand-chiefs-first-loss/).
 
 ## Requirements
 - Python 3.8
