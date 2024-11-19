@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3**
+**How 1,000 days of conflict evolved into robot war between Russia and Ukraine**
 
-You can read more about it [here](https://www.tipranks.com/news/nvidia-nvda-pre-earnings-analysts-expect-88-earnings-growth-in-q3).
+You can read more about it [here](https://www.reuters.com/world/europe/how-1000-days-conflict-fuelled-robot-wars-between-russia-ukraine-2024-11-18/).
 
 ## Requirements
 - Python 3.8
