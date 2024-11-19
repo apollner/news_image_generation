@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Allen’s insane touchdown run helps Bills hand Chiefs first loss**
+**Tropical Storm Sara weakens to tropical depression after making landfall in Belize**
 
-You can read more about it [here](https://nypost.com/2024/11/17/sports/josh-allens-insane-26-yard-td-run-helps-bills-hand-chiefs-first-loss/).
+You can read more about it [here](https://apnews.com/article/tropical-storm-sara-belize-honduras-rain-flooding-f107d30b264401bbcc4bd48d240cc86b).
 
 ## Requirements
 - Python 3.8
