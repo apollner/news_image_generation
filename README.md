@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tropical Storm Sara weakens to tropical depression after making landfall in Belize**
+**Russia launches 'massive' attack on Ukraine infrastructure**
 
-You can read more about it [here](https://apnews.com/article/tropical-storm-sara-belize-honduras-rain-flooding-f107d30b264401bbcc4bd48d240cc86b).
+You can read more about it [here](https://www.bbc.com/news/articles/c206l3qgnx2o).
 
 ## Requirements
 - Python 3.8
