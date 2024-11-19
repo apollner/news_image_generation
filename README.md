@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**How Democrats are planning to fight Trump's mass deportation plan**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/US/immigration-litigation-prepared-advocacy-groups-democratic-leaders/story?id\\u003d115915848).
 
 ## Requirements
 - Python 3.8
