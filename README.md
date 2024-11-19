@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden visits Amazon rainforest, a first for an American president**
+**Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/).
+You can read more about it [here](https://www.tipranks.com/news/nvidia-nvda-pre-earnings-analysts-expect-88-earnings-growth-in-q3).
 
 ## Requirements
 - Python 3.8
