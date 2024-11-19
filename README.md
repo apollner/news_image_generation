@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz feels the heat**
+**Storms to bring rain, colder air and mountain snow across parts of the US**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/18/matt-gaetz-feels-heat-attorney-general-00190091).
+You can read more about it [here](https://www.cnn.com/2024/11/18/weather/storms-to-bring-rain-mountain-snow-colder-air-hnk/index.html).
 
 ## Requirements
 - Python 3.8
