@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s immigration crackdown is expected to start on Day 1**
+**Biden visits Amazon rainforest, a first for an American president**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/18/immigration-100-days-trump-executive-action-00189286).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/17/president-biden-amazon-rainforest-brazil-climate-change/).
 
 ## Requirements
 - Python 3.8
