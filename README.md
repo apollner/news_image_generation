@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Week 11 winners and losers: Lions, Steelers complete teams; Jaguars, Jets total flops**
+**Why Netflix’s glitchy Paul-Tyson fight was like the Super Bowl for investors**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-week-11-winners-and-losers-lions-steelers-complete-teams-jaguars-jets-total-flops/).
+You can read more about it [here](https://www.marketwatch.com/story/should-netflix-investors-worry-about-the-technical-troubles-during-the-paul-tyson-fight-5230d58d).
 
 ## Requirements
 - Python 3.8
