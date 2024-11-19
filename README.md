@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump shock waves ripple through fragmented G20**
+**Beyoncé to perform at halftime show of NFL Christmas Day game on Netflix**
 
-You can read more about it [here](https://www.politico.eu/article/donald-trump-us-elections-g20-summit-joe-biden-war-crises-china/).
+You can read more about it [here](https://www.cnn.com/2024/11/18/entertainment/beyonce-nfl-halftime-christmas-day-show-hnk/index.html).
 
 ## Requirements
 - Python 3.8
