@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Democrats are planning to fight Trump's mass deportation plan**
+**2 are killed and 1 is critically wounded in New York City knife rampage. A suspect is in custody**
 
-You can read more about it [here](https://abcnews.go.com/US/immigration-litigation-prepared-advocacy-groups-democratic-leaders/story?id\\u003d115915848).
+You can read more about it [here](https://apnews.com/article/new-york-city-knife-attacks-f16e3de00b1c9f8ef7cd2b2e4c0cc75c).
 
 ## Requirements
 - Python 3.8
