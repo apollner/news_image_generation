@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 11: What We Learned from each Sunday game**
+**Nvidia (NVDA) Pre-Earnings: Analysts Expect 88% Earnings Growth in Q3**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-week-11-2024-nfl-season-what-we-learned-from-each-sunday-game).
+You can read more about it [here](https://www.tipranks.com/news/nvidia-nvda-pre-earnings-analysts-expect-88-earnings-growth-in-q3).
 
 ## Requirements
 - Python 3.8
