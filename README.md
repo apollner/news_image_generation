@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Netflix’s glitchy Paul-Tyson fight was like the Super Bowl for investors**
+**[Removed]**
 
-You can read more about it [here](https://www.marketwatch.com/story/should-netflix-investors-worry-about-the-technical-troubles-during-the-paul-tyson-fight-5230d58d).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
