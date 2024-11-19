@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Stanley finally turns bullish on U.S. stocks**
+**Trump’s immigration crackdown is expected to start on Day 1**
 
-You can read more about it [here](https://www.marketwatch.com/story/morgan-stanley-finally-turns-bullish-on-u-s-stocks-as-it-says-the-s-p-500-could-jump-as-high-as-7-400-24b7d3ba).
+You can read more about it [here](https://www.politico.com/news/2024/11/18/immigration-100-days-trump-executive-action-00189286).
 
 ## Requirements
 - Python 3.8
