@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chargers vs. Bengals Player Prop for Sunday Night Football: Geno Stone Tackles Under**
+**NFL Week 11: What We Learned from each Sunday game**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/chargers-vs-bengals-player-prop-sunday-night-football-geno-stone-tackles).
+You can read more about it [here](https://www.nfl.com/news/nfl-week-11-2024-nfl-season-what-we-learned-from-each-sunday-game).
 
 ## Requirements
 - Python 3.8
