@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spirit Airlines files bankruptcy after heavy losses**
+**Chinese officials bundle British journalists out of Starmer-Xi meeting**
 
-You can read more about it [here](https://www.axios.com/2024/11/18/spirit-airlines-chapter-11-bankruptcy).
+You can read more about it [here](https://www.politico.eu/article/keir-starmer-xi-jinping-uk-china-g20-meeting-brazil/).
 
 ## Requirements
 - Python 3.8
