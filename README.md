@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden during historic Amazon visit says "nobody can reverse" clean energy revolution**
+**Lamar Jackson sounds off after Ravens' latest letdown vs. Steelers: 'That s--t is annoying'**
 
-You can read more about it [here](https://www.axios.com/2024/11/18/biden-climate-amazon-first-us-president-visit).
+You can read more about it [here](https://www.cbssports.com/nfl/news/lamar-jackson-sounds-off-after-ravens-latest-letdown-vs-steelers-that-s-t-is-annoying/).
 
 ## Requirements
 - Python 3.8
