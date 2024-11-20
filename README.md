@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**USA vs. Jamaica: Starting XI & Lineup Notes**
+**Asian stocks rise, dollar weak as US yields tick down**
 
-You can read more about it [here](https://www.ussoccer.com/stories/2024/11/usa-vs-jamaica-lineups-starting-11-usa-lineup-today-nov-18).
+You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-rise-dollar-weak-023924974.html).
 
 ## Requirements
 - Python 3.8
