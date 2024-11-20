@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lutnick and Bessent’s battle for Trump Treasury turns bitter**
+**Fans, analysts react to Giants decision to replace Daniel Jones with Tommy DeVito**
 
-You can read more about it [here](https://www.ft.com/content/7402c0da-9eb9-4452-8bc7-164c121966e4).
+You can read more about it [here](https://www.bigblueview.com/2024/11/18/24300021/fans-analysts-react-to-giants-decision-to-replace-daniel-jones-with-tommy-devito).
 
 ## Requirements
 - Python 3.8
