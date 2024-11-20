@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: Israel strikes in the heart of Lebanon’s capital,**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/israel-hamas-hezbollah-latest-18-november-2024-f8b998f646051a1ef19303b51225a7ee).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
