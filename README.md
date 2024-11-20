@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Annoyed’ Cynthia Erivo schools Dax Shepard on how she wipes her butt with crazy-long nails**
+**Pennsylvania Supreme Court rules ballots with date error should not be counted**
 
-You can read more about it [here](https://pagesix.com/2024/11/18/celebrity-news/annoyed-cynthia-erivo-schools-dax-shepard-on-how-she-wipes-her-butt-with-long-nails/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/18/pennsylvania-supreme-court-ballot-date/).
 
 ## Requirements
 - Python 3.8
