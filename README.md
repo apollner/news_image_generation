@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Toxic smog persists over India's north; Delhi pollution remains severe**
+**USA vs. Jamaica: Starting XI & Lineup Notes**
 
-You can read more about it [here](https://www.reuters.com/world/india/toxic-smog-persists-over-indias-north-delhi-pollution-remains-severe-2024-11-19/).
+You can read more about it [here](https://www.ussoccer.com/stories/2024/11/usa-vs-jamaica-lineups-starting-11-usa-lineup-today-nov-18).
 
 ## Requirements
 - Python 3.8
