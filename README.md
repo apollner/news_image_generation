@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Queen of the Ring’ Review: Emily Bett Rickards Brings Soul and Strength to Female Wrestling Biopic**
+**‘Annoyed’ Cynthia Erivo schools Dax Shepard on how she wipes her butt with crazy-long nails**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/queen-of-the-ring-film-review-1236063810/).
+You can read more about it [here](https://pagesix.com/2024/11/18/celebrity-news/annoyed-cynthia-erivo-schools-dax-shepard-on-how-she-wipes-her-butt-with-long-nails/).
 
 ## Requirements
 - Python 3.8
