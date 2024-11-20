@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin approves changes to Russia's nuclear doctrine**
+**Hong Kong 47: Pro-democracy icons sentenced to decades in jail**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj4v0rey0jzo).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2l4eynl4zo).
 
 ## Requirements
 - Python 3.8
