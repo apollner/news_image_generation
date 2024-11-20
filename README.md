@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 40,000 protest New Zealand Maori rights bill**
+**‘Queen of the Ring’ Review: Emily Bett Rickards Brings Soul and Strength to Female Wrestling Biopic**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/19/tens-of-thousands-protest-new-zealand-maori-rights-bill).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-reviews/queen-of-the-ring-film-review-1236063810/).
 
 ## Requirements
 - Python 3.8
