@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Reuters: Sony Group Corporation in talks to acquire Kadokawa Corporation**
+**California confirms first US case of more severe mpox strain -- but risk to public remains low**
 
-You can read more about it [here](https://www.gematsu.com/2024/11/reuters-sony-group-corporation-in-talks-to-acquire-kadokawa-corporation).
+You can read more about it [here](https://abcnews.go.com/Health/california-confirms-us-case-severe-mpox-strain-risk/story?id\\u003d115936257).
 
 ## Requirements
 - Python 3.8
