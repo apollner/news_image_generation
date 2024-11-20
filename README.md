@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian stocks rise, dollar weak as US yields tick down**
+**More than 40,000 protest New Zealand Maori rights bill**
 
-You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-rise-dollar-weak-023924974.html).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/19/tens-of-thousands-protest-new-zealand-maori-rights-bill).
 
 ## Requirements
 - Python 3.8
