@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple reveals the most popular podcasts of 2024, with nine different Top 10 lists**
+**Microsoft pitches AI 'agents' that can perform tasks on their own at Ignite 2024**
 
-You can read more about it [here](https://9to5mac.com/2024/11/19/apple-reveals-the-most-popular-podcasts-of-2024-with-nine-different-top-10-lists/).
+You can read more about it [here](https://finance.yahoo.com/news/microsoft-pitches-ai-agents-perform-144346230.html).
 
 ## Requirements
 - Python 3.8
