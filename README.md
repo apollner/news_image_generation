@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia Stock Gains Ahead of Earnings as Analysts Grow More Bullish**
+**Gisèle Pelicot condemns rape accused and says French society must change**
 
-You can read more about it [here](https://www.investopedia.com/nvidia-stock-gains-ahead-of-earnings-as-analysts-grow-more-bullish-8747993).
+You can read more about it [here](https://www.bbc.com/news/articles/c1lg2593l8lo).
 
 ## Requirements
 - Python 3.8
