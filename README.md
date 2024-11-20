@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why did Woody Johnson fire Joe Douglas now?**
+**Nvidia Stock Gains Ahead of Earnings as Analysts Grow More Bullish**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/why-did-woody-johnson-fire-joe-douglas-now).
+You can read more about it [here](https://www.investopedia.com/nvidia-stock-gains-ahead-of-earnings-as-analysts-grow-more-bullish-8747993).
 
 ## Requirements
 - Python 3.8
