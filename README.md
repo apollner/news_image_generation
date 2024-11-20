@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft pitches AI 'agents' that can perform tasks on their own at Ignite 2024**
+**Putin lowers the threshold for using his nuclear arsenal after Biden's arms decision for Ukraine**
 
-You can read more about it [here](https://finance.yahoo.com/news/microsoft-pitches-ai-agents-perform-144346230.html).
+You can read more about it [here](https://apnews.com/article/russia-nuclear-doctrine-putin-91f20e0c9b0f9e5eaa3ed97c35789898).
 
 ## Requirements
 - Python 3.8
