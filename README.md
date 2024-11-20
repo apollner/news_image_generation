@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bluesky tops 20M users, narrowing gap with Instagram Threads**
+**Why did Woody Johnson fire Joe Douglas now?**
 
-You can read more about it [here](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/why-did-woody-johnson-fire-joe-douglas-now).
 
 ## Requirements
 - Python 3.8
