@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Matt Gaetz Paid Women to Have Sex and Watch ‘Pretty Woman’ on Broadway, Says Lawyer**
+**This Woman Spent A Year Trying To Figure Out The Cause Of Her Chronic Yeast Infections, And It Turns Out The Culprit Was Something We All Use Everyday**
 
-You can read more about it [here](http://www.rollingstone.com/politics/politics-news/matt-gaetz-paid-women-sex-pretty-women-broadway-1235171420/).
+You can read more about it [here](https://www.buzzfeed.com/fabianabuontempo/household-item-caused-this-woman-chronic-yeast-infections).
 
 ## Requirements
 - Python 3.8
