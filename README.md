@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Steadies; AI Data Center Cooling Name Soars, Insurance Stock Jumps (Live Coverage)**
+**Bluesky tops 20M users, narrowing gap with Instagram Threads**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stcok-nvda-smci/).
+You can read more about it [here](https://techcrunch.com/2024/11/19/bluesky-tops-20m-users-narrowing-gap-with-instagram-threads/).
 
 ## Requirements
 - Python 3.8
