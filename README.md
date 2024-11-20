@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lutnick and Bessent’s battle for Trump Treasury turns bitter**
+**Westmoreland airport officials maintain hope after Spirit Airlines bankruptcy filing**
 
-You can read more about it [here](https://www.ft.com/content/7402c0da-9eb9-4452-8bc7-164c121966e4).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1Jab1d1cEg5ZWRPU0Z2QVVObUl1bF9wbW9vSGRUT1dJamg4ZndsMTFkZ2FfQzhCeVp3VlcwVERkam1OVEh6MWZaNFhqMjR5WFNOMmxoN0JxMEYtSGowR0FOOUZxYXRGVTQ0a0NXdmc1M2ZDb1VfUnZpTi1xUEx0dXhyYVhXUTVJTGJOeWoxTEVCOVJmQjBRZXdfVF9uYlBOdWRib1dSOVhLczFLVGowNXVSYUxIa2EtTjBoNGFsa0xjUDg?oc=5).
 
 ## Requirements
 - Python 3.8
