@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about microplastics, phthalates, BPA and PFAS**
+**Texans vs. Cowboys odds, spread, line, prediction, time: Monday Night Football picks by NFL model on 17-7 run**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/11/18/microplastics-phthalates-bpa-pfas-health/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/texans-vs-cowboys-odds-spread-line-prediction-time-monday-night-football-picks-by-nfl-model-on-17-7-run/).
 
 ## Requirements
 - Python 3.8
