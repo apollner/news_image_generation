@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart Q3 Revenue Hits $169 Billion, EPS Surges by 850%**
+**Putin approves changes to Russia's nuclear doctrine**
 
-You can read more about it [here](https://finance.yahoo.com/news/walmart-q3-revenue-hits-169-123453304.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cj4v0rey0jzo).
 
 ## Requirements
 - Python 3.8
