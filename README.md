@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Walmart Q3 Revenue Hits $169 Billion, EPS Surges by 850%**
+**Apple reveals the most popular podcasts of 2024, with nine different Top 10 lists**
 
-You can read more about it [here](https://finance.yahoo.com/news/walmart-q3-revenue-hits-169-123453304.html).
+You can read more about it [here](https://9to5mac.com/2024/11/19/apple-reveals-the-most-popular-podcasts-of-2024-with-nine-different-top-10-lists/).
 
 ## Requirements
 - Python 3.8
