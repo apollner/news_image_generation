@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 are killed and 1 is critically wounded in New York City knife rampage. A suspect is in custody**
+**What to know about microplastics, phthalates, BPA and PFAS**
 
-You can read more about it [here](https://apnews.com/article/new-york-city-knife-attacks-f16e3de00b1c9f8ef7cd2b2e4c0cc75c).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/11/18/microplastics-phthalates-bpa-pfas-health/).
 
 ## Requirements
 - Python 3.8
