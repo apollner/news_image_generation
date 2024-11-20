@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This Woman Spent A Year Trying To Figure Out The Cause Of Her Chronic Yeast Infections, And It Turns Out The Culprit Was Something We All Use Everyday**
+**[Removed]**
 
-You can read more about it [here](https://www.buzzfeed.com/fabianabuontempo/household-item-caused-this-woman-chronic-yeast-infections).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
