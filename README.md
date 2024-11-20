@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin lowers the threshold for using his nuclear arsenal after Biden's arms decision for Ukraine**
+**Matt Gaetz Paid Women to Have Sex and Watch ‘Pretty Woman’ on Broadway, Says Lawyer**
 
-You can read more about it [here](https://apnews.com/article/russia-nuclear-doctrine-putin-91f20e0c9b0f9e5eaa3ed97c35789898).
+You can read more about it [here](http://www.rollingstone.com/politics/politics-news/matt-gaetz-paid-women-sex-pretty-women-broadway-1235171420/).
 
 ## Requirements
 - Python 3.8
