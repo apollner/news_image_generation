@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bears coach Matt Eberflus is protesting to the NFL that the refs missed a penalty on the Packers' winning FG block**
+**2 are killed and 1 is critically wounded in New York City knife rampage. A suspect is in custody**
 
-You can read more about it [here](https://ftw.usatoday.com/2024/11/bears-matt-eberflus-protest-long-snapper-packers-fg-block).
+You can read more about it [here](https://apnews.com/article/new-york-city-knife-attacks-f16e3de00b1c9f8ef7cd2b2e4c0cc75c).
 
 ## Requirements
 - Python 3.8
