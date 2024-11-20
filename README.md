@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California confirms first US case of more severe mpox strain -- but risk to public remains low**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/Health/california-confirms-us-case-severe-mpox-strain-risk/story?id\\u003d115936257).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
