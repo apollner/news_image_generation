@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No one wants to talk about Trump as leaders gather in Rio**
+**Lutnick and Bessent’s battle for Trump Treasury turns bitter**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/18/world-leaders-avoid-trump-g20-00190283).
+You can read more about it [here](https://www.ft.com/content/7402c0da-9eb9-4452-8bc7-164c121966e4).
 
 ## Requirements
 - Python 3.8
