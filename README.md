@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gisèle Pelicot condemns rape accused and says French society must change**
+**‘Stay Long Ahead of Earnings,’ Says Top Investor About Nvidia Stock**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c1lg2593l8lo).
+You can read more about it [here](https://www.tipranks.com/news/stay-long-ahead-of-earnings-says-top-investor-about-nvidia-stock).
 
 ## Requirements
 - Python 3.8
