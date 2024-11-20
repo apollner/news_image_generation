@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hong Kong 47: Pro-democracy icons sentenced to decades in jail**
+**Tesla Stock Is Down. Kim Kardashian Isn’t Helping.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2l4eynl4zo).
+You can read more about it [here](https://www.barrons.com/articles/tesla-stock-kim-kardashian-robot-87231f38).
 
 ## Requirements
 - Python 3.8
