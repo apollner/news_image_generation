@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florence Pugh Was Baffled When A Doctor Advised Her To Freeze Her Eggs At 27 Because Of Her PCOS**
+**Dow Jones Steadies; AI Data Center Cooling Name Soars, Insurance Stock Jumps (Live Coverage)**
 
-You can read more about it [here](https://www.buzzfeed.com/leylamohammed/florence-pugh-talks-pcos-freezing-eggs-at-27).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-nvidia-stcok-nvda-smci/).
 
 ## Requirements
 - Python 3.8
