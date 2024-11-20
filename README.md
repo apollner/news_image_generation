@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fans, analysts react to Giants decision to replace Daniel Jones with Tommy DeVito**
+**Reuters: Sony Group Corporation in talks to acquire Kadokawa Corporation**
 
-You can read more about it [here](https://www.bigblueview.com/2024/11/18/24300021/fans-analysts-react-to-giants-decision-to-replace-daniel-jones-with-tommy-devito).
+You can read more about it [here](https://www.gematsu.com/2024/11/reuters-sony-group-corporation-in-talks-to-acquire-kadokawa-corporation).
 
 ## Requirements
 - Python 3.8
