@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Possible bird flu infection reported in California child, health department reports**
+**How Roberts' player-development skills will benefit young Los Angeles Sparks**
 
-You can read more about it [here](https://www.salon.com/2024/11/20/possible-bird-flu-infection-reported-in-california-child-health-department-reports/).
+You can read more about it [here](https://www.espn.com/wnba/story/_/id/42496717/wnba-coaching-changes-2025-los-angeles-sparks-hire-lynne-roberts).
 
 ## Requirements
 - Python 3.8
