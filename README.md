@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple Releases Urgent Updates to Patch Actively Exploited Zero-Day Vulnerabilities**
+**Biden agrees to give Ukraine anti-personnel mines**
 
-You can read more about it [here](https://thehackernews.com/2024/11/apple-releases-urgent-updates-to-patch.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
 
 ## Requirements
 - Python 3.8
