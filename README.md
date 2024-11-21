@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay Cutler engaged to Samantha Robertson 2 years after Kristin Cavallari divorce: report**
+**Apple says Mac users targeted in zero-day cyberattacks**
 
-You can read more about it [here](https://pagesix.com/2024/11/19/celebrity-news/jay-cutler-engaged-to-samantha-robertson-2-years-after-kristin-cavallari-divorce/).
+You can read more about it [here](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/).
 
 ## Requirements
 - Python 3.8
