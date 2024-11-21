@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hamas: No hostages-for-prisoners swap deal with Israel unless Gaza war ends**
+**Alec Baldwin film 'Rust' premieres with dedication to cinematographer killed on set**
 
-You can read more about it [here](https://www.yahoo.com/news/hamas-no-hostages-prisoners-swap-183537158.html).
+You can read more about it [here](https://apnews.com/article/poland-film-premiere-rust-baldwin-7479e578096359df46251c262e4f9d3d).
 
 ## Requirements
 - Python 3.8
