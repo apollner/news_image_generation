@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names Dr. Mehmet Oz to head Centers for Medicare and Medicaid Services**
+**Trump picks Dr. Oz to be CMS administrator**
 
-You can read more about it [here](https://www.cnn.com/2024/11/19/politics/mehmet-oz-trump-medicare-medicaid/index.html).
+You can read more about it [here](https://www.politico.com/news/2024/11/19/dr-oz-cms-administrator-trump-00189456).
 
 ## Requirements
 - Python 3.8
