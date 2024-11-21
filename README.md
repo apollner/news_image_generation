@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Japan exports rise more than expected in October, rebounding from 43-month low**
+**Did the Wicked Film Live Up to the Hype? Read the Reviews**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/20/japan-exports-rise-more-than-expected-rebounding-from-43-month-low.html).
+You can read more about it [here](https://playbill.com/article/did-the-wicked-film-live-up-to-the-hype-read-the-reviews).
 
 ## Requirements
 - Python 3.8
