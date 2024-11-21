@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaetz sent over $10K in Venmo payments to 2 women who testified in House probe, records suggest**
+**Trump selects financier Howard Lutnick as commerce secretary**
 
-You can read more about it [here](https://abcnews.go.com/US/gaetz-10k-venmo-payments-2-women-testified-house/story?id\\u003d116019367).
+You can read more about it [here](https://www.bbc.com/news/articles/c9371zk1q6vo).
 
 ## Requirements
 - Python 3.8
