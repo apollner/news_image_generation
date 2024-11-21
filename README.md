@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump selects financier Howard Lutnick as commerce secretary**
+**'Mind-blowing' dark energy instrument results show Einstein was right about gravity — again**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c9371zk1q6vo).
+You can read more about it [here](https://www.space.com/desi-einstein-gravity-dark-energy).
 
 ## Requirements
 - Python 3.8
