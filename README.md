@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Bomb cyclone' kills 1 and knocks out power to over half a million homes across northwest US**
+**Marc Rowan emerges as a top contender to be Donald Trump’s Treasury secretary**
 
-You can read more about it [here](https://apnews.com/article/california-oregon-washington-storm-power-outages-aadbd4863dd989189d31c1c2187b5025).
+You can read more about it [here](https://www.ft.com/content/cbe0e1a1-c6fa-49f0-9a8a-47499b9ad0fb).
 
 ## Requirements
 - Python 3.8
