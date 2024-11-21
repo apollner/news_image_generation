@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dr. Oz getting high marks from Senate moderates — maybe even Fetterman**
+**Stalker 2: Heart of Chornobyl dev acknowledges "rough edges", says its monitoring feedback**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/20/dr-oz-senate-reaction-fetterman-00190662).
+You can read more about it [here](https://www.eurogamer.net/stalker-2-heart-of-chornobyl-dev-acknowledges-rough-edges-says-its-monitoring-feedback).
 
 ## Requirements
 - Python 3.8
