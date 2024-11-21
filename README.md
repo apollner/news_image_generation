@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden agrees to give Ukraine anti-personnel mines**
+**Gaetz sent over $10K in Venmo payments to 2 women who testified in House probe, records suggest**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
+You can read more about it [here](https://abcnews.go.com/US/gaetz-10k-venmo-payments-2-women-testified-house/story?id\\u003d116019367).
 
 ## Requirements
 - Python 3.8
