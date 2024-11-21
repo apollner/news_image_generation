@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names Linda McMahon as his pick for Education secretary**
+**Los Angeles officials move to establish city as a sanctuary for immigrants and LGBTQ youth in advance of Trump’s return to the White House**
 
-You can read more about it [here](https://www.cnn.com/2024/11/19/politics/linda-mcmahon-education-secretary-trump/index.html).
+You can read more about it [here](https://www.cnn.com/2024/11/19/us/los-angeles-sanctuary-city-lgbtq-students-votes/index.html).
 
 ## Requirements
 - Python 3.8
