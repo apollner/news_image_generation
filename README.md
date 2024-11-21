@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Xi visits Brasilia to cap tour flexing diplomatic clout**
+**'Mind-blowing' dark energy instrument results show Einstein was right about gravity — again**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-xi-visits-brasilia-cap-tour-flexing-diplomatic-clout-2024-11-20/).
+You can read more about it [here](https://www.space.com/desi-einstein-gravity-dark-energy).
 
 ## Requirements
 - Python 3.8
