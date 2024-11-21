@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stalker 2: Heart of Chornobyl dev acknowledges "rough edges", says its monitoring feedback**
+**Hamas: No hostages-for-prisoners swap deal with Israel unless Gaza war ends**
 
-You can read more about it [here](https://www.eurogamer.net/stalker-2-heart-of-chornobyl-dev-acknowledges-rough-edges-says-its-monitoring-feedback).
+You can read more about it [here](https://www.yahoo.com/news/hamas-no-hostages-prisoners-swap-183537158.html).
 
 ## Requirements
 - Python 3.8
