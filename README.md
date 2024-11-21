@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Los Angeles officials move to establish city as a sanctuary for immigrants and LGBTQ youth in advance of Trump’s return to the White House**
+**Gaetz sent over $10K in Venmo payments to 2 women who testified in House probe, records suggest**
 
-You can read more about it [here](https://www.cnn.com/2024/11/19/us/los-angeles-sanctuary-city-lgbtq-students-votes/index.html).
+You can read more about it [here](https://abcnews.go.com/US/gaetz-10k-venmo-payments-2-women-testified-house/story?id\\u003d116019367).
 
 ## Requirements
 - Python 3.8
