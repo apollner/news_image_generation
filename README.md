@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden agrees to give Ukraine anti-personnel mines**
+**U.S. closes embassy in Kyiv over potential 'significant' air attack as tensions with Russia soar**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
+You can read more about it [here](https://www.cnbc.com/2024/11/20/us-closes-embassy-in-kyiv-warning-of-potential-air-attack.html).
 
 ## Requirements
 - Python 3.8
