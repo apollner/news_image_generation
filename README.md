@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Stay Long Ahead of Earnings,’ Says Top Investor About Nvidia Stock**
+**Trump names Dr. Mehmet Oz to head Centers for Medicare and Medicaid Services**
 
-You can read more about it [here](https://www.tipranks.com/news/stay-long-ahead-of-earnings-says-top-investor-about-nvidia-stock).
+You can read more about it [here](https://www.cnn.com/2024/11/19/politics/mehmet-oz-trump-medicare-medicaid/index.html).
 
 ## Requirements
 - Python 3.8
