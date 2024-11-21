@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Bomb cyclone' kills 1 and knocks out power to over half a million homes across the northwest US**
+**Possible bird flu infection reported in California child, health department reports**
 
-You can read more about it [here](https://apnews.com/article/california-oregon-washington-storm-power-outages-aadbd4863dd989189d31c1c2187b5025).
+You can read more about it [here](https://www.salon.com/2024/11/20/possible-bird-flu-infection-reported-in-california-child-health-department-reports/).
 
 ## Requirements
 - Python 3.8
