@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamal Murray bounces back, Russell Westbrook makes history as Nuggets win NBA Cup game over Grizzlies without Nikola Jokic**
+**What Wall Street Analysts Think of Nvidia Stock Ahead of Earnings**
 
-You can read more about it [here](https://www.denverpost.com/2024/11/19/russell-westbrook-triple-doubles-jamal-murray-nuggets-grizzlies/).
+You can read more about it [here](https://www.investopedia.com/what-wall-street-analysts-think-of-nvidia-stock-ahead-of-earnings-8748641).
 
 ## Requirements
 - Python 3.8
