@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Analysts update Nvidia stock price target ahead of earnings**
+**Japan exports rise more than expected in October, rebounding from 43-month low**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-update-nvidia-stock-price-target-ahead-of-earnings).
+You can read more about it [here](https://www.cnbc.com/2024/11/20/japan-exports-rise-more-than-expected-rebounding-from-43-month-low.html).
 
 ## Requirements
 - Python 3.8
