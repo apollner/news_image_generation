@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Mind-blowing' dark energy instrument results show Einstein was right about gravity — again**
+**As deadly bomb cyclone whirls into Seattle, another may be right behind**
 
-You can read more about it [here](https://www.space.com/desi-einstein-gravity-dark-energy).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/weather/as-bomb-cyclone-whirls-into-seattle-another-might-be-right-behind/).
 
 ## Requirements
 - Python 3.8
