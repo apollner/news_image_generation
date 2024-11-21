@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**STALKER 2 devs detail fixes for crazy launch bugs**
+**Cleveland launches formal bid for a WNBA team**
 
-You can read more about it [here](https://www.rockpapershotgun.com/stalker-2-is-out-now-and-buggy-as-hell-but-the-developers-are-already-planning-fixes).
+You can read more about it [here](https://www.cnbc.com/2024/11/20/cleveland-bid-wnba-team-womens-basketball.html).
 
 ## Requirements
 - Python 3.8
