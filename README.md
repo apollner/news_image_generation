@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Robert De Niro’s TV Turn in Netflix’s ‘Zero Day’ Conspiracy Series Gets Release Date**
+**Northwest U.S. sees ‘Bomb cyclone’ kill 1 and knock out power to half a million homes**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/robert-de-niro-zero-day-netflix-series-release-1236067539/).
+You can read more about it [here](https://www.pbs.org/newshour/nation/northwest-u-s-sees-bomb-cyclone-kill-1-and-knock-out-power-to-half-a-million-homes).
 
 ## Requirements
 - Python 3.8
