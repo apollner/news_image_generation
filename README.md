@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. closes embassy in Kyiv over potential 'significant' air attack as tensions with Russia soar**
+**'Bomb cyclone' kills 1 and knocks out power to over half a million homes across the northwest US**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/20/us-closes-embassy-in-kyiv-warning-of-potential-air-attack.html).
+You can read more about it [here](https://apnews.com/article/california-oregon-washington-storm-power-outages-aadbd4863dd989189d31c1c2187b5025).
 
 ## Requirements
 - Python 3.8
