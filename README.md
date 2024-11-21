@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean 'Diddy' Combs accused of sexually assaulting 39-year-old man in new lawsuit**
+**Jay Cutler engaged to Samantha Robertson 2 years after Kristin Cavallari divorce: report**
 
-You can read more about it [here](https://abcnews.go.com/US/sean-diddy-combs-accused-sexually-assaulting-39-year/story?id\\u003d116032662).
+You can read more about it [here](https://pagesix.com/2024/11/19/celebrity-news/jay-cutler-engaged-to-samantha-robertson-2-years-after-kristin-cavallari-divorce/).
 
 ## Requirements
 - Python 3.8
