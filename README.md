@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Dr. Oz to be CMS administrator**
+**Analysts update Nvidia stock price target ahead of earnings**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/19/dr-oz-cms-administrator-trump-00189456).
+You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-update-nvidia-stock-price-target-ahead-of-earnings).
 
 ## Requirements
 - Python 3.8
