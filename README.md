@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Did the Wicked Film Live Up to the Hype? Read the Reviews**
+**Sean 'Diddy' Combs accused of sexually assaulting 39-year-old man in new lawsuit**
 
-You can read more about it [here](https://playbill.com/article/did-the-wicked-film-live-up-to-the-hype-read-the-reviews).
+You can read more about it [here](https://abcnews.go.com/US/sean-diddy-combs-accused-sexually-assaulting-39-year/story?id\\u003d116032662).
 
 ## Requirements
 - Python 3.8
