@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin film 'Rust' premieres with dedication to cinematographer killed on set**
+**Qubit that makes most errors obvious now available to customers**
 
-You can read more about it [here](https://apnews.com/article/poland-film-premiere-rust-baldwin-7479e578096359df46251c262e4f9d3d).
+You can read more about it [here](https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/).
 
 ## Requirements
 - Python 3.8
