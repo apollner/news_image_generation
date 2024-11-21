@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Radical Jaguar rebrand and new logo sparks ire online**
+**Dr. Oz getting high marks from Senate moderates — maybe even Fetterman**
 
-You can read more about it [here](https://apnews.com/article/jaguar-ad-branding-luxury-evs-8604c17fb387ac223ca912a2e3603446).
+You can read more about it [here](https://www.politico.com/news/2024/11/20/dr-oz-senate-reaction-fetterman-00190662).
 
 ## Requirements
 - Python 3.8
