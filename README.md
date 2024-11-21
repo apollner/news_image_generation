@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cleveland launches formal bid for a WNBA team**
+**Radical Jaguar rebrand and new logo sparks ire online**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/20/cleveland-bid-wnba-team-womens-basketball.html).
+You can read more about it [here](https://apnews.com/article/jaguar-ad-branding-luxury-evs-8604c17fb387ac223ca912a2e3603446).
 
 ## Requirements
 - Python 3.8
