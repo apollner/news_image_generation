@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple says Mac users targeted in zero-day cyberattacks**
+**Trump names Linda McMahon as his pick for Education secretary**
 
-You can read more about it [here](https://techcrunch.com/2024/11/19/apple-says-mac-users-targeted-in-zero-day-cyberattacks/).
+You can read more about it [here](https://www.cnn.com/2024/11/19/politics/linda-mcmahon-education-secretary-trump/index.html).
 
 ## Requirements
 - Python 3.8
