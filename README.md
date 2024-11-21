@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**STALKER 2 devs detail fixes for crazy launch bugs**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.rockpapershotgun.com/stalker-2-is-out-now-and-buggy-as-hell-but-the-developers-are-already-planning-fixes).
 
 ## Requirements
 - Python 3.8
