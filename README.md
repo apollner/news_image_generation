@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Marc Rowan emerges as a top contender to be Donald Trump’s Treasury secretary**
+**Biden agrees to give Ukraine anti-personnel mines**
 
-You can read more about it [here](https://www.ft.com/content/cbe0e1a1-c6fa-49f0-9a8a-47499b9ad0fb).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
 
 ## Requirements
 - Python 3.8
