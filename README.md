@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Packers eager for playoff rematch with ‘dangerous’ 49ers**
+**SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Cape Canaveral**
 
-You can read more about it [here](https://www.packers.com/news/packers-eager-for-playoff-rematch-with-dangerous-49ers-2024).
+You can read more about it [here](https://spaceflightnow.com/2024/11/21/live-coverage-spacex-to-launch-24-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-3/).
 
 ## Requirements
 - Python 3.8
