@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The International Space Station adjusts its orbit to avoid space debris**
+**Ellen DeGeneres Has Moved to Great Britain, Lists Montecito Estate: 'Never Coming Back' to the United States | Exclusive**
 
-You can read more about it [here](https://www.npr.org/2024/11/20/nx-s1-5196986/iss-dodge-debris).
+You can read more about it [here](https://www.yahoo.com/entertainment/ellen-degeneres-moved-great-britain-205501750.html).
 
 ## Requirements
 - Python 3.8
