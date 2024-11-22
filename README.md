@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a powerful bomb cyclone ravaged the Northwest**
+**Fantasy Football Week 12 Start 'Em & Sit 'Em Wide Receivers: Jauan Jennings must start, plus sleepers**
 
-You can read more about it [here](https://www.seattletimes.com/seattle-news/climate-lab/how-a-powerful-bomb-cyclone-ravaged-the-northwest/).
+You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-start-em-sit-em-wide-receivers-jauan-jennings-must-start-plus-sleepers/).
 
 ## Requirements
 - Python 3.8
