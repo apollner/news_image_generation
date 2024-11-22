@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres Has Moved to Great Britain, Lists Montecito Estate: 'Never Coming Back' to the United States | Exclusive**
+**How a powerful bomb cyclone ravaged the Northwest**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/ellen-degeneres-moved-great-britain-205501750.html).
+You can read more about it [here](https://www.seattletimes.com/seattle-news/climate-lab/how-a-powerful-bomb-cyclone-ravaged-the-northwest/).
 
 ## Requirements
 - Python 3.8
