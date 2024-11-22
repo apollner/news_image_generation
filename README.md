@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Billionaire Gautam Adani indicted in New York on bribery charges**
+**What will happen to CNBC and MSNBC when they no longer have a corporate connection to NBC News?**
 
-You can read more about it [here](https://www.cnn.com/2024/11/20/business/gautam-adani-indicted/index.html).
+You can read more about it [here](https://apnews.com/article/networks-cnbc-msnbc-comcast-new-company-00bf676f225f1c89026ef15bf8915ec9).
 
 ## Requirements
 - Python 3.8
