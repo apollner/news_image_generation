@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Prescott, former UK deputy prime minister, has died, his family says**
+**Duct-taped banana featured at Art Basel Miami sells for over $6 million**
 
-You can read more about it [here](https://www.cnn.com/2024/11/21/uk/britain-john-prescott-death-intl-hnk/index.html).
+You can read more about it [here](https://www.cbsnews.com/miami/video/duct-taped-banana-featured-at-art-basel-miami-sells-for-over-6-million/).
 
 ## Requirements
 - Python 3.8
