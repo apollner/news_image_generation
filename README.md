@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 12**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-12).
 
 ## Requirements
 - Python 3.8
