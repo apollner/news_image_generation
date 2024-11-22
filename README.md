@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pitching Triple Crown winner Chris Sale takes National League Cy Young Award**
+**American and Australian tourists die, raising toll to 4 in Laos alcohol poisoning incident**
 
-You can read more about it [here](https://bbwaa.com/24-nl-cy/).
+You can read more about it [here](https://apnews.com/article/australian-laos-thailand-alcohol-poisoning-american-new-zealand-d44a61c3a12bbee4fd917346493d7f94).
 
 ## Requirements
 - Python 3.8
