@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICC issues arrest warrant for Israeli PM Benjamin Netanyahu**
+**Some hospitals seeing increase in RSV, 'walking pneumonia.' Here's what to know**
 
-You can read more about it [here](https://www.ft.com/content/0b62f17a-97db-4817-90f8-f98adead79f0).
+You can read more about it [here](https://abcnews.go.com/Health/hospitals-increase-rsv-walking-pneumonia/story?id\\u003d116088556).
 
 ## Requirements
 - Python 3.8
