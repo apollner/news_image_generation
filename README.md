@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Democrats request Matt Gaetz case files from the FBI**
+**Biden agrees to give Ukraine anti-personnel mines**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/20/gaetz-fbi-investigation-senate-democrats/).
+You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
 
 ## Requirements
 - Python 3.8
