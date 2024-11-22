@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bryan Kohbherger can face death penalty if convicted in trial of slain Idaho college students, judge rules**
+**Pitching Triple Crown winner Chris Sale takes National League Cy Young Award**
 
-You can read more about it [here](https://www.cbsnews.com/news/bryan-kohbherger-can-face-death-penalty-idaho-college-murders/).
+You can read more about it [here](https://bbwaa.com/24-nl-cy/).
 
 ## Requirements
 - Python 3.8
