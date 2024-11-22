@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michigan hunters die of heart attacks while hauling away heavy deer**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/michigan-deer-hunters-heart-attacks-6080dfe3be3c5411f98a476d17e0b3b3).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
