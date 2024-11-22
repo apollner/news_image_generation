@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICC issues arrest warrant for Israeli premier Benjamin Netanyahu**
+**Jussie Smollett conviction in hate crime attack hoax overturned by Illinois Supreme Court**
 
-You can read more about it [here](https://www.ft.com/content/0b62f17a-97db-4817-90f8-f98adead79f0).
+You can read more about it [here](https://www.nbcnews.com/news/us-news/jussie-smollett-conviction-hate-crime-attack-hoax-overturned-illinois-rcna181182).
 
 ## Requirements
 - Python 3.8
