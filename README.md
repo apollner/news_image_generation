@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scoop: House Republicans may block Trump from Gaetz recess appointment**
+**Billionaire Gautam Adani indicted in New York on bribery charges**
 
-You can read more about it [here](https://www.axios.com/2024/11/21/mike-johnson-trump-recess-appointments-gaetz).
+You can read more about it [here](https://www.cnn.com/2024/11/20/business/gautam-adani-indicted/index.html).
 
 ## Requirements
 - Python 3.8
