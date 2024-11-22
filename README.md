@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres and wife Portia de Rossi moving to England after Trump’s election win: ‘Never’ coming back**
+**John Prescott, former UK deputy prime minister, has died, his family says**
 
-You can read more about it [here](https://nypost.com/2024/11/21/entertainment/ellen-degeneres-portia-de-rossi-moving-to-england-after-donald-trumps-election-win-report/).
+You can read more about it [here](https://www.cnn.com/2024/11/21/uk/britain-john-prescott-death-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
