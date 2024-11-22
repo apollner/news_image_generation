@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What will happen to CNBC and MSNBC when they no longer have a corporate connection to NBC News?**
+**Ukraine fires British-French Storm Shadow missiles into Russia for first time, say reports**
 
-You can read more about it [here](https://apnews.com/article/networks-cnbc-msnbc-comcast-new-company-00bf676f225f1c89026ef15bf8915ec9).
+You can read more about it [here](https://www.cnn.com/2024/11/20/europe/ukraine-uk-storm-shadow-missiles-russia-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
