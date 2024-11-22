@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden agrees to give Ukraine anti-personnel mines**
+**Michigan hunters die of heart attacks while hauling away heavy deer**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx2d1lj3nwqo).
+You can read more about it [here](https://apnews.com/article/michigan-deer-hunters-heart-attacks-6080dfe3be3c5411f98a476d17e0b3b3).
 
 ## Requirements
 - Python 3.8
