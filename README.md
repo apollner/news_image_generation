@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Star imaged in detail outside the Milky Way for the 1st time (image, video)**
+**PFT’s Week 12 NFL picks, Florio vs. Simms**
 
-You can read more about it [here](https://www.space.com/star-outside-milky-way-wohg64).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-nfl-picks-florio-vs-simms).
 
 ## Requirements
 - Python 3.8
