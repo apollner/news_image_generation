@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions, what to bet for Week 12, 2024: Model backing Bears, Eagles**
+**SEC Chair Gensler to Depart Agency on January 20**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-what-to-bet-for-week-12-2024-model-backing-bears-eagles/).
+You can read more about it [here](https://www.sec.gov/newsroom/press-releases/2024-182).
 
 ## Requirements
 - Python 3.8
