@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Duct-taped banana featured at Art Basel Miami sells for over $6 million**
+**GOP Rep. Van Orden says he would vote to release Gaetz report**
 
-You can read more about it [here](https://www.cbsnews.com/miami/video/duct-taped-banana-featured-at-art-basel-miami-sells-for-over-6-million/).
+You can read more about it [here](https://thehill.com/homenews/house/5001489-gop-rep-van-orden-says-he-would-vote-to-release-gaetz-report/).
 
 ## Requirements
 - Python 3.8
