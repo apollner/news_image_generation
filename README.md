@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Relevant! Relevant! Relevant! At 50, Microsoft Is an AI Giant, Open-Source Lover, and as Bad as Ever**
+**Star imaged in detail outside the Milky Way for the 1st time (image, video)**
 
-You can read more about it [here](https://www.wired.com/story/at-age-50-microsoft-is-an-ai-giant-an-open-source-lover-and-bad-as-it-ever-was/).
+You can read more about it [here](https://www.space.com/star-outside-milky-way-wohg64).
 
 ## Requirements
 - Python 3.8
