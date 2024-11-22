@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 12 Start 'Em & Sit 'Em Wide Receivers: Jauan Jennings must start, plus sleepers**
+**After Comcast Cable Spinoff, NBCUniversal Will Have To Develop Some New Sports Muscles**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-start-em-sit-em-wide-receivers-jauan-jennings-must-start-plus-sleepers/).
+You can read more about it [here](http://deadline.com/2024/11/comcast-cable-spinoff-nbcuniversal-sports-1236182909/).
 
 ## Requirements
 - Python 3.8
