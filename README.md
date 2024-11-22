@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julian Lewis commits to Colorado, Deion Sanders as Top247 QB completes flip from USC**
+**ICC issues arrest warrant for Israeli PM Benjamin Netanyahu**
 
-You can read more about it [here](https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/).
+You can read more about it [here](https://www.ft.com/content/0b62f17a-97db-4817-90f8-f98adead79f0).
 
 ## Requirements
 - Python 3.8
