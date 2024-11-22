@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Qubit that makes most errors obvious now available to customers**
+**Senate Democrats request Matt Gaetz case files from the FBI**
 
-You can read more about it [here](https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/20/gaetz-fbi-investigation-senate-democrats/).
 
 ## Requirements
 - Python 3.8
