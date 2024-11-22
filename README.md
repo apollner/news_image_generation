@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Fantasy 2024 Start 'Em, Sit 'Em: Quarterbacks for Week 12**
+**The International Space Station adjusts its orbit to avoid space debris**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-fantasy-2024-start-em-sit-em-quarterbacks-for-week-12).
+You can read more about it [here](https://www.npr.org/2024/11/20/nx-s1-5196986/iss-dodge-debris).
 
 ## Requirements
 - Python 3.8
