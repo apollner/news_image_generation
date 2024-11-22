@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine fires British-French Storm Shadow missiles into Russia for first time, say reports**
+**ICC issues arrest warrant for Israeli premier Benjamin Netanyahu**
 
-You can read more about it [here](https://www.cnn.com/2024/11/20/europe/ukraine-uk-storm-shadow-missiles-russia-intl-latam/index.html).
+You can read more about it [here](https://www.ft.com/content/0b62f17a-97db-4817-90f8-f98adead79f0).
 
 ## Requirements
 - Python 3.8
