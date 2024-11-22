@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFT’s Week 12 NFL picks, Florio vs. Simms**
+**Julian Lewis commits to Colorado, Deion Sanders as Top247 QB completes flip from USC**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/pfts-week-12-nfl-picks-florio-vs-simms).
+You can read more about it [here](https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/).
 
 ## Requirements
 - Python 3.8
