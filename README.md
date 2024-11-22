@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some hospitals seeing increase in RSV, 'walking pneumonia.' Here's what to know**
+**NFL odds, lines, picks, spreads, bets, predictions, what to bet for Week 12, 2024: Model backing Bears, Eagles**
 
-You can read more about it [here](https://abcnews.go.com/Health/hospitals-increase-rsv-walking-pneumonia/story?id\\u003d116088556).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-what-to-bet-for-week-12-2024-model-backing-bears-eagles/).
 
 ## Requirements
 - Python 3.8
