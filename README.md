@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jussie Smollett conviction in hate crime attack hoax overturned by Illinois Supreme Court**
+**Star imaged in detail outside the Milky Way for the 1st time (image, video)**
 
-You can read more about it [here](https://www.nbcnews.com/news/us-news/jussie-smollett-conviction-hate-crime-attack-hoax-overturned-illinois-rcna181182).
+You can read more about it [here](https://www.space.com/star-outside-milky-way-wohg64).
 
 ## Requirements
 - Python 3.8
