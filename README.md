@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy Football Week 12 Start 'Em & Sit 'Em Wide Receivers: Jauan Jennings must start, plus sleepers**
+**Bryan Kohbherger can face death penalty if convicted in trial of slain Idaho college students, judge rules**
 
-You can read more about it [here](https://www.cbssports.com/fantasy/football/news/fantasy-football-week-12-start-em-sit-em-wide-receivers-jauan-jennings-must-start-plus-sleepers/).
+You can read more about it [here](https://www.cbsnews.com/news/bryan-kohbherger-can-face-death-penalty-idaho-college-murders/).
 
 ## Requirements
 - Python 3.8
