@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Julian Lewis commits to Colorado, Deion Sanders as Top247 QB completes flip from USC**
+**Packers eager for playoff rematch with ‘dangerous’ 49ers**
 
-You can read more about it [here](https://247sports.com/article/julian-lewis-commits-to-colorado-deion-sanders-as-top247-qb-completes-flip-from-usc-234531251/).
+You can read more about it [here](https://www.packers.com/news/packers-eager-for-playoff-rematch-with-dangerous-49ers-2024).
 
 ## Requirements
 - Python 3.8
