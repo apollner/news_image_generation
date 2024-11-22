@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ukraine fires British-Franco Storm Shadow missiles into Russia for first time, say reports**
+**Ellen DeGeneres and wife Portia de Rossi moving to England after Trump’s election win: ‘Never’ coming back**
 
-You can read more about it [here](https://www.cnn.com/2024/11/20/europe/ukraine-uk-storm-shadow-missiles-russia-intl-latam/index.html).
+You can read more about it [here](https://nypost.com/2024/11/21/entertainment/ellen-degeneres-portia-de-rossi-moving-to-england-after-donald-trumps-election-win-report/).
 
 ## Requirements
 - Python 3.8
