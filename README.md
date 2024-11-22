@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**More than 200 companies already support passkeys in their apps and websites**
+**John Prescott, former UK deputy prime minister, has died, his family says**
 
-You can read more about it [here](https://9to5mac.com/2024/11/20/200-companies-support-passkeys/).
+You can read more about it [here](https://www.cnn.com/2024/11/21/uk/britain-john-prescott-death-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
