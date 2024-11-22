@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ellen DeGeneres Has Reportedly Left The U.S. For Good Following Trump Win**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.huffpost.com/entry/ellen-degeneres-leaving-america_n_673f7823e4b0fc93e3d12007).
 
 ## Requirements
 - Python 3.8
