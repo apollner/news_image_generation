@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**American and Australian tourists die, raising toll to 4 in Laos alcohol poisoning incident**
+**Ukraine fires British-Franco Storm Shadow missiles into Russia for first time, say reports**
 
-You can read more about it [here](https://apnews.com/article/australian-laos-thailand-alcohol-poisoning-american-new-zealand-d44a61c3a12bbee4fd917346493d7f94).
+You can read more about it [here](https://www.cnn.com/2024/11/20/europe/ukraine-uk-storm-shadow-missiles-russia-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
