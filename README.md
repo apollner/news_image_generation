@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP Rep. Van Orden says he would vote to release Gaetz report**
+**Scoop: House Republicans may block Trump from Gaetz recess appointment**
 
-You can read more about it [here](https://thehill.com/homenews/house/5001489-gop-rep-van-orden-says-he-would-vote-to-release-gaetz-report/).
+You can read more about it [here](https://www.axios.com/2024/11/21/mike-johnson-trump-recess-appointments-gaetz).
 
 ## Requirements
 - Python 3.8
