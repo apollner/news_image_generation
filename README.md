@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil’s Bolsonaro and allies indicted in 2022 coup plot probe**
+**Brunette Ellen DeGeneres nearly unrecognizable at UK pub alongside Portia de Rossi after fleeing the US post-election**
 
-You can read more about it [here](https://www.cnn.com/2024/11/21/americas/brazilian-ex-president-jair-bolsonaro-indicted-over-attempted-coup-plot/index.html).
+You can read more about it [here](https://pagesix.com/2024/11/21/celebrity-news/brunette-ellen-degeneres-spotted-at-uk-pub-with-portia-de-rossi-after-fleeing-the-us/).
 
 ## Requirements
 - Python 3.8
