@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from President Joe Biden on Warrants Issued by the International Criminal Court**
+**Jussie Smollett’s conviction overturned in alleged hate-crime hoax: How we got here and what’s next**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/statement-from-president-joe-biden-on-warrants-issued-by-the-international-criminal-court/).
+You can read more about it [here](https://www.cnn.com/2024/11/22/entertainment/jussie-smollett-conviction-overturned-whats-next/index.html).
 
 ## Requirements
 - Python 3.8
