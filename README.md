@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**First up-close picture taken of star outside Milky Way**
+**McDonald’s to expand US value menu as fast food chains battle for bargain seekers**
 
-You can read more about it [here](https://abcnews.go.com/Technology/close-picture-star-milky/story?id\\u003d116129095).
+You can read more about it [here](https://apnews.com/article/mcdonalds-value-deals-inflation-66585ec1595a21d293de3e38b4a52c2a).
 
 ## Requirements
 - Python 3.8
