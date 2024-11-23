@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kenya's President William Ruto cancels major deals with Adani Group**
+**Cutting in line? American Airlines' new boarding tech might stop you at now over 100 airports**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c39nyvvmne8o).
+You can read more about it [here](https://apnews.com/article/american-airlines-gate-lice-boarding-technology-907dfe7a751a0b8f19b8b0f6150c0b7b).
 
 ## Requirements
 - Python 3.8
