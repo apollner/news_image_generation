@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Republicans are more receptive to Hegseth despite Gaetz’s exit**
+**Statement from President Joe Biden on Warrants Issued by the International Criminal Court**
 
-You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/21/pete-hegseth-department-of-defense-sexual-assault-gaetz/).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/21/statement-from-president-joe-biden-on-warrants-issued-by-the-international-criminal-court/).
 
 ## Requirements
 - Python 3.8
