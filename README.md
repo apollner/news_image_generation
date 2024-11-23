@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres Spotted Living Her Best Life as a Brunette in the U.K. After Trump’s Win**
+**[Removed]**
 
-You can read more about it [here](https://www.thedailybeast.com/ellen-degeneres-now-a-brunette-spotted-with-wife-portia-de-rossi-in-the-uk-after-trumps-win/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
