@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brunette Ellen DeGeneres nearly unrecognizable at UK pub alongside Portia de Rossi after fleeing the US post-election**
+**Google canceled the Pixel Tablet 2, not the Pixel Tablet 3 according to new source - GSMArena.com news**
 
-You can read more about it [here](https://pagesix.com/2024/11/21/celebrity-news/brunette-ellen-degeneres-spotted-at-uk-pub-with-portia-de-rossi-after-fleeing-the-us/).
+You can read more about it [here](https://www.gsmarena.com/google_canceled_the_pixel_tablet_2_not_the_pixel_tablet_3_according_to_new_source-news-65441.php).
 
 ## Requirements
 - Python 3.8
