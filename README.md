@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jussie Smollett’s conviction overturned in alleged hate-crime hoax: How we got here and what’s next**
+**Putin confirms Russia fired new ballistic missile at Ukraine**
 
-You can read more about it [here](https://www.cnn.com/2024/11/22/entertainment/jussie-smollett-conviction-overturned-whats-next/index.html).
+You can read more about it [here](https://www.politico.eu/article/putin-confirms-russia-fired-new-ballistic-missile-at-ukraine/).
 
 ## Requirements
 - Python 3.8
