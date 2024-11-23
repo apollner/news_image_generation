@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Briton Simone White dies after suspected mass poisoning in Laos**
+**Brazilian police allege Bolsonaro led plot to seize power and kill rivals**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cx27wyrxz9yo).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/21/brazil-bolsonaro-police-coup-plot/).
 
 ## Requirements
 - Python 3.8
