@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**QB Underwood, No. 1 recruit for '25, flips to U-M**
+**Rumor Replay: Apple Television, AirTag 2 upgrades, iPhone 17 tidbits**
 
-You can read more about it [here](https://www.espn.com/college-sports/recruiting/football/story/_/id/42531006/bryce-underwood-no-1-recruit-2025-flips-michigan-lsu).
+You can read more about it [here](https://9to5mac.com/2024/11/21/rumor-replay-apple-television-airtag-2-upgrades-iphone-17/).
 
 ## Requirements
 - Python 3.8
