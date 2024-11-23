@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Conor McGregor must pay $250K to woman who says he raped her, civil jury rules**
+**Education board approves optional Bible-infused curriculum for Texas elementary schools**
 
-You can read more about it [here](https://apnews.com/article/conor-mcgregor-rape-civil-trial-lawsuit-dublin-hotel-97f27bbf98734f02a7fd392efca0a3ca).
+You can read more about it [here](https://www.kxan.com/news/texas/education-board-approves-optional-bible-infused-curriculum-for-texas-elementary-schools/).
 
 ## Requirements
 - Python 3.8
