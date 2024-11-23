@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cutting in line? American Airlines' new boarding tech might stop you at now over 100 airports**
+**DOJ-Google Fight Gets Serious. Why Alphabet Stock Is Falling Today.**
 
-You can read more about it [here](https://apnews.com/article/american-airlines-gate-lice-boarding-technology-907dfe7a751a0b8f19b8b0f6150c0b7b).
+You can read more about it [here](https://www.barrons.com/articles/doj-google-alphabet-stock-price-9c68b28b).
 
 ## Requirements
 - Python 3.8
