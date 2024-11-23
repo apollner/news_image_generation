@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hungary’s Orbán vows to disregard international arrest warrant for Netanyahu**
+**Jeff Bezos says Elon Musk's claims are '100% not true' after the Tesla CEO reignites their feud**
 
-You can read more about it [here](https://apnews.com/article/hungary-orban-arrest-warrant-netanyahu-2b25696df9b6d8a6624a8c4243ce3368).
+You can read more about it [here](https://www.businessinsider.com/elon-musk-jeff-bezos-feud-trump-tesla-stock-amazon-regulation-2024-11).
 
 ## Requirements
 - Python 3.8
