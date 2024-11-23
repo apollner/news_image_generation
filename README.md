@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google seems to have called it quits on making its own Android tablets—again**
+**Ellen DeGeneres Spotted Living Her Best Life as a Brunette in the U.K. After Trump’s Win**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/11/google-seems-to-have-called-it-quits-on-making-its-own-android-tablets-again/).
+You can read more about it [here](https://www.thedailybeast.com/ellen-degeneres-now-a-brunette-spotted-with-wife-portia-de-rossi-in-the-uk-after-trumps-win/).
 
 ## Requirements
 - Python 3.8
