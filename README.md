@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s DOGE Takes Aim At Federal Agencies—Here’s Where Cuts Could Be Made**
+**Conor McGregor must pay $250K to woman who says he raped her, civil jury rules**
 
-You can read more about it [here](https://www.forbes.com/sites/lindseychoo/2024/11/22/elon-musk-doge-takes-aim-federal-agencies-where-cuts-can-be-made/).
+You can read more about it [here](https://apnews.com/article/conor-mcgregor-rape-civil-trial-lawsuit-dublin-hotel-97f27bbf98734f02a7fd392efca0a3ca).
 
 ## Requirements
 - Python 3.8
