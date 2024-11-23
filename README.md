@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Concerning Study Reveals That Aspirin and Other Popular Drugs Could Increase Your Risk of Dementia**
+**Elon Musk’s DOGE Takes Aim At Federal Agencies—Here’s Where Cuts Could Be Made**
 
-You can read more about it [here](https://scitechdaily.com/concerning-study-reveals-that-aspirin-and-other-popular-drugs-could-increase-your-risk-of-dementia/).
+You can read more about it [here](https://www.forbes.com/sites/lindseychoo/2024/11/22/elon-musk-doge-takes-aim-federal-agencies-where-cuts-can-be-made/).
 
 ## Requirements
 - Python 3.8
