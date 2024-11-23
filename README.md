@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NATO and Ukraine to hold emergency talks after Russia’s attack with new hypersonic missile**
+**Musk Unleashes Online Army On Federal Workers. ‘A Tough Way to Find Out She’s Losing Her Job.’**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/nato-and-ukraine-to-hold-emergency-talks-after-russias-attack-with-new-hypersonic-missile).
+You can read more about it [here](https://www.wsj.com/tech/musk-unleashes-online-army-on-federal-workers-a-tough-way-to-find-out-shes-losing-her-job-f57a2e94).
 
 ## Requirements
 - Python 3.8
