@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Suspicious package' found outside US Embassy in London**
+**Middle East latest: UN reports heavy clashes between Israeli troops and Hezbollah in south Lebanon**
 
-You can read more about it [here](https://abcnews.go.com/International/suspicious-package-found-us-embassy-london/story?id\\u003d116124649).
+You can read more about it [here](https://www.yahoo.com/news/middle-east-latest-un-reports-122204337.html).
 
 ## Requirements
 - Python 3.8
