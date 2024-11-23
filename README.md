@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: UN reports heavy clashes between Israeli troops and Hezbollah in south Lebanon**
+**[Removed]**
 
-You can read more about it [here](https://www.yahoo.com/news/middle-east-latest-un-reports-122204337.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
