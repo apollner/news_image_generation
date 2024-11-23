@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jameis Winston delivers all-time interview before Browns’ ‘TNF’ game**
+**'Suspicious package' found outside US Embassy in London**
 
-You can read more about it [here](https://nypost.com/2024/11/21/sports/jameis-winston-delivers-all-time-interview-before-browns-tnf-game/).
+You can read more about it [here](https://abcnews.go.com/International/suspicious-package-found-us-embassy-london/story?id\\u003d116124649).
 
 ## Requirements
 - Python 3.8
