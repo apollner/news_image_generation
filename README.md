@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Incumbent Bob Casey concedes Pennsylvania Senate race to Dave McCormick**
+**Briton Simone White dies after suspected mass poisoning in Laos**
 
-You can read more about it [here](https://www.pennlive.com/politics/2024/11/us-sen-robert-casey-concedes-pennsylvania-senate-race-seat-to-dave-mccormick.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cx27wyrxz9yo).
 
 ## Requirements
 - Python 3.8
