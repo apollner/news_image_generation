@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk Unleashes Online Army On Federal Workers. ‘A Tough Way to Find Out She’s Losing Her Job.’**
+**Concerning Study Reveals That Aspirin and Other Popular Drugs Could Increase Your Risk of Dementia**
 
-You can read more about it [here](https://www.wsj.com/tech/musk-unleashes-online-army-on-federal-workers-a-tough-way-to-find-out-shes-losing-her-job-f57a2e94).
+You can read more about it [here](https://scitechdaily.com/concerning-study-reveals-that-aspirin-and-other-popular-drugs-could-increase-your-risk-of-dementia/).
 
 ## Requirements
 - Python 3.8
