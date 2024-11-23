@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jeff Bezos says Elon Musk's claims are '100% not true' after the Tesla CEO reignites their feud**
+**House passes bill that would allow Treasury to target nonprofits it deems to support terrorism**
 
-You can read more about it [here](https://www.businessinsider.com/elon-musk-jeff-bezos-feud-trump-tesla-stock-amazon-regulation-2024-11).
+You can read more about it [here](https://apnews.com/article/nonprofit-bill-terrorism-treasury-trump-aclu-ac88da656ea0d5cf8deb2e7bd045c1a4).
 
 ## Requirements
 - Python 3.8
