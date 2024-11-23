@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jonathan Majors’ Ex-Girlfriend Drops Assault and Defamation Lawsuit**
+**Google stock hammered after DOJ calls for Chrome sale**
 
-You can read more about it [here](https://variety.com/2024/film/news/jonathan-majors-grace-jabbari-lawsuit-dropped-1236217515/).
+You can read more about it [here](https://fortune.com/2024/11/21/google-stock-plunges-doj-chrome/).
 
 ## Requirements
 - Python 3.8
