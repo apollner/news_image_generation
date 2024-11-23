@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google stock hammered after DOJ calls for Chrome sale**
+**Brazil’s Bolsonaro and allies indicted in 2022 coup plot probe**
 
-You can read more about it [here](https://fortune.com/2024/11/21/google-stock-plunges-doj-chrome/).
+You can read more about it [here](https://www.cnn.com/2024/11/21/americas/brazilian-ex-president-jair-bolsonaro-indicted-over-attempted-coup-plot/index.html).
 
 ## Requirements
 - Python 3.8
