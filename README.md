@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Tomlin: Weather didn’t dictate how much we used Justin Fields**
+**NATO and Ukraine to hold emergency talks after Russia’s attack with new hypersonic missile**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-weather-didnt-dictate-how-much-we-used-justin-fields).
+You can read more about it [here](https://www.pbs.org/newshour/world/nato-and-ukraine-to-hold-emergency-talks-after-russias-attack-with-new-hypersonic-missile).
 
 ## Requirements
 - Python 3.8
