@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ellen DeGeneres Has Reportedly Left The U.S. For Good Following Trump Win**
+**QB Underwood, No. 1 recruit for '25, flips to U-M**
 
-You can read more about it [here](https://www.huffpost.com/entry/ellen-degeneres-leaving-america_n_673f7823e4b0fc93e3d12007).
+You can read more about it [here](https://www.espn.com/college-sports/recruiting/football/story/_/id/42531006/bryce-underwood-no-1-recruit-2025-flips-michigan-lsu).
 
 ## Requirements
 - Python 3.8
