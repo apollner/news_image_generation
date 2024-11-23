@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin confirms Russia fired new ballistic missile at Ukraine**
+**Israel stands by as aid convoys come under attack in Gaza**
 
-You can read more about it [here](https://www.politico.eu/article/putin-confirms-russia-fired-new-ballistic-missile-at-ukraine/).
+You can read more about it [here](https://www.cbsnews.com/news/gaza-humanitarian-aid-netanyahu-icc-israel/).
 
 ## Requirements
 - Python 3.8
