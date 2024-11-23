@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Belleville QB Bryce Underwood, No. 1 national recruit, flips commitment to Michigan**
+**Senate Republicans are more receptive to Hegseth despite Gaetz’s exit**
 
-You can read more about it [here](https://www.detroitnews.com/story/sports/college/university-michigan/wolverines/2024/11/21/belleville-qb-bryce-underwood-no-1-national-recruit-flips-commitment-to-michigan/76489028007/).
+You can read more about it [here](https://www.washingtonpost.com/politics/2024/11/21/pete-hegseth-department-of-defense-sexual-assault-gaetz/).
 
 ## Requirements
 - Python 3.8
