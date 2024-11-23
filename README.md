@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Essay | I Was In Great Health. So Why Were My Arteries Clogged?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.wsj.com/health/healthcare/i-was-in-great-health-so-why-were-my-arteries-clogged-3a918640).
 
 ## Requirements
 - Python 3.8
