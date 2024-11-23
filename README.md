@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hungary’s Orbán vows to disregard international arrest warrant for Netanyahu**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/hungary-orban-arrest-warrant-netanyahu-2b25696df9b6d8a6624a8c4243ce3368).
 
 ## Requirements
 - Python 3.8
