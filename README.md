@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel stands by as aid convoys come under attack in Gaza**
+**Jonathan Majors’ Ex-Girlfriend Drops Assault and Defamation Lawsuit**
 
-You can read more about it [here](https://www.cbsnews.com/news/gaza-humanitarian-aid-netanyahu-icc-israel/).
+You can read more about it [here](https://variety.com/2024/film/news/jonathan-majors-grace-jabbari-lawsuit-dropped-1236217515/).
 
 ## Requirements
 - Python 3.8
