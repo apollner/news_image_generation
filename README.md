@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Education board approves optional Bible-infused curriculum for Texas elementary schools**
+**First up-close picture taken of star outside Milky Way**
 
-You can read more about it [here](https://www.kxan.com/news/texas/education-board-approves-optional-bible-infused-curriculum-for-texas-elementary-schools/).
+You can read more about it [here](https://abcnews.go.com/Technology/close-picture-star-milky/story?id\\u003d116129095).
 
 ## Requirements
 - Python 3.8
