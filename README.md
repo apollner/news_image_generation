@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazilian police allege Bolsonaro led plot to seize power and kill rivals**
+**Belleville QB Bryce Underwood, No. 1 national recruit, flips commitment to Michigan**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/21/brazil-bolsonaro-police-coup-plot/).
+You can read more about it [here](https://www.detroitnews.com/story/sports/college/university-michigan/wolverines/2024/11/21/belleville-qb-bryce-underwood-no-1-national-recruit-flips-commitment-to-michigan/76489028007/).
 
 ## Requirements
 - Python 3.8
