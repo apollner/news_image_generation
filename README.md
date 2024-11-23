@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gap shares surge as it raises guidance, touts 'strong start' to holiday**
+**Incumbent Bob Casey concedes Pennsylvania Senate race to Dave McCormick**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/21/gap-gap-q3-2024-earnings.html).
+You can read more about it [here](https://www.pennlive.com/politics/2024/11/us-sen-robert-casey-concedes-pennsylvania-senate-race-seat-to-dave-mccormick.html).
 
 ## Requirements
 - Python 3.8
