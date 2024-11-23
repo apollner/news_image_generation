@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Essay | I Was In Great Health. So Why Were My Arteries Clogged?**
+**Mike Tomlin: Weather didn’t dictate how much we used Justin Fields**
 
-You can read more about it [here](https://www.wsj.com/health/healthcare/i-was-in-great-health-so-why-were-my-arteries-clogged-3a918640).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/mike-tomlin-weather-didnt-dictate-how-much-we-used-justin-fields).
 
 ## Requirements
 - Python 3.8
