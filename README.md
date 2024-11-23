@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Google seems to have called it quits on making its own Android tablets—again**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/11/google-seems-to-have-called-it-quits-on-making-its-own-android-tablets-again/).
 
 ## Requirements
 - Python 3.8
