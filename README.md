@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rumor Replay: Apple Television, AirTag 2 upgrades, iPhone 17 tidbits**
+**Kenya's President William Ruto cancels major deals with Adani Group**
 
-You can read more about it [here](https://9to5mac.com/2024/11/21/rumor-replay-apple-television-airtag-2-upgrades-iphone-17/).
+You can read more about it [here](https://www.bbc.com/news/articles/c39nyvvmne8o).
 
 ## Requirements
 - Python 3.8
