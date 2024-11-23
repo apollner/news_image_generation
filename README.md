@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House passes bill that would allow Treasury to target nonprofits it deems to support terrorism**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/nonprofit-bill-terrorism-treasury-trump-aclu-ac88da656ea0d5cf8deb2e7bd045c1a4).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
