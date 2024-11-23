@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ-Google Fight Gets Serious. Why Alphabet Stock Is Falling Today.**
+**Gap shares surge as it raises guidance, touts 'strong start' to holiday**
 
-You can read more about it [here](https://www.barrons.com/articles/doj-google-alphabet-stock-price-9c68b28b).
+You can read more about it [here](https://www.cnbc.com/2024/11/21/gap-gap-q3-2024-earnings.html).
 
 ## Requirements
 - Python 3.8
