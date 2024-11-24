@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saquon Barkley reacts to Giants releasing QB Daniel Jones**
+**[Removed]**
 
-You can read more about it [here](https://giantswire.usatoday.com/2024/11/22/saquon-barkley-reacts-new-york-giants-releasing-qb-daniel-jones/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
