@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**6 things to know about Pam Bondi, Trump’s new pick for attorney general**
+**The good, the bad, and the ugly behind the push for more smart displays**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/6-things-to-know-about-pam-bondi-trumps-new-pick-for-attorney-general).
+You can read more about it [here](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/).
 
 ## Requirements
 - Python 3.8
