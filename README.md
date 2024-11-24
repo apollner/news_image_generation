@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk wants to gut the government like he did at Twitter. But his private sector strategies are going to be tested at DOGE**
+**What to know about Trump's labor secretary nominee Lori Chavez-DeRemer**
 
-You can read more about it [here](https://fortune.com/2024/11/23/elon-musk-wants-to-gut-the-government-like-he-did-at-twitter-but-his-doge-committee-is-nothing-like-his-private-sector-power/).
+You can read more about it [here](https://abcnews.go.com/Politics/trumps-labor-secretary-nominee-lori-chavez-deremer/story?id\\u003d116156534).
 
 ## Requirements
 - Python 3.8
