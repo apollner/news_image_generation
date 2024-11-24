@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fox hosts, cable news regulars and entertainment pros: Trump is casting a made-for-TV Cabinet**
+**Giants release Daniel Jones: Former teammate Saquon Barkley reacts to QB leaving New York**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/politics/trump-tv-cabinet/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/giants-release-daniel-jones-former-teammate-saquon-barkley-reacts-to-qb-leaving-new-york/).
 
 ## Requirements
 - Python 3.8
