@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What to know about Trump's labor secretary nominee Lori Chavez-DeRemer**
+**Bitcoin’s rally is making some investors nervous about the stock market**
 
-You can read more about it [here](https://abcnews.go.com/Politics/trumps-labor-secretary-nominee-lori-chavez-deremer/story?id\\u003d116156534).
+You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
 
 ## Requirements
 - Python 3.8
