@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Firebrand Gorka returns to Trump White House in NSC role**
+**Horoscope for Saturday, November 23, 2024**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/22/sebastian-gorka-trump-administration-national-security-00191382).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/23/horoscopes-today-saturday-november-23-2024).
 
 ## Requirements
 - Python 3.8
