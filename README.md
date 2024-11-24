@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia will keep testing new ballistic missile, Putin says**
+**Elon Musk wants to gut the government like he did at Twitter. But his private sector strategies are going to be tested at DOGE**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/europe/russia-testing-oreshnik-missile-putin-intl/index.html).
+You can read more about it [here](https://fortune.com/2024/11/23/elon-musk-wants-to-gut-the-government-like-he-did-at-twitter-but-his-doge-committee-is-nothing-like-his-private-sector-power/).
 
 ## Requirements
 - Python 3.8
