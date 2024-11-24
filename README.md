@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump Tax Cuts And 11 Other Reasons To Skip A Roth Conversion**
+**Bitcoin’s rally is making some investors nervous about the stock market**
 
-You can read more about it [here](https://www.forbes.com/sites/baldwin/2024/11/23/trump-tax-cuts-and-11-other-reasons-to-skip-a-roth-conversion/).
+You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
 
 ## Requirements
 - Python 3.8
