@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**SF crypto billionaire says he'll eat the $6.2M piece of art he just bought**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/sf-crypto-billionaire-plans-to-eat-art-piece-19937294.php).
 
 ## Requirements
 - Python 3.8
