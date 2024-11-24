@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Marty Makary to lead FDA, Dave Weldon to run CDC**
+**What to know about Trump's labor secretary nominee Lori Chavez-DeRemer**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/22/marty-makary-fda-trump/).
+You can read more about it [here](https://abcnews.go.com/Politics/trumps-labor-secretary-nominee-lori-chavez-deremer/story?id\\u003d116156534).
 
 ## Requirements
 - Python 3.8
