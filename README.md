@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Fight Night 248 live updates: Results, round-by-round coverage of every fight**
+**Who is Pam Bondi, Trump's new pick for attorney general?**
 
-You can read more about it [here](https://mmajunkie.usatoday.com/2024/11/ufc-macau-yan-vs-figueiredo-live-updates-results).
+You can read more about it [here](https://www.foxnews.com/politics/who-pam-bondi-trumps-new-pick-attorney-general).
 
 ## Requirements
 - Python 3.8
