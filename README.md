@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SF crypto billionaire says he'll eat the $6.2M piece of art he just bought**
+**Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/sf-crypto-billionaire-plans-to-eat-art-piece-19937294.php).
+You can read more about it [here](https://www.cnn.com/2024/11/22/politics/lori-chavez-deremer-labor-secretary-trump/index.html).
 
 ## Requirements
 - Python 3.8
