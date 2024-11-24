@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 15 killed after Israeli strike flattens building in central Beirut, Lebanese officials say**
+**‘RHOP’ Star Matthew Byars’ Cause Of Death Confirmed**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/middleeast/lebanon-strikes-beirut-basta-intl/index.html).
+You can read more about it [here](http://deadline.com/2024/11/matthew-byars-real-housewives-pototmac-cause-of-death-1236186147/).
 
 ## Requirements
 - Python 3.8
