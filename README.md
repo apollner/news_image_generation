@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Indiana's 23-point loss to Ohio State impacts Hoosiers' College Football Playoff chances**
+**Alcohol use increased during the Covid-19 pandemic. A new study shows that it’s still high**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/how-indianas-23-point-loss-to-ohio-state-impacts-hoosiers-college-football-playoff-chances/).
+You can read more about it [here](https://www.cnn.com/2024/11/23/health/covid-alcohol-increase-drinking/index.html).
 
 ## Requirements
 - Python 3.8
