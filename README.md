@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants release Daniel Jones: Former teammate Saquon Barkley reacts to QB leaving New York**
+**UFC Fight Night 248 live updates: Results, round-by-round coverage of every fight**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/giants-release-daniel-jones-former-teammate-saquon-barkley-reacts-to-qb-leaving-new-york/).
+You can read more about it [here](https://mmajunkie.usatoday.com/2024/11/ufc-macau-yan-vs-figueiredo-live-updates-results).
 
 ## Requirements
 - Python 3.8
