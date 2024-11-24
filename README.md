@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin’s rally is making some investors nervous about the stock market**
+**At least 15 killed after Israeli strike flattens building in central Beirut, Lebanese officials say**
 
-You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
+You can read more about it [here](https://www.cnn.com/2024/11/23/middleeast/lebanon-strikes-beirut-basta-intl/index.html).
 
 ## Requirements
 - Python 3.8
