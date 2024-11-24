@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says Russell Vought will return as OMB director**
+**'I have no money': Thousands of Americans see their savings vanish in Synapse fintech crisis**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/22/russell-vought-trump-omb-pick-00191191).
+You can read more about it [here](https://www.nbcnews.com/business/consumer/-no-money-thousands-americans-see-savings-vanish-synapse-fintech-crisi-rcna181419).
 
 ## Requirements
 - Python 3.8
