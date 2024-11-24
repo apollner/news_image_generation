@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The stars of ‘Wicked’ have been changed for good. Former Elphabas and Glindas remember the magic**
+**How Indiana's 23-point loss to Ohio State impacts Hoosiers' College Football Playoff chances**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/entertainment/glinda-elphaba-wicked-cec/index.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/how-indianas-23-point-loss-to-ohio-state-impacts-hoosiers-college-football-playoff-chances/).
 
 ## Requirements
 - Python 3.8
