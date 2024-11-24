@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**49ers HC Kyle Shanahan Explains Why He's Starting Brandon Allen**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.si.com/nfl/49ers/news/49ers-hc-kyle-shanahan-explains-why-he-s-starting-brandon-allen-01jdcsn7bqwg).
 
 ## Requirements
 - Python 3.8
