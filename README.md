@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA spotted a very young planet. It could become a super-Earth.**
+**Trump picks Marty Makary to lead FDA, Dave Weldon to run CDC**
 
-You can read more about it [here](https://mashable.com/article/nasa-young-planet-exoplanet-discovery-super-earth).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/22/marty-makary-fda-trump/).
 
 ## Requirements
 - Python 3.8
