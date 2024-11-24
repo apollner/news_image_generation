@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin’s rally is making some investors nervous about the stock market**
+**Fox hosts, cable news regulars and entertainment pros: Trump is casting a made-for-TV Cabinet**
 
-You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
+You can read more about it [here](https://www.cnn.com/2024/11/23/politics/trump-tv-cabinet/index.html).
 
 ## Requirements
 - Python 3.8
