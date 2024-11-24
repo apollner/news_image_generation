@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Arc B580 “Battlemage” GPU Leak Confirms 12 GB Memory, Custom Models With Standard Power Connectors, Up To 2.8 GHz Clocks**
+**Russia will keep testing new ballistic missile, Putin says**
 
-You can read more about it [here](https://wccftech.com/intel-arc-b580-battlemage-gpu-leak-confirms-12-gb-memory-standard-power-connectors-up-to-2-8-ghz/).
+You can read more about it [here](https://www.cnn.com/2024/11/23/europe/russia-testing-oreshnik-missile-putin-intl/index.html).
 
 ## Requirements
 - Python 3.8
