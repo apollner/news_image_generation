@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary**
+**Giants release quarterback Daniel Jones, at his request**
 
-You can read more about it [here](https://www.cnn.com/2024/11/22/politics/lori-chavez-deremer-labor-secretary-trump/index.html).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/11/22/daniel-jones-released-giants/).
 
 ## Requirements
 - Python 3.8
