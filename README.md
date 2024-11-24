@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Pam Bondi, Trump's new pick for attorney general?**
+**NASA spotted a very young planet. It could become a super-Earth.**
 
-You can read more about it [here](https://www.foxnews.com/politics/who-pam-bondi-trumps-new-pick-attorney-general).
+You can read more about it [here](https://mashable.com/article/nasa-young-planet-exoplanet-discovery-super-earth).
 
 ## Requirements
 - Python 3.8
