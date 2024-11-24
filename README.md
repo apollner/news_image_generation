@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, November 23, 2024**
+**Fox hosts, cable news regulars and entertainment pros: Trump is casting a made-for-TV Cabinet**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/23/horoscopes-today-saturday-november-23-2024).
+You can read more about it [here](https://www.cnn.com/2024/11/23/politics/trump-tv-cabinet/index.html).
 
 ## Requirements
 - Python 3.8
