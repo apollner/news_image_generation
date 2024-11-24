@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McDonald’s to expand US value menu as fast food chains battle for bargain seekers**
+**Defense rests its case in Daniel Penny manslaughter trial**
 
-You can read more about it [here](https://apnews.com/article/mcdonalds-value-deals-inflation-66585ec1595a21d293de3e38b4a52c2a).
+You can read more about it [here](https://www.cnn.com/2024/11/22/us/daniel-penny-trial-defense-jordan-neely/index.html).
 
 ## Requirements
 - Python 3.8
