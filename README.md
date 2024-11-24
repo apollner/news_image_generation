@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I have no money': Thousands of Americans see their savings vanish in Synapse fintech crisis**
+**Saquon Barkley reacts to Giants releasing QB Daniel Jones**
 
-You can read more about it [here](https://www.nbcnews.com/business/consumer/-no-money-thousands-americans-see-savings-vanish-synapse-fintech-crisi-rcna181419).
+You can read more about it [here](https://giantswire.usatoday.com/2024/11/22/saquon-barkley-reacts-new-york-giants-releasing-qb-daniel-jones/).
 
 ## Requirements
 - Python 3.8
