@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin’s rally is making some investors nervous about the stock market**
+**Elon Musk wants to gut the government like he did at Twitter. But his private sector strategies are going to be tested at DOGE**
 
-You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
+You can read more about it [here](https://fortune.com/2024/11/23/elon-musk-wants-to-gut-the-government-like-he-did-at-twitter-but-his-doge-committee-is-nothing-like-his-private-sector-power/).
 
 ## Requirements
 - Python 3.8
