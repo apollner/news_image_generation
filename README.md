@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Giants release quarterback Daniel Jones, at his request**
+**Firebrand Gorka returns to Trump White House in NSC role**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/11/22/daniel-jones-released-giants/).
+You can read more about it [here](https://www.politico.com/news/2024/11/22/sebastian-gorka-trump-administration-national-security-00191382).
 
 ## Requirements
 - Python 3.8
