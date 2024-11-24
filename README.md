@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Defense rests its case in Daniel Penny manslaughter trial**
+**6 things to know about Pam Bondi, Trump’s new pick for attorney general**
 
-You can read more about it [here](https://www.cnn.com/2024/11/22/us/daniel-penny-trial-defense-jordan-neely/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/politics/6-things-to-know-about-pam-bondi-trumps-new-pick-for-attorney-general).
 
 ## Requirements
 - Python 3.8
