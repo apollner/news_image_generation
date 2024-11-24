@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The good, the bad, and the ugly behind the push for more smart displays**
+**Trump says Russell Vought will return as OMB director**
 
-You can read more about it [here](https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/).
+You can read more about it [here](https://www.politico.com/news/2024/11/22/russell-vought-trump-omb-pick-00191191).
 
 ## Requirements
 - Python 3.8
