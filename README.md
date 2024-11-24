@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers HC Kyle Shanahan Explains Why He's Starting Brandon Allen**
+**The stars of ‘Wicked’ have been changed for good. Former Elphabas and Glindas remember the magic**
 
-You can read more about it [here](https://www.si.com/nfl/49ers/news/49ers-hc-kyle-shanahan-explains-why-he-s-starting-brandon-allen-01jdcsn7bqwg).
+You can read more about it [here](https://www.cnn.com/2024/11/23/entertainment/glinda-elphaba-wicked-cec/index.html).
 
 ## Requirements
 - Python 3.8
