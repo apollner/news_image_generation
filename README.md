@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘RHOP’ Star Matthew Byars’ Cause Of Death Confirmed**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/11/matthew-byars-real-housewives-pototmac-cause-of-death-1236186147/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
