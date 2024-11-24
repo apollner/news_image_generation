@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk wants to gut the government like he did at Twitter. But his private sector strategies are going to be tested at DOGE**
+**Trump Tax Cuts And 11 Other Reasons To Skip A Roth Conversion**
 
-You can read more about it [here](https://fortune.com/2024/11/23/elon-musk-wants-to-gut-the-government-like-he-did-at-twitter-but-his-doge-committee-is-nothing-like-his-private-sector-power/).
+You can read more about it [here](https://www.forbes.com/sites/baldwin/2024/11/23/trump-tax-cuts-and-11-other-reasons-to-skip-a-roth-conversion/).
 
 ## Requirements
 - Python 3.8
