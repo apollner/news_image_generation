@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Arc B580 GPU has TDP lower than 225W and PCIe 5.0×8 interface**
+**Bitcoin’s rally is making some investors nervous about the stock market**
 
-You can read more about it [here](https://videocardz.com/newz/intel-arc-b580-gpu-has-tdp-lower-than-225w-and-pcie-5-0x8-interface).
+You can read more about it [here](https://www.marketwatch.com/story/bitcoins-rally-is-making-some-investors-nervous-about-the-stock-market-8752cd49).
 
 ## Requirements
 - Python 3.8
