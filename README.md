@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SF crypto billionaire says he'll eat the $6.2M piece of art he just bought**
+**Sean ‘Diddy’ Combs’ third bid to be released on bail won’t be decided until next week**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/sf-crypto-billionaire-plans-to-eat-art-piece-19937294.php).
+You can read more about it [here](https://apnews.com/article/diddy-sean-combs-bail-sex-trafficking-391b7a4b51789a7132ee1e190add6913).
 
 ## Requirements
 - Python 3.8
