@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Child dead, 11 people infected by listeria linked to ready-to-eat meat brand**
+**Gunman shot dead, 3 police injured in shooting near Israeli embassy in Jordan**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/23/listeria-outbreak-california-cdc-yushang/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/jordanian-police-cordon-off-area-near-israeli-embassy-after-gunshots-heard-2024-11-24/).
 
 ## Requirements
 - Python 3.8
