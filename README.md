@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 12 bold predictions: Drake Maye leads Patriots to upset over Tua Tagovailoa, Dolphins**
+**Two dead, one injured in single-engine plane crash in Colorado**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-drake-maye-leads-patriots-to-upset-over-tua-tagovailoa-dolphins/).
+You can read more about it [here](https://abcnews.go.com/US/civil-air-patrol-single-engine-plane-crash-colorado/story?id\\u003d116179779).
 
 ## Requirements
 - Python 3.8
