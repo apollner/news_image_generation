@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dartmouth sorority and two fraternity members charged after student death**
+**NFL Week 12 odds, predictions, expert picks: Best bets, teasers, survivor picks, where to watch every game**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/11/23/won-jang-dartmouth-drowning-sorority/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-odds-predictions-expert-picks-best-bets-teasers-survivor-picks-where-to-watch-every-game/).
 
 ## Requirements
 - Python 3.8
