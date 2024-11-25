@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Significant interest’ in ex-New York Giants QB Daniel Jones**
+**Israeli army orders Gaza City suburb evacuated**
 
-You can read more about it [here](https://www.bigblueview.com/2024/11/24/24304655/significant-interest-in-ex-new-york-giants-qb-daniel-jones-ravens-vikings).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-army-orders-gaza-city-suburb-evacuated-spurring-new-displacement-wave-2024-11-24/).
 
 ## Requirements
 - Python 3.8
