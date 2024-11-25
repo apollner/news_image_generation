@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A study to devise nutritional guidance just for you**
+**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
 
-You can read more about it [here](https://www.cbsnews.com/news/personalized-nutritional-guidance-nutrition-for-precision-health-study/).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/earth-bids-farewell-temporary-mini-moon-possibly-chunk-116176596).
 
 ## Requirements
 - Python 3.8
