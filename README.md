@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fred Harris, former Democratic U.S. senator and presidential candidate, dies at 94**
+**Kylie Kelce, Wife of Jason Kelce, Announces Pregnancy With Couple's Fourth Child**
 
-You can read more about it [here](https://www.cbsnews.com/news/fred-harris-former-democratic-u-s-senator-and-presidential-candidate-dies-at-94/).
+You can read more about it [here](https://www.si.com/nfl/kylie-kelce-jason-kelce-announces-pregnancy-fourth-child).
 
 ## Requirements
 - Python 3.8
