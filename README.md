@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket**
+**Trump names a Fox News personality, a COVID mandate critic and an anti-vaccine doctor to key public health roles**
 
-You can read more about it [here](https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-names-a-fox-news-personality-a-covid-mandate-critic-and-an-anti-vaccine-doctor-to-key-public-health-roles).
 
 ## Requirements
 - Python 3.8
