@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gunman shot dead, 3 police injured in shooting near Israeli embassy in Jordan**
+**Deion after KU loss: 'Got intoxicated with success'**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/jordanian-police-cordon-off-area-near-israeli-embassy-after-gunshots-heard-2024-11-24/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/42572777/deion-sanders-play-colorado-football-loss-kansas).
 
 ## Requirements
 - Python 3.8
