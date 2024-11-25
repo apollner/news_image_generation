@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missing Israeli rabbi found dead in UAE in ‘antisemitic terrorist act,’ Israel says**
+**SpaceX to launch 20 Starlink satellites on the 400th Falcon 9 rocket**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/middleeast/israeli-missing-uae-dead-intl-latam/index.html).
+You can read more about it [here](https://spaceflightnow.com/2024/11/24/spacex-to-launch-20-starlink-satellites-on-the-400th-falcon-9-rocket/).
 
 ## Requirements
 - Python 3.8
