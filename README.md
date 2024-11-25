@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chuck Woolery, smooth-talking game show host of 'Love Connection' and 'Scrabble,' dies at 83**
+**Full NFL predictions, picks for entire Week 12 slate**
 
-You can read more about it [here](https://apnews.com/article/obituary-chuck-woolery-508f37c136ccbc4c8ad48a4fd582674b).
+You can read more about it [here](https://nypost.com/2024/11/23/betting/full-nfl-predictions-picks-for-entire-week-12-slate/).
 
 ## Requirements
 - Python 3.8
