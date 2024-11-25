@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 quick takeaways from the Badgers 44-25 loss to Nebraska: Defense collapses in blowout**
+**Republican Senator Offers Candid Explanation For Why Matt Gaetz’s Nomination Failed**
 
-You can read more about it [here](https://www.buckys5thquarter.com/2024/11/23/24304371/3-quick-takeaways-from-wisconsin-badgers-44-25-loss-nebraska-cornhuskers-defense-collapses-blowout).
+You can read more about it [here](https://www.thedailybeast.com/republican-senator-kevin-cramer-offers-candid-explanation-for-why-matt-gaetzs-nomination-failed/).
 
 ## Requirements
 - Python 3.8
