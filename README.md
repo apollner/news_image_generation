@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hezbollah hits Israel with heaviest barrage in weeks**
+**Two dead, one injured in single-engine plane crash in Colorado**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/24/hezbollah-hits-israel-heaviest-barrage-weeks-00191423).
+You can read more about it [here](https://abcnews.go.com/US/civil-air-patrol-single-engine-plane-crash-colorado/story?id\\u003d116179779).
 
 ## Requirements
 - Python 3.8
