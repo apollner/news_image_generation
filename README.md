@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Legal threats close in on Benjamin Netanyahu**
+**Dartmouth sorority and two fraternity members charged after student death**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/legal-threats-close-israels-netanyahu-could-impact-ongoing-wars-2024-11-24/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/11/23/won-jang-dartmouth-drowning-sorority/).
 
 ## Requirements
 - Python 3.8
