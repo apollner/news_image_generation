@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 quick takeaways from the Badgers 44-25 loss to Nebraska: Defense collapses in blowout**
+**Deadly Israeli strike in Beirut adds to fears the war is escalating**
 
-You can read more about it [here](https://www.buckys5thquarter.com/2024/11/23/24304371/3-quick-takeaways-from-wisconsin-badgers-44-25-loss-nebraska-cornhuskers-defense-collapses-blowout).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/23/israel-beirut-airstrike-ceasefire/).
 
 ## Requirements
 - Python 3.8
