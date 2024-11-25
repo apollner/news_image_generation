@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A 12-Year-Old’s Journey Into the World of Ozempic**
+**3 quick takeaways from the Badgers 44-25 loss to Nebraska: Defense collapses in blowout**
 
-You can read more about it [here](https://www.wsj.com/health/pharma/ozempic-semaglutide-child-family-decision-528f16ee).
+You can read more about it [here](https://www.buckys5thquarter.com/2024/11/23/24304371/3-quick-takeaways-from-wisconsin-badgers-44-25-loss-nebraska-cornhuskers-defense-collapses-blowout).
 
 ## Requirements
 - Python 3.8
