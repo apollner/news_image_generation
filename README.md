@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
+**'Moana 2' cast: See who voices the characters in Disney's magical sequel (including the new villain)**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/earth-bids-farewell-temporary-mini-moon-possibly-chunk-116176596).
+You can read more about it [here](https://ew.com/moana-2-cast-disney-characters-8750256).
 
 ## Requirements
 - Python 3.8
