@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Curiosity Cracked Open a Rock on Mars And Found a Big Surprise**
+**Legal threats close in on Benjamin Netanyahu**
 
-You can read more about it [here](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-big-surprise).
+You can read more about it [here](https://www.reuters.com/world/middle-east/legal-threats-close-israels-netanyahu-could-impact-ongoing-wars-2024-11-24/).
 
 ## Requirements
 - Python 3.8
