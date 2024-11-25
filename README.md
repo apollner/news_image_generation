@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado becomes latest contender to fall victim to Kansas as Big 12 spirals into chaos down the stretch**
+**Child dead, 11 people infected by listeria linked to ready-to-eat meat brand**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-becomes-latest-contender-to-fall-victim-to-kansas-as-big-12-spirals-into-chaos-down-the-stretch/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/23/listeria-outbreak-california-cdc-yushang/).
 
 ## Requirements
 - Python 3.8
