@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alcohol use increased during the Covid-19 pandemic. A new study shows that it’s still high**
+**New starting QB may actually help 49ers offense**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/health/covid-alcohol-increase-drinking/index.html).
+You can read more about it [here](https://ninerswire.usatoday.com/2024/11/23/new-starting-qb-may-actually-help-49ers-offense/).
 
 ## Requirements
 - Python 3.8
