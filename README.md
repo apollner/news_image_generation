@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full NFL predictions, picks for entire Week 12 slate**
+**Missing Israeli rabbi found dead in UAE in ‘antisemitic terrorist act,’ Israel says**
 
-You can read more about it [here](https://nypost.com/2024/11/23/betting/full-nfl-predictions-picks-for-entire-week-12-slate/).
+You can read more about it [here](https://www.cnn.com/2024/11/23/middleeast/israeli-missing-uae-dead-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
