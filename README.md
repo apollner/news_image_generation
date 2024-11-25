@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deion after KU loss: 'Got intoxicated with success'**
+**Fred Harris, former Democratic U.S. senator and presidential candidate, dies at 94**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/42572777/deion-sanders-play-colorado-football-loss-kansas).
+You can read more about it [here](https://www.cbsnews.com/news/fred-harris-former-democratic-u-s-senator-and-presidential-candidate-dies-at-94/).
 
 ## Requirements
 - Python 3.8
