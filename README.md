@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names Brooke Rollins as his pick for Agriculture secretary**
+**Florida upsets No. 9 Ole Miss, No. 2 Ohio State ends No. 5 Indiana's undefeated streak in Week 13 of college football**
 
-You can read more about it [here](https://www.cnn.com/2024/11/23/politics/brooke-rollins-trump-agriculture/index.html).
+You can read more about it [here](https://www.ncaa.com/news/football/article/2024-11-23/florida-upsets-no-9-ole-miss-no-2-ohio-state-ends-no-5-indianas-undefeated-streak-week).
 
 ## Requirements
 - Python 3.8
