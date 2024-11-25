@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football: Live Week 12 Q&A with our experts, 11 a.m. ET**
+**A study to devise nutritional guidance just for you**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/insider/story/_/id/42525671/2024-fantasy-football-advice-questions-answers-espn-experts-arena-week-12).
+You can read more about it [here](https://www.cbsnews.com/news/personalized-nutritional-guidance-nutrition-for-precision-health-study/).
 
 ## Requirements
 - Python 3.8
