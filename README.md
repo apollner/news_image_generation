@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump names a Fox News personality, a COVID mandate critic and an anti-vaccine doctor to key public health roles**
+**Curiosity Cracked Open a Rock on Mars And Found a Big Surprise**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trump-names-a-fox-news-personality-a-covid-mandate-critic-and-an-anti-vaccine-doctor-to-key-public-health-roles).
+You can read more about it [here](https://www.sciencealert.com/curiosity-cracked-open-a-rock-on-mars-and-found-a-big-surprise).
 
 ## Requirements
 - Python 3.8
