@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 12 odds, predictions, expert picks: Best bets, teasers, survivor picks, where to watch every game**
+**Climate summit ends with a long-fought deal — and a lot of anger**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-odds-predictions-expert-picks-best-bets-teasers-survivor-picks-where-to-watch-every-game/).
+You can read more about it [here](https://www.politico.com/news/2024/11/23/climate-summit-cop29-00191386).
 
 ## Requirements
 - Python 3.8
