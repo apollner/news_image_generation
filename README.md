@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republican Senator Offers Candid Explanation For Why Matt Gaetz’s Nomination Failed**
+**Colorado becomes latest contender to fall victim to Kansas as Big 12 spirals into chaos down the stretch**
 
-You can read more about it [here](https://www.thedailybeast.com/republican-senator-kevin-cramer-offers-candid-explanation-for-why-matt-gaetzs-nomination-failed/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/colorado-becomes-latest-contender-to-fall-victim-to-kansas-as-big-12-spirals-into-chaos-down-the-stretch/).
 
 ## Requirements
 - Python 3.8
