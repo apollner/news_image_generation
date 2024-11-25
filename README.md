@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John M. Chu gives Wicked fans permission to bug theaters to turn up the volume**
+**Gunman shot dead, 3 police injured in shooting near Israeli embassy in Jordan**
 
-You can read more about it [here](https://www.avclub.com/jon-m-chu-wicked-volume-theaters-turn-it-up).
+You can read more about it [here](https://www.reuters.com/world/middle-east/jordanian-police-cordon-off-area-near-israeli-embassy-after-gunshots-heard-2024-11-24/).
 
 ## Requirements
 - Python 3.8
