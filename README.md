@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two dead, one injured in single-engine plane crash in Colorado**
+**49ers vs. Packers 3rd quarter thread: It’s better to be lucky than good**
 
-You can read more about it [here](https://abcnews.go.com/US/civil-air-patrol-single-engine-plane-crash-colorado/story?id\\u003d116179779).
+You can read more about it [here](https://www.ninersnation.com/2024/11/24/24305048/49ers-vs-packers-3rd-quarter-thread-its-better-to-be-lucky-than-good).
 
 ## Requirements
 - Python 3.8
