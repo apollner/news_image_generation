@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kylie Kelce, Wife of Jason Kelce, Announces Pregnancy With Couple's Fourth Child**
+**John M. Chu gives Wicked fans permission to bug theaters to turn up the volume**
 
-You can read more about it [here](https://www.si.com/nfl/kylie-kelce-jason-kelce-announces-pregnancy-fourth-child).
+You can read more about it [here](https://www.avclub.com/jon-m-chu-wicked-volume-theaters-turn-it-up).
 
 ## Requirements
 - Python 3.8
