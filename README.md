@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Florida upsets No. 9 Ole Miss, No. 2 Ohio State ends No. 5 Indiana's undefeated streak in Week 13 of college football**
+**A 12-Year-Old’s Journey Into the World of Ozempic**
 
-You can read more about it [here](https://www.ncaa.com/news/football/article/2024-11-23/florida-upsets-no-9-ole-miss-no-2-ohio-state-ends-no-5-indianas-undefeated-streak-week).
+You can read more about it [here](https://www.wsj.com/health/pharma/ozempic-semaglutide-child-family-decision-528f16ee).
 
 ## Requirements
 - Python 3.8
