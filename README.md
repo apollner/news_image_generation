@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Climate summit ends with a long-fought deal — and a lot of anger**
+**The rising price of paying the national debt is a risk for Trump's promises on growth and inflation**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/23/climate-summit-cop29-00191386).
+You can read more about it [here](https://apnews.com/article/trump-national-debt-inflation-economic-growth-spending-895ec1551122a0e1babf24b657f650bb).
 
 ## Requirements
 - Python 3.8
