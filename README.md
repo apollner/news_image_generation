@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Anytime Touchdown Scorer Picks, Player Props for Sunday Week 12**
+**NFL Week 12 bold predictions: Drake Maye leads Patriots to upset over Tua Tagovailoa, Dolphins**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/nfl-player-props-week-12-anytime-td-scorers-sunday-november-24).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-drake-maye-leads-patriots-to-upset-over-tua-tagovailoa-dolphins/).
 
 ## Requirements
 - Python 3.8
