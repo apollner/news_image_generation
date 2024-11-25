@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says rabbi who went missing in the UAE was killed**
+**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
 
-You can read more about it [here](https://apnews.com/article/israel-uae-rabbi-missing-98953265dcba8329803ae87d70462117).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/earth-bids-farewell-temporary-mini-moon-possibly-chunk-116176596).
 
 ## Requirements
 - Python 3.8
