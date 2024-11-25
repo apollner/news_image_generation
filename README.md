@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli army orders Gaza City suburb evacuated**
+**Fantasy football: Live Week 12 Q&A with our experts, 11 a.m. ET**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-army-orders-gaza-city-suburb-evacuated-spurring-new-displacement-wave-2024-11-24/).
+You can read more about it [here](https://www.espn.com/fantasy/football/insider/story/_/id/42525671/2024-fantasy-football-advice-questions-answers-espn-experts-arena-week-12).
 
 ## Requirements
 - Python 3.8
