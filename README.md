@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Moana 2' cast: See who voices the characters in Disney's magical sequel (including the new villain)**
+**NFL Week 12 bold predictions: Drake Maye leads Patriots to upset over Tua Tagovailoa, Dolphins**
 
-You can read more about it [here](https://ew.com/moana-2-cast-disney-characters-8750256).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-bold-predictions-drake-maye-leads-patriots-to-upset-over-tua-tagovailoa-dolphins/).
 
 ## Requirements
 - Python 3.8
