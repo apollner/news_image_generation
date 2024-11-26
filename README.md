@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Far-right candidate takes shock lead in Romania presidential election**
+**U.S. believes Israel-Hezbollah ceasefire deal reached: senior official**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c9dlw5pq967o).
+You can read more about it [here](https://www.axios.com/2024/11/25/israel-lebanon-near-hezbollah-ceasefire-deal).
 
 ## Requirements
 - Python 3.8
