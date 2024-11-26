@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One crew dead, three survive as cargo plane crashes near Vilnius airport**
+**Scott Bessent Sees a Coming ‘Global Economic Reordering.’ He Wants to Be Part of It.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxPQk1DVDBGMENfOGtfdmh1d1JoaURWYUIxWC0yaXotazY2N2V4R1pKVmYzLXl3N2pjdUg4N1BlOXJUUUdPRDNpZnNIMzQ4UUNwNjhNZlI0UlczTlVuTTk1eGhpVW5oMTdVTzZEU3M4N3ZPQXlNNmo2dmNobDhtOV8xMG1aWE54bUVfSXYwbHI4ZW5lbFI0aFBnQzJIT2FMUQ?oc=5).
+You can read more about it [here](https://www.wsj.com/economy/scott-bessent-sees-a-coming-global-economic-reordering-he-wants-to-be-part-of-it-533d6e71).
 
 ## Requirements
 - Python 3.8
