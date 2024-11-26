@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. believes Israel-Hezbollah ceasefire deal reached: senior official**
+**Special counsel Jack Smith moves to drop Trump election case citing 'categorical' DOJ policy**
 
-You can read more about it [here](https://www.axios.com/2024/11/25/israel-lebanon-near-hezbollah-ceasefire-deal).
+You can read more about it [here](https://abcnews.go.com/US/special-counsel-jack-smith-moves-dismiss-election-interference/story?id\\u003d116207758).
 
 ## Requirements
 - Python 3.8
