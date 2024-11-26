@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 12 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
+**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
 
-You can read more about it [here](https://bleacherreport.com/articles/10144607-week-12-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
+You can read more about it [here](https://www.ksl.com/article/51197184/earth-bids-farewell-to-its-temporary-mini-moon-that-is-possibly-a-chunk-of-our-actual-moon).
 
 ## Requirements
 - Python 3.8
