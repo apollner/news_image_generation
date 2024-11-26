@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lyle Menendez’s wife, Rebecca Sneed, announces separation, shuts down affair rumors**
+**Far-right candidate takes shock lead in Romania presidential election**
 
-You can read more about it [here](https://pagesix.com/2024/11/25/celebrity-news/lyle-menendezs-wife-rebecca-sneed-announces-separation/).
+You can read more about it [here](https://www.bbc.com/news/articles/c9dlw5pq967o).
 
 ## Requirements
 - Python 3.8
