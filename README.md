@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tortilla strips in 22 states contain wheat allergen contamination: FDA**
+**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
 
-You can read more about it [here](https://abcnews.go.com/GMA/Food/tortilla-strips-22-states-wheat-allergen-contamination-fda/story?id\\u003d116182939).
+You can read more about it [here](https://www.ksl.com/article/51197184/earth-bids-farewell-to-its-temporary-mini-moon-that-is-possibly-a-chunk-of-our-actual-moon).
 
 ## Requirements
 - Python 3.8
