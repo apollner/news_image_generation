@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Menendez brothers are set to appear in court for the first time in 28 years**
+**Father of missing Hawaii woman Hannah Kobayashi found dead in LA**
 
-You can read more about it [here](https://www.cnn.com/2024/11/25/us/erik-lyle-menendez-brothers-status-hearing/index.html).
+You can read more about it [here](https://www.sfgate.com/bayarea/article/hannah-kobayashi-father-found-dead-19941244.php).
 
 ## Requirements
 - Python 3.8
