@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warren Buffett Donates Another $1 Billion. He Has Estate-Planning Advice for Everyone.**
+**This is the new progressive strategy for warring with Trump**
 
-You can read more about it [here](https://www.wsj.com/finance/investing/warren-buffett-donates-another-1-billion-he-has-estate-planning-advice-for-everyone-3c75b0c6).
+You can read more about it [here](https://www.politico.com/news/2024/11/25/progressives-against-trump-00191392).
 
 ## Requirements
 - Python 3.8
