@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wicked’ and ‘Gladiator’ make gravity-defying theater debuts**
+**Scott Bessent Sees a Coming ‘Global Economic Reordering.’ He Wants to Be Part of It.**
 
-You can read more about it [here](https://apnews.com/article/wicked-gladiator-ii-glicked-box-office-c1fb55f5831a1af3984185dcea0cd4b5).
+You can read more about it [here](https://www.wsj.com/economy/scott-bessent-sees-a-coming-global-economic-reordering-he-wants-to-be-part-of-it-533d6e71).
 
 ## Requirements
 - Python 3.8
