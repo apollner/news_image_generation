@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cher Recalled The “Overrated Experience” Of Having Sex At 14 After Deciding To “Loan Out” Her “Virginity”**
+**Lyle Menendez’s wife, Rebecca Sneed, announces separation, shuts down affair rumors**
 
-You can read more about it [here](https://www.buzzfeed.com/ellendurney/cher-said-losing-her-virginity-was-massively-overrated).
+You can read more about it [here](https://pagesix.com/2024/11/25/celebrity-news/lyle-menendezs-wife-rebecca-sneed-announces-separation/).
 
 ## Requirements
 - Python 3.8
