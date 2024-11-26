@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Saquon Barkley sets several Eagles franchise records, makes NFL history in blowout victory over Rams**
+**Bird flu detected in raw milk sold at California store**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/saquon-barkley-sets-several-eagles-franchise-records-makes-nfl-history-in-blowout-victory-over-rams/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/25/bird-flu-virus-h5n1-milk/).
 
 ## Requirements
 - Python 3.8
