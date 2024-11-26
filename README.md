@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alec Baldwin Doesn't Want to See 'Rust,' but Hopes Movie Gets Released**
+**It may be a soggy, snowy Thanksgiving for some. Find out where.**
 
-You can read more about it [here](https://variety.com/2024/film/global/alec-baldwin-rust-final-cut-release-interview-1236222385/).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/11/25/thanksgiving-winter-storm-forecast-snow/).
 
 ## Requirements
 - Python 3.8
