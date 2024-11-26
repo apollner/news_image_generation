@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth bids farewell to its temporary 'mini moon' that is possibly a chunk of our actual moon**
+**Ceasefire deal between Israel and Hezbollah is ‘very close,’ regional source says, as Lebanon death toll climbs**
 
-You can read more about it [here](https://www.ksl.com/article/51197184/earth-bids-farewell-to-its-temporary-mini-moon-that-is-possibly-a-chunk-of-our-actual-moon).
+You can read more about it [here](https://www.cnn.com/2024/11/24/middleeast/israel-hezbollah-ceasefire-close-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
