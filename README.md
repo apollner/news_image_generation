@@ -11,7 +11,7 @@ The latest news headline used to generate the image is:
 
 **Earth's rotation has tilted 31.5 inches, and humans are 100% to blame**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0Vrdm9xRktpakJycjlhNXZQa2tnXzlFUEpueUNqQl9NTmc3VmNfRV9Pc2t0UHhlVjdNbk92OFFLUG9GTUlSTlhQQ2hER1Q4a0NyOXRlT1ljZ2FpNVgyRGFCM0M4VHZjVG1GLVE2ODNCZ1VvVGM4RXhocEhzYmttSG1pZ1dIM1Nv?oc=5).
+You can read more about it [here](https://www.earth.com/news/our-everyday-water-use-is-literally-tilting-the-earth/).
 
 ## Requirements
 - Python 3.8
