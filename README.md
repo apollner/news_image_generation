@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**‘Yellowstone’: This Season’s Most Shocking Drama? Watching Creator Taylor Sheridan Tear Down Kevin Costner’s Legacy**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/tv/news/yellowstone-kevin-costner-john-dutton-mocked-death-1236221991/).
 
 ## Requirements
 - Python 3.8
