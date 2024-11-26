@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump health picks largely untested in fighting disease outbreaks**
+**Tortilla strips in 22 states contain wheat allergen contamination: FDA**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/24/trump-cdc-fda-surgeon-general/).
+You can read more about it [here](https://abcnews.go.com/GMA/Food/tortilla-strips-22-states-wheat-allergen-contamination-fda/story?id\\u003d116182939).
 
 ## Requirements
 - Python 3.8
