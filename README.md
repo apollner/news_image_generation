@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘It puts him amongst the all-time greats’ – Horner praises Verstappen after winning his ‘best and hardest championship’**
+**Saquon Barkley sets several Eagles franchise records, makes NFL history in blowout victory over Rams**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article/it-puts-him-amongst-the-all-time-greats-horner-praises-verstappen-after.3IUUHhvHEqbR6lig31baiF).
+You can read more about it [here](https://www.cbssports.com/nfl/news/saquon-barkley-sets-several-eagles-franchise-records-makes-nfl-history-in-blowout-victory-over-rams/).
 
 ## Requirements
 - Python 3.8
