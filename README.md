@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senators took down one Trump Cabinet pick. But the fight over their authority is just beginning**
+**‘Wicked’ and ‘Gladiator’ make gravity-defying theater debuts**
 
-You can read more about it [here](https://apnews.com/article/trump-cabinet-senate-republicans-cee5cddaa714b8874db05356c6af2a04).
+You can read more about it [here](https://apnews.com/article/wicked-gladiator-ii-glicked-box-office-c1fb55f5831a1af3984185dcea0cd4b5).
 
 ## Requirements
 - Python 3.8
