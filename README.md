@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launching 23 Starlink satellites from Florida early Nov. 25**
+**Senators took down one Trump Cabinet pick. But the fight over their authority is just beginning**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25).
+You can read more about it [here](https://apnews.com/article/trump-cabinet-senate-republicans-cee5cddaa714b8874db05356c6af2a04).
 
 ## Requirements
 - Python 3.8
