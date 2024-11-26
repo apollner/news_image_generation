@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Yellowstone’: This Season’s Most Shocking Drama? Watching Creator Taylor Sheridan Tear Down Kevin Costner’s Legacy**
+**Earth's rotation has tilted 31.5 inches, and humans are 100% to blame**
 
-You can read more about it [here](https://variety.com/2024/tv/news/yellowstone-kevin-costner-john-dutton-mocked-death-1236221991/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS0Vrdm9xRktpakJycjlhNXZQa2tnXzlFUEpueUNqQl9NTmc3VmNfRV9Pc2t0UHhlVjdNbk92OFFLUG9GTUlSTlhQQ2hER1Q4a0NyOXRlT1ljZ2FpNVgyRGFCM0M4VHZjVG1GLVE2ODNCZ1VvVGM4RXhocEhzYmttSG1pZ1dIM1Nv?oc=5).
 
 ## Requirements
 - Python 3.8
