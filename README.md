@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scott Bessent Sees a Coming ‘Global Economic Reordering.’ He Wants to Be Part of It.**
+**[Removed]**
 
-You can read more about it [here](https://www.wsj.com/economy/scott-bessent-sees-a-coming-global-economic-reordering-he-wants-to-be-part-of-it-533d6e71).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
