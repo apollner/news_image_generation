@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Matt Gaetz joins Cameo – and is charging people hundreds for pep talks**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.sky.com/story/matt-gaetz-joins-cameo-and-is-charging-people-hundreds-for-pep-talks-13260407).
 
 ## Requirements
 - Python 3.8
