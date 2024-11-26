@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Father of missing Hawaii woman Hannah Kobayashi found dead in LA**
+**Nvidia’s new AI audio model can synthesize sounds that have never existed**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/hannah-kobayashi-father-found-dead-19941244.php).
+You can read more about it [here](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/).
 
 ## Requirements
 - Python 3.8
