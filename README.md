@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump lawyers investigate allegations that top aide sought financial gain from influence with president-elect, sources say**
+**NFL Week 12, Sorting the Sunday Pile: Saquon Barkley's MVP case, Bo Nix surges, Niners in big trouble**
 
-You can read more about it [here](https://www.cnn.com/2024/11/25/politics/trump-lawyers-investigate-allegations-boris-epshteyn-financial-gain/index.html).
+You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-sorting-the-sunday-pile-saquon-barkleys-mvp-case-bo-nix-surges-niners-in-big-trouble/).
 
 ## Requirements
 - Python 3.8
