@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagles vs. Rams Player Prop for Sunday Night Football: Kobie Turner Tackles Total**
+**Ceasefire deal between Israel and Hezbollah is ‘very close,’ regional source says, as Lebanon death toll climbs**
 
-You can read more about it [here](https://www.actionnetwork.com/nfl/eagles-vs-rams-player-prop-for-sunday-night-football-kobie-turner-tackles-total).
+You can read more about it [here](https://www.cnn.com/2024/11/24/middleeast/israel-hezbollah-ceasefire-close-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
