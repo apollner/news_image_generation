@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wicked’ and ‘Gladiator’ make gravity-defying theater debuts**
+**Bird flu detected in raw milk sold at California store**
 
-You can read more about it [here](https://apnews.com/article/wicked-gladiator-ii-glicked-box-office-c1fb55f5831a1af3984185dcea0cd4b5).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/25/bird-flu-virus-h5n1-milk/).
 
 ## Requirements
 - Python 3.8
