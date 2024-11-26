@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This is the new progressive strategy for warring with Trump**
+**Alec Baldwin Doesn't Want to See 'Rust,' but Hopes Movie Gets Released**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/25/progressives-against-trump-00191392).
+You can read more about it [here](https://variety.com/2024/film/global/alec-baldwin-rust-final-cut-release-interview-1236222385/).
 
 ## Requirements
 - Python 3.8
