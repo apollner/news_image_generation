@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TCL’s First Projector Seems to Be Priced Just Right for Outdoor Hijinx**
+**Trump lawyers investigate allegations that top aide sought financial gain from influence with president-elect, sources say**
 
-You can read more about it [here](https://gizmodo.com/tcls-first-projector-seems-to-be-priced-just-right-for-outdoor-hijinx-2000529571).
+You can read more about it [here](https://www.cnn.com/2024/11/25/politics/trump-lawyers-investigate-allegations-boris-epshteyn-financial-gain/index.html).
 
 ## Requirements
 - Python 3.8
