@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu detected in raw milk sold at California store**
+**SpaceX launching 23 Starlink satellites from Florida early Nov. 25**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/25/bird-flu-virus-h5n1-milk/).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-23-starlink-satellites-from-florida-early-nov-25).
 
 ## Requirements
 - Python 3.8
