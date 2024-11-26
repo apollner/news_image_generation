@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Earth's rotation has tilted 31.5 inches, and humans are 100% to blame**
+**Bird flu detected in raw milk sold at California store**
 
-You can read more about it [here](https://www.earth.com/news/our-everyday-water-use-is-literally-tilting-the-earth/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/25/bird-flu-virus-h5n1-milk/).
 
 ## Requirements
 - Python 3.8
