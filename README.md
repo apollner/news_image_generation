@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Eagles vs. Rams Player Prop for Sunday Night Football: Kobie Turner Tackles Total**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.actionnetwork.com/nfl/eagles-vs-rams-player-prop-for-sunday-night-football-kobie-turner-tackles-total).
 
 ## Requirements
 - Python 3.8
