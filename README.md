@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Special counsel Jack Smith moves to drop Trump election case citing 'categorical' DOJ policy**
+**Alec Baldwin Doesn't Want to See 'Rust,' but Hopes Movie Gets Released**
 
-You can read more about it [here](https://abcnews.go.com/US/special-counsel-jack-smith-moves-dismiss-election-interference/story?id\\u003d116207758).
+You can read more about it [here](https://variety.com/2024/film/global/alec-baldwin-rust-final-cut-release-interview-1236222385/).
 
 ## Requirements
 - Python 3.8
