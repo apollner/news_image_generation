@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 12, Sorting the Sunday Pile: Saquon Barkley's MVP case, Bo Nix surges, Niners in big trouble**
+**The Menendez brothers are set to appear in court for the first time in 28 years**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-week-12-sorting-the-sunday-pile-saquon-barkleys-mvp-case-bo-nix-surges-niners-in-big-trouble/).
+You can read more about it [here](https://www.cnn.com/2024/11/25/us/erik-lyle-menendez-brothers-status-hearing/index.html).
 
 ## Requirements
 - Python 3.8
