@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cowboys' Jerry Jones teases potential contract extension for Mike McCarthy: He's 'been there and done that'**
+**Jalen Brunson’s career-high in assists leads Knicks to tying franchise mark**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/cowboys-jerry-jones-teases-potential-contract-extension-for-mike-mccarthy-hes-been-there-and-done-that/).
+You can read more about it [here](https://nypost.com/2024/11/26/sports/jalen-brunsons-career-high-in-assists-leads-knicks-to-tying-franchise-mark/).
 
 ## Requirements
 - Python 3.8
