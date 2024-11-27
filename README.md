@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Keira Knightley Rules Out Franchises After Experience With ‘Pirates Of The Caribbean’: “I Was Taken Down Publicly”**
+**[Removed]**
 
-You can read more about it [here](http://deadline.com/2024/11/keira-knightley-pirates-of-the-caribbean-franchise-ruled-out-1236187567/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
