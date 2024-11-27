@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New hearing ordered on The Onion’s bid for Alex Jones’ Infowars**
+**Vaping impacts blood vessels & oxygen, new study says**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/25/onion-alex-jones-infowars-hearing-00191616).
+You can read more about it [here](https://wset.com/news/nation-world/vaping-impacts-blood-vessels-oxygen-new-study-says-nicotine-radiological-society-of-north-america-breathing-ecigarette-health-long-term-effects-fda).
 
 ## Requirements
 - Python 3.8
