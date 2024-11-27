@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake Accuses UMG & Spotify of Scheme To ‘Artificially Inflate’ Kendrick Lamar’s ‘Not Like Us’**
+**Memphis stuns No. 2 UConn at Maui Invitational after late technical on Dan Hurley, who blamed loss on 'sh***y calls'**
 
-You can read more about it [here](http://www.billboard.com/pro/drake-umg-spotify-schemed-boost-kendrick-not-like-us/).
+You can read more about it [here](https://sports.yahoo.com/memphis-stuns-no-2-uconn-at-maui-invitational-after-late-technical-on-dan-hurley-who-blamed-loss-on-shy-calls-221931919.html).
 
 ## Requirements
 - Python 3.8
