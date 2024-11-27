@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Carolina fires Mack Brown a day after he said he planned to be back in 2025**
+**[Removed]**
 
-You can read more about it [here](https://sports.yahoo.com/north-carolina-fires-mack-brown-a-day-after-he-said-he-planned-to-be-back-in-2025-153030561.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
