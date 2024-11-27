@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dollar climbs, stocks retreat after Trump vows tariffs**
+**New hearing ordered on The Onion’s bid for Alex Jones’ Infowars**
 
-You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-11-26/).
+You can read more about it [here](https://www.politico.com/news/2024/11/25/onion-alex-jones-infowars-hearing-00191616).
 
 ## Requirements
 - Python 3.8
