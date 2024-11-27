@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7.4 million Americans could gain Medicare or Medicaid coverage for anti-obesity drugs under Biden proposal**
+**How the Buffalo Bills can clinch the AFC East in Week 13 | 2024**
 
-You can read more about it [here](https://www.cnn.com/2024/11/26/politics/anti-obesity-drugs-medicare-medicaid-biden/index.html).
+You can read more about it [here](https://www.buffalobills.com/news/how-the-buffalo-bills-can-clinch-the-afc-east-in-week-13-2024).
 
 ## Requirements
 - Python 3.8
