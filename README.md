@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**22 rescuers recover body of 44-year-old hiker after 'significant fall in icy terrain'**
+**Lebanon ceasefire: Israeli cabinet to discuss Hezbollah deal**
 
-You can read more about it [here](https://abcnews.go.com/US/22-rescuers-recover-body-44-year-hiker-after/story?id\\u003d116225525).
+You can read more about it [here](https://www.bbc.com/news/articles/c93qe2v1n3eo).
 
 ## Requirements
 - Python 3.8
