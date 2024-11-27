@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lebanon ceasefire: Israeli cabinet to discuss Hezbollah deal**
+**California’s Newsom Sets Himself Up as a Foil to Musk and Trump**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c93qe2v1n3eo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZWpoVGg1OVhULTVJTHE4bWRheElwdU1Sbnpxa1E4ZGV0S1cxM3U3YVhHN1lhOU95ak5GQjN0S2xGYk16WTZNZHdQU0hjcHV2b0lNWHNwajNPc0szTkpudmY0UXhET21vS25iSWxzOWhWbzhqdDM1SjBwWFk0MjRwVlYyclpTbThuRjhkelpWSFN2bjFYOHNNV014djVraFhINWdTRGc3cmg1dDNic2ZtMzdNUFFnUEphU0c3ZQ?oc=5).
 
 ## Requirements
 - Python 3.8
