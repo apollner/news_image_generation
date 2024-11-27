@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World’s oldest man, John Tinniswood, dies aged 112**
+**Horoscope Today LIVE Updates on November 26, 2024 : Tarot predictions during the last Mercury retrograde of 2024 for each zodiac sign**
 
-You can read more about it [here](https://www.cnn.com/2024/11/26/uk/oldest-man-john-tinniswood-death-scli-intl/index.html).
+You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-live-updates-november-26-2024-101732563018102.html).
 
 ## Requirements
 - Python 3.8
