@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Romania’s far-right, pro-Russian lurch spells big trouble for EU and NATO**
+**International Emmys 2024: ‘Drops of God,’ ‘División Palermo’ and Timothy Spall Among Top Winners**
 
-You can read more about it [here](https://www.politico.eu/article/could-romania-break-eu-and-nato-elections-russia-influence-moldova-georgia-calin-georgescu/).
+You can read more about it [here](https://variety.com/2024/tv/news/international-emmys-2024-winners-1236223340/).
 
 ## Requirements
 - Python 3.8
