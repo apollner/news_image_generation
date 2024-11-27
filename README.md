@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel carries out airstrikes in Beirut ahead of anticipated ceasefire deal**
+**World’s oldest man, John Tinniswood, dies aged 112**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israel-poised-approve-ceasefire-with-hezbollah-israeli-official-says-2024-11-26/).
+You can read more about it [here](https://www.cnn.com/2024/11/26/uk/oldest-man-john-tinniswood-death-scli-intl/index.html).
 
 ## Requirements
 - Python 3.8
