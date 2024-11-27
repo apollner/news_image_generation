@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope Today LIVE Updates on November 26, 2024 : Tarot predictions during the last Mercury retrograde of 2024 for each zodiac sign**
+**Laos hostel staff detained after suspected methanol deaths**
 
-You can read more about it [here](https://www.hindustantimes.com/astrology/horoscope/horoscope-today-live-updates-november-26-2024-101732563018102.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cdj34v71zlyo).
 
 ## Requirements
 - Python 3.8
