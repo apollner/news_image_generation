@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vaping impacts blood vessels & oxygen, new study says**
+**Transgender volleyball controversy: Judge rules San Jose State women’s volleyball player eligible to play in conference tournament**
 
-You can read more about it [here](https://wset.com/news/nation-world/vaping-impacts-blood-vessels-oxygen-new-study-says-nicotine-radiological-society-of-north-america-breathing-ecigarette-health-long-term-effects-fda).
+You can read more about it [here](https://sports.yahoo.com/transgender-volleyball-controversy-judge-rules-san-jose-state-womens-volleyball-player-eligible-to-play-in-conference-tournament-004235078.html).
 
 ## Requirements
 - Python 3.8
