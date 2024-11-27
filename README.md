@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**International Emmys 2024: ‘Drops of God,’ ‘División Palermo’ and Timothy Spall Among Top Winners**
+**CNBC Daily Open: Investors endorse Trump’s Treasury secretary pick**
 
-You can read more about it [here](https://variety.com/2024/tv/news/international-emmys-2024-winners-1236223340/).
+You can read more about it [here](https://www.cnbc.com/2024/11/26/cnbc-daily-open-investors-endorse-trumps-treasury-secretary-pick.html).
 
 ## Requirements
 - Python 3.8
