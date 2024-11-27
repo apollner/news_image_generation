@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Romania’s far-right, pro-Russian lurch spells big trouble for EU and NATO**
+**22 rescuers recover body of 44-year-old hiker after 'significant fall in icy terrain'**
 
-You can read more about it [here](https://www.politico.eu/article/could-romania-break-eu-and-nato-elections-russia-influence-moldova-georgia-calin-georgescu/).
+You can read more about it [here](https://abcnews.go.com/US/22-rescuers-recover-body-44-year-hiker-after/story?id\\u003d116225525).
 
 ## Requirements
 - Python 3.8
