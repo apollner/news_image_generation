@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Memphis stuns No. 2 UConn at Maui Invitational after late technical on Dan Hurley, who blamed loss on 'sh***y calls'**
+**British man captured by Russian forces while fighting for Ukraine in Kursk region, state media says**
 
-You can read more about it [here](https://sports.yahoo.com/memphis-stuns-no-2-uconn-at-maui-invitational-after-late-technical-on-dan-hurley-who-blamed-loss-on-shy-calls-221931919.html).
+You can read more about it [here](https://www.cnn.com/2024/11/25/europe/british-man-captured-kursk-ukraine-gbr-intl/index.html).
 
 ## Requirements
 - Python 3.8
