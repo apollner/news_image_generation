@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Transgender volleyball controversy: Judge rules San Jose State women’s volleyball player eligible to play in conference tournament**
+**Astronauts had to shut down a Russian space station module due to ‘unusual odor’ from spacecraft**
 
-You can read more about it [here](https://sports.yahoo.com/transgender-volleyball-controversy-judge-rules-san-jose-state-womens-volleyball-player-eligible-to-play-in-conference-tournament-004235078.html).
+You can read more about it [here](https://www.cnn.com/2024/11/25/science/astronauts-space-station-odor-russian-module/index.html).
 
 ## Requirements
 - Python 3.8
