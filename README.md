@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Remarkable global progress': HIV cases and deaths declining**
+**Keira Knightley Rules Out Franchises After Experience With ‘Pirates Of The Caribbean’: “I Was Taken Down Publicly”**
 
-You can read more about it [here](https://www.yahoo.com/news/remarkable-global-progress-hiv-cases-010704622.html).
+You can read more about it [here](http://deadline.com/2024/11/keira-knightley-pirates-of-the-caribbean-franchise-ruled-out-1236187567/).
 
 ## Requirements
 - Python 3.8
