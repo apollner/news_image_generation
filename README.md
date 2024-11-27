@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Netanyahu recommends approval of ceasefire deal between Israel and Hezbollah**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/International/israel-hezbollah-reach-cease-fire-agreement/story?id\\u003d116186333).
 
 ## Requirements
 - Python 3.8
