@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russia advances in Ukraine at fastest monthly pace since start of war, analysts say**
+**Stock futures flat after Dow closes at another record: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/europe/russia-advances-ukraine-fast-pace-moving-into-kurakhove-analysts-say-2024-11-26/).
+You can read more about it [here](https://www.cnbc.com/2024/11/25/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
