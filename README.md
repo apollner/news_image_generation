@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drake Files Second Action Against UMG, Alleging Defamation Over Kendrick Lamar’s ‘False’ Song**
+**North Carolina fires Mack Brown a day after he said he planned to be back in 2025**
 
-You can read more about it [here](http://www.billboard.com/pro/drake-second-legal-action-umg-iheart-pay-for-play-defamation/).
+You can read more about it [here](https://sports.yahoo.com/north-carolina-fires-mack-brown-a-day-after-he-said-he-planned-to-be-back-in-2025-153030561.html).
 
 ## Requirements
 - Python 3.8
