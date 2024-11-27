@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Romania’s far-right, pro-Russian lurch spells big trouble for EU and NATO**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.politico.eu/article/could-romania-break-eu-and-nato-elections-russia-influence-moldova-georgia-calin-georgescu/).
 
 ## Requirements
 - Python 3.8
