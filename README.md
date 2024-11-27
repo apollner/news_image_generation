@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fugitive on FBI's Most Wanted Terrorists list arrested in U.K.**
+**North Carolina fires Mack Brown a day after he said he planned to be back in 2025**
 
-You can read more about it [here](https://www.cbsnews.com/news/fbi-most-wanted-terrorists-arrested-daniel-andreas-san-diego/).
+You can read more about it [here](https://sports.yahoo.com/north-carolina-fires-mack-brown-a-day-after-he-said-he-planned-to-be-back-in-2025-153030561.html).
 
 ## Requirements
 - Python 3.8
