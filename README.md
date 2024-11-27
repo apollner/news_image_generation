@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Laos hostel staff detained after suspected methanol deaths**
+**Drake Files Second Action Against UMG, Alleging Defamation Over Kendrick Lamar’s ‘False’ Song**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cdj34v71zlyo).
+You can read more about it [here](http://www.billboard.com/pro/drake-second-legal-action-umg-iheart-pay-for-play-defamation/).
 
 ## Requirements
 - Python 3.8
