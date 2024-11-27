@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jalen Brunson’s career-high in assists leads Knicks to tying franchise mark**
+**Thanksgiving Winter Storms Forecasted Across US—Here’s Where Travel Could Be Disrupted**
 
-You can read more about it [here](https://nypost.com/2024/11/26/sports/jalen-brunsons-career-high-in-assists-leads-knicks-to-tying-franchise-mark/).
+You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2024/11/26/thanksgiving-winter-storms-forecasted-across-us-heres-where-travel-could-be-disrupted/).
 
 ## Requirements
 - Python 3.8
