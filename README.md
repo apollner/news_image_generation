@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures flat after Dow closes at another record: Live updates**
+**CNBC Daily Open: Investors endorse Trump’s Treasury secretary pick**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/25/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.cnbc.com/2024/11/26/cnbc-daily-open-investors-endorse-trumps-treasury-secretary-pick.html).
 
 ## Requirements
 - Python 3.8
