@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thanksgiving Winter Storms Forecasted Across US—Here’s Where Travel Could Be Disrupted**
+**Israel carries out airstrikes in Beirut ahead of anticipated ceasefire deal**
 
-You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2024/11/26/thanksgiving-winter-storms-forecasted-across-us-heres-where-travel-could-be-disrupted/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israel-poised-approve-ceasefire-with-hezbollah-israeli-official-says-2024-11-26/).
 
 ## Requirements
 - Python 3.8
