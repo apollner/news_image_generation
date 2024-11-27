@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Juan Soto Has Reportedly Received Offers From Five Teams in Free Agency**
+**Keira Knightley Rules Out Franchises After Experience With ‘Pirates Of The Caribbean’: “I Was Taken Down Publicly”**
 
-You can read more about it [here](https://www.si.com/mlb/juan-soto-has-reportedly-received-offers-from-five-teams-in-free-agency).
+You can read more about it [here](http://deadline.com/2024/11/keira-knightley-pirates-of-the-caribbean-franchise-ruled-out-1236187567/).
 
 ## Requirements
 - Python 3.8
