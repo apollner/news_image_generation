@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu virus detected in raw milk in California**
+**Vaping impacts blood vessels & oxygen, new study says**
 
-You can read more about it [here](https://www.cnn.com/2024/11/25/health/bird-flu-california-raw-milk/index.html).
+You can read more about it [here](https://wset.com/news/nation-world/vaping-impacts-blood-vessels-oxygen-new-study-says-nicotine-radiological-society-of-north-america-breathing-ecigarette-health-long-term-effects-fda).
 
 ## Requirements
 - Python 3.8
