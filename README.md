@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**British man captured by Russian forces while fighting for Ukraine in Kursk region, state media says**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/11/25/europe/british-man-captured-kursk-ukraine-gbr-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
