@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How the Buffalo Bills can clinch the AFC East in Week 13 | 2024**
+**Netanyahu recommends approval of ceasefire deal between Israel and Hezbollah**
 
-You can read more about it [here](https://www.buffalobills.com/news/how-the-buffalo-bills-can-clinch-the-afc-east-in-week-13-2024).
+You can read more about it [here](https://abcnews.go.com/International/israel-hezbollah-reach-cease-fire-agreement/story?id\\u003d116186333).
 
 ## Requirements
 - Python 3.8
