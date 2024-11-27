@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNBC Daily Open: Investors endorse Trump’s Treasury secretary pick**
+**Russia advances in Ukraine at fastest monthly pace since start of war, analysts say**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/26/cnbc-daily-open-investors-endorse-trumps-treasury-secretary-pick.html).
+You can read more about it [here](https://www.reuters.com/world/europe/russia-advances-ukraine-fast-pace-moving-into-kurakhove-analysts-say-2024-11-26/).
 
 ## Requirements
 - Python 3.8
