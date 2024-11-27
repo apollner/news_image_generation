@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Ravens-Chargers on 'Monday Night Football': What We Learned from Baltimore's 30-23 win**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/ravens-chargers-on-monday-night-football-what-we-learned-from-baltimore-s-30-23-win).
 
 ## Requirements
 - Python 3.8
