@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vaping impacts blood vessels & oxygen, new study says**
+**Dollar climbs, stocks retreat after Trump vows tariffs**
 
-You can read more about it [here](https://wset.com/news/nation-world/vaping-impacts-blood-vessels-oxygen-new-study-says-nicotine-radiological-society-of-north-america-breathing-ecigarette-health-long-term-effects-fda).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-11-26/).
 
 ## Requirements
 - Python 3.8
