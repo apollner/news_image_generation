@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens-Chargers on 'Monday Night Football': What We Learned from Baltimore's 30-23 win**
+**Bird flu virus detected in raw milk in California**
 
-You can read more about it [here](https://www.nfl.com/news/ravens-chargers-on-monday-night-football-what-we-learned-from-baltimore-s-30-23-win).
+You can read more about it [here](https://www.cnn.com/2024/11/25/health/bird-flu-california-raw-milk/index.html).
 
 ## Requirements
 - Python 3.8
