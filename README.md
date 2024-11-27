@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia’s new AI audio model can synthesize sounds that have never existed**
+**Drake Accuses UMG & Spotify of Scheme To ‘Artificially Inflate’ Kendrick Lamar’s ‘Not Like Us’**
 
-You can read more about it [here](https://arstechnica.com/ai/2024/11/nvidias-new-ai-audio-model-can-synthesize-sounds-that-have-never-existed/).
+You can read more about it [here](http://www.billboard.com/pro/drake-umg-spotify-schemed-boost-kendrick-not-like-us/).
 
 ## Requirements
 - Python 3.8
