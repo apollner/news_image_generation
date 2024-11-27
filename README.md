@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu recommends approval of ceasefire deal between Israel and Hezbollah**
+**7.4 million Americans could gain Medicare or Medicaid coverage for anti-obesity drugs under Biden proposal**
 
-You can read more about it [here](https://abcnews.go.com/International/israel-hezbollah-reach-cease-fire-agreement/story?id\\u003d116186333).
+You can read more about it [here](https://www.cnn.com/2024/11/26/politics/anti-obesity-drugs-medicare-medicaid-biden/index.html).
 
 ## Requirements
 - Python 3.8
