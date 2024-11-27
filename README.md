@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNBC Daily Open: Investors endorse Trump’s Treasury secretary pick**
+**Romania’s far-right, pro-Russian lurch spells big trouble for EU and NATO**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/26/cnbc-daily-open-investors-endorse-trumps-treasury-secretary-pick.html).
+You can read more about it [here](https://www.politico.eu/article/could-romania-break-eu-and-nato-elections-russia-influence-moldova-georgia-calin-georgescu/).
 
 ## Requirements
 - Python 3.8
