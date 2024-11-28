@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Source: Jones lands with Vikes after Giants exit**
+**OpenAI Shuts Down Sora Access After Artists Release Video-Generation Tool in Protest: ‘We Are Not Your PR Puppets’**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42642981/qb-daniel-jones-signing-vikings-source-says).
+You can read more about it [here](https://variety.com/2024/digital/news/openai-shuts-down-sora-artists-protest-leak-1236224878/).
 
 ## Requirements
 - Python 3.8
