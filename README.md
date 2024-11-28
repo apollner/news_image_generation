@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Northern lights may be faintly visible across parts of the US this Thanksgiving**
+**Fugees Founder Pras Michél Speaks Out While Facing 22 Years in Prison: ‘I Never Wanted to Be a Spy’**
 
-You can read more about it [here](https://abcnews.go.com/Technology/wireStory/northern-lights-faintly-visible-parts-us-thanksgiving-116279242).
+You can read more about it [here](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/).
 
 ## Requirements
 - Python 3.8
