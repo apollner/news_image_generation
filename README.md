@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI Shuts Down Sora Access After Artists Release Video-Generation Tool in Protest: ‘We Are Not Your PR Puppets’**
+**Stock futures are little changed as Wall Street awaits Fed's preferred inflation reading: Live updates**
 
-You can read more about it [here](https://variety.com/2024/digital/news/openai-shuts-down-sora-artists-protest-leak-1236224878/).
+You can read more about it [here](https://www.cnbc.com/2024/11/26/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
