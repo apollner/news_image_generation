@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fugees Founder Pras Michél Speaks Out While Facing 22 Years in Prison: ‘I Never Wanted to Be a Spy’**
+**Sources: O'Neil to replace Norman as LIV boss**
 
-You can read more about it [here](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/).
+You can read more about it [here](https://www.espn.com/golf/story/_/id/42644179/sources-scott-oneil-replace-greg-norman-liv-ceo-commissioner).
 
 ## Requirements
 - Python 3.8
