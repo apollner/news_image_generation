@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ransomware attack on software supplier disrupts operations for Starbucks and other retailers**
+**More Galaxy S25 Ultra leaked images show off S Pen slot and One UI 7 [Gallery]**
 
-You can read more about it [here](https://finance.yahoo.com/news/ransomware-attack-software-supplier-disrupts-204841675.html).
+You can read more about it [here](http://9to5google.com/2024/11/26/samsung-galaxy-s25-ultra-s-pen-one-ui-7-leak/).
 
 ## Requirements
 - Python 3.8
