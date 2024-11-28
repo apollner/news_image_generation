@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Travis Hunter, Shedeur Sanders will play in Colorado's bowl game as projected first-round NFL Draft picks**
+**Red Sox pushing hard for Juan Soto in rising Yankees threat**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/travis-hunter-shedeur-sanders-will-play-in-colorados-bowl-game-as-projected-first-round-nfl-draft-picks/).
+You can read more about it [here](https://nypost.com/2024/11/26/sports/red-sox-pushing-hard-for-juan-soto-in-rising-yankees-threat/).
 
 ## Requirements
 - Python 3.8
