@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff Rankings reaction: Nightmare scenario emerges for Big 12 after latest top 25 revealed**
+**Sources: Champ Dodgers strike early, add Snell**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reaction-nightmare-scenario-emerges-for-big-12-after-latest-top-25-revealed/).
+You can read more about it [here](https://www.espn.com/mlb/story/_/id/42634448/sources-dodgers-reach-deal-free-agent-blake-snell).
 
 ## Requirements
 - Python 3.8
