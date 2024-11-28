@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Imran Khan: Pakistan opposition supporters end protest after crackdown**
+**Thanksgiving Winter Storms Forecasted Across US—Here’s Where Travel Could Be Disrupted Tonight And Tomorrow**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm2md1jvrnvo).
+You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2024/11/27/thanksgiving-winter-storms-forecasted-across-us-heres-where-travel-could-be-disrupted-tonight-and-tomorrow/).
 
 ## Requirements
 - Python 3.8
