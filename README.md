@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration pushes anti-obesity drug pressure to Trump**
+**Source: Jones lands with Vikes after Giants exit**
 
-You can read more about it [here](https://www.axios.com/2024/11/27/biden-trump-anti-obesity-drug-medicare).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42642981/qb-daniel-jones-signing-vikings-source-says).
 
 ## Requirements
 - Python 3.8
