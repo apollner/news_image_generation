@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Quick recap: Jayhawks hold on for dear life, emerge victorious over Duke 75-72**
+**‘Dancing With The Stars’ Season 33 Finale Recap: Who Wins The Mirrorball Trophy?**
 
-You can read more about it [here](https://www2.kusports.com/sports/college/basketball-men/2024/nov/26/quick-recap-jayhawks-hold-on-for-dear-life-emerge-victorious-over-duke-75-72/).
+You can read more about it [here](http://deadline.com/2024/11/dancing-with-the-stars-season-33-finale-recap-who-wins-1236188450/).
 
 ## Requirements
 - Python 3.8
