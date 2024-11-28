@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. okays organ transplants between people with HIV, expanding donor pool**
+**Digestive contents and food webs record the advent of dinosaur supremacy**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/11/27/hiv-positive-organ-transplant/).
+You can read more about it [here](https://www.nature.com/articles/s41586-024-08265-4).
 
 ## Requirements
 - Python 3.8
