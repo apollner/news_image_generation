@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dancing With The Stars’ Season 33 Finale Recap: Who Wins The Mirrorball Trophy?**
+**OpenAI hits pause on video model Sora after artists leak access in protest**
 
-You can read more about it [here](http://deadline.com/2024/11/dancing-with-the-stars-season-33-finale-recap-who-wins-1236188450/).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/).
 
 ## Requirements
 - Python 3.8
