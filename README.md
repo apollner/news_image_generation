@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Marilyn Manson Drops Defamation Lawsuit Against Evan Rachel Wood, Will Pay Her $327,000 Legal Fees**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://variety.com/2024/music/news/marilyn-manson-drops-lawsuit-evan-rachel-wood-legal-fees-1236224025/).
 
 ## Requirements
 - Python 3.8
