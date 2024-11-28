@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Republicans push plans to dramatically expand education vouchers — despite voter resistance.**
+**Biden administration pushes anti-obesity drug pressure to Trump**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/27/republican-school-voucher-program-expansion-voters-00191598).
+You can read more about it [here](https://www.axios.com/2024/11/27/biden-trump-anti-obesity-drug-medicare).
 
 ## Requirements
 - Python 3.8
