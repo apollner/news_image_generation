@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Publicity Wars: R&CPMK Accuses Ex-CEO of Stealing Clients and Employees to Launch Rival Firm**
+**Northern lights may be faintly visible across parts of the US this Thanksgiving**
 
-You can read more about it [here](https://variety.com/2024/biz/news/rcpmk-sues-ceo-stealing-clients-2pm-sharp-1236223865/).
+You can read more about it [here](https://abcnews.go.com/Technology/wireStory/northern-lights-faintly-visible-parts-us-thanksgiving-116279242).
 
 ## Requirements
 - Python 3.8
