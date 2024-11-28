@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Champ Dodgers strike early, add Snell**
+**'Airplane!' filmmaker Jim Abrahams, a Shorewood High alum, has died**
 
-You can read more about it [here](https://www.espn.com/mlb/story/_/id/42634448/sources-dodgers-reach-deal-free-agent-blake-snell).
+You can read more about it [here](https://www.jsonline.com/story/entertainment/movies/2024/11/26/airplane-filmmaker-jim-abrahams-shorewood-obituary/76591613007/).
 
 ## Requirements
 - Python 3.8
