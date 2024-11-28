@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Stock market today: Wall Street hits records despite tariff talk**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/stock-markets-rates-tariffs-inflation-932f970544b216da249e33d8c0491ac8).
 
 ## Requirements
 - Python 3.8
