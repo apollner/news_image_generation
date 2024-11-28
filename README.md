@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Netanyahu recommends approval of ceasefire deal between Israel and Hezbollah**
+**Travis Hunter, Shedeur Sanders will play in Colorado's bowl game as projected first-round NFL Draft picks**
 
-You can read more about it [here](https://abcnews.go.com/International/israel-hezbollah-reach-cease-fire-agreement/story?id\\u003d116186333).
+You can read more about it [here](https://www.cbssports.com/college-football/news/travis-hunter-shedeur-sanders-will-play-in-colorados-bowl-game-as-projected-first-round-nfl-draft-picks/).
 
 ## Requirements
 - Python 3.8
