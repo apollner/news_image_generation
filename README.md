@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Said to be mulling NYC mayor run, Andrew Cuomo joins 'dream team' to defend Netanyahu**
+**[Removed]**
 
-You can read more about it [here](https://gothamist.com/news/andrew-cuomo-benjamin-netanyahu-alan-dershowitz-israel).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
