@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Airplane!' filmmaker Jim Abrahams, a Shorewood High alum, has died**
+**Trudeau says he will work with Trump amid tariff threats**
 
-You can read more about it [here](https://www.jsonline.com/story/entertainment/movies/2024/11/26/airplane-filmmaker-jim-abrahams-shorewood-obituary/76591613007/).
+You can read more about it [here](https://www.bbc.com/news/articles/cj6kj2752jlo).
 
 ## Requirements
 - Python 3.8
