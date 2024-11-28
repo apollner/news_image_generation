@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trudeau says he will work with Trump amid tariff threats**
+**Donald Trump’s tariffs on Mexico could devastate border region, Texas economists warn**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cj6kj2752jlo).
+You can read more about it [here](https://www.texastribune.org/2024/11/26/donald-trump-tariffs-texas-border-economy/).
 
 ## Requirements
 - Python 3.8
