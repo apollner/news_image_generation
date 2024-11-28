@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI hits pause on video model Sora after artists leak access in protest**
+**ICC prosecutor requests arrest warrants for the head of Myanmar’s military regime**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/11/26/openai-sora-ai-video-model-artists-protest/).
+You can read more about it [here](https://apnews.com/article/icc-myanmar-arrest-warrant-military-regime-1184ed9e6197bc4189feb8b22b9b4ee7).
 
 ## Requirements
 - Python 3.8
