@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police officer who Tasered 95-year-old woman found guilty of manslaughter**
+**U.S. okays organ transplants between people with HIV, expanding donor pool**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/27/police-taser-kristian-white-clare-nowland/).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/11/27/hiv-positive-organ-transplant/).
 
 ## Requirements
 - Python 3.8
