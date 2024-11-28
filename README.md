@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock market today: Wall Street hits records despite tariff talk**
+**Quick recap: Jayhawks hold on for dear life, emerge victorious over Duke 75-72**
 
-You can read more about it [here](https://apnews.com/article/stock-markets-rates-tariffs-inflation-932f970544b216da249e33d8c0491ac8).
+You can read more about it [here](https://www2.kusports.com/sports/college/basketball-men/2024/nov/26/quick-recap-jayhawks-hold-on-for-dear-life-emerge-victorious-over-duke-75-72/).
 
 ## Requirements
 - Python 3.8
