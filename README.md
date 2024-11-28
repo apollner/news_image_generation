@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI Shuts Down Sora Access After Artists Release Video-Generation Tool in Protest: ‘We Are Not Your PR Puppets’**
+**Police officer who Tasered 95-year-old woman found guilty of manslaughter**
 
-You can read more about it [here](https://variety.com/2024/digital/news/openai-shuts-down-sora-artists-protest-leak-1236224878/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/27/police-taser-kristian-white-clare-nowland/).
 
 ## Requirements
 - Python 3.8
