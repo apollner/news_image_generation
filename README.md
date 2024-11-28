@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sox pushing hard for Juan Soto in rising Yankees threat**
+**Ransomware attack on software supplier disrupts operations for Starbucks and other retailers**
 
-You can read more about it [here](https://nypost.com/2024/11/26/sports/red-sox-pushing-hard-for-juan-soto-in-rising-yankees-threat/).
+You can read more about it [here](https://finance.yahoo.com/news/ransomware-attack-software-supplier-disrupts-204841675.html).
 
 ## Requirements
 - Python 3.8
