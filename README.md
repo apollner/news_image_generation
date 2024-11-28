@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICC prosecutor requests arrest warrants for the head of Myanmar’s military regime**
+**Imran Khan: Pakistan opposition supporters end protest after crackdown**
 
-You can read more about it [here](https://apnews.com/article/icc-myanmar-arrest-warrant-military-regime-1184ed9e6197bc4189feb8b22b9b4ee7).
+You can read more about it [here](https://www.bbc.com/news/articles/cm2md1jvrnvo).
 
 ## Requirements
 - Python 3.8
