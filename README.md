@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**After delay, Trump signs agreement with Biden White House to begin formal transition handoff**
+**Nordstrom tops Wall Street’s earnings expectations, as shoppers buy more clothes and shoes**
 
-You can read more about it [here](https://apnews.com/article/trump-biden-transition-background-check-gsa-3ff94c48a8a996a2cd5399c3eda38161).
+You can read more about it [here](https://www.cnbc.com/2024/11/26/nordstrom-jwn-earnings-q4-2024-.html).
 
 ## Requirements
 - Python 3.8
