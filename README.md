@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nordstrom tops Wall Street’s earnings expectations, as shoppers buy more clothes and shoes**
+**Said to be mulling NYC mayor run, Andrew Cuomo joins 'dream team' to defend Netanyahu**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/26/nordstrom-jwn-earnings-q4-2024-.html).
+You can read more about it [here](https://gothamist.com/news/andrew-cuomo-benjamin-netanyahu-alan-dershowitz-israel).
 
 ## Requirements
 - Python 3.8
