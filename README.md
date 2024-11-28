@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump’s tariffs on Mexico could devastate border region, Texas economists warn**
+**‘Dancing With The Stars’ Season 33 Finale Recap: Who Wins The Mirrorball Trophy?**
 
-You can read more about it [here](https://www.texastribune.org/2024/11/26/donald-trump-tariffs-texas-border-economy/).
+You can read more about it [here](http://deadline.com/2024/11/dancing-with-the-stars-season-33-finale-recap-who-wins-1236188450/).
 
 ## Requirements
 - Python 3.8
