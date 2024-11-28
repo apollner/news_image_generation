@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thanksgiving Winter Storms Forecasted Across US—Here’s Where Travel Could Be Disrupted Tonight And Tomorrow**
+**OpenAI Shuts Down Sora Access After Artists Release Video-Generation Tool in Protest: ‘We Are Not Your PR Puppets’**
 
-You can read more about it [here](https://www.forbes.com/sites/maryroeloffs/2024/11/27/thanksgiving-winter-storms-forecasted-across-us-heres-where-travel-could-be-disrupted-tonight-and-tomorrow/).
+You can read more about it [here](https://variety.com/2024/digital/news/openai-shuts-down-sora-artists-protest-leak-1236224878/).
 
 ## Requirements
 - Python 3.8
