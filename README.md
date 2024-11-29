@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Young American Deaths From Cervical Cancer Fall Sharply After HPV Vaccine**
+**Putin says Russia could strike 'decision-making centres' in Kyiv**
 
-You can read more about it [here](https://www.sciencealert.com/young-american-deaths-from-cervical-cancer-fall-sharply-after-hpv-vaccine).
+You can read more about it [here](https://www.reuters.com/world/europe/putin-says-russia-could-strike-decision-making-centres-kyiv-2024-11-28/).
 
 ## Requirements
 - Python 3.8
