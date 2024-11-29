@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sean ‘Diddy’ Combs denied bail by third judge as he awaits sex trafficking trial**
+**Report: LIV Golf Closing in on Greg Norman's Successor to Lead League**
 
-You can read more about it [here](https://apnews.com/article/diddy-sean-combs-bail-sex-trafficking-26093908ff98f5bc24308a98561bfd44).
+You can read more about it [here](https://www.si.com/golf/report-liv-golf-closing-in-greg-norman-successor).
 
 ## Requirements
 - Python 3.8
