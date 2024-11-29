@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Moana 2’ Easily Toppling Thanksgiving Week Records After Scoring Massive $57.5 Million Opening Day**
+**No. 2 UConn drops third straight with 85-67 loss to Dayton in Maui Invitational finale**
 
-You can read more about it [here](https://variety.com/2024/film/news/box-office-moana-2-wednesday-thanksgiving-wicked-gladiator-2-1236225866/).
+You can read more about it [here](https://sny.tv/articles/no-2-uconn-dayton-maui-invitational-finale).
 
 ## Requirements
 - Python 3.8
