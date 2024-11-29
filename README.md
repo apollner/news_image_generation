@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Can We Get A Chee Who? ‘Moana 2’ Easily Hooking Best Thanksgiving Opening At $170M+, More Records To Be Broken; ‘Wicked’ $92M, ‘Gladiator II’ $39M+ – Box Office**
+**IDF Tells Lebanese Residents Not to Return to Villages Near Israeli Border**
 
-You can read more about it [here](http://deadline.com/2024/11/box-office-moana-2-wicked-thanksgiving-1236189131/).
+You can read more about it [here](https://www.haaretz.com/israel-news/2024-11-28/ty-article-live/idf-strikes-1-4-km-long-hezbollah-precision-missile-facility-in-lebanons-bekaa-valley/00000193-70bf-d334-a1f3-f6bf69300000).
 
 ## Requirements
 - Python 3.8
