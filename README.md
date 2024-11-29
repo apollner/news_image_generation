@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest ‘massive’ Russian aerial attack cuts power to 1 million homes in Ukraine**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-energy-infrastructure-4fd663599d47898be34aa858dcc48fdb).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
