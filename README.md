@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shares of key chip suppliers jump as U.S. reportedly considers toned-down China curbs**
+**Asian stocks subdued, dollar drifts ahead of US Thanksgiving**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/28/shares-of-chip-suppliers-jump-as-us-considers-toned-down-china-curbs.html).
+You can read more about it [here](https://www.reuters.com/markets/global-markets-wrapup-1-2024-11-28/).
 
 ## Requirements
 - Python 3.8
