@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Federal Employees Targeted By Elon Musk Face Barrage of Harassment**
+**Sean ‘Diddy’ Combs denied bail by third judge as he awaits sex trafficking trial**
 
-You can read more about it [here](http://www.rollingstone.com/politics/politics-news/elon-musk-targets-federal-employees-harassment-doge-1235183987/).
+You can read more about it [here](https://apnews.com/article/diddy-sean-combs-bail-sex-trafficking-26093908ff98f5bc24308a98561bfd44).
 
 ## Requirements
 - Python 3.8
