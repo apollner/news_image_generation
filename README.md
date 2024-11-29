@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model**
+**The drone rangers: Trump world declares war on fighter pilots**
 
-You can read more about it [here](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/).
+You can read more about it [here](https://www.politico.com/news/2024/11/27/trump-drones-00191950).
 
 ## Requirements
 - Python 3.8
