@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin says Russia could strike 'decision-making centres' in Kyiv**
+**Israel says ceasefire with Hezbollah violated, fires on south Lebanon**
 
-You can read more about it [here](https://www.reuters.com/world/europe/putin-says-russia-could-strike-decision-making-centres-kyiv-2024-11-28/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVJvcUg0TWVGVy00MHhjTVZhNDdGdVBaRTIyQUNuRmhfZkx4SlJBZmp5WjVaX2ltRk5XYmJzcFB3Y3lfdUczWW5rVC16M041NG44Qm95R3pnWXVFMFZNVFZ4Y3d3N05nMzNIQ2xvYmdvMGJTbFA1dXFQaE9wUS00dml6aHRRSmdsUXlMOVhiNzRodlNYZWcxTXl6VDM0aUctUTRQcE1xSFlWeWxNR1NGR2NJTnJQNXJBQ091WXRRRTg5WlFNeTluVnZ6OA?oc=5).
 
 ## Requirements
 - Python 3.8
