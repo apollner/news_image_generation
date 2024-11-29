@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**IDF Tells Lebanese Residents Not to Return to Villages Near Israeli Border**
+**Mexico warns Trump tariffs would kill 400,000 US jobs, threatens retaliation**
 
-You can read more about it [here](https://www.haaretz.com/israel-news/2024-11-28/ty-article-live/idf-strikes-1-4-km-long-hezbollah-precision-missile-facility-in-lebanons-bekaa-valley/00000193-70bf-d334-a1f3-f6bf69300000).
+You can read more about it [here](https://www.reuters.com/markets/mexico-warns-trumps-tariff-would-kill-400000-us-jobs-2024-11-27/).
 
 ## Requirements
 - Python 3.8
