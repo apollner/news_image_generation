@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Get ready for the Maui Bump: Auburn is the best team and Johni Broome is the best player in college basketball**
+**Jim Abrahams, parody master of ‘Airplane!’ and ‘Naked Gun,’ dies at 80**
 
-You can read more about it [here](https://www.cbssports.com/college-basketball/news/get-ready-for-the-maui-bump-auburn-is-the-best-team-and-johni-broome-is-the-best-player-in-college-basketball/).
+You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/11/27/jim-abrahams-airplane-naked-gun-dies/).
 
 ## Requirements
 - Python 3.8
