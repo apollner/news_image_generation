@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Emergency blackouts across Ukraine after 'massive' missile attack**
+**Get ready for the Maui Bump: Auburn is the best team and Johni Broome is the best player in college basketball**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwy15lp21l3o).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/get-ready-for-the-maui-bump-auburn-is-the-best-team-and-johni-broome-is-the-best-player-in-college-basketball/).
 
 ## Requirements
 - Python 3.8
