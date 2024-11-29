@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mexico warns Trump tariffs would kill 400,000 US jobs, threatens retaliation**
+**Mysterious Bad Odour Prompts Space Station to Seal Off Module**
 
-You can read more about it [here](https://www.reuters.com/markets/mexico-warns-trumps-tariff-would-kill-400000-us-jobs-2024-11-27/).
+You can read more about it [here](https://www.sciencealert.com/mysterious-bad-odour-prompts-space-station-to-seal-off-module).
 
 ## Requirements
 - Python 3.8
