@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What the Adani allegations highlight about India's clean energy push**
+**How does Trump envoy Keith Kellogg want to end the Russia-Ukraine war?**
 
-You can read more about it [here](https://www.reuters.com/business/energy/adani-allegations-shine-spotlight-indias-clean-energy-conundrum-2024-11-28/).
+You can read more about it [here](https://www.aljazeera.com/news/2024/11/28/how-does-trump-envoy-keith-kellogg-want-to-end-the-russia-ukraine-war).
 
 ## Requirements
 - Python 3.8
