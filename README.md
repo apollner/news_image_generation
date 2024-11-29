@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 2 UConn drops third straight with 85-67 loss to Dayton in Maui Invitational finale**
+**‘Wicked’ Movie Slapped With Green Skin Trigger Warning in U.K.**
 
-You can read more about it [here](https://sny.tv/articles/no-2-uconn-dayton-maui-invitational-finale).
+You can read more about it [here](https://www.thedailybeast.com/wicked-movie-slapped-with-green-skin-trigger-warning-in-uk/).
 
 ## Requirements
 - Python 3.8
