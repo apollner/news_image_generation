@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A social media ban for under-16s passes the Australian Senate and will soon be a world-first law**
+**Box Office: ‘Moana 2’ Easily Toppling Thanksgiving Week Records After Scoring Massive $57.5 Million Opening Day**
 
-You can read more about it [here](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056).
+You can read more about it [here](https://variety.com/2024/film/news/box-office-moana-2-wednesday-thanksgiving-wicked-gladiator-2-1236225866/).
 
 ## Requirements
 - Python 3.8
