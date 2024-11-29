@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How does Trump envoy Keith Kellogg want to end the Russia-Ukraine war?**
+**Latest ‘massive’ Russian aerial attack cuts power to 1 million homes in Ukraine**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/28/how-does-trump-envoy-keith-kellogg-want-to-end-the-russia-ukraine-war).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-energy-infrastructure-4fd663599d47898be34aa858dcc48fdb).
 
 ## Requirements
 - Python 3.8
