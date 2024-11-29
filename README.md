@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil up as Israel, Hezbollah trade accusations of ceasefire violation**
+**Russian central bank takes desperate stand to halt collapsing ruble and fierce inflation**
 
-You can read more about it [here](https://www.reuters.com/business/energy/oil-edges-lower-after-jump-us-gasoline-stocks-opec-supply-decision-focus-2024-11-28/).
+You can read more about it [here](https://fortune.com/2024/11/28/russia-ruble-central-bank-inflation/).
 
 ## Requirements
 - Python 3.8
