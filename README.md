@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US to start immediately on fresh push for Gaza ceasefire**
+**Here’s the latest Thanksgiving weather forecast, and where travel may be affected**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0j8063plvdo).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/11/27/thanksgiving-weather-forecast-winter-storm/).
 
 ## Requirements
 - Python 3.8
