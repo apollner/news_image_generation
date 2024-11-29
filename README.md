@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New Mexico man awarded $412 million payout over botched penile injections: "A national record-setting case"**
+**What the Adani allegations highlight about India's clean energy push**
 
-You can read more about it [here](https://www.cbsnews.com/news/botched-penile-injections-new-mexico-man-412-million-payout/).
+You can read more about it [here](https://www.reuters.com/business/energy/adani-allegations-shine-spotlight-indias-clean-energy-conundrum-2024-11-28/).
 
 ## Requirements
 - Python 3.8
