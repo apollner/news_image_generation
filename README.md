@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astronauts Unpack Cargo From Stinky Russian Spacecraft, Despite Troubling Odor**
+**Indian banks review Adani exposure in wake of US bribery allegations**
 
-You can read more about it [here](https://gizmodo.com/astronauts-unpack-cargo-from-stinky-russian-spacecraft-despite-troubling-odor-2000531143).
+You can read more about it [here](https://www.reuters.com/world/india/abu-dhabis-ihc-says-its-outlook-adani-group-investments-is-unchanged-2024-11-28/).
 
 ## Requirements
 - Python 3.8
