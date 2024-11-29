@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The drone rangers: Trump world declares war on fighter pilots**
+**Exclusive | Yankees up their Juan Soto bid as free-agency sweepstakes reaches new phase**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/27/trump-drones-00191950).
+You can read more about it [here](https://nypost.com/2024/11/27/sports/yankees-up-juan-soto-bid-as-sweepstakes-reaches-new-phase/).
 
 ## Requirements
 - Python 3.8
