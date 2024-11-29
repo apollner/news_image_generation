@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive | Yankees up their Juan Soto bid as free-agency sweepstakes reaches new phase**
+**No. 4 Auburn easily dispatches Memphis, 90–76, to win Maui Invitational championship**
 
-You can read more about it [here](https://nypost.com/2024/11/27/sports/yankees-up-juan-soto-bid-as-sweepstakes-reaches-new-phase/).
+You can read more about it [here](https://sports.yahoo.com/no-4-auburn-easily-dispatches-memphis-9076-to-win-maui-invitational-championship-000121811.html).
 
 ## Requirements
 - Python 3.8
