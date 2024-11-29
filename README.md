@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tampa Bay Lightning player secures hat-trick in unbelievable way**
+**New Mexico man awarded $412 million payout over botched penile injections: "A national record-setting case"**
 
-You can read more about it [here](https://www.cnn.com/2024/11/28/sport/brayden-point-hat-trick-nhl-spt-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/botched-penile-injections-new-mexico-man-412-million-payout/).
 
 ## Requirements
 - Python 3.8
