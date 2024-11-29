@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fugees Founder Pras Michél Speaks Out While Facing 22 Years in Prison: ‘I Never Wanted to Be a Spy’**
+**Can We Get A Chee Who? ‘Moana 2’ Easily Hooking Best Thanksgiving Opening At $170M+, More Records To Be Broken; ‘Wicked’ $92M, ‘Gladiator II’ $39M+ – Box Office**
 
-You can read more about it [here](https://variety.com/2024/music/news/fugees-pras-michel-conviction-legal-battle-22-years-prison-1236224041/).
+You can read more about it [here](http://deadline.com/2024/11/box-office-moana-2-wicked-thanksgiving-1236189131/).
 
 ## Requirements
 - Python 3.8
