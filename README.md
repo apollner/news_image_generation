@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious Bad Odour Prompts Space Station to Seal Off Module**
+**Emergency blackouts across Ukraine after 'massive' missile attack**
 
-You can read more about it [here](https://www.sciencealert.com/mysterious-bad-odour-prompts-space-station-to-seal-off-module).
+You can read more about it [here](https://www.bbc.com/news/articles/cwy15lp21l3o).
 
 ## Requirements
 - Python 3.8
