@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Federal Employees Targeted By Elon Musk Face Barrage of Harassment**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://www.rollingstone.com/politics/politics-news/elon-musk-targets-federal-employees-harassment-doge-1235183987/).
 
 ## Requirements
 - Python 3.8
