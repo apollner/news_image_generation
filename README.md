@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Indian banks review Adani exposure in wake of US bribery allegations**
+**A social media ban for under-16s passes the Australian Senate and will soon be a world-first law**
 
-You can read more about it [here](https://www.reuters.com/world/india/abu-dhabis-ihc-says-its-outlook-adani-group-investments-is-unchanged-2024-11-28/).
+You can read more about it [here](https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056).
 
 ## Requirements
 - Python 3.8
