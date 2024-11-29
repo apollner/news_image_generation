@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The drone rangers: Trump world declares war on fighter pilots**
+**US to start immediately on fresh push for Gaza ceasefire**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/27/trump-drones-00191950).
+You can read more about it [here](https://www.bbc.com/news/articles/c0j8063plvdo).
 
 ## Requirements
 - Python 3.8
