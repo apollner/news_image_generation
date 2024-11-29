@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Wicked’ Movie Slapped With Green Skin Trigger Warning in U.K.**
+**Canada to strengthen border after Donald Trump tariff threat**
 
-You can read more about it [here](https://www.thedailybeast.com/wicked-movie-slapped-with-green-skin-trigger-warning-in-uk/).
+You can read more about it [here](https://www.ft.com/content/7ee200fa-89a1-4058-b4cf-83a37ee6d8a9).
 
 ## Requirements
 - Python 3.8
