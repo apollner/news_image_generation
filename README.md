@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Astronauts Unpack Cargo From Stinky Russian Spacecraft, Despite Troubling Odor**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://gizmodo.com/astronauts-unpack-cargo-from-stinky-russian-spacecraft-despite-troubling-odor-2000531143).
 
 ## Requirements
 - Python 3.8
