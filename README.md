@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jim Abrahams, parody master of ‘Airplane!’ and ‘Naked Gun,’ dies at 80**
+**Young American Deaths From Cervical Cancer Fall Sharply After HPV Vaccine**
 
-You can read more about it [here](https://www.washingtonpost.com/obituaries/2024/11/27/jim-abrahams-airplane-naked-gun-dies/).
+You can read more about it [here](https://www.sciencealert.com/young-american-deaths-from-cervical-cancer-fall-sharply-after-hpv-vaccine).
 
 ## Requirements
 - Python 3.8
