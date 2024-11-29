@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: LIV Golf Closing in on Greg Norman's Successor to Lead League**
+**GOP Rep. Steel concedes in California House race**
 
-You can read more about it [here](https://www.si.com/golf/report-liv-golf-closing-in-greg-norman-successor).
+You can read more about it [here](https://thehill.com/homenews/campaign/5013206-steel-concedes-election-tran/).
 
 ## Requirements
 - Python 3.8
