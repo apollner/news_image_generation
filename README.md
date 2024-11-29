@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada to strengthen border after Donald Trump tariff threat**
+**Oil up as Israel, Hezbollah trade accusations of ceasefire violation**
 
-You can read more about it [here](https://www.ft.com/content/7ee200fa-89a1-4058-b4cf-83a37ee6d8a9).
+You can read more about it [here](https://www.reuters.com/business/energy/oil-edges-lower-after-jump-us-gasoline-stocks-opec-supply-decision-focus-2024-11-28/).
 
 ## Requirements
 - Python 3.8
