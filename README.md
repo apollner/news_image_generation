@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 4 Auburn easily dispatches Memphis, 90–76, to win Maui Invitational championship**
+**Alibaba releases an ‘open’ challenger to OpenAI’s o1 reasoning model**
 
-You can read more about it [here](https://sports.yahoo.com/no-4-auburn-easily-dispatches-memphis-9076-to-win-maui-invitational-championship-000121811.html).
+You can read more about it [here](https://techcrunch.com/2024/11/27/alibaba-releases-an-open-challenger-to-openais-o1-reasoning-model/).
 
 ## Requirements
 - Python 3.8
