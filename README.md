@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel says ceasefire with Hezbollah violated, fires on south Lebanon**
+**Tampa Bay Lightning player secures hat-trick in unbelievable way**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPUVJvcUg0TWVGVy00MHhjTVZhNDdGdVBaRTIyQUNuRmhfZkx4SlJBZmp5WjVaX2ltRk5XYmJzcFB3Y3lfdUczWW5rVC16M041NG44Qm95R3pnWXVFMFZNVFZ4Y3d3N05nMzNIQ2xvYmdvMGJTbFA1dXFQaE9wUS00dml6aHRRSmdsUXlMOVhiNzRodlNYZWcxTXl6VDM0aUctUTRQcE1xSFlWeWxNR1NGR2NJTnJQNXJBQ091WXRRRTg5WlFNeTluVnZ6OA?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/11/28/sport/brayden-point-hat-trick-nhl-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
