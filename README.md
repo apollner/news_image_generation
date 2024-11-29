@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How does Trump envoy Keith Kellogg want to end the Russia-Ukraine war?**
+**High-ranking military official in China placed under investigation, defense ministry says**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/11/28/how-does-trump-envoy-keith-kellogg-want-to-end-the-russia-ukraine-war).
+You can read more about it [here](https://apnews.com/article/china-military-official-investigation-4c38fcbf89b8ed8a31c7774ce448d6f5).
 
 ## Requirements
 - Python 3.8
