@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connecticut House representatives targeted with bomb threats**
+**Bears relieve Eberflus of duties, elevate Brown**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjw0j6y32pgo).
+You can read more about it [here](https://www.chicagobears.com/news/bears-relieve-eberflus-of-duties-elevate-brown-interim-head-coach).
 
 ## Requirements
 - Python 3.8
