@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fossils of Dinosaur Vomit and Faeces Expose How they Evolved to Dominate Earth**
+**Israel and Hezbollah trade accusations of ceasefire violations**
 
-You can read more about it [here](https://dailygalaxy.com/2024/11/fossils-of-dinosaur-vomit-and-faeces-expose-how-they-evolved-to-dominate-earth/).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-tank-fires-3-south-lebanese-towns-lebanese-security-sources-media-say-2024-11-28/).
 
 ## Requirements
 - Python 3.8
