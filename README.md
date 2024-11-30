@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Sympathetic eyes and a muscly stature’: Vito the pug wins National Dog Show**
+**Exclusive: HSBC pulling back from China credit card business after struggling to expand**
 
-You can read more about it [here](https://www.cnn.com/2024/11/29/us/national-dog-show-vito-pug-intl-scli/index.html).
+You can read more about it [here](https://www.reuters.com/business/finance/hsbc-pulling-back-china-credit-card-business-after-struggling-expand-sources-say-2024-11-29/).
 
 ## Requirements
 - Python 3.8
