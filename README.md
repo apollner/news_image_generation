@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What stores are open today? See Thanksgiving hours for Walmart, Target, Wegmans, more**
+**Chinese journalist and former Harvard fellow sentenced to 7 years**
 
-You can read more about it [here](https://www.syracuse.com/news/2024/11/what-stores-are-open-today-see-thanksgiving-hours-for-walmart-target-wegmans-more.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/29/chinese-journalist-dong-yuyu-espionage-charges/).
 
 ## Requirements
 - Python 3.8
