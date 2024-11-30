@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pro-Palestinian protesters arrested for interrupting Thanksgiving parade**
+**China court jails journalist for seven years on spy charges, family says**
 
-You can read more about it [here](https://abcnews.go.com/US/pro-palestinian-protesters-arrested-interrupting-thanksgiving-parade/story?id\\u003d116306525).
+You can read more about it [here](https://www.reuters.com/world/china/china-court-sentences-journalist-dong-yuyu-7-years-spy-charges-family-says-2024-11-29/).
 
 ## Requirements
 - Python 3.8
