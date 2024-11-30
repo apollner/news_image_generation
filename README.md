@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baby-boomer homeowners got rich from skyrocketing house prices. Now they can't find retirement housing.**
+**Drue Tranquill says the Raiders’ Brock Bowers is ‘the complete package’**
 
-You can read more about it [here](https://www.businessinsider.com/baby-boomers-housing-wealth-home-prices-housing-shortage-retirement-2024-11).
+You can read more about it [here](https://www.arrowheadpride.com/2024/11/29/24308262/chiefs-news-drue-tranquill-says-brock-bowers-is-complete-package).
 
 ## Requirements
 - Python 3.8
