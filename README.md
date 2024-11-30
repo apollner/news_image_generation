@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FP1: Leclerc leads Norris and Piastri during Qatar GP practice**
+**At least 40 dead in Gaza, medics say, as Israeli tanks pull back from camp**
 
-You can read more about it [here](https://www.formula1.com/en/latest/article/fp1-leclerc-leads-norris-and-piastri-during-qatar-gp-practice.5uEK6pEhKcutOidOqFVheE).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-tanks-retreat-central-gaza-camp-medics-say-30-killed-2024-11-29/).
 
 ## Requirements
 - Python 3.8
