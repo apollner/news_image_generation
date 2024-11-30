@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Connecticut House representatives targeted with bomb threats**
+**Republicans headed for a $4.6 trillion brawl over Trump tax cuts**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cjw0j6y32pgo).
+You can read more about it [here](https://www.politico.com/news/2024/11/29/republicans-major-fight-cost-tax-cuts-00191006).
 
 ## Requirements
 - Python 3.8
