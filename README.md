@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drue Tranquill says the Raiders’ Brock Bowers is ‘the complete package’**
+**Syria insurgents breach second largest city of Aleppo, fighters and a war monitor say**
 
-You can read more about it [here](https://www.arrowheadpride.com/2024/11/29/24308262/chiefs-news-drue-tranquill-says-brock-bowers-is-complete-package).
+You can read more about it [here](https://apnews.com/article/syria-attack-clashes-aleppo-9c07da6f83036f34d4b18a479de9d085).
 
 ## Requirements
 - Python 3.8
