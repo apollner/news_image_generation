@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel and Hezbollah trade accusations of ceasefire violations**
+**Democratic lawmakers from Connecticut report Thanksgiving bomb threats against their homes**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-tank-fires-3-south-lebanese-towns-lebanese-security-sources-media-say-2024-11-28/).
+You can read more about it [here](https://apnews.com/article/bomb-threats-democratic-lawmakers-connecticut-238ed68ed2c66601a6e0d4378715d6fe).
 
 ## Requirements
 - Python 3.8
