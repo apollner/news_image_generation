@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria insurgents breach second largest city of Aleppo, fighters and a war monitor say**
+**Europe digests inflation; oil prices rebound**
 
-You can read more about it [here](https://apnews.com/article/syria-attack-clashes-aleppo-9c07da6f83036f34d4b18a479de9d085).
+You can read more about it [here](https://www.investing.com/news/stock-market-news/european-stocks-and-oil-slip-as-investors-eye-inflation-data-opec-meeting-3746334).
 
 ## Requirements
 - Python 3.8
