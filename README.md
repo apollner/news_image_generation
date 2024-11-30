@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Democratic lawmakers from Connecticut report Thanksgiving bomb threats against their homes**
+**Hall of Fame coach Jimmy Johnson: Never seen ‘dysfunction’ like Matt Eberflus’ error vs. Lions**
 
-You can read more about it [here](https://apnews.com/article/bomb-threats-democratic-lawmakers-connecticut-238ed68ed2c66601a6e0d4378715d6fe).
+You can read more about it [here](https://chicago.suntimes.com/bears/2024/11/28/hall-of-fame-coach-jimmy-johnson-never-seen-dysfunction-like-matt-eberflus-error-vs-lions).
 
 ## Requirements
 - Python 3.8
