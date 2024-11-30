@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sources: Bears fire Eberflus after falling to 4-8**
+**Top Ukrainian MP to Merkel: Enough already**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42679835/sources-bears-fire-eberflus-sixth-straight-loss).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDI3YUtCS2tMdGJ5YUJXNGVjZDlZTUNKMW1nWC1pS0xCYllfWHRLNUxmZk9qRzRaQTNrYWkzQXA2YXhOaXVIQjljWHFTN29SS25oZUpNOFNLNHc0SV9DQ1FVRWJPY2hTbWk4ZnBUckhkclRlVUNwV3R0amlXMW1yRTBfWHl6NERpTGdHdURXMk8zSld1SnBR?oc=5).
 
 ## Requirements
 - Python 3.8
