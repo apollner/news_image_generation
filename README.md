@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon workers plan strike between Black Friday and Cyber Monday in major cities around the world**
+**‘Sympathetic eyes and a muscly stature’: Vito the pug wins National Dog Show**
 
-You can read more about it [here](https://nypost.com/2024/11/28/business/amazon-workers-plan-strike-between-black-friday-and-cyber-monday-in-major-cities-around-the-world/).
+You can read more about it [here](https://www.cnn.com/2024/11/29/us/national-dog-show-vito-pug-intl-scli/index.html).
 
 ## Requirements
 - Python 3.8
