@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hall of Fame coach Jimmy Johnson: Never seen ‘dysfunction’ like Matt Eberflus’ error vs. Lions**
+**Pro-Palestinian protesters arrested for interrupting Thanksgiving parade**
 
-You can read more about it [here](https://chicago.suntimes.com/bears/2024/11/28/hall-of-fame-coach-jimmy-johnson-never-seen-dysfunction-like-matt-eberflus-error-vs-lions).
+You can read more about it [here](https://abcnews.go.com/US/pro-palestinian-protesters-arrested-interrupting-thanksgiving-parade/story?id\\u003d116306525).
 
 ## Requirements
 - Python 3.8
