@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least 40 dead in Gaza, medics say, as Israeli tanks pull back from camp**
+**Sources: Bears fire Eberflus after falling to 4-8**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-tanks-retreat-central-gaza-camp-medics-say-30-killed-2024-11-29/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42679835/sources-bears-fire-eberflus-sixth-straight-loss).
 
 ## Requirements
 - Python 3.8
