@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California teacher dies after animal bites her inside classroom**
+**Metro Detroit shoppers rush to stores early for Black Friday deals**
 
-You can read more about it [here](https://www.sfgate.com/bayarea/article/california-teacher-bat-bite-death-19949458.php).
+You can read more about it [here](https://www.detroitnews.com/story/business/2024/11/29/metro-detroit-shoppers-flock-stores-early-black-friday-deals/76622754007/).
 
 ## Requirements
 - Python 3.8
