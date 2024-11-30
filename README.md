@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Four Democratic lawmakers targeted with threats while home for Thanksgiving**
+**Fossils of Dinosaur Vomit and Faeces Expose How they Evolved to Dominate Earth**
 
-You can read more about it [here](https://www.cnn.com/2024/11/28/politics/democratic-lawmakers-threats-thanksgiving/index.html).
+You can read more about it [here](https://dailygalaxy.com/2024/11/fossils-of-dinosaur-vomit-and-faeces-expose-how-they-evolved-to-dominate-earth/).
 
 ## Requirements
 - Python 3.8
