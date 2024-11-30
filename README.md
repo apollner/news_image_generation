@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ben Affleck Reunites With Jennifer Garner To Feed Homeless On Thanksgiving**
+**French political crisis: Everything you need to know**
 
-You can read more about it [here](http://deadline.com/2024/11/ben-affleck-reunites-with-jennifer-garner-to-feed-homeless-on-thanksgiving-1236189721/).
+You can read more about it [here](https://www.politico.eu/article/everything-you-need-to-know-france-political-crisis-that-could-plunge-eurozone-marine-le-pen-michel-barnier/).
 
 ## Requirements
 - Python 3.8
