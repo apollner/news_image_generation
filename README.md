@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: HSBC pulling back from China credit card business after struggling to expand**
+**Ben Affleck Reunites With Jennifer Garner To Feed Homeless On Thanksgiving**
 
-You can read more about it [here](https://www.reuters.com/business/finance/hsbc-pulling-back-china-credit-card-business-after-struggling-expand-sources-say-2024-11-29/).
+You can read more about it [here](http://deadline.com/2024/11/ben-affleck-reunites-with-jennifer-garner-to-feed-homeless-on-thanksgiving-1236189721/).
 
 ## Requirements
 - Python 3.8
