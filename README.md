@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea's largest K-pop agency loses $423 million in value as girl group NewJeans set to part ways**
+**Donald Trump’s call for ‘energy dominance’ is likely to run into real-world limits**
 
-You can read more about it [here](https://www.cnbc.com/2024/11/29/hybe-loses-over-420-million-in-value-after-newjeans-announces-contract-termination.html).
+You can read more about it [here](https://apnews.com/article/trump-energy-dominance-burgum-oil-council-24529ef90795fb854e4eb35f75c18247).
 
 ## Requirements
 - Python 3.8
