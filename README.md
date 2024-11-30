@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bird flu detected in second retail raw milk sample from California company**
+**What stores are open today? See Thanksgiving hours for Walmart, Target, Wegmans, more**
 
-You can read more about it [here](https://ktla.com/news/california/bird-flu-detected-in-second-retail-raw-milk-sample-from-california-company/).
+You can read more about it [here](https://www.syracuse.com/news/2024/11/what-stores-are-open-today-see-thanksgiving-hours-for-walmart-target-wegmans-more.html).
 
 ## Requirements
 - Python 3.8
