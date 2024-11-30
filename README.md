@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese journalist and former Harvard fellow sentenced to 7 years**
+**Amazon workers plan strike between Black Friday and Cyber Monday in major cities around the world**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/29/chinese-journalist-dong-yuyu-espionage-charges/).
+You can read more about it [here](https://nypost.com/2024/11/28/business/amazon-workers-plan-strike-between-black-friday-and-cyber-monday-in-major-cities-around-the-world/).
 
 ## Requirements
 - Python 3.8
