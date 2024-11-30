@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Baby-boomer homeowners got rich from skyrocketing house prices. Now they can't find retirement housing.**
+**French political crisis: Everything you need to know**
 
-You can read more about it [here](https://www.businessinsider.com/baby-boomers-housing-wealth-home-prices-housing-shortage-retirement-2024-11).
+You can read more about it [here](https://www.politico.eu/article/everything-you-need-to-know-france-political-crisis-that-could-plunge-eurozone-marine-le-pen-michel-barnier/).
 
 ## Requirements
 - Python 3.8
