@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Europe digests inflation; oil prices rebound**
+**Elon Musk’s DOGE partner Vivek Ramaswamy says they’ll scrutinize $6.6 billion Biden loan to Tesla rival Rivian**
 
-You can read more about it [here](https://www.investing.com/news/stock-market-news/european-stocks-and-oil-slip-as-investors-eye-inflation-data-opec-meeting-3746334).
+You can read more about it [here](https://fortune.com/2024/11/29/vivek-ramaswamy-elon-musk-doge-tesla-rivian-biden-federal-government-loan-trump/).
 
 ## Requirements
 - Python 3.8
