@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk’s DOGE partner Vivek Ramaswamy says they’ll scrutinize $6.6 billion Biden loan to Tesla rival Rivian**
+**FP1: Leclerc leads Norris and Piastri during Qatar GP practice**
 
-You can read more about it [here](https://fortune.com/2024/11/29/vivek-ramaswamy-elon-musk-doge-tesla-rivian-biden-federal-government-loan-trump/).
+You can read more about it [here](https://www.formula1.com/en/latest/article/fp1-leclerc-leads-norris-and-piastri-during-qatar-gp-practice.5uEK6pEhKcutOidOqFVheE).
 
 ## Requirements
 - Python 3.8
