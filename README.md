@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Ariana Madix, Cynthia Erivo and more stars are celebrating Thanksgiving**
+**Australian social media ban on under-16s approved by parliament**
 
-You can read more about it [here](https://pagesix.com/2024/11/28/photos/how-ariana-madix-cynthia-erivo-and-more-stars-are-celebrating-thanksgiving/).
+You can read more about it [here](https://www.bbc.com/news/articles/c89vjj0lxx9o).
 
 ## Requirements
 - Python 3.8
