@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Ukrainian MP to Merkel: Enough already**
+**Connecticut House representatives targeted with bomb threats**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxPWDI3YUtCS2tMdGJ5YUJXNGVjZDlZTUNKMW1nWC1pS0xCYllfWHRLNUxmZk9qRzRaQTNrYWkzQXA2YXhOaXVIQjljWHFTN29SS25oZUpNOFNLNHc0SV9DQ1FVRWJPY2hTbWk4ZnBUckhkclRlVUNwV3R0amlXMW1yRTBfWHl6NERpTGdHdURXMk8zSld1SnBR?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cjw0j6y32pgo).
 
 ## Requirements
 - Python 3.8
