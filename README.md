@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump’s call for ‘energy dominance’ is likely to run into real-world limits**
+**Bird flu detected in second retail raw milk sample from California company**
 
-You can read more about it [here](https://apnews.com/article/trump-energy-dominance-burgum-oil-council-24529ef90795fb854e4eb35f75c18247).
+You can read more about it [here](https://ktla.com/news/california/bird-flu-detected-in-second-retail-raw-milk-sample-from-california-company/).
 
 ## Requirements
 - Python 3.8
