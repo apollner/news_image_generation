@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Some of Capital Region could get up to a foot of snow as storm approaches**
+**Israel and Hezbollah trade accusations of ceasefire violations**
 
-You can read more about it [here](https://www.timesunion.com/news/article/capital-region-get-foot-snow-19947771.php).
+You can read more about it [here](https://www.reuters.com/world/middle-east/israeli-tank-fires-3-south-lebanese-towns-lebanese-security-sources-media-say-2024-11-28/).
 
 ## Requirements
 - Python 3.8
