@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian rebels sweep into Aleppo after lightning assault**
+**Bob Bryar Dies: My Chemical Romance Drummer Was 44**
 
-You can read more about it [here](https://www.ft.com/content/637a7e0a-7fcb-4536-984e-d08a51bd8fa0).
+You can read more about it [here](http://deadline.com/2024/11/bob-bryar-dies-44-my-chemical-romance-drummer-1236190263/).
 
 ## Requirements
 - Python 3.8
