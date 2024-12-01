@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly hurricane season ends with at least 335 US deaths**
+**WWE Survivor Series 2024 preview: CM Punk makes Roman Reigns look strong again**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/11/30/2024-atlantic-hurricane-season-ends-with-at-least-335-us-deaths/76619181007/).
+You can read more about it [here](https://www.cagesideseats.com/wwe/2024/11/30/24309393/wwe-survivor-series-2024-preview-war-games-og-bloodline-cm-punk-roman-reigns-heyman-cargill-replaced).
 
 ## Requirements
 - Python 3.8
