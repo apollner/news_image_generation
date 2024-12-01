@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justin Trudeau in Florida to meet Donald Trump**
+**Former My Chemical Romance drummer Bob Bryar has died aged 44**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cy8787nxl7do).
+You can read more about it [here](https://www.kerrang.com/former-my-chemical-romance-drummer-bob-bryar-has-died-aged-44).
 
 ## Requirements
 - Python 3.8
