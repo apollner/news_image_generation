@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch next-gen US spy satellites, 20 Starlink spacecraft from California early Nov. 30**
+**Hawkeye actor Hailee Steinfeld gets engaged to NFL quarterback Josh Allen with dreamy proposal. See pics**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-next-gen-us-spy-satellites-20-starlink-spacecraft-from-california-early-nov-30).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/hawkeye-actor-hailee-steinfeld-engaged-to-nfl-quarterback-josh-allen-dreamy-proposal-see-pics-101732942807206.html).
 
 ## Requirements
 - Python 3.8
