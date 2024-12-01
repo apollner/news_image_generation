@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Assisted dying bill: Terminally ill people react after MPs vote**
+**Major Canadian news outlets sue OpenAI**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cvg720lrjrmo).
+You can read more about it [here](https://www.bbc.com/news/articles/cm27247j6gno).
 
 ## Requirements
 - Python 3.8
