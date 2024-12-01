@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Bryar Dead: My Chemical Romance Drummer Was 44**
+**Brock Purdy Questionable, Trent Williams Out for Week 13 vs. Bills; Injury Report #SFvsBUF**
 
-You can read more about it [here](https://consequence.net/2024/11/bob-bryar-my-chemical-romance-drummer-dead/).
+You can read more about it [here](https://www.49ers.com/news/brock-purdy-questionable-trent-williams-out-for-week-13-vs-bills-injury-report-sfvsbuf).
 
 ## Requirements
 - Python 3.8
