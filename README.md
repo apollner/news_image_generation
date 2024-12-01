@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy says NATO offer for Ukraine-controlled territory could end ‘hot stage’ of war**
+**WWE Survivor Series 2024 preview: CM Punk makes Roman Reigns look strong again**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-zelenskyy-nato-92069fae6a05fc03d6fb2643ecbb4b2a).
+You can read more about it [here](https://www.cagesideseats.com/wwe/2024/11/30/24309393/wwe-survivor-series-2024-preview-war-games-og-bloodline-cm-punk-roman-reigns-heyman-cargill-replaced).
 
 ## Requirements
 - Python 3.8
