@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mike Johnson condemns "insane and dangerous" bomb threats targeting Democrats**
+**Syrian rebels sweep into Aleppo after lightning assault**
 
-You can read more about it [here](https://www.axios.com/2024/11/30/mike-johnson-condemns-bomb-threats-democrats).
+You can read more about it [here](https://www.ft.com/content/637a7e0a-7fcb-4536-984e-d08a51bd8fa0).
 
 ## Requirements
 - Python 3.8
