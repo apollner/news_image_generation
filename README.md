@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Top Cyber Monday deals to shop on Amazon today**
+**I've been covering Cyber Monday deals for 17 years — here's the best sales live now**
 
-You can read more about it [here](https://www.aboutamazon.com/news/retail/cyber-monday-deals-2024-amazon).
+You can read more about it [here](https://www.tomsguide.com/live/news/best-cyber-monday-deals-id-buy-2024).
 
 ## Requirements
 - Python 3.8
