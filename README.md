@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Metro Detroit shoppers rush to stores early for Black Friday deals**
+**Stock Market News From Nov. 29, 2024: Dow, S&P 500 Hit Records in Shortened Black Friday Session**
 
-You can read more about it [here](https://www.detroitnews.com/story/business/2024/11/29/metro-detroit-shoppers-flock-stores-early-black-friday-deals/76622754007/).
+You can read more about it [here](https://www.barrons.com/livecoverage/stock-market-today-112924).
 
 ## Requirements
 - Python 3.8
