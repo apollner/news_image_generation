@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Saturday, November 30, 2024**
+**Andrew Luck will be Stanford’s football General Manager**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/30/horoscopes-today-saturday-november-30-2024).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-luck-will-be-stanfords-football-general-manager).
 
 ## Requirements
 - Python 3.8
