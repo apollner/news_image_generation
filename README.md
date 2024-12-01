@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarm over high rate of HIV infections among young women, girls**
+**SpaceX to launch next-gen US spy satellites, 20 Starlink spacecraft from California early Nov. 30**
 
-You can read more about it [here](https://abs-cbn.com/news/world/2024/11/29/alarm-over-high-rate-of-hiv-infections-among-young-women-girls-0748).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-to-launch-next-gen-us-spy-satellites-20-starlink-spacecraft-from-california-early-nov-30).
 
 ## Requirements
 - Python 3.8
