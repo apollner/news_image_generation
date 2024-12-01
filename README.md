@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Bryar Dies: My Chemical Romance Drummer Was 44**
+**Zelenskyy says NATO offer for Ukraine-controlled territory could end ‘hot stage’ of war**
 
-You can read more about it [here](http://deadline.com/2024/11/bob-bryar-dies-44-my-chemical-romance-drummer-1236190263/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-zelenskyy-nato-92069fae6a05fc03d6fb2643ecbb4b2a).
 
 ## Requirements
 - Python 3.8
