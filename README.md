@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane season is over, but the rise of storm-resistant homes in Florida is just getting started**
+**Deadly hurricane season ends with at least 335 US deaths**
 
-You can read more about it [here](https://www.businessinsider.com/hurricane-resistant-homes-florida-hunters-point-babcock-ranch-2024-11).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/11/30/2024-atlantic-hurricane-season-ends-with-at-least-335-us-deaths/76619181007/).
 
 ## Requirements
 - Python 3.8
