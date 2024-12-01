@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pete Hegseth’s Mom Said He Abused ‘Many’ Women in Bombshell Email**
+**Horoscope for Saturday, November 30, 2024**
 
-You can read more about it [here](https://www.thedailybeast.com/pete-hegseths-mom-said-he-abused-many-women-in-bombshell-email/).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/11/30/horoscopes-today-saturday-november-30-2024).
 
 ## Requirements
 - Python 3.8
