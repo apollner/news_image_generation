@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Former My Chemical Romance drummer Bob Bryar has died aged 44**
+**Vietnam approves $67 billion high-speed railway project between Hanoi and Ho Chi Minh city**
 
-You can read more about it [here](https://www.kerrang.com/former-my-chemical-romance-drummer-bob-bryar-has-died-aged-44).
+You can read more about it [here](https://finance.yahoo.com/news/vietnam-approves-67-billion-high-094819612.html).
 
 ## Requirements
 - Python 3.8
