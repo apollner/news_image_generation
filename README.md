@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines says it is ending cabin service earlier to reduce chance of injury**
+**Top Cyber Monday deals to shop on Amazon today**
 
-You can read more about it [here](https://apnews.com/article/southwest-airlines-cabin-service-a2766c4de881e1467900b392789457de).
+You can read more about it [here](https://www.aboutamazon.com/news/retail/cyber-monday-deals-2024-amazon).
 
 ## Requirements
 - Python 3.8
