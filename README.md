@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The anti-Trump movement is in tatters. Now it’s scrambling to remain relevant.**
+**Chiefs become first NFL team to clinch playoff berth while Raiders become first AFC team eliminated**
 
-You can read more about it [here](https://www.politico.com/news/2024/11/29/anti-trump-movement-tatters-00191914).
+You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-become-first-nfl-team-to-clinch-playoff-berth-while-raiders-become-first-afc-team-eliminated/).
 
 ## Requirements
 - Python 3.8
