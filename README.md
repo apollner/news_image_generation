@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Buffalo Bills quarterback Josh Allen and actress Hailee Steinfeld are engaged**
+**Hawkeye actor Hailee Steinfeld gets engaged to NFL quarterback Josh Allen with dreamy proposal. See pics**
 
-You can read more about it [here](https://apnews.com/article/hailee-steinfeld-josh-allen-bills-engagement-f6013a173b29a053cb0199b2d2875a30).
+You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/hawkeye-actor-hailee-steinfeld-engaged-to-nfl-quarterback-josh-allen-dreamy-proposal-see-pics-101732942807206.html).
 
 ## Requirements
 - Python 3.8
