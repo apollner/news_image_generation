@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teacher dies of rabies after bat bite**
+**The anti-Trump movement is in tatters. Now it’s scrambling to remain relevant.**
 
-You can read more about it [here](https://www.ksbw.com/article/california-teacher-dies-california-rabies-after-bat-bite/63054652).
+You can read more about it [here](https://www.politico.com/news/2024/11/29/anti-trump-movement-tatters-00191914).
 
 ## Requirements
 - Python 3.8
