@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch combination of NRO Starshield and Starlink satellites on Falcon 9 flight**
+**Buffalo Bills quarterback Josh Allen and actress Hailee Steinfeld are engaged**
 
-You can read more about it [here](https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/).
+You can read more about it [here](https://apnews.com/article/hailee-steinfeld-josh-allen-bills-engagement-f6013a173b29a053cb0199b2d2875a30).
 
 ## Requirements
 - Python 3.8
