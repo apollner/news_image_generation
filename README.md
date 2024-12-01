@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market News From Nov. 29, 2024: Dow, S&P 500 Hit Records in Shortened Black Friday Session**
+**Teacher dies of rabies after bat bite**
 
-You can read more about it [here](https://www.barrons.com/livecoverage/stock-market-today-112924).
+You can read more about it [here](https://www.ksbw.com/article/california-teacher-dies-california-rabies-after-bat-bite/63054652).
 
 ## Requirements
 - Python 3.8
