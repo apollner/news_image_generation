@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raiders-Chiefs controversial ending: Antonio Pierce says team 'heard a whistle' before fumble that sealed loss**
+**Southwest Airlines says it is ending cabin service earlier to reduce chance of injury**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/raiders-chiefs-controversial-ending-antonio-pierce-says-team-heard-a-whistle-before-fumble-that-sealed-loss/).
+You can read more about it [here](https://apnews.com/article/southwest-airlines-cabin-service-a2766c4de881e1467900b392789457de).
 
 ## Requirements
 - Python 3.8
