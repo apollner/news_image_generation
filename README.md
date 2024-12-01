@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Recalled cucumbers linked to multistate salmonella outbreak, health agencies warn**
+**Syrian rebel groups take control in and around Aleppo**
 
-You can read more about it [here](https://www.cnn.com/2024/11/29/health/cucumber-recall-salmonella-sunfed/index.html).
+You can read more about it [here](https://www.axios.com/2024/11/30/syria-rebels-assad-aleppo).
 
 ## Requirements
 - Python 3.8
