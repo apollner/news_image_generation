@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian rebel groups take control in and around Aleppo**
+**Brock Purdy Questionable, Trent Williams Out for Week 13 vs. Bills; Injury Report #SFvsBUF**
 
-You can read more about it [here](https://www.axios.com/2024/11/30/syria-rebels-assad-aleppo).
+You can read more about it [here](https://www.49ers.com/news/brock-purdy-questionable-trent-williams-out-for-week-13-vs-bills-injury-report-sfvsbuf).
 
 ## Requirements
 - Python 3.8
