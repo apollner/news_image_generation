@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Zelenskyy says NATO offer for Ukraine-controlled territory could end ‘hot stage’ of war**
+**Syrian rebels sweep into Aleppo after lightning assault**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-zelenskyy-nato-92069fae6a05fc03d6fb2643ecbb4b2a).
+You can read more about it [here](https://www.ft.com/content/637a7e0a-7fcb-4536-984e-d08a51bd8fa0).
 
 ## Requirements
 - Python 3.8
