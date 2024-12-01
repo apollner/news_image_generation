@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Survivor Series 2024 preview: CM Punk makes Roman Reigns look strong again**
+**Raiders-Chiefs controversial ending: Antonio Pierce says team 'heard a whistle' before fumble that sealed loss**
 
-You can read more about it [here](https://www.cagesideseats.com/wwe/2024/11/30/24309393/wwe-survivor-series-2024-preview-war-games-og-bloodline-cm-punk-roman-reigns-heyman-cargill-replaced).
+You can read more about it [here](https://www.cbssports.com/nfl/news/raiders-chiefs-controversial-ending-antonio-pierce-says-team-heard-a-whistle-before-fumble-that-sealed-loss/).
 
 ## Requirements
 - Python 3.8
