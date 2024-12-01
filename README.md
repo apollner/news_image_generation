@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bob Bryar Dead: My Chemical Romance Drummer Was 44**
+**Recalled cucumbers linked to multistate salmonella outbreak, health agencies warn**
 
-You can read more about it [here](https://consequence.net/2024/11/bob-bryar-my-chemical-romance-drummer-dead/).
+You can read more about it [here](https://www.cnn.com/2024/11/29/health/cucumber-recall-salmonella-sunfed/index.html).
 
 ## Requirements
 - Python 3.8
