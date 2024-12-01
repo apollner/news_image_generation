@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawkeye actor Hailee Steinfeld gets engaged to NFL quarterback Josh Allen with dreamy proposal. See pics**
+**Alarm over high rate of HIV infections among young women, girls**
 
-You can read more about it [here](https://www.hindustantimes.com/entertainment/hollywood/hawkeye-actor-hailee-steinfeld-engaged-to-nfl-quarterback-josh-allen-dreamy-proposal-see-pics-101732942807206.html).
+You can read more about it [here](https://abs-cbn.com/news/world/2024/11/29/alarm-over-high-rate-of-hiv-infections-among-young-women-girls-0748).
 
 ## Requirements
 - Python 3.8
