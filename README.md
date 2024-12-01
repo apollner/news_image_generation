@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Major Canadian news outlets sue OpenAI**
+**Pete Hegseth’s Mom Said He Abused ‘Many’ Women in Bombshell Email**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cm27247j6gno).
+You can read more about it [here](https://www.thedailybeast.com/pete-hegseths-mom-said-he-abused-many-women-in-bombshell-email/).
 
 ## Requirements
 - Python 3.8
