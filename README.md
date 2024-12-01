@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hurricane season is over, but the rise of storm-resistant homes in Florida is just getting started**
+**Israel says it struck Hezbollah weapons smuggling sites in Syria, testing a fragile ceasefire**
 
-You can read more about it [here](https://www.businessinsider.com/hurricane-resistant-homes-florida-hunters-point-babcock-ranch-2024-11).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-11-30-2024-506c8f976ad62afcf2a0ec977a8b6451).
 
 ## Requirements
 - Python 3.8
