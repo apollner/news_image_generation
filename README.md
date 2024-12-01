@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brock Purdy Questionable, Trent Williams Out for Week 13 vs. Bills; Injury Report #SFvsBUF**
+**SpaceX to launch combination of NRO Starshield and Starlink satellites on Falcon 9 flight**
 
-You can read more about it [here](https://www.49ers.com/news/brock-purdy-questionable-trent-williams-out-for-week-13-vs-bills-injury-report-sfvsbuf).
+You can read more about it [here](https://spaceflightnow.com/2024/11/29/live-coverage-spacex-to-launch-5th-batch-of-starshield-satellites-for-the-nro-on-falcon-9-rocket-from-california/).
 
 ## Requirements
 - Python 3.8
