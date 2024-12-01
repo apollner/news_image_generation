@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs become first NFL team to clinch playoff berth while Raiders become first AFC team eliminated**
+**Teacher dies of rabies after bat bite**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/chiefs-become-first-nfl-team-to-clinch-playoff-berth-while-raiders-become-first-afc-team-eliminated/).
+You can read more about it [here](https://www.ksbw.com/article/california-teacher-dies-california-rabies-after-bat-bite/63054652).
 
 ## Requirements
 - Python 3.8
