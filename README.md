@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Andrew Luck will be Stanford’s football General Manager**
+**Justin Trudeau in Florida to meet Donald Trump**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/andrew-luck-will-be-stanfords-football-general-manager).
+You can read more about it [here](https://www.bbc.com/news/articles/cy8787nxl7do).
 
 ## Requirements
 - Python 3.8
