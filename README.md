@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Generation of Drug-Addiction Survivors Is Entering Old Age**
+**Why you shouldn’t reuse single-use plastics**
 
-You can read more about it [here](https://www.wsj.com/us-news/a-generation-of-drug-addiction-survivors-is-entering-old-age-76bba728).
+You can read more about it [here](https://www.washingtonpost.com/climate-solutions/2024/12/01/single-use-plastics-reuse-risk/).
 
 ## Requirements
 - Python 3.8
