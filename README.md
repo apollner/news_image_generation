@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines will be ending cabin service earlier under new policy. Here’s why**
+**A twice-yearly shot could help end AIDS. But will it get to everyone who needs it?**
 
-You can read more about it [here](https://www.sfchronicle.com/us-world/article/southwest-airlines-cabin-service-19950804.php).
+You can read more about it [here](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de).
 
 ## Requirements
 - Python 3.8
