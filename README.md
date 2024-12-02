@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 WWE Survivor Series: WarGames review, winners, grades: Roman Reigns pins Solo Sikoa in Bloodline Battle**
+**A twice-yearly shot could help end AIDS. But will it get to everyone who needs it?**
 
-You can read more about it [here](https://www.cbssports.com/wwe/news/2024-wwe-survivor-series-wargames-results-live-updates-recap-grades-highlights-matches-card-start-time/live/).
+You can read more about it [here](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de).
 
 ## Requirements
 - Python 3.8
