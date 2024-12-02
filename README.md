@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump taps Kash Patel for FBI director, an ally who would aid in his effort to upend law enforcement**
+**2024 WWE Survivor Series: WarGames review, winners, grades: Roman Reigns pins Solo Sikoa in Bloodline Battle**
 
-You can read more about it [here](https://apnews.com/article/trump-fbi-patel-wray-879dc7629905946cc242e90f6ab98739).
+You can read more about it [here](https://www.cbssports.com/wwe/news/2024-wwe-survivor-series-wargames-results-live-updates-recap-grades-highlights-matches-card-start-time/live/).
 
 ## Requirements
 - Python 3.8
