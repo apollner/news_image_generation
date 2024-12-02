@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Generation of Drug-Addiction Survivors Is Entering Old Age**
+**No. 3 Texas holds off No. 20 Texas A&M to clinch spot in SEC title game against No. 7 Georgia**
 
-You can read more about it [here](https://www.wsj.com/us-news/a-generation-of-drug-addiction-survivors-is-entering-old-age-76bba728).
+You can read more about it [here](https://sports.yahoo.com/no-3-texas-holds-off-no-20-texas-am-to-clinch-spot-in-sec-title-game-against-no-7-georgia-041340234.html).
 
 ## Requirements
 - Python 3.8
