@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines to end cabin service earlier on flights: Here’s why**
+**[Removed]**
 
-You can read more about it [here](https://ktla.com/news/travel/southwest-airlines-to-end-cabin-service-earlier-on-flights-heres-why/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
