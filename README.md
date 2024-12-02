@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Israeli strike in Gaza kills World Central Kitchen workers. Israel says 1 was an Oct. 7 attacker**
+**Trump announces he intends to replace current FBI director with loyalist Kash Patel**
 
-You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-11-30-2024-506c8f976ad62afcf2a0ec977a8b6451).
+You can read more about it [here](https://www.cnn.com/2024/11/30/politics/kash-patel-fbi-director-trump/index.html).
 
 ## Requirements
 - Python 3.8
