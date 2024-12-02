@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**See the scale of destruction in Hezbollah’s stronghold near Beirut**
+**Elon Musk targets OpenAI’s for-profit transition in a new filing**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/11/30/hezbollah-beirut-israel-ceasefire-destruction/).
+You can read more about it [here](https://www.theverge.com/2024/11/30/24309697/elon-musk-openai-lawsuit-for-profit-transition-preliminary-injunction).
 
 ## Requirements
 - Python 3.8
