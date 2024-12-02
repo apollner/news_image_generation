@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Trudeau told Trump at Mar-a-Lago**
+**Exit poll: Romania’s Social Democrats lead in parliamentary vote, but hard-right momentum builds**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/01/trudeau-trump-energy-trade-arctic-00192048).
+You can read more about it [here](https://www.politico.eu/article/exit-polls-romania-social-democrats-momentum-presidential-election-pd-marcel-ciolacu/).
 
 ## Requirements
 - Python 3.8
