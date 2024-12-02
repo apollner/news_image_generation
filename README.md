@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**PFF grades, snap counts from Michigan’s win over Ohio State**
+**Southwest Airlines to end cabin service earlier on flights: Here’s why**
 
-You can read more about it [here](https://www.maizenbrew.com/2024/12/1/24309847/michigan-football-pff-snap-counts-grades-ohio-state-buckeyes-mason-graham-2024-season).
+You can read more about it [here](https://ktla.com/news/travel/southwest-airlines-to-end-cabin-service-earlier-on-flights-heres-why/).
 
 ## Requirements
 - Python 3.8
