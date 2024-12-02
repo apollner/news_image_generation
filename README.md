@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Uranus and Neptune May Have Oceans Beneath Their Clouds, Revealing New Mysteries of the Ice Giants**
+**A Generation of Drug-Addiction Survivors Is Entering Old Age**
 
-You can read more about it [here](https://dailygalaxy.com/2024/11/uranus-neptune-oceans-beneath-their-clouds/).
+You can read more about it [here](https://www.wsj.com/us-news/a-generation-of-drug-addiction-survivors-is-entering-old-age-76bba728).
 
 ## Requirements
 - Python 3.8
