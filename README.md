@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis CEO Carlos Tavares resigns**
+**Cousins takes blame after 4 INTs sink Falcons**
 
-You can read more about it [here](https://www.reuters.com/business/autos-transportation/stellantis-ceo-carlos-tavares-resigns-source-2024-12-01/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42723222/kirk-cousins-takes-blame-loss-4-ints-sink-falcons).
 
 ## Requirements
 - Python 3.8
