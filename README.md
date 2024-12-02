@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why you shouldn’t reuse single-use plastics**
+**Shoppers continue indulging in Black Friday sales, but mostly online**
 
-You can read more about it [here](https://www.washingtonpost.com/climate-solutions/2024/12/01/single-use-plastics-reuse-risk/).
+You can read more about it [here](https://www.cnn.com/2024/12/01/business/black-friday-holiday-shopping/index.html).
 
 ## Requirements
 - Python 3.8
