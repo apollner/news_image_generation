@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A twice-yearly shot could help end AIDS. But will it get to everyone who needs it?**
+**Trump picks Jared Kushner's father for ambassador to France**
 
-You can read more about it [here](https://apnews.com/article/hiv-infections-aids-prevention-shot-02606f7d7892f0baf55bd0a0ff2ba3de).
+You can read more about it [here](https://www.bbc.com/news/articles/c0qdq9z7pjzo).
 
 ## Requirements
 - Python 3.8
