@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump selects veteran law enforcement officer Chad Chronister for DEA administrator**
+**I'm a Black Friday TV deals veteran, and I'm picking the best offers for you – yes, you, personally**
 
-You can read more about it [here](https://thehill.com/homenews/administration/5016149-trump-selects-veteran-law-enforcement-officer-chad-chronister-for-dea-administrator/).
+You can read more about it [here](https://www.techradar.com/live/news/black-friday-tv-deals-live-2024).
 
 ## Requirements
 - Python 3.8
