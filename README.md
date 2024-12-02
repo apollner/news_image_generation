@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shoppers continue indulging in Black Friday sales, but mostly online**
+**PFF grades, snap counts from Michigan’s win over Ohio State**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/business/black-friday-holiday-shopping/index.html).
+You can read more about it [here](https://www.maizenbrew.com/2024/12/1/24309847/michigan-football-pff-snap-counts-grades-ohio-state-buckeyes-mason-graham-2024-season).
 
 ## Requirements
 - Python 3.8
