@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Six people hurt after home explosion in Jefferson City early Saturday morning**
+**Trump selects veteran law enforcement officer Chad Chronister for DEA administrator**
 
-You can read more about it [here](https://abc17news.com/news/top-stories/2024/11/30/six-people-hurt-after-home-explosion-in-jefferson-city-early-saturday-morning/).
+You can read more about it [here](https://thehill.com/homenews/administration/5016149-trump-selects-veteran-law-enforcement-officer-chad-chronister-for-dea-administrator/).
 
 ## Requirements
 - Python 3.8
