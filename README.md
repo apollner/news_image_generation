@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Stellantis CEO Tavares Quits and Hands Over to Interim Committee**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-01/stellantis-ceo-tavares-set-to-step-down-from-jeep-fiat-maker).
 
 ## Requirements
 - Python 3.8
