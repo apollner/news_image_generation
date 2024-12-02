@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I've been covering Cyber Monday deals for 17 years — here's the best sales live now**
+**An Israeli strike in Gaza kills World Central Kitchen workers. Israel says 1 was an Oct. 7 attacker**
 
-You can read more about it [here](https://www.tomsguide.com/live/news/best-cyber-monday-deals-id-buy-2024).
+You can read more about it [here](https://apnews.com/article/israel-palestinians-hamas-war-lebanon-hezbollah-iran-news-11-30-2024-506c8f976ad62afcf2a0ec977a8b6451).
 
 ## Requirements
 - Python 3.8
