@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Jared Kushner's father for ambassador to France**
+**Six people hurt after home explosion in Jefferson City early Saturday morning**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0qdq9z7pjzo).
+You can read more about it [here](https://abc17news.com/news/top-stories/2024/11/30/six-people-hurt-after-home-explosion-in-jefferson-city-early-saturday-morning/).
 
 ## Requirements
 - Python 3.8
