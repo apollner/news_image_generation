@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York counties declare state of emergency as they brace for massive snowstorm**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/new-york-counties-declare-state-emergency-brace-massive/story?id\\u003d116338004).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
