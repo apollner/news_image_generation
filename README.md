@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump announces he intends to replace current FBI director with loyalist Kash Patel**
+**See the scale of destruction in Hezbollah’s stronghold near Beirut**
 
-You can read more about it [here](https://www.cnn.com/2024/11/30/politics/kash-patel-fbi-director-trump/index.html).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/11/30/hezbollah-beirut-israel-ceasefire-destruction/).
 
 ## Requirements
 - Python 3.8
