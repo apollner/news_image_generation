@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World Central Kitchen pauses Gaza work after car carrying staff hit by Israeli strike**
+**A Generation of Drug-Addiction Survivors Is Entering Old Age**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4g2g6w4109o).
+You can read more about it [here](https://www.wsj.com/us-news/a-generation-of-drug-addiction-survivors-is-entering-old-age-76bba728).
 
 ## Requirements
 - Python 3.8
