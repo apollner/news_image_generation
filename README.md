@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Many thousands rally to oppose Georgian government after break with EU**
+**Trump taps Kash Patel for FBI director, an ally who would aid in his effort to upend law enforcement**
 
-You can read more about it [here](https://www.reuters.com/world/europe/georgia-detains-more-than-100-during-anti-government-protest-2024-11-30/).
+You can read more about it [here](https://apnews.com/article/trump-fbi-patel-wray-879dc7629905946cc242e90f6ab98739).
 
 ## Requirements
 - Python 3.8
