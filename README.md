@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**I've been covering Cyber Monday deals for 17 years — here's the best sales live now**
+**Many thousands rally to oppose Georgian government after break with EU**
 
-You can read more about it [here](https://www.tomsguide.com/live/news/best-cyber-monday-deals-id-buy-2024).
+You can read more about it [here](https://www.reuters.com/world/europe/georgia-detains-more-than-100-during-anti-government-protest-2024-11-30/).
 
 ## Requirements
 - Python 3.8
