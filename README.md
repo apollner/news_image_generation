@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No. 3 Texas holds off No. 20 Texas A&M to clinch spot in SEC title game against No. 7 Georgia**
+**World Central Kitchen pauses Gaza work after car carrying staff hit by Israeli strike**
 
-You can read more about it [here](https://sports.yahoo.com/no-3-texas-holds-off-no-20-texas-am-to-clinch-spot-in-sec-title-game-against-no-7-georgia-041340234.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c4g2g6w4109o).
 
 ## Requirements
 - Python 3.8
