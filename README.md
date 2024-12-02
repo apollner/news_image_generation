@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exit poll: Romania’s Social Democrats lead in parliamentary vote, but hard-right momentum builds**
+**Stellantis CEO Carlos Tavares resigns**
 
-You can read more about it [here](https://www.politico.eu/article/exit-polls-romania-social-democrats-momentum-presidential-election-pd-marcel-ciolacu/).
+You can read more about it [here](https://www.reuters.com/business/autos-transportation/stellantis-ceo-carlos-tavares-resigns-source-2024-12-01/).
 
 ## Requirements
 - Python 3.8
