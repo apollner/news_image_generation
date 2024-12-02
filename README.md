@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Southwest Airlines to end cabin service earlier on flights: Here’s why**
+**New York counties declare state of emergency as they brace for massive snowstorm**
 
-You can read more about it [here](https://ktla.com/news/travel/southwest-airlines-to-end-cabin-service-earlier-on-flights-heres-why/).
+You can read more about it [here](https://abcnews.go.com/US/new-york-counties-declare-state-emergency-brace-massive/story?id\\u003d116338004).
 
 ## Requirements
 - Python 3.8
