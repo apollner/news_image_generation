@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Putin signs off record Russian defense spending as top EU officials visit Kyiv**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-budget-defense-spending-putin-drone-3a1a73c559b250ec26190edd9332100c).
 
 ## Requirements
 - Python 3.8
