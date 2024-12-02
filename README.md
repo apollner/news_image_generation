@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cousins takes blame after 4 INTs sink Falcons**
+**Trump’s extraordinary selection of his daughters’ fathers-in-law for key posts underscores his reliance on family members**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42723222/kirk-cousins-takes-blame-loss-4-ints-sink-falcons).
+You can read more about it [here](https://www.cnn.com/2024/12/01/politics/massad-boulos-michael-tiffany-trump/index.html).
 
 ## Requirements
 - Python 3.8
