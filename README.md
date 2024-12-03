@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**What has Joe Biden said about pardoning his son Hunter Biden?**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/ceql5v5v0xlo).
 
 ## Requirements
 - Python 3.8
