@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Supreme Court divided over FDA block on kid-friendly flavored vapes**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://abcnews.go.com/Politics/supreme-court-weighs-fda-block-kid-friendly-flavored/story?id\\u003d116232703).
 
 ## Requirements
 - Python 3.8
