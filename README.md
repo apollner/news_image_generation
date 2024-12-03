@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US hits China’s chip industry with new export controls**
+**NZXT responds to damning Gamers Nexus video accusing it of running a "predatory, evil" rental scam**
 
-You can read more about it [here](https://www.ft.com/content/2334d3d9-d744-4d1f-94cc-e328968b41ce).
+You can read more about it [here](https://www.techspot.com/news/105781-nzxt-responds-damning-gamers-nexus-video-accusing-running.html).
 
 ## Requirements
 - Python 3.8
