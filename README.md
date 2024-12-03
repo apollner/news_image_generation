@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Romanian leftists ahead of resurgent far-right in election: exit poll**
+**What happens next after Trump chooses FBI critic Kash Patel to remake the agency**
 
-You can read more about it [here](https://www.reuters.com/world/romanian-leftists-ahead-resurgent-far-right-election-exit-poll-2024-12-01/).
+You can read more about it [here](https://www.pbs.org/newshour/politics/what-happens-next-after-trump-chooses-fbi-critic-kash-patel-to-remake-the-agency).
 
 ## Requirements
 - Python 3.8
