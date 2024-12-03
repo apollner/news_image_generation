@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Evidence of primordial black holes may be hiding in planets, or even everyday objects here on Earth**
+**5-plus feet of snow and counting: More snow is coming to the already buried Great Lakes**
 
-You can read more about it [here](https://phys.org/news/2024-12-evidence-primordial-black-holes-planets.html).
+You can read more about it [here](https://www.cnn.com/2024/12/02/weather/lake-effect-us-snow-great-lakes-climate/index.html).
 
 ## Requirements
 - Python 3.8
