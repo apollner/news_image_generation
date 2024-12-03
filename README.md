@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5-plus feet of snow and counting: More snow is coming to the already buried Great Lakes**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/12/02/weather/lake-effect-us-snow-great-lakes-climate/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
