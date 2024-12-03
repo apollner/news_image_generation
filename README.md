@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The ‘big head’ people: Scientists uncover a lost human species in Asia**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://studyfinds.org/big-head-people-human-species/).
 
 ## Requirements
 - Python 3.8
