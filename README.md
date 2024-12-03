@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snow continues to bury Northeast, with more expected through Monday**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/weather/2024/12/01/lake-effect-snow-great-lakes-northeast/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
