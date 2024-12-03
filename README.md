@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil Edges Higher on Weaker Dollar With Focus on OPEC+ Meeting**
+**Iraqi militias enter Syria to reinforce government forces, military sources say**
 
-You can read more about it [here](https://finance.yahoo.com/news/oil-edges-higher-weaker-dollar-232852889.html).
+You can read more about it [here](https://www.reuters.com/world/middle-east/iraqi-militias-enter-syria-reinforce-government-forces-military-sources-say-2024-12-02/).
 
 ## Requirements
 - Python 3.8
