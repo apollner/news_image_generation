@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Feats of Strength: Russell Wilson's huge day, key defensive splash plays secure Steelers shootout over Bengals**
+**Asia stocks rise on upbeat Chinese PMIs; Trump tariff threat limits gains**
 
-You can read more about it [here](https://triblive.com/sports/feats-of-strength-russell-wilsons-huge-day-key-defensive-splash-plays-secure-steelers-shootout-over-bengals/).
+You can read more about it [here](https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-upbeat-chinese-pmis-trump-tariff-threat-limits-gains-3748026).
 
 ## Requirements
 - Python 3.8
