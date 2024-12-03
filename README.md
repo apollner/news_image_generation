@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Allen has TDs passing, rushing and receiving as Bills rout 49ers 35-10 in snow, clinch AFC East**
+**Oil Edges Higher on Weaker Dollar With Focus on OPEC+ Meeting**
 
-You can read more about it [here](https://apnews.com/article/49ers-bills-score-e0956d695ead50321efdba586e638c12).
+You can read more about it [here](https://finance.yahoo.com/news/oil-edges-higher-weaker-dollar-232852889.html).
 
 ## Requirements
 - Python 3.8
