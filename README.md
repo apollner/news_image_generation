@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL playoff picture, standings: Steelers take command of AFC North, Eagles right in mix for No. 1 seed**
+**Josh Allen has TDs passing, rushing and receiving as Bills rout 49ers 35-10 in snow, clinch AFC East**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-playoff-picture-standings-steelers-take-command-of-afc-north-eagles-right-in-mix-for-no-1-seed/).
+You can read more about it [here](https://apnews.com/article/49ers-bills-score-e0956d695ead50321efdba586e638c12).
 
 ## Requirements
 - Python 3.8
