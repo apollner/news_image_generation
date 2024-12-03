@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asia stocks rise on upbeat Chinese PMIs; Trump tariff threat limits gains**
+**Weekend Box Office: MOANA 2 Sails to $221M 5-Day Debut in Highest Earning Thanksgiving Frame of All Time**
 
-You can read more about it [here](https://www.investing.com/news/stock-market-news/asia-stocks-rise-on-upbeat-chinese-pmis-trump-tariff-threat-limits-gains-3748026).
+You can read more about it [here](https://www.boxofficepro.com/weekend-box-office-moana-2-sails-to-221m-5-day-debut-in-highest-earning-thanksgiving-frame-of-all-time/).
 
 ## Requirements
 - Python 3.8
