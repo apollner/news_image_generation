@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Husband arrested on murder charge after missing Oregon woman and dogs found dead during multi-day search mission**
+**Evidence of primordial black holes may be hiding in planets, or even everyday objects here on Earth**
 
-You can read more about it [here](https://www.cbsnews.com/news/susan-lane-fournier-dead-michael-fournier-husband-arrested-oregon/).
+You can read more about it [here](https://phys.org/news/2024-12-evidence-primordial-black-holes-planets.html).
 
 ## Requirements
 - Python 3.8
