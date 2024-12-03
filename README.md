@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: How ‘Moana 2,’ ‘Wicked’ and ‘Gladiator II’ Fueled Biggest Thanksgiving on Record**
+**Global push for cooperation as space traffic crowds Earth orbit**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/thanksgiving-box-office-record-moana-2-wicked-gladiator-2-1236231794/).
+You can read more about it [here](https://www.reuters.com/science/global-push-cooperation-space-traffic-crowds-earth-orbit-2024-12-02/).
 
 ## Requirements
 - Python 3.8
