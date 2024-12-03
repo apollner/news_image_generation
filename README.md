@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iraqi militias enter Syria to reinforce government forces, military sources say**
+**Stellantis CEO Carlos Tavares steps down**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/iraqi-militias-enter-syria-reinforce-government-forces-military-sources-say-2024-12-02/).
+You can read more about it [here](https://www.cnn.com/2024/12/01/business/stellantis-ceo-carlos-tavares-steps-down/index.html).
 
 ## Requirements
 - Python 3.8
