@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump’s extraordinary selection of his daughters’ fathers-in-law for key posts underscores his reliance on family members**
+**Trump threatens 100% tariff on Bric nations**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/politics/massad-boulos-michael-tiffany-trump/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/cgrwj0p2dd9o).
 
 ## Requirements
 - Python 3.8
