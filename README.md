@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Josh Allen has TDs passing, rushing and receiving as Bills rout 49ers 35-10 in snow, clinch AFC East**
+**Week 13 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
 
-You can read more about it [here](https://apnews.com/article/49ers-bills-score-e0956d695ead50321efdba586e638c12).
+You can read more about it [here](https://bleacherreport.com/articles/10145377-week-13-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
 
 ## Requirements
 - Python 3.8
