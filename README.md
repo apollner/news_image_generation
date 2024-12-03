@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 13 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
+**49ers star Christian McCaffrey leaves blowout loss to Bills early with PCL injury**
 
-You can read more about it [here](https://bleacherreport.com/articles/10145377-week-13-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
+You can read more about it [here](https://sports.yahoo.com/49ers-star-christian-mccaffrey-leaves-blowout-loss-to-bills-early-with-pcl-injury-021038221.html).
 
 ## Requirements
 - Python 3.8
