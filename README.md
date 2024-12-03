@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The ‘big head’ people: Scientists uncover a lost human species in Asia**
+**Landmark climate change case opens at the top UN court as island nations fear rising seas**
 
-You can read more about it [here](https://studyfinds.org/big-head-people-human-species/).
+You can read more about it [here](https://apnews.com/article/eu-world-court-icj-climate-global-warming-e954301f0258509f67e66ae2762da6f6).
 
 ## Requirements
 - Python 3.8
