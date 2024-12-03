@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis CEO Carlos Tavares steps down**
+**Syrian and Russian jets step up strikes on rebels after opposition seizes much of Aleppo**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/business/stellantis-ceo-carlos-tavares-steps-down/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/01/middleeast/syrian-regime-airstrikes-opposition-forces-intl/index.html).
 
 ## Requirements
 - Python 3.8
