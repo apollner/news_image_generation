@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Landmark climate change case opens at the top UN court as island nations fear rising seas**
+**Drunken Trump nominee caught on stage with strippers**
 
-You can read more about it [here](https://apnews.com/article/eu-world-court-icj-climate-global-warming-e954301f0258509f67e66ae2762da6f6).
+You can read more about it [here](https://www.nj.com/politics/2024/12/drunken-trump-nominee-caught-on-stage-with-strippers.html).
 
 ## Requirements
 - Python 3.8
