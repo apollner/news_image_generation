@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Week 13 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
+**Snow continues to bury Northeast, with more expected through Monday**
 
-You can read more about it [here](https://bleacherreport.com/articles/10145377-week-13-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
+You can read more about it [here](https://www.washingtonpost.com/weather/2024/12/01/lake-effect-snow-great-lakes-northeast/).
 
 ## Requirements
 - Python 3.8
