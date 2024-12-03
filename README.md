@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump threatens 100% tariff on Bric nations**
+**Romanian leftists ahead of resurgent far-right in election: exit poll**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cgrwj0p2dd9o).
+You can read more about it [here](https://www.reuters.com/world/romanian-leftists-ahead-resurgent-far-right-election-exit-poll-2024-12-01/).
 
 ## Requirements
 - Python 3.8
