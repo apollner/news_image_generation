@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weekend Box Office: MOANA 2 Sails to $221M 5-Day Debut in Highest Earning Thanksgiving Frame of All Time**
+**Josh Allen has TDs passing, rushing and receiving as Bills rout 49ers 35-10 in snow, clinch AFC East**
 
-You can read more about it [here](https://www.boxofficepro.com/weekend-box-office-moana-2-sails-to-221m-5-day-debut-in-highest-earning-thanksgiving-frame-of-all-time/).
+You can read more about it [here](https://apnews.com/article/49ers-bills-score-e0956d695ead50321efdba586e638c12).
 
 ## Requirements
 - Python 3.8
