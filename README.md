@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian and Russian jets step up strikes on rebels after opposition seizes much of Aleppo**
+**Week 13 NFL Highlights 2024: Live Tracking Top Plays, Box Scores from Sunday Results**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/middleeast/syrian-regime-airstrikes-opposition-forces-intl/index.html).
+You can read more about it [here](https://bleacherreport.com/articles/10145377-week-13-nfl-highlights-2024-live-tracking-top-plays-box-scores-from-sunday-results).
 
 ## Requirements
 - Python 3.8
