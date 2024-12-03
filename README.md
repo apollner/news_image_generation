@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French lawmakers push through no-confidence motion that could topple government**
+**Houston Texans’ Azeez Al-Shaair apologizes for hit that concussed Jacksonville Jaguars QB Trevor Lawrence**
 
-You can read more about it [here](https://www.cnn.com/2024/12/02/europe/french-no-confidence-vote-barnier-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/01/sport/jacksonville-jaguars-trevor-lawrence-concussion-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
