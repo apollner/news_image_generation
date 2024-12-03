@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What happens next after Trump chooses FBI critic Kash Patel to remake the agency**
+**Box Office: How ‘Moana 2,’ ‘Wicked’ and ‘Gladiator II’ Fueled Biggest Thanksgiving on Record**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/what-happens-next-after-trump-chooses-fbi-critic-kash-patel-to-remake-the-agency).
+You can read more about it [here](https://variety.com/2024/film/box-office/thanksgiving-box-office-record-moana-2-wicked-gladiator-2-1236231794/).
 
 ## Requirements
 - Python 3.8
