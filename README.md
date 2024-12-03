@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston Texans’ Azeez Al-Shaair apologizes for hit that concussed Jacksonville Jaguars QB Trevor Lawrence**
+**Warcraft: Orcs & Humans, Warcraft 2 pulled from GOG platform**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/sport/jacksonville-jaguars-trevor-lawrence-concussion-spt-intl/index.html).
+You can read more about it [here](https://www.polygon.com/news/488807/warcraft-2-gog-pulled-preservation-program-battle-net).
 
 ## Requirements
 - Python 3.8
