@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google Maps is getting smarter with Waze's help**
+**US hits China’s chip industry with new export controls**
 
-You can read more about it [here](https://www.androidcentral.com/apps-software/google-maps-is-getting-smarter-with-wazes-help).
+You can read more about it [here](https://www.ft.com/content/2334d3d9-d744-4d1f-94cc-e328968b41ce).
 
 ## Requirements
 - Python 3.8
