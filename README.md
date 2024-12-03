@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Houston Texans’ Azeez Al-Shaair apologizes for hit that concussed Jacksonville Jaguars QB Trevor Lawrence**
+**Husband arrested on murder charge after missing Oregon woman and dogs found dead during multi-day search mission**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/sport/jacksonville-jaguars-trevor-lawrence-concussion-spt-intl/index.html).
+You can read more about it [here](https://www.cbsnews.com/news/susan-lane-fournier-dead-michael-fournier-husband-arrested-oregon/).
 
 ## Requirements
 - Python 3.8
