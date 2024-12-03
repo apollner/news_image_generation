@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis CEO Carlos Tavares steps down**
+**Google Maps is getting smarter with Waze's help**
 
-You can read more about it [here](https://www.cnn.com/2024/12/01/business/stellantis-ceo-carlos-tavares-steps-down/index.html).
+You can read more about it [here](https://www.androidcentral.com/apps-software/google-maps-is-getting-smarter-with-wazes-help).
 
 ## Requirements
 - Python 3.8
