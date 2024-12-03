@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warcraft: Orcs & Humans, Warcraft 2 pulled from GOG platform**
+**[Removed]**
 
-You can read more about it [here](https://www.polygon.com/news/488807/warcraft-2-gog-pulled-preservation-program-battle-net).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
