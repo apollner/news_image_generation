@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What has Joe Biden said about pardoning his son Hunter Biden?**
+**Houston Texans’ Azeez Al-Shaair apologizes for hit that concussed Jacksonville Jaguars QB Trevor Lawrence**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ceql5v5v0xlo).
+You can read more about it [here](https://www.cnn.com/2024/12/01/sport/jacksonville-jaguars-trevor-lawrence-concussion-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
