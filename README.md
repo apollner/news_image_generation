@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Lee Komoroski sentenced 25 years for DUI crash that killed Samantha Miller**
+**Gotham Awards 2024 Winners (UPDATING LIVE)**
 
-You can read more about it [here](https://abcnews4.com/news/local/jamie-lee-komoroski-sentenced-25-years-for-dui-crash-that-killed-samantha-miller).
+You can read more about it [here](https://variety.com/2024/film/awards/gotham-awards-2024-winners-1236225524/).
 
 ## Requirements
 - Python 3.8
