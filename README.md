@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McMillian's pick-6 helps Broncos spoil career nights by Winston and Jeudy and beat Browns 41-32**
+**Texans' Azeez Al-Shaair suspended three games by NFL for hit on Trevor Lawrence**
 
-You can read more about it [here](https://apnews.com/article/browns-broncos-score-dffc0abb169edc9e76fe7204334d6f9d).
+You can read more about it [here](https://www.cbssports.com/nfl/news/texans-azeez-al-shaair-suspended-three-games-by-nfl-for-hit-on-trevor-lawrence/).
 
 ## Requirements
 - Python 3.8
