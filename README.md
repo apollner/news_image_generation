@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean stocks rocked in U.S. trading after martial law declared**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/03/south-korean-stocks-rocked-after-martial-law-declared.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
