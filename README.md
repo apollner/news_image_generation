@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Deadly Israeli strikes hit southern Lebanon after Hezbollah attacks, testing shaky ceasefire**
+**Syria: Iraqi militias provide Assad support**
 
-You can read more about it [here](https://www.cnn.com/2024/12/02/middleeast/lebanon-hezbollah-israel-projectiles-ceasefire-intl-latam/index.html).
+You can read more about it [here](https://www.dw.com/en/syria-iraqi-militias-provide-assad-support/a-70936711).
 
 ## Requirements
 - Python 3.8
