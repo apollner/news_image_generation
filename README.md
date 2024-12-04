@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hawaii woman Hannah Kobayashi spotted entering Mexico - police**
+**Syrian rebels have taken Aleppo, the country’s second biggest city. Here’s who they are**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y7819j500o).
+You can read more about it [here](https://www.cnn.com/2024/12/02/middleeast/rebel-groups-syria-explainer-intl/index.html).
 
 ## Requirements
 - Python 3.8
