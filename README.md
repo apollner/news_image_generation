@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Watch Will Pete Hegseth Get a Confirmation Hearing?**
+**Kendrick Lamar and SZA announce 2025 North American stadium tour**
 
-You can read more about it [here](https://www.bloomberg.com/news/videos/2024-12-03/will-pete-hegseth-get-a-confirmation-hearing-video).
+You can read more about it [here](https://apnews.com/article/kendrick-lamar-sza-tour-97ac4cc8efaaf6e317754196864fedd5).
 
 ## Requirements
 - Python 3.8
