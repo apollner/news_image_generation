@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**General involved in Afghan evacuation promoted after senator drops freeze**
+**Statement from National Security Advisor Jake Sullivan**
 
-You can read more about it [here](https://www.washingtonpost.com/national-security/2024/12/02/markwayne-mullin-afghanistan-general/).
+You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/statement-from-national-security-advisor-jake-sullivan/).
 
 ## Requirements
 - Python 3.8
