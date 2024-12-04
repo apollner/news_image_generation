@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don’t Miss December’s Night Sky Spectacle: Venus Shines, Jupiter Glows, Meteors Fly!**
+**McMillian's pick-6 helps Broncos spoil career nights by Winston and Jeudy and beat Browns 41-32**
 
-You can read more about it [here](https://scitechdaily.com/dont-miss-decembers-night-sky-spectacle-venus-shines-jupiter-glows-meteors-fly/).
+You can read more about it [here](https://apnews.com/article/browns-broncos-score-dffc0abb169edc9e76fe7204334d6f9d).
 
 ## Requirements
 - Python 3.8
