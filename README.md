@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Virginia man charged with murder 4 months after his wife’s disappearance**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/virginia-missing-woman-mamta-bhatt-27c897bb32b4f35567c69c482e8c05b6).
 
 ## Requirements
 - Python 3.8
