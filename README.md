@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Don’t Miss December’s Night Sky Spectacle: Venus Shines, Jupiter Glows, Meteors Fly!**
+**Delaware judge reaffirms ruling that invalidated massive Tesla pay package for Elon Musk**
 
-You can read more about it [here](https://scitechdaily.com/dont-miss-decembers-night-sky-spectacle-venus-shines-jupiter-glows-meteors-fly/).
+You can read more about it [here](https://apnews.com/article/tesla-elon-musk-executive-pay-compensation-shareholders-86c5811b738e3a9df2b6e4adbcd055bb).
 
 ## Requirements
 - Python 3.8
