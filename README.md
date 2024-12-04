@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Power Rankings, Week 14: Bills and Eagles nipping at injury-riddled Lions heels; Ravens drop**
+**Tiger Woods ‘not tournament sharp yet’ in latest comeback**
 
-You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-14-2024-nfl-season).
+You can read more about it [here](https://www.pgatour.com/article/news/latest/2024/12/03/tiger-woods-speaks-at-hero-world-challenge-albany-bahamas-post-surgery).
 
 ## Requirements
 - Python 3.8
