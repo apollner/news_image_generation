@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dane County judge strikes down Act 10, restoring public employee union bargaining rights**
+**[Removed]**
 
-You can read more about it [here](https://www.wpr.org/news/dane-county-judge-strikes-down-act-10-restoring-public-employee-union-bargaining-rights).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
