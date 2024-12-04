@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hawaii woman Hannah Kobayashi spotted entering Mexico - police**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y7819j500o).
 
 ## Requirements
 - Python 3.8
