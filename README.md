@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he’ll attend Notre Dame Cathedral reopening celebration in Paris this weekend**
+**Dane County judge strikes down Act 10, restoring public employee union bargaining rights**
 
-You can read more about it [here](https://apnews.com/article/trump-paris-notre-dame-macron-32d9086e3d2f21ae871f5bb1120929be).
+You can read more about it [here](https://www.wpr.org/news/dane-county-judge-strikes-down-act-10-restoring-public-employee-union-bargaining-rights).
 
 ## Requirements
 - Python 3.8
