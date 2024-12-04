@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US woman admits drink-driving in crash that killed bride on wedding day**
+**Don’t Miss December’s Night Sky Spectacle: Venus Shines, Jupiter Glows, Meteors Fly!**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3wepqnypg5o).
+You can read more about it [here](https://scitechdaily.com/dont-miss-decembers-night-sky-spectacle-venus-shines-jupiter-glows-meteors-fly/).
 
 ## Requirements
 - Python 3.8
