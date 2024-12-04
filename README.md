@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria: Iraqi militias provide Assad support**
+**How 49ers will replace Christian McCaffrey, Jordan Mason after injuries**
 
-You can read more about it [here](https://www.dw.com/en/syria-iraqi-militias-provide-assad-support/a-70936711).
+You can read more about it [here](https://ninerswire.usatoday.com/2024/12/02/how-49ers-will-replace-christian-mccaffrey-jordan-mason-after-injuries/).
 
 ## Requirements
 - Python 3.8
