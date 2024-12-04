@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Bans Germanium, Gallium Exports to US in Tit-For-Tat Move**
+**[Removed]**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-03/china-bans-germanium-gallium-exports-to-us-in-tit-for-tat-move).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
