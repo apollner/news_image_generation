@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Moana 2' rides its way into box office history. How the animated sequel pulled it off.**
+**GOP senators defend Hegseth after private meeting**
 
-You can read more about it [here](https://www.yahoo.com/entertainment/moana-2-rides-its-way-into-box-office-history-how-the-animated-sequel-pulled-it-off-223513219.html).
+You can read more about it [here](https://www.axios.com/2024/12/03/senators-pete-hegseth-defense-secretary-trump).
 
 ## Requirements
 - Python 3.8
