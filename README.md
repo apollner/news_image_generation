@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendrick Lamar & SZA Announce 2025 Grand National Tour: See the Dates**
+**NFL Power Rankings, Week 14: Bills and Eagles nipping at injury-riddled Lions heels; Ravens drop**
 
-You can read more about it [here](http://www.billboard.com/music/rb-hip-hop/kendrick-lamar-sza-2025-tour-dates-grand-national-tour-1235842994/).
+You can read more about it [here](https://www.nfl.com/news/nfl-power-rankings-week-14-2024-nfl-season).
 
 ## Requirements
 - Python 3.8
