@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delaware judge reaffirms ruling that invalidated massive Tesla pay package for Elon Musk**
+**South Korea president declares emergency martial law**
 
-You can read more about it [here](https://apnews.com/article/tesla-elon-musk-executive-pay-compensation-shareholders-86c5811b738e3a9df2b6e4adbcd055bb).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnpIeXJGak9sVVJESXdYa3dsUzhfOGlFcGFkTWF4SGtCYmlHVHNwV0ZvWWk1eXdvVE55WWVhcmcxOXY5enZ6aVF0Z0lWY0lQZEZOd2VsOFVGN3JuUVlyWHNfYXJ5T1pRTkVib1Q3OEFOQmNJQ0YwbFBnZ3FXRTk4dA?oc=5).
 
 ## Requirements
 - Python 3.8
