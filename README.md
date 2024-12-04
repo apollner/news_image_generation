@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kendrick Lamar & SZA Announce 2025 Grand National Tour: See the Dates**
+**Health officials investigate mystery disease in southwest Congo after 143 deaths**
 
-You can read more about it [here](http://www.billboard.com/music/rb-hip-hop/kendrick-lamar-sza-2025-tour-dates-grand-national-tour-1235842994/).
+You can read more about it [here](https://apnews.com/article/congo-unknown-disease-kwango-11c96d7073ae4a0bc8ef9b2575f8d226).
 
 ## Requirements
 - Python 3.8
