@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials investigate mystery disease in southwest Congo after 143 deaths**
+**Watch Will Pete Hegseth Get a Confirmation Hearing?**
 
-You can read more about it [here](https://apnews.com/article/congo-unknown-disease-kwango-11c96d7073ae4a0bc8ef9b2575f8d226).
+You can read more about it [here](https://www.bloomberg.com/news/videos/2024-12-03/will-pete-hegseth-get-a-confirmation-hearing-video).
 
 ## Requirements
 - Python 3.8
