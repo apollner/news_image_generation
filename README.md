@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Texans' Azeez Al-Shaair suspended three games by NFL for hit on Trevor Lawrence**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cbssports.com/nfl/news/texans-azeez-al-shaair-suspended-three-games-by-nfl-for-hit-on-trevor-lawrence/).
 
 ## Requirements
 - Python 3.8
