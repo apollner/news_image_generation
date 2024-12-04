@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court divided over FDA block on kid-friendly flavored vapes**
+**Jamie Lee Komoroski sentenced 25 years for DUI crash that killed Samantha Miller**
 
-You can read more about it [here](https://abcnews.go.com/Politics/supreme-court-weighs-fda-block-kid-friendly-flavored/story?id\\u003d116232703).
+You can read more about it [here](https://abcnews4.com/news/local/jamie-lee-komoroski-sentenced-25-years-for-dui-crash-that-killed-samantha-miller).
 
 ## Requirements
 - Python 3.8
