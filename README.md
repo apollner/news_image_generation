@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian rebels have taken Aleppo, the country’s second biggest city. Here’s who they are**
+**'Moana 2' rides its way into box office history. How the animated sequel pulled it off.**
 
-You can read more about it [here](https://www.cnn.com/2024/12/02/middleeast/rebel-groups-syria-explainer-intl/index.html).
+You can read more about it [here](https://www.yahoo.com/entertainment/moana-2-rides-its-way-into-box-office-history-how-the-animated-sequel-pulled-it-off-223513219.html).
 
 ## Requirements
 - Python 3.8
