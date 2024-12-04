@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea president declares emergency martial law**
+**Trump says he’ll attend Notre Dame Cathedral reopening celebration in Paris this weekend**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnpIeXJGak9sVVJESXdYa3dsUzhfOGlFcGFkTWF4SGtCYmlHVHNwV0ZvWWk1eXdvVE55WWVhcmcxOXY5enZ6aVF0Z0lWY0lQZEZOd2VsOFVGN3JuUVlyWHNfYXJ5T1pRTkVib1Q3OEFOQmNJQ0YwbFBnZ3FXRTk4dA?oc=5).
+You can read more about it [here](https://apnews.com/article/trump-paris-notre-dame-macron-32d9086e3d2f21ae871f5bb1120929be).
 
 ## Requirements
 - Python 3.8
