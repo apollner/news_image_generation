@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mics Caught Josh Allen, Bills Teammates Debating How His Cool TD Would Be Scored**
+**Deadly Israeli strikes hit southern Lebanon after Hezbollah attacks, testing shaky ceasefire**
 
-You can read more about it [here](https://www.si.com/nfl/mics-caught-josh-allen-bills-teammates-debating-touchdown).
+You can read more about it [here](https://www.cnn.com/2024/12/02/middleeast/lebanon-hezbollah-israel-projectiles-ceasefire-intl-latam/index.html).
 
 ## Requirements
 - Python 3.8
