@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Statement from National Security Advisor Jake Sullivan**
+**Woman pleads guilty to DUI crash that killed bride on her wedding night**
 
-You can read more about it [here](https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/02/statement-from-national-security-advisor-jake-sullivan/).
+You can read more about it [here](https://abcnews.go.com/US/woman-pleads-guilty-dui-crash-killed-bride-wedding/story?id\\u003d116383684).
 
 ## Requirements
 - Python 3.8
