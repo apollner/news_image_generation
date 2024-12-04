@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials investigate mystery disease in southwest Congo after 143 deaths**
+**College Football Playoff Rankings: Oregon holds on top, Georgia rejoins top five, Alabama in projected field**
 
-You can read more about it [here](https://apnews.com/article/congo-unknown-disease-kwango-11c96d7073ae4a0bc8ef9b2575f8d226).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-oregon-holds-on-top-georgia-rejoins-top-five-alabama-in-projected-field/).
 
 ## Requirements
 - Python 3.8
