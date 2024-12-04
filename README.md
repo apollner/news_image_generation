@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**GOP senators defend Hegseth after private meeting**
+**China Bans Germanium, Gallium Exports to US in Tit-For-Tat Move**
 
-You can read more about it [here](https://www.axios.com/2024/12/03/senators-pete-hegseth-defense-secretary-trump).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-03/china-bans-germanium-gallium-exports-to-us-in-tit-for-tat-move).
 
 ## Requirements
 - Python 3.8
