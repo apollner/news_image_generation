@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texans' Azeez Al-Shaair suspended three games by NFL for hit on Trevor Lawrence**
+**Kendrick Lamar & SZA Announce 2025 Grand National Tour: See the Dates**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/texans-azeez-al-shaair-suspended-three-games-by-nfl-for-hit-on-trevor-lawrence/).
+You can read more about it [here](http://www.billboard.com/music/rb-hip-hop/kendrick-lamar-sza-2025-tour-dates-grand-national-tour-1235842994/).
 
 ## Requirements
 - Python 3.8
