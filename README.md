@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman pleads guilty to DUI crash that killed bride on her wedding night**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/US/woman-pleads-guilty-dui-crash-killed-bride-wedding/story?id\\u003d116383684).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
