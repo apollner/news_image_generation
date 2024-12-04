@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How 49ers will replace Christian McCaffrey, Jordan Mason after injuries**
+**General involved in Afghan evacuation promoted after senator drops freeze**
 
-You can read more about it [here](https://ninerswire.usatoday.com/2024/12/02/how-49ers-will-replace-christian-mccaffrey-jordan-mason-after-injuries/).
+You can read more about it [here](https://www.washingtonpost.com/national-security/2024/12/02/markwayne-mullin-afghanistan-general/).
 
 ## Requirements
 - Python 3.8
