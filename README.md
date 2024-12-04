@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Don’t Miss December’s Night Sky Spectacle: Venus Shines, Jupiter Glows, Meteors Fly!**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://scitechdaily.com/dont-miss-decembers-night-sky-spectacle-venus-shines-jupiter-glows-meteors-fly/).
 
 ## Requirements
 - Python 3.8
