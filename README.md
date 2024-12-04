@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gotham Awards 2024 Winners (UPDATING LIVE)**
+**Syrian forces regroup with help from Iran, Russia after shock rebel advance**
 
-You can read more about it [here](https://variety.com/2024/film/awards/gotham-awards-2024-winners-1236225524/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/12/02/syria-rebels-russia-iran-assad/).
 
 ## Requirements
 - Python 3.8
