@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NBA Cup standings for in-season tournament: Clinching scenarios for every group, tiebreakers explained**
+**Live coverage: SpaceX to launch Falcon 9 rocket booster for record 24th time**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-cup-standings-for-in-season-tournament-bucks-knicks-warriors-more-advance-to-knockout-stage/).
+You can read more about it [here](https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/).
 
 ## Requirements
 - Python 3.8
