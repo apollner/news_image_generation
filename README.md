@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden does complete reversal with pardon for son**
+**Buffalo Bills remain in upper echelon of Week 14 NFL power rankings**
 
-You can read more about it [here](https://thehill.com/homenews/administration/5020502-biden-pardons-son-political-reversal/).
+You can read more about it [here](https://www.buffalorumblings.com/2024/12/3/24312012/buffalo-bills-remain-in-upper-echelon-of-week-14-nfl-power-rankings-2024).
 
 ## Requirements
 - Python 3.8
