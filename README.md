@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Retired Agent on How FBI Will React to Kash Patel’s Demands**
+**South Korea: Martial law sparks fear and confusion among citizens**
 
-You can read more about it [here](https://www.thedailybeast.com/retired-agent-on-how-fbi-will-react-to-kash-patels-demands/).
+You can read more about it [here](https://www.bbc.com/news/articles/c0kvjx474g1o).
 
 ## Requirements
 - Python 3.8
