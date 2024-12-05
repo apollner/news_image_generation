@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch Falcon 9 rocket booster for record 24th time**
+**‘Loki’ Actor Jack Veal Says He’s Homeless at 17: “I Have Nowhere Else to Go and I Need Help”**
 
-You can read more about it [here](https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/).
+You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/teen-loki-actor-jack-veal-homeless-1236076440/).
 
 ## Requirements
 - Python 3.8
