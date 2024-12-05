@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgian opposition politician beaten unconscious by police, party says, as government crackdown intensifies**
+**Middle East latest: An Israeli strike on a Gaza tent camp kills at least 21 people**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2dpbFg3RDFlMmFHM0F5WkswdlEzaFdqeV9OdXJTTVlzQ24zNGxRZERPMUdqLVJnQjB4bW9OV0tnRlF3bXJ0ZmZkQ05Cak5BUjFTZnBPR2NmVTZkaVR3dVRQX3VXR1p5UVdJT2pyWTJoSG40T0I0NU1GUG5NSUZOMGhNYzZPRUNlTXpFbU1ZZC0xUdIBiAFBVV95cUxPYlpzRGxRWHdVOEk5NlNyUnJRdnVlXy1fNUd3UE44bXg4NHE5ZlJKRlJTTWY2M2hRNHA0bUEyQVdramxZY2ZGbTB1ZHU5RkpUMlBCM2xBcUUyNVk0ZGo4U09ualN0S1dNSjBILVVIcjZ5Qm5Kd256ZDNMMEZPMGZWZlBVc19nZm5q?oc=5).
+You can read more about it [here](https://apnews.com/article/israel-hezbollah-lebanon-war-latest-4-december-2024-1369e179a32e5272ac99f6818f69cb8e).
 
 ## Requirements
 - Python 3.8
