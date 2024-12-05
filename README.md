@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court hears major case on banning transgender care for minors**
+**‘Skeleton Crew’ Is Now The Best Reviewed Disney Star Wars Project Besides ‘Andor’**
 
-You can read more about it [here](https://www.cnn.com/politics/live-news/scotus-transgender-care-ban-12-04-24/index.html).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/12/04/skeleton-crew-is-now-the-best-reviewed-disney-star-wars-project-besides-andor/).
 
 ## Requirements
 - Python 3.8
