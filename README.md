@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran’s jailed Nobel laureate Narges Mohammadi allowed to leave prison for 21 days after surgery**
+**Debbie Nelson, Eminem’s Mother, Dies at 69**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDFUZDE0d1RUU2lRcWRLekVEbkx3ZW82bUVtelptczA5eDlEcEN4bVh0Nmp5NlNJWUFMYTI5bGhMd3VzZ2JOUGNSVDQyVzFvTWIyUkM3WW9JanBXMUp2bV9UdUw5VXF3UXV4bVdEOURfMWVCTVVldW8zWGlnLVEwMkJkN21tZVh3NDNfY0FBMXVla25GRUluZjkyTXhRemo5d2ZYa1BLb9IBngFBVV95cUxOS0JUTHl2NVJhQzlmRWJaYWtLVVNIZjU4bUZna3hnZWduVDA0RFA5VHpUcGsxdkVKOTZfMDhNdmE2eHZXbUpiRjRWUFJhU213cFBHQjBPUHVDSzZZU3VsOU10RFpXRDE5WGNPdE52Mm0wQ1pCZ1VTTXJVZ1J1UTFXbUVxYkZnYmVfeDdTOG5FeUNLQmNqWUM4a1FNSm1Vdw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdkIzNGZfMG0wQ1pFMDJjeldNY3JzaVpIVm8xOUQyVGIxbDVKQTN2bHp4UkVyYTZ6MHFmM0JNaUZVRnplazc2Y1NHUGFyWWVOcE53YjdlQm9oNnNLS1ZPVHhlRGZWODA5LVNEZnBEYnlUWmRMME5EOVctSkcwTkVfaE5XYjVxNlhDalM4?oc=5).
 
 ## Requirements
 - Python 3.8
