@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barnier makes last-ditch effort to prevent government collapse**
+**Biden does complete reversal with pardon for son**
 
-You can read more about it [here](https://www.politico.eu/article/michel-barnier-vote-france-lawmakers-debate-budget-spending-cuts-2025-prime-minister-tax-hikes/).
+You can read more about it [here](https://thehill.com/homenews/administration/5020502-biden-pardons-son-political-reversal/).
 
 ## Requirements
 - Python 3.8
