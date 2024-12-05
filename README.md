@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Girls Gone Wild’ Doc on Controversial Creator Joe Francis Takeaways**
+**Iran’s jailed Nobel laureate Narges Mohammadi allowed to leave prison for 21 days after surgery**
 
-You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/girls-gone-wild-joe-francis-peacock-doc-1235191346/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDFUZDE0d1RUU2lRcWRLekVEbkx3ZW82bUVtelptczA5eDlEcEN4bVh0Nmp5NlNJWUFMYTI5bGhMd3VzZ2JOUGNSVDQyVzFvTWIyUkM3WW9JanBXMUp2bV9UdUw5VXF3UXV4bVdEOURfMWVCTVVldW8zWGlnLVEwMkJkN21tZVh3NDNfY0FBMXVla25GRUluZjkyTXhRemo5d2ZYa1BLb9IBngFBVV95cUxOS0JUTHl2NVJhQzlmRWJaYWtLVVNIZjU4bUZna3hnZWduVDA0RFA5VHpUcGsxdkVKOTZfMDhNdmE2eHZXbUpiRjRWUFJhU213cFBHQjBPUHVDSzZZU3VsOU10RFpXRDE5WGNPdE52Mm0wQ1pCZ1VTTXJVZ1J1UTFXbUVxYkZnYmVfeDdTOG5FeUNLQmNqWUM4a1FNSm1Vdw?oc=5).
 
 ## Requirements
 - Python 3.8
