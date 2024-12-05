@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barnier makes last-ditch effort to prevent government collapse**
+**Elon Musk's net worth balloons despite court rejecting Tesla pay package**
 
-You can read more about it [here](https://www.politico.eu/article/michel-barnier-vote-france-lawmakers-debate-budget-spending-cuts-2025-prime-minister-tax-hikes/).
+You can read more about it [here](https://www.axios.com/2024/12/03/elon-musk-tesla-trump-election).
 
 ## Requirements
 - Python 3.8
