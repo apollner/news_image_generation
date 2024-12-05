@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Elon Musk's net worth balloons despite court rejecting Tesla pay package**
+**South Korea: Martial law sparks fear and confusion among citizens**
 
-You can read more about it [here](https://www.axios.com/2024/12/03/elon-musk-tesla-trump-election).
+You can read more about it [here](https://www.bbc.com/news/articles/c0kvjx474g1o).
 
 ## Requirements
 - Python 3.8
