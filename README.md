@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff Rankings: Oregon holds on top, Georgia rejoins top five, Alabama in projected field**
+**Asteroid nearly hits Earth in Siberia, with a 2nd massive asteroid passing this week**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-oregon-holds-on-top-georgia-rejoins-top-five-alabama-in-projected-field/).
+You can read more about it [here](https://abcnews.go.com/International/asteroid-creates-fireball-siberia-larger-version/story?id\\u003d116422005).
 
 ## Requirements
 - Python 3.8
