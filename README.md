@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WHO is investigating mystery illness behind 12 dozen deaths in the Democratic Republic of the Congo**
+**Georgian opposition politician beaten unconscious by police, party says, as government crackdown intensifies**
 
-You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/who-is-investigating-mystery-illness-behind-12-dozen-deaths-in-the-democratic-republic-of-the-congo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQS2dpbFg3RDFlMmFHM0F5WkswdlEzaFdqeV9OdXJTTVlzQ24zNGxRZERPMUdqLVJnQjB4bW9OV0tnRlF3bXJ0ZmZkQ05Cak5BUjFTZnBPR2NmVTZkaVR3dVRQX3VXR1p5UVdJT2pyWTJoSG40T0I0NU1GUG5NSUZOMGhNYzZPRUNlTXpFbU1ZZC0xUdIBiAFBVV95cUxPYlpzRGxRWHdVOEk5NlNyUnJRdnVlXy1fNUd3UE44bXg4NHE5ZlJKRlJTTWY2M2hRNHA0bUEyQVdramxZY2ZGbTB1ZHU5RkpUMlBCM2xBcUUyNVk0ZGo4U09ualN0S1dNSjBILVVIcjZ5Qm5Kd256ZDNMMEZPMGZWZlBVc19nZm5q?oc=5).
 
 ## Requirements
 - Python 3.8
