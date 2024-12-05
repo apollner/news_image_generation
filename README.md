@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Erdoğan’s risky play in Syria**
+**‘Girls Gone Wild’ Doc on Controversial Creator Joe Francis Takeaways**
 
-You can read more about it [here](https://www.politico.eu/article/tayyip-erdogan-aleppo-abbas-araghchi-hts-lebanon-hezbollah-syria-bashar-assad-forces-aleppo/).
+You can read more about it [here](http://www.rollingstone.com/tv-movies/tv-movie-news/girls-gone-wild-joe-francis-peacock-doc-1235191346/).
 
 ## Requirements
 - Python 3.8
