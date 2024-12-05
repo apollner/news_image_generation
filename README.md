@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea: Martial law sparks fear and confusion among citizens**
+**The abject weirdness of AI ads**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0kvjx474g1o).
+You can read more about it [here](https://techcrunch.com/2024/12/03/the-abject-weirdness-of-ai-ads/).
 
 ## Requirements
 - Python 3.8
