@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live coverage: SpaceX to launch Falcon 9 rocket booster for record 24th time**
+**The tragedy of Michel Barnier**
 
-You can read more about it [here](https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/).
+You can read more about it [here](https://www.politico.eu/article/michel-barnier-europe-shockwaves-france-political-storm-national-rally-government-marine-le-pen-tax-hikes-budgets/).
 
 ## Requirements
 - Python 3.8
