@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Spectacular' asteroid blazes over Siberia just hours after it was detected**
+**WHO is investigating mystery illness behind 12 dozen deaths in the Democratic Republic of the Congo**
 
-You can read more about it [here](https://www.livescience.com/space/asteroids/spectacular-asteroid-blazes-over-siberia-just-hours-after-it-was-detected).
+You can read more about it [here](https://www.livescience.com/health/viruses-infections-disease/who-is-investigating-mystery-illness-behind-12-dozen-deaths-in-the-democratic-republic-of-the-congo).
 
 ## Requirements
 - Python 3.8
