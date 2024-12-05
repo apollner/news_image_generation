@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Philippines says China’s coast guard fired water cannons and sideswiped its patrol vessel**
+**Gaudreau honored by Flames, Blue Jackets with pregame tribute in Calgary**
 
-You can read more about it [here](https://apnews.com/article/china-philippines-disputed-scarborough-shoal-south-china-sea-77e94f6acc69153bd7a9acc187027f9e).
+You can read more about it [here](https://www.nhl.com/news/calgary-flames-columbus-blue-jackets-honor-johnny-gaudreau-with-pregame-tribute).
 
 ## Requirements
 - Python 3.8
