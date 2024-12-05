@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO Brian Thompson fatally shot in New York**
+**'Unity and virtue': Mitt Romney bids farewell to the Senate after 6 years**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/04/unitedhealth-cancels-investor-day-after-reports-of-executive-shot-in-manhattan.html).
+You can read more about it [here](https://www.ksl.com/article/51204029/unity-and-virtue-mitt-romney-bids-farewell-to-the-senate-after-6-years).
 
 ## Requirements
 - Python 3.8
