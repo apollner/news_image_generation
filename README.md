@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump transition live updates: Pete Hegseth vows to keep fighting for defense secretary post**
+**Chi-Chi’s is making a comeback 20 years after its last restaurant closed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRuODBUX1lMUldFeUhRVkhQQl9VUnhudXFRMjFudVhxbWlTWWt4cF94UkpxSjYtVWFKRk9KSk5MY2ZMWmxsd2RKbS13ZUs5TmhYdGY0d3E0azJHT0kxSWJLNHpPYW1QT2xKcTdWUTdwZ05rZGw0WWVRbmhMQVhUbFlFQ2F5dVJnVEpv?oc=5).
+You can read more about it [here](https://www.wlky.com/article/chi-chis-restaurant-comeback/63094076).
 
 ## Requirements
 - Python 3.8
