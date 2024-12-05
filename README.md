@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**College Football Playoff Rankings reaction: SEC love prevails again as Alabama sits ahead of Miami in top 25**
+**‘Loki’ Actor Jack Veal Says He’s Homeless at 17: “I Have Nowhere Else to Go and I Need Help”**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reaction-sec-love-prevails-again-as-alabama-sits-ahead-of-miami-in-top-25/).
+You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/teen-loki-actor-jack-veal-homeless-1236076440/).
 
 ## Requirements
 - Python 3.8
