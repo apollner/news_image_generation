@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea: Martial law sparks fear and confusion among citizens**
+**South Korea martial law: What happens next?**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0kvjx474g1o).
+You can read more about it [here](https://www.bbc.com/news/articles/c0lgw1pw5zpo).
 
 ## Requirements
 - Python 3.8
