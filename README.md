@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Skeleton Crew’ Is Now The Best Reviewed Disney Star Wars Project Besides ‘Andor’**
+**She Was a Russian Socialite and Influencer. Cops Say She’s a Crypto Laundering Kingpin**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/12/04/skeleton-crew-is-now-the-best-reviewed-disney-star-wars-project-besides-andor/).
+You can read more about it [here](https://www.wired.com/story/operation-destabilise-money-laundering/).
 
 ## Requirements
 - Python 3.8
