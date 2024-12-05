@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump nominates cryptocurrency advocate Paul Atkins as SEC chair**
+**Trump transition live updates: Pete Hegseth vows to keep fighting for defense secretary post**
 
-You can read more about it [here](https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjRuODBUX1lMUldFeUhRVkhQQl9VUnhudXFRMjFudVhxbWlTWWt4cF94UkpxSjYtVWFKRk9KSk5MY2ZMWmxsd2RKbS13ZUs5TmhYdGY0d3E0azJHT0kxSWJLNHpPYW1QT2xKcTdWUTdwZ05rZGw0WWVRbmhMQVhUbFlFQ2F5dVJnVEpv?oc=5).
 
 ## Requirements
 - Python 3.8
