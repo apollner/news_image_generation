@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No-confidence vote could topple the French government for the first time since 1962**
+**Supreme Court hears major case on banning transgender care for minors**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxQR01QYmdRaHNBOUxmMFdueGg2MHY3b2pCRGc2dm0xd3dqVjQ4Ql9qN2t0MlotSFFUS1l4Si1SOFIzV0k1MmlNV3FrM0lqWkdSQmdVb2RITC1uYWQxTFZTQkJ2WGR2SU04dExJc3hSLUxsN3d2d3Y2VmhnMlQ5ZEJDUE9tMVNIRzcwaTVfRFptUEtDZzB4LUtocFRwSF9YRFZqcW1wdDVtRE95NkJv?oc=5).
+You can read more about it [here](https://www.cnn.com/politics/live-news/scotus-transgender-care-ban-12-04-24/index.html).
 
 ## Requirements
 - Python 3.8
