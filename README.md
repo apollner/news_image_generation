@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asteroid nearly hits Earth in Siberia, with a 2nd massive asteroid passing this week**
+**Eminem's mother Debbie Nelson, whose rocky relationship fueled the rapper's lyrics, dies at age 69**
 
-You can read more about it [here](https://abcnews.go.com/International/asteroid-creates-fireball-siberia-larger-version/story?id\\u003d116422005).
+You can read more about it [here](https://apnews.com/article/debbie-nelson-obit-eminem-8d3a12c7643536708555695fb14f01cc).
 
 ## Requirements
 - Python 3.8
