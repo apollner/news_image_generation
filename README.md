@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Middle East latest: An Israeli strike on a Gaza tent camp kills at least 21 people**
+**Trump nominates cryptocurrency advocate Paul Atkins as SEC chair**
 
-You can read more about it [here](https://apnews.com/article/israel-hezbollah-lebanon-war-latest-4-december-2024-1369e179a32e5272ac99f6818f69cb8e).
+You can read more about it [here](https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4).
 
 ## Requirements
 - Python 3.8
