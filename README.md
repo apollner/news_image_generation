@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Unity and virtue': Mitt Romney bids farewell to the Senate after 6 years**
+**National Signing Day, 2024: Where are N.J. D1 football players signing to play?**
 
-You can read more about it [here](https://www.ksl.com/article/51204029/unity-and-virtue-mitt-romney-bids-farewell-to-the-senate-after-6-years).
+You can read more about it [here](https://www.nj.com/highschoolsports/2024/12/national-signing-day-2024-where-are-nj-d1-football-players-signing-to-play.html).
 
 ## Requirements
 - Python 3.8
