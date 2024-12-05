@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**National Signing Day, 2024: Where are N.J. D1 football players signing to play?**
+**'Spectacular' asteroid blazes over Siberia just hours after it was detected**
 
-You can read more about it [here](https://www.nj.com/highschoolsports/2024/12/national-signing-day-2024-where-are-nj-d1-football-players-signing-to-play.html).
+You can read more about it [here](https://www.livescience.com/space/asteroids/spectacular-asteroid-blazes-over-siberia-just-hours-after-it-was-detected).
 
 ## Requirements
 - Python 3.8
