@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the Dramatic Race to Restore Notre Dame Cathedral**
+**Live coverage: SpaceX to launch Falcon 9 rocket booster for record 24th time**
 
-You can read more about it [here](https://www.wsj.com/world/europe/notre-dame-restoration-reopening-paris-france-macron-602c0c32).
+You can read more about it [here](https://spaceflightnow.com/2024/12/03/live-coverage-spacex-to-launch-starlink-satellites-on-falcon-9-rocket-from-cape-canaveral-6/).
 
 ## Requirements
 - Python 3.8
