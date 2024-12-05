@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The tragedy of Michel Barnier**
+**College Football Playoff Rankings reaction: SEC love prevails again as Alabama sits ahead of Miami in top 25**
 
-You can read more about it [here](https://www.politico.eu/article/michel-barnier-europe-shockwaves-france-political-storm-national-rally-government-marine-le-pen-tax-hikes-budgets/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/college-football-playoff-rankings-reaction-sec-love-prevails-again-as-alabama-sits-ahead-of-miami-in-top-25/).
 
 ## Requirements
 - Python 3.8
