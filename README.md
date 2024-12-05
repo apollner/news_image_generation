@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**She Was a Russian Socialite and Influencer. Cops Say She’s a Crypto Laundering Kingpin**
+**UnitedHealthcare CEO Brian Thompson fatally shot in New York**
 
-You can read more about it [here](https://www.wired.com/story/operation-destabilise-money-laundering/).
+You can read more about it [here](https://www.cnbc.com/2024/12/04/unitedhealth-cancels-investor-day-after-reports-of-executive-shot-in-manhattan.html).
 
 ## Requirements
 - Python 3.8
