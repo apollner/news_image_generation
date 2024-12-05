@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Loki’ Actor Jack Veal Says He’s Homeless at 17: “I Have Nowhere Else to Go and I Need Help”**
+**2024 NBA Cup standings for in-season tournament: Clinching scenarios for every group, tiebreakers explained**
 
-You can read more about it [here](http://www.hollywoodreporter.com/lifestyle/lifestyle-news/teen-loki-actor-jack-veal-homeless-1236076440/).
+You can read more about it [here](https://www.cbssports.com/nba/news/2024-nba-cup-standings-for-in-season-tournament-bucks-knicks-warriors-more-advance-to-knockout-stage/).
 
 ## Requirements
 - Python 3.8
