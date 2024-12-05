@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Gaudreau honored by Flames, Blue Jackets with pregame tribute in Calgary**
+**Erdoğan’s risky play in Syria**
 
-You can read more about it [here](https://www.nhl.com/news/calgary-flames-columbus-blue-jackets-honor-johnny-gaudreau-with-pregame-tribute).
+You can read more about it [here](https://www.politico.eu/article/tayyip-erdogan-aleppo-abbas-araghchi-hts-lebanon-hezbollah-syria-bashar-assad-forces-aleppo/).
 
 ## Requirements
 - Python 3.8
