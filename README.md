@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eminem's mother Debbie Nelson, whose rocky relationship fueled the rapper's lyrics, dies at age 69**
+**Retired Agent on How FBI Will React to Kash Patel’s Demands**
 
-You can read more about it [here](https://apnews.com/article/debbie-nelson-obit-eminem-8d3a12c7643536708555695fb14f01cc).
+You can read more about it [here](https://www.thedailybeast.com/retired-agent-on-how-fbi-will-react-to-kash-patels-demands/).
 
 ## Requirements
 - Python 3.8
