@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**JetBlue cuts more unprofitable routes, tweaks Europe flights**
+**Musk, Ramaswamy visit Capitol Hill to discuss Trump's DOGE vision for cutting government waste**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/04/jetblue-cuts-routes-europe-flights.html).
+You can read more about it [here](https://www.foxnews.com/politics/musk-ramaswamy-visit-capitol-hill-discuss-trumps-doge-vision-cutting-government-waste).
 
 ## Requirements
 - Python 3.8
