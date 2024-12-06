@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tyler Herro erupts to lift Heat to 41-point blowout win over Lakers as LeBron James snaps his 3-point dry spell**
+**Hate Your Spotify Wrapped? You Aren’t Alone**
 
-You can read more about it [here](https://sports.yahoo.com/tyler-herro-erupts-to-lift-heat-to-41-point-blowout-win-over-lakers-as-lebron-james-snaps-his-3-point-dry-spell-024331810.html).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/spotify-wrapped-2024-disappointing-1235192170/).
 
 ## Requirements
 - Python 3.8
