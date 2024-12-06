@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Musk, Ramaswamy visit Capitol Hill to discuss Trump's DOGE vision for cutting government waste**
+**French government collapses after no-confidence vote in PM Michel Barnier**
 
-You can read more about it [here](https://www.foxnews.com/politics/musk-ramaswamy-visit-capitol-hill-discuss-trumps-doge-vision-cutting-government-waste).
+You can read more about it [here](https://www.bbc.com/news/articles/cdxz934p56qo).
 
 ## Requirements
 - Python 3.8
