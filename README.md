@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Search for woman in sinkhole shifts to recovery effort: Police**
+**Stock futures are little changed after S&P 500, Nasdaq notch new closing highs: Live updates**
 
-You can read more about it [here](https://abcnews.go.com/US/pennsylvania-sinkhole-search-woman-update/story?id\\u003d116463336).
+You can read more about it [here](https://www.cnbc.com/2024/12/04/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
