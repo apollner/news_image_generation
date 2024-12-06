@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lawmaker accuses acting Secret Service director of 9/11 publicity stunt and ‘auditioning’ to keep his post in tense exchange**
+**NFL names nominees for Man of the Year Award**
 
-You can read more about it [here](https://www.cnn.com/2024/12/05/politics/secret-service-director-congressional-hearing/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42795521/nfl-releases-walter-payton-nfl-man-year-award-nominees).
 
 ## Requirements
 - Python 3.8
