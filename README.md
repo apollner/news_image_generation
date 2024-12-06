@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Red Sox still in running as Juan Soto sweepstakes ‘coming to a head’**
+**Two kindergartners in critical condition after gunman opens fire at Christian school in California school, sheriff says**
 
-You can read more about it [here](https://www.masslive.com/redsox/2024/12/red-sox-still-in-running-as-soto-sweepstakes-coming-to-a-head.html).
+You can read more about it [here](https://www.cnn.com/2024/12/04/us/california-school-shooting/index.html).
 
 ## Requirements
 - Python 3.8
