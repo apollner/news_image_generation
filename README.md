@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A surprising turn in Syria's civil war**
+**SpaceX to launch 350th mission using a flight-proven Falcon 9 rocket booster during Starlink mission from California**
 
-You can read more about it [here](https://www.washingtonpost.com/podcasts/post-reports/a-surprising-turn-in-syrias-civil-war/).
+You can read more about it [here](https://spaceflightnow.com/2024/12/04/spacex-to-launch-350th-mission-using-a-flight-proven-falcon-9-rocket-booster-during-starlink-mission-from-california/).
 
 ## Requirements
 - Python 3.8
