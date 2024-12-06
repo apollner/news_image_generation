@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oil prices little changed as OPEC+ members to delay production increase until April**
+**Here's how SpaceX's 6th Starship megarocket launch looked from the ISS (video)**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/05/oil-prices-little-changed-after-opec-members-delay-production-increase-until-april.html).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/heres-how-spacexs-6th-starship-megarocket-launch-looked-from-the-iss-video).
 
 ## Requirements
 - Python 3.8
