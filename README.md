@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Board Blasted For Handling Of CEO's Sudden Exit As Stock Falls Again**
+**Hate Your Spotify Wrapped? You Aren’t Alone**
 
-You can read more about it [here](https://www.investors.com/news/technology/intel-stock-intc-analyst-blasts-board/).
+You can read more about it [here](http://www.rollingstone.com/music/music-news/spotify-wrapped-2024-disappointing-1235192170/).
 
 ## Requirements
 - Python 3.8
