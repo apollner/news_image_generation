@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Russell slams 'bully' Verstappen after revealing Qatar crash threat**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.motorsport.com/f1/news/russell-slams-bully-verstappen-after-revealing-qatar-crash-threat/10679444/).
 
 ## Requirements
 - Python 3.8
