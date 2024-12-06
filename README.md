@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO Brian Thompson killed in ‘brazen, targeted attack’ in NYC; manhunt underway**
+**Dow closes above 45K for first time as Nasdaq, S&P 500 all hit all-time highs after Powell remarks**
 
-You can read more about it [here](https://www.startribune.com/brian-thompson-unitedhealthcare-shot-nyc/601190599).
+You can read more about it [here](https://nypost.com/2024/12/04/business/dow-closes-above-45k-for-first-time-as-nasdaq-sampp-500-all-hit-all-time-highs/).
 
 ## Requirements
 - Python 3.8
