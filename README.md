@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Price: Why Did the Crypto Surge Past $100,000 — and How Far Can It Rise?**
+**OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model**
 
-You can read more about it [here](https://www.barrons.com/articles/bitcoin-price-hits-100k-bcdb5157).
+You can read more about it [here](https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier).
 
 ## Requirements
 - Python 3.8
