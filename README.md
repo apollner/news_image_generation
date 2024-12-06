@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL odds, lines, picks, spreads, bets, predictions, what to bet for Week 14, 2024: Model eyeing Bills, Eagles**
+**$1 phone scanner finds seven Pegasus spyware infections**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/nfl-odds-lines-picks-spreads-bets-predictions-what-to-bet-for-week-14-2024-model-eyeing-bills-eagles/).
+You can read more about it [here](https://www.wired.com/story/iverify-spyware-detection-tool-nso-group-pegasus/).
 
 ## Requirements
 - Python 3.8
