@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French government collapses after no-confidence vote in PM Michel Barnier**
+**Oil prices little changed as OPEC+ members to delay production increase until April**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cdxz934p56qo).
+You can read more about it [here](https://www.cnbc.com/2024/12/05/oil-prices-little-changed-after-opec-members-delay-production-increase-until-april.html).
 
 ## Requirements
 - Python 3.8
