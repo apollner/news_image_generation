@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI is charging $200 a month for an exclusive version of its o1 ‘reasoning’ model**
+**Red Sox still in running as Juan Soto sweepstakes ‘coming to a head’**
 
-You can read more about it [here](https://www.theverge.com/2024/12/5/24314147/openai-reasoning-model-o1-strawberry-chatgpt-pro-new-tier).
+You can read more about it [here](https://www.masslive.com/redsox/2024/12/red-sox-still-in-running-as-soto-sweepstakes-coming-to-a-head.html).
 
 ## Requirements
 - Python 3.8
