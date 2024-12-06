@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘The Masked Singer’ Reveals Identity of Goo: Here Is the Celebrity Under the Costume**
+**JetBlue cuts more unprofitable routes, tweaks Europe flights**
 
-You can read more about it [here](https://variety.com/2024/tv/news/the-masked-singer-season-12-episode-10-recap-kobie-turner-goo-1236234530/).
+You can read more about it [here](https://www.cnbc.com/2024/12/04/jetblue-cuts-routes-europe-flights.html).
 
 ## Requirements
 - Python 3.8
