@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hate Your Spotify Wrapped? You Aren’t Alone**
+**French government collapses after no-confidence vote in PM Michel Barnier**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-news/spotify-wrapped-2024-disappointing-1235192170/).
+You can read more about it [here](https://www.bbc.com/news/articles/cdxz934p56qo).
 
 ## Requirements
 - Python 3.8
