@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chi-Chi’s is making a comeback 20 years after its last restaurant closed**
+**UnitedHealthcare CEO Brian Thompson killed in ‘brazen, targeted attack’ in NYC; manhunt underway**
 
-You can read more about it [here](https://www.wlky.com/article/chi-chis-restaurant-comeback/63094076).
+You can read more about it [here](https://www.startribune.com/brian-thompson-unitedhealthcare-shot-nyc/601190599).
 
 ## Requirements
 - Python 3.8
