@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump nominates cryptocurrency advocate Paul Atkins as SEC chair**
+**‘The Masked Singer’ Reveals Identity of Goo: Here Is the Celebrity Under the Costume**
 
-You can read more about it [here](https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4).
+You can read more about it [here](https://variety.com/2024/tv/news/the-masked-singer-season-12-episode-10-recap-kobie-turner-goo-1236234530/).
 
 ## Requirements
 - Python 3.8
