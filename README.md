@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX to launch 350th mission using a flight-proven Falcon 9 rocket booster during Starlink mission from California**
+**Search for woman in sinkhole shifts to recovery effort: Police**
 
-You can read more about it [here](https://spaceflightnow.com/2024/12/04/spacex-to-launch-350th-mission-using-a-flight-proven-falcon-9-rocket-booster-during-starlink-mission-from-california/).
+You can read more about it [here](https://abcnews.go.com/US/pennsylvania-sinkhole-search-woman-update/story?id\\u003d116463336).
 
 ## Requirements
 - Python 3.8
