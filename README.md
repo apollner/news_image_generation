@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin tops $100,000 as big rally sparked by Trump election win rolls on**
+**Musk, Ramaswamy visit Capitol Hill to discuss Trump's DOGE vision for cutting government waste**
 
-You can read more about it [here](https://apnews.com/article/bitcoin-trump-election-crypto-regulation-c45a747d9c32591bc4e5dcd6e5cc0c22).
+You can read more about it [here](https://www.foxnews.com/politics/musk-ramaswamy-visit-capitol-hill-discuss-trumps-doge-vision-cutting-government-waste).
 
 ## Requirements
 - Python 3.8
