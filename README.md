@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dark chocolate linked to lower risk of type 2 diabetes, study says**
+**Intel Board Blasted For Handling Of CEO's Sudden Exit As Stock Falls Again**
 
-You can read more about it [here](https://www.cnn.com/2024/12/04/health/dark-chocolate-type-2-diabetes-wellness/index.html).
+You can read more about it [here](https://www.investors.com/news/technology/intel-stock-intc-analyst-blasts-board/).
 
 ## Requirements
 - Python 3.8
