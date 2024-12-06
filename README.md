@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Justice Department and the city of Memphis to address results of scathing police investigation**
+**Bitcoin tops $100,000 as big rally sparked by Trump election win rolls on**
 
-You can read more about it [here](https://www.cnn.com/2024/12/05/us/memphis-police-justice-department-report/index.html).
+You can read more about it [here](https://apnews.com/article/bitcoin-trump-election-crypto-regulation-c45a747d9c32591bc4e5dcd6e5cc0c22).
 
 ## Requirements
 - Python 3.8
