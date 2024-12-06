@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**French government collapses after no-confidence vote in PM Michel Barnier**
+**Jewell Loyd requests trade from Seattle Storm**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cdxz934p56qo).
+You can read more about it [here](https://chicago.suntimes.com/chicago-sky-and-wnba/2024/12/04/jewell-loyd-requests-trade-out-of-seattle).
 
 ## Requirements
 - Python 3.8
