@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's how SpaceX's 6th Starship megarocket launch looked from the ISS (video)**
+**Justice Department and the city of Memphis to address results of scathing police investigation**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/heres-how-spacexs-6th-starship-megarocket-launch-looked-from-the-iss-video).
+You can read more about it [here](https://www.cnn.com/2024/12/05/us/memphis-police-justice-department-report/index.html).
 
 ## Requirements
 - Python 3.8
