@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wubuntu: The lovechild of Windows and Linux nobody asked for**
+**Syrian rebels capture second major city as army withdraws from Hama**
 
-You can read more about it [here](https://www.theregister.com/2024/12/05/wubuntu/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSTdvRHpRaDFfdExHMElIcGRBTlFjWHFxQ3NnNmdjNTJvUHVHbTR6bmd3RTR4UjVwUzFJaV9BSVROMzZqN0pvVnk5UnVxbXdGcjJPbDhTRHhFZGcySEk4eWZ0bEdqbXVPM2hhUkVzUktFN2F0Rk1DcnNDUWtDdmVVWkQ5bVZRTHZTV0pCcVpfZ9IBhgFBVV95cUxOU2VnVWVBVEZKQWgzaF9HSTR1eDFkMkhLbGpWYUYxaU0xb0ljcjBmT3ZvNmE0a2JhVWNuYXV6V3FqLVBQNWJFLW43RkNiRm53S3JFYmR0RkE5NGhWRHNTNWp6aHNiZUNuS1U0V041YkVoeDZQRUphODlUZzdCVHIzSWhIR1RaZw?oc=5).
 
 ## Requirements
 - Python 3.8
