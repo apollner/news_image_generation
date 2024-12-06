@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russell slams 'bully' Verstappen after revealing Qatar crash threat**
+**2024 NFL MVP Watch: Eagles' Saquon Barkley overtakes Ravens' Lamar Jackson behind clear favorite Josh Allen**
 
-You can read more about it [here](https://www.motorsport.com/f1/news/russell-slams-bully-verstappen-after-revealing-qatar-crash-threat/10679444/).
+You can read more about it [here](https://www.cbssports.com/nfl/news/2024-nfl-mvp-watch-eagles-saquon-barkley-overtakes-ravens-lamar-jackson-behind-clear-favorite-josh-allen/).
 
 ## Requirements
 - Python 3.8
