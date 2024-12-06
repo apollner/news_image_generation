@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL names nominees for Man of the Year Award**
+**Bitcoin Price: Why Did the Crypto Surge Past $100,000 — and How Far Can It Rise?**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42795521/nfl-releases-walter-payton-nfl-man-year-award-nominees).
+You can read more about it [here](https://www.barrons.com/articles/bitcoin-price-hits-100k-bcdb5157).
 
 ## Requirements
 - Python 3.8
