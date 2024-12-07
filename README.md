@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Wolff slams 'yapping little terrier' Horner amid Verstappen-Russell row**
+**World’s oldest-known wild bird lays an egg in Hawaii at age 74**
 
-You can read more about it [here](https://www.the-race.com/formula-1/yapping-little-terrier-wolff-slams-horner-verstappen-russell-f1-row/).
+You can read more about it [here](https://apnews.com/article/oldest-bird-lays-egg-wisdom-hawaii-5e7867ba9c8a51373d4d570f73fa7c2d).
 
 ## Requirements
 - Python 3.8
