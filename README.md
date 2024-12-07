@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Penny jury deadlocked on manslaughter charge in subway chokehold case**
+**Analysts reboot Chipotle stock price targets on menu-price change**
 
-You can read more about it [here](https://abcnews.go.com/US/daniel-penny-jury-trial-vote-jordan-neely/story?id\\u003d116404879).
+You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-reboot-chipotle-stock-price-targets-on-menu-price-change).
 
 ## Requirements
 - Python 3.8
