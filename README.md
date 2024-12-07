@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Richardson fired by Chicago, Sorensen named interim**
+**Biden White House considering preemptive pardons for Trump’s perceived enemies**
 
-You can read more about it [here](https://www.nhl.com/news/chicago-blackhawks-fire-coach-luke-richardson).
+You can read more about it [here](https://www.cnn.com/2024/12/05/politics/preemptive-pardons-biden-white-house-trump/index.html).
 
 ## Requirements
 - Python 3.8
