@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Romania’s top court annuls presidential election result**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/12/06/europe/romania-annuls-presidential-election-intl/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
