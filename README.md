@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Double win for Europe: Sentinel-1C and Vega-C take to the skies**
+**Trump picks Musk ally David Sacks as crypto and AI tsar**
 
-You can read more about it [here](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Double_win_for_Europe_Sentinel-1C_and_Vega-C_take_to_the_skies).
+You can read more about it [here](https://www.ft.com/content/f5dc6972-b135-470b-8940-17e28c6ad02e).
 
 ## Requirements
 - Python 3.8
