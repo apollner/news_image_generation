@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Asian Shares Fall Ahead of Jobs Data; Won Slips: Markets Wrap**
+**4 winners, 2 losers from the Lions’ BIG win against Packers**
 
-You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-echo-us-drop-222645511.html).
+You can read more about it [here](https://www.prideofdetroit.com/2024/12/6/24311161/detroit-lions-recap-4-winners-2-losers-massive-win-against-green-bay-packers).
 
 ## Requirements
 - Python 3.8
