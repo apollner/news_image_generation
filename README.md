@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick, North Carolina discuss Tar Heels’ coaching vacancy**
+**US dials down latest China chip curbs for Japan, sources say**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/12/05/bill-belichick-unc-coaching-job/).
+You can read more about it [here](https://www.scmp.com/tech/tech-war/article/3289594/chip-war-us-exempts-some-chinese-firms-curbs-concession-japan-sources-say).
 
 ## Requirements
 - Python 3.8
