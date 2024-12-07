@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO shooting latest: Police appear to be closing in on suspect's name**
+**‘Yellowstone’ Prequel ‘1923’ Is Back: First Look at Harrison Ford and Helen Mirren’s Season 2 Saga**
 
-You can read more about it [here](https://abcnews.go.com/US/police-piece-unitedhealthcare-ceo-shooting-suspects-escape-route/story?id\\u003d116475329).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/yellowstone-prequel-1923-season-2-release-first-look-recap-1236078757/).
 
 ## Requirements
 - Python 3.8
