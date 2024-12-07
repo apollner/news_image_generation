@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed ahead of key jobs report: Live updates**
+**Asian Shares Fall Ahead of Jobs Data; Won Slips: Markets Wrap**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/05/stock-market-today-live-updates.html).
+You can read more about it [here](https://finance.yahoo.com/news/asian-stocks-echo-us-drop-222645511.html).
 
 ## Requirements
 - Python 3.8
