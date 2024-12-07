@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Analysts reboot Chipotle stock price targets on menu-price change**
+**Lions' Jared Goff becomes third QB in NFL history to pull off this rare feat during win over Packers**
 
-You can read more about it [here](https://www.thestreet.com/investing/stocks/analysts-reboot-chipotle-stock-price-targets-on-menu-price-change).
+You can read more about it [here](https://www.cbssports.com/nfl/news/lions-jared-goff-becomes-third-qb-in-nfl-history-to-pull-off-this-rare-feat-during-win-over-packers/).
 
 ## Requirements
 - Python 3.8
