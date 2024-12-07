@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ernst holds the pivotal vote in Hegseth’s hill fight**
+**Trump appoints former PayPal exec David Sacks as AI and crypto czar**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/05/joni-ernst-pete-hegseth-confirmation-00192802).
+You can read more about it [here](https://www.reuters.com/world/us/trump-appoints-former-paypal-coo-david-sacks-ai-crypto-czar-2024-12-06/).
 
 ## Requirements
 - Python 3.8
