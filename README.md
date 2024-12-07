@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taiwanese President Lai has phone talks from Guam with US Congress leaders**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/taiwan-president-lai-guam-china-42271b8eecb6c4110fb0226db3a3f50a).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
