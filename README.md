@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US job growth rebounds in November; unemployment rate ticks up**
+**Romania’s top court annuls presidential election result**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-job-growth-accelerates-november-unemployment-rate-rises-42-2024-12-06/).
+You can read more about it [here](https://www.cnn.com/2024/12/06/europe/romania-annuls-presidential-election-intl/index.html).
 
 ## Requirements
 - Python 3.8
