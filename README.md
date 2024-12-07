@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korea's governing party head supports suspending Yoon's powers, making impeachment more likely**
+**Bill Belichick, North Carolina discuss Tar Heels’ coaching vacancy**
 
-You can read more about it [here](https://apnews.com/article/south-korea-martial-law-yoon-impeachment-bfea0520c0361294f96edd6602ac8534).
+You can read more about it [here](https://www.washingtonpost.com/sports/2024/12/05/bill-belichick-unc-coaching-job/).
 
 ## Requirements
 - Python 3.8
