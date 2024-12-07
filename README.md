@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Teddi Mellencamp reveals she’s living with Kyle Richards amid divorce from Edwin Arroyave**
+**Wolff slams 'yapping little terrier' Horner amid Verstappen-Russell row**
 
-You can read more about it [here](https://pagesix.com/2024/12/05/celebrity-news/teddi-mellencamp-is-living-with-kyle-richards-amid-divorce-from-edwin-arroyave/).
+You can read more about it [here](https://www.the-race.com/formula-1/yapping-little-terrier-wolff-slams-horner-verstappen-russell-f1-row/).
 
 ## Requirements
 - Python 3.8
