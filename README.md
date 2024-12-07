@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump picks Musk ally David Sacks as crypto and AI tsar**
+**Teddi Mellencamp reveals she’s living with Kyle Richards amid divorce from Edwin Arroyave**
 
-You can read more about it [here](https://www.ft.com/content/f5dc6972-b135-470b-8940-17e28c6ad02e).
+You can read more about it [here](https://pagesix.com/2024/12/05/celebrity-news/teddi-mellencamp-is-living-with-kyle-richards-amid-divorce-from-edwin-arroyave/).
 
 ## Requirements
 - Python 3.8
