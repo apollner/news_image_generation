@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden White House considering preemptive pardons for Trump’s perceived enemies**
+**UnitedHealthcare CEO shooting latest: Police appear to be closing in on suspect's name**
 
-You can read more about it [here](https://www.cnn.com/2024/12/05/politics/preemptive-pardons-biden-white-house-trump/index.html).
+You can read more about it [here](https://abcnews.go.com/US/police-piece-unitedhealthcare-ceo-shooting-suspects-escape-route/story?id\\u003d116475329).
 
 ## Requirements
 - Python 3.8
