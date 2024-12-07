@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500, Nasdaq hit record closing highs; Lululemon gains, data supports rate cut view**
+**Biden is considering preemptive pardons for officials and allies before Trump takes office**
 
-You can read more about it [here](https://www.reuters.com/markets/us/futures-steady-markets-await-november-jobs-data-2024-12-06/).
+You can read more about it [here](https://apnews.com/article/biden-pardons-trump-f36ead0eb92ea30e47cbfddfaf326f20).
 
 ## Requirements
 - Python 3.8
