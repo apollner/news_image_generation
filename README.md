@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures are little changed ahead of key jobs report: Live updates**
+**UnitedHealthcare CEO shooting latest: Police appear to be closing in on suspect's name**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/05/stock-market-today-live-updates.html).
+You can read more about it [here](https://abcnews.go.com/US/police-piece-unitedhealthcare-ceo-shooting-suspects-escape-route/story?id\\u003d116475329).
 
 ## Requirements
 - Python 3.8
