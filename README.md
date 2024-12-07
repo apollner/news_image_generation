@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World's most expensive Dinosaur fossil arrives in New York with a staggering price tag**
+**4 winners, 2 losers from the Lions’ BIG win against Packers**
 
-You can read more about it [here](https://timesofindia.indiatimes.com/world/us/worlds-most-expensive-dinosaur-fossil-arrives-in-new-york-with-a-staggering-price-tag/articleshow/116027120.cms).
+You can read more about it [here](https://www.prideofdetroit.com/2024/12/6/24311161/detroit-lions-recap-4-winners-2-losers-massive-win-against-green-bay-packers).
 
 ## Requirements
 - Python 3.8
