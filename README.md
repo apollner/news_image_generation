@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald and Ivanka Trump feature in controversial Club World Cup draw, as Inter Miami discovers its fate**
+**Daniel Penny jury deadlocked on manslaughter charge in subway chokehold case**
 
-You can read more about it [here](https://www.cnn.com/2024/12/06/sport/club-world-cup-inter-miami-donald-ivanka-trump-spt-intl/index.html).
+You can read more about it [here](https://abcnews.go.com/US/daniel-penny-jury-trial-vote-jordan-neely/story?id\\u003d116404879).
 
 ## Requirements
 - Python 3.8
