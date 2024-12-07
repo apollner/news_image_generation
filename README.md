@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick, North Carolina discuss Tar Heels’ coaching vacancy**
+**Stock futures are little changed ahead of key jobs report: Live updates**
 
-You can read more about it [here](https://www.washingtonpost.com/sports/2024/12/05/bill-belichick-unc-coaching-job/).
+You can read more about it [here](https://www.cnbc.com/2024/12/05/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
