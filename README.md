@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Yellowstone’ Prequel ‘1923’ Is Back: First Look at Harrison Ford and Helen Mirren’s Season 2 Saga**
+**Ernst holds the pivotal vote in Hegseth’s hill fight**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/yellowstone-prequel-1923-season-2-release-first-look-recap-1236078757/).
+You can read more about it [here](https://www.politico.com/news/2024/12/05/joni-ernst-pete-hegseth-confirmation-00192802).
 
 ## Requirements
 - Python 3.8
