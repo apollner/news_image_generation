@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US dials down latest China chip curbs for Japan, sources say**
+**Jobs Report Today: November Payrolls Data Due**
 
-You can read more about it [here](https://www.scmp.com/tech/tech-war/article/3289594/chip-war-us-exempts-some-chinese-firms-curbs-concession-japan-sources-say).
+You can read more about it [here](https://www.wsj.com/livecoverage/jobs-report-stock-market-today-dow-nasdaq-sp500-12-06-2024).
 
 ## Requirements
 - Python 3.8
