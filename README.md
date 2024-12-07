@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump appoints former PayPal exec David Sacks as AI and crypto czar**
+**Taiwanese President Lai has phone talks from Guam with US Congress leaders**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-appoints-former-paypal-coo-david-sacks-ai-crypto-czar-2024-12-06/).
+You can read more about it [here](https://apnews.com/article/taiwan-president-lai-guam-china-42271b8eecb6c4110fb0226db3a3f50a).
 
 ## Requirements
 - Python 3.8
