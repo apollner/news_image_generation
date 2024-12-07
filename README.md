@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**World’s oldest-known wild bird lays an egg in Hawaii at age 74**
+**South Korea's governing party head supports suspending Yoon's powers, making impeachment more likely**
 
-You can read more about it [here](https://apnews.com/article/oldest-bird-lays-egg-wisdom-hawaii-5e7867ba9c8a51373d4d570f73fa7c2d).
+You can read more about it [here](https://apnews.com/article/south-korea-martial-law-yoon-impeachment-bfea0520c0361294f96edd6602ac8534).
 
 ## Requirements
 - Python 3.8
