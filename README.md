@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**US appeals court upholds TikTok law forcing its sale**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.reuters.com/legal/us-appeals-court-upholds-tiktok-law-forcing-its-sale-2024-12-06/).
 
 ## Requirements
 - Python 3.8
