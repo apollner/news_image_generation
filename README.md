@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO shooting latest: Police appear to be closing in on suspect's name**
+**Richardson fired by Chicago, Sorensen named interim**
 
-You can read more about it [here](https://abcnews.go.com/US/police-piece-unitedhealthcare-ceo-shooting-suspects-escape-route/story?id\\u003d116475329).
+You can read more about it [here](https://www.nhl.com/news/chicago-blackhawks-fire-coach-luke-richardson).
 
 ## Requirements
 - Python 3.8
