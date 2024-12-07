@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NorCal school shooting victims identified; sheriff reveals more details about suspect**
+**[Removed]**
 
-You can read more about it [here](https://abc7.com/post/oroville-school-shooting-california-christian-victims-idd-sheriff-reveals-more-details-suspect/15625227/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
