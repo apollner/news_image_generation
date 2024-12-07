@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Notre-Dame reopens, Macron stands in ashes of French political edifice**
+**US job growth rebounds in November; unemployment rate ticks up**
 
-You can read more about it [here](https://www.reuters.com/world/europe/notre-dame-reopens-macron-stands-ashes-french-political-edifice-2024-12-06/).
+You can read more about it [here](https://www.reuters.com/world/us/us-job-growth-accelerates-november-unemployment-rate-rises-42-2024-12-06/).
 
 ## Requirements
 - Python 3.8
