@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US appeals court upholds TikTok law forcing its sale**
+**Donald and Ivanka Trump feature in controversial Club World Cup draw, as Inter Miami discovers its fate**
 
-You can read more about it [here](https://www.reuters.com/legal/us-appeals-court-upholds-tiktok-law-forcing-its-sale-2024-12-06/).
+You can read more about it [here](https://www.cnn.com/2024/12/06/sport/club-world-cup-inter-miami-donald-ivanka-trump-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
