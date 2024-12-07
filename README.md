@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health officials grapple with deadly mystery ‘Disease X’ in Congo**
+**As Notre-Dame reopens, Macron stands in ashes of French political edifice**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/12/06/congo-mystery-flu-disease-x-illness/).
+You can read more about it [here](https://www.reuters.com/world/europe/notre-dame-reopens-macron-stands-ashes-french-political-edifice-2024-12-06/).
 
 ## Requirements
 - Python 3.8
