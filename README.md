@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lions' Jared Goff becomes third QB in NFL history to pull off this rare feat during win over Packers**
+**NorCal school shooting victims identified; sheriff reveals more details about suspect**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/lions-jared-goff-becomes-third-qb-in-nfl-history-to-pull-off-this-rare-feat-during-win-over-packers/).
+You can read more about it [here](https://abc7.com/post/oroville-school-shooting-california-christian-victims-idd-sheriff-reveals-more-details-suspect/15625227/).
 
 ## Requirements
 - Python 3.8
