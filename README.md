@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Are These Weird Structures Hubble Spotted Near a Monster Black Hole?**
+**Dade Phelan drops bid for third term as Texas House speaker**
 
-You can read more about it [here](https://scitechdaily.com/?p=439285).
+You can read more about it [here](https://www.dallasnews.com/news/politics/2024/12/06/dade-phelan-drops-bid-for-third-term-as-texas-house-speaker/).
 
 ## Requirements
 - Python 3.8
