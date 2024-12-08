@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump expresses confidence in Hegseth and says he can be confirmed to lead Pentagon**
+**Iran's uranium enrichment 'worrisome' - UN nuclear watchdog**
 
-You can read more about it [here](https://www.cnn.com/2024/12/06/politics/trump-hegseth-support-vance/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c20ee6qylwgo).
 
 ## Requirements
 - Python 3.8
