@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ranking the Valkyries' new roster: Our favorite and least favorite picks**
+**Mars rover Perseverance sends home postcard from scenic 'Pico Turquino' (photo)**
 
-You can read more about it [here](https://www.espn.com/wnba/story/_/id/42821436/2024-wnba-expansion-draft-golden-state-valkyries-roster-picks).
+You can read more about it [here](https://www.space.com/space-exploration/mars-rovers/mars-rover-perseverance-sends-home-postcard-from-scenic-pico-turquino-photo).
 
 ## Requirements
 - Python 3.8
