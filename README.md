@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden is considering preemptive pardons for officials and allies before Trump takes office**
+**Weigh-In Results | UFC 310: Pantoja vs Asakura**
 
-You can read more about it [here](https://apnews.com/article/biden-pardons-trump-f36ead0eb92ea30e47cbfddfaf326f20).
+You can read more about it [here](https://www.ufc.com/news/official-weigh-in-results-ufc-310-pantoja-vs-asakura).
 
 ## Requirements
 - Python 3.8
