@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neighborhood Disadvantage Linked to Cognitive Health Risks**
+**Bitcoin $100K and Dow 45,000: Don’t overlook this part of the ‘everything’ rally**
 
-You can read more about it [here](https://neurosciencenews.com/neighborhood-disadvantage-cognition-28203/).
+You can read more about it [here](https://www.marketwatch.com/story/bitcoin-100-000-and-dow-45-000-dont-overlook-this-part-of-the-everything-rally-202b88bc).
 
 ## Requirements
 - Python 3.8
