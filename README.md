@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dividend Stocks Are Primed for a Comeback in 2025**
+**Sabrina Carpenter and Chappell Roan Do Some Christmas Karaoke**
 
-You can read more about it [here](https://www.wsj.com/finance/stocks/dividend-stocks-2025-payoff-1d0a4521).
+You can read more about it [here](http://www.vulture.com/article/sabrina-carpenter-chappell-roan-last-christmas.html).
 
 ## Requirements
 - Python 3.8
