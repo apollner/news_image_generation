@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manslaughter charge in Daniel Penny trial dismissed, jury resumes next week**
+**A judge who served in the military for over 20 years upholds use of race in Naval Academy admissions, citing national security**
 
-You can read more about it [here](https://www.washingtonpost.com/nation/2024/12/06/daniel-penny-subway-chokehold-death-manslaughter/).
+You can read more about it [here](https://fortune.com/2024/12/06/race-naval-academy-admissions-national-security-dei-affirmative-action-supreme-court/).
 
 ## Requirements
 - Python 3.8
