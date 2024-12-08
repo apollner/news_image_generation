@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Surprising iPhone Update—Green Bubbles End Next Week**
+**Mega Millions Jackpot Eclipses $600 Million—Here’s How Much The Winner Could Take Home After Taxes**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/07/apples-surprising-iphone-update-green-bubbles-end-next-week/).
+You can read more about it [here](https://www.forbes.com/sites/tylerroush/2024/12/07/mega-millions-jackpot-eclipses-600-million-heres-how-much-the-winner-could-take-home-after-taxes/).
 
 ## Requirements
 - Python 3.8
