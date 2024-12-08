@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sabrina Carpenter and Chappell Roan Do Some Christmas Karaoke**
+**Neighborhood Disadvantage Linked to Cognitive Health Risks**
 
-You can read more about it [here](http://www.vulture.com/article/sabrina-carpenter-chappell-roan-last-christmas.html).
+You can read more about it [here](https://neurosciencenews.com/neighborhood-disadvantage-cognition-28203/).
 
 ## Requirements
 - Python 3.8
