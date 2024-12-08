@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mars rover Perseverance sends home postcard from scenic 'Pico Turquino' (photo)**
+**Health insurer shares fall after UnitedHealth exec murder**
 
-You can read more about it [here](https://www.space.com/space-exploration/mars-rovers/mars-rover-perseverance-sends-home-postcard-from-scenic-pico-turquino-photo).
+You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/health-insurer-shares-fall-after-unitedhealth-exec-murder-2024-12-06/).
 
 ## Requirements
 - Python 3.8
