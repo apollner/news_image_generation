@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US orders bird flu testing of national dairy supply**
+**Apple’s Surprising iPhone Update—Green Bubbles End Next Week**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c8ewwlgz7k9o).
+You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/06/apples-surprising-iphone-update-green-bubbles-end-next-week/).
 
 ## Requirements
 - Python 3.8
