@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York’s top VCs under 30**
+**Trump returns to world stage for Notre Dame Cathedral reopening in Paris**
 
-You can read more about it [here](https://techcrunch.com/2024/12/07/new-yorks-top-vcs-under-30/).
+You can read more about it [here](https://www.cnn.com/2024/12/07/politics/trump-paris-macron-notre-dame/index.html).
 
 ## Requirements
 - Python 3.8
