@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's uranium enrichment 'worrisome' - UN nuclear watchdog**
+**Mark Withers Dies: ‘Dynasty’ & ‘Stranger Things’ Actor Was 77**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c20ee6qylwgo).
+You can read more about it [here](http://deadline.com/2024/12/mark-withers-dies-77-dynasty-stranger-things-1236196878/).
 
 ## Requirements
 - Python 3.8
