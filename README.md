@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin $100K and Dow 45,000: Don’t overlook this part of the ‘everything’ rally**
+**Arizona State vs. Iowa State live stream, where to watch, TV channel, Big 12 Championship Game odds, pick**
 
-You can read more about it [here](https://www.marketwatch.com/story/bitcoin-100-000-and-dow-45-000-dont-overlook-this-part-of-the-everything-rally-202b88bc).
+You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-state-vs-iowa-state-live-stream-where-to-watch-tv-channel-big-12-championship-game-odds-pick/).
 
 ## Requirements
 - Python 3.8
