@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's uranium enrichment 'worrisome' - UN nuclear watchdog**
+**US orders bird flu testing of national dairy supply**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c20ee6qylwgo).
+You can read more about it [here](https://www.bbc.com/news/articles/c8ewwlgz7k9o).
 
 ## Requirements
 - Python 3.8
