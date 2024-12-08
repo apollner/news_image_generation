@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weigh-In Results | UFC 310: Pantoja vs Asakura**
+**Abu Mohammad al-Jolani, the Syrian rebel leader hoping to overthrow Assad**
 
-You can read more about it [here](https://www.ufc.com/news/official-weigh-in-results-ufc-310-pantoja-vs-asakura).
+You can read more about it [here](https://www.ft.com/content/574cc17a-fa3a-411b-acb0-34fc032c7fe4).
 
 ## Requirements
 - Python 3.8
