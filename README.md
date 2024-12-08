@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Arizona State vs. Iowa State live stream, where to watch, TV channel, Big 12 Championship Game odds, pick**
+**Apple’s Surprising iPhone Update—Green Bubbles End Next Week**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/arizona-state-vs-iowa-state-live-stream-where-to-watch-tv-channel-big-12-championship-game-odds-pick/).
+You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/07/apples-surprising-iphone-update-green-bubbles-end-next-week/).
 
 ## Requirements
 - Python 3.8
