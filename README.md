@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Neighborhood Disadvantage Linked to Cognitive Health Risks**
+**Dividend Stocks Are Primed for a Comeback in 2025**
 
-You can read more about it [here](https://neurosciencenews.com/neighborhood-disadvantage-cognition-28203/).
+You can read more about it [here](https://www.wsj.com/finance/stocks/dividend-stocks-2025-payoff-1d0a4521).
 
 ## Requirements
 - Python 3.8
