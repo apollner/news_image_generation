@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dade Phelan drops bid for third term as Texas House speaker**
+**Manslaughter charge in Daniel Penny trial dismissed, jury resumes next week**
 
-You can read more about it [here](https://www.dallasnews.com/news/politics/2024/12/06/dade-phelan-drops-bid-for-third-term-as-texas-house-speaker/).
+You can read more about it [here](https://www.washingtonpost.com/nation/2024/12/06/daniel-penny-subway-chokehold-death-manslaughter/).
 
 ## Requirements
 - Python 3.8
