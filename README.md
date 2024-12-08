@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Health insurer shares fall after UnitedHealth exec murder**
+**Apple’s custom modems could put 5G in Macs and Vision Pro**
 
-You can read more about it [here](https://www.reuters.com/business/healthcare-pharmaceuticals/health-insurer-shares-fall-after-unitedhealth-exec-murder-2024-12-06/).
+You can read more about it [here](https://www.theverge.com/2024/12/6/24315099/apple-custom-modems-5g-macs-vision-pro).
 
 ## Requirements
 - Python 3.8
