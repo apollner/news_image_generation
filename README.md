@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ashton Jeanty's case for the Heisman Trophy: Boise State RB is 2024's most impactful player by far**
+**Romania’s top court annuls presidential election result**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/ashton-jeantys-case-for-the-heisman-trophy-boise-state-rb-is-2024s-most-impactful-player-by-far/).
+You can read more about it [here](https://www.cnn.com/2024/12/06/europe/romania-annuls-presidential-election-intl/index.html).
 
 ## Requirements
 - Python 3.8
