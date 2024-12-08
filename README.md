@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sabrina Carpenter and Chappell Roan Do Some Christmas Karaoke**
+**Ashton Jeanty's case for the Heisman Trophy: Boise State RB is 2024's most impactful player by far**
 
-You can read more about it [here](http://www.vulture.com/article/sabrina-carpenter-chappell-roan-last-christmas.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/ashton-jeantys-case-for-the-heisman-trophy-boise-state-rb-is-2024s-most-impactful-player-by-far/).
 
 ## Requirements
 - Python 3.8
