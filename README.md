@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pope creates 21 cardinals, many of them reformers in their own right, to carry out his reform plans**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/vatican-cardinals-pope-7b4c2e55b2f0d42436a6ec65182e489a).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
