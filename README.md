@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Workday, Apollo Global To Join S&P 500 Index, But Not This White-Hot Stock**
+**Trump expresses confidence in Hegseth and says he can be confirmed to lead Pentagon**
 
-You can read more about it [here](https://www.investors.com/news/sp-500-workday-apollo-global-to-join-index-in-quarterly-balance/).
+You can read more about it [here](https://www.cnn.com/2024/12/06/politics/trump-hegseth-support-vance/index.html).
 
 ## Requirements
 - Python 3.8
