@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Surprising iPhone Update—Green Bubbles End Next Week**
+**Lions Week 14 snap counts: Aaron Glenn works magic rotating front seven, newcomers**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/06/apples-surprising-iphone-update-green-bubbles-end-next-week/).
+You can read more about it [here](https://www.prideofdetroit.com/2024/12/6/24314730/lions-week-14-snap-counts-aaron-glenn-works-magic-rotating-front-seven-newcomers).
 
 ## Requirements
 - Python 3.8
