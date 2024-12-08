@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s Surprising iPhone Update—Green Bubbles End Next Week**
+**Pope creates 21 cardinals, many of them reformers in their own right, to carry out his reform plans**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/07/apples-surprising-iphone-update-green-bubbles-end-next-week/).
+You can read more about it [here](https://apnews.com/article/vatican-cardinals-pope-7b4c2e55b2f0d42436a6ec65182e489a).
 
 ## Requirements
 - Python 3.8
