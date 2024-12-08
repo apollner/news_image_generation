@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dade Phelan drops bid for third term as Texas House speaker**
+**Crews find body of missing Westmoreland County grandmother at bottom of sinkhole**
 
-You can read more about it [here](https://www.dallasnews.com/news/politics/2024/12/06/dade-phelan-drops-bid-for-third-term-as-texas-house-speaker/).
+You can read more about it [here](https://www.post-gazette.com/local/westmoreland/2024/12/06/sinkhole-unity-rescue-updates-westmoreland/stories/202412050133).
 
 ## Requirements
 - Python 3.8
