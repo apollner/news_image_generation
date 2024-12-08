@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**South Korean president apologises ahead of impeachment vote**
+**Joni Ernst says she’ll meet with Pete Hegseth next week**
 
-You can read more about it [here](https://www.ft.com/content/fa9dafe4-7d63-4ef0-970e-5e259feb8778).
+You can read more about it [here](https://www.politico.com/live-updates/2024/12/06/congress/ernst-to-meet-hegseth-00193122).
 
 ## Requirements
 - Python 3.8
