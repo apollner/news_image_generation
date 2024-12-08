@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joni Ernst says she’ll meet with Pete Hegseth next week**
+**Companies step up security in wake of UnitedHealthcare CEO killing**
 
-You can read more about it [here](https://www.politico.com/live-updates/2024/12/06/congress/ernst-to-meet-hegseth-00193122).
+You can read more about it [here](https://www.cnn.com/2024/12/07/business/executive-security-unitedhealthcare/index.html).
 
 ## Requirements
 - Python 3.8
