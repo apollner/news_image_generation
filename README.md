@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A judge who served in the military for over 20 years upholds use of race in Naval Academy admissions, citing national security**
+**South Korean president apologises ahead of impeachment vote**
 
-You can read more about it [here](https://fortune.com/2024/12/06/race-naval-academy-admissions-national-security-dei-affirmative-action-supreme-court/).
+You can read more about it [here](https://www.ft.com/content/fa9dafe4-7d63-4ef0-970e-5e259feb8778).
 
 ## Requirements
 - Python 3.8
