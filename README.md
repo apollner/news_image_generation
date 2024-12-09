@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Warns iPhone, Android Users—Change WhatsApp, Facebook Messenger, Signal Apps**
+**New York shooting: Images released in hunt for UnitedHealthcare suspect**
 
-You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/08/fbi-warns-iphone-android-users-change-whatsapp-facebook-messenger-signal-apps/).
+You can read more about it [here](https://www.bbc.com/news/articles/cpw22ger4gjo).
 
 ## Requirements
 - Python 3.8
