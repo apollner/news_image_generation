@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**New York shooting: Images released in hunt for UnitedHealthcare suspect**
+**Prince William and Trump meet after Notre-Dame reopening**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cpw22ger4gjo).
+You can read more about it [here](https://www.bbc.com/news/articles/c05ppeym6jro).
 
 ## Requirements
 - Python 3.8
