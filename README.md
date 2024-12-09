@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sparkle teases Arc B580 ROC Luna OC Ultra with 2.8GHz/210W TBP and B570 low profile GPU**
+**Who is Abu Mohammed al-Golani, the leader of the insurgency that toppled Syria’s Assad?**
 
-You can read more about it [here](https://videocardz.com/newz/sparkle-teases-arc-b580-roc-luna-oc-ultra-with-2-8ghz-210w-tbp-and-b570-low-profile-gpu).
+You can read more about it [here](https://apnews.com/article/syria-insurgents-algolani-hts-aab4c8894238904a4e351076726499fb).
 
 ## Requirements
 - Python 3.8
