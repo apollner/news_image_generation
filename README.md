@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Bowl Games: Live announcements, schedule, College Football Playoff bracket, bowl news**
+**NFL Week 14 Best Bets: Target Juwan Johnson to take on an increased role**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/2024-bowl-games-live-announcements-schedule-college-football-playoff-bracket-bowl-news/live/).
+You can read more about it [here](https://www.pff.com/news/bet-nfl-week-14-best-bets-2024).
 
 ## Requirements
 - Python 3.8
