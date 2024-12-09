@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**3 Huge Social Security Changes Taking Effect in January 2025**
+**2024 Bowl Games: Live announcements, schedule, College Football Playoff bracket, bowl news**
 
-You can read more about it [here](https://www.fool.com/retirement/2024/12/08/3-huge-social-security-changes-taking-effect-in-ja/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/2024-bowl-games-live-announcements-schedule-college-football-playoff-bracket-bowl-news/live/).
 
 ## Requirements
 - Python 3.8
