@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Influencer Breckie Hill Finally Addressed The Barry Keoghan Cheating Rumors — Here's What She Said**
+**Live updates: Vikings face former QB Kirk Cousins and the Falcons at U.S. Bank Stadium**
 
-You can read more about it [here](https://www.buzzfeed.com/larryfitzmaurice/breckie-hill-responds-barry-keoghan-cheating-rumors).
+You can read more about it [here](https://www.startribune.com/minnesota-vikings-atlanta-falcons-live-updates-kirk-cousins-nfl/601192339).
 
 ## Requirements
 - Python 3.8
