@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William and Trump meet after Notre-Dame reopening**
+**FBI Warns iPhone, Android Users—Change WhatsApp, Facebook Messenger, Signal Apps**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c05ppeym6jro).
+You can read more about it [here](https://www.forbes.com/sites/zakdoffman/2024/12/08/fbi-warns-iphone-android-users-change-whatsapp-facebook-messenger-signal-apps/).
 
 ## Requirements
 - Python 3.8
