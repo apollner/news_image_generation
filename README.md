@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European Film Award Winners: Jacques Audiard’s ‘Emilia Pérez’ Takes Best Film — Full List**
+**NYPD divers search Central Park waters for gun used to kill UnitedHealthcare CEO, source says**
 
-You can read more about it [here](http://deadline.com/2024/12/european-film-awards-winners-list-updating-liveemilia-perezthe-room-next-door-1236197136/).
+You can read more about it [here](https://www.cnn.com/2024/12/07/us/brian-thompson-unitedhealthcare-gunman-search-saturday/index.html).
 
 ## Requirements
 - Python 3.8
