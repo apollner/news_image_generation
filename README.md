@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Explosion in a residential area of The Hague kills at least 3 people and injures others**
+**ASU football punches ticket to College Football Playoff with Big 12 Championship rout of Iowa State**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/explosion-in-a-residential-area-of-the-hague-kills-at-least-3-people-and-injures-others).
+You can read more about it [here](https://arizonasports.com/story/3566840/asu-college-football-playoff-in/).
 
 ## Requirements
 - Python 3.8
