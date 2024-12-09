@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Moana 2’ Hits $600 Million at Global Box Office, ‘Lord of the Rings: War of the Rohirrim’ Fizzles Overseas With $2 Million Debut**
+**SpaceX launches 23 more Starlink satellites**
 
-You can read more about it [here](https://variety.com/2024/film/news/moana-2-hits-600-million-globally-lord-of-the-rings-war-of-the-rohirrim-fizzles-1236242668/).
+You can read more about it [here](https://www.upi.com).
 
 ## Requirements
 - Python 3.8
