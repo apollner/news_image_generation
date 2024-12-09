@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fantasy football: Live Week 14 Q&A with our experts, 11 a.m. ET**
+**3 Huge Social Security Changes Taking Effect in January 2025**
 
-You can read more about it [here](https://www.espn.com/fantasy/football/insider/story/_/id/42814443/2024-fantasy-football-advice-questions-answers-espn-experts-arena-week-14).
+You can read more about it [here](https://www.fool.com/retirement/2024/12/08/3-huge-social-security-changes-taking-effect-in-ja/).
 
 ## Requirements
 - Python 3.8
