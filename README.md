@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Pearl Harbor survivors, ages 104 and 102, return to Hawaii to honor those killed in 1941 attack**
+**Barry Keoghan Asks Fans to Be ‘Respectful’ Post Sabrina Carpenter Breakup**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/07/2-pearl-harbor-survivors-ages-104-and-102-return-to-hawaii-to-honor-those-killed-in-1941-attack-00193165).
+You can read more about it [here](http://www.vulture.com/article/barry-keoghan-sabrina-carpenter-breakup-backlash.html).
 
 ## Requirements
 - Python 3.8
