@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Micah Parsons wants Mike McCarthy back**
+**2 Pearl Harbor survivors, ages 104 and 102, return to Hawaii to honor those killed in 1941 attack**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/micah-parsons-wants-mike-mccarthy-back).
+You can read more about it [here](https://www.politico.com/news/2024/12/07/2-pearl-harbor-survivors-ages-104-and-102-return-to-hawaii-to-honor-those-killed-in-1941-attack-00193165).
 
 ## Requirements
 - Python 3.8
