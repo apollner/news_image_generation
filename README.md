@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Austin Tice: Biden says US will try to bring home hostage from Syria**
+**Omnicom and Interpublic nearing merger, WSJ reports**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cp3zw1407w6o).
+You can read more about it [here](https://www.reuters.com/markets/deals/omnicom-interpublic-nearing-merger-wsj-reports-2024-12-08/).
 
 ## Requirements
 - Python 3.8
