@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ASU football punches ticket to College Football Playoff with Big 12 Championship rout of Iowa State**
+**Influencer Breckie Hill addresses Barry Keoghan hookup rumors after he's accused of cheating on Sabrina Carpenter with her**
 
-You can read more about it [here](https://arizonasports.com/story/3566840/asu-college-football-playoff-in/).
+You can read more about it [here](https://pagesix.com/2024/12/07/celebrity-news/influencer-breckie-hill-addresses-barry-keoghan-hookup-rumors-after-hes-accused-of-cheating-on-sabrina-carpenter-with-her/).
 
 ## Requirements
 - Python 3.8
