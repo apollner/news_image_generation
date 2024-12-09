@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress to boost junior enlisted pay by thousands of dollars in 2025**
+**What James Franklin said after No. 3 Penn State lost to No. 1 Oregon in Big Ten championship game**
 
-You can read more about it [here](https://www.militarytimes.com/news/pentagon-congress/2024/12/07/congress-to-boost-junior-enlisted-pay-by-thousands-of-dollars-in-2025/).
+You can read more about it [here](https://www.oregonlive.com/ducks/2024/12/what-james-franklin-said-after-no-3-penn-state-lost-to-no-1-oregon-in-big-ten-championship-game.html).
 
 ## Requirements
 - Python 3.8
