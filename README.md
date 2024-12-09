@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince William and Trump meet after Notre-Dame reopening**
+**CFB Playoff Picture 2024-25: Standings, Scenarios, Bracket Predictions After Week 15**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c05ppeym6jro).
+You can read more about it [here](https://bleacherreport.com/articles/10146300-cfb-playoff-picture-2024-25-standings-scenarios-bracket-predictions-after-week-15).
 
 ## Requirements
 - Python 3.8
