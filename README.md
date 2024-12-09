@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barry Keoghan Asks Fans to Be ‘Respectful’ Post Sabrina Carpenter Breakup**
+**Explosion in a residential area of The Hague kills at least 3 people and injures others**
 
-You can read more about it [here](http://www.vulture.com/article/barry-keoghan-sabrina-carpenter-breakup-backlash.html).
+You can read more about it [here](https://www.pbs.org/newshour/world/explosion-in-a-residential-area-of-the-hague-kills-at-least-3-people-and-injures-others).
 
 ## Requirements
 - Python 3.8
