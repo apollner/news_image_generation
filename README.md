@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google pushes back against federal supervision of its payment arm**
+**Heliophysics decadal survey recommends two flagship missions for NASA**
 
-You can read more about it [here](https://techcrunch.com/2024/12/07/google-pushes-back-against-federal-supervision-of-its-payment-arm/).
+You can read more about it [here](https://spacenews.com/heliophysics-decadal-survey-recommends-two-flagship-missions-for-nasa/).
 
 ## Requirements
 - Python 3.8
