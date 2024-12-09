@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Abu Mohammed al-Golani, the leader of the insurgency that toppled Syria’s Assad?**
+**Barry Keoghan: Saltburn star deactivates Instagram over 'hatred' he receives**
 
-You can read more about it [here](https://apnews.com/article/syria-insurgents-algolani-hts-aab4c8894238904a4e351076726499fb).
+You can read more about it [here](https://www.bbc.com/news/articles/c5ydvl8g7gko).
 
 ## Requirements
 - Python 3.8
