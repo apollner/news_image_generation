@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pair of Judy Garland’s ruby slippers from ‘The Wizard of Oz’ sell at auction for $28 million**
+**X gives Grok a new photorealistic AI image generator**
 
-You can read more about it [here](https://www.cnn.com/2024/12/07/us/wizard-of-oz-ruby-slippers-auction/index.html).
+You can read more about it [here](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai).
 
 ## Requirements
 - Python 3.8
