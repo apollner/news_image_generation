@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Influencer Breckie Hill addresses Barry Keoghan hookup rumors after he's accused of cheating on Sabrina Carpenter with her**
+**2 Pearl Harbor survivors, ages 104 and 102, return to Hawaii to honor those killed in 1941 attack**
 
-You can read more about it [here](https://pagesix.com/2024/12/07/celebrity-news/influencer-breckie-hill-addresses-barry-keoghan-hookup-rumors-after-hes-accused-of-cheating-on-sabrina-carpenter-with-her/).
+You can read more about it [here](https://www.politico.com/news/2024/12/07/2-pearl-harbor-survivors-ages-104-and-102-return-to-hawaii-to-honor-those-killed-in-1941-attack-00193165).
 
 ## Requirements
 - Python 3.8
