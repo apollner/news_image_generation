@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What James Franklin said after No. 3 Penn State lost to No. 1 Oregon in Big Ten championship game**
+**Google pushes back against federal supervision of its payment arm**
 
-You can read more about it [here](https://www.oregonlive.com/ducks/2024/12/what-james-franklin-said-after-no-3-penn-state-lost-to-no-1-oregon-in-big-ten-championship-game.html).
+You can read more about it [here](https://techcrunch.com/2024/12/07/google-pushes-back-against-federal-supervision-of-its-payment-arm/).
 
 ## Requirements
 - Python 3.8
