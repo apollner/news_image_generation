@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**L.A. Film Critics Association Winners List (Updating Live)**
+**Austin Tice: Biden says US will try to bring home hostage from Syria**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/la-film-critics-association-winners-2-1236081018/).
+You can read more about it [here](https://www.bbc.com/news/articles/cp3zw1407w6o).
 
 ## Requirements
 - Python 3.8
