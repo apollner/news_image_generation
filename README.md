@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**X gives Grok a new photorealistic AI image generator**
+**What James Franklin said after No. 3 Penn State lost to No. 1 Oregon in Big Ten championship game**
 
-You can read more about it [here](https://www.theverge.com/2024/12/7/24315644/grok-x-aurora-ai-image-generator-xai).
+You can read more about it [here](https://www.oregonlive.com/ducks/2024/12/what-james-franklin-said-after-no-3-penn-state-lost-to-no-1-oregon-in-big-ten-championship-game.html).
 
 ## Requirements
 - Python 3.8
