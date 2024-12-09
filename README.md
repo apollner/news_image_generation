@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NFL Week 14 Best Bets: Target Juwan Johnson to take on an increased role**
+**L.A. Film Critics Association Winners List (Updating Live)**
 
-You can read more about it [here](https://www.pff.com/news/bet-nfl-week-14-best-bets-2024).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/la-film-critics-association-winners-2-1236081018/).
 
 ## Requirements
 - Python 3.8
