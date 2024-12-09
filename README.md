@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden says U.S. will support Syria and its neighbors after Assad dynasty collapses**
+**Biden offers a blueprint for US support in Syria, announces airstrikes against ISIS targets**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/08/biden-says-us-will-support-syria-and-its-neighbors-after-assad-dynasty-collapses.html).
+You can read more about it [here](https://www.cnn.com/2024/12/08/politics/biden-assad-syria-white-house/index.html).
 
 ## Requirements
 - Python 3.8
