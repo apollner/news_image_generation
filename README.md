@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump returns to world stage for Notre Dame Cathedral reopening in Paris**
+**European Film Award Winners: Jacques Audiard’s ‘Emilia Pérez’ Takes Best Film — Full List**
 
-You can read more about it [here](https://www.cnn.com/2024/12/07/politics/trump-paris-macron-notre-dame/index.html).
+You can read more about it [here](http://deadline.com/2024/12/european-film-awards-winners-list-updating-liveemilia-perezthe-room-next-door-1236197136/).
 
 ## Requirements
 - Python 3.8
