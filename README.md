@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google pushes back against federal supervision of its payment arm**
+**Prince William and Trump meet after Notre-Dame reopening**
 
-You can read more about it [here](https://techcrunch.com/2024/12/07/google-pushes-back-against-federal-supervision-of-its-payment-arm/).
+You can read more about it [here](https://www.bbc.com/news/articles/c05ppeym6jro).
 
 ## Requirements
 - Python 3.8
