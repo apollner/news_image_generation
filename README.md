@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barry Keoghan: Saltburn star deactivates Instagram over 'hatred' he receives**
+**2024 NFL Week 14: Sunday’s standout games and what to look out for**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5ydvl8g7gko).
+You can read more about it [here](https://www.cnn.com/2024/12/08/sport/nfl-week-14-sunday-preview-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
