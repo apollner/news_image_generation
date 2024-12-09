@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Heliophysics decadal survey recommends two flagship missions for NASA**
+**Congress to boost junior enlisted pay by thousands of dollars in 2025**
 
-You can read more about it [here](https://spacenews.com/heliophysics-decadal-survey-recommends-two-flagship-missions-for-nasa/).
+You can read more about it [here](https://www.militarytimes.com/news/pentagon-congress/2024/12/07/congress-to-boost-junior-enlisted-pay-by-thousands-of-dollars-in-2025/).
 
 ## Requirements
 - Python 3.8
