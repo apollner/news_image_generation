@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CFB Playoff Picture 2024-25: Standings, Scenarios, Bracket Predictions After Week 15**
+**Sparkle teases Arc B580 ROC Luna OC Ultra with 2.8GHz/210W TBP and B570 low profile GPU**
 
-You can read more about it [here](https://bleacherreport.com/articles/10146300-cfb-playoff-picture-2024-25-standings-scenarios-bracket-predictions-after-week-15).
+You can read more about it [here](https://videocardz.com/newz/sparkle-teases-arc-b580-roc-luna-oc-ultra-with-2-8ghz-210w-tbp-and-b570-low-profile-gpu).
 
 ## Requirements
 - Python 3.8
