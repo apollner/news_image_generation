@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 NFL Week 14: Sunday’s standout games and what to look out for**
+**Fantasy football: Live Week 14 Q&A with our experts, 11 a.m. ET**
 
-You can read more about it [here](https://www.cnn.com/2024/12/08/sport/nfl-week-14-sunday-preview-spt-intl/index.html).
+You can read more about it [here](https://www.espn.com/fantasy/football/insider/story/_/id/42814443/2024-fantasy-football-advice-questions-answers-espn-experts-arena-week-14).
 
 ## Requirements
 - Python 3.8
