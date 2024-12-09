@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Omnicom and Interpublic nearing merger, WSJ reports**
+**Biden says U.S. will support Syria and its neighbors after Assad dynasty collapses**
 
-You can read more about it [here](https://www.reuters.com/markets/deals/omnicom-interpublic-nearing-merger-wsj-reports-2024-12-08/).
+You can read more about it [here](https://www.cnbc.com/2024/12/08/biden-says-us-will-support-syria-and-its-neighbors-after-assad-dynasty-collapses.html).
 
 ## Requirements
 - Python 3.8
