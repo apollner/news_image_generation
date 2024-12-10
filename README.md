@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump won’t rule out revenge prosecutions, deportation of U.S. citizens when he takes office**
+**‘Net tightening’ around UnitedHealthcare CEO murder suspect, NYC mayor says**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trump-wont-rule-out-revenge-prosecutions-deportation-of-u-s-citizens-when-he-takes-office).
+You can read more about it [here](https://www.aljazeera.com/news/2024/12/9/net-tightening-around-unitedhealth-ceo-murder-suspect-nyc-mayor-says).
 
 ## Requirements
 - Python 3.8
