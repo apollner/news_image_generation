@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How an Overzealous Yankees Security Guard Helped the Mets Land Juan Soto**
+**TikTok asks court to pause law that could shut down app in U.S. next month**
 
-You can read more about it [here](https://www.si.com/mlb/juan-soto-mets-yankees-security-guard).
+You can read more about it [here](https://www.washingtonpost.com/technology/2024/12/09/tiktok-ban-court-injunction/).
 
 ## Requirements
 - Python 3.8
