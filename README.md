@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Things we learned in Miami Dolphins’ 32-26 OT win over the N.Y. Jets**
+**Syria latest: International community seeks stability after Assad overthrow**
 
-You can read more about it [here](http://www.sun-sentinel.com/2024/12/08/things-we-learned-in-miami-dolphins-32-26-ot-win-over-the-n-y-jets/).
+You can read more about it [here](https://www.bbc.com/news/live/cj90138ejrdt).
 
 ## Requirements
 - Python 3.8
