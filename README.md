@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Winter can be a time of culinary abundance. Experts share tips on eating nutritiously**
+**Exclusive: In Assad's Alawite hometown, Syria rebels win statement of support**
 
-You can read more about it [here](https://apnews.com/article/winter-soups-stews-porridge-seasonal-eating-6e89c43e2d3cc8a15bc48fa2676065e0).
+You can read more about it [here](https://www.reuters.com/world/middle-east/assads-alawite-hometown-syria-rebels-win-statement-support-2024-12-09/).
 
 ## Requirements
 - Python 3.8
