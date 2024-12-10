@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Who is Abu Mohammed al-Golani, the leader of the insurgency that toppled Syria’s Assad?**
+**Trump won’t rule out revenge prosecutions, deportation of U.S. citizens when he takes office**
 
-You can read more about it [here](https://apnews.com/article/syria-insurgents-algolani-hts-aab4c8894238904a4e351076726499fb).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-wont-rule-out-revenge-prosecutions-deportation-of-u-s-citizens-when-he-takes-office).
 
 ## Requirements
 - Python 3.8
