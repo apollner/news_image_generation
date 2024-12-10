@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Juan Soto reportedly breaks Shohei Ohtani's record with monster $765M deal with Mets**
+**Syrian rebels free prisoners from Assad's notorious dungeons who celebrate in Damascus streets**
 
-You can read more about it [here](https://sports.yahoo.com/juan-soto-reportedly-breaks-shohei-ohtanis-record-with-monster-765m-deal-with-mets-031400769.html).
+You can read more about it [here](https://apnews.com/article/syria-assad-prisons-human-rights-detainees-saydnaya-982edfde78e852431d94f3f1a51b26ba).
 
 ## Requirements
 - Python 3.8
