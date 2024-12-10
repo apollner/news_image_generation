@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Hershey’s stock explodes higher on report Mondelez offered to buy it**
+**Lara Trump stepping down as RNC co-chair and addressing speculation about Florida Senate seat**
 
-You can read more about it [here](https://www.cnn.com/2024/12/09/food/hershey-mondelez/index.html).
+You can read more about it [here](https://apnews.com/article/lara-trump-rnc-florida-senate-d0b9102b1095c383173bd6e24bbca015).
 
 ## Requirements
 - Python 3.8
