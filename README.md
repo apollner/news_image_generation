@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden offers a blueprint for US support in Syria, announces airstrikes against ISIS targets**
+**Syria's Assad is in Moscow after deal on military bases: Russian state media**
 
-You can read more about it [here](https://www.cnn.com/2024/12/08/politics/biden-assad-syria-white-house/index.html).
+You can read more about it [here](https://www.reuters.com/world/russia-says-syrias-assad-has-left-country-given-orders-peaceful-power-handover-2024-12-08/).
 
 ## Requirements
 - Python 3.8
