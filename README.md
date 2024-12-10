@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ByteDance, TikTok seek temporary halt to US ban pending Supreme Court review**
+**Webb telescope confirms the universe is expanding at an unexpected rate**
 
-You can read more about it [here](https://www.reuters.com/legal/bytedance-tiktok-seek-temporary-halt-us-crackdown-law-pending-supreme-court-2024-12-09/).
+You can read more about it [here](https://www.reuters.com/science/webb-telescope-confirms-universe-is-expanding-an-unexpected-rate-2024-12-09/).
 
 ## Requirements
 - Python 3.8
