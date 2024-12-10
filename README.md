@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Webb telescope confirms the universe is expanding at an unexpected rate**
+**Assad’s downfall is a humbling blow to Russia. How will it affect Putin’s prestige?**
 
-You can read more about it [here](https://www.reuters.com/science/webb-telescope-confirms-universe-is-expanding-an-unexpected-rate-2024-12-09/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHZzX3U2N1NxTG54cERieWFnQlZ6Rjh2ZWJRbHp4c1NkYnplNHlzaEVmRFMxQ1Y2WHEycVA3NTB4RG55R1FHbEdGajNLM0o1T05SUTdKekhyZFVBZmNYWS1BdVg3SGdTSTJ0bGdpUi1xRnJ0OHF0TXNfUWVFMkVTTlJTWFhLSXZGNTRNdkMtRjdaaWhnbUdsMnNFVjA?oc=5).
 
 ## Requirements
 - Python 3.8
