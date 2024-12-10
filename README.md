@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rewriting Cosmic History: DESI’s New Map Challenges Traditional Dark Energy Views**
+**[Removed]**
 
-You can read more about it [here](https://scitechdaily.com/rewriting-cosmic-history-desis-new-map-challenges-traditional-dark-energy-views/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
