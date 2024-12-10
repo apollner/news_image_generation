@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria updates: Germany halts asylum proceedings for Syrians**
+**Winter can be a time of culinary abundance. Experts share tips on eating nutritiously**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRE10NkFNMmxULVYtbGVBUDZqcExuNHJWbkZENjl0aGo2am1DWWR4a0cxcFpRTC1OVzZmaDVsVTdVVEs0RXEzV3dOaldiVGhsMEpjRkhvTV95ZUhDUktSbUd1MmRhOHB3OEZ1Mi10dlQ0SEMtLVpXcFk2dW5zMHpvNV82azgwS09zMWlzc1lkRm5MWHhfdzF4ckVR?oc=5).
+You can read more about it [here](https://apnews.com/article/winter-soups-stews-porridge-seasonal-eating-6e89c43e2d3cc8a15bc48fa2676065e0).
 
 ## Requirements
 - Python 3.8
