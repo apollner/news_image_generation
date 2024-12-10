@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Another activist takes aim at Macy's, seeking spending cuts and real-estate restructuring**
+**[Removed]**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/09/macys-activists-cost-cuts-real-estate.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
