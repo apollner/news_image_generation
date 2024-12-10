@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Hershey’s stock explodes higher on report Mondelez offered to buy it**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/12/09/food/hershey-mondelez/index.html).
 
 ## Requirements
 - Python 3.8
