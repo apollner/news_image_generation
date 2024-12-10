@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z accused of sexually assaulting 13-year-old in 2000 incident along with Sean ‘Diddy’ Combs**
+**Trump won’t rule out revenge prosecutions, deportation of U.S. citizens when he takes office**
 
-You can read more about it [here](https://www.cnn.com/2024/12/08/entertainment/jay-z-accused-13-year-old-sean-diddy-combs/index.html).
+You can read more about it [here](https://www.pbs.org/newshour/politics/trump-wont-rule-out-revenge-prosecutions-deportation-of-u-s-citizens-when-he-takes-office).
 
 ## Requirements
 - Python 3.8
