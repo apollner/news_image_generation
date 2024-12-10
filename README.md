@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump won’t rule out revenge prosecutions, deportation of U.S. citizens when he takes office**
+**Lara Trump says she's stepping down as RNC co-chair and considering Florida Senate seat bid**
 
-You can read more about it [here](https://www.pbs.org/newshour/politics/trump-wont-rule-out-revenge-prosecutions-deportation-of-u-s-citizens-when-he-takes-office).
+You can read more about it [here](https://www.axios.com/2024/12/09/lara-trump-rnc-co-chair-stepping-down-senate-florida).
 
 ## Requirements
 - Python 3.8
