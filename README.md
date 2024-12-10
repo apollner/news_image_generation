@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria latest: International community seeks stability after Assad overthrow**
+**Juan Soto reportedly breaks Shohei Ohtani's record with monster $765M deal with Mets**
 
-You can read more about it [here](https://www.bbc.com/news/live/cj90138ejrdt).
+You can read more about it [here](https://sports.yahoo.com/juan-soto-reportedly-breaks-shohei-ohtanis-record-with-monster-765m-deal-with-mets-031400769.html).
 
 ## Requirements
 - Python 3.8
