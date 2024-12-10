@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Succession drama: Rupert Murdoch loses court bid to leave son media empire**
+**Syria updates: Germany halts asylum proceedings for Syrians**
 
-You can read more about it [here](https://www.axios.com/2024/12/09/rupert-murdoch-family-trust-fox-lachlan).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxNRE10NkFNMmxULVYtbGVBUDZqcExuNHJWbkZENjl0aGo2am1DWWR4a0cxcFpRTC1OVzZmaDVsVTdVVEs0RXEzV3dOaldiVGhsMEpjRkhvTV95ZUhDUktSbUd1MmRhOHB3OEZ1Mi10dlQ0SEMtLVpXcFk2dW5zMHpvNV82azgwS09zMWlzc1lkRm5MWHhfdzF4ckVR?oc=5).
 
 ## Requirements
 - Python 3.8
