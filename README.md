@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria's Assad is in Moscow after deal on military bases: Russian state media**
+**'The mother of all bubbles' in the US is sucking money away from the rest of the world, market expert says**
 
-You can read more about it [here](https://www.reuters.com/world/russia-says-syrias-assad-has-left-country-given-orders-peaceful-power-handover-2024-12-08/).
+You can read more about it [here](https://fortune.com/2024/12/08/mother-of-all-bubbles-us-markets-american-exceptionalism-stock-outlook/).
 
 ## Requirements
 - Python 3.8
