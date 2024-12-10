@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lara Trump says she's stepping down as RNC co-chair and considering Florida Senate seat bid**
+**Taylor Swift Makes Historic Announcement at Final 'Eras Tour' Show**
 
-You can read more about it [here](https://www.axios.com/2024/12/09/lara-trump-rnc-co-chair-stepping-down-senate-florida).
+You can read more about it [here](https://athlonsports.com/entertainment/taylor-swift-makes-historic-announcement-at-final-eras-tour-show).
 
 ## Requirements
 - Python 3.8
