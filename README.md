@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z accused of sexually assaulting 13-year-old in 2000 incident along with Sean ‘Diddy’ Combs**
+**Things we learned in Miami Dolphins’ 32-26 OT win over the N.Y. Jets**
 
-You can read more about it [here](https://www.cnn.com/2024/12/08/entertainment/jay-z-accused-13-year-old-sean-diddy-combs/index.html).
+You can read more about it [here](http://www.sun-sentinel.com/2024/12/08/things-we-learned-in-miami-dolphins-32-26-ot-win-over-the-n-y-jets/).
 
 ## Requirements
 - Python 3.8
