@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Win hardware, collectibles, and more in the 2024 Ars Technica Charity Drive**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/gaming/2024/12/win-hardware-collectibles-and-more-in-the-2024-ars-technica-charity-drive/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
