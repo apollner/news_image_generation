@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'The mother of all bubbles' in the US is sucking money away from the rest of the world, market expert says**
+**Israeli military enters Golan Heights as Netanyahu warns off Syrian militants**
 
-You can read more about it [here](https://fortune.com/2024/12/08/mother-of-all-bubbles-us-markets-american-exceptionalism-stock-outlook/).
+You can read more about it [here](https://www.politico.eu/article/israeli-military-golan-heights-benjamin-netanyahu-militants-damascus-border-idf-airstrikes/).
 
 ## Requirements
 - Python 3.8
