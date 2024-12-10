@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Latest James Webb data hints at new physics in Universe’s expansion**
+**[Removed]**
 
-You can read more about it [here](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
