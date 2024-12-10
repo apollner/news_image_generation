@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z accused of sexually assaulting 13-year-old in 2000 incident along with Sean ‘Diddy’ Combs**
+**Who is Abu Mohammed al-Golani, the leader of the insurgency that toppled Syria’s Assad?**
 
-You can read more about it [here](https://www.cnn.com/2024/12/08/entertainment/jay-z-accused-13-year-old-sean-diddy-combs/index.html).
+You can read more about it [here](https://apnews.com/article/syria-insurgents-algolani-hts-aab4c8894238904a4e351076726499fb).
 
 ## Requirements
 - Python 3.8
