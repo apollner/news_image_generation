@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok asks court to pause law that could shut down app in U.S. next month**
+**Omnicom to Acquire Interpublic in Deal That Will Reshape Advertising Industry**
 
-You can read more about it [here](https://www.washingtonpost.com/technology/2024/12/09/tiktok-ban-court-injunction/).
+You can read more about it [here](https://www.wsj.com/business/media/omnicom-to-acquire-interpublic-group-in-deal-that-will-reshape-advertising-industry-eed6f1b3).
 
 ## Requirements
 - Python 3.8
