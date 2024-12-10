@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious outbreak with high fatality rate in the DRC could imperil tech supply chains**
+**ByteDance, TikTok seek temporary halt to US ban pending Supreme Court review**
 
-You can read more about it [here](https://www.theregister.com/2024/12/09/drc_disease/).
+You can read more about it [here](https://www.reuters.com/legal/bytedance-tiktok-seek-temporary-halt-us-crackdown-law-pending-supreme-court-2024-12-09/).
 
 ## Requirements
 - Python 3.8
