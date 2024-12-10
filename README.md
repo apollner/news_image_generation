@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Taylor Swift Makes Historic Announcement at Final 'Eras Tour' Show**
+**Syrian rebels free prisoners from Assad's notorious dungeons who celebrate in Damascus streets**
 
-You can read more about it [here](https://athlonsports.com/entertainment/taylor-swift-makes-historic-announcement-at-final-eras-tour-show).
+You can read more about it [here](https://apnews.com/article/syria-assad-prisons-human-rights-detainees-saydnaya-982edfde78e852431d94f3f1a51b26ba).
 
 ## Requirements
 - Python 3.8
