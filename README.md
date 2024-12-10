@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israeli military enters Golan Heights as Netanyahu warns off Syrian militants**
+**Darnold throws 5 TDs, feels 'buzz' in Vikes' win**
 
-You can read more about it [here](https://www.politico.eu/article/israeli-military-golan-heights-benjamin-netanyahu-militants-damascus-border-idf-airstrikes/).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42862563/vikings-qb-sam-darnold-shows-rare-emotion-5-td-performance).
 
 ## Requirements
 - Python 3.8
