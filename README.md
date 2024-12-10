@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Net tightening’ around UnitedHealthcare CEO murder suspect, NYC mayor says**
+**Another activist takes aim at Macy's, seeking spending cuts and real-estate restructuring**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/12/9/net-tightening-around-unitedhealth-ceo-murder-suspect-nyc-mayor-says).
+You can read more about it [here](https://www.cnbc.com/2024/12/09/macys-activists-cost-cuts-real-estate.html).
 
 ## Requirements
 - Python 3.8
