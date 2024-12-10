@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian rebels free prisoners from Assad's notorious dungeons who celebrate in Damascus streets**
+**Jay-Z accused of sexually assaulting 13-year-old in 2000 incident along with Sean ‘Diddy’ Combs**
 
-You can read more about it [here](https://apnews.com/article/syria-assad-prisons-human-rights-detainees-saydnaya-982edfde78e852431d94f3f1a51b26ba).
+You can read more about it [here](https://www.cnn.com/2024/12/08/entertainment/jay-z-accused-13-year-old-sean-diddy-combs/index.html).
 
 ## Requirements
 - Python 3.8
