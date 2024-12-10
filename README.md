@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lara Trump stepping down as RNC co-chair and addressing speculation about Florida Senate seat**
+**How an Overzealous Yankees Security Guard Helped the Mets Land Juan Soto**
 
-You can read more about it [here](https://apnews.com/article/lara-trump-rnc-florida-senate-d0b9102b1095c383173bd6e24bbca015).
+You can read more about it [here](https://www.si.com/mlb/juan-soto-mets-yankees-security-guard).
 
 ## Requirements
 - Python 3.8
