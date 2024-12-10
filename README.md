@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**AppLovin’s S&P 500 snub could make for the stock’s worst day in two years**
+**[Removed]**
 
-You can read more about it [here](https://www.marketwatch.com/story/applovins-s-p-500-snub-could-make-for-the-stocks-worst-day-in-two-years-e19ee71a).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
