@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Daniel Penny found not guilty in NY subway chokehold death of Jordan Neely**
+**Jamie Foxx Reveals “Mystery Illness” in Netflix Special**
 
-You can read more about it [here](https://www.bbc.com/news/articles/crrw0881gzvo).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/jamie-foxx-netflix-special-mystery-illness-stroke-1236082328/).
 
 ## Requirements
 - Python 3.8
