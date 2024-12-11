@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Germany and France agree to work with Syrian rebels on ‘basis of fundamental human rights’**
+**Stellantis and CATL to Invest Up to €4.1 Billion in Joint Venture for Large-Scale LFP Battery Plant in Spain**
 
-You can read more about it [here](https://www.politico.eu/article/germany-olaf-scholz-france-emmanuel-macron-syria-rebel-groups-human-rights-hayat-tahrir-al-sham-terrorism-designation/).
+You can read more about it [here](https://www.stellantis.com/en/news/press-releases/2024/december/stellantis-and-calt-to-invest-up-to-4-1-billion-in-joint-venture-for-large-scale-lfp-battery-plant-in-spain).
 
 ## Requirements
 - Python 3.8
