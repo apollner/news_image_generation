@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z and Beyoncé Support Daughter Blue Ivy Carter at ‘Mufasa: The Lion King’ Premiere**
+**Monday Night Football: Cowboys’ special teams miscue hands Bengals 27-20 win**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxPRUdNSVkxblVsQ2ROczQ5YmRfLWFwTEt5OUdIUlJ5emZfdU1LckVhRkY4ZXQ5R3k3N2M3X3NNZFE3Vnd1ME9SV2tROTNHYVZCaFMzRElMd2Y5QmFmMjJuZWM5V1lXcmFOZS1qdExXWDlPNWtxTWdnT3JuUnJBZllwVkdaWUZzQTlPaC00MWlJZldCb0ZxendlRVFJVHBCaXdmdzF3YzNkMzFTai1lRnVQWjAzWTRkUQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmtYNVJ4WFg3RUVPU2tOU0FWQ0R4S25tNl84b3hCNFRKT21Xd0l5TXdBamtzdUpGQkI3ZGhldWpPV1drVExGSDIwbnZRM2U3T3Y5QjRjcHFWNS0wZjJwVjlzZjBXbWhRWGp2TzNhdmI5MkJyRlRKNGJ4V2xiYXhBdXFudURSNG1xemtqU251eTBBa05hTTNreERtekNvek15bEN6SFh2by1kTjFIRHRLMHNUZUpPMVItalN2dk5OcVFWckJrcWhaTjFpbUFZOFhnZWc?oc=5).
 
 ## Requirements
 - Python 3.8
