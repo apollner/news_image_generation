@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guest column | Working later in life a ‘lifesaver’ for some, a drag for others**
+**Israel's Netanyahu vows to challenge 'absurd' corruption charges as he takes the stand in his trial**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/12/10/aging-work-retirement-mood-stress/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnloa3NpR3hUUFpIVmQtbUJrWld4bDVwM21Nb3FtUTFWVWtSSjU5TjJXMWJHRXRsUUlodEJOYXpoWEtzVUYwdzNSaGNyUVgxNUJPV2h5WnduTUE5R19lMjE2MnlqWm82aTB3ZlRJXzFvVmhWRE8yUjZrbVFhckt6dWlGUEIzWmVQdUlPdDVLUEc4Q1J1cDAzcXBpcmdTbmc?oc=5).
 
 ## Requirements
 - Python 3.8
