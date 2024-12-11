@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Monday Night Football: Cowboys’ special teams miscue hands Bengals 27-20 win**
+**Chinese stocks rise after leaders signal more measures to boost growth**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVmtYNVJ4WFg3RUVPU2tOU0FWQ0R4S25tNl84b3hCNFRKT21Xd0l5TXdBamtzdUpGQkI3ZGhldWpPV1drVExGSDIwbnZRM2U3T3Y5QjRjcHFWNS0wZjJwVjlzZjBXbWhRWGp2TzNhdmI5MkJyRlRKNGJ4V2xiYXhBdXFudURSNG1xemtqU251eTBBa05hTTNreERtekNvek15bEN6SFh2by1kTjFIRHRLMHNUZUpPMVItalN2dk5OcVFWckJrcWhaTjFpbUFZOFhnZWc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSVZvbW5tbHk3WjB0MlhyVHgyb1diTkpib09MSldwVzJRUlA0eEc2ZDk3ckJuV1g3RkFvdFdqdVJKTV9CVXcxSDZQaXh4QXlER0dqMFVWdzBWQ1hRVDhLOXF1NTd0U1prdFo5LThyb08?oc=5).
 
 ## Requirements
 - Python 3.8
