@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump's plan to revoke birthright citizenship would likely face court challenges**
+**Two families sue Character.AI over youth safety concerns, seek to shut down platform**
 
-You can read more about it [here](https://www.9news.com/article/news/politics/national-politics/trump-court-challenges-revoke-birthright-citizenship/73-c800580d-556f-4d69-a44f-4fc929621aea).
+You can read more about it [here](https://www.cnn.com/2024/12/10/tech/character-ai-second-youth-safety-lawsuit/index.html).
 
 ## Requirements
 - Python 3.8
