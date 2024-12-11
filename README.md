@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bengals vs. Cowboys odds, spread, start time: 2024 Monday Night Football picks by NFL model on 24-10 run**
+**Elon Musk is wowed by Google’s new quantum chip, which it claims ‘cracks a key challenge’ that’s existed for almost 3 decades**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWWozeW1jSjMzQWNWelY3bGFiV3UxM1QwbWtSZFlOeE5tSFNhZmkyZ0s1dmk2YVBMZFhYNElJNkIyRHYydzlsNE9IMV9nM1VpNGFGdzAxbkhMX1NXVkNveTFVVUZ5NFpBbk5BQkNtTWxTaC1JR3kxcHBQZm5OaGhPY2plWWRBU0VGU3QwX2kyM21BUTdBdHd5YWNCUHNNNXQ2TXFHd20tZUNuYjB6RWJUMUdYTDdDTHJfLXY5VTR1RlFPalZENGhCWlZ4WEFHZTIzN0HSAdcBQVVfeXFMTll1Zndjcy15MnNFRDl5WUdVUEI3MWNDb180LVJiM0diVHJKWm1xTHhSbW40RHJjMXRVMXJoUENTdWU0ZjNKMTBTSDFKY1Z1ZldUQ245UmZEd2d2b2Z1TXYyMUNjemdmdV80am05dlJWUlVja1RnV0RvYjR3ckRfb0JRUmU0a0tsOTNrNVBNSWVyc05vYTk1VkRjNzlMVmNUYjJPVHB5bUhXeWhWUHY5NmVwX04xT1JreFBzVkhXZVZBak01ZE40Tlh4bXNWTVYyNzUzNGJoS1U?oc=5).
+You can read more about it [here](https://fortune.com/2024/12/09/google-willow-quantum-chip-elon-musk/).
 
 ## Requirements
 - Python 3.8
