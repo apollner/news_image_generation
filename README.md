@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Syria's new rulers back shift to free-market economy, business leader says**
+**How Syria’s rebels toppled the Assad regime, in 7 maps**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQk9JbkVYOVdBZjRnNllJU1VfTFBDTWtoZTlxbmhCNFFlZndUbzV2NUNBa2o2QnhzamFYcy1RVEpSeDNxZ3M3WnBfZEh1dksxelJUQ3BOcTlvbHRCbXBpQ0YzZEtSemNYcW9pVTh6TkR3emxYSm9mMWlXYlMzM3ZWQ0dIOUk0c19EMy15SFpkQndldEx3aGh0SDZibGNiZVgxWlUtZDh6d2F1cmNIVDhOeTh4b294X3R6QzNwZHJ6cU8?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHFQeGlGaVNrcGo4LXpsd0Nnd0lLTXJka0NURjJwYmZ4Q1MwN21PX1NxWkJuNmItWHBKSUItSTJJay1BTFFJNnRIWlllU0dnY2RtRDlLN2xFczJrUEVPUUhFWHpQZ0pQNWFkYVR3enN0WXgzenlIalhNME43dGxiM1pR?oc=5).
 
 ## Requirements
 - Python 3.8
