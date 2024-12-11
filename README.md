@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Starting 5, Dec. 10: Knockout Rounds await in Emirates NBA Cup**
+**Scientists find potential link between ultra-processed foods and cancer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pMWtLZ3dhSHlsZldyYjhmWi1fMkRuZS1OX1N1LVhWSWs4V1hGQWhUYW50Ump3TC1yeVlyaGJjeDlEdkVaZHA0QWJXREhuQjJvZENJSnJMdHZaNHZTeEZHSjdxRWhCSW5OWkJiUHRCRzNzNzQ1djFwTQ?oc=5).
+You can read more about it [here](https://www.ft.com/content/15ff9221-5007-4e0d-85a1-320d3567a601).
 
 ## Requirements
 - Python 3.8
