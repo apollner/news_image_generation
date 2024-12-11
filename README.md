@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**LOOK: Cowboys make massive error after deflected punt, which leads to game-winning Bengals TD in final moments**
+**Guest column | Working later in life a ‘lifesaver’ for some, a drag for others**
 
-You can read more about it [here](https://www.cbssports.com/nfl/news/look-cowboys-make-massive-error-after-deflected-punt-which-leads-to-game-winning-bengals-td-in-final-moments/).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/12/10/aging-work-retirement-mood-stress/).
 
 ## Requirements
 - Python 3.8
