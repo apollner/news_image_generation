@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chase’s late TD catch propels Bengals to Monday Night Football win over Dallas**
+**Israel carries out dozens of air strikes across Syria, reports say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxObTZpNHV2bFQ2UFBVcFdISDdHNE9RS3BLLS1WSWluWTAydV9lTE0yVnNJOVJfNDZpYkhwcFhvcTB4RmVmbEZZbGJPcTQwM2ZKX3pXbWdhS0YtRWNKaF92MTloZWpZc2ltLUZnT3pPUEcxQnBGb2VBNXB2VW0yUEpCZDE1eTJSVnNTd3dBLUVsUUgxaFE3UGpZ?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c4gxplxy550o).
 
 ## Requirements
 - Python 3.8
