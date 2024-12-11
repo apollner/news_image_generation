@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brandon Graham: I had it wrong about A.J. Brown, Jalen Hurts**
+**LOOK: Cowboys make massive error after deflected punt, which leads to game-winning Bengals TD in final moments**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-graham-i-had-it-wrong-about-a-j-brown-jalen-hurts).
+You can read more about it [here](https://www.cbssports.com/nfl/news/look-cowboys-make-massive-error-after-deflected-punt-which-leads-to-game-winning-bengals-td-in-final-moments/).
 
 ## Requirements
 - Python 3.8
