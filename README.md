@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese stocks rise after leaders signal more measures to boost growth**
+**7 surprising things you didn’t know you could do with AI**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFBZSVZvbW5tbHk3WjB0MlhyVHgyb1diTkpib09MSldwVzJRUlA0eEc2ZDk3ckJuV1g3RkFvdFdqdVJKTV9CVXcxSDZQaXh4QXlER0dqMFVWdzBWQ1hRVDhLOXF1NTd0U1prdFo5LThyb08?oc=5).
+You can read more about it [here](https://www.digitaltrends.com/computing/7-things-you-didnt-know-you-could-do-with-ai/).
 
 ## Requirements
 - Python 3.8
