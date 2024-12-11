@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Satellite imagery shows Russian navy ships anchored off Syrian coast**
+**How Yankees’ Refusal to Give Juan Soto a Luxury Suite Helped Lead to Mets Deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdnc1Q3E4TXJ4YjRFM2gyd1luc0RIQ3NiRzhGaWxVVnlWRFZHaEhJMTBTUWlSNGVfdERrQTdRZVEtendCemhPT2gxeEVNRlhzcVBPbGI3cXowUElfNDMwWG9UX1pPYllzSWN1aldUT3kxZjdVNVRCaWx1Y2lYRGx6S19JaXhJMklneVA3RmttV2VXU1lOTmFmaWdWM01RZWtZUnJWTWxkRFJUd0luSHV3?oc=5).
+You can read more about it [here](https://www.si.com/mlb/yankees-juan-soto-mets-suite).
 
 ## Requirements
 - Python 3.8
