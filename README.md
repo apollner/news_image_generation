@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stellantis and CATL to Invest Up to €4.1 Billion in Joint Venture for Large-Scale LFP Battery Plant in Spain**
+**Daniel Penny found not guilty in NY subway chokehold death of Jordan Neely**
 
-You can read more about it [here](https://www.stellantis.com/en/news/press-releases/2024/december/stellantis-and-calt-to-invest-up-to-4-1-billion-in-joint-venture-for-large-scale-lfp-battery-plant-in-spain).
+You can read more about it [here](https://www.bbc.com/news/articles/crrw0881gzvo).
 
 ## Requirements
 - Python 3.8
