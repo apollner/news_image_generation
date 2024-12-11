@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel carries out dozens of air strikes across Syria, reports say**
+**European satellites launched to create an artificial eclipse**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4gxplxy550o).
+You can read more about it [here](https://www.salon.com/2024/12/09/european-satellites-launched-to-create-an-artificial-eclipse/).
 
 ## Requirements
 - Python 3.8
