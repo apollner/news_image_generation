@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel pounds Syrian army bases, denies deeper incursion**
+**The suspected UnitedHealthcare CEO killer planned his attack well – but made crucial mistakes, experts say**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/syrias-rebels-work-form-government-restore-order-after-assad-ouster-2024-12-10/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQWjVla2M2YVdTelktNm5xR2IzdDhVbUhxcUR4WjRPdjhOQmtBQUtIU1dxVy1VQ01CWEZENjFERXhVX3dQM2dDZUZFQXBOaGtqQVhtbW5TTU9ZQW9kR3RjanZjVWFpYWd4d1hTQmI4c0x5TTRWM3pEalZCWWQteDNEdXRWU29jS0s3bVhyaWlLTDdRZ9IBiAFBVV95cUxQT21wdEhfdndHVUh3aDRPZndhYzRXOVpieFVBbHNXM2xDUnN5Ym03MnNHS2Z6NjZuSWFtRGNXZzBxcEh2ZkhTYW5GZ0dSNWN3WGoybk5XRWMtdjNJcVM5WUpVTm5aZ3k1MHh4ZTlHaTlwZUJDSDFCV3RrMFJlZldkTGp3T0JGYjU2?oc=5).
 
 ## Requirements
 - Python 3.8
