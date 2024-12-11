@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx Reveals “Mystery Illness” in Netflix Special**
+**Shaken by Assad's sudden fall, Syria faces seismic turning point**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/jamie-foxx-netflix-special-mystery-illness-stroke-1236082328/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MU1RXSjNGMGx0S1Q1ME9CQUdQX1BYNEtFZkdQOXVUT1BKVUotRW9oUEtLTnVlbDE2TS0wTEJRU2tyWlR1UDhXNXJSSDkxZnpiSFAwREw4UkhxQdIBX0FVX3lxTFBfdnhqNzJMSThFWjZGdGlhR2YxSEQzR0NQLThrMS1hbW5rREUtR2hGRmZPRkx0T1ZBVFpaV2Q3dExMTW1BdUJjSWZQenBncktTaWExdE5VSEtwMkFRNW00?oc=5).
 
 ## Requirements
 - Python 3.8
