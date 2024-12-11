@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shaken by Assad's sudden fall, Syria faces seismic turning point**
+**Chinese Stocks Pare Early Surge Stoked by Policy Optimism**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MU1RXSjNGMGx0S1Q1ME9CQUdQX1BYNEtFZkdQOXVUT1BKVUotRW9oUEtLTnVlbDE2TS0wTEJRU2tyWlR1UDhXNXJSSDkxZnpiSFAwREw4UkhxQdIBX0FVX3lxTFBfdnhqNzJMSThFWjZGdGlhR2YxSEQzR0NQLThrMS1hbW5rREUtR2hGRmZPRkx0T1ZBVFpaV2Q3dExMTW1BdUJjSWZQenBncktTaWExdE5VSEtwMkFRNW00?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEtXR2RZa2RKczQwQVVzR0J0ZE4wMTdzV3ZhejlyVC1EbGVveDVyZndaeHgtOWJfSTBKOEowUmRNWTdvUGFoMFpVUy0zM1FnTV9PYUVEYTVoUk4yY3BqQXFKMG14bE5wSENtQllyZFZoeEc5dkVzM2dNTXRZRUt2a3pJVjM?oc=5).
 
 ## Requirements
 - Python 3.8
