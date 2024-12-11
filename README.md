@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nvidia, Oracle, Tesla, C3.ai, Planet Labs, MongoDB, Yext, and More Stock Market Movers**
+**Brandon Graham: I had it wrong about A.J. Brown, Jalen Hurts**
 
-You can read more about it [here](https://www.barrons.com/articles/stock-market-movers-5d1c1327).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/brandon-graham-i-had-it-wrong-about-a-j-brown-jalen-hurts).
 
 ## Requirements
 - Python 3.8
