@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The top 25 recruiting classes of 2025: Where does BYU land?**
+**Supreme Court Poised to Curb Scope of Environmental Reviews**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ09XV1FfaEp1ZnFzRW9zRmpPQ25YY3RBREFOVG44S2NQMTZJSk5JN3BpUW0xY2FfMV9BSG5UWFBDYVdBS0x2emh3TFNpRERUR1RpRVRJY2o4amZBYWJsdnltOU52dDNGMlh1aUlCdEZvaGQ1TlBwWnh0RmhLTGY0R2RQam1GWHRPUzQwQlRhWG9iTnJheXRtVGgzal9LWjVFVVBNQUZGM2VSdGt6WFdhby14elAwa284M1RSekF6eEFsU3hDdFE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQckc3MnF6WmNvR09MNmx2V3lPRUI2T245MkViV0FabWVrNTdqY1BLNGk0LW9wYk1GQ3oza0FJdENqSkpuTm03UlN3Wk9abmE0N3NwdU5Na0xrVkFwTzJfWkgyOWM2NmxLTzNUSUZTSDBLd3lyNTNONnVOOTJkWGx3UmM4YjVpOFJJRzBZaXUtWXg?oc=5).
 
 ## Requirements
 - Python 3.8
