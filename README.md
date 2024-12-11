@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eagle-Eyed Fans Think They've Spotted The First 'Switch 2' Image In New Satisfye Trailer**
+**Starting 5, Dec. 10: Knockout Rounds await in Emirates NBA Cup**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWtvbGZLR0pRRnhpN2RaTzdaWk5fRkJFdF84bzlIeGNjZTdSMnFkVERiOG5tSzJPak51ZTM2Vk1xekpoeGoxMXdONEdPM3g5ek1nWTBva2FhR1FCNjI1REJrQUphcFNXaTVWSUlNQlRJWTZ4MTMwN0M2ekJuTFZlRnVhV2V0NnVlYlJydTVBQm5NODZmNTE5UkdQYnlHLUpZeVdaejVfcGFkS3VaYVNFVFMzYUY0Z1lvYVdreWZKV2R2eDRnQ1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE1pMWtLZ3dhSHlsZldyYjhmWi1fMkRuZS1OX1N1LVhWSWs4V1hGQWhUYW50Ump3TC1yeVlyaGJjeDlEdkVaZHA0QWJXREhuQjJvZENJSnJMdHZaNHZTeEZHSjdxRWhCSW5OWkJiUHRCRzNzNzQ1djFwTQ?oc=5).
 
 ## Requirements
 - Python 3.8
