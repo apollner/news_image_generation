@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists find potential link between ultra-processed foods and cancer**
+**How Yankees’ Refusal to Give Juan Soto a Luxury Suite Helped Lead to Mets Deal**
 
-You can read more about it [here](https://www.ft.com/content/15ff9221-5007-4e0d-85a1-320d3567a601).
+You can read more about it [here](https://www.si.com/mlb/yankees-juan-soto-mets-suite).
 
 ## Requirements
 - Python 3.8
