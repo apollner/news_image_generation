@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**European satellites launched to create an artificial eclipse**
+**UnitedHealthcare CEO shooting latest: Suspect Luigi Mangione charged with 5 crimes in Pennsylvania**
 
-You can read more about it [here](https://www.salon.com/2024/12/09/european-satellites-launched-to-create-an-artificial-eclipse/).
+You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-shooting-latest-net-closing-suspect-new/story?id\\u003d116591169).
 
 ## Requirements
 - Python 3.8
