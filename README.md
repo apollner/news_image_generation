@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two families sue Character.AI over youth safety concerns, seek to shut down platform**
+**Germany and France agree to work with Syrian rebels on ‘basis of fundamental human rights’**
 
-You can read more about it [here](https://www.cnn.com/2024/12/10/tech/character-ai-second-youth-safety-lawsuit/index.html).
+You can read more about it [here](https://www.politico.eu/article/germany-olaf-scholz-france-emmanuel-macron-syria-rebel-groups-human-rights-hayat-tahrir-al-sham-terrorism-designation/).
 
 ## Requirements
 - Python 3.8
