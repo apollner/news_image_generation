@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Yankees’ Refusal to Give Juan Soto a Luxury Suite Helped Lead to Mets Deal**
+**Trump wants to end birthright citizenship. Can that really happen?**
 
-You can read more about it [here](https://www.si.com/mlb/yankees-juan-soto-mets-suite).
+You can read more about it [here](https://www.politico.com/news/2024/12/10/trump-birthright-citizenship-what-to-know-00193371).
 
 ## Requirements
 - Python 3.8
