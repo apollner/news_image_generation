@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Syria’s rebels toppled the Assad regime, in 7 maps**
+**The top 25 recruiting classes of 2025: Where does BYU land?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOeHFQeGlGaVNrcGo4LXpsd0Nnd0lLTXJka0NURjJwYmZ4Q1MwN21PX1NxWkJuNmItWHBKSUItSTJJay1BTFFJNnRIWlllU0dnY2RtRDlLN2xFczJrUEVPUUhFWHpQZ0pQNWFkYVR3enN0WXgzenlIalhNME43dGxiM1pR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ09XV1FfaEp1ZnFzRW9zRmpPQ25YY3RBREFOVG44S2NQMTZJSk5JN3BpUW0xY2FfMV9BSG5UWFBDYVdBS0x2emh3TFNpRERUR1RpRVRJY2o4amZBYWJsdnltOU52dDNGMlh1aUlCdEZvaGQ1TlBwWnh0RmhLTGY0R2RQam1GWHRPUzQwQlRhWG9iTnJheXRtVGgzal9LWjVFVVBNQUZGM2VSdGt6WFdhby14elAwa284M1RSekF6eEFsU3hDdFE?oc=5).
 
 ## Requirements
 - Python 3.8
