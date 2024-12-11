@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Israel's Netanyahu vows to challenge 'absurd' corruption charges as he takes the stand in his trial**
+**Eagle-Eyed Fans Think They've Spotted The First 'Switch 2' Image In New Satisfye Trailer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWnloa3NpR3hUUFpIVmQtbUJrWld4bDVwM21Nb3FtUTFWVWtSSjU5TjJXMWJHRXRsUUlodEJOYXpoWEtzVUYwdzNSaGNyUVgxNUJPV2h5WnduTUE5R19lMjE2MnlqWm82aTB3ZlRJXzFvVmhWRE8yUjZrbVFhckt6dWlGUEIzWmVQdUlPdDVLUEc4Q1J1cDAzcXBpcmdTbmc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMixgFBVV95cUxQQWtvbGZLR0pRRnhpN2RaTzdaWk5fRkJFdF84bzlIeGNjZTdSMnFkVERiOG5tSzJPak51ZTM2Vk1xekpoeGoxMXdONEdPM3g5ek1nWTBva2FhR1FCNjI1REJrQUphcFNXaTVWSUlNQlRJWTZ4MTMwN0M2ekJuTFZlRnVhV2V0NnVlYlJydTVBQm5NODZmNTE5UkdQYnlHLUpZeVdaejVfcGFkS3VaYVNFVFMzYUY0Z1lvYVdreWZKV2R2eDRnQ1E?oc=5).
 
 ## Requirements
 - Python 3.8
