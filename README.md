@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**S&P 500 Gains and Losses Today: Hershey Stock Simmers as Mondelez Weighs Takeover**
+**Chase’s late TD catch propels Bengals to Monday Night Football win over Dallas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmVkcFlxOUgwT0J3VjZmNHpFZUt6U3NzOUFvd2dORmI3bDlRbnRkVnJqUGZwMEZ6NnEyb056TjFDOHE5T1RKajFrb2NNdVVkZ0NTWXJzYk1aT1pKa0liZWxQZlF5ejdNNjlEb2JaQ0lVZ0tBUjBqVnU2bG1IMzByLXQ2XzROc1VGU0tmODBQVUQ2RHU5SmVMRDAyWGxyc1lXaGxBVzEzZ3ZIX2x2TGRaNXA5SlgtNWZidXVhQmtn?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxObTZpNHV2bFQ2UFBVcFdISDdHNE9RS3BLLS1WSWluWTAydV9lTE0yVnNJOVJfNDZpYkhwcFhvcTB4RmVmbEZZbGJPcTQwM2ZKX3pXbWdhS0YtRWNKaF92MTloZWpZc2ltLUZnT3pPUEcxQnBGb2VBNXB2VW0yUEpCZDE1eTJSVnNTd3dBLUVsUUgxaFE3UGpZ?oc=5).
 
 ## Requirements
 - Python 3.8
