@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**7 surprising things you didn’t know you could do with AI**
+**Trump's plan to revoke birthright citizenship would likely face court challenges**
 
-You can read more about it [here](https://www.digitaltrends.com/computing/7-things-you-didnt-know-you-could-do-with-ai/).
+You can read more about it [here](https://www.9news.com/article/news/politics/national-politics/trump-court-challenges-revoke-birthright-citizenship/73-c800580d-556f-4d69-a44f-4fc929621aea).
 
 ## Requirements
 - Python 3.8
