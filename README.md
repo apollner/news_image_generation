@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Utica singer Sofronio Vasquez wins ‘The Voice,’ becomes 2nd winner from Upstate NY**
+**BepiColombo Reveals Mercury’s Hidden Surface in Stunning Infrared Detail**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPSExhd21LTVpxZXJsclllemJMLUhqcUdtbk93U09fSEFjeUxyZkxpTVRFV2EwSFJpTnVkLS1fNmFvTk5HdVpHU0Qzdko0c3RJUnB5S0tKV2VUeF9iM2plYVZWSk1fY2dCUDU3TEltMTBxUnRBeGhkRWFfeGxOV3p3T2N2UHBLdUpxZHBzLWNPUkx5WE5RUXE2YndVX2hJQUZuV3JmRFFlMjBwN1FkVTBuU0lZUUFLSXlDd0pXY2VHTExnN1k0ejNURURJd9IB3wFBVV95cUxNTE9lZmtNV2VfOFlXSmVvdDBReGJDbmEwb2Vab2hoR01LSHozUDh0eHpqbC1JR1FfZWZlS3hTQzdDMi1BTjA0U3FRSm5kZnE4YUo2azlFYTlvWGFYRVREMGdpV2ZBb0VSelJtMnM5eU41TURWOXUyV0NBZU1lSlh1emQ2NUdQRzg3dHh3bktUV2tTSUotSVgyOVQ5TDBKc3BETkxCc3MwbFBINGNnWkVkUklOTzNPdkVUWG8wMnlQUkU2dDlWLUNXMVljZmhhbmljWElvMFVkWFJfUmRnZEZZ?oc=5).
+You can read more about it [here](https://dailygalaxy.com/2024/12/bepicolombo-mercurys-stunning-detail/).
 
 ## Requirements
 - Python 3.8
