@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rep. Nancy Mace says she was ‘physically accosted’ on Capitol grounds**
+**Mysterious New Jersey drone sightings prompt call for ‘state of emergency’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnRreG5xaEs4aWFZb1pTVGNlT3dhekYtQjJ0MGVieTBXY0U2dG9sYVUtb29VY2U4UDJxM1VpeUlQU25uLXJNdXpyMW5pS2lLLVRyMjRZSERFNzB6cTBJOWpsei11UTRxYWt0cjZYR0NJdnBvZmY2dFhmUE5vdTNMVlhxQUVCdHhOMzktV1A0dHFlRHMwb3dHTzBn0gGQAUFVX3lxTE9aQ0ZCRjR4X01XdUx4Y0dqcUlkRnNCVjZaZjl2eEtZbTlwMjExYW9RWTNqSGE0NERMc1k3V3h5QnVYc3luYzF1MjFrZkRqeHVTRlhpcVJ3OTRMZ2pFYU1lMWJMOG1Tc0UzT1NwVmU2ZTRmOGdfV0UxOWFFTkQyQmJYMzl1emk3R3pjV3Y2OTZBYQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1RLOG4zSTNDLURpYkZ4QWhFLWhBYTA0UENmaGtJYllXbXI1SVR0dXV5V2V2N2tnVlpPZ1k1LVh6UnBGQUYzdHJJUFlfUlQ3MThfWHpYZ1NXNHNrOVdRbkZpQkVaSjBMZTEycjVvZkdhYzdUYk5uZzdST0kyME12NHhObVF6RG9yakNWMkU0Sk4zSHhlSVdJX9IBmAFBVV95cUxNWFNrMjRzRkxTV3FHS1pMZGM3VEFoSFdmMVlTWjVRcmFQQktTbUNSUjM1NzE3XzhVRDd3T05ROU9WMHNZV2k5Ny0zTmtXc0d1ZTJtVnV3ZW1uQ3VTbDRIVU5oV2JzLUZQSXRkaWlzcFd6R0xwcnk0RWx6cG1DWVo1UkoxUDVGQkwtVDBZV1J2Zk85Q180d3UyMw?oc=5).
 
 ## Requirements
 - Python 3.8
