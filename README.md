@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**J.J. Abrams Sets New TV and Film Production Pact With Warner Bros., Signaling the End of the Mega-Deal Era**
+**UNC offers Bill Belichick head coaching job, sources say**
 
-You can read more about it [here](https://variety.com/2024/tv/news/j-j-abrams-new-film-tv-production-warner-bros-1236245474/).
+You can read more about it [here](https://www.wcvb.com/article/bill-belichick-unc-college-coach-job-offer-new-england-patriots/63150397).
 
 ## Requirements
 - Python 3.8
