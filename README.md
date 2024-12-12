@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fundraiser Has Already Racked Up Thousands for Mangione**
+**The Take: Sednaya Prison falls, revealing the al-Assads’ legacy of torture**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxObkNLYXFpN2tWS0hwelNkTlVadE11T1FucHJMVlUtQXdlNVU1YkJzc2pDT1ZpQ045eUlHVnR0RnJVRnlpOG9LZ21VaEFUaTlyMnpQTU5SVXV4bmNUbWRJTWI2clgxb01oLVo3emRvdHg2UXVpblZ0T2Q2NmQzdFU5eVVvYklBT1FzZ3kyazlwRDRsbWkxTDMyMA?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkV3em1QU3hkNndkWExzd2tIeWpUVlZDVmlhNU1udEs5SDBNVFNLLWNFeFlGRW54X1lrQ3dCdzNIdGR5SUZZUWJ1MDBvTHFyTGRwYUM3c1FLYXV0VFhSYTZPd3Vwa1ozTlRkN09MVGpyRW5IZXIxYUVXNmUzdUxxLW51VHEteUJ5S0Ryeko5N3NzQ21qT3lCeHN3WXVVSEc1b3hxLVpzWnZab2NlWHMtN3lMdDROSmRk?oc=5).
 
 ## Requirements
 - Python 3.8
