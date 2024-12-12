@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Cup: Thunder advance to semifinals as Shai Gilgeous-Alexander scores 39, Luka Dončić sputters**
+**Syria: Which countries have been involved in the war and why?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTjZkOE9sS2ZRLUFSbG9Cb1RsU055M0pseHY5endwcUhqTEVMUmdPRU5vcVNlaFlhWHZScmNISl9GNTU1WWhPeWhMaExjMTYzUGE5aHNMS082bmZIc0NJdnFVc0o2NVhWTXBtWUtLcEUtcEpiM2dVOGxGT3lQVER0ZDQ4Vl9yZGw0dGFqZXdSb3MzWThOSFdUMGw2UUM5RXY3VzRZRnNMWWV0cVRjT0hfTnY2NU85X09LUjBoNzJXcEF6TUhjck9jTHNBaE1RQTl6?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWXo3RU5uaEItQWN4eFluMHh0RnFRc3ZFMkF5SmFDbndDendaaEM3MFpkbFpTcVVCWkM1dXBOOWhSQTkxUHFqckNXVDRhUld3WEFTYk9wTkRyZ9IBX0FVX3lxTE9sMjFyUXluRENJOUp4bFVsTnpNVVU5V1FBR3o2dXlCNkpGMl80T1JwQVJxZi1xYnZOVi1JMDU0ak5MMTdndVlhUnNSRHk2ZzNDZUplamFyYmE1NDVvNFhz?oc=5).
 
 ## Requirements
 - Python 3.8
