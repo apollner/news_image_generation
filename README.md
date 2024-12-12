@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Man arrested in assault on Rep. Nancy Mace, police say**
+**Judge rejects sale of Infowars to satirical news site the Onion**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOU1GRGg5bnNWX2VxZXhPajltTUZhaHV5bjM1aUdVMGk0djBnSEV6SDhfa1ppU1RfTVdBTEdtTXlhd3lnSUgtNHRhVktHcWVLbnZsQUNiQ19ERDFOam03eFdCT0JhNjNvdWhNQ2hrZUMxY04wTkoyOFA0OFB1d1J6aVVNQUVWZ3c2cE0yeUdB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS1VUUY1Nmg5bHBZX2JyejhJOHFRUlEwOU4wVzFQWlk0OV90N1NPaVpZRjdMUVBKU0haTDJtZDFnRlkyblNMSGMweFZLNFdxS29YVVlmSjdFQXRPR3JLbkxOaU9lX2JGTUJvTG9iU3RWVmtNRTlLang3a05MNFRFRVFXODJidTRCTnBkai0wMEFBTnl1cFdVRl9LbTNTbzQ?oc=5).
 
 ## Requirements
 - Python 3.8
