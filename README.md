@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One UI 7 brings call recording feature in the USA - SamMobile**
+**Judge blocks The Onion’s purchase of Alex Jones’ Infowars**
 
-You can read more about it [here](https://www.sammobile.com/news/one-ui-7-0-call-recording-usa-beta/).
+You can read more about it [here](https://www.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
