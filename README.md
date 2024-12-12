@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Spotify's Car Thing Accessory is Officially Dead**
+**One UI 7 brings call recording feature in the USA - SamMobile**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE8tdGY2VzlrTGN5a015ZWh3VzFwOHlBdTI3SlM3eV9hel9ZVlViSkdweVBGVmFHOEM2d3FweGNwUGJfeEdZSjBjdFpjVTVOT0pBUmdDcjBhN3BYTVZBcVZJSS1TQlFiN3NNZ3c5bEN6ZHFTQmhiQm1yT19Nbw?oc=5).
+You can read more about it [here](https://www.sammobile.com/news/one-ui-7-0-call-recording-usa-beta/).
 
 ## Requirements
 - Python 3.8
