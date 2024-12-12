@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CNN Poll: Most Americans approve how Trump is handling his return to the White House**
+**Afghan blast kills key minister, shocking Taliban**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWR3dXdLVUxoQm5yVEFIcEE3cmNwd0VqalNaV3N2TV9lWTYwWHVyMXZNTU9aTm1EOF9MVmcyNnJWaGFIb2VCbHh6XzRIWnhPOWYzRW1EVmZnYS1LM25lOUU3enFtNVBiM0oyOTVuQ2pVdFpPdTAyYzZBRmZDRmRldGhB0gF4QVVfeXFMTzZfNVdORWxHNkxIOXQwSzdHTWh2WWJjSXJtV1I5bVpKeVNnWDRoMHQzQjR2S0tpN2VxV1RjTTFEMTJhODJOSXNzcmdDZFYzcjJUbjNMWGc2cTR5MUUwdUx2b3BZT1plbjJ3Q29hZC1HV3pjeVpnbEdD?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWxDVlpwNFZXMkxzR0RUa3FWWWVmRXpzZzBsbmNSS0I1Z0RNb2R1R2NhTF9yRGVQUmNDXzRaT05oZWdHdHN0cVNtSk10S0xKdGlGZmhhR1gwa2k2cUxLdUpjQ1FsOFJySU11cXE2bFZFbWpISV9TMlNJM2tKRFBMTWlOZTk?oc=5).
 
 ## Requirements
 - Python 3.8
