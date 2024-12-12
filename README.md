@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In memoriam: Nikki Giovanni, renowned poet, activist, and Virginia Tech legend**
+**'Knocking On Our Door': Experts Warn Of Bird Flu's Pandemic Threat**
 
-You can read more about it [here](https://news.vt.edu/articles/2024/12/clahs-giovannimemoriam.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEI2TG8wZlZiM09pdjZybzNCclhHU3QtWmt6TjNHZHhoLWRVVDRZTndZM204Ry1Gb004SXM4bC14RERhN1I0aVJEZ0JQWlVZM1p2QjgxLTZxTF9BbUFRb0xrdnhBTm14a1V3bkxNemE2Z0hJbTktWVhrUXdtMkZFMkZGQjJGSC13YkhNV0xrWE1YTVFBcVpyQy1mVnNaSkZOalhr?oc=5).
 
 ## Requirements
 - Python 3.8
