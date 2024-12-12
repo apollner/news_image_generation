@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria: Which countries have been involved in the war and why?**
+**South Korea’s former Defense Minister attempts to take his own life, official says, amid martial law political crisis**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWXo3RU5uaEItQWN4eFluMHh0RnFRc3ZFMkF5SmFDbndDendaaEM3MFpkbFpTcVVCWkM1dXBOOWhSQTkxUHFqckNXVDRhUld3WEFTYk9wTkRyZ9IBX0FVX3lxTE9sMjFyUXluRENJOUp4bFVsTnpNVVU5V1FBR3o2dXlCNkpGMl80T1JwQVJxZi1xYnZOVi1JMDU0ak5MMTdndVlhUnNSRHk2ZzNDZUplamFyYmE1NDVvNFhz?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/12/10/asia/south-korea-defense-minister-suicide-attempt-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
