@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Max Fried to sign with Yankees: New York picks up ace lefty on eight-year, $218 million deal**
+**In memoriam: Nikki Giovanni, renowned poet, activist, and Virginia Tech legend**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/max-fried-to-sign-with-yankees-new-york-picks-up-ace-lefty-on-eight-year-218-million-deal/).
+You can read more about it [here](https://news.vt.edu/articles/2024/12/clahs-giovannimemoriam.html).
 
 ## Requirements
 - Python 3.8
