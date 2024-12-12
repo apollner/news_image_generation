@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**BepiColombo Reveals Mercury’s Hidden Surface in Stunning Infrared Detail**
+**Syrians head home from Turkey to 'a better life' after rebellion**
 
-You can read more about it [here](https://dailygalaxy.com/2024/12/bepicolombo-mercurys-stunning-detail/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFJUZ1hKd3ljRjNwM1RHVEZjMjlRdHFkV0k0em96dFZhSVltZ0hESVpaZExYaTUxelphOTlTNkE0aTltQWdzR1RfSVBLeURJQjREWVllVlQtVWRiVmJRS0FLMG9WdGpKWmtFNUZFNTdHcGRrM1lVaTJpMzBOc19yOUJqeTlWRzlzeDBvdXB0RklRNzRCbi1MLUx1d1NUNFloY2h6N2VILXdRaW96?oc=5).
 
 ## Requirements
 - Python 3.8
