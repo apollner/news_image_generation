@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrians head home from Turkey to 'a better life' after rebellion**
+**Man arrested in assault on Rep. Nancy Mace, police say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVFJUZ1hKd3ljRjNwM1RHVEZjMjlRdHFkV0k0em96dFZhSVltZ0hESVpaZExYaTUxelphOTlTNkE0aTltQWdzR1RfSVBLeURJQjREWVllVlQtVWRiVmJRS0FLMG9WdGpKWmtFNUZFNTdHcGRrM1lVaTJpMzBOc19yOUJqeTlWRzlzeDBvdXB0RklRNzRCbi1MLUx1d1NUNFloY2h6N2VILXdRaW96?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPOU1GRGg5bnNWX2VxZXhPajltTUZhaHV5bjM1aUdVMGk0djBnSEV6SDhfa1ppU1RfTVdBTEdtTXlhd3lnSUgtNHRhVktHcWVLbnZsQUNiQ19ERDFOam03eFdCT0JhNjNvdWhNQ2hrZUMxY04wTkoyOFA0OFB1d1J6aVVNQUVWZ3c2cE0yeUdB?oc=5).
 
 ## Requirements
 - Python 3.8
