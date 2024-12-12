@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge rejects sale of Infowars to satirical news site the Onion**
+**Futures: Growth Tries To Bounce With Inflation Data Due**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxPVS1VUUY1Nmg5bHBZX2JyejhJOHFRUlEwOU4wVzFQWlk0OV90N1NPaVpZRjdMUVBKU0haTDJtZDFnRlkyblNMSGMweFZLNFdxS29YVVlmSjdFQXRPR3JLbkxOaU9lX2JGTUJvTG9iU3RWVmtNRTlLang3a05MNFRFRVFXODJidTRCTnBkai0wMEFBTnl1cFdVRl9LbTNTbzQ?oc=5).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-palantir-nvidia/).
 
 ## Requirements
 - Python 3.8
