@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Futures: Growth Tries To Bounce With Inflation Data Due**
+**Rep. Nancy Mace says she was ‘physically accosted’ on Capitol grounds**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-palantir-nvidia/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNnRreG5xaEs4aWFZb1pTVGNlT3dhekYtQjJ0MGVieTBXY0U2dG9sYVUtb29VY2U4UDJxM1VpeUlQU25uLXJNdXpyMW5pS2lLLVRyMjRZSERFNzB6cTBJOWpsei11UTRxYWt0cjZYR0NJdnBvZmY2dFhmUE5vdTNMVlhxQUVCdHhOMzktV1A0dHFlRHMwb3dHTzBn0gGQAUFVX3lxTE9aQ0ZCRjR4X01XdUx4Y0dqcUlkRnNCVjZaZjl2eEtZbTlwMjExYW9RWTNqSGE0NERMc1k3V3h5QnVYc3luYzF1MjFrZkRqeHVTRlhpcVJ3OTRMZ2pFYU1lMWJMOG1Tc0UzT1NwVmU2ZTRmOGdfV0UxOWFFTkQyQmJYMzl1emk3R3pjV3Y2OTZBYQ?oc=5).
 
 ## Requirements
 - Python 3.8
