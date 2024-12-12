@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Max Fried to sign with Yankees: New York picks up ace lefty on eight-year, $218 million deal**
+**Judge blocks The Onion’s purchase of Alex Jones’ Infowars**
 
-You can read more about it [here](https://www.cbssports.com/mlb/news/max-fried-to-sign-with-yankees-new-york-picks-up-ace-lefty-on-eight-year-218-million-deal/).
+You can read more about it [here](https://www.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
