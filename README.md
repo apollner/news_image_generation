@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Take: Sednaya Prison falls, revealing the al-Assads’ legacy of torture**
+**Xi Readies Bargaining Chips for US Trade War After Biden Curbs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxORkV3em1QU3hkNndkWExzd2tIeWpUVlZDVmlhNU1udEs5SDBNVFNLLWNFeFlGRW54X1lrQ3dCdzNIdGR5SUZZUWJ1MDBvTHFyTGRwYUM3c1FLYXV0VFhSYTZPd3Vwa1ozTlRkN09MVGpyRW5IZXIxYUVXNmUzdUxxLW51VHEteUJ5S0Ryeko5N3NzQ21qT3lCeHN3WXVVSEc1b3hxLVpzWnZab2NlWHMtN3lMdDROSmRk?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-11/xi-readies-bargaining-chips-for-us-trade-war-after-biden-curbs).
 
 ## Requirements
 - Python 3.8
