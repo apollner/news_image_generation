@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**John Fassel on Amani Oruwariye's special teams miscue: It’s a crazy play, and it happens fast**
+**Spotify's Car Thing Accessory is Officially Dead**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ2RsN2VzYzQwSDIyUzUyZUcxWUJpeGhYY184WHlZTFJ4djNqWXZUaF82RWt4bHRENVVlR1Q4SE4zQ1YzalJCMTdVcUUyTXhJVklrREhkRjcxbjhNNmdQNGhqX0lpSkRfVnpEbDNBdE9pcXFubndVdExQMlo3X0RMYW5qWEV4TGEwRUw3cFo1RDhIQnloNlE5ZkgtVDBQUy1BQkJ1R3UxTDZLMWE0VkxkZHhiSnA3MW9TWDVKQmJad3ByZzJWcHNabVk1ZWVIVGhEMlc4aXY4d25RcjZlV1pMRGFSTjR6dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE8tdGY2VzlrTGN5a015ZWh3VzFwOHlBdTI3SlM3eV9hel9ZVlViSkdweVBGVmFHOEM2d3FweGNwUGJfeEdZSjBjdFpjVTVOT0pBUmdDcjBhN3BYTVZBcVZJSS1TQlFiN3NNZ3c5bEN6ZHFTQmhiQm1yT19Nbw?oc=5).
 
 ## Requirements
 - Python 3.8
