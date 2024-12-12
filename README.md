@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Albertsons gives up on Kroger merger and sues the grocery chain for failing to secure deal**
+**NASA believes it understands why Ingenuity crashed on Mars**
 
-You can read more about it [here](https://apnews.com/article/kroger-albertsons-79e366723d7287b2df71d96730fba76e).
+You can read more about it [here](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/).
 
 ## Requirements
 - Python 3.8
