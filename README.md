@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alexander Brothers Are Arrested in Florida on Sex-Trafficking Charges**
+**Microsoft introduces feature that enables file sharing between iPhone and Windows PCs**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE11SHQxRWI5VUF1Zk9XamlhRHh2VXJvRjQzY1UyYUFkenZjU0kwZTN6Z2swMzNweGg4ZGhIaHJvVk5aS1F4VjQ0cHVUWG5fTTAza3JEdlQxc3piQXNQTHVYU0JQdDk1YXY0UmF4eGpDRGtBWExTYTZxUUxpSQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZVVoNmZnM1p5UXZRVFE0TmZGU044ZXBHNGJxSkphRk04dVV0QWpnaHJwek9iRUJ0T2dTc3EycEp0cy05d3RrV1pzeWN4eXdHSXF3cmhfODEtZUloLVhibFVybjNwMkNQNTF4Wm80U0Zmek05YnJjUg?oc=5).
 
 ## Requirements
 - Python 3.8
