@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA explains why Mars helicopter Ingenuity crashed on its 72nd flight**
+**Alexander Brothers Are Arrested in Florida on Sex-Trafficking Charges**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk1nYzUweVB2YzJVOEFRQWFfOE5RcXlna3hOUExOZVQxTU9CRUlnSVJMRzlwNUdKOEhHa24tMmZqRmoxV0htY3RGaFRDWXNtMV9BTlluRUpNWjBndkQ3T1RsbGVWWGYwMmJFSFZnanZneWJ1c3pVSDRHdU1DemlRQU5Xa2UzVHhvZ2E1dUdOOWZPZmFacm85eG9iVEE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE11SHQxRWI5VUF1Zk9XamlhRHh2VXJvRjQzY1UyYUFkenZjU0kwZTN6Z2swMzNweGg4ZGhIaHJvVk5aS1F4VjQ0cHVUWG5fTTAza3JEdlQxc3piQXNQTHVYU0JQdDk1YXY0UmF4eGpDRGtBWExTYTZxUUxpSQ?oc=5).
 
 ## Requirements
 - Python 3.8
