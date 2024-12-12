@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Afghan blast kills key minister, shocking Taliban**
+**Trump outran the law. His allies haven’t.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWxDVlpwNFZXMkxzR0RUa3FWWWVmRXpzZzBsbmNSS0I1Z0RNb2R1R2NhTF9yRGVQUmNDXzRaT05oZWdHdHN0cVNtSk10S0xKdGlGZmhhR1gwa2k2cUxLdUpjQ1FsOFJySU11cXE2bFZFbWpISV9TMlNJM2tKRFBMTWlOZTk?oc=5).
+You can read more about it [here](https://www.politico.com/news/2024/12/11/trump-allies-state-legal-challenges-000246).
 
 ## Requirements
 - Python 3.8
