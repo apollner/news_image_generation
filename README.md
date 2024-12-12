@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mysterious New Jersey drone sightings prompt call for ‘state of emergency’**
+**CNN Poll: Most Americans approve how Trump is handling his return to the White House**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1RLOG4zSTNDLURpYkZ4QWhFLWhBYTA0UENmaGtJYllXbXI1SVR0dXV5V2V2N2tnVlpPZ1k1LVh6UnBGQUYzdHJJUFlfUlQ3MThfWHpYZ1NXNHNrOVdRbkZpQkVaSjBMZTEycjVvZkdhYzdUYk5uZzdST0kyME12NHhObVF6RG9yakNWMkU0Sk4zSHhlSVdJX9IBmAFBVV95cUxNWFNrMjRzRkxTV3FHS1pMZGM3VEFoSFdmMVlTWjVRcmFQQktTbUNSUjM1NzE3XzhVRDd3T05ROU9WMHNZV2k5Ny0zTmtXc0d1ZTJtVnV3ZW1uQ3VTbDRIVU5oV2JzLUZQSXRkaWlzcFd6R0xwcnk0RWx6cG1DWVo1UkoxUDVGQkwtVDBZV1J2Zk85Q180d3UyMw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiggFBVV95cUxOWWR3dXdLVUxoQm5yVEFIcEE3cmNwd0VqalNaV3N2TV9lWTYwWHVyMXZNTU9aTm1EOF9MVmcyNnJWaGFIb2VCbHh6XzRIWnhPOWYzRW1EVmZnYS1LM25lOUU3enFtNVBiM0oyOTVuQ2pVdFpPdTAyYzZBRmZDRmRldGhB0gF4QVVfeXFMTzZfNVdORWxHNkxIOXQwSzdHTWh2WWJjSXJtV1I5bVpKeVNnWDRoMHQzQjR2S0tpN2VxV1RjTTFEMTJhODJOSXNzcmdDZFYzcjJUbjNMWGc2cTR5MUUwdUx2b3BZT1plbjJ3Q29hZC1HV3pjeVpnbEdD?oc=5).
 
 ## Requirements
 - Python 3.8
