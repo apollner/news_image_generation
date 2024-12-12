@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In memoriam: Nikki Giovanni, renowned poet, activist, and Virginia Tech legend**
+**Syria's new transitional PM calls for stability and calm**
 
-You can read more about it [here](https://news.vt.edu/articles/2024/12/clahs-giovannimemoriam.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c5yxrpkx00yo).
 
 ## Requirements
 - Python 3.8
