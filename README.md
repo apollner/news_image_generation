@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump outran the law. His allies haven’t.**
+**Schumer torpedoed by Manchin and Sinema on crucial NLRB vote**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/11/trump-allies-state-legal-challenges-000246).
+You can read more about it [here](https://www.axios.com/2024/12/11/schumer-nlrb-vote-manchin-sinema).
 
 ## Requirements
 - Python 3.8
