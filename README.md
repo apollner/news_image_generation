@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Juventus 2-0 Man City (Dec 11, 2024) Game Analysis**
+**NASA explains why Mars helicopter Ingenuity crashed on its 72nd flight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VejNVLVlfUTR1MFM0eUM3Zl9pbkM1bk9odERwRW9pWEVTMmgtX3NRTHI4M0RaaHY3RXpfSlZlS29XMVM3ZHhXMExJNmR2T1E5Vk85S1F1RlZJMHNZS3c4?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk1nYzUweVB2YzJVOEFRQWFfOE5RcXlna3hOUExOZVQxTU9CRUlnSVJMRzlwNUdKOEhHa24tMmZqRmoxV0htY3RGaFRDWXNtMV9BTlluRUpNWjBndkQ3T1RsbGVWWGYwMmJFSFZnanZneWJ1c3pVSDRHdU1DemlRQU5Xa2UzVHhvZ2E1dUdOOWZPZmFacm85eG9iVEE?oc=5).
 
 ## Requirements
 - Python 3.8
