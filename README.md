@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Judge blocks The Onion’s purchase of Alex Jones’ Infowars**
+**Fundraiser Has Already Racked Up Thousands for Mangione**
 
-You can read more about it [here](https://www.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxObkNLYXFpN2tWS0hwelNkTlVadE11T1FucHJMVlUtQXdlNVU1YkJzc2pDT1ZpQ045eUlHVnR0RnJVRnlpOG9LZ21VaEFUaTlyMnpQTU5SVXV4bmNUbWRJTWI2clgxb01oLVo3emRvdHg2UXVpblZ0T2Q2NmQzdFU5eVVvYklBT1FzZ3kyazlwRDRsbWkxTDMyMA?oc=5).
 
 ## Requirements
 - Python 3.8
