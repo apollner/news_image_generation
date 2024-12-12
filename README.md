@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA believes it understands why Ingenuity crashed on Mars**
+**Juventus 2-0 Man City (Dec 11, 2024) Game Analysis**
 
-You can read more about it [here](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VejNVLVlfUTR1MFM0eUM3Zl9pbkM1bk9odERwRW9pWEVTMmgtX3NRTHI4M0RaaHY3RXpfSlZlS29XMVM3ZHhXMExJNmR2T1E5Vk85S1F1RlZJMHNZS3c4?oc=5).
 
 ## Requirements
 - Python 3.8
