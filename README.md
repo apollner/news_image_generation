@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple’s rollout of new ChatGPT-powered Siri, AI image tools extends record stock rally**
+**Albertsons gives up on Kroger merger and sues the grocery chain for failing to secure deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXNFdkxWQlVXOXU0YXVWODZWT2p4TW5KMG56aUtVZzN1eklncnNqNTJtcG9VQ2xWQy0tYmFtcXB0dk5VZFl4MVVrUnQ2MnlJU0hBYVJXTlJORjYxNHI2azZmUllRSUQzcl9xcldldWZyUkZRdUVrQ29udFVOZEt1Q1JxaEZUeEkySWo5TXlqc1kzVjE1dURsbFV3RldINnozZU90YmhWWDBHS0k?oc=5).
+You can read more about it [here](https://apnews.com/article/kroger-albertsons-79e366723d7287b2df71d96730fba76e).
 
 ## Requirements
 - Python 3.8
