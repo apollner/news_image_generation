@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Here's what we can see Russia's warships and planes doing in new satellite images of Syria amid regime change**
+**Max Fried to sign with Yankees: New York picks up ace lefty on eight-year, $218 million deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUklYRXdBSWtNMkRxcEtNTm4yNlRVVmREX0VjOGoyNTFFVHRoOTFkVUZWSVg2Q3JIWjhLRnJqbHJNWGVrVEktNVpDTG83c2swWXZqRWVtVVhhdUJVOUtVWUdndWFzcXJYM09kMEcwNmVxTDZ6SjJDdWlWbDhkbm9ZTWRkZXV6STlENEJFdVhCUWV4OGZ3bEhLbmlweGZlRVBlc21xRWF2Vmlodw?oc=5).
+You can read more about it [here](https://www.cbssports.com/mlb/news/max-fried-to-sign-with-yankees-new-york-picks-up-ace-lefty-on-eight-year-218-million-deal/).
 
 ## Requirements
 - Python 3.8
