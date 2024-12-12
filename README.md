@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Supreme Court Poised to Curb Scope of Environmental Reviews**
+**Max Fried to sign with Yankees: New York picks up ace lefty on eight-year, $218 million deal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxQckc3MnF6WmNvR09MNmx2V3lPRUI2T245MkViV0FabWVrNTdqY1BLNGk0LW9wYk1GQ3oza0FJdENqSkpuTm03UlN3Wk9abmE0N3NwdU5Na0xrVkFwTzJfWkgyOWM2NmxLTzNUSUZTSDBLd3lyNTNONnVOOTJkWGx3UmM4YjVpOFJJRzBZaXUtWXg?oc=5).
+You can read more about it [here](https://www.cbssports.com/mlb/news/max-fried-to-sign-with-yankees-new-york-picks-up-ace-lefty-on-eight-year-218-million-deal/).
 
 ## Requirements
 - Python 3.8
