@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Executed, Executed, Dead From Sickness’: The Grim Records From Syria’s Notorious Prison**
+**FBI Director Christopher Wray to resign before Trump takes office**
 
-You can read more about it [here](https://www.wsj.com/world/middle-east/syria-saydnaya-prison-assad-regime-5008d638).
+You can read more about it [here](https://www.bbc.com/news/articles/ce902z8lp81o).
 
 ## Requirements
 - Python 3.8
