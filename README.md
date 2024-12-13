@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Morgan Wallen takes guilty plea in chair-throwing case**
+**‘Vanderpump Rules’ Star James Kennedy Arrested for Domestic Violence**
 
-You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/morgan-wallen-plea-deal-chair-throw-broadway/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxObktsLURRVDV4UktlbjFoeHJQM1pORl9lYVBFTnI5eVpZdE1nTndWMEVyeFNjR0ZvR0ttLUFzclF1d1Q2eElmMHVZdTZFbThvTWZzaEVockwtN2Z2S2dBQk9IRkdqNjhxcEJHcjE0SlVlZ0w0cFlxdXZVbndES3RZemgzN0kxRGhGb3BXU3JYbXU5S3dMZFd5Tkp4cG4tY0xGU05NYw?oc=5).
 
 ## Requirements
 - Python 3.8
