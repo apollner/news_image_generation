@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO killing latest: Fingerprints, gun tied to scene of killing, New York officials say**
+**Sickened by the politics of the NFL, Belichick aims for a college restart**
 
-You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-luigi-mangione/story?id\\u003d116713658).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42923468/in-choosing-unc-bill-belichick-chose-himself).
 
 ## Requirements
 - Python 3.8
