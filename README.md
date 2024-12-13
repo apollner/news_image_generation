@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No undercover FBI agents were at the January 6 US Capitol riot, watchdog reports**
+**Morgan Wallen takes guilty plea in chair-throwing case**
 
-You can read more about it [here](https://www.cnn.com/2024/12/12/politics/justice-inspector-general-january-6-fbi-report/index.html).
+You can read more about it [here](https://www.wkrn.com/news/local-news/nashville/morgan-wallen-plea-deal-chair-throw-broadway/).
 
 ## Requirements
 - Python 3.8
