@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Director Christopher Wray to resign before Trump takes office**
+**Pool Report on the Final Seconds in Tonight’s Golden State at Houston Game**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce902z8lp81o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFveGlkbmEtVUJsQkl5QzJnWUt1dG5JNU45Z3J2LUNUWTVQNHlJTGVkTi1tMUhfNG9wUjN0dmtDRnRlUlBPZXp2S0dnaDdqWGZnZGFtYjJETDFPVmxkNURQTnhVeUJybmtUZUhyVkpDSFpXU1pkdkJqekZ0UUlXRm10Wi1mOXl4Z1pFaXgtMHB0MExrelBHTWpkbC04VnNG?oc=5).
 
 ## Requirements
 - Python 3.8
