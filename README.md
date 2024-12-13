@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump taps immigration hard-liner Kari Lake as head of Voice of America**
+**The 40 Greatest Nightly Moments of Taylor Swift’s Eras Tour**
 
-You can read more about it [here](https://apnews.com/article/trump-kari-lake-voice-of-america-ambassadors-e894cf2e84791b35528baa0cbdd66b22).
+You can read more about it [here](https://variety.com/lists/taylor-swift-greatest-moments-eras-tour/).
 
 ## Requirements
 - Python 3.8
