@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Vanderpump Rules’ Star James Kennedy Arrested for Domestic Violence**
+**No undercover FBI agents were at the January 6 US Capitol riot, watchdog reports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipAFBVV95cUxObktsLURRVDV4UktlbjFoeHJQM1pORl9lYVBFTnI5eVpZdE1nTndWMEVyeFNjR0ZvR0ttLUFzclF1d1Q2eElmMHVZdTZFbThvTWZzaEVockwtN2Z2S2dBQk9IRkdqNjhxcEJHcjE0SlVlZ0w0cFlxdXZVbndES3RZemgzN0kxRGhGb3BXU3JYbXU5S3dMZFd5Tkp4cG4tY0xGU05NYw?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/12/12/politics/justice-inspector-general-january-6-fbi-report/index.html).
 
 ## Requirements
 - Python 3.8
