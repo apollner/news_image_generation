@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**’28 Years Later’ Trailer: British Art Dealer Claims To Be Viral Cillian Murphy Lookalike Zombie**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](http://deadline.com/2024/12/28-years-later-trailer-cillian-murphy-zombie-angus-neill-1236201491/).
 
 ## Requirements
 - Python 3.8
