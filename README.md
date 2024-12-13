@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Selena Gomez and Benny Blanco Announce Their Engagement. The Internet Rejoices.**
+**No undercover FBI agents were at the January 6 US Capitol riot, watchdog reports**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLW5UdnlteWdTRVdkcWJxWl9nVXhBOWJDYWt0VDZLRi1HQUZ1M1J5MFVhcGJvWjlNU0d2dmYyWVozMW4tUVVJT3IzTlZ4RnpkYkNHTnBOSmlfcEVucUtScy1NN0QyUGI3REVNcHFFb2RzUTBKdzR5Z0F6bVhlZ2VqS0JjX2VNQXRHU0NzTWN5bHI?oc=5).
+You can read more about it [here](https://www.cnn.com/2024/12/12/politics/justice-inspector-general-january-6-fbi-report/index.html).
 
 ## Requirements
 - Python 3.8
