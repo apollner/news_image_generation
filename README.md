@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China stresses plans to boost growth at top agenda-setting meeting**
+**Donald Trump Appoints Kari Lake To Lead Voice Of America**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/12/china-stresses-plans-to-boost-growth-at-top-agenda-setting-meeting.html).
+You can read more about it [here](http://deadline.com/2024/12/trump-kari-lake-voice-of-america-1236201457/).
 
 ## Requirements
 - Python 3.8
