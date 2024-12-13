@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US man found near Damascus after being freed from Syrian prison**
+**China stresses plans to boost growth at top agenda-setting meeting**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cn54xk0vkq5o).
+You can read more about it [here](https://www.cnbc.com/2024/12/12/china-stresses-plans-to-boost-growth-at-top-agenda-setting-meeting.html).
 
 ## Requirements
 - Python 3.8
