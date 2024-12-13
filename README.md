@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Intel Arc B580 Delivers Promising Linux GPU Compute Potential For Battlemage Review**
+**US sees Assad's fall as chance to destroy Syria's chemical arsenal 'once and for all'**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiakFVX3lxTE5FT2lnQ2Q0SUFWU01zSlZOcEZaOHlTblU0ZHJscmQ5N1R2SFBVQ3BxV09PbGl4d2N3UTFvTjV5cnpvbk9PQXV1SmdMRGlETnplZFBJREZMeXhCeWZheW56ZjkwSWFnNmZtd1E?oc=5).
+You can read more about it [here](https://www.reuters.com/world/us-sees-assads-fall-chance-destroy-syrias-chemical-arsenal-once-all-2024-12-12/).
 
 ## Requirements
 - Python 3.8
