@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No undercover FBI agents were at the January 6 US Capitol riot, watchdog reports**
+**FTC accuses alcohol-distribution giant Southern Glazer’s of ‘unfair pricing’**
 
-You can read more about it [here](https://www.cnn.com/2024/12/12/politics/justice-inspector-general-january-6-fbi-report/index.html).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/12/12/ftc-southern-glazers-robinson-patman/).
 
 ## Requirements
 - Python 3.8
