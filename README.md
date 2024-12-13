@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Experts Warn of Bird Flu Pandemic as Signals of Mutation Mount**
+**Roger Goodell: NFL’s relationship with Jay-Z, Roc Nation is “not changing”**
 
-You can read more about it [here](https://www.sciencealert.com/experts-warn-of-bird-flu-pandemic-as-signals-of-mutation-mount).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfls-relationship-with-jay-z-roc-nation-is-not-changing).
 
 ## Requirements
 - Python 3.8
