@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pool Report on the Final Seconds in Tonight’s Golden State at Houston Game**
+**Google touts ‘new agentic era’ with AI agents powered by Gemini 2.0**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFveGlkbmEtVUJsQkl5QzJnWUt1dG5JNU45Z3J2LUNUWTVQNHlJTGVkTi1tMUhfNG9wUjN0dmtDRnRlUlBPZXp2S0dnaDdqWGZnZGFtYjJETDFPVmxkNURQTnhVeUJybmtUZUhyVkpDSFpXU1pkdkJqekZ0UUlXRm10Wi1mOXl4Z1pFaXgtMHB0MExrelBHTWpkbC04VnNG?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUFJR3Y0VG1kWV85VlNDOExhQ0h1ZGs2bTdNY2l2TmpHbkZDcUZOMUxBUDQzZjFlZ1ROY3RKaDlOYTNLV1ZXTHZVN0dsVzh0S0VpTzhGaXhxeDZLeWFpY3U5Q3RSMG9JWlU0emdTWUNXN3pRSzZzVG0tOVVIVXEyWTdscU9Xa1NNRDhJ?oc=5).
 
 ## Requirements
 - Python 3.8
