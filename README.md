@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US sees Assad's fall as chance to destroy Syria's chemical arsenal 'once and for all'**
+**FILM NOMINATIONS ANNOUNCED FOR THE 30TH ANNUAL CRITICS CHOICE AWARDS HOSTED BY CHELSEA HANDLER – Critics Choice Awards**
 
-You can read more about it [here](https://www.reuters.com/world/us-sees-assads-fall-chance-destroy-syrias-chemical-arsenal-once-all-2024-12-12/).
+You can read more about it [here](https://www.criticschoice.com/2024/12/12/film-nominations-announced-for-the-30th-annual-critics-choice-awards-hosted-by-chelsea-handler/).
 
 ## Requirements
 - Python 3.8
