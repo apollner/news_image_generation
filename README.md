@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google touts ‘new agentic era’ with AI agents powered by Gemini 2.0**
+**FBI Director Christopher Wray to resign before Trump takes office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNUFJR3Y0VG1kWV85VlNDOExhQ0h1ZGs2bTdNY2l2TmpHbkZDcUZOMUxBUDQzZjFlZ1ROY3RKaDlOYTNLV1ZXTHZVN0dsVzh0S0VpTzhGaXhxeDZLeWFpY3U5Q3RSMG9JWlU0emdTWUNXN3pRSzZzVG0tOVVIVXEyWTdscU9Xa1NNRDhJ?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/ce902z8lp81o).
 
 ## Requirements
 - Python 3.8
