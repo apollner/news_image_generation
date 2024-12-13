@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 40 Greatest Nightly Moments of Taylor Swift’s Eras Tour**
+**MLB Rumors: Red Sox Beat Out 5 Teams For Garrett Crochet**
 
-You can read more about it [here](https://variety.com/lists/taylor-swift-greatest-moments-eras-tour/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcWZHS1pXbTJpOEtuenFpREVSZXZlb29YVm9ZMWVzRWxOam1zY0hFcC14WnRPblBjUm9ZSWRQYldhV0hRdmhpeEtyOExNMWF2ZTFhWUlYUmIzUUdzcmlsTEVIdkVSVGhqT0hUNUhqQ1gzbXNpOHNDZ1FqLUJ6N3BESWU4YVhuSl9H0gGOAUFVX3lxTE5IT0FnaDlvSVRlY290bmpUZ00xZXNFNzg5ZTJZcDh4SFRWX3V3LXBtMDR1NXQtUzZrRzYxQ0JFeF9GUGZtY0NQTkNVaXRJWFNvQUxuNTk0ajNiRDFJdFNMaTBFSjBBcHl6eWpqZ2diODNqT2lsbS1vcU5uQnhjcV9HeG9lZHRDekZtSmkzT1E?oc=5).
 
 ## Requirements
 - Python 3.8
