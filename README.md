@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Director Christopher Wray to resign before Trump takes office**
+**US man found near Damascus after being freed from Syrian prison**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce902z8lp81o).
+You can read more about it [here](https://www.bbc.com/news/articles/cn54xk0vkq5o).
 
 ## Requirements
 - Python 3.8
