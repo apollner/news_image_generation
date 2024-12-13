@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sickened by the politics of the NFL, Belichick aims for a college restart**
+**Violent protests in Georgia highlight battle over the country's future. Here's why it matters.**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42923468/in-choosing-unc-bill-belichick-chose-himself).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVVJqZUU3WUxpZS1pM0FNX3ZpckJ0eC1UVVRnc0RvR2ZiREx3U0VMM0xJYlRPd0Fmd2lTQmswajd2YzJ4VmZ0OXFhbmhFTFdLSWlxWHFGekVibm9nZmhjd01OODNpUDhWWThiY3hfVldYVmc0RTUwb1U1N1NDZGJOX0VkWllkZWpUSlZ5YlYyMNIBlAFBVV95cUxNWF9wRy1DYk9mOHNCRWRLWjlYU3RuOTg2RXhrX2FUSF9TTU1zRjFncm5naDdjOTg2TkhWbXlLb0x4NW0xdTdmM0pORENBenBWbF85VXliS3N5THNZOHI2MzVYbFV0UWdBMUZqY2JQS1dVVjg0eF9BZXVoSFp4Slh2LWpMWm9adHpFb2Q4bVI5RURWQUQx?oc=5).
 
 ## Requirements
 - Python 3.8
