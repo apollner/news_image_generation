@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Inside the Red Sox’s trade for Garrett Crochet**
+**FBI Director Christopher Wray to resign before Trump takes office**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQZUdLYml3UHNneUhmYTFwd3EyZjRiRHk2cklXajcxWXJXZWJLLTFnWXlCeGxjOTA3SHMyRS1ySHNBbnZYX1llLWs2c01FSDlreWhXSHJHMTJPU21tY0NGSHh1MFBjUDVtVU9qcmp6WXhCOUszaF83eXl3bXVMUHlqbUJ4RDZYbWxUNG5ic2Nhb0dnejg?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/ce902z8lp81o).
 
 ## Requirements
 - Python 3.8
