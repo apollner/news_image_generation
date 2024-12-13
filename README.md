@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CFPB announces rule limiting bank overdraft fees**
+**UnitedHealthcare CEO killing latest: Fingerprints, gun tied to scene of killing, New York officials say**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/12/cfpb-bank-overdraft-fees-rule.html).
+You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-luigi-mangione/story?id\\u003d116713658).
 
 ## Requirements
 - Python 3.8
