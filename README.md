@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stars Like Our Sun Explode With ‘Superflares’ Every 100 Years, Study Suggests**
+**Thousands of wild birds are dying of bird flu in Boise area, Idaho Fish and Game says**
 
-You can read more about it [here](https://gizmodo.com/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-2000537838).
+You can read more about it [here](https://www.idahostatesman.com/outdoors/article296990424.html).
 
 ## Requirements
 - Python 3.8
