@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google announces Android XR, a new OS for headsets and smart glasses**
+**Selena Gomez and Benny Blanco Announce Their Engagement. The Internet Rejoices.**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ2NQNGlza2xWX1FILVM1em5LazlGcGxjOXkyUWdmZ0JRdXptVWxjYVczOUpuV3pwamE5S0JvQmRFNlF5M2dDcUVVb3l1OWdMbTBlUExlTjlEREhJRjJRVkk2em1fTEtsdU1lTXFBanN3QnNHQk95T1h6Sm1BRDZDQVBOT3FQM2JRNlE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOLW5UdnlteWdTRVdkcWJxWl9nVXhBOWJDYWt0VDZLRi1HQUZ1M1J5MFVhcGJvWjlNU0d2dmYyWVozMW4tUVVJT3IzTlZ4RnpkYkNHTnBOSmlfcEVucUtScy1NN0QyUGI3REVNcHFFb2RzUTBKdzR5Z0F6bVhlZ2VqS0JjX2VNQXRHU0NzTWN5bHI?oc=5).
 
 ## Requirements
 - Python 3.8
