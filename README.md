@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Briefing: Blinken in Mideast to discuss Syrian transition as Gaza ceasefire efforts continue**
+**CFPB announces rule limiting bank overdraft fees**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEJXb3JldjhkQzBoM3ZqTkdqWlJDOFlSNUthOURWTHYtdFNmNXJQUG03Y1RqRGpGUTg2N2lBdTNRa1g4aTVldEwzN3JReDVEQ1MwOE00Uk9oS3l3eGFyUDIxaE5ZejBsQU1RTElMNW9mYWtPQV9HWlJUNXhsNG1zQ2dzbFFva2tFU1dCWTVadjJnTms?oc=5).
+You can read more about it [here](https://www.cnbc.com/2024/12/12/cfpb-bank-overdraft-fees-rule.html).
 
 ## Requirements
 - Python 3.8
