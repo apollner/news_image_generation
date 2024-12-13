@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid meteor shower peaks this week. Here’s how to watch it**
+**Google announces Android XR, launching 2025 on Samsung headset**
 
-You can read more about it [here](https://www.cnn.com/2024/12/12/science/geminid-meteor-shower-december-peak/index.html).
+You can read more about it [here](http://9to5google.com/2024/12/12/android-xr-announcement/).
 
 ## Requirements
 - Python 3.8
