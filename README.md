@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Roger Goodell: NFL’s relationship with Jay-Z, Roc Nation is “not changing”**
+**Pool Report on the Final Seconds in Tonight’s Golden State at Houston Game**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/roger-goodell-nfls-relationship-with-jay-z-roc-nation-is-not-changing).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFveGlkbmEtVUJsQkl5QzJnWUt1dG5JNU45Z3J2LUNUWTVQNHlJTGVkTi1tMUhfNG9wUjN0dmtDRnRlUlBPZXp2S0dnaDdqWGZnZGFtYjJETDFPVmxkNURQTnhVeUJybmtUZUhyVkpDSFpXU1pkdkJqekZ0UUlXRm10Wi1mOXl4Z1pFaXgtMHB0MExrelBHTWpkbC04VnNG?oc=5).
 
 ## Requirements
 - Python 3.8
