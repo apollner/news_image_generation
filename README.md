@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick, North Carolina contract details: Salary, length, bonuses and buyout make for unusual terms**
+**Stars Like Our Sun Explode With ‘Superflares’ Every 100 Years, Study Suggests**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZkk2ZzhCdFNidmNDM1VoR3dWSjZ1OGdSdU9rRlpONmxuVUQ3bEt5OUphUmpMMWF2U3Iwa2pMQmZ4Q20zOGh2aHZieENieDI1WjIwLVRkY2FLOHozUTFUMVA3TDhwdnpWNllxbDRUMUVJbDc4czh3a3FVNjhUaUh0Y2xGWDgwbDlTYjFhdEV5NjM3R2MtdnJmWm1VWHFJeEVmZlROSHBMVW1nVUNHRDM3MFhlNWpRbGRyZzA1SmF5a190RDBtYjFPVWFneEx5SHNGa2RGRDV0YW9YTndLWEtEekxTbVhfQdIB6wFBVV95cUxNdFFfWDJ4dWpkUFR2ajV0VVVUNzRPcGhGYXV2ZlF2RkxnZThuTUt6UUFaWmNpMm5JNHAtQjJJUXRCdl9DWkpnaXlMRVRUaURTbGtheU5VeTd3akJhSm42MDg3WUUxWTlHMDRfRVhVYXNlZmdEU3hXVDFuZm1GdVk5TzVpbEpXQlhSWVZQdlhLRU5IWEEwcEoyMVlQM25TTjhia1hvMVllQk40WUZmYVdrRXVIcEc3UG83RVF6cFJseEQyVVZReG1McWZxSUJlRXBrLUFhX0JIdHZoOHFLY19qUDkwdGR1VzlUdHBj?oc=5).
+You can read more about it [here](https://gizmodo.com/stars-like-our-sun-explode-with-superflares-every-100-years-study-suggests-2000537838).
 
 ## Requirements
 - Python 3.8
