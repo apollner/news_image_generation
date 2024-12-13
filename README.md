@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem**
+**New Jersey lawmakers meet with security officials after weeks of unexplained drone sightings**
 
-You can read more about it [here](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFRJUmc5STN1YmN6LUNUbUF4MVQxa3RVLVhrWEotSWxiUm1LMkotUzlHWFk2VnZIWEpKODk1TWhLUk0tREZYSlJnWFZZUm5HWDZOcGY0NTFXN1FYQnBwbDRta2poSWpYOW11RUNfZkNvaHhIOE8wQThsM0lXSlZUMDdfNk1CYWF6WHdESnN30gGEAUFVX3lxTE5SZV9RTXBFREJld3VsazlVeVZuWGhLS3BFRm1OUzF5TndVMHAxTE5fdUJTdUI1Q2ZZSUc0Zkl2T3lnc2pOTm1FcVVfZjdGeWIwRHpJSVBSVmNObUJuY0xSZnJrNmE0Ql9xYXhZMFktVUVfdFlOT205dmdRZUMzYzRNOU1uaA?oc=5).
 
 ## Requirements
 - Python 3.8
