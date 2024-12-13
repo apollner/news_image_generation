@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**House passes major Pentagon bill despite Dem revolt over transgender health care**
+**It sure looks like OpenAI trained Sora on game content — and legal experts say that could be a problem**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/11/house-passes-ndaa-pentagon-bill-00193834).
+You can read more about it [here](https://techcrunch.com/2024/12/11/it-sure-looks-like-openai-trained-sora-on-game-content-and-legal-experts-say-that-could-be-a-problem/).
 
 ## Requirements
 - Python 3.8
