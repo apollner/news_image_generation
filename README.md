@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft introduces feature that enables file sharing between iPhone and Windows PCs**
+**House passes major Pentagon bill despite Dem revolt over transgender health care**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE9BZVVoNmZnM1p5UXZRVFE0TmZGU044ZXBHNGJxSkphRk04dVV0QWpnaHJwek9iRUJ0T2dTc3EycEp0cy05d3RrV1pzeWN4eXdHSXF3cmhfODEtZUloLVhibFVybjNwMkNQNTF4Wm80U0Zmek05YnJjUg?oc=5).
+You can read more about it [here](https://www.politico.com/news/2024/12/11/house-passes-ndaa-pentagon-bill-00193834).
 
 ## Requirements
 - Python 3.8
