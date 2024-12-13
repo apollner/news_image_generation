@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump Appoints Kari Lake To Lead Voice Of America**
+**Live Briefing: Blinken in Mideast to discuss Syrian transition as Gaza ceasefire efforts continue**
 
-You can read more about it [here](http://deadline.com/2024/12/trump-kari-lake-voice-of-america-1236201457/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQcEJXb3JldjhkQzBoM3ZqTkdqWlJDOFlSNUthOURWTHYtdFNmNXJQUG03Y1RqRGpGUTg2N2lBdTNRa1g4aTVldEwzN3JReDVEQ1MwOE00Uk9oS3l3eGFyUDIxaE5ZejBsQU1RTElMNW9mYWtPQV9HWlJUNXhsNG1zQ2dzbFFva2tFU1dCWTVadjJnTms?oc=5).
 
 ## Requirements
 - Python 3.8
