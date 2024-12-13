@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Pool Report on the Final Seconds in Tonight’s Golden State at Houston Game**
+**‘Executed, Executed, Dead From Sickness’: The Grim Records From Syria’s Notorious Prison**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbDFveGlkbmEtVUJsQkl5QzJnWUt1dG5JNU45Z3J2LUNUWTVQNHlJTGVkTi1tMUhfNG9wUjN0dmtDRnRlUlBPZXp2S0dnaDdqWGZnZGFtYjJETDFPVmxkNURQTnhVeUJybmtUZUhyVkpDSFpXU1pkdkJqekZ0UUlXRm10Wi1mOXl4Z1pFaXgtMHB0MExrelBHTWpkbC04VnNG?oc=5).
+You can read more about it [here](https://www.wsj.com/world/middle-east/syria-saydnaya-prison-assad-regime-5008d638).
 
 ## Requirements
 - Python 3.8
