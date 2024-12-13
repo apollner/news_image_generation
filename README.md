@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FBI Director Christopher Wray to resign before Trump takes office**
+**Trump taps immigration hard-liner Kari Lake as head of Voice of America**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZEZ0dHo5UU9OdmdaVDBtNmY1Z0g3S3duem1uOTdMc0FHUUFWSXZmdmJxXzRVZ3B0NnRxYU8wam51WGYzNEJSdklKUExiS0VaNzlGMjVNVEVVQdIBX0FVX3lxTE53eGF0WWFQd0loTFd0VnpNb2didHFtd1JUT2NzTW44YnhXQnRqc2VsOHdPXzdnTzJuMDdseGVySUV6dGlOaEpRQ3JWQkV6ZFdGeHViT21TYldpTkFvTk1N?oc=5).
+You can read more about it [here](https://apnews.com/article/trump-kari-lake-voice-of-america-ambassadors-e894cf2e84791b35528baa0cbdd66b22).
 
 ## Requirements
 - Python 3.8
