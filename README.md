@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Whale breaks record, swimming across three oceans in search of new breeding ground**
+**Experts Warn of Bird Flu Pandemic as Signals of Mutation Mount**
 
-You can read more about it [here](https://www.nbcnews.com/science/science-news/humpback-whale-record-migration-breeding-grounds-rcna183721).
+You can read more about it [here](https://www.sciencealert.com/experts-warn-of-bird-flu-pandemic-as-signals-of-mutation-mount).
 
 ## Requirements
 - Python 3.8
