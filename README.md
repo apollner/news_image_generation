@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**If Broncos players didn’t know stakes of Sunday’s game vs. Colts, Sean Payton made them clear in Wednesday team meeting**
+**FBI Director Christopher Wray to resign before Trump takes office**
 
-You can read more about it [here](https://www.denverpost.com/2024/12/11/broncos-playoff-odds-sean-payton-colts/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZEZ0dHo5UU9OdmdaVDBtNmY1Z0g3S3duem1uOTdMc0FHUUFWSXZmdmJxXzRVZ3B0NnRxYU8wam51WGYzNEJSdklKUExiS0VaNzlGMjVNVEVVQdIBX0FVX3lxTE53eGF0WWFQd0loTFd0VnpNb2didHFtd1JUT2NzTW44YnhXQnRqc2VsOHdPXzdnTzJuMDdseGVySUV6dGlOaEpRQ3JWQkV6ZFdGeHViT21TYldpTkFvTk1N?oc=5).
 
 ## Requirements
 - Python 3.8
