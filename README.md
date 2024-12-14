@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brian Thompson's boss speaks out after killing: U.S. health system needs fixing**
+**Yankees trade for star closer Devin Williams in end to Nestor Cortes’ Bronx tenure**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVhsNU11dDBYM0lDQ0h6SWlSTzRkRjYyQlFVS241cUtUN1ZyM1FHMjZpOVk3bWdrNVVNRmFlMlVscHFLZkJJQzdkWTFNWDdIZkU1Q1J2THo5Q2g3TUdncFNUMkpOOFBRWU9vNnJfcTQyMFRpUlI1eHphS3FUWVl0azJaaGNuZGg0UEVNR2ZiUmk3c3plTTFz?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEM2Wmw4SjViNTVFbEtzd1phVVdDSVZHZExqUjR6LXpRNnl6MFNDOEQ2UDdPaVcxQzM1STRMbFBMUjl1NHA2VEJxT0hWRXFFTDV6YVV4akZjMEdmaEJreE0tZElHaTRLMWZtQjRZMTh6WG9WRnQ1TTNXRVF0dGl5Q1RYRzlLYUNZLXZKZkotdnhmdw?oc=5).
 
 ## Requirements
 - Python 3.8
