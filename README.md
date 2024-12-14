@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Police say suspect in UnitedHealthcare CEO killing wasn't a client of the insurer**
+**Blumenthal joins calls for New Jersey drones to be shot down "if necessary"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVpDeGM1c1RPbUc5N0VhVFdRUEVRNm9XakoyZjhMbVlranBQNldUekt0UkNkQjVhd0s1RkZGTXBZeHlzOW5KOHloZy1id0l2a1VSa2h0My1ENE9pd0FMVllBN1RQWERaT3MwNDROaFV1MHFhc3p3SkRYbHYxVEJ0bGJ0VGd4NS1Ia1dycXNxUHZudFFreXdCOWlrUVd6R2NhcExVbE00TdIBrAFBVV95cUxOOTVreGE2SGtLTUY3LVIxdlQ4Rl9RWlpFeUt4VnJRZXNNX1VvRWt6VFZaR01BZGJoRWNOZ0RqQVJwQ2lLSWNyMHJoWGRyQ2p1ZnU2aUJxNGxMbFh2QURvWVZLSUdhUWtGdW0zRHNsVVN0amRHT1FMRnYtVEkybXNYYWVKcDNQNGRxcFFFekgwV0xnaEFwTXNWc2JKQTFNRl9NS3h6ZURZWnFEQm5s?oc=5).
+You can read more about it [here](https://www.axios.com/2024/12/12/new-jersey-drone-sightings-new-york-senators).
 
 ## Requirements
 - Python 3.8
