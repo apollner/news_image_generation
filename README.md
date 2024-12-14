@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria: Former prison head charged with torture in US**
+**The Geminid meteor showers peak tonight. Here's when and where they'll be visible.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cwypnql4z3eo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2dDU3E4YWZjQWhwV28tOWZ3WkVQZUxmVEpPSjFUY0tkejFrNjdxNHk1bjZ3TlVkbG5Ia1BmTEhnMGhTMUxrU3hrUWF0T0dGMk1zSjBvdEVMb2l3UFhFbndWOHByT29SY0lIU05GSGZ3eWJqdnRrb0ZOaDc2WmZZWUtES093V2Vlb2dfQ0lHTDI2eV8zVDBfN0tzTmRuYm5VMmlqMFNqSDBZeHlU0gGyAUFVX3lxTFBoalZ5bUczSm5qNURVZ2RkUFdUZkxUNE5PNFM0eUxwOHJQNzYtQjVKYUtfcXJKbDU5eEFGTDZ5UXBaWWdJYmx4bUxGNWlXbHJXSTh2N3V6REFrem1JVU9GVnU1X3JJLTA2SHZvZm9hTWdJS2tNbWNiei1jOTZaRzZLYnFmSWNsZWI5OUE3a3NCNkRlTDBvbW94TFItX2VwQ3pjN1lMRjZFWWdHeE9MSDNkTkE?oc=5).
 
 ## Requirements
 - Python 3.8
