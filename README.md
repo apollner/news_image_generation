@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick, North Carolina contract details: Salary, length, bonuses and buyout make for unusual terms**
+**Critics Choice Noms Analysis: Feinberg’s 5 Biggest Takeaways**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/bill-belichick-north-carolina-contract-details-salary-length-bonuses-and-buyout-make-for-unusual-terms/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/critics-choice-nominations-analysis-takeaways-1236085220/).
 
 ## Requirements
 - Python 3.8
