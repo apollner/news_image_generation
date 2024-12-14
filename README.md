@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show**
+**Microsoft debuts Phi-4, a new generative AI model, in research preview**
 
-You can read more about it [here](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4).
+You can read more about it [here](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/).
 
 ## Requirements
 - Python 3.8
