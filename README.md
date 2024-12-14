@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**You Can Save $10 Right Now on The Game Awards’ GOTY Winner Astro Bot**
+**Brian Thompson's boss speaks out after killing: U.S. health system needs fixing**
 
-You can read more about it [here](https://www.ign.com/articles/astro-bot-deal-the-game-awards-game-of-the-year-winner).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilwFBVV95cUxQRVhsNU11dDBYM0lDQ0h6SWlSTzRkRjYyQlFVS241cUtUN1ZyM1FHMjZpOVk3bWdrNVVNRmFlMlVscHFLZkJJQzdkWTFNWDdIZkU1Q1J2THo5Q2g3TUdncFNUMkpOOFBRWU9vNnJfcTQyMFRpUlI1eHphS3FUWVl0azJaaGNuZGg0UEVNR2ZiUmk3c3plTTFz?oc=5).
 
 ## Requirements
 - Python 3.8
