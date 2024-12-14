@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the mysterious drones buzzing over New Jersey**
+**Anker's 3-in-1 power bank drops to just $20, plus the rest of this week's best tech deals**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mTUVldVh4WnBIa3dUNnQ4WGZ0YTJKMU1HSmJMTlBMNk02Q3RPQVBQMlBfN3NJQm90d1NHdW5tX1dLRUZLV2JzOXpmUmdlNF9aOFRvTFNRZ3NSd9IBX0FVX3lxTE1ULVdGeFpDeVpJODhxb3AxcGtldVIwUVlsUTMxWjRpOWtlZ292RDZJY2E3VjlieXF1YmV1eTU0UEY2MjRxcU9XcnBTZXVRMVlfdUVLTW1VUzAtNHlHeXcw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlk2MUNMc3h0VFJTLVktaEVZQmVTNHRySTRoVDQwRnByaEI0RlJmczllSmFmM0FfdGxDdHJ4YTFkaWMxZlROYmk2WVl2RkE2NWdkMnNwckxXN3pCenlid1l5cm51czZVdGEwOVRORk1wZTlrNHNBV3ZlekQ3c2lSQXF4RTJLNVdDa0s0VWRNS2QwejJmWWpqaHJ0S2w2ZVFxZlNpYjFpMmZrTGNGdzNPWk0xUDFhWkFka01Zdl9iZGFhTDFaZm81LUtrZw?oc=5).
 
 ## Requirements
 - Python 3.8
