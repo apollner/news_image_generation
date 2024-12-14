@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Today we are celebrating a new Syria': Mass rallies mark end of Assad regime**
+**Kim Kardashian Makes Glam Arrival to SKIMS Event On a Scooter After Breaking Her Foot**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EajNiWG1sbV9aWmR4bERvSWViNFlQU054Mzdkc2RTcWV4TzhtQTlLU0xmdTFaX1MwaHBRb0FsdHlYeGJLUThxeUdxNFAxYndyS2tnVg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMivwFBVV95cUxQSGt6OV9BQl82bDBVYjJEVEhFdXFudDJzcEpLazB2aHZhTmhDZEI0U3dUUkVKR0FMZUhCUkFsWXNwMWk4a0pjbGRUYWNaTGp2dmdvc043b0hNb25OR0Q1TkJ1aXNoWUwxUTRoYTFHMzJTZDNNMEZhRFlNdW9VVmNWdk81S0dCVFBCNlZxN0tWcG8tWlYzMFMwZGVDOFR3QmtPZFoxZzI2VHotNmZTWlNibnYwcWk0Xy0yQlNBb3d6VQ?oc=5).
 
 ## Requirements
 - Python 3.8
