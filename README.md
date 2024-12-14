@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show**
+**Gukesh Dommaraju: How the Indian teenager became youngest world chess champion**
 
-You can read more about it [here](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVemFnZlJaNzN0Z1pWT0JqUzNZWUJNMmlCb0N3U05yc0pzNDBCMU9mZEMxcVV3Z0RvNVZ4QTVIREZoRUdGUDA5ZFZ3VkxuVmdHVDktUWJUYUh5QdIBX0FVX3lxTE9XR3RMZlZpVkZkcHJTVjdONVpjWnZmbFk0VkpGWUdWanJpa28wVUduX2lWRkt1NkFqSEU2b2JYVndodkZjV1VhT1JjM1dtZnlFQ3F2Y2JEMDlzYzZFeWVZ?oc=5).
 
 ## Requirements
 - Python 3.8
