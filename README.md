@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Naughty Dog Heads to Space With Intergalactic: The Heretic Prophet - The Game Awards 2024**
+**2024 Game Awards Names ‘Astro Bot’ As Game Of The Year – Complete Winners List**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitgFBVV95cUxNOV91THlzazFJSnh3WWNoTjR0bjVRcnY1ZmdNVE1rU3ViRnd6VXZ3ejFHV1JZOVA2TUVXdUFYdV9kZWtfb05YcXhnT281aUVmLXlHcGV2UFRRR25OWk03anlDVHhPVTFTeGtiOVNBQ25WVkZyckdjY3JDb3pXNnpmQ05oeDRCS09BYU1zeVhNbGtYcGpZYW1aSnlWYkg4bHhqbGFUcFkwb09oYXJoS3RSMHVtdHRkQQ?oc=5).
+You can read more about it [here](http://deadline.com/2024/12/2024-game-awards-complete-winners-list-1236202365/).
 
 ## Requirements
 - Python 3.8
