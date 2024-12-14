@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-Loss Drug Craze Appears to Be Curbing US Obesity Epidemic**
+**Brian Austin Green Reacts to Ex Megan Fox's Split from Machine Gun Kelly: 'Grow Up. She's Pregnant'**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-13/ozempic-craze-appears-to-be-curbing-us-obesity-epidemic).
+You can read more about it [here](https://people.com/brian-austin-green-reacts-megan-fox-machine-gun-kelly-split-8761017).
 
 ## Requirements
 - Python 3.8
