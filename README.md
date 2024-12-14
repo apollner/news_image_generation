@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft debuts Phi-4, a new generative AI model, in research preview**
+**Bill Belichick’s contract with North Carolina portrays two sides wary of each other’s commitment**
 
-You can read more about it [here](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/).
+You can read more about it [here](https://www.bostonglobe.com/2024/12/12/sports/on-football-bill-belichick-north-carolina/).
 
 ## Requirements
 - Python 3.8
