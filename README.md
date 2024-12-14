@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Anker's 3-in-1 power bank drops to just $20, plus the rest of this week's best tech deals**
+**No-one gets France's difficulty more than me, says Macron's new PM Bayrou**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiywFBVV95cUxPMlk2MUNMc3h0VFJTLVktaEVZQmVTNHRySTRoVDQwRnByaEI0RlJmczllSmFmM0FfdGxDdHJ4YTFkaWMxZlROYmk2WVl2RkE2NWdkMnNwckxXN3pCenlid1l5cm51czZVdGEwOVRORk1wZTlrNHNBV3ZlekQ3c2lSQXF4RTJLNVdDa0s0VWRNS2QwejJmWWpqaHJ0S2w2ZVFxZlNpYjFpMmZrTGNGdzNPWk0xUDFhWkFka01Zdl9iZGFhTDFaZm81LUtrZw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SjFCMlBYRkxROWVCbHFnZEpzb1V3eVQwaWVjWVpqN3RBblc4Zmw0QXpOcEZkYXRjQlZ5cnhxa2oyTG5qeVhUaG5fVHpMNi1TWjVlcFVQN0wzd9IBX0FVX3lxTE9Iem5VcE90X2drazdTWUtlZW4wMml1SU1ubG9nRTRVWmtiQkdqMjlBbkR5U2ZLdE1rc0RvMEdJQWlJd3g0NGVZQmN4bWpadDNaUFlaX1JVWFBPdWdWZjhF?oc=5).
 
 ## Requirements
 - Python 3.8
