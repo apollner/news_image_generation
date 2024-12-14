@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California reports more illnesses in people who drank raw milk. Here are the risks, according to health experts**
+**Perseverance rover prepares to investigate the mysterious early history of Mars**
 
-You can read more about it [here](https://www.cnn.com/2024/12/12/health/raw-milk-bird-flu-rfk/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/12/science/perseverance-rover-crater-rim/index.html).
 
 ## Requirements
 - Python 3.8
