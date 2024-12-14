@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-Loss Drug Craze Appears to Be Curbing US Obesity Epidemic**
+**Zendaya and Nicole Kidman on Intimacy, Challengers and Babygirl**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-13/ozempic-craze-appears-to-be-curbing-us-obesity-epidemic).
+You can read more about it [here](https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHVuSFUtODNzR0xFQnY4cm1PSnNZZG1palowaWNCXzRXX2N2VzZ0TVhzZGZ6V3huT3dHZ0ZKVnhMQUFjZkpEcHlDQ2ZlcjFaN0tkeXdVQjRRUDhlOHlja0RCaUlvbm9vQWx2T1BlRlNoekppTXV2aVF0MTJPVlJ1bHhSelM2U29PRld0ZjJsS01zRTlvTTRHNjFxLVY4MlE?oc=5).
 
 ## Requirements
 - Python 3.8
