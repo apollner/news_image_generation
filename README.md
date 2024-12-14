@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Up and over! NASA's Mars rover Perseverance reaches rim of its Jezero Crater home (video)**
+**The Game Awards 2024: Astro Bot wins Game of the Year**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFRRQ0oycnZiTmVtYUtiY25TV2FLdjA1TkM1LTkwUmp5THpVZThWNXhnYWh4RnUtd3V5ZzFiTUphTGt1d3pJR1RNZW4xMThhNzB6OThCc2VKM0RGeGthSk9pX0hZRFlUQ0g3MDRLcVhLSkdHbkxwNGpOVDRFT3ZvV1pSbC1hWGRvdl9mZ19sblBKS3NNdGx3UkNpTXNZVFU2LXo4WXJ0bjBNQWxxNFZIa19BTTlQSnJVMVpYMElyQlNuekRFcFdaamU4R05hMmNuYzI2Yg?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c0rn57j1lkeo).
 
 ## Requirements
 - Python 3.8
