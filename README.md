@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Intergalactic: The Heretic Prophet’ Trailer: Here’s Naughty Dog’s Next Game**
+**Biden’s record-setting clemency act leaves allies only wanting more**
 
-You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/12/12/intergalactic-the-heretic-prophet-trailer-heres-naughty-dogs-next-game/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTFBybzltbzljbi15bU1pQTZ1RldwYzE1cWh2UEV6UnFhSkR3ZzE5QXJraDduWl9qLS14SEw0WlE0Nkd1b296UnBLU2o3Q3pCXzVDaVFVa05yaFFtdDBTS2RNcEJLQ3dCaUJLTlVqdjVLdHVvRFpLWjdGd3l3?oc=5).
 
 ## Requirements
 - Python 3.8
