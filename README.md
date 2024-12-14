@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Bill Belichick said about UW during UNC intro**
+**‘Intergalactic: The Heretic Prophet’ Trailer: Here’s Naughty Dog’s Next Game**
 
-You can read more about it [here](https://www.seattletimes.com/sports/uw-husky-football/bill-belichick-calls-jedd-fischs-uw-program-a-template-for-unc-job/).
+You can read more about it [here](https://www.forbes.com/sites/paultassi/2024/12/12/intergalactic-the-heretic-prophet-trailer-heres-naughty-dogs-next-game/).
 
 ## Requirements
 - Python 3.8
