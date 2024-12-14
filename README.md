@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Game Awards 2024: Astro Bot wins Game of the Year**
+**'Today we are celebrating a new Syria': Mass rallies mark end of Assad regime**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c0rn57j1lkeo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EajNiWG1sbV9aWmR4bERvSWViNFlQU054Mzdkc2RTcWV4TzhtQTlLU0xmdTFaX1MwaHBRb0FsdHlYeGJLUThxeUdxNFAxYndyS2tnVg?oc=5).
 
 ## Requirements
 - Python 3.8
