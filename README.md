@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**No-one gets France's difficulty more than me, says Macron's new PM Bayrou**
+**A glimpse at the Cubs lineup with Kyle Tucker in the mix**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SjFCMlBYRkxROWVCbHFnZEpzb1V3eVQwaWVjWVpqN3RBblc4Zmw0QXpOcEZkYXRjQlZ5cnhxa2oyTG5qeVhUaG5fVHpMNi1TWjVlcFVQN0wzd9IBX0FVX3lxTE9Iem5VcE90X2drazdTWUtlZW4wMml1SU1ubG9nRTRVWmtiQkdqMjlBbkR5U2ZLdE1rc0RvMEdJQWlJd3g0NGVZQmN4bWpadDNaUFlaX1JVWFBPdWdWZjhF?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXk1NzU2LXJPbVEwQlFVQXVIYVZOb0h0RFIyNlhSd2NBYTdvblg2R0FaMDVXbldMOEZxMnRIRXhyVnRuODZVRG4tV3pEbTREeExudW5xS3RqSVowVnlaZG5mWENqNTdsRHBEaTBmQ3JiSkRkWkYyRmptNk51M1NmeEppNXRqakh0UjhmOTdEbXIxaUYyWFkweEtR?oc=5).
 
 ## Requirements
 - Python 3.8
