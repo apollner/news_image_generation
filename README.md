@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Microsoft debuts Phi-4, a new generative AI model, in research preview**
+**31st Billboard Music Award Winners — Full List**
 
-You can read more about it [here](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/).
+You can read more about it [here](http://deadline.com/2024/12/31st-billboard-music-award-winners-list-1236202586/).
 
 ## Requirements
 - Python 3.8
