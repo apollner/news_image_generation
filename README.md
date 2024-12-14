@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A glimpse at the Cubs lineup with Kyle Tucker in the mix**
+**Nancy Pelosi hospitalized after she 'sustained an injury' from fall on official trip to Luxembourg**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXk1NzU2LXJPbVEwQlFVQXVIYVZOb0h0RFIyNlhSd2NBYTdvblg2R0FaMDVXbldMOEZxMnRIRXhyVnRuODZVRG4tV3pEbTREeExudW5xS3RqSVowVnlaZG5mWENqNTdsRHBEaTBmQ3JiSkRkWkYyRmptNk51M1NmeEppNXRqakh0UjhmOTdEbXIxaUYyWFkweEtR?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnVacFhsQ0xheTFHQ3d3ak9mcmhEZjVUZl9FLXBKeS1fUmEwcm42a014b19Oa043bVh4aU8zMEhHUnNXSEloWmRmb2FuQldLclR6Y01jbU1DS2RoTmFITllfb1FRT2tnOFpBbmxOd0ZSNG5JZGlrdDU0YTJkcEsySFR4U2tqYXFBRzl5SEMzZHhWMGZIdzR4YVRDb19Fa29s?oc=5).
 
 ## Requirements
 - Python 3.8
