@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Thousands of wild birds are dying of bird flu in Boise area, Idaho Fish and Game says**
+**Bill Belichick, North Carolina contract details: Salary, length, bonuses and buyout make for unusual terms**
 
-You can read more about it [here](https://www.idahostatesman.com/outdoors/article296990424.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/bill-belichick-north-carolina-contract-details-salary-length-bonuses-and-buyout-make-for-unusual-terms/).
 
 ## Requirements
 - Python 3.8
