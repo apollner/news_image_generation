@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oldest human DNA helps pinpoint when early humans interbred with Neanderthals**
+**Stock Market Today: Nasdaq Hits Fresh Record As Broadcom Surges, Tops $1 Trillion Market Cap (Live Coverage)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2N0WFdVcEFnQnNwWEozQmhtVmcwM0tlWVZ0MlR3eW5vQmFSVFVEMGs3UzBCWUFQTHNjUkFFcDd0UEU4ZWJiV1d4SGpKRVVNWlFpUXRxVDhYZWJqNjVhajkxQ08ydFcwdHFtQ0J3REFjXzZKZktpelluTGZ0T21MRV9rMU10eV9Cd09hQmpsSFfSAYcBQVVfeXFMT2FIQkxURmtBZFVyTFUzLW50bHozYTVFZVpadTFHMHVJZlV2dXFmNzhlS0RIeE1UUEtuYjFpTkM2dEdmS2FscWxTSURyOW56VVlhMmltNFB0anNGd0xMQnhhTkxUY3YwZHJvXzFBWW9JbVlSbW42Z1l3XzVoOXBPdlZ0bGFIalBF?oc=5).
+You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/nasdaq-dow-jones-sp500-broadcom-stock-nvidia-stock/).
 
 ## Requirements
 - Python 3.8
