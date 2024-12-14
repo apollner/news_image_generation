@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**31st Billboard Music Award Winners — Full List**
+**Blumenthal joins calls for New Jersey drones to be shot down "if necessary"**
 
-You can read more about it [here](http://deadline.com/2024/12/31st-billboard-music-award-winners-list-1236202586/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzNaWlg0WmQyYnVXUm9nMERxZlpTcnVkNFA5aXJtWDlPU0cwemQ1bGZtc1ZxdXJSV1Y5VlZubENnQ0hQM1NnYkhXUDFHYTE3Z0VLVTIybzF1TDdWZEJVRU1JYS1heEEwcXBEQVZsZWoxRExuTzh5RjJFQmdwNzNScTBMWQ?oc=5).
 
 ## Requirements
 - Python 3.8
