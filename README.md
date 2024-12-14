@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Yankees trade for star closer Devin Williams in end to Nestor Cortes’ Bronx tenure**
+**Weight-Loss Drug Craze Appears to Be Curbing US Obesity Epidemic**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEM2Wmw4SjViNTVFbEtzd1phVVdDSVZHZExqUjR6LXpRNnl6MFNDOEQ2UDdPaVcxQzM1STRMbFBMUjl1NHA2VEJxT0hWRXFFTDV6YVV4akZjMEdmaEJreE0tZElHaTRLMWZtQjRZMTh6WG9WRnQ1TTNXRVF0dGl5Q1RYRzlLYUNZLXZKZkotdnhmdw?oc=5).
+You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-13/ozempic-craze-appears-to-be-curbing-us-obesity-epidemic).
 
 ## Requirements
 - Python 3.8
