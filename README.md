@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A look at the political storm caused by South Korean president’s martial law decree**
+**China bond yields hit record low after Beijing vows ‘vigorous’ effort to boost consumption**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHg5WXRabnhBNHpGM2pZVWRJWTJpM3l1ay0tZTNfU0dab0FnZi1EbjJQX3NDSnhWeVk1UWJhLVJuX21Tb21Cd3FqeUtGVjVhRDFOUnVjNFNkZDNsbVE1Q1VXTHFYQXc1N1Z6c040bGIzUjVpZEtGN3hYOVR6OGM2bDdfQ1FKSTAtWmdzYWtIWHFDSlNVa2xrblpaU1c0YURONDNIUjNLTEp3NEQ0cXEweGhDeXNiZ0dt?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMicEFVX3lxTFA2azJlRnpwLXNJZi1oalBqX0JER0xwTUkta0tvYjhkY21HOHBaajhKZ1RfM0ZtaGRhMkMyMExBUHlabC04VTVCeVhhLVVkaXpyM1M1bEZaUmlaTm4yN3pkRmZieE5DT2NLRFlGanh3bGs?oc=5).
 
 ## Requirements
 - Python 3.8
