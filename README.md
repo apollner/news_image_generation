@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Weight-Loss Drug Craze Appears to Be Curbing US Obesity Epidemic**
+**What we know about the mysterious drones buzzing over New Jersey**
 
-You can read more about it [here](https://www.bloomberg.com/news/articles/2024-12-13/ozempic-craze-appears-to-be-curbing-us-obesity-epidemic).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mTUVldVh4WnBIa3dUNnQ4WGZ0YTJKMU1HSmJMTlBMNk02Q3RPQVBQMlBfN3NJQm90d1NHdW5tX1dLRUZLV2JzOXpmUmdlNF9aOFRvTFNRZ3NSd9IBX0FVX3lxTE1ULVdGeFpDeVpJODhxb3AxcGtldVIwUVlsUTMxWjRpOWtlZ292RDZJY2E3VjlieXF1YmV1eTU0UEY2MjRxcU9XcnBTZXVRMVlfdUVLTW1VUzAtNHlHeXcw?oc=5).
 
 ## Requirements
 - Python 3.8
