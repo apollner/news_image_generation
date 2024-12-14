@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blumenthal joins calls for New Jersey drones to be shot down "if necessary"**
+**California reports more illnesses in people who drank raw milk. Here are the risks, according to health experts**
 
-You can read more about it [here](https://www.axios.com/2024/12/12/new-jersey-drone-sightings-new-york-senators).
+You can read more about it [here](https://www.cnn.com/2024/12/12/health/raw-milk-bird-flu-rfk/index.html).
 
 ## Requirements
 - Python 3.8
