@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Game Awards Names ‘Astro Bot’ As Game Of The Year – Complete Winners List**
+**What Bill Belichick said about UW during UNC intro**
 
-You can read more about it [here](http://deadline.com/2024/12/2024-game-awards-complete-winners-list-1236202365/).
+You can read more about it [here](https://www.seattletimes.com/sports/uw-husky-football/bill-belichick-calls-jedd-fischs-uw-program-a-template-for-unc-job/).
 
 ## Requirements
 - Python 3.8
