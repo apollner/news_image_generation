@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blumenthal joins calls for New Jersey drones to be shot down "if necessary"**
+**Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzNaWlg0WmQyYnVXUm9nMERxZlpTcnVkNFA5aXJtWDlPU0cwemQ1bGZtc1ZxdXJSV1Y5VlZubENnQ0hQM1NnYkhXUDFHYTE3Z0VLVTIybzF1TDdWZEJVRU1JYS1heEEwcXBEQVZsZWoxRExuTzh5RjJFQmdwNzNScTBMWQ?oc=5).
+You can read more about it [here](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4).
 
 ## Requirements
 - Python 3.8
