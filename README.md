@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid meteor showers peak tonight. Here's when and where they'll be visible.**
+**Up and over! NASA's Mars rover Perseverance reaches rim of its Jezero Crater home (video)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2dDU3E4YWZjQWhwV28tOWZ3WkVQZUxmVEpPSjFUY0tkejFrNjdxNHk1bjZ3TlVkbG5Ia1BmTEhnMGhTMUxrU3hrUWF0T0dGMk1zSjBvdEVMb2l3UFhFbndWOHByT29SY0lIU05GSGZ3eWJqdnRrb0ZOaDc2WmZZWUtES093V2Vlb2dfQ0lHTDI2eV8zVDBfN0tzTmRuYm5VMmlqMFNqSDBZeHlU0gGyAUFVX3lxTFBoalZ5bUczSm5qNURVZ2RkUFdUZkxUNE5PNFM0eUxwOHJQNzYtQjVKYUtfcXJKbDU5eEFGTDZ5UXBaWWdJYmx4bUxGNWlXbHJXSTh2N3V6REFrem1JVU9GVnU1X3JJLTA2SHZvZm9hTWdJS2tNbWNiei1jOTZaRzZLYnFmSWNsZWI5OUE3a3NCNkRlTDBvbW94TFItX2VwQ3pjN1lMRjZFWWdHeE9MSDNkTkE?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOFRRQ0oycnZiTmVtYUtiY25TV2FLdjA1TkM1LTkwUmp5THpVZThWNXhnYWh4RnUtd3V5ZzFiTUphTGt1d3pJR1RNZW4xMThhNzB6OThCc2VKM0RGeGthSk9pX0hZRFlUQ0g3MDRLcVhLSkdHbkxwNGpOVDRFT3ZvV1pSbC1hWGRvdl9mZ19sblBKS3NNdGx3UkNpTXNZVFU2LXo4WXJ0bjBNQWxxNFZIa19BTTlQSnJVMVpYMElyQlNuekRFcFdaamU4R05hMmNuYzI2Yg?oc=5).
 
 ## Requirements
 - Python 3.8
