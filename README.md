@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden’s record-setting clemency act leaves allies only wanting more**
+**Microsoft debuts Phi-4, a new generative AI model, in research preview**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiekFVX3lxTFBybzltbzljbi15bU1pQTZ1RldwYzE1cWh2UEV6UnFhSkR3ZzE5QXJraDduWl9qLS14SEw0WlE0Nkd1b296UnBLU2o3Q3pCXzVDaVFVa05yaFFtdDBTS2RNcEJLQ3dCaUJLTlVqdjVLdHVvRFpLWjdGd3l3?oc=5).
+You can read more about it [here](https://techcrunch.com/2024/12/12/microsoft-debuts-phi-4-a-new-generative-ai-model-in-research-preview/).
 
 ## Requirements
 - Python 3.8
