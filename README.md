@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bill Belichick’s contract with North Carolina portrays two sides wary of each other’s commitment**
+**A look at the political storm caused by South Korean president’s martial law decree**
 
-You can read more about it [here](https://www.bostonglobe.com/2024/12/12/sports/on-football-bill-belichick-north-carolina/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHg5WXRabnhBNHpGM2pZVWRJWTJpM3l1ay0tZTNfU0dab0FnZi1EbjJQX3NDSnhWeVk1UWJhLVJuX21Tb21Cd3FqeUtGVjVhRDFOUnVjNFNkZDNsbVE1Q1VXTHFYQXc1N1Z6c040bGIzUjVpZEtGN3hYOVR6OGM2bDdfQ1FKSTAtWmdzYWtIWHFDSlNVa2xrblpaU1c0YURONDNIUjNLTEp3NEQ0cXEweGhDeXNiZ0dt?oc=5).
 
 ## Requirements
 - Python 3.8
