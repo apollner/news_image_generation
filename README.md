@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ex-FBI officials worry that Kash Patel as director may wield unlimited power**
+**Mega Millions jackpot grows to $740 million, $350K ticket sold in Southern California**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZUkwRHZUUTNkWnFkTEEzdGxrdTlHVEM1NHBDSTItLWxLSnBVUzFxRnNWODI2dUhyVlZfVmNzUDJZdDQwdkkxRGNxZl91Umk3TlcyUFlmMFc2U01CZ0RpRWxCYlhGWUd5WFhPZnBtZnV5endWRV9NRkI5MNIBe0FVX3lxTE1MbmtReG51NjJ3Y2xrOG0tTFE4cXVHb1poX3JjTEFHSmU1YXl2X0NMY29oX2RkMHprREp3TThJbE5GSl9vbFp3MlYzc1FCX01zNHQ4UV9HM0tOc0N0Q0xnc3JzcFZTcjhGRjBMYnBwTHpqRF94My0yTHpBUQ?oc=5).
+You can read more about it [here](https://ktla.com/news/local-news/mega-millions-jackpot-grows-to-740-million-350k-ticket-sold-in-southern-california/).
 
 ## Requirements
 - Python 3.8
