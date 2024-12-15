@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Medical Mysteries: Why did this baby’s robust appetite wither?**
+**Georgia political crisis deepens as lawmakers vote in far-right ex-soccer player as president**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/12/14/medical-mystery-baby-wont-eat/).
+You can read more about it [here](https://www.cnn.com/2024/12/14/europe/georgia-president-vote-mikheil-kavelashvili-intl/index.html).
 
 ## Requirements
 - Python 3.8
