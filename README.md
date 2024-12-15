@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z Says "True Justice Is Coming" After Rape Accuser Admits To "Mistakes" In Allegations: "This Was Over Before It Began"**
+**College basketball picks, schedule: Predictions for Tennessee vs. Illinois and more Top 25 games on Saturday**
 
-You can read more about it [here](http://deadline.com/2024/12/jay-z-rape-accuser-admits-mistakes-allegations-1236203689/).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-for-tennessee-vs-illinois-and-more-top-25-games-on-saturday/).
 
 ## Requirements
 - Python 3.8
