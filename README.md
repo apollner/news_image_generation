@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE SmackDown Results – 12/13/24 (Go-Home show for Saturday Night’s Main Event)**
+**The Geminid Meteor Shower Peaks Tonight**
 
-You can read more about it [here](https://www.wrestleview.com/wwe-smackdown-results/335965-wwe-smackdown-results-12-13-24-go-home-show-for-saturday-nights-main-event/).
+You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
 
 ## Requirements
 - Python 3.8
