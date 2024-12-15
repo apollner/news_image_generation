@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI’s Altman will donate $1 million to Trump’s inaugural fund**
+**Shanahan: Campbell's days with 49ers numbered**
 
-You can read more about it [here](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/42952794/niners-looking-best-way-part-devondre-campbell).
 
 ## Requirements
 - Python 3.8
