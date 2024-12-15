@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump calls for ending daylight saving time. It’s ‘inconvenient,’ he says.**
+**Georgian government votes in far-right former soccer player as president**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/12/13/daylight-saving-time-trump/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxQdWRkaXBjWUpoRmVTZEZBV0dRTF95MWdzLXdfSGxGbDFVY2VRa2doMWdITnJQTDJqZWs5UmxXbVc1Mkx4VmxFR055RVozLXRiZEwwRURtMlNhQmU4NkhuenhpQjViUTktNTFqcUNxNGlOODdxY3hDVkRVTFFSVC1FTlNkLXlHaGNENURJZWxYYUhxTmNkakNFZkU2YV9Cdw?oc=5).
 
 ## Requirements
 - Python 3.8
