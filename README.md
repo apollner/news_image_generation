@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says**
+**Report: Trevon Diggs to have season-ending knee surgery**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/14/us-officials-in-contact-with-syrian-rebel-group-00194382).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-trevon-diggs-to-have-season-ending-knee-surgery).
 
 ## Requirements
 - Python 3.8
