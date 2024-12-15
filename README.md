@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Golan Heights: Israel army prepares to stay on Mt Hermon for winter**
+**Joel Embiid exits loss to Pacers after hit to face as Sixers' season from hell continues**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c390j9x9w9go).
+You can read more about it [here](https://www.cbssports.com/nba/news/joel-embiid-ruled-out-vs-pacers-after-taking-shot-to-the-face-as-sixers-season-from-hell-continues/).
 
 ## Requirements
 - Python 3.8
