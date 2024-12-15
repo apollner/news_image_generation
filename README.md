@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid exits Pacers-76ers game with facial injury, does not return**
+**Jay-Z Says "True Justice Is Coming" After Rape Accuser Admits To "Mistakes" In Allegations: "This Was Over Before It Began"**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRzlJeTY4NW1hQWcwNVAxWTBzN3k2clpJOXJQOU94WHU4Q1FxZk1nME5xc1d2ZG52azNGbGJkemVZWlNSVTJjeXlONnBkTjFIc3BBd2c5dHprMWRIMHZMYw?oc=5).
+You can read more about it [here](http://deadline.com/2024/12/jay-z-rape-accuser-admits-mistakes-allegations-1236203689/).
 
 ## Requirements
 - Python 3.8
