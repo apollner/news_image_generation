@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Shanahan: Campbell's days with 49ers numbered**
+**Joel Embiid exits Pacers-76ers game with facial injury, does not return**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/42952794/niners-looking-best-way-part-devondre-campbell).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBRzlJeTY4NW1hQWcwNVAxWTBzN3k2clpJOXJQOU94WHU4Q1FxZk1nME5xc1d2ZG52azNGbGJkemVZWlNSVTJjeXlONnBkTjFIc3BBd2c5dHprMWRIMHZMYw?oc=5).
 
 ## Requirements
 - Python 3.8
