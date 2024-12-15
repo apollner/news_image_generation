@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UFC Tampa Results: Covington vs. Buckley**
+**Medical Mysteries: Why did this baby’s robust appetite wither?**
 
-You can read more about it [here](https://www.mmafighting.com/2024/12/14/24319590/ufc-tampa-results-covington-vs-buckley).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/12/14/medical-mystery-baby-wont-eat/).
 
 ## Requirements
 - Python 3.8
