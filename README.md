@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid Meteor Shower Peaks Tonight**
+**Nancy Pelosi in hospital after injury on overseas trip**
 
-You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
+You can read more about it [here](https://www.bbc.com/news/articles/c1wq3jld884o).
 
 ## Requirements
 - Python 3.8
