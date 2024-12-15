@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jay-Z Attorney Seeks to Dismiss Rape Accuser’s Suit After Jane Doe Admits to Inconsistencies in Her Recollection**
+**'I felt like a breathing corpse': Stories from people freed from Syria's torture prison**
 
-You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/jay-z-dismiss-lawsuit-rape-accuser-inconsistencies-allegations-1236086964/).
+You can read more about it [here](https://www.bbc.com/news/articles/cy4784vn4jdo).
 
 ## Requirements
 - Python 3.8
