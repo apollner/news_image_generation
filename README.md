@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**François Bayrou appointed French prime minister**
+**‘Dexter: Original Sin’ Is Guilty of Beating a Dead Horse: TV Review**
 
-You can read more about it [here](https://www.ft.com/content/66af79cd-2cb2-460e-b365-6475c67cbc0b).
+You can read more about it [here](https://variety.com/2024/tv/tv-reviews/dexter-original-sin-review-showtime-prequel-1236249178/).
 
 ## Requirements
 - Python 3.8
