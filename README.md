@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blinken says U.S. had direct contact with Syria's Islamist rebels**
+**Box Office: 'Kraven the Hunter' Fizzles With Meager Opening Day**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PamhvZ2FTbTBPdEptdktsX28tTml3V01BWEFpX3o2YWJWTmU2bkZMYzllMVRKVGJ4TGJseHBmSnRoN25JbEFDVmxSdFQzclljSDJ2SEpYeUxqOTA4aVZRVV9UMHVBeXRzNlpHdGFqaE5JMkVaX01lbnppR1E4UQ?oc=5).
+You can read more about it [here](https://variety.com/2024/film/box-office/kraven-hunter-opening-day-lord-of-the-rings-war-rohirrim-1236248922/).
 
 ## Requirements
 - Python 3.8
