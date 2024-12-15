@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration**
+**UnitedHealthcare CEO killing latest: Mangione hires 'veteran' New York lawyer**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlczcUpQejNDRVVuSFVobThVaXBZczZ5RWRzMFhvdHNFeTdxSkh1bG5NTUVhNzU5bms2b3hnTUFaaENVV1dLTlp5aXVEMU5ZQlNmcGgxZWowU2VoN2U3U2FGUF9BNDBKOHRhY0hzaFQ1UTIyMU9xaWoxTDNvS3hSODl1cGpmRTA?oc=5).
+You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-mangiones-veteran-new-york/story?id\\u003d116787673).
 
 ## Requirements
 - Python 3.8
