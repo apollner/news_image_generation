@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgian government votes in far-right former soccer player as president**
+**The Geminid Meteor Shower Peaks Tonight**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMingFBVV95cUxQdWRkaXBjWUpoRmVTZEZBV0dRTF95MWdzLXdfSGxGbDFVY2VRa2doMWdITnJQTDJqZWs5UmxXbVc1Mkx4VmxFR055RVozLXRiZEwwRURtMlNhQmU4NkhuenhpQjViUTktNTFqcUNxNGlOODdxY3hDVkRVTFFSVC1FTlNkLXlHaGNENURJZWxYYUhxTmNkakNFZkU2YV9Cdw?oc=5).
+You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
 
 ## Requirements
 - Python 3.8
