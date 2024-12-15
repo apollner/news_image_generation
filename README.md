@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid Meteor Shower Peaks Tonight**
+**Even After ‘Kraven the Hunter’ and ‘Madame Web,’ Sony’s Marvel Movies Aren’t Dead (EXCLUSIVE)**
 
-You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
+You can read more about it [here](https://variety.com/2024/film/news/kraven-sony-marvel-movies-not-dead-1236249221/).
 
 ## Requirements
 - Python 3.8
