@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**The Geminid Meteor Shower Peaks Tonight**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
 
 ## Requirements
 - Python 3.8
