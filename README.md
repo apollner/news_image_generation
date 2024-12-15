@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Woman alleging sexual assault by Jay-Z and Sean Combs admits inconsistencies in claims**
+**UFC Tampa Results: Covington vs. Buckley**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDdCRERzZmRCVzBtZ1VfaFFMTEoxUlZlbGVoUFE4cHV3MmlLUW1ydXFIanc5alNIam1ZcllqUC1jX2QySE1STUl6RGFWOXFWZ1JQMm1DX0VwbG83NkNuVkN0ZncxSnUtN1FZS2dyRTBuZGhwVWE1TkJqWWI3WTNvRElMSUEtYm5pSENtNUtJSDU2SXlELVNXNEFid0JiMmNk0gGgAUFVX3lxTE1pRHZmNlZYSjlhNjNIbHRTTEc1R1ZtbTJHbXUzak95TFZNeW1abXpNY05abWVYNVFZeTJ6SG9KbUQ3RTFKTUJUazBKRFRrallaeFoxOEc4X29jQWFGMlB1VUdWMndEX2k3VVlMcGhKb09uSk5tOWRNYlBxb1VEdkQybEJkUzVlanRicE03NVlteFRUN0xheWFveVk1RHJsekY?oc=5).
+You can read more about it [here](https://www.mmafighting.com/2024/12/14/24319590/ufc-tampa-results-covington-vs-buckley).
 
 ## Requirements
 - Python 3.8
