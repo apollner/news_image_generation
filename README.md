@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Dexter: Original Sin’ Is Guilty of Beating a Dead Horse: TV Review**
+**[Removed]**
 
-You can read more about it [here](https://variety.com/2024/tv/tv-reviews/dexter-original-sin-review-showtime-prequel-1236249178/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
