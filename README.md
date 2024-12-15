@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO killing latest: Mangione hires 'veteran' New York lawyer**
+**Woman alleging sexual assault by Jay-Z and Sean Combs admits inconsistencies in claims**
 
-You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-mangiones-veteran-new-york/story?id\\u003d116787673).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDdCRERzZmRCVzBtZ1VfaFFMTEoxUlZlbGVoUFE4cHV3MmlLUW1ydXFIanc5alNIam1ZcllqUC1jX2QySE1STUl6RGFWOXFWZ1JQMm1DX0VwbG83NkNuVkN0ZncxSnUtN1FZS2dyRTBuZGhwVWE1TkJqWWI3WTNvRElMSUEtYm5pSENtNUtJSDU2SXlELVNXNEFid0JiMmNk0gGgAUFVX3lxTE1pRHZmNlZYSjlhNjNIbHRTTEc1R1ZtbTJHbXUzak95TFZNeW1abXpNY05abWVYNVFZeTJ6SG9KbUQ3RTFKTUJUazBKRFRrallaeFoxOEc4X29jQWFGMlB1VUdWMndEX2k3VVlMcGhKb09uSk5tOWRNYlBxb1VEdkQybEJkUzVlanRicE03NVlteFRUN0xheWFveVk1RHJsekY?oc=5).
 
 ## Requirements
 - Python 3.8
