@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mega Millions jackpot grows to $740 million, $350K ticket sold in Southern California**
+**Box Office: ‘Kraven the Hunter’ Bombing With $10M-$12M Debut, Slapped With C CinemaScore**
 
-You can read more about it [here](https://ktla.com/news/local-news/mega-millions-jackpot-grows-to-740-million-350k-ticket-sold-in-southern-california/).
+You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/kraven-the-hunter-box-office-bombing-1236087005/).
 
 ## Requirements
 - Python 3.8
