@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Even After ‘Kraven the Hunter’ and ‘Madame Web,’ Sony’s Marvel Movies Aren’t Dead (EXCLUSIVE)**
+**Jay-Z Attorney Seeks to Dismiss Rape Accuser’s Suit After Jane Doe Admits to Inconsistencies in Her Recollection**
 
-You can read more about it [here](https://variety.com/2024/film/news/kraven-sony-marvel-movies-not-dead-1236249221/).
+You can read more about it [here](http://www.hollywoodreporter.com/news/music-news/jay-z-dismiss-lawsuit-rape-accuser-inconsistencies-allegations-1236086964/).
 
 ## Requirements
 - Python 3.8
