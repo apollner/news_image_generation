@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Geminid Meteor Shower Peaks Tonight**
+**Tech Industry and CEOs Curry Favor With Trump Ahead of His Inauguration**
 
-You can read more about it [here](https://cbs6albany.com/weather/weather-extra/the-geminid-meteor-shower-peaks-tonight-12-14-2024).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlczcUpQejNDRVVuSFVobThVaXBZczZ5RWRzMFhvdHNFeTdxSkh1bG5NTUVhNzU5bms2b3hnTUFaaENVV1dLTlp5aXVEMU5ZQlNmcGgxZWowU2VoN2U3U2FGUF9BNDBKOHRhY0hzaFQ1UTIyMU9xaWoxTDNvS3hSODl1cGpmRTA?oc=5).
 
 ## Requirements
 - Python 3.8
