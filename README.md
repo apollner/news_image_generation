@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'I felt like a breathing corpse': Stories from people freed from Syria's torture prison**
+**College basketball picks, schedule: Predictions for Tennessee vs. Illinois and more Top 25 games on Saturday**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cy4784vn4jdo).
+You can read more about it [here](https://www.cbssports.com/college-basketball/news/college-basketball-picks-schedule-predictions-for-tennessee-vs-illinois-and-more-top-25-games-on-saturday/).
 
 ## Requirements
 - Python 3.8
