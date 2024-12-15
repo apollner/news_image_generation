@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: 'Kraven the Hunter' Fizzles With Meager Opening Day**
+**As Fertility Rates Fall, Some Scientists Say Everyday Chemicals Are a Factor**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/kraven-hunter-opening-day-lord-of-the-rings-war-rohirrim-1236248922/).
+You can read more about it [here](https://www.wsj.com/health/fertility-chemicals-science-bc0964a1).
 
 ## Requirements
 - Python 3.8
