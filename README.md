@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Joel Embiid exits loss to Pacers after hit to face as Sixers' season from hell continues**
+**WWE SmackDown Results – 12/13/24 (Go-Home show for Saturday Night’s Main Event)**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/joel-embiid-ruled-out-vs-pacers-after-taking-shot-to-the-face-as-sixers-season-from-hell-continues/).
+You can read more about it [here](https://www.wrestleview.com/wwe-smackdown-results/335965-wwe-smackdown-results-12-13-24-go-home-show-for-saturday-nights-main-event/).
 
 ## Requirements
 - Python 3.8
