@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**As Fertility Rates Fall, Some Scientists Say Everyday Chemicals Are a Factor**
+**Ex-FBI officials worry that Kash Patel as director may wield unlimited power**
 
-You can read more about it [here](https://www.wsj.com/health/fertility-chemicals-science-bc0964a1).
+You can read more about it [here](https://news.google.com/rss/articles/CBMie0FVX3lxTE5RZUkwRHZUUTNkWnFkTEEzdGxrdTlHVEM1NHBDSTItLWxLSnBVUzFxRnNWODI2dUhyVlZfVmNzUDJZdDQwdkkxRGNxZl91Umk3TlcyUFlmMFc2U01CZ0RpRWxCYlhGWUd5WFhPZnBtZnV5endWRV9NRkI5MNIBe0FVX3lxTE1MbmtReG51NjJ3Y2xrOG0tTFE4cXVHb1poX3JjTEFHSmU1YXl2X0NMY29oX2RkMHprREp3TThJbE5GSl9vbFp3MlYzc1FCX01zNHQ4UV9HM0tOc0N0Q0xnc3JzcFZTcjhGRjBMYnBwTHpqRF94My0yTHpBUQ?oc=5).
 
 ## Requirements
 - Python 3.8
