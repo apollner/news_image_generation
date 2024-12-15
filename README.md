@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Report: Trevon Diggs to have season-ending knee surgery**
+**James Kennedy's girlfriend, Ally Lewber, says she's 'taking time' to herself after his domestic violence arrest**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-trevon-diggs-to-have-season-ending-knee-surgery).
+You can read more about it [here](https://pagesix.com/2024/12/14/celebrity-news/james-kennedys-girlfriend-ally-lewber-taking-time-after-his-domestic-violence-arrest/).
 
 ## Requirements
 - Python 3.8
