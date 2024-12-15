@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Kraven the Hunter’ Bombing With $10M-$12M Debut, Slapped With C CinemaScore**
+**US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says**
 
-You can read more about it [here](http://www.hollywoodreporter.com/movies/movie-news/kraven-the-hunter-box-office-bombing-1236087005/).
+You can read more about it [here](https://www.politico.com/news/2024/12/14/us-officials-in-contact-with-syrian-rebel-group-00194382).
 
 ## Requirements
 - Python 3.8
