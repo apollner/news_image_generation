@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nancy Pelosi hospitalized after she 'sustained an injury' from fall on official trip to Luxembourg**
+**OpenAI’s Altman will donate $1 million to Trump’s inaugural fund**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnVacFhsQ0xheTFHQ3d3ak9mcmhEZjVUZl9FLXBKeS1fUmEwcm42a014b19Oa043bVh4aU8zMEhHUnNXSEloWmRmb2FuQldLclR6Y01jbU1DS2RoTmFITllfb1FRT2tnOFpBbmxOd0ZSNG5JZGlrdDU0YTJkcEsySFR4U2tqYXFBRzl5SEMzZHhWMGZIdzR4YVRDb19Fa29s?oc=5).
+You can read more about it [here](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a).
 
 ## Requirements
 - Python 3.8
