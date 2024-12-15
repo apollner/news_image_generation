@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syrian rebels deliver American to U.S. military post, photos show**
+**Golan Heights: Israel army prepares to stay on Mt Hermon for winter**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/12/13/travis-timmerman-free-syria-rebels-hts/).
+You can read more about it [here](https://www.bbc.com/news/articles/c390j9x9w9go).
 
 ## Requirements
 - Python 3.8
