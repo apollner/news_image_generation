@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**1 person killed at U.S. Army base in Georgia in what authorities say appears to be an "isolated" incident**
+**Medical Mysteries: Why did this baby’s robust appetite wither?**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMid0FVX3lxTE5PWEFaZVhndzdzb3NiZ2VISms5TXFpdG10Xy1VaGI1RERXeC1NbFRXU3JvTTFFZUh6anlKdFg0NEZQUXNZUnJWSExzMTFOQlVtaHBNd2cwWnBwNGdqMnlYbGJsNVNPM1F6QlJfd2xWRjRDODFBOVNn0gF8QVVfeXFMTm5yYjd1bFdKR2ZHNzh5V3NtY3o5YXZMbTVycTU5M1BTbGRYai1jY3hqZDg5ODVQUXJOYnM0V0dOR2pzc0NqVlg3WFFWS3NYVDR4UUFJeVhieV9WcGk4WmJNWENiSThlUExfZEpBa2ItSzBWSHZ3QkxLQVRMbQ?oc=5).
+You can read more about it [here](https://www.washingtonpost.com/health/2024/12/14/medical-mystery-baby-wont-eat/).
 
 ## Requirements
 - Python 3.8
