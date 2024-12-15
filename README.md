@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Georgia political crisis deepens as lawmakers vote in far-right ex-soccer player as president**
+**Blinken says U.S. had direct contact with Syria's Islamist rebels**
 
-You can read more about it [here](https://www.cnn.com/2024/12/14/europe/georgia-president-vote-mikheil-kavelashvili-intl/index.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMifkFVX3lxTE9PamhvZ2FTbTBPdEptdktsX28tTml3V01BWEFpX3o2YWJWTmU2bkZMYzllMVRKVGJ4TGJseHBmSnRoN25JbEFDVmxSdFQzclljSDJ2SEpYeUxqOTA4aVZRVV9UMHVBeXRzNlpHdGFqaE5JMkVaX01lbnppR1E4UQ?oc=5).
 
 ## Requirements
 - Python 3.8
