@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian oil tankers in distress in Black Sea**
+**Box Office: ‘Kraven the Hunter’ Bombs With $11 Million Opening Weekend, Worst Start of Sony-Produced Marvel Films**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXdpODc3YjRlLUNfNVVGQ0FnQTQtODN4a1NoQzBDTmgzemxQNGhSOU1SMmU3NEhseURoZHZoaTI5bEZfb2l1QzdTbjhhRjRmQ2dYVGkxQ3dwZ1RSMnRsSzBDdmhBbjRxbXVjdzNuRjJnM0Z4ZVZYcUlUNzJOYzE0MWVoZm5wMy15ejk1WWhDSXR3RG8?oc=5).
+You can read more about it [here](https://variety.com/2024/film/news/box-office-kraven-the-hunter-bombs-worst-start-sony-marvel-films-1236247536/).
 
 ## Requirements
 - Python 3.8
