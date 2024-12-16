@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayotte: French island territory hit by Cyclone Chido**
+**The Catholics in Trump's administration could take GOP in a whole new direction**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c2ldkg59j15o).
+You can read more about it [here](https://www.politico.com/news/2024/12/15/conservative-catholics-second-trump-administration-000917).
 
 ## Requirements
 - Python 3.8
