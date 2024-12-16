@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suchir Balaji: OpenAI whistleblower found dead in apartment**
+**Mayotte: French island territory hit by Cyclone Chido**
 
-You can read more about it [here](https://www.bbc.com/news/articles/cd0el3r2nlko).
+You can read more about it [here](https://www.bbc.com/news/articles/c2ldkg59j15o).
 
 ## Requirements
 - Python 3.8
