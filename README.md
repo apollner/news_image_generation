@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump names ally Richard Grenell as envoy for special missions**
+**NASA’s Perseverance Rover Reaches the Top Rim of the Jezero Crater**
 
-You can read more about it [here](https://www.ft.com/content/e1f7fbd2-e901-48d3-8923-7d16d86fa5f1).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkdQckZCRU0wR2JhVVJZeldTbldFSUQ5b0EycHM5TkF1a0htdHcyazNxYnYxVXpVcmVCSnVnQ3pBZG9ISW5NYlBMY1FPLWxYaEVEVkRlUmc5OHlWOC1yT2RJa0hNakhRUVVyMFgxV19uSDEtY1MxdkgzWHFMNzhIa05BRjc0d1FidFhlV3gwbDV4R2VtenR0eDRjTEFsTHJUVnRxbjJB?oc=5).
 
 ## Requirements
 - Python 3.8
