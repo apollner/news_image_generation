@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Astro Bot is 2024’s Game of the Year. Now What?**
+**Live briefing: Israel approves plan to expand settlements on occupied Golan Heights**
 
-You can read more about it [here](https://gizmodo.com/astro-bot-goty-playstation-future-2000538961).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNMWFQYXFNWVRGRWI4dXk1aDlfYy1Lc1JLRlhNLWhJXzVuTHRXa1ctbG53bFFaZlpBaVFKMGxrbUVvQk1vOEpKTFZPU0hTQ3hBOVdLb3NfRFl3QTUzTDhlYTlKNWo4R1IzWVRfeklvQ2lvYkdJYkpmT1BBa1g0anYyZm1Sbkk5enYySUlFOFpMdVV5WUthV3c?oc=5).
 
 ## Requirements
 - Python 3.8
