@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Alarming Mutation in H5N1 Virus Raises Pandemic Red Flags**
+**Jamie Foxx gets stitches after a glass is thrown at him during dinner in Beverly Hills**
 
-You can read more about it [here](https://scitechdaily.com/alarming-mutation-in-h5n1-virus-raises-pandemic-red-flags/).
+You can read more about it [here](https://apnews.com/article/jamie-foxx-beverly-hills-california-mr-chow-5c516fe2ea8f17bb4ef4f6f0b9817514).
 
 ## Requirements
 - Python 3.8
