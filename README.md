@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Colorado two-way star Travis Hunter wins Heisman Trophy as college football’s top player**
+**Nancy Pelosi has "successful" hip replacement after fall in Luxembourg**
 
-You can read more about it [here](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe).
+You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFB0NFJiMVBxUGVQVS1rQjdESlZZUGNCam50VEExYnNYb1paNEc3djA0NDU4Q3o0V05PdmxCMzlJV0I4cXZkVE45aDA0UldsNVU3SGZ1VElkRGlkZURJMmQ3THhRVXh6REtxcGQwdTB6NkRFZW52RUZYNndJQVRPZ04tOA?oc=5).
 
 ## Requirements
 - Python 3.8
