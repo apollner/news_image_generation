@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Donald Trump names ally Richard Grenell as envoy for special missions**
+**Veteran analyst who predicted the S&P 500's rally unveils target for 2025**
 
-You can read more about it [here](https://www.ft.com/content/e1f7fbd2-e901-48d3-8923-7d16d86fa5f1).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxOM1hRUkJMWnc2QzNQTkpNNGEyRmhMNFgxYm5wT1V6dlVreW4wRWFseDBGbGY3TG9kX1QyT3pFY3NrTzh2TDVaZ0t1Tjg3UW1TMlNjQURnMzNfZHBMRFF3RmhHME1CLXQtLWpOaGR3dVhlLWhwZEpkb2lLN0xIdG9Ndm1WUFUxYVhzY2hpVmpoYmwtN29GWFM3MUpmZVFHY1M0U2dYXzQtMFRjQkdN?oc=5).
 
 ## Requirements
 - Python 3.8
