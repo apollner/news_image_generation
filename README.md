@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scotts Valley tornado categorized as EF1; damaged area reopened**
+**2 Russian oil tankers damaged off Crimea, emergency authorities say**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUdDOURoZUVmVW5xckxBaG16enM3SWxrVi1mQlItbjBSVy1zeVI2emVnNlpWSmVRT3EtOGVhMkdxWWVIWjM3NjIwMWxIeFg5X0p3dk5qYlMzbDBCSXJuYUU3dHVGQ0lMNW8yLThYLW1BSHlCbk50ZFU1OFUxamswU2ZrMEExd0dXb3BGRGZTcEpwQ0JjcF9SLQ?oc=5).
+You can read more about it [here](https://abcnews.go.com/International/2-russian-oil-tankers-damaged-off-crimea-emergency/story?id\\u003d116802361).
 
 ## Requirements
 - Python 3.8
