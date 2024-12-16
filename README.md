@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nancy Pelosi has "successful" hip replacement after fall in Luxembourg**
+**Very good sentences**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMigwFBVV95cUxNRFB0NFJiMVBxUGVQVS1rQjdESlZZUGNCam50VEExYnNYb1paNEc3djA0NDU4Q3o0V05PdmxCMzlJV0I4cXZkVE45aDA0UldsNVU3SGZ1VElkRGlkZURJMmQ3THhRVXh6REtxcGQwdTB6NkRFZW52RUZYNndJQVRPZ04tOA?oc=5).
+You can read more about it [here](https://marginalrevolution.com/marginalrevolution/2024/12/very-good-sentences-44.html).
 
 ## Requirements
 - Python 3.8
