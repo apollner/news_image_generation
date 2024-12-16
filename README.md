@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dollar’s Trump-Fueled Gains Face a Reality Check Late Next Year**
+**Alarming Mutation in H5N1 Virus Raises Pandemic Red Flags**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDZqdjluTWd6blpJSW1kcWx1OEF2RGtYTmdxYVpoRHdhZ1gwSVpTdkxCcDBpdWttVkVHa1hWNmctbmhqc2dPMVhabHp4TjJIaXE3eUZQZDk4R0k3RFpDczdsdEd6ZGNVYTBfQnd2NGJaby1mQTRVRHpPWnlOVXZhUEF4bVl1Z2hmYmRzS1F0eEtsSll2eTRWQzlXX2ZIdmMwTDN4ZGlLc05KZW1JemVqRVFTcm0?oc=5).
+You can read more about it [here](https://scitechdaily.com/alarming-mutation-in-h5n1-virus-raises-pandemic-red-flags/).
 
 ## Requirements
 - Python 3.8
