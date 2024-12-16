@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mayotte: French island territory hit by Cyclone Chido**
+**Main Card Results | UFC Tampa**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRWFVQVh5ZEZMVGMwaU5iaDRwUGtiOUNyYmFJZDhwYi0yRThIZXFFRHFlQm9vcTZUMmt1aXVkQTRFNnp4NzkwQ1k3NUVpWkQzUW9iVWxkc3JDd9IBX0FVX3lxTE1Mc3Zub3dxSktJQWlnZk1hU0RmYVBndklmX3JuOEl0WDlvTzRiTHdmdE9hZk5aMmJBbFk1d00tNFhFZlcydUIwOHRXTmtlSU9pMF95NW85ZURKa2x6bGJZ?oc=5).
+You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-covington-vs-buckley-tampa).
 
 ## Requirements
 - Python 3.8
