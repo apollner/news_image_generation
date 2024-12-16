@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the mysterious drones buzzing over New Jersey**
+**Colorado two-way star Travis Hunter wins Heisman Trophy as college football’s top player**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c62785697v0o).
+You can read more about it [here](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe).
 
 ## Requirements
 - Python 3.8
