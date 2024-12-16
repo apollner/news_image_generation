@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Catholics in Trump's administration could take GOP in a whole new direction**
+**Chris Rock Hosts “Saturday Night Live ”— as Longtime Friend Adam Sandler Makes a Surprise Cameo: Watch**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/15/conservative-catholics-second-trump-administration-000917).
+You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE83ZWx6V1lkT2xwUlFDM1BPaUQ2eEtOcDMyS0J1TFhEa0ZrcURhbW1XcXBoOXBScFZ5ZjQwWlJWb3VkWDNsaTVWVkJuRGJWbUFiaDEtTFVSTXV6bUZzSXdaR2IxMWZvNXZXQmRyeWNkdndHNlky?oc=5).
 
 ## Requirements
 - Python 3.8
