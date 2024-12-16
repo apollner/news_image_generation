@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mystery Drones Over New Jersey And Nearby States: Mayorkas Says ‘We Are On It’—But No Known Foreign Involvement (Updating)**
+**Scotts Valley tornado categorized as EF1; damaged area reopened**
 
-You can read more about it [here](https://www.forbes.com/sites/stephenpastis/2024/12/15/mystery-drones-over-new-jersey-and-nearby-states-mayorkas-says-we-are-on-it-but-no-known-foreign-involvement-updating/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUdDOURoZUVmVW5xckxBaG16enM3SWxrVi1mQlItbjBSVy1zeVI2emVnNlpWSmVRT3EtOGVhMkdxWWVIWjM3NjIwMWxIeFg5X0p3dk5qYlMzbDBCSXJuYUU3dHVGQ0lMNW8yLThYLW1BSHlCbk50ZFU1OFUxamswU2ZrMEExd0dXb3BGRGZTcEpwQ0JjcF9SLQ?oc=5).
 
 ## Requirements
 - Python 3.8
