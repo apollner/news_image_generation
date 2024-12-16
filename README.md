@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA’s Perseverance Rover Reaches the Top Rim of the Jezero Crater**
+**Oprah Winfrey Surprises Best Friend Gayle King with Epic Birthday Party — and Nearly Gives Her a ‘Heart Attack’**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkdQckZCRU0wR2JhVVJZeldTbldFSUQ5b0EycHM5TkF1a0htdHcyazNxYnYxVXpVcmVCSnVnQ3pBZG9ISW5NYlBMY1FPLWxYaEVEVkRlUmc5OHlWOC1yT2RJa0hNakhRUVVyMFgxV19uSDEtY1MxdkgzWHFMNzhIa05BRjc0d1FidFhlV3gwbDV4R2VtenR0eDRjTEFsTHJUVnRxbjJB?oc=5).
+You can read more about it [here](https://people.com/oprah-winfrey-surprises-best-friend-gayle-king-with-birthday-party-watch-8761663).
 
 ## Requirements
 - Python 3.8
