@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx Is “Recovering” With Stitches After Physical Altercation During Birthday Dinner**
+**Donald Trump names ally Richard Grenell as envoy for special missions**
 
-You can read more about it [here](http://deadline.com/2024/12/jamie-foxx-recovering-stitches-physical-altercation-birthday-dinner-1236204003/).
+You can read more about it [here](https://www.ft.com/content/e1f7fbd2-e901-48d3-8923-7d16d86fa5f1).
 
 ## Requirements
 - Python 3.8
