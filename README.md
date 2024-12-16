@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey Surprises Best Friend Gayle King with Epic Birthday Party — and Nearly Gives Her a ‘Heart Attack’**
+**Nancy Pelosi announces major surgery after fall in Luxembourg**
 
-You can read more about it [here](https://people.com/oprah-winfrey-surprises-best-friend-gayle-king-with-birthday-party-watch-8761663).
+You can read more about it [here](https://www.foxnews.com/politics/nancy-pelosi-announces-major-surgery-after-fall-germany).
 
 ## Requirements
 - Python 3.8
