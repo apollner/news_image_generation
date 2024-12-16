@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Manhunt for St. Johnsbury shooting suspect ends with arrest**
+**Russian oil tankers in distress in Black Sea**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXItRUNuWnBYdVM0NFVaQWRCVTNWT09RcEZaLVlOQXNxX2RLUkJfZEJzT3IteFZrVHZ3TFo3VHZTUXpYOGZ2MjdrV0FWeWxILVBaSWFScTBPLW9IQW1sSjdKMi12R2FQcWxiNUtaN2d0eGZBMmtXd3VSaGRRYUo4aWRCYkFpM3lSZVdGX3lONETSAaQBQVVfeXFMT05HcTQtZDVrajRnZ3RQcmF4Z0N3Mm1Fek5qZVlvQTNYSm9wUTg5SDZmVlp3akQzMzZQbnlmMm53WUVvZDVTU1ZJZnZmZkdXM0VWTUJtRHJieVR1U0g4a05TMWFweGh3aTVsNzdBODBhRnhFTmZNRmIwaUhLZURQbHJaWlVkT3NvWDZkNDhTT2E0T1M4U2k1clhtTmNPeG5wREFRT2w?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikwFBVV95cUxQUXdpODc3YjRlLUNfNVVGQ0FnQTQtODN4a1NoQzBDTmgzemxQNGhSOU1SMmU3NEhseURoZHZoaTI5bEZfb2l1QzdTbjhhRjRmQ2dYVGkxQ3dwZ1RSMnRsSzBDdmhBbjRxbXVjdzNuRjJnM0Z4ZVZYcUlUNzJOYzE0MWVoZm5wMy15ejk1WWhDSXR3RG8?oc=5).
 
 ## Requirements
 - Python 3.8
