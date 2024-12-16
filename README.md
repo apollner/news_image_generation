@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Catholics in Trump's administration could take GOP in a whole new direction**
+**CEOs Want Trump to Change Course on Tariffs. He Isn’t Budging.**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/15/conservative-catholics-second-trump-administration-000917).
+You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHZzMDVFS1JDeUJBX1ZoVWFxUVozOTdISmIxeURGd1BzNVJiY1ViRUltUllIMURDd3NCd0dPc0NTeTlZWl9LWlh6U2ZIWUZQVVVvLVg2TlNXWjgwclNycFY1NTRKZzQzV2lTeGJ0Y0Y4S3RKcnJ3aHFjQmFLMVZkU2IxNGI?oc=5).
 
 ## Requirements
 - Python 3.8
