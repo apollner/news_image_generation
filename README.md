@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Main Card Results | UFC Tampa**
+**[Removed]**
 
-You can read more about it [here](https://www.ufc.com/news/main-card-results-highlights-winner-interviews-ufc-fight-night-covington-vs-buckley-tampa).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
