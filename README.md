@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey Surprises Best Friend Gayle King with Epic Birthday Party — and Nearly Gives Her a ‘Heart Attack’**
+**Jamie Foxx Is “Recovering” With Stitches After Physical Altercation During Birthday Dinner**
 
-You can read more about it [here](https://people.com/oprah-winfrey-surprises-best-friend-gayle-king-with-birthday-party-watch-8761663).
+You can read more about it [here](http://deadline.com/2024/12/jamie-foxx-recovering-stitches-physical-altercation-birthday-dinner-1236204003/).
 
 ## Requirements
 - Python 3.8
