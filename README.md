@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How to watch the ‘Yellowstone’ series finale: Start time and what to know**
+**Mystery Drones Over New Jersey And Nearby States: Mayorkas Says ‘We Are On It’—But No Known Foreign Involvement (Updating)**
 
-You can read more about it [here](https://nypost.com/2024/12/15/entertainment/how-to-watch-the-yellowstone-series-finale-what-to-know/).
+You can read more about it [here](https://www.forbes.com/sites/stephenpastis/2024/12/15/mystery-drones-over-new-jersey-and-nearby-states-mayorkas-says-we-are-on-it-but-no-known-foreign-involvement-updating/).
 
 ## Requirements
 - Python 3.8
