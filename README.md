@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chris Rock Hosts “Saturday Night Live ”— as Longtime Friend Adam Sandler Makes a Surprise Cameo: Watch**
+**Suchir Balaji: OpenAI whistleblower found dead in apartment**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMidEFVX3lxTE83ZWx6V1lkT2xwUlFDM1BPaUQ2eEtOcDMyS0J1TFhEa0ZrcURhbW1XcXBoOXBScFZ5ZjQwWlJWb3VkWDNsaTVWVkJuRGJWbUFiaDEtTFVSTXV6bUZzSXdaR2IxMWZvNXZXQmRyeWNkdndHNlky?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/cd0el3r2nlko).
 
 ## Requirements
 - Python 3.8
