@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NBA Cup results: Giannis Antetokounmpo, Bucks will face Shai Gilgeous-Alexander, Thunder in Tuesday's final**
+**What are AI ‘world models,’ and why do they matter?**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/nba-cup-results-giannis-antetokounmpo-bucks-will-face-shai-gilgeous-alexander-thunder-in-tuesdays-final/live/).
+You can read more about it [here](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/).
 
 ## Requirements
 - Python 3.8
