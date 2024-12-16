@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oprah Winfrey Surprises Best Friend Gayle King with Epic Birthday Party — and Nearly Gives Her a ‘Heart Attack’**
+**Horoscope for Sunday, December 15, 2024**
 
-You can read more about it [here](https://people.com/oprah-winfrey-surprises-best-friend-gayle-king-with-birthday-party-watch-8761663).
+You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/12/15/horoscopes-today-sunday-december-15-2024).
 
 ## Requirements
 - Python 3.8
