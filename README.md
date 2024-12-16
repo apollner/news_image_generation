@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Kraven the Hunter’ Bombs With $11 Million Opening Weekend, Worst Start of Sony-Produced Marvel Films**
+**Jamie Foxx “Too Blessed To Be Stressed” After Physical Altercation During Birthday Dinner At Mr. Chow – Update**
 
-You can read more about it [here](https://variety.com/2024/film/news/box-office-kraven-the-hunter-bombs-worst-start-sony-marvel-films-1236247536/).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzlnbUtONzJYeUdlMTBzT25sR08wd3hhbWdfR1FFUm1faTZ4V3NmZ2JySjN2c1J4SUtUNm9za015VWJ1aDNlTDc4R3BJaS0zUGhRMUo2QmxmODdwLUUxeElRVmVzWFlyMnNfcGxPQzI4SE85S0EtaWNHRVBYRFFETnZxdWd0VzVXWGpiNXFHQ1NKODgtUVRGU2RTQTZHVUJrRmNmTTJEU1NOZTdO?oc=5).
 
 ## Requirements
 - Python 3.8
