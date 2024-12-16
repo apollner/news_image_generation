@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What are AI ‘world models,’ and why do they matter?**
+**Very good sentences**
 
-You can read more about it [here](https://techcrunch.com/2024/12/14/what-are-ai-world-models-and-why-do-they-matter/).
+You can read more about it [here](https://marginalrevolution.com/marginalrevolution/2024/12/very-good-sentences-44.html).
 
 ## Requirements
 - Python 3.8
