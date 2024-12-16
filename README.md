@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Russian oil tankers damaged off Crimea, emergency authorities say**
+**Astro Bot is 2024’s Game of the Year. Now What?**
 
-You can read more about it [here](https://abcnews.go.com/International/2-russian-oil-tankers-damaged-off-crimea-emergency/story?id\\u003d116802361).
+You can read more about it [here](https://gizmodo.com/astro-bot-goty-playstation-future-2000538961).
 
 ## Requirements
 - Python 3.8
