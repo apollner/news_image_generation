@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Horoscope for Sunday, December 15, 2024**
+**Mayotte: French island territory hit by Cyclone Chido**
 
-You can read more about it [here](https://chicago.suntimes.com/horoscopes/2024/12/15/horoscopes-today-sunday-december-15-2024).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvRWFVQVh5ZEZMVGMwaU5iaDRwUGtiOUNyYmFJZDhwYi0yRThIZXFFRHFlQm9vcTZUMmt1aXVkQTRFNnp4NzkwQ1k3NUVpWkQzUW9iVWxkc3JDd9IBX0FVX3lxTE1Mc3Zub3dxSktJQWlnZk1hU0RmYVBndklmX3JuOEl0WDlvTzRiTHdmdE9hZk5aMmJBbFk1d00tNFhFZlcydUIwOHRXTmtlSU9pMF95NW85ZURKa2x6bGJZ?oc=5).
 
 ## Requirements
 - Python 3.8
