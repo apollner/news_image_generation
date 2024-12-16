@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden’s commutation in ‘kids for cash’ scandal angers some Pennsylvania families**
+**[Removed]**
 
-You can read more about it [here](http://whyy.org/articles/biden-commutation-kids-for-cash-angers-pennsylvania-families/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
