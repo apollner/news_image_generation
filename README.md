@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx “Too Blessed To Be Stressed” After Physical Altercation During Birthday Dinner At Mr. Chow – Update**
+**How to watch the ‘Yellowstone’ series finale: Start time and what to know**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzlnbUtONzJYeUdlMTBzT25sR08wd3hhbWdfR1FFUm1faTZ4V3NmZ2JySjN2c1J4SUtUNm9za015VWJ1aDNlTDc4R3BJaS0zUGhRMUo2QmxmODdwLUUxeElRVmVzWFlyMnNfcGxPQzI4SE85S0EtaWNHRVBYRFFETnZxdWd0VzVXWGpiNXFHQ1NKODgtUVRGU2RTQTZHVUJrRmNmTTJEU1NOZTdO?oc=5).
+You can read more about it [here](https://nypost.com/2024/12/15/entertainment/how-to-watch-the-yellowstone-series-finale-what-to-know/).
 
 ## Requirements
 - Python 3.8
