@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**James Kennedy's girlfriend, Ally Lewber, says she's 'taking time' to herself after his domestic violence arrest**
+**Biden’s commutation in ‘kids for cash’ scandal angers some Pennsylvania families**
 
-You can read more about it [here](https://pagesix.com/2024/12/14/celebrity-news/james-kennedys-girlfriend-ally-lewber-taking-time-after-his-domestic-violence-arrest/).
+You can read more about it [here](http://whyy.org/articles/biden-commutation-kids-for-cash-angers-pennsylvania-families/).
 
 ## Requirements
 - Python 3.8
