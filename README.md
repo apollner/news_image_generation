@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nancy Pelosi announces major surgery after fall in Luxembourg**
+**NBA Cup results: Giannis Antetokounmpo, Bucks will face Shai Gilgeous-Alexander, Thunder in Tuesday's final**
 
-You can read more about it [here](https://www.foxnews.com/politics/nancy-pelosi-announces-major-surgery-after-fall-germany).
+You can read more about it [here](https://www.cbssports.com/nba/news/nba-cup-results-giannis-antetokounmpo-bucks-will-face-shai-gilgeous-alexander-thunder-in-tuesdays-final/live/).
 
 ## Requirements
 - Python 3.8
