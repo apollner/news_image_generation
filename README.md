@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What we know about the mysterious drones buzzing over New Jersey**
+**Oprah Winfrey Surprises Best Friend Gayle King with Epic Birthday Party — and Nearly Gives Her a ‘Heart Attack’**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c62785697v0o).
+You can read more about it [here](https://people.com/oprah-winfrey-surprises-best-friend-gayle-king-with-birthday-party-watch-8761663).
 
 ## Requirements
 - Python 3.8
