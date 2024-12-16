@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Very good sentences**
+**What we know about the mysterious drones buzzing over New Jersey**
 
-You can read more about it [here](https://marginalrevolution.com/marginalrevolution/2024/12/very-good-sentences-44.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c62785697v0o).
 
 ## Requirements
 - Python 3.8
