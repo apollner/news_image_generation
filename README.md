@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CEOs Want Trump to Change Course on Tariffs. He Isn’t Budging.**
+**Manhunt for St. Johnsbury shooting suspect ends with arrest**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaHZzMDVFS1JDeUJBX1ZoVWFxUVozOTdISmIxeURGd1BzNVJiY1ViRUltUllIMURDd3NCd0dPc0NTeTlZWl9LWlh6U2ZIWUZQVVVvLVg2TlNXWjgwclNycFY1NTRKZzQzV2lTeGJ0Y0Y4S3RKcnJ3aHFjQmFLMVZkU2IxNGI?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXItRUNuWnBYdVM0NFVaQWRCVTNWT09RcEZaLVlOQXNxX2RLUkJfZEJzT3IteFZrVHZ3TFo3VHZTUXpYOGZ2MjdrV0FWeWxILVBaSWFScTBPLW9IQW1sSjdKMi12R2FQcWxiNUtaN2d0eGZBMmtXd3VSaGRRYUo4aWRCYkFpM3lSZVdGX3lONETSAaQBQVVfeXFMT05HcTQtZDVrajRnZ3RQcmF4Z0N3Mm1Fek5qZVlvQTNYSm9wUTg5SDZmVlp3akQzMzZQbnlmMm53WUVvZDVTU1ZJZnZmZkdXM0VWTUJtRHJieVR1U0g4a05TMWFweGh3aTVsNzdBODBhRnhFTmZNRmIwaUhLZURQbHJaWlVkT3NvWDZkNDhTT2E0T1M4U2k1clhtTmNPeG5wREFRT2w?oc=5).
 
 ## Requirements
 - Python 3.8
