@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**German Chancellor Scholz loses no-confidence vote, paving way for election**
+**TikTok asks Supreme Court to block law that could ban popular app**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnB3NzM0bGRzOXNKem96Zmx6VmY1dlVPYTU5RlFxdE9kNlJPNExyUkV6WGhuclZwdnJqMElrakItNDhPN3JMRWhvcW8tTlpLYm5UTFlvUEs4NG1zSWg4dVcwVjRwOVdnZXVtMW5QRXc0dHRlR0JkYmJ3SDJEQTdJVjk4QkUwUFlhaTdrVzFULW8xbVlaX1dVcXhJNURRLVNUdjdNMTc4NVRlR1dIazRETHp3?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJkbkpNTGVFZjJSaFpkNTB5dFRYOTYtX01EQXFqcUJhZEkxLWM4aE9haXFZaTczd2ktSGtKMWI3TnJZYkhPVnlGZmpHMzR6LU9FaVctWVRMU3NSb3Jqb291ZGpVS1JWQ1NrTFIwRWQzUmxfa2ZWMmVtX0pyNVAzeHcxN0FTSjZCTUI4a1VIMlpuQVpPZG9wZ2c5MEJrMmlkTWEwMi1obmZ1b1N0VkHSAVZBVV95cUxQOFllQWpBOEp3TW91RnpRRG9RdmhaRmhIXzI1cVV4SE9PNkh0QWt4YTZ0SnZjWHNEdHZWY2hobGZxdGJYUl9MTTRlUmprVTVMYWpyUTJCQQ?oc=5).
 
 ## Requirements
 - Python 3.8
