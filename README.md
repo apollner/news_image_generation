@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Week 15 Rapid Reactions: Seahawks Lose To Packers & Lose Geno Smith To Injury**
+**Live Briefing: Gaza death toll crosses 45,000, Health Ministry says**
 
-You can read more about it [here](https://www.seahawks.com/news/rapid-reactions-seahawks-lose-to-packers-lose-geno-smith-to-injury).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmwtX3pHN1ZRa0hTdVBrekd4Vm9yWEJiUkcxRVZuOWxwMUQtVFhNTTNTY3RHR0VLTm9HLXZlSmZNc2h6LThsQjNfa0tRb2YzN28wYzJ5MGhwMVRRYXV6V1RKVERJSUp5R0hZc0ViX2VJR01EOG1zZVYyVGRYVDRGVXBWdDMzWDJ2ZU93WG5oalpMNzJuUmc?oc=5).
 
 ## Requirements
 - Python 3.8
