@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vikings clinch postseason berth with Seahawks loss to Packers**
+**How ‘Yellowstone’ Finale Set up Beth & Rip Spinoff and Circled Back to ‘1883’**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-clinch-postseason-berth-with-seahawks-loss-to-packers).
+You can read more about it [here](https://www.tvinsider.com/1166644/yellowstone-finale-recap-season-5-ranch-sold-jamie-dead-beth-rip-elsa-dutton-1883/).
 
 ## Requirements
 - Python 3.8
