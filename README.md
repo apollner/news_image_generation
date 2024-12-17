@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
+**AirTag 2 Expected to Launch Next Year With 'Considerable' Upgrade to Item Tracking**
 
-You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
+You can read more about it [here](https://news.google.com/rss/articles/CBMic0FVX3lxTFBzaGV6LU5GVTh5MzY4cEQxOWR5R09IMEl5c2swamZJb3ZqZE83cmJzSzFKZXo5RHlEQmp2SDJLRzR2bUdXanNzOWhueGNUZkVOSTdxTFlXaFBlSE9qakR0VHpFc2ZNc2NaX0hidUN1Q1g1dlE?oc=5).
 
 ## Requirements
 - Python 3.8
