@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bitcoin Soars to Record High Above $106K, Then Retreats as Hawkish Fed Rate Cut Looms**
+**Black Myth: Wukong Deserved Astro Bot's Game of the Year Award, Says Game Science CEO**
 
-You can read more about it [here](https://www.coindesk.com/markets/2024/12/16/bitcoin-soars-to-record-high-above-106-k-then-retreats-as-hawkish-fed-rate-cut-looms).
+You can read more about it [here](https://www.pushsquare.com/news/2024/12/black-myth-wukong-deserved-astro-bots-game-of-the-year-award-says-game-science-ceo).
 
 ## Requirements
 - Python 3.8
