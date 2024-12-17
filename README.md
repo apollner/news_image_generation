@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kraven the Hunter Has Worst Ever Box Office Opening Weekend for a Sony Spider-Man Universe Movie, Even Below Madame Web**
+**Seven hotel guests suffer suspected poisoning after drinking cocktails at 5-star Fiji resort**
 
-You can read more about it [here](https://www.ign.com/articles/kraven-the-hunter-has-worst-ever-box-office-opening-weekend-for-a-sony-spider-man-universe-movie-even-below-madame-web).
+You can read more about it [here](https://www.cnn.com/2024/12/15/world/fiji-tourists-cocktail-drinks-hospitalization-intl-hnk/index.html).
 
 ## Requirements
 - Python 3.8
