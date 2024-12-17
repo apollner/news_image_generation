@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**McConnell warns Trump to rebuff ‘right-wing flirtation with isolation’**
+**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/16/mcconnell-warns-trump-to-rebuff-right-wing-flirtation-with-isolation-00194424).
+You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
 
 ## Requirements
 - Python 3.8
