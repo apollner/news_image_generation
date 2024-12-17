@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Full speed ahead: Tesla lands higher price targets from Wedbush (NASDAQ:TSLA)**
+**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSnFlVUZVTnpjd2EwdDl0dWFsTTEtcmszLWhlYkhJUy1kQThpZXBVc3RQdVBCalFqeGl0VGpuRmR5V0ljYjEtU18tYlZzLVB6SjNNR1ZDTDFpRjVvcmdOT0dXZkJ1TE9ZUEd4YXhDV3F2cUhNMHVKWmpzZm1SLTRHTml1VnI3c1lXZ0o1SWxNZzY2Y1lJR1FTSFhlXzNkdmNrRWc?oc=5).
+You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
 
 ## Requirements
 - Python 3.8
