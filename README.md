@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**A Statement from the PGA of America on the 2025 Ryder Cup**
+**[Removed]**
 
-You can read more about it [here](https://www.pga.com/story/a-statement-from-the-pga-of-america-on-the-2025-ryder-cup).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
