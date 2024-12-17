@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Newsom lost a top aide. Former Harris adviser will take her place.**
+**Softbank CEO and Trump announce $100 billion investment in U.S. by firm**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEo4T2ZXVkluWkZNWUNZMENiOU5BU0V5TTZENFJISVhfd1BkQ25LSmVvTzZLS2J1c1YzektibTVyWF80Q2o0aEt4NUE2bHY2UXFqTFdXSUZONklCOWhvMmdqMlhoM09aN3pSaXdJbGlReGpoNjk3WDhmNmFYb1FDX3cySkp5MjlyLWZZREF3ZU9SdFBqUmc4QTN1dw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMitAFBVV95cUxQdklwb1hDM2NWTjVzVlhITmNoMzBmWWgtbkhjTGNDeWh6SFRRVWV1NGFqQ25NamRGeTdxOG1xVnAxV2JVMExJUm85ekd2MkRaYzF5UGNKalNBSnJyLVBrVUUwTHFtc2xxNk9nbEQ2RUVDT3VNWUFoZTRXZlF3MnAzdmdaWTFkQ3hQUnBjNUpWcVI5RWlRd0kybHFoZklWQVFUM2ZXR0J5MHZiTlJzV2hZSmJEYXjSAboBQVVfeXFMTWxoQTAtT2ZFY0ZJZ2VMWjlxYlVsYmFYRklZNHkxRkZLRzJydXEyZ0FkR2czeFE5MWd6bTFSUEVFMzhWejBBWHd1a0o1bmV5dTEyQ1VucTRwSzJOcWZuQzBIVTgxMlhNcm5QeU0xT3k4WF8yUEprOFY5dHEwN05JY2Z0cTJ4MXVseHBMYy1fNHg2SWhXb0VudVl4bUlRZE5OZ3E1ZmF2MHRxSnA0dy1wd05kcTVBS01JZ2JR?oc=5).
 
 ## Requirements
 - Python 3.8
