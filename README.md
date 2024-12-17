@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schumer urges Biden admin to deploy "special drone-detection tech" to N.Y. and N.J.**
+**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1Bpc09FOEJ6OXlhc20tcTl4NjYyMHQ0dXhfa18tdlJGTzhyZkJ4R2NoV2RfMWdkRDFxSm5obURKS2tUcnRuTzNoMmxfeV9tT2NCcmtidTgwTE1aSUc5U1lSQm5oNjk3T0VsMEVmQmNSLUZuNTNFU0pSckE4VWhQaFltLWtHN3dIWFE?oc=5).
+You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
 
 ## Requirements
 - Python 3.8
