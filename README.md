@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
+**China’s weak consumption drags on economy as Trump tariff threat looms**
 
-You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
+You can read more about it [here](https://www.cnn.com/2024/12/16/economy/china-economy-consumption-hnk-intl/index.html).
 
 ## Requirements
 - Python 3.8
