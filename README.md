@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**TikTok asks Supreme Court to block law that could ban popular app**
+**Abundant Life Christian School shooting in Madison: 2 killed, 6 hurt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjJkbkpNTGVFZjJSaFpkNTB5dFRYOTYtX01EQXFqcUJhZEkxLWM4aE9haXFZaTczd2ktSGtKMWI3TnJZYkhPVnlGZmpHMzR6LU9FaVctWVRMU3NSb3Jqb291ZGpVS1JWQ1NrTFIwRWQzUmxfa2ZWMmVtX0pyNVAzeHcxN0FTSjZCTUI4a1VIMlpuQVpPZG9wZ2c5MEJrMmlkTWEwMi1obmZ1b1N0VkHSAVZBVV95cUxQOFllQWpBOEp3TW91RnpRRG9RdmhaRmhIXzI1cVV4SE9PNkh0QWt4YTZ0SnZjWHNEdHZWY2hobGZxdGJYUl9MTTRlUmprVTVMYWpyUTJCQQ?oc=5).
+You can read more about it [here](https://abcnews.go.com/US/shooting-reported-christian-school-madison-wisconsin-police/story?id\\u003d116835038).
 
 ## Requirements
 - Python 3.8
