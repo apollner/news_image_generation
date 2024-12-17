@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Fed’s Game Plan on Interest-Rate Cuts Keeps Shifting**
+**Kraven the Hunter Has Worst Ever Box Office Opening Weekend for a Sony Spider-Man Universe Movie, Even Below Madame Web**
 
-You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-interest-rate-cut-outlook-2025-657e718a).
+You can read more about it [here](https://www.ign.com/articles/kraven-the-hunter-has-worst-ever-box-office-opening-weekend-for-a-sony-spider-man-universe-movie-even-below-madame-web).
 
 ## Requirements
 - Python 3.8
