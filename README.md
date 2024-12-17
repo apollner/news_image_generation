@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China’s weak consumption drags on economy as Trump tariff threat looms**
+**2024 Week 15 Rapid Reactions: Seahawks Lose To Packers & Lose Geno Smith To Injury**
 
-You can read more about it [here](https://www.cnn.com/2024/12/16/economy/china-economy-consumption-hnk-intl/index.html).
+You can read more about it [here](https://www.seahawks.com/news/rapid-reactions-seahawks-lose-to-packers-lose-geno-smith-to-injury).
 
 ## Requirements
 - Python 3.8
