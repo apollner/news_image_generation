@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Syria Live Updates: Al-Assad Wanted to Stay and Fight Rebels, Statement Says**
+**Trump says he’s a ‘believer’ in polio vaccine, and other news conference takeaways**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE01bTlRNlpnM1lUdWwxblgwZ1pqTTlfa2tKVUFJNHdqTUhJUnIwWlZLUW1xU3V1RE41VHJOQ2JvTllRTGRNeWRtbWQ3WmpndXJhM0w2Z3JWeDBRTHF5S0xvUi1mV0hHM2M0aEwtWC1UOGxNV1JfZTJ4Xw?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkhkakptNUM3MmxOa1ltTHFxSmZ1eUU2NmM0d3ZSaEFGdzViNVh4dk1zQXdRVGdkUkRwQWo4NGE3RmI1ODBWa2xBUEMxZE9RdERXVEcwdHlscVRrNDZ6UF9KSHZDR0o1TmptWm9xOEp0QmMwNEZmeVZRcXZGeHMzNllXZlFrd3VfaDFkaV8tclo1VFpKTXc?oc=5).
 
 ## Requirements
 - Python 3.8
