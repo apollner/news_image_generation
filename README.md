@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China Races to Squelch Unrest as Signs of Economic Malaise Spread**
+**Bitcoin Soars to Record High Above $106K, Then Retreats as Hawkish Fed Rate Cut Looms**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkZ4QUtUR0F6Y2o1Y0V0UnlSUkVNdENtVGFrdUVvMWxkckhqRzl6TmNabjhEUm44Unl3WjlKeEJrTU5SVnJnVk9LaDNwWUsyVE4tRGJHWXhCTmprdUN4ZFVqVmlXMnZvNDRudm1zSHVNdXpYcmZDVTl2eEJ5YWZiQzE4Rm92d0FNM2oyT05OSFFkRTR6N0E4TVFzX0pSSUd1MWF5LVJ6d2ltdw?oc=5).
+You can read more about it [here](https://www.coindesk.com/markets/2024/12/16/bitcoin-soars-to-record-high-above-106-k-then-retreats-as-hawkish-fed-rate-cut-looms).
 
 ## Requirements
 - Python 3.8
