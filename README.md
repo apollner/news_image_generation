@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 Week 15 Rapid Reactions: Seahawks Lose To Packers & Lose Geno Smith To Injury**
+**McConnell warns Trump to rebuff ‘right-wing flirtation with isolation’**
 
-You can read more about it [here](https://www.seahawks.com/news/rapid-reactions-seahawks-lose-to-packers-lose-geno-smith-to-injury).
+You can read more about it [here](https://www.politico.com/news/2024/12/16/mcconnell-warns-trump-to-rebuff-right-wing-flirtation-with-isolation-00194424).
 
 ## Requirements
 - Python 3.8
