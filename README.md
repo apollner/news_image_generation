@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Why Musk Doesn’t Have Access to SpaceX’s Biggest Government Secrets**
+**This Is One Unexpected Sign Of Colon Cancer That Doctors Urge People Not To Ignore**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMifEFVX3lxTFBPdW1oQnRfdG5ZaXJFM3FSVTR3bWdXRGtfa0J1aWlpenBmUXU0T3lJZml1RGdxOWdVRGNRTVFLOE16MjRHckZ6QUNhNl80SU5jM1AxTmdvWnhDNlJla2xDWXVYTVlFRkg3X1VyWTJzblJMQmM0U3ZVUVhXWUo?oc=5).
+You can read more about it [here](https://www.buzzfeed.com/jillianwilson/colon-cancer-sign-pencil-thin-narrow-stool-sc).
 
 ## Requirements
 - Python 3.8
