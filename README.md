@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chinese ‘spy’ linked to Prince Andrew is ‘tip of the iceberg’**
+**Bashar al-Assad releases first statement since fleeing to Russia**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMinAFBVV95cUxPU05teGpMYVRwZnFKUnpmLWFnblJIdUYtTkd5czNfR2hfVkcxXzcyMUpPMHRmMEhsXzQ4elBKWXMxUE5ONXNkVjVnaUo5dDc1bFZRaUtZaEZXeDItbE1hWkxURVJ6NXd5N1ZuSVJtQ3RYTWFJeDhTLVZmbGZDUTdnbVRsZW1SeFB6eFR3U3MwM2VEUXQzTEtsb29oVVA?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/c5yd0zz5edqo).
 
 ## Requirements
 - Python 3.8
