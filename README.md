@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tua Tagovailoa’s four turnovers sink Dolphins in 20-12 loss to Texans**
+**Steelers will head to playoffs despite Sunday night loss**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoas-four-turnovers-sink-dolphins-in-20-12-loss-to-texans).
+You can read more about it [here](https://www.wtae.com/article/steelers-playoff-bound-2024/63195869).
 
 ## Requirements
 - Python 3.8
