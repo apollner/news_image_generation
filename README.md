@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Black Myth: Wukong Deserved Astro Bot's Game of the Year Award, Says Game Science CEO**
+**Schumer urges Biden admin to deploy "special drone-detection tech" to N.Y. and N.J.**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/12/black-myth-wukong-deserved-astro-bots-game-of-the-year-award-says-game-science-ceo).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxPd1Bpc09FOEJ6OXlhc20tcTl4NjYyMHQ0dXhfa18tdlJGTzhyZkJ4R2NoV2RfMWdkRDFxSm5obURKS2tUcnRuTzNoMmxfeV9tT2NCcmtidTgwTE1aSUc5U1lSQm5oNjk3T0VsMEVmQmNSLUZuNTNFU0pSckE4VWhQaFltLWtHN3dIWFE?oc=5).
 
 ## Requirements
 - Python 3.8
