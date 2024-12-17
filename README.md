@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**This Is One Unexpected Sign Of Colon Cancer That Doctors Urge People Not To Ignore**
+**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
 
-You can read more about it [here](https://www.buzzfeed.com/jillianwilson/colon-cancer-sign-pencil-thin-narrow-stool-sc).
+You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
 
 ## Requirements
 - Python 3.8
