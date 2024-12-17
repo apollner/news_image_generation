@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he’s a ‘believer’ in polio vaccine, and other news conference takeaways**
+**Abundant Life Christian School shooting in Madison: 2 killed, 6 hurt**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxNdkhkakptNUM3MmxOa1ltTHFxSmZ1eUU2NmM0d3ZSaEFGdzViNVh4dk1zQXdRVGdkUkRwQWo4NGE3RmI1ODBWa2xBUEMxZE9RdERXVEcwdHlscVRrNDZ6UF9KSHZDR0o1TmptWm9xOEp0QmMwNEZmeVZRcXZGeHMzNllXZlFrd3VfaDFkaV8tclo1VFpKTXc?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTQxUzlLdWhEb0J3Q3VYb2FTNlRLZ1EyZ08zUlp2UEFaY2h5c2VYR0VQYk9INDdtUU5PTk5LcDc5VTVPTFVhTEkzSW9Gc1VSSWMwTFBvbW4yZEdiMVpHYi00YnpaNWRJTlFWQkliVDlzRVhQSHVmUzRQZDFVdm54eUFlMHBzVEVWT2hudGdiZVZWQi1iMHZMWU5ITFJLM3hSU3M4R2tURdIBrAFBVV95cUxQaEhFdWpfYTBNUzEzcjBvSFN4RFNObTNia2t5WDRaOXFEdFk0aVhXM2ZGOUhRUVBkQWs3aTlGYlZZQlBuV2lYcm1fZ1ZidXI2UnpwWFF6U3JpNF80c21iS1c4cXpaaUI0ekJweVhSNHE4T0I0Wm40bjVCR19Da2kwUmVFb3Rid1E5ckI5WG12UEFJZHVNWTV0ZkprMlJDUGd1d1JGcGtvMFM2QllQ?oc=5).
 
 ## Requirements
 - Python 3.8
