@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Seven hotel guests suffer suspected poisoning after drinking cocktails at 5-star Fiji resort**
+**Vikings clinch postseason berth with Seahawks loss to Packers**
 
-You can read more about it [here](https://www.cnn.com/2024/12/15/world/fiji-tourists-cocktail-drinks-hospitalization-intl-hnk/index.html).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/vikings-clinch-postseason-berth-with-seahawks-loss-to-packers).
 
 ## Requirements
 - Python 3.8
