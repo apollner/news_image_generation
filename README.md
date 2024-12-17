@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s Whisk AI generator will ‘remix’ the pictures you plug in**
+**Syria Live Updates: Al-Assad Wanted to Stay and Fight Rebels, Statement Says**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimAFBVV95cUxQWTBia29XMmppRXV0d2ZRTEJETXVoeDdZMXlDWDA5dDdxYm5Nak9XeC1GLWZkcVJ1QW1ucU13QlRXZkNUenNFNFNBUTNjNk5kU0hQdDl4d3djZGpCU0lyRDFPc0t6UGFZb3BMakhwZFFDcWtBbngwaGdvaF9wckRvU3MxWVhnQnRZekNuTnBDb01TM29ZUDludg?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMieEFVX3lxTE01bTlRNlpnM1lUdWwxblgwZ1pqTTlfa2tKVUFJNHdqTUhJUnIwWlZLUW1xU3V1RE41VHJOQ2JvTllRTGRNeWRtbWQ3WmpndXJhM0w2Z3JWeDBRTHF5S0xvUi1mV0hHM2M0aEwtWC1UOGxNV1JfZTJ4Xw?oc=5).
 
 ## Requirements
 - Python 3.8
