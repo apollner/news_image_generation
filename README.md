@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**48 Absolutely Fascinating Photos Of Injuries, Conditions, And Disorders That Prove Humans Are Freaking Metal**
+**China Races to Squelch Unrest as Signs of Economic Malaise Spread**
 
-You can read more about it [here](https://www.buzzfeed.com/hannahmarder/absolutely-fascinating-body-photos).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkZ4QUtUR0F6Y2o1Y0V0UnlSUkVNdENtVGFrdUVvMWxkckhqRzl6TmNabjhEUm44Unl3WjlKeEJrTU5SVnJnVk9LaDNwWUsyVE4tRGJHWXhCTmprdUN4ZFVqVmlXMnZvNDRudm1zSHVNdXpYcmZDVTl2eEJ5YWZiQzE4Rm92d0FNM2oyT05OSFFkRTR6N0E4TVFzX0pSSUd1MWF5LVJ6d2ltdw?oc=5).
 
 ## Requirements
 - Python 3.8
