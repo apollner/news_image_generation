@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung's Galaxy S25 Ultra color palette leaks out in unprecedented detail**
+**Newsom lost a top aide. Former Harris adviser will take her place.**
 
-You can read more about it [here](https://www.phonearena.com/news/samsung-galaxy-s25-ultra-all-color-options-leaked-unprecedented-detail_id165890).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMEo4T2ZXVkluWkZNWUNZMENiOU5BU0V5TTZENFJISVhfd1BkQ25LSmVvTzZLS2J1c1YzektibTVyWF80Q2o0aEt4NUE2bHY2UXFqTFdXSUZONklCOWhvMmdqMlhoM09aN3pSaXdJbGlReGpoNjk3WDhmNmFYb1FDX3cySkp5MjlyLWZZREF3ZU9SdFBqUmc4QTN1dw?oc=5).
 
 ## Requirements
 - Python 3.8
