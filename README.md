@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How ‘Yellowstone’ Finale Set up Beth & Rip Spinoff and Circled Back to ‘1883’**
+**Samsung's Galaxy S25 Ultra color palette leaks out in unprecedented detail**
 
-You can read more about it [here](https://www.tvinsider.com/1166644/yellowstone-finale-recap-season-5-ranch-sold-jamie-dead-beth-rip-elsa-dutton-1883/).
+You can read more about it [here](https://www.phonearena.com/news/samsung-galaxy-s25-ultra-all-color-options-leaked-unprecedented-detail_id165890).
 
 ## Requirements
 - Python 3.8
