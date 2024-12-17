@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What Killed a $20 Billion Grocery Deal? Albertsons Says Kroger Did**
+**German Chancellor Scholz loses no-confidence vote, paving way for election**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFlYc1I4WkxKaHpkYXdmY2pHNHNLbUpUVDh1Mmp1dWcwc3BGXzZTcElxMjhqOElvWjZhNFJycDJVdFhBZkpCdFZ1cE1ZaExXSFhQUGg1UkMtQjd0VGxxS09nRjZlQ1ZubnJoejVnd1REbmV1QlJBN29zQ3N5cm83S3EyRzJ6MnFPRGtKQkQ1ODd1MjJNbTBxVENOYXZUSWZrWmJ0ZVRkR2o1WS1oM1E?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnB3NzM0bGRzOXNKem96Zmx6VmY1dlVPYTU5RlFxdE9kNlJPNExyUkV6WGhuclZwdnJqMElrakItNDhPN3JMRWhvcW8tTlpLYm5UTFlvUEs4NG1zSWg4dVcwVjRwOVdnZXVtMW5QRXc0dHRlR0JkYmJ3SDJEQTdJVjk4QkUwUFlhaTdrVzFULW8xbVlaX1dVcXhJNURRLVNUdjdNMTc4NVRlR1dIazRETHp3?oc=5).
 
 ## Requirements
 - Python 3.8
