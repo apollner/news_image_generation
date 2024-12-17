@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bashar al-Assad releases first statement since fleeing to Russia**
+**A Statement from the PGA of America on the 2025 Ryder Cup**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5yd0zz5edqo).
+You can read more about it [here](https://www.pga.com/story/a-statement-from-the-pga-of-america-on-the-2025-ryder-cup).
 
 ## Requirements
 - Python 3.8
