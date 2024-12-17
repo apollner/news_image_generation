@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Jamie Foxx gets stitches after a glass is thrown at him during dinner in Beverly Hills**
+**Tua Tagovailoa’s four turnovers sink Dolphins in 20-12 loss to Texans**
 
-You can read more about it [here](https://apnews.com/article/jamie-foxx-beverly-hills-california-mr-chow-5c516fe2ea8f17bb4ef4f6f0b9817514).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/tua-tagovailoas-four-turnovers-sink-dolphins-in-20-12-loss-to-texans).
 
 ## Requirements
 - Python 3.8
