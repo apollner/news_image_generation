@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abundant Life Christian School shooting in Madison: 2 killed, 6 hurt**
+**What Killed a $20 Billion Grocery Deal? Albertsons Says Kroger Did**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTQxUzlLdWhEb0J3Q3VYb2FTNlRLZ1EyZ08zUlp2UEFaY2h5c2VYR0VQYk9INDdtUU5PTk5LcDc5VTVPTFVhTEkzSW9Gc1VSSWMwTFBvbW4yZEdiMVpHYi00YnpaNWRJTlFWQkliVDlzRVhQSHVmUzRQZDFVdm54eUFlMHBzVEVWT2hudGdiZVZWQi1iMHZMWU5ITFJLM3hSU3M4R2tURdIBrAFBVV95cUxQaEhFdWpfYTBNUzEzcjBvSFN4RFNObTNia2t5WDRaOXFEdFk0aVhXM2ZGOUhRUVBkQWs3aTlGYlZZQlBuV2lYcm1fZ1ZidXI2UnpwWFF6U3JpNF80c21iS1c4cXpaaUI0ekJweVhSNHE4T0I0Wm40bjVCR19Da2kwUmVFb3Rid1E5ckI5WG12UEFJZHVNWTV0ZkprMlJDUGd1d1JGcGtvMFM2QllQ?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFlYc1I4WkxKaHpkYXdmY2pHNHNLbUpUVDh1Mmp1dWcwc3BGXzZTcElxMjhqOElvWjZhNFJycDJVdFhBZkpCdFZ1cE1ZaExXSFhQUGg1UkMtQjd0VGxxS09nRjZlQ1ZubnJoejVnd1REbmV1QlJBN29zQ3N5cm83S3EyRzJ6MnFPRGtKQkQ1ODd1MjJNbTBxVENOYXZUSWZrWmJ0ZVRkR2o1WS1oM1E?oc=5).
 
 ## Requirements
 - Python 3.8
