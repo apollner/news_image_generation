@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Live Briefing: Gaza death toll crosses 45,000, Health Ministry says**
+**The Fed’s Game Plan on Interest-Rate Cuts Keeps Shifting**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmwtX3pHN1ZRa0hTdVBrekd4Vm9yWEJiUkcxRVZuOWxwMUQtVFhNTTNTY3RHR0VLTm9HLXZlSmZNc2h6LThsQjNfa0tRb2YzN28wYzJ5MGhwMVRRYXV6V1RKVERJSUp5R0hZc0ViX2VJR01EOG1zZVYyVGRYVDRGVXBWdDMzWDJ2ZU93WG5oalpMNzJuUmc?oc=5).
+You can read more about it [here](https://www.wsj.com/economy/central-banking/fed-interest-rate-cut-outlook-2025-657e718a).
 
 ## Requirements
 - Python 3.8
