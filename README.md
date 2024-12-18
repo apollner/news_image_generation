@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUS01dk9NMng2QXlaZlB4emkwNWI4QVhwMHNNWXpfc1NDVVFSdlppdnFvRUVnT3FIcWdsWWs3WWJDOTVWbUJVZ0NfbnUwRE9MRnhVanVSM1ZsblhEYlotWjB3MGpMQVQza0JvUE00RVZVa3B0dzd2ZnBjUmEtUVNmRm9VYW5WM0hULUHSAYABQVVfeXFMTmZiU1Q1eWVKUU04QzRsNnRFN21KbHpSWE1RV2I5dW1kTUNaR0UyQXBRRzdXZThzc2RjUU1od3VPeGhMdkc0akN3NmtQUnhVNC0xdXhQS1o3Zkd1cHRqRkJqa2JqY3RCYzFJWXFkUFlvSWd3b1JEZjFMcVNmRkNMY0g?oc=5).
 
 ## Requirements
 - Python 3.8
