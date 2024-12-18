@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**RFK Jr. has public health leaders quietly hopeful — and scared as hell**
+**Suddenly, Chaos in Canada’s Politics. That’s a Good Thing.**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/16/rfk-jr-public-health-leaders-worried-hopeful-00194641).
+You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLV9OVXQ4cl9aRlV5ZDBpbFlLRkZGVEJNQjNOYjZkbC0yUVpvTENiaTN0dTFyZjJualIyNW5oQkYtQ0FaUThNcEFTZElHWUUyeDlEODZGblRIUHRIcHRxY3hFcUJWV0VWTEltQ1hZLWtNTzQ1WmJjMTNWSlVjaExTdU96RnUyazhaVXZJT0VrY1VlVkxCbWRpdzhB?oc=5).
 
 ## Requirements
 - Python 3.8
