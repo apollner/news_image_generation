@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Panel warns against vitamin D, calcium use to prevent falls in older adults**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/health/2024/12/17/vitamin-d-warning-older-adults/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
