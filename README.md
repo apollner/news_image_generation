@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Congress’ year-end funding deal ‘not quite there’ ahead of Friday shutdown cliff**
+**Kennedy says he’s ‘all for’ polio vaccine as GOP senators raise questions about his views**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/16/congress-year-end-funding-deal-not-quite-there-ahead-of-friday-shutdown-cliff-00194666).
+You can read more about it [here](https://www.cnn.com/2024/12/16/politics/kennedy-vaccines-gop-senators/index.html).
 
 ## Requirements
 - Python 3.8
