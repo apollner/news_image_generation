@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Synopsis For James Gunn's 'Superman' Arrives Ahead of the First Trailer**
+**How ‘Yellowstone’ Ended for All the Main Characters**
 
-You can read more about it [here](https://collider.com/superman-synopsis-james-gunn/).
+You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/yellowstone-ending-main-characters-1236087864/).
 
 ## Requirements
 - Python 3.8
