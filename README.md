@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**WWE Raw Results – 12/16/24 (Two title matches scheduled, CM Punk responds to Seth “Freakin” Rollins)**
+**Canada's Trudeau on the brink after chaotic day in Ottawa**
 
-You can read more about it [here](https://www.wrestleview.com/wwe-raw-results/336271-live-wwe-raw-results-december-16-2024-boston/).
+You can read more about it [here](https://www.bbc.com/news/articles/c5y49ym6em3o).
 
 ## Requirements
 - Python 3.8
