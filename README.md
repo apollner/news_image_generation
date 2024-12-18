@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DHS, FBI, FAA & DoD Joint Statement on Ongoing Response to Reported Drone Sightings**
+**Congress’ year-end funding deal ‘not quite there’ ahead of Friday shutdown cliff**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGhYUURKbUVtVjVZbHFTNVAwU0N2LUx2WHFJUmpOYlNxLTh5RzVkaWFzSDFtZVgxTW1uVFhDdTA1Um8zVEQ0UGJ1czJfTHdwREZCS1hldERjbjVPbzk0WFhpRXZMeVRxNHVLTUpOd0hBSEVVOENFd2xyTlF5OXpuZTFDV2w5MTFwWnM4TzV1b3JnMVpfeGFTT1czcVZNcmY2bVFxNEdHTm9UTkNqRkE?oc=5).
+You can read more about it [here](https://www.politico.com/news/2024/12/16/congress-year-end-funding-deal-not-quite-there-ahead-of-friday-shutdown-cliff-00194666).
 
 ## Requirements
 - Python 3.8
