@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suspect in Gilgo Beach serial killings is charged in the death of a seventh woman**
+**RFK Jr. has public health leaders quietly hopeful — and scared as hell**
 
-You can read more about it [here](https://apnews.com/article/gilgo-beach-serial-killing-rex-heuermann-9b26b12cc6b75b58ef6e56c4871906f0).
+You can read more about it [here](https://www.politico.com/news/2024/12/16/rfk-jr-public-health-leaders-worried-hopeful-00194641).
 
 ## Requirements
 - Python 3.8
