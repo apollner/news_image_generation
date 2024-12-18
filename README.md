@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Catly dev denies use of generative AI, blockchain, and NFTs**
+**[Removed]**
 
-You can read more about it [here](https://nintendoeverything.com/catly-dev-denies-use-of-generative-ai-blockchain-and-nfts/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
