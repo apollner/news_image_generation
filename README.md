@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Drugmakers Paid PBMs Not to Restrict Opioid Prescriptions**
+**Prince Andrew will not join royals at Sandringham for Christmas**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhRQlhNd3pHOERrVkZhTnJFVUw1Nm5mZG9SUFRkTDhmUVJsemt6UlJyVVZJVVFMUDUweklsc3JRN3g1aWlYT2hkYkRBeV9kVFdFUFhkR0s1TFdsTUt1ZFRUbHBYSUc5XzRMblYyQk1laHU2cjhCZXRYSjBySmE3RlFreklmSnV4OGc?oc=5).
+You can read more about it [here](https://www.bbc.com/news/articles/ce32n0eze87o).
 
 ## Requirements
 - Python 3.8
