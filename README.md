@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How ‘Yellowstone’ Ended for All the Main Characters**
+**Catly dev denies use of generative AI, blockchain, and NFTs**
 
-You can read more about it [here](http://www.hollywoodreporter.com/tv/tv-news/yellowstone-ending-main-characters-1236087864/).
+You can read more about it [here](https://nintendoeverything.com/catly-dev-denies-use-of-generative-ai-blockchain-and-nfts/).
 
 ## Requirements
 - Python 3.8
