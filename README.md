@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee**
+**The Dow just did something it hasn’t done since Jimmy Carter was president**
 
-You can read more about it [here](https://www.cnn.com/2024/12/17/us/cash-app-murder-trial-verdict-bob-lee/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/17/business/dow-stock-market-losing-streak/index.html).
 
 ## Requirements
 - Python 3.8
