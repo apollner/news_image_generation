@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Abundant Life Christian School shooting in Madison: 2 killed, 6 hurt**
+**Funding meltdown foreshadows Johnson’s tough year ahead**
 
-You can read more about it [here](https://abcnews.go.com/US/shooting-reported-christian-school-madison-wisconsin-police/story?id\\u003d116835038).
+You can read more about it [here](https://www.politico.com/news/2024/12/16/funding-meltdown-johnsons-tough-future-00194560).
 
 ## Requirements
 - Python 3.8
