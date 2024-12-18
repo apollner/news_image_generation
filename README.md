@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DHS, FBI, FAA & DoD Joint Statement on Ongoing Response to Reported Drone Sightings**
+**WWE Raw Results – 12/16/24 (Two title matches scheduled, CM Punk responds to Seth “Freakin” Rollins)**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMirgFBVV95cUxORGhYUURKbUVtVjVZbHFTNVAwU0N2LUx2WHFJUmpOYlNxLTh5RzVkaWFzSDFtZVgxTW1uVFhDdTA1Um8zVEQ0UGJ1czJfTHdwREZCS1hldERjbjVPbzk0WFhpRXZMeVRxNHVLTUpOd0hBSEVVOENFd2xyTlF5OXpuZTFDV2w5MTFwWnM4TzV1b3JnMVpfeGFTT1czcVZNcmY2bVFxNEdHTm9UTkNqRkE?oc=5).
+You can read more about it [here](https://www.wrestleview.com/wwe-raw-results/336271-live-wwe-raw-results-december-16-2024-boston/).
 
 ## Requirements
 - Python 3.8
