@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says US military should talk about nature of drone sightings**
+**OpenAI brings its AI-powered web search tool to more ChatGPT users**
 
-You can read more about it [here](https://www.reuters.com/world/us/trump-says-us-military-should-tell-truth-about-drone-sightings-2024-12-16/).
+You can read more about it [here](https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/).
 
 ## Requirements
 - Python 3.8
