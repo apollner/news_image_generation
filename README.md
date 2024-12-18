@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Canada's Trudeau on the brink after chaotic day in Ottawa**
+**Raheem Morris on Kirk Cousins: “He’s got to play better”**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c5y49ym6em3o).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-on-kirk-cousins-hes-got-to-play-better).
 
 ## Requirements
 - Python 3.8
