@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Raheem Morris on Kirk Cousins: “He’s got to play better”**
+**Catly Developer Denies NFT & AI Accusations**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/raheem-morris-on-kirk-cousins-hes-got-to-play-better).
+You can read more about it [here](https://80.lv/articles/the-catly-drama-continues-as-the-developer-denies-nft-accusations/).
 
 ## Requirements
 - Python 3.8
