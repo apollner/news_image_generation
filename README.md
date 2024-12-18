@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**49ers empty De’Vondre Campbell’s locker, remove his name plate**
+**Kennedy says he’s ‘all for’ polio vaccine as GOP senators raise questions about his views**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-empty-devondre-campbells-locker-remove-his-name-plate).
+You can read more about it [here](https://www.cnn.com/2024/12/16/politics/kennedy-vaccines-gop-senators/index.html).
 
 ## Requirements
 - Python 3.8
