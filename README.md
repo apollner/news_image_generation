@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 3 most Windows-like Linux distros you can try because change is hard**
+**Code Assist, Google’s enterprise-focused coding assistant, gets third-party tools**
 
-You can read more about it [here](https://www.zdnet.com/article/the-3-most-windows-like-linux-distros-you-can-try-because-change-is-hard/).
+You can read more about it [here](https://techcrunch.com/2024/12/17/code-assist-googles-enterprise-focused-code-assistant-gets-third-party-tools/).
 
 ## Requirements
 - Python 3.8
