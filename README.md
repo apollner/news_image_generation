@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**An Alabama woman is doing well after the latest experimental pig kidney transplant**
+**Tech consultant found guilty of second-degree murder in stabbing death of Cash App founder Bob Lee**
 
-You can read more about it [here](https://abcnews.go.com/US/wireStory/alabama-woman-after-latest-experimental-pig-kidney-transplant-116862074).
+You can read more about it [here](https://www.cnn.com/2024/12/17/us/cash-app-murder-trial-verdict-bob-lee/index.html).
 
 ## Requirements
 - Python 3.8
