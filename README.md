@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Funding meltdown foreshadows Johnson’s tough year ahead**
+**Is TikTok really getting banned in the US? What we know after court denied petition**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/16/funding-meltdown-johnsons-tough-future-00194560).
+You can read more about it [here](https://www.usatoday.com/story/tech/2024/12/16/tiktok-getting-banned-why-when-trump/77022873007/).
 
 ## Requirements
 - Python 3.8
