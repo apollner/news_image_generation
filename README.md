@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI brings its AI-powered web search tool to more ChatGPT users**
+**The Synopsis For James Gunn's 'Superman' Arrives Ahead of the First Trailer**
 
-You can read more about it [here](https://techcrunch.com/2024/12/16/openai-brings-its-ai-powered-web-search-tool-to-more-chatgpt-users/).
+You can read more about it [here](https://collider.com/superman-synopsis-james-gunn/).
 
 ## Requirements
 - Python 3.8
