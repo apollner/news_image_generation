@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Andrew faces questions over links to accused Chinese spy**
+**Highly pathogenic bird flu confirmed in Alabama: More than 100,000 chickens killed**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMijwFBVV95cUxPZTlOYjZtZ1RWUExRaGFJNzU3aFlKRjFZTDBSUmhjeWZlcDFqLU84TXFWNzgtNEhsOUxmUk11Z3NNYkxsSm15b2o3eXZ1eEE4V1NyZlo0aGVrZGJIZVlMZDRRZ1pVdHYzR1lmM0dvZXIxWG9TSGFYQ3p6YnBndG9vdzlSa2MyakdrRTdVY2l1RQ?oc=5).
+You can read more about it [here](https://www.al.com/news/2024/12/highly-pathogenic-bird-flu-confirmed-in-alabama-more-than-100000-chickens-killed.html).
 
 ## Requirements
 - Python 3.8
