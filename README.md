@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Prince Andrew will not join royals at Sandringham for Christmas**
+**Wisconsin school shooting latest: Attack happened inside classroom, police say**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ce32n0eze87o).
+You can read more about it [here](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTdCb3UycEZEREtUT3dtY2JGdWFMU2VlYzJvam5ETER5Q2kyVG5LTjZ4YWlEdmVpN1hpVXU3aFZoZmt6N2lLZ3Z5ekdiWGRYSWhBN0g3bWVyMEZqWlQwRlk5MVk2Nmd3VlVzWGZydGRpS2lTNmtCNHJid1dZZDdNUmZxRE5uZnRkTk5KemZkMkpzd2hWOXp6ajRKTzF3andvTjJkSDF4YjdkOGI4SDJj0gG0AUFVX3lxTE9XLWlpYm93LW5hMnRlNldRTWkyRGI0QVNHbm9kMXhEZG1vVmw4LUxfcEY5aVNZWlloM1lKa2c3ZGJCbHNWaWxMOWlTczNEeGQ1LXFzTURDM3Z1bTVsOThtUzh4NUd6QmJ2UlUwWkhiODRjWUdQZXNrMUs2bjUwMV9tVFgwTjVNVUdwMlppZm1LaFZkdFdLRkx3bHpUbkRmb3BGMGRTcG5RQ2U5N3FxM3JoUWlIbQ?oc=5).
 
 ## Requirements
 - Python 3.8
