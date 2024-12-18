@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden administration gas export report could upset Trump energy policy**
+**An Alabama woman is doing well after the latest experimental pig kidney transplant**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/17/biden-gas-export-trump-00194824).
+You can read more about it [here](https://abcnews.go.com/US/wireStory/alabama-woman-after-latest-experimental-pig-kidney-transplant-116862074).
 
 ## Requirements
 - Python 3.8
