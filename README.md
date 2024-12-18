@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Is TikTok really getting banned in the US? What we know after court denied petition**
+**49ers empty De’Vondre Campbell’s locker, remove his name plate**
 
-You can read more about it [here](https://www.usatoday.com/story/tech/2024/12/16/tiktok-getting-banned-why-when-trump/77022873007/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/49ers-empty-devondre-campbells-locker-remove-his-name-plate).
 
 ## Requirements
 - Python 3.8
