@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kennedy says he’s ‘all for’ polio vaccine as GOP senators raise questions about his views**
+**Broadcom CEO sounds alarm on crucial shift in AI-chip market**
 
-You can read more about it [here](https://www.cnn.com/2024/12/16/politics/kennedy-vaccines-gop-senators/index.html).
+You can read more about it [here](https://www.thestreet.com/technology/broadcom-ceo-sounds-alarm-on-crucial-shift-in-ai-chip-market).
 
 ## Requirements
 - Python 3.8
