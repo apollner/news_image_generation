@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Suddenly, Chaos in Canada’s Politics. That’s a Good Thing.**
+**Drugmakers Paid PBMs Not to Restrict Opioid Prescriptions**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMimgFBVV95cUxQLV9OVXQ4cl9aRlV5ZDBpbFlLRkZGVEJNQjNOYjZkbC0yUVpvTENiaTN0dTFyZjJualIyNW5oQkYtQ0FaUThNcEFTZElHWUUyeDlEODZGblRIUHRIcHRxY3hFcUJWV0VWTEltQ1hZLWtNTzQ1WmJjMTNWSlVjaExTdU96RnUyazhaVXZJT0VrY1VlVkxCbWRpdzhB?oc=5).
+You can read more about it [here](https://news.google.com/rss/articles/CBMiigFBVV95cUxQSVhRQlhNd3pHOERrVkZhTnJFVUw1Nm5mZG9SUFRkTDhmUVJsemt6UlJyVVZJVVFMUDUweklsc3JRN3g1aWlYT2hkYkRBeV9kVFdFUFhkR0s1TFdsTUt1ZFRUbHBYSUc5XzRMblYyQk1laHU2cjhCZXRYSjBySmE3RlFreklmSnV4OGc?oc=5).
 
 ## Requirements
 - Python 3.8
