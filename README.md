@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Luigi Mangione's mom questioned by police 1 day before accused CEO slayer was captured**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.foxnews.com/us/luigi-mangiones-mom-questioned-police-one-day-before-accused-ceo-slayer-captured).
 
 ## Requirements
 - Python 3.8
