@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The December Federal Reserve Meeting Started Tuesday—What You Need to Know**
+**Madison, Wis., residents hold candlelight vigil as police search for motive in school shooting: Here’s what we know so far**
 
-You can read more about it [here](https://www.investopedia.com/the-december-2024-federal-reserve-meeting-started-tuesday-what-you-need-to-know-8762953).
+You can read more about it [here](https://www.yahoo.com/news/madison-wis-residents-hold-candlelight-vigil-as-police-search-for-motive-in-school-shooting-heres-what-we-know-so-far-235738651.html).
 
 ## Requirements
 - Python 3.8
