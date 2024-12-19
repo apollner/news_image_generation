@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Consumer watchdog takes aim at credit-card rewards programs**
+**What’s known about the brazen bombing that killed a top Russian general in Moscow**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/12/18/credit-card-rewards-warning-cfpb/).
+You can read more about it [here](https://apnews.com/article/russia-ukraine-war-general-bomb-suspect-arrested-817ba9cd738fb09e673c261f21a4c1ff).
 
 ## Requirements
 - Python 3.8
