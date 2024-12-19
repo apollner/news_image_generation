@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Atlanta Falcons name Michael Penix Jr. the starting quarterback**
+**How a tiff over tariffs exposed the Canadian government’s fragility**
 
-You can read more about it [here](https://www.atlantafalcons.com/news/atlanta-falcons-name-michael-penix-jr-the-starting-quarterback-kirk-cousins).
+You can read more about it [here](https://www.vox.com/world-politics/391464/canada-chrystia-freeland-justin-trudeau-tariffs-trump-trade-war).
 
 ## Requirements
 - Python 3.8
