@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What’s known about the brazen bombing that killed a top Russian general in Moscow**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/russia-ukraine-war-general-bomb-suspect-arrested-817ba9cd738fb09e673c261f21a4c1ff).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
