@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-check: Drones were not tracking missing radioactive material in New Jersey**
+**Trump nominates ex-US Senate candidate Herschel Walker as ambassador to Bahamas**
 
-You can read more about it [here](https://abcnews.go.com/US/fact-check-radioactive-material-triggered-drone-theories-missing/story?id\\u003d116884712).
+You can read more about it [here](https://www.yahoo.com/news/trump-nominates-ex-us-senate-023121698.html).
 
 ## Requirements
 - Python 3.8
