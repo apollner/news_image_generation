@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Small, tight-knit community in Madison, Wisconsin, reeling from school shooting as authorities continue to seek answers**
+**[Removed]**
 
-You can read more about it [here](https://www.cnn.com/2024/12/18/us/madison-school-shooting-wednesday/index.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
