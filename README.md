@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Iran's Revolutionary Guards extend control over Tehran's oil exports, sources say**
+**Atlanta Falcons name Michael Penix Jr. the starting quarterback**
 
-You can read more about it [here](https://www.reuters.com/world/middle-east/irans-revolutionary-guards-extend-control-over-tehrans-oil-exports-sources-say-2024-12-18/).
+You can read more about it [here](https://www.atlantafalcons.com/news/atlanta-falcons-name-michael-penix-jr-the-starting-quarterback-kirk-cousins).
 
 ## Requirements
 - Python 3.8
