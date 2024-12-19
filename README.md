@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fact-check: Drones were not tracking missing radioactive material in New Jersey**
+**12 people found dead inside restaurant at popular ski resort**
 
-You can read more about it [here](https://abcnews.go.com/US/fact-check-radioactive-material-triggered-drone-theories-missing/story?id\\u003d116884712).
+You can read more about it [here](https://abcnews.go.com/International/12-people-found-dead-inside-restaurant-popular-ski/story?id\\u003d116895267).
 
 ## Requirements
 - Python 3.8
