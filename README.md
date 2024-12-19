@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow futures bounce after nine-day losing streak; traders await Fed decision: Live updates**
+**'Cancer ghosting' can be more painful than treatment, survivors say**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.npr.org/2024/12/18/nx-s1-5179011/cancer-ghosting-survivorship-young-survivors).
 
 ## Requirements
 - Python 3.8
