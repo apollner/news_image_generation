@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Michael Vick agrees to become head coach at Norfolk State, his first coaching job in football**
+**Small, tight-knit community in Madison, Wisconsin, reeling from school shooting as authorities continue to seek answers**
 
-You can read more about it [here](https://www.cnn.com/2024/12/18/sport/michael-vick-norfolk-state-head-coach-spt-intl/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/18/us/madison-school-shooting-wednesday/index.html).
 
 ## Requirements
 - Python 3.8
