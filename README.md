@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Madison, Wis., residents hold candlelight vigil as police search for motive in school shooting: Here’s what we know so far**
+**Reports of Drone Incursions Taken Seriously, DOD Spokesman Says**
 
-You can read more about it [here](https://www.yahoo.com/news/madison-wis-residents-hold-candlelight-vigil-as-police-search-for-motive-in-school-shooting-heres-what-we-know-so-far-235738651.html).
+You can read more about it [here](https://www.defense.gov/News/News-Stories/Article/Article/4008836/reports-of-drone-incursions-taken-seriously-dod-spokesman-says/).
 
 ## Requirements
 - Python 3.8
