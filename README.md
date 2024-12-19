@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The Dow just did something it hasn’t done since Jimmy Carter was president**
+**Google’s new AI tool uses image prompts instead of text**
 
-You can read more about it [here](https://www.cnn.com/2024/12/17/business/dow-stock-market-losing-streak/index.html).
+You can read more about it [here](https://www.cnn.com/2024/12/17/business/google-ai-whisk-image-prompts/index.html).
 
 ## Requirements
 - Python 3.8
