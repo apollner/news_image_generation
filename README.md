@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed expected to combine interest rate cut with hawkish 2025 outlook**
+**iPhone 17 Pro Rumored to Stick With 'Triangular' Camera Design**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-expected-combine-interest-rate-cut-with-hawkish-2025-outlook-2024-12-18/).
+You can read more about it [here](https://www.macrumors.com/2024/12/18/iphone-17-pro-to-stick-with-triangular-camera/).
 
 ## Requirements
 - Python 3.8
