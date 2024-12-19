@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**iPhone 17 Pro Rumored to Stick With 'Triangular' Camera Design**
+**UniCredit raises stake in Commerzbank to 28% as Orcel ups ante on pursuit**
 
-You can read more about it [here](https://www.macrumors.com/2024/12/18/iphone-17-pro-to-stick-with-triangular-camera/).
+You can read more about it [here](https://www.cnbc.com/2024/12/18/unicredit-raises-stake-in-commerzbank-to-28percent-through-derivatives.html).
 
 ## Requirements
 - Python 3.8
