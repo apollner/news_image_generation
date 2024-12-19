@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump nominates ex-US Senate candidate Herschel Walker as ambassador to Bahamas**
+**Oscars: Original Song Shortlist Sees Miley Cyrus ‘Last Showgirl’ Tune Snubbed; Lin-Manuel Miranda Eyeing EGOT; Diane Warren’s Possible 16th Nom & More**
 
-You can read more about it [here](https://www.yahoo.com/news/trump-nominates-ex-us-senate-023121698.html).
+You can read more about it [here](http://deadline.com/2024/12/oscars-original-song-short-list-miley-cyrus-snub-lin-manuel-miranda-1236209084/).
 
 ## Requirements
 - Python 3.8
