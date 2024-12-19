@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches 2 mPOWER satellites from Florida on 2nd leg of spaceflight doubleheader (video)**
+**[Removed]**
 
-You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-2-mpower-communication-satellites-from-florida).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
