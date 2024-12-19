@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a tiff over tariffs exposed the Canadian government’s fragility**
+**Fact-check: Drones were not tracking missing radioactive material in New Jersey**
 
-You can read more about it [here](https://www.vox.com/world-politics/391464/canada-chrystia-freeland-justin-trudeau-tariffs-trump-trade-war).
+You can read more about it [here](https://abcnews.go.com/US/fact-check-radioactive-material-triggered-drone-theories-missing/story?id\\u003d116884712).
 
 ## Requirements
 - Python 3.8
