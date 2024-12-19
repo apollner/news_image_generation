@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Bucks vs. Thunder score: Live updates for NBA Cup final, prize money for 2024 bracket winners**
+**Vick takes Norfolk State job, former NFL QB says**
 
-You can read more about it [here](https://www.cbssports.com/nba/news/bucks-vs-thunder-score-live-updates-for-nba-cup-final-prize-money-for-2024-bracket-winners/live/).
+You can read more about it [here](https://www.espn.com/college-football/story/_/id/43029944/ex-nfl-star-mike-vick-plans-take-norfolk-state-job).
 
 ## Requirements
 - Python 3.8
