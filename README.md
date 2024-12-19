@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vick takes Norfolk State job, former NFL QB says**
+**Iran's Revolutionary Guards extend control over Tehran's oil exports, sources say**
 
-You can read more about it [here](https://www.espn.com/college-football/story/_/id/43029944/ex-nfl-star-mike-vick-plans-take-norfolk-state-job).
+You can read more about it [here](https://www.reuters.com/world/middle-east/irans-revolutionary-guards-extend-control-over-tehrans-oil-exports-sources-say-2024-12-18/).
 
 ## Requirements
 - Python 3.8
