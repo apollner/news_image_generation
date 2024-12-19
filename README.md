@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UniCredit raises stake in Commerzbank to 28% as Orcel ups ante on pursuit**
+**Michael Vick agrees to become head coach at Norfolk State, his first coaching job in football**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/18/unicredit-raises-stake-in-commerzbank-to-28percent-through-derivatives.html).
+You can read more about it [here](https://www.cnn.com/2024/12/18/sport/michael-vick-norfolk-state-head-coach-spt-intl/index.html).
 
 ## Requirements
 - Python 3.8
