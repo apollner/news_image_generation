@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump nominates ex-US Senate candidate Herschel Walker as ambassador to Bahamas**
+**12 people found dead inside restaurant at popular ski resort**
 
-You can read more about it [here](https://www.yahoo.com/news/trump-nominates-ex-us-senate-023121698.html).
+You can read more about it [here](https://abcnews.go.com/International/12-people-found-dead-inside-restaurant-popular-ski/story?id\\u003d116895267).
 
 ## Requirements
 - Python 3.8
