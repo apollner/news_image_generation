@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fed expected to combine interest rate cut with hawkish 2025 outlook**
+**Dow futures bounce after nine-day losing streak; traders await Fed decision: Live updates**
 
-You can read more about it [here](https://www.reuters.com/markets/us/fed-expected-combine-interest-rate-cut-with-hawkish-2025-outlook-2024-12-18/).
+You can read more about it [here](https://www.cnbc.com/2024/12/17/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
