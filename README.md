@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nasa astronauts Butch and Suni face further delay in homcoming**
+**Gaza mediators intensify ceasefire efforts, Israeli strikes kill 20 people**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c30nze6e4geo).
+You can read more about it [here](https://www.reuters.com/world/middle-east/gaza-mediators-intensify-ceasefire-efforts-israeli-strikes-kill-16-people-2024-12-18/).
 
 ## Requirements
 - Python 3.8
