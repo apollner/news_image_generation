@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google’s new AI tool uses image prompts instead of text**
+**SpaceX launches 2 mPOWER satellites from Florida on 2nd leg of spaceflight doubleheader (video)**
 
-You can read more about it [here](https://www.cnn.com/2024/12/17/business/google-ai-whisk-image-prompts/index.html).
+You can read more about it [here](https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-2-mpower-communication-satellites-from-florida).
 
 ## Requirements
 - Python 3.8
