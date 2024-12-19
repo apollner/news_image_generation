@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Governor Newsom takes proactive action to strengthen robust state response to Bird Flu**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.gov.ca.gov/2024/12/18/governor-newsom-takes-proactive-action-to-strengthen-robust-state-response-to-bird-flu/).
 
 ## Requirements
 - Python 3.8
