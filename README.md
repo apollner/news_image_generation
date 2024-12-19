@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Cancer ghosting' can be more painful than treatment, survivors say**
+**Nasa astronauts Butch and Suni face further delay in homcoming**
 
-You can read more about it [here](https://www.npr.org/2024/12/18/nx-s1-5179011/cancer-ghosting-survivorship-young-survivors).
+You can read more about it [here](https://www.bbc.com/news/articles/c30nze6e4geo).
 
 ## Requirements
 - Python 3.8
