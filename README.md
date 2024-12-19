@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brazil Traders ‘Sell First, Ask Later’ as Panic Sweeps Markets**
+**Fed expected to combine interest rate cut with hawkish 2025 outlook**
 
-You can read more about it [here](https://finance.yahoo.com/news/brazil-traders-sell-first-ask-222643785.html).
+You can read more about it [here](https://www.reuters.com/markets/us/fed-expected-combine-interest-rate-cut-with-hawkish-2025-outlook-2024-12-18/).
 
 ## Requirements
 - Python 3.8
