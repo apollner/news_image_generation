@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**OpenAI makes ChatGPT available for phone calls and texts**
+**Consumer watchdog takes aim at credit-card rewards programs**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/12/18/credit-card-rewards-warning-cfpb/).
 
 ## Requirements
 - Python 3.8
