@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oscars: Original Song Shortlist Sees Miley Cyrus ‘Last Showgirl’ Tune Snubbed; Lin-Manuel Miranda Eyeing EGOT; Diane Warren’s Possible 16th Nom & More**
+**Brazil Traders ‘Sell First, Ask Later’ as Panic Sweeps Markets**
 
-You can read more about it [here](http://deadline.com/2024/12/oscars-original-song-short-list-miley-cyrus-snub-lin-manuel-miranda-1236209084/).
+You can read more about it [here](https://finance.yahoo.com/news/brazil-traders-sell-first-ask-222643785.html).
 
 ## Requirements
 - Python 3.8
