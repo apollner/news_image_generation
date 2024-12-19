@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**CDC Confirms First Severe Case of H5N1 Bird Flu in the United States**
+**U.S. auto sales next year expected to be best since 2019**
 
-You can read more about it [here](https://www.cdc.gov/media/releases/2024/m1218-h5n1-flu.html).
+You can read more about it [here](https://www.cnbc.com/2024/12/18/2025-us-auto-sales-forecast.html).
 
 ## Requirements
 - Python 3.8
