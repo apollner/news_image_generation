@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. auto sales next year expected to be best since 2019**
+**OpenAI makes ChatGPT available for phone calls and texts**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/18/2025-us-auto-sales-forecast.html).
+You can read more about it [here](https://www.cnbc.com/2024/12/18/openai-makes-chatgpt-available-for-phone-chats.html).
 
 ## Requirements
 - Python 3.8
