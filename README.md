@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyclone leaves Indian Ocean island in ruins, photos show**
+**Eli Lilly’s Weight-Loss Drug Zepbound Shortage Is Officially Over: FDA**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/12/19/cyclone-leaves-indian-ocean-island-ruins-photos-show/).
+You can read more about it [here](https://www.barrons.com/articles/eli-lilly-zepbound-mounjaro-shortage-weight-loss-drugs-0c78e9c4).
 
 ## Requirements
 - Python 3.8
