@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Exclusive: Google’s Gemini is forcing contractors to rate AI responses outside their expertise**
+**Dow plummets 1,100 points after Fed scales back plans for interest rate cuts**
 
-You can read more about it [here](https://techcrunch.com/2024/12/18/exclusive-googles-gemini-is-forcing-contractors-to-rate-ai-responses-outside-their-expertise/).
+You can read more about it [here](https://abcnews.go.com/Business/dow-plummets-1100-points-after-fed-scales-back/story?id\\u003d116923071).
 
 ## Requirements
 - Python 3.8
