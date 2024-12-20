@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow Jones Futures Rise After Fed Sell-Off; Tesla, Nvidia Bounce As Micron Dives**
+**Wisconsin school shooter was in contact with California man plotting his own attack, court documents say**
 
-You can read more about it [here](https://www.investors.com/market-trend/stock-market-today/dow-jones-rise-fed-outlook-tesla-nvidia-bounce-micron-dives/).
+You can read more about it [here](https://www.cbsnews.com/news/wisconsin-shooter-was-in-contact-with-california-man-plotting-his-own-attack-court-documents-say/).
 
 ## Requirements
 - Python 3.8
