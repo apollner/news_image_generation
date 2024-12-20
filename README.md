@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyclone leaves Indian Ocean island in ruins, photos show**
+**France’s landmark mass rape trial is over. But the Pelicot case demonstrates that systemic violence against women runs deep**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/12/19/cyclone-leaves-indian-ocean-island-ruins-photos-show/).
+You can read more about it [here](https://www.cnn.com/2024/12/19/europe/pelicot-trial-consent-analysis-intl/index.html).
 
 ## Requirements
 - Python 3.8
