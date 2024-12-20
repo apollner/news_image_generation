@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Apple pushed hard by EU to make iOS and iPadOS more interoperable**
+**Google releases its own ‘reasoning’ AI model**
 
-You can read more about it [here](https://www.theverge.com/2024/12/19/24324894/apple-eu-ios-interoperability-requests-dma-pushback).
+You can read more about it [here](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/).
 
 ## Requirements
 - Python 3.8
