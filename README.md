@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Governor Newsom takes proactive action to strengthen robust state response to Bird Flu**
+**Doug Gottlieb’s UW-Green Bay falls to D-II opponent after he called it ‘Nobody U’**
 
-You can read more about it [here](https://www.gov.ca.gov/2024/12/18/governor-newsom-takes-proactive-action-to-strengthen-robust-state-response-to-bird-flu/).
+You can read more about it [here](https://sports.yahoo.com/doug-gottliebs-uw-green-bay-falls-to-d-ii-opponent-after-he-called-it-nobody-u-203847550.html).
 
 ## Requirements
 - Python 3.8
