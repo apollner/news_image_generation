@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**November home sales surged more than expected, boosted by lower mortgage rates**
+**Schools closed or delayed, driving difficult across Minnesota as snow continues to fall**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/19/november-home-sales-surged-more-than-expected.html).
+You can read more about it [here](https://www.mprnews.org/story/2024/12/19/minnesota-snow-road-conditions-school-closings).
 
 ## Requirements
 - Python 3.8
