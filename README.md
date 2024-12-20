@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**DOJ files complaint against CVS for facilitating unlawful sale of prescription opioids**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://apnews.com/article/cvs-lawsuit-prescriptions-opioids-justice-department-b402388119be1a3213268a442acd67e6).
 
 ## Requirements
 - Python 3.8
