@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**France’s landmark mass rape trial is over. But the Pelicot case demonstrates that systemic violence against women runs deep**
+**Mahomes likely to start vs. Texans, Reid says**
 
-You can read more about it [here](https://www.cnn.com/2024/12/19/europe/pelicot-trial-consent-analysis-intl/index.html).
+You can read more about it [here](https://www.espn.com/nfl/story/_/id/43062143/chiefs-mahomes-most-likely-start-vs-texans-reid-says).
 
 ## Requirements
 - Python 3.8
