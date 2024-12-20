@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Google releases its own ‘reasoning’ AI model**
+**Leaked Unpacked Event teaser image reveals Galaxy S25 series launch for next month**
 
-You can read more about it [here](https://techcrunch.com/2024/12/19/google-releases-its-own-reasoning-ai-model/).
+You can read more about it [here](https://www.androidcentral.com/phones/galaxy-s25-series-to-come-on-january-22-2025-leaked-image-suggests).
 
 ## Requirements
 - Python 3.8
