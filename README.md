@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California ground squirrels stun researchers with ‘shocking’ predatory behavior**
+**Ocasio-Cortez: 'Damn You Know It’s Bad When Even Trump Is Feeling Bad For Me'**
 
-You can read more about it [here](https://www.sfchronicle.com/california/article/california-ground-squirrels-hunting-voles-19988759.php).
+You can read more about it [here](https://www.huffpost.com/entry/aoc-damn-you-know-its-bad-when-even-trump-is-feeling-bad-for-me_n_676354ace4b0f283a8092fd3).
 
 ## Requirements
 - Python 3.8
