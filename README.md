@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow plummets 1,100 points after Fed scales back plans for interest rate cuts**
+**'Neighbors you wanted to have': West Valley residents react after family found dead**
 
-You can read more about it [here](https://abcnews.go.com/Business/dow-plummets-1100-points-after-fed-scales-back/story?id\\u003d116923071).
+You can read more about it [here](https://kutv.com/news/local/neighbors-you-wanted-to-have-west-valley-residents-react-after-family-found-dead).
 
 ## Requirements
 - Python 3.8
