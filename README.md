@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dealmakers bet that Trump will fuel mega-deal rebound**
+**2024 College Football Playoff bracket: One fatal flaw for all 12 teams competing for a national championship**
 
-You can read more about it [here](https://www.ft.com/content/ad93c014-e083-488e-905e-f8f0076011d6).
+You can read more about it [here](https://www.cbssports.com/college-football/news/2024-college-football-playoff-bracket-one-fatal-flaw-for-all-12-teams-competing-for-a-national-championship/).
 
 ## Requirements
 - Python 3.8
