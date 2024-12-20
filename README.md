@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California declared an emergency over bird flu. How serious is the situation?**
+**[Removed]**
 
-You can read more about it [here](https://apnews.com/article/bird-flu-h5n1-spread-people-e5edab844b409b8ba21feaecb10156d0).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
