@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump opposes Johnson's spending deal to avert government shutdown**
+**Dealmakers bet that Trump will fuel mega-deal rebound**
 
-You can read more about it [here](https://www.axios.com/2024/12/18/fox-news-trump-johnson-spending-bill).
+You can read more about it [here](https://www.ft.com/content/ad93c014-e083-488e-905e-f8f0076011d6).
 
 ## Requirements
 - Python 3.8
