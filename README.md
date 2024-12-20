@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Doug Gottlieb’s UW-Green Bay falls to D-II opponent after he called it ‘Nobody U’**
+**Diego Pavia granted eligibility for 2025 season: Vanderbilt QB wins injunction in antitrust case vs. NCAA**
 
-You can read more about it [here](https://sports.yahoo.com/doug-gottliebs-uw-green-bay-falls-to-d-ii-opponent-after-he-called-it-nobody-u-203847550.html).
+You can read more about it [here](https://www.cbssports.com/college-football/news/diego-pavia-granted-eligibility-for-2025-season-vanderbilt-qb-wins-injunction-in-antitrust-case-vs-ncaa/).
 
 ## Requirements
 - Python 3.8
