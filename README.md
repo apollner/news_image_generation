@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**UnitedHealthcare CEO killing latest: Luigi Mangione to waive extradition**
+**California ground squirrels stun researchers with ‘shocking’ predatory behavior**
 
-You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-luigi-mangione-waives-extradition/story?id\\u003d116899787).
+You can read more about it [here](https://www.sfchronicle.com/california/article/california-ground-squirrels-hunting-voles-19988759.php).
 
 ## Requirements
 - Python 3.8
