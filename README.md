@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock Market Today: World shares track Wall Street's selloff after Fed hints at 2 rate cuts in 2025**
+**[Removed]**
 
-You can read more about it [here](https://finance.yahoo.com/news/stock-market-today-asian-shares-050926697.html).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
