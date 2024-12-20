@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Leaked Unpacked Event teaser image reveals Galaxy S25 series launch for next month**
+**California declared an emergency over bird flu. How serious is the situation?**
 
-You can read more about it [here](https://www.androidcentral.com/phones/galaxy-s25-series-to-come-on-january-22-2025-leaked-image-suggests).
+You can read more about it [here](https://apnews.com/article/bird-flu-h5n1-spread-people-e5edab844b409b8ba21feaecb10156d0).
 
 ## Requirements
 - Python 3.8
