@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Diego Pavia granted eligibility for 2025 season: Vanderbilt QB wins injunction in antitrust case vs. NCAA**
+**UnitedHealthcare CEO killing latest: Luigi Mangione to waive extradition**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/diego-pavia-granted-eligibility-for-2025-season-vanderbilt-qb-wins-injunction-in-antitrust-case-vs-ncaa/).
+You can read more about it [here](https://abcnews.go.com/US/unitedhealthcare-ceo-killing-latest-luigi-mangione-waives-extradition/story?id\\u003d116899787).
 
 ## Requirements
 - Python 3.8
