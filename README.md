@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Video shows California ground squirrel engage in 'shocking' carnivorous activity**
+**Dow futures are little changed after index drops 1,100 points in 10th straight loss: Live updates**
 
-You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/12/18/california-ground-squirrel-carnivore-video/77074585007/).
+You can read more about it [here](https://www.cnbc.com/2024/12/18/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
