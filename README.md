@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The moon may be older than previously thought, study finds**
+**Exclusive: Google’s Gemini is forcing contractors to rate AI responses outside their expertise**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/moon-age-older-study-rcna184499).
+You can read more about it [here](https://techcrunch.com/2024/12/18/exclusive-googles-gemini-is-forcing-contractors-to-rate-ai-responses-outside-their-expertise/).
 
 ## Requirements
 - Python 3.8
