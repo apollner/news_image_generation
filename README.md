@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**West Valley father believed to have shot, killed family members then himself**
+**Trump opposes Johnson's spending deal to avert government shutdown**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNk9NR2hPdmE2OXVBZDZ6UTJRUTV0b0V2OEJScGIzNWRDUV9kWmdIUFpKTUc2aTE4cWFoM2lvWUdRWU9yZVl6bUJjdDRSNXRMLXdKTW9JdTJKM2RmQ2dSS1VxRE9sY3BWY3lsNi1oUHp2aWdGelFjRVM1SVZCU09oc09WNVZtTHFNNWtUWGNmUlJkYmVoR3AzbHpZTjhwNkpM?oc=5).
+You can read more about it [here](https://www.axios.com/2024/12/18/fox-news-trump-johnson-spending-bill).
 
 ## Requirements
 - Python 3.8
