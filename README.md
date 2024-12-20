@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2024 College Football Playoff bracket: One fatal flaw for all 12 teams competing for a national championship**
+**Dow futures are little changed after index drops 1,100 points in 10th straight loss: Live updates**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/2024-college-football-playoff-bracket-one-fatal-flaw-for-all-12-teams-competing-for-a-national-championship/).
+You can read more about it [here](https://www.cnbc.com/2024/12/18/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
