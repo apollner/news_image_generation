@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dow futures are little changed after index drops 1,100 points in 10th straight loss: Live updates**
+**West Valley father believed to have shot, killed family members then himself**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/18/stock-market-today-live-updates.html).
+You can read more about it [here](https://news.google.com/rss/articles/CBMioAFBVV95cUxPNk9NR2hPdmE2OXVBZDZ6UTJRUTV0b0V2OEJScGIzNWRDUV9kWmdIUFpKTUc2aTE4cWFoM2lvWUdRWU9yZVl6bUJjdDRSNXRMLXdKTW9JdTJKM2RmQ2dSS1VxRE9sY3BWY3lsNi1oUHp2aWdGelFjRVM1SVZCU09oc09WNVZtTHFNNWtUWGNmUlJkYmVoR3AzbHpZTjhwNkpM?oc=5).
 
 ## Requirements
 - Python 3.8
