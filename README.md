@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Cyclone leaves Indian Ocean island in ruins, photos show**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/12/19/cyclone-leaves-indian-ocean-island-ruins-photos-show/).
 
 ## Requirements
 - Python 3.8
