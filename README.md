@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**November home sales surged more than expected, boosted by lower mortgage rates**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnbc.com/2024/12/19/november-home-sales-surged-more-than-expected.html).
 
 ## Requirements
 - Python 3.8
