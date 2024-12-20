@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Millions of people may get expanded Social Security benefits. Who are they and how would it happen?**
+**What a government shutdown could mean for holiday air travel**
 
-You can read more about it [here](https://apnews.com/article/social-security-changes-congress-pensions-3a8d55e0d236d2ee01abce6d94a60d0c).
+You can read more about it [here](https://www.axios.com/2024/12/19/holiday-air-travel-government-shutdown-tsa).
 
 ## Requirements
 - Python 3.8
