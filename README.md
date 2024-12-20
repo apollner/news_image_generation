@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Neighbors you wanted to have': West Valley residents react after family found dead**
+**[Removed]**
 
-You can read more about it [here](https://kutv.com/news/local/neighbors-you-wanted-to-have-west-valley-residents-react-after-family-found-dead).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
