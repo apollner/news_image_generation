@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**North Korean troops suffer 100 deaths, struggling in drone warfare, South Korea says**
+**The moon may be older than previously thought, study finds**
 
-You can read more about it [here](https://www.reuters.com/world/north-korea-says-its-alliance-with-russia-very-effective-no-mention-troop-losses-2024-12-18/).
+You can read more about it [here](https://www.nbcnews.com/science/space/moon-age-older-study-rcna184499).
 
 ## Requirements
 - Python 3.8
