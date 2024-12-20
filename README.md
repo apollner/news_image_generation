@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Mahomes likely to start vs. Texans, Reid says**
+**Cyclone leaves Indian Ocean island in ruins, photos show**
 
-You can read more about it [here](https://www.espn.com/nfl/story/_/id/43062143/chiefs-mahomes-most-likely-start-vs-texans-reid-says).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/12/19/cyclone-leaves-indian-ocean-island-ruins-photos-show/).
 
 ## Requirements
 - Python 3.8
