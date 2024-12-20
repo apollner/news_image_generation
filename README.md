@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**What a government shutdown could mean for holiday air travel**
+**Putin Sends Signals To The West On Ukraine Ahead Of Trump's New Term**
 
-You can read more about it [here](https://www.axios.com/2024/12/19/holiday-air-travel-government-shutdown-tsa).
+You can read more about it [here](https://www.rferl.org/a/putin-q-and-a-ukraine-compromise-peace-trump-signals-west/33246088.html).
 
 ## Requirements
 - Python 3.8
