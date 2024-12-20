@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Snow causing difficult travel across Minnesota, snow emergencies issued for Minneapolis and St. Paul**
+**Millions of people may get expanded Social Security benefits. Who are they and how would it happen?**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/12/19/minnesota-snow-road-conditions-school-closings).
+You can read more about it [here](https://apnews.com/article/social-security-changes-congress-pensions-3a8d55e0d236d2ee01abce6d94a60d0c).
 
 ## Requirements
 - Python 3.8
