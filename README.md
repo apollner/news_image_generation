@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**DOJ files complaint against CVS for facilitating unlawful sale of prescription opioids**
+**Video shows California ground squirrel engage in 'shocking' carnivorous activity**
 
-You can read more about it [here](https://apnews.com/article/cvs-lawsuit-prescriptions-opioids-justice-department-b402388119be1a3213268a442acd67e6).
+You can read more about it [here](https://www.usatoday.com/story/news/nation/2024/12/18/california-ground-squirrel-carnivore-video/77074585007/).
 
 ## Requirements
 - Python 3.8
