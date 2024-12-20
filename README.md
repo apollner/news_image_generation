@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Eli Lilly’s Weight-Loss Drug Zepbound Shortage Is Officially Over: FDA**
+**Snow causing difficult travel across Minnesota, snow emergencies issued for Minneapolis and St. Paul**
 
-You can read more about it [here](https://www.barrons.com/articles/eli-lilly-zepbound-mounjaro-shortage-weight-loss-drugs-0c78e9c4).
+You can read more about it [here](https://www.mprnews.org/story/2024/12/19/minnesota-snow-road-conditions-school-closings).
 
 ## Requirements
 - Python 3.8
