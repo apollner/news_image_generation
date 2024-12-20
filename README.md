@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Schools closed or delayed, driving difficult across Minnesota as snow continues to fall**
+**US stocks face headwind from rising yields after Fed signals fewer rate cuts**
 
-You can read more about it [here](https://www.mprnews.org/story/2024/12/19/minnesota-snow-road-conditions-school-closings).
+You can read more about it [here](https://www.reuters.com/markets/us/us-stocks-face-headwind-rising-yields-after-fed-signals-fewer-rate-cuts-2024-12-19/).
 
 ## Requirements
 - Python 3.8
