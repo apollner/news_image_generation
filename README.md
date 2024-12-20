@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ocasio-Cortez: 'Damn You Know It’s Bad When Even Trump Is Feeling Bad For Me'**
+**North Korean troops suffer 100 deaths, struggling in drone warfare, South Korea says**
 
-You can read more about it [here](https://www.huffpost.com/entry/aoc-damn-you-know-its-bad-when-even-trump-is-feeling-bad-for-me_n_676354ace4b0f283a8092fd3).
+You can read more about it [here](https://www.reuters.com/world/north-korea-says-its-alliance-with-russia-very-effective-no-mention-troop-losses-2024-12-18/).
 
 ## Requirements
 - Python 3.8
