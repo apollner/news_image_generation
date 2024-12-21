@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA Fani Willis disqualified from Trump case**
+**Senate advances bill to boost Social Security benefits for millions of people**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c77jdk4k717o).
+You can read more about it [here](https://thehill.com/homenews/senate/5048673-senate-approves-social-security-benefits-bill/).
 
 ## Requirements
 - Python 3.8
