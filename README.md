@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dominique Pelicot's double life: Who is the man who plotted his wife's mass rape?**
+**Fani Willis disqualified from Trump's Georgia election interference case**
 
-You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
+You can read more about it [here](https://www.axios.com/2024/12/19/fani-willis-disqualified-trump-2020-case).
 
 ## Requirements
 - Python 3.8
