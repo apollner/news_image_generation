@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ChatGPT for macOS now works with Apple Notes and more third-party apps**
+**Dominique Pelicot: Who is the man who plotted his wife's mass rape?**
 
-You can read more about it [here](https://9to5mac.com/2024/12/19/chatgpt-macos-apps-apple-notes/).
+You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
 
 ## Requirements
 - Python 3.8
