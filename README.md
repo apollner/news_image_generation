@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian cosmonauts install X-ray detector, jettison trash on spacewalk outside ISS**
+**Talking death with Ben Schwartz, voice of Sonic the Hedgehog**
 
-You can read more about it [here](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-x-ray-detector-jettison-trash-on-spacewalk-outside-iss).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/12/19/ben-schwartz-sonic-the-hedgehog-3/).
 
 ## Requirements
 - Python 3.8
