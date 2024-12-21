@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**‘Gypsy’ Broadway Review: Audra McDonald Takes Her Turn At Momma Rose**
+**Dominique Pelicot: Who is the man who plotted his wife's mass rape?**
 
-You can read more about it [here](http://deadline.com/2024/12/gypsy-broadway-review-audra-mcdonald-1236206662/).
+You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
 
 ## Requirements
 - Python 3.8
