@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Big Lots store closings 2025: Retailer plans to close all stores**
+**Files by Google will support Gemini’s ‘Ask about this PDF’**
 
-You can read more about it [here](https://www.axios.com/2024/12/20/big-lots-stores-closing-list-liquidation-bankruptcy).
+You can read more about it [here](http://9to5google.com/2024/12/20/files-by-google-gemini/).
 
 ## Requirements
 - Python 3.8
