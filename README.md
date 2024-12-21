@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Stock futures tick lower as traders await the Fed’s preferred inflation reading: Live updates**
+**Dominique Pelicot's double life: Who is the man who plotted his wife's mass rape?**
 
-You can read more about it [here](https://www.cnbc.com/2024/12/19/stock-market-today-live-updates.html).
+You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
 
 ## Requirements
 - Python 3.8
