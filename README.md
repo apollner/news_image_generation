@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**US FDA says Lilly’s weight-loss drug shortage is resolved**
+**Google Keep might be joining the ranks of Android system apps**
 
-You can read more about it [here](https://www.cnn.com/2024/12/19/health/fda-lilly-weight-loss-drug-shortage-resolved-reuters/index.html).
+You can read more about it [here](https://www.theverge.com/2024/12/19/24325273/google-keep-note-taking-apps-android-16-smartphones).
 
 ## Requirements
 - Python 3.8
