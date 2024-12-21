@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Next Crew Dragon mission delayed a month**
+**ChatGPT for macOS now works with Apple Notes and more third-party apps**
 
-You can read more about it [here](https://spacenews.com/next-crew-dragon-mission-delayed-a-month/).
+You can read more about it [here](https://9to5mac.com/2024/12/19/chatgpt-macos-apps-apple-notes/).
 
 ## Requirements
 - Python 3.8
