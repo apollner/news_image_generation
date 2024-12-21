@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dominique Pelicot: Who is the man who plotted his wife's mass rape?**
+**Death row inmate Robert Roberson expected to speak before state House committee**
 
-You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
+You can read more about it [here](https://abcnews.go.com/Politics/death-row-inmate-robert-roberson-expected-speak-state/story?id\\u003d116904439).
 
 ## Requirements
 - Python 3.8
