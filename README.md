@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Russian rush-hour missile strike on Kyiv kills one, damages embassies**
+**Warning signs for Trump as Republican rebels defiant**
 
-You can read more about it [here](https://www.reuters.com/business/aerospace-defense/russian-missile-attack-kyiv-injures-two-damages-buildings-officials-say-2024-12-20/).
+You can read more about it [here](https://www.bbc.com/news/articles/c3e3p3nx3kno).
 
 ## Requirements
 - Python 3.8
