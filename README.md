@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**At least one killed and several embassies damaged in ‘barbaric’ Russian missile barrage on Kyiv, Ukraine says**
+**Industry Analyst Argues Either Sony or Microsoft Will Need to Exit the Console Market**
 
-You can read more about it [here](https://www.cnn.com/2024/12/20/europe/one-killed-russian-missile-attack-kyiv-intl/index.html).
+You can read more about it [here](https://www.pushsquare.com/news/2024/12/industry-analyst-argues-either-sony-or-microsoft-will-need-to-exit-the-console-market).
 
 ## Requirements
 - Python 3.8
