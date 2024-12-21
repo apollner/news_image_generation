@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Biden cancels another $4.28 bln in U.S. student loans**
+**The 20 Best Metal Albums of 2024**
 
-You can read more about it [here](https://www.reuters.com/world/us/biden-cancels-another-428-bln-us-student-loans-2024-12-20/).
+You can read more about it [here](http://www.rollingstone.com/music/music-lists/best-metal-albums-2024-1235189635/).
 
 ## Requirements
 - Python 3.8
