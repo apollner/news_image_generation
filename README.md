@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How Clase Azul Built A Billion-Dollar Tequila Business Beyond The Top Shelf**
+**Biden cancels another $4.28 bln in U.S. student loans**
 
-You can read more about it [here](https://www.forbes.com/sites/chloesorvino/2024/12/20/how-clase-azul-tequila-founder-arturo-lomeli-built-a-billion-dollar-brand/).
+You can read more about it [here](https://www.reuters.com/world/us/biden-cancels-another-428-bln-us-student-loans-2024-12-20/).
 
 ## Requirements
 - Python 3.8
