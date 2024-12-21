@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 20 Best Metal Albums of 2024**
+**Key Fed Inflation Rate Cools In November; S&P 500 Rallies**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-lists/best-metal-albums-2024-1235189635/).
+You can read more about it [here](https://www.investors.com/news/economy/federal-reserve-pce-inflation-rate-nov-sp-500/).
 
 ## Requirements
 - Python 3.8
