@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Industry Analyst Argues Either Sony or Microsoft Will Need to Exit the Console Market**
+**Key ally propping up Canada's Trudeau says he will vote to topple him**
 
-You can read more about it [here](https://www.pushsquare.com/news/2024/12/industry-analyst-argues-either-sony-or-microsoft-will-need-to-exit-the-console-market).
+You can read more about it [here](https://www.bbc.com/news/articles/c4glpxpke91o).
 
 ## Requirements
 - Python 3.8
