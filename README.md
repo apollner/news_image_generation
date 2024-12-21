@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key Fed Inflation Rate Cools In November; S&P 500 Rallies**
+**Big Lots store closings 2025: Retailer plans to close all stores**
 
-You can read more about it [here](https://www.investors.com/news/economy/federal-reserve-pce-inflation-rate-nov-sp-500/).
+You can read more about it [here](https://www.axios.com/2024/12/20/big-lots-stores-closing-list-liquidation-bankruptcy).
 
 ## Requirements
 - Python 3.8
