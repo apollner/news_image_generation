@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dems say ‘hell no’ to GOP plan B on government funding, debt ceiling**
+**Nike Pops As Earnings, Revenue Beat Views Under New CEO**
 
-You can read more about it [here](https://thehill.com/homenews/house/5049669-democrats-government-shutdown-debt-ceiling/).
+You can read more about it [here](https://www.investors.com/news/nike-earnings-q2-2025-nike-stock-nke-dow-jones/).
 
 ## Requirements
 - Python 3.8
