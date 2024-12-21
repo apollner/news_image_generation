@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Talking death with Ben Schwartz, voice of Sonic the Hedgehog**
+**Senate advances bill to boost Social Security benefits for millions of people**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/video-games/2024/12/19/ben-schwartz-sonic-the-hedgehog-3/).
+You can read more about it [here](https://thehill.com/homenews/senate/5048673-senate-approves-social-security-benefits-bill/).
 
 ## Requirements
 - Python 3.8
