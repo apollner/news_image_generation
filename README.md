@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Samsung employees make major blunder and get fired after leaking image of upcoming phone**
+**Next Crew Dragon mission delayed a month**
 
-You can read more about it [here](https://www.phonearena.com/news/samsung-fires-employees-for-leaking-image-of-upcoming-flagship-phone_id166034).
+You can read more about it [here](https://spacenews.com/next-crew-dragon-mission-delayed-a-month/).
 
 ## Requirements
 - Python 3.8
