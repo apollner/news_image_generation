@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin's big statement on ending Ukraine war: 'Russia ready to compromise with...'**
+**Vagus nerve stimulation may relieve treatment-resistant depression, study finds**
 
-You can read more about it [here](https://www.hindustantimes.com/world-news/putins-big-statement-on-ending-ukraine-war-russia-ready-to-compromise-with-101734652238366.html).
+You can read more about it [here](https://www.cnn.com/2024/12/19/health/vagus-nerve-stimulation-depression-treatment-wellness/index.html).
 
 ## Requirements
 - Python 3.8
