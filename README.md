@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Death row inmate Robert Roberson expected to speak before state House committee**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/Politics/death-row-inmate-robert-roberson-expected-speak-state/story?id\\u003d116904439).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
