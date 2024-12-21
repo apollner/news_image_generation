@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**FedEx Announces Intent to Separate FedEx Freight, Creating Two Industry-Leading Public Companies**
+**Brady Corbet and Sean Baker on Why It’s Hard Shooting Movies Like ‘The Brutalist’ and ‘Anora’ in America and Why Obsessing Over Box Office Is Trump Coded**
 
-You can read more about it [here](https://www.businesswire.com/news/home/20241219594478/en/FedEx-Announces-Intent-to-Separate-FedEx-Freight-Creating-Two-Industry-Leading-Public-Companies).
+You can read more about it [here](https://variety.com/2024/film/news/brady-corbet-sean-baker-brutalist-anora-directors-budgets-1236249165/).
 
 ## Requirements
 - Python 3.8
