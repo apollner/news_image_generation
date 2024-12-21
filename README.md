@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate advances bill to boost Social Security benefits for millions of people**
+**ChatGPT for macOS now works with Apple Notes and more third-party apps**
 
-You can read more about it [here](https://thehill.com/homenews/senate/5048673-senate-approves-social-security-benefits-bill/).
+You can read more about it [here](https://9to5mac.com/2024/12/19/chatgpt-macos-apps-apple-notes/).
 
 ## Requirements
 - Python 3.8
