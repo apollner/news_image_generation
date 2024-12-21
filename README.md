@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nike Pops As Earnings, Revenue Beat Views Under New CEO**
+**Putin's big statement on ending Ukraine war: 'Russia ready to compromise with...'**
 
-You can read more about it [here](https://www.investors.com/news/nike-earnings-q2-2025-nike-stock-nke-dow-jones/).
+You can read more about it [here](https://www.hindustantimes.com/world-news/putins-big-statement-on-ending-ukraine-war-russia-ready-to-compromise-with-101734652238366.html).
 
 ## Requirements
 - Python 3.8
