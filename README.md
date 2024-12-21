@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Warning signs for Trump as Republican rebels defiant**
+**Novo Crashes 20% After New Obesity Drug Misses Forecasts. Lilly, Viking, Amgen Jump.**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c3e3p3nx3kno).
+You can read more about it [here](https://www.investors.com/news/technology/novo-nordisk-dives-cagrisegma-obesity-drug-trial-eli-lilly-viking-therapeutics/).
 
 ## Requirements
 - Python 3.8
