@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Dominique Pelicot: Who is the man who plotted his wife's mass rape?**
+**Renck: Sean Payton gets greedy at end of first half, and Broncos’ playoff bid gets struck by lightning**
 
-You can read more about it [here](https://www.bbc.com/news/articles/clynx2q93q1o).
+You can read more about it [here](https://www.denverpost.com/2024/12/19/sean-payton-greedy-free-kick-broncos-chargers/).
 
 ## Requirements
 - Python 3.8
