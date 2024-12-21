@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Brady Corbet and Sean Baker on Why It’s Hard Shooting Movies Like ‘The Brutalist’ and ‘Anora’ in America and Why Obsessing Over Box Office Is Trump Coded**
+**US FDA says Lilly’s weight-loss drug shortage is resolved**
 
-You can read more about it [here](https://variety.com/2024/film/news/brady-corbet-sean-baker-brutalist-anora-directors-budgets-1236249165/).
+You can read more about it [here](https://www.cnn.com/2024/12/19/health/fda-lilly-weight-loss-drug-shortage-resolved-reuters/index.html).
 
 ## Requirements
 - Python 3.8
