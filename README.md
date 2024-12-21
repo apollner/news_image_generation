@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fani Willis disqualified from Trump's Georgia election interference case**
+**‘Gypsy’ Broadway Review: Audra McDonald Takes Her Turn At Momma Rose**
 
-You can read more about it [here](https://www.axios.com/2024/12/19/fani-willis-disqualified-trump-2020-case).
+You can read more about it [here](http://deadline.com/2024/12/gypsy-broadway-review-audra-mcdonald-1236206662/).
 
 ## Requirements
 - Python 3.8
