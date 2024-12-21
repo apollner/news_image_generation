@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Novo Crashes 20% After New Obesity Drug Misses Forecasts. Lilly, Viking, Amgen Jump.**
+**How Clase Azul Built A Billion-Dollar Tequila Business Beyond The Top Shelf**
 
-You can read more about it [here](https://www.investors.com/news/technology/novo-nordisk-dives-cagrisegma-obesity-drug-trial-eli-lilly-viking-therapeutics/).
+You can read more about it [here](https://www.forbes.com/sites/chloesorvino/2024/12/20/how-clase-azul-tequila-founder-arturo-lomeli-built-a-billion-dollar-brand/).
 
 ## Requirements
 - Python 3.8
