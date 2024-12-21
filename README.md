@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Lunar Landers Are Headed for Ancient Impact Sites. What You Need to Know**
+**At least one killed and several embassies damaged in ‘barbaric’ Russian missile barrage on Kyiv, Ukraine says**
 
-You can read more about it [here](https://gizmodo.com/two-lunar-landers-are-headed-for-ancient-impact-sites-what-you-need-to-know-2000541102).
+You can read more about it [here](https://www.cnn.com/2024/12/20/europe/one-killed-russian-missile-attack-kyiv-intl/index.html).
 
 ## Requirements
 - Python 3.8
