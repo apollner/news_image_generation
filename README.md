@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Vagus nerve stimulation may relieve treatment-resistant depression, study finds**
+**Fulton County DA Fani Willis disqualified from Trump case**
 
-You can read more about it [here](https://www.cnn.com/2024/12/19/health/vagus-nerve-stimulation-depression-treatment-wellness/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c77jdk4k717o).
 
 ## Requirements
 - Python 3.8
