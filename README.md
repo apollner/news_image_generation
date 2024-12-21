@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Renck: Sean Payton gets greedy at end of first half, and Broncos’ playoff bid gets struck by lightning**
+**Samsung employees make major blunder and get fired after leaking image of upcoming phone**
 
-You can read more about it [here](https://www.denverpost.com/2024/12/19/sean-payton-greedy-free-kick-broncos-chargers/).
+You can read more about it [here](https://www.phonearena.com/news/samsung-fires-employees-for-leaking-image-of-upcoming-flagship-phone_id166034).
 
 ## Requirements
 - Python 3.8
