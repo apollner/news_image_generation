@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Fulton County DA Fani Willis disqualified from Trump case**
+**Russian cosmonauts install X-ray detector, jettison trash on spacewalk outside ISS**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c77jdk4k717o).
+You can read more about it [here](https://www.space.com/space-exploration/international-space-station/russian-cosmonauts-install-x-ray-detector-jettison-trash-on-spacewalk-outside-iss).
 
 ## Requirements
 - Python 3.8
