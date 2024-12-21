@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**U.S. diplomats meet Syrian opposition leader in Damascus**
+**Russian rush-hour missile strike on Kyiv kills one, damages embassies**
 
-You can read more about it [here](https://www.axios.com/2024/12/20/us-syria-diplomats-meet-hts-leader).
+You can read more about it [here](https://www.reuters.com/business/aerospace-defense/russian-missile-attack-kyiv-injures-two-damages-buildings-officials-say-2024-12-20/).
 
 ## Requirements
 - Python 3.8
