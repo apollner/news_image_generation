@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China's Xi urges bigger international role for gambling hub Macau**
+**Stock futures tick lower as traders await the Fed’s preferred inflation reading: Live updates**
 
-You can read more about it [here](https://www.reuters.com/world/china/chinas-xi-urges-bigger-international-role-gambling-hub-macau-2024-12-20/).
+You can read more about it [here](https://www.cnbc.com/2024/12/19/stock-market-today-live-updates.html).
 
 ## Requirements
 - Python 3.8
