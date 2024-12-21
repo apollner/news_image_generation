@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Jim Harbaugh on QB Justin Herbert leading Chargers' comeback win over Broncos: 'It's incredible what he's able to do'**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.nfl.com/news/jim-harbaugh-on-qb-justin-herbert-leading-chargers-comeback-win-over-broncos-it-s-incredible-what-he-s-able-to-do).
 
 ## Requirements
 - Python 3.8
