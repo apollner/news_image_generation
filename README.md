@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Putin Sends Signals To The West On Ukraine Ahead Of Trump's New Term**
+**FedEx Announces Intent to Separate FedEx Freight, Creating Two Industry-Leading Public Companies**
 
-You can read more about it [here](https://www.rferl.org/a/putin-q-and-a-ukraine-compromise-peace-trump-signals-west/33246088.html).
+You can read more about it [here](https://www.businesswire.com/news/home/20241219594478/en/FedEx-Announces-Intent-to-Separate-FedEx-Freight-Creating-Two-Industry-Leading-Public-Companies).
 
 ## Requirements
 - Python 3.8
