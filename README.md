@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two killed and scores injured in Germany as car ploughs into crowd at Christmas market**
+**Ravens cut Diontae Johnson to end disastrous post-trade marriage**
 
-You can read more about it [here](https://news.google.com/rss/articles/CBMivgFBVV95cUxQcGlGMzhZSndBdkFNOWthamIxQ2NVdUx5dFpocGdtT0VMUkFNa3lzcURZdF81Z1VrR2RNSFZIOXVmYXZSQTQwLVJTM29SczUyNktwSkp2OHcwX3NWOXA3cmlLbWdOUFVESzhMVkJpV185d3RIX0twLWZNenhyYTJQOTJjTk4xUFVFeS1INC01TUF3andld01XU1B3S3dQc0RobklKdHNJejhlRGVVbklGSmlrWE1sazc4aHAyXzhn?oc=5).
+You can read more about it [here](https://nypost.com/2024/12/20/sports/ravens-cut-diontae-johnson-to-end-disastrous-post-trade-marriage/).
 
 ## Requirements
 - Python 3.8
