@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How casting makes this 'Gypsy' hit different**
+**Senate passes Social Security Fairness Act**
 
-You can read more about it [here](https://www.npr.org/2024/12/16/nx-s1-5226924/gypsy-audra-mcdonald-broadway).
+You can read more about it [here](https://www.cnn.com/2024/12/21/business/senate-votes-on-social-security-fairness-act-hold/index.html).
 
 ## Requirements
 - Python 3.8
