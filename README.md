@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**The 50 Best Indie Rock Albums of 2024**
+**California backyard chicken owners worried for flock's safety amid avian flu**
 
-You can read more about it [here](http://www.rollingstone.com/music/music-lists/best-indie-rock-albums-2024-1235189650/).
+You can read more about it [here](https://www.kcra.com/article/backyard-chicken-owners-bird-flu/63253364).
 
 ## Requirements
 - Python 3.8
