@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate passes Social Security Fairness Act**
+**4 Ups & 3 Downs From WWE SmackDown (20 Dec - Results & Review)**
 
-You can read more about it [here](https://www.cnn.com/2024/12/21/business/senate-votes-on-social-security-fairness-act-hold/index.html).
+You can read more about it [here](https://whatculture.com/wwe/4-ups-3-downs-from-wwe-smackdown-20-dec-results-review).
 
 ## Requirements
 - Python 3.8
