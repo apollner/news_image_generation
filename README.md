@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Box Office: ‘Sonic the Hedgehog 3’ Dashes to $25 Million Opening Day, ‘Mufasa: The Lion King’ Trails With $13.3 Million**
+**Texas vs. Clemson live stream, where to watch, TV channel, College Football Playoff odds, prediction, pick**
 
-You can read more about it [here](https://variety.com/2024/film/box-office/box-office-sonic-3-beats-mufasa-lion-king-opening-day-1236256892/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/texas-vs-clemson-live-stream-where-to-watch-tv-channel-college-football-playoff-odds-prediction-pick/).
 
 ## Requirements
 - Python 3.8
