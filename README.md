@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Cyclone Chido's devastation of Mayotte was immediate and decades coming**
+**Five takeaways from Florida’s Gasparilla Bowl Game victory over Tulane**
 
-You can read more about it [here](https://apnews.com/article/mayotte-cyclone-photos-dad1e05aea1ec1de518fec9b2b0fbef1).
+You can read more about it [here](https://www.gatorcountry.com/feature/five-takeaways-from-floridas-gasparilla-bowl-game-victory-over-tulane/).
 
 ## Requirements
 - Python 3.8
