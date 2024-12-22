@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Scientists observe 'negative time' in quantum experiments**
+**The 50 Best Indie Rock Albums of 2024**
 
-You can read more about it [here](https://phys.org/news/2024-12-scientists-negative-quantum.html).
+You can read more about it [here](http://www.rollingstone.com/music/music-lists/best-indie-rock-albums-2024-1235189650/).
 
 ## Requirements
 - Python 3.8
