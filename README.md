@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**38 people die in a crash between a passenger bus and a truck in Brazil**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.cnn.com/2024/12/21/americas/bus-crash-brazil-minas-gerais-latam/index.html).
 
 ## Requirements
 - Python 3.8
