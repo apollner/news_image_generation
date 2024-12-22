@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**38 people die in a crash between a passenger bus and a truck in Brazil**
+**Senate review of Supreme Court ethics finds more luxury trips and urges enforceable code of conduct**
 
-You can read more about it [here](https://www.cnn.com/2024/12/21/americas/bus-crash-brazil-minas-gerais-latam/index.html).
+You can read more about it [here](https://apnews.com/article/supreme-court-ethics-clarence-thomas-billionaire-democrats-senate-5669f8f02b843be31d474a075cd50666).
 
 ## Requirements
 - Python 3.8
