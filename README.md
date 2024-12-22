@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**How a government shutdown could affect your travel plans**
+**ICE report showing more deportations 'too little, too late' for Biden**
 
-You can read more about it [here](https://www.washingtonpost.com/travel/2024/12/20/government-shutdown-flights-tsa-passports/).
+You can read more about it [here](https://ktul.com/news/nation-world/ice-figures-encouraging-biden-doesnt-get-credit-for-putting-out-a-fire-he-started-border-security-immigration-policy-trump-mass-deportations).
 
 ## Requirements
 - Python 3.8
