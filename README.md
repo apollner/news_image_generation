@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rapid spread of H5N1 bird flu through California dairy herds suggests unknown paths of transmission**
+**Delphi murders: Richard Allen sentenced to 130 years for Indiana deaths**
 
-You can read more about it [here](https://www.statnews.com/2024/12/20/california-h5n1-bird-flu-emergency-declaration-avian-flu-spread-dairy-cattle/).
+You can read more about it [here](https://www.bbc.com/news/articles/c140px43yy5o).
 
 ## Requirements
 - Python 3.8
