@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Guest column | Soon after delivering my baby, I had a stroke. It’s not that uncommon.**
+**[Removed]**
 
-You can read more about it [here](https://www.washingtonpost.com/wellness/2024/12/21/postpartum-stroke-risk-mother/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
