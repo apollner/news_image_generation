@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Last-minute budget bill to prevent US government shutdown prevails in House**
+**Barack Obama’s Top 10 Movies of 2024 Includes ‘Anora,’ ‘Dune: Part Two,’ ‘A Complete Unknown’ and More**
 
-You can read more about it [here](https://www.aljazeera.com/news/2024/12/20/last-minute-budget-bill-to-prevent-us-government-shutdown-prevails-in-house).
+You can read more about it [here](https://variety.com/2024/film/news/barack-obama-favorite-movies-2024-dune-anora-1236256721/).
 
 ## Requirements
 - Python 3.8
