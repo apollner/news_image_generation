@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Johnson hits unsteady point of his speakership at the worst time**
+**Cyclone Chido's devastation of Mayotte was immediate and decades coming**
 
-You can read more about it [here](https://www.politico.com/news/2024/12/20/johnson-unsteady-speakership-time-00195784).
+You can read more about it [here](https://apnews.com/article/mayotte-cyclone-photos-dad1e05aea1ec1de518fec9b2b0fbef1).
 
 ## Requirements
 - Python 3.8
