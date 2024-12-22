@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Durbin uses new report to accuse Justices Thomas and Alito of violating disclosure laws**
+**Oleksandr Usyk vs. Tyson Fury 2: Live round-by-round updates**
 
-You can read more about it [here](https://www.cnn.com/2024/12/21/politics/durbin-report-thomas-alito-disclosure-laws-supreme-court/index.html).
+You can read more about it [here](https://www.mmafighting.com/2024/12/21/24325969/oleksandr-usyk-vs-tyson-fury-2-live-round-by-round-updates).
 
 ## Requirements
 - Python 3.8
