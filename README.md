@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**In the new ‘Lion King’ prequel, she’s the future queen**
+**Chiefs activate Hollywood Brown**
 
-You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2024/12/20/mufasa-tiffany-boone-lion-king/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-activate-hollywood-brown).
 
 ## Requirements
 - Python 3.8
