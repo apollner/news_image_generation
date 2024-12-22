@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**NASA solar probe to fly closer to sun than any human-made object**
+**How casting makes this 'Gypsy' hit different**
 
-You can read more about it [here](https://www.nbcnews.com/science/space/nasa-parker-solar-probe-fly-close-sun-rcna184500).
+You can read more about it [here](https://www.npr.org/2024/12/16/nx-s1-5226924/gypsy-audra-mcdonald-broadway).
 
 ## Requirements
 - Python 3.8
