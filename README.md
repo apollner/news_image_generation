@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**California backyard chicken owners worried for flock's safety amid avian flu**
+**Guest column | Soon after delivering my baby, I had a stroke. It’s not that uncommon.**
 
-You can read more about it [here](https://www.kcra.com/article/backyard-chicken-owners-bird-flu/63253364).
+You can read more about it [here](https://www.washingtonpost.com/wellness/2024/12/21/postpartum-stroke-risk-mother/).
 
 ## Requirements
 - Python 3.8
