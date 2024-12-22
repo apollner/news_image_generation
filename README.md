@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Chiefs activate Hollywood Brown**
+**Last-minute budget bill to prevent US government shutdown prevails in House**
 
-You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-activate-hollywood-brown).
+You can read more about it [here](https://www.aljazeera.com/news/2024/12/20/last-minute-budget-bill-to-prevent-us-government-shutdown-prevails-in-house).
 
 ## Requirements
 - Python 3.8
