@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Delphi murders: Richard Allen sentenced to 130 years for Indiana deaths**
+**Chicago school board fires Chicago Public Schools CEO Pedro Martinez after months of tension**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c140px43yy5o).
+You can read more about it [here](https://www.chalkbeat.org/chicago/2024/12/21/board-of-education-fires-pedro-martinez/).
 
 ## Requirements
 - Python 3.8
