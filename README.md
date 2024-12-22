@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**ICE report showing more deportations 'too little, too late' for Biden**
+**Johnson hits unsteady point of his speakership at the worst time**
 
-You can read more about it [here](https://ktul.com/news/nation-world/ice-figures-encouraging-biden-doesnt-get-credit-for-putting-out-a-fire-he-started-border-security-immigration-policy-trump-mass-deportations).
+You can read more about it [here](https://www.politico.com/news/2024/12/20/johnson-unsteady-speakership-time-00195784).
 
 ## Requirements
 - Python 3.8
