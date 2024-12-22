@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate Democrats blast Supreme Court's 'ethical crisis' as investigation concludes**
+**Kirk Cousins expected to be released by Falcons before $10M bonus hits**
 
-You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-democrats-blast-supreme-courts-ethical-crisis-investigation-rcna184987).
+You can read more about it [here](https://nypost.com/2024/12/21/sports/kirk-cousins-expected-to-be-released-by-falcons-before-10m-bonus-hits/).
 
 ## Requirements
 - Python 3.8
