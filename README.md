@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barack Obama’s Top 10 Movies of 2024 Includes ‘Anora,’ ‘Dune: Part Two,’ ‘A Complete Unknown’ and More**
+**Notre Dame vs. Indiana score: Live game updates, College Football Playoff scores, first-round coverage**
 
-You can read more about it [here](https://variety.com/2024/film/news/barack-obama-favorite-movies-2024-dune-anora-1236256721/).
+You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-indiana-score-live-game-updates-college-football-playoff-scores-first-round-coverage/live/).
 
 ## Requirements
 - Python 3.8
