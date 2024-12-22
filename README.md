@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Missouri governor frees Eric DeValkenaere, first KC cop convicted of killing a Black man**
+**Barack Obama shares 2024 favorites: Sally Rooney, 'Dune: Part Two' make the list**
 
-You can read more about it [here](https://www.kansascity.com/news/local/crime/article277065808.html).
+You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/12/20/barack-obama-favorites-2024/77105982007/).
 
 ## Requirements
 - Python 3.8
