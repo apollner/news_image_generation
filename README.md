@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Two Oregon Party City locations to close as company ceases operations**
+**Missouri governor frees Eric DeValkenaere, first KC cop convicted of killing a Black man**
 
-You can read more about it [here](https://katu.com/news/local/two-oregon-party-city-locations-to-close-as-company-ceases-operations).
+You can read more about it [here](https://www.kansascity.com/news/local/crime/article277065808.html).
 
 ## Requirements
 - Python 3.8
