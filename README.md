@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Sega considering Netflix-like game subscription service**
+**Durbin uses new report to accuse Justices Thomas and Alito of violating disclosure laws**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckgnj7e8028o).
+You can read more about it [here](https://www.cnn.com/2024/12/21/politics/durbin-report-thomas-alito-disclosure-laws-supreme-court/index.html).
 
 ## Requirements
 - Python 3.8
