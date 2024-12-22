@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Oleksandr Usyk vs. Tyson Fury 2: Live round-by-round updates**
+**[Removed]**
 
-You can read more about it [here](https://www.mmafighting.com/2024/12/21/24325969/oleksandr-usyk-vs-tyson-fury-2-live-round-by-round-updates).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
