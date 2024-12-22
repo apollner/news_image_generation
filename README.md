@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Barack Obama shares 2024 favorites: Sally Rooney, 'Dune: Part Two' make the list**
+**Sega considering Netflix-like game subscription service**
 
-You can read more about it [here](https://www.usatoday.com/story/entertainment/celebrities/2024/12/20/barack-obama-favorites-2024/77105982007/).
+You can read more about it [here](https://www.bbc.com/news/articles/ckgnj7e8028o).
 
 ## Requirements
 - Python 3.8
