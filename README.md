@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Italy's deputy PM Salvini faces verdict in migrant rescue boat kidnap trial**
+**Senate Democrats blast Supreme Court's 'ethical crisis' as investigation concludes**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c86w4ye36jno).
+You can read more about it [here](https://www.nbcnews.com/politics/congress/senate-democrats-blast-supreme-courts-ethical-crisis-investigation-rcna184987).
 
 ## Requirements
 - Python 3.8
