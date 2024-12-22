@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Key ally propping up Canada's Trudeau says he will vote to topple him**
+**In the new ‘Lion King’ prequel, she’s the future queen**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c4glpxpke91o).
+You can read more about it [here](https://www.washingtonpost.com/entertainment/movies/2024/12/20/mufasa-tiffany-boone-lion-king/).
 
 ## Requirements
 - Python 3.8
