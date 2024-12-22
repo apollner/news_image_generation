@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**When a teen's medication stopped working, he decided to try a surgery that could stop his episodes for good**
+**Scientists observe 'negative time' in quantum experiments**
 
-You can read more about it [here](https://www.cbsnews.com/news/seizures-epilepsy-misdiagnosis-isaac-klapper-cleveland-clinic/).
+You can read more about it [here](https://phys.org/news/2024-12-scientists-negative-quantum.html).
 
 ## Requirements
 - Python 3.8
