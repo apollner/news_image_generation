@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Notre Dame vs. Indiana score: Live game updates, College Football Playoff scores, first-round coverage**
+**Rapid spread of H5N1 bird flu through California dairy herds suggests unknown paths of transmission**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/notre-dame-vs-indiana-score-live-game-updates-college-football-playoff-scores-first-round-coverage/live/).
+You can read more about it [here](https://www.statnews.com/2024/12/20/california-h5n1-bird-flu-emergency-declaration-avian-flu-spread-dairy-cattle/).
 
 ## Requirements
 - Python 3.8
