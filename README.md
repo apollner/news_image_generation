@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Kirk Cousins expected to be released by Falcons before $10M bonus hits**
+**NASA solar probe to fly closer to sun than any human-made object**
 
-You can read more about it [here](https://nypost.com/2024/12/21/sports/kirk-cousins-expected-to-be-released-by-falcons-before-10m-bonus-hits/).
+You can read more about it [here](https://www.nbcnews.com/science/space/nasa-parker-solar-probe-fly-close-sun-rcna184500).
 
 ## Requirements
 - Python 3.8
