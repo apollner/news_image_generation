@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate review of Supreme Court ethics finds more luxury trips and urges enforceable code of conduct**
+**Nine photos of Travis Kelce and Taylor Swift from Chiefs-Texans game**
 
-You can read more about it [here](https://apnews.com/article/supreme-court-ethics-clarence-thomas-billionaire-democrats-senate-5669f8f02b843be31d474a075cd50666).
+You can read more about it [here](https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article297429853.html).
 
 ## Requirements
 - Python 3.8
