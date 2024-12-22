@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Nine photos of Travis Kelce and Taylor Swift from Chiefs-Texans game**
+**Box Office: ‘Sonic the Hedgehog 3’ Dashes to $25 Million Opening Day, ‘Mufasa: The Lion King’ Trails With $13.3 Million**
 
-You can read more about it [here](https://www.kansascity.com/sports/spt-columns-blogs/for-petes-sake/article297429853.html).
+You can read more about it [here](https://variety.com/2024/film/box-office/box-office-sonic-3-beats-mufasa-lion-king-opening-day-1236256892/).
 
 ## Requirements
 - Python 3.8
