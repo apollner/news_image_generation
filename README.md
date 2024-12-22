@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Five takeaways from Florida’s Gasparilla Bowl Game victory over Tulane**
+**Two Oregon Party City locations to close as company ceases operations**
 
-You can read more about it [here](https://www.gatorcountry.com/feature/five-takeaways-from-floridas-gasparilla-bowl-game-victory-over-tulane/).
+You can read more about it [here](https://katu.com/news/local/two-oregon-party-city-locations-to-close-as-company-ceases-operations).
 
 ## Requirements
 - Python 3.8
