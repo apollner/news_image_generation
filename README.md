@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**Blake Lively sues 'It Ends With Us' co-star Justin Baldoni for sexual harassment, campaign to 'destroy' her reputation**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://nypost.com/2024/12/21/entertainment/blake-lively-sues-it-ends-with-us-co-star-justin-baldoni-for-sexual-harassment-campaign-to-destroy-reputation/).
 
 ## Requirements
 - Python 3.8
