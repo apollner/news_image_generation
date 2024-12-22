@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Ravens cut Diontae Johnson to end disastrous post-trade marriage**
+**Chiefs activate Hollywood Brown**
 
-You can read more about it [here](https://nypost.com/2024/12/20/sports/ravens-cut-diontae-johnson-to-end-disastrous-post-trade-marriage/).
+You can read more about it [here](https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chiefs-activate-hollywood-brown).
 
 ## Requirements
 - Python 3.8
