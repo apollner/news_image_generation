@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**4 Ups & 3 Downs From WWE SmackDown (20 Dec - Results & Review)**
+**When a teen's medication stopped working, he decided to try a surgery that could stop his episodes for good**
 
-You can read more about it [here](https://whatculture.com/wwe/4-ups-3-downs-from-wwe-smackdown-20-dec-results-review).
+You can read more about it [here](https://www.cbsnews.com/news/seizures-epilepsy-misdiagnosis-isaac-klapper-cleveland-clinic/).
 
 ## Requirements
 - Python 3.8
