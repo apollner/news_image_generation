@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Car slams into Christmas market in Germany, killing 2 and injuring dozens**
+**How a government shutdown could affect your travel plans**
 
-You can read more about it [here](https://www.washingtonpost.com/world/2024/12/20/germany-christmas-market-car-crash-magdeburg/).
+You can read more about it [here](https://www.washingtonpost.com/travel/2024/12/20/government-shutdown-flights-tsa-passports/).
 
 ## Requirements
 - Python 3.8
