@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**'Saturday Night Live' Brings In Tom Hanks, Tina Fey And More To Induct Martin Short To "Five-Timers Club"**
+**China says US is ‘playing with fire’ after latest military aid for Taiwan**
 
-You can read more about it [here](http://deadline.com/2024/12/saturday-night-live-five-timers-club-martin-short-1236240283/).
+You can read more about it [here](https://apnews.com/article/china-taiwan-us-military-arms-sales-89a657717d0ef2d0565726d141a530a3).
 
 ## Requirements
 - Python 3.8
