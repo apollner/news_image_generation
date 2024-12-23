@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**[Removed]**
+**I'm A Colorectal Cancer Doctor — Here Are 5 Things I'd Never, Ever Do**
 
-You can read more about it [here](https://removed.com).
+You can read more about it [here](https://www.buzzfeed.com/juliaries/colorectal-cancer-doctor-5-things-not-to-do-sc).
 
 ## Requirements
 - Python 3.8
