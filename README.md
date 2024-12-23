@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon protest expands in N.Y. as union hopes to disrupt holiday deliveries**
+**Houthi missile fired from Yemen strikes Tel Aviv, causing minor injuries**
 
-You can read more about it [here](https://www.washingtonpost.com/business/2024/12/21/amazon-strike-expands-delivery-delays/).
+You can read more about it [here](https://www.washingtonpost.com/world/2024/12/21/israel-syria-war-news-hamas-gaza-palestine-yemen/).
 
 ## Requirements
 - Python 3.8
