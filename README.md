@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Blake Lively accuses It Ends With Us co-star Justin Baldoni of smear campaign**
+**Amazon protest expands in N.Y. as union hopes to disrupt holiday deliveries**
 
-You can read more about it [here](https://www.bbc.com/news/articles/ckgz1pp1ne8o).
+You can read more about it [here](https://www.washingtonpost.com/business/2024/12/21/amazon-strike-expands-delivery-delays/).
 
 ## Requirements
 - Python 3.8
