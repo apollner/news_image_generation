@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches second mid-inclination rideshare mission**
+**2 Navy pilots shot down over Red Sea in 'friendly fire' incident: Military**
 
-You can read more about it [here](http://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/).
+You can read more about it [here](https://abcnews.go.com/International/2-navy-pilots-shot-red-sea-friendly-fire/story?id\\u003d117025025).
 
 ## Requirements
 - Python 3.8
