@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lara Trump withdraws name from consideration for open Fla. Senate — and teases “big announcement”**
+**2 Navy pilots shot down over Red Sea in 'friendly fire' incident: Military**
 
-You can read more about it [here](https://nypost.com/2024/12/21/us-news/lara-trump-withdraws-name-from-consideration-for-marco-rubios-us-senate-seat-in-florida/).
+You can read more about it [here](https://abcnews.go.com/International/2-navy-pilots-shot-red-sea-friendly-fire/story?id\\u003d117025025).
 
 ## Requirements
 - Python 3.8
