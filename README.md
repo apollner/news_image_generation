@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Rocket from Yemen injures 16 in Tel Aviv, while Gazans mourn 12 children killed by Israeli strikes**
+**SpaceX launches second mid-inclination rideshare mission**
 
-You can read more about it [here](https://www.pbs.org/newshour/world/rocket-from-yemen-injures-16-in-tel-aviv-while-gazans-mourn-12-children-killed-by-israeli-strikes).
+You can read more about it [here](http://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/).
 
 ## Requirements
 - Python 3.8
