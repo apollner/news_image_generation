@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he might demand Panama hand over canal**
+**2 Navy pilots shot down over Red Sea in 'friendly fire' incident: Military**
 
-You can read more about it [here](https://www.reuters.com/world/americas/trump-says-he-might-demand-panama-hand-over-canal-2024-12-22/).
+You can read more about it [here](https://abcnews.go.com/International/2-navy-pilots-shot-red-sea-friendly-fire/story?id\\u003d117025025).
 
 ## Requirements
 - Python 3.8
