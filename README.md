@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Senate approves Social Security change despite fiscal concerns**
+**5 injured after a fleeing driver crashes into a JCPenney at a Texas mall, police say. The suspect is dead**
 
-You can read more about it [here](https://www.reuters.com/world/us/us-senate-approves-social-security-change-despite-fiscal-concerns-2024-12-21/).
+You can read more about it [here](https://www.cnn.com/2024/12/21/us/killeen-mall-texas-crash/index.html).
 
 ## Requirements
 - Python 3.8
