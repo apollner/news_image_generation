@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Texas vs. Clemson live stream, where to watch, TV channel, College Football Playoff odds, prediction, pick**
+**[Removed]**
 
-You can read more about it [here](https://www.cbssports.com/college-football/news/texas-vs-clemson-live-stream-where-to-watch-tv-channel-college-football-playoff-odds-prediction-pick/).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
