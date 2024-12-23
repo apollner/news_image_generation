@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**China says US is ‘playing with fire’ after latest military aid for Taiwan**
+**Amazon and Starbucks workers are on strike. Trump might have something to do with it**
 
-You can read more about it [here](https://apnews.com/article/china-taiwan-us-military-arms-sales-89a657717d0ef2d0565726d141a530a3).
+You can read more about it [here](https://www.whec.com/top-news/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it-3/).
 
 ## Requirements
 - Python 3.8
