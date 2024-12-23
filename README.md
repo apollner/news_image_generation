@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Questions mount in Germany over deadly Christmas market attack as suspect appears in court**
+**Jeff Bezos to Tie the Knot With Lauren Sanchez in $600 Million Wedding Next Weekend**
 
-You can read more about it [here](https://www.cnn.com/2024/12/22/europe/german-market-attack-suspect-court-intl/index.html).
+You can read more about it [here](https://www.thedailybeast.com/jeff-bezos-to-tie-the-knot-with-lauren-sanchez-in-600-million-wedding-next-weekend/).
 
 ## Requirements
 - Python 3.8
