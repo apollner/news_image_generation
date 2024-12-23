@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**One Surprising Psychosis Treatment That Works: Learning to Live With the Voices**
+**Rocket from Yemen injures 16 in Tel Aviv, while Gazans mourn 12 children killed by Israeli strikes**
 
-You can read more about it [here](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7).
+You can read more about it [here](https://www.pbs.org/newshour/world/rocket-from-yemen-injures-16-in-tel-aviv-while-gazans-mourn-12-children-killed-by-israeli-strikes).
 
 ## Requirements
 - Python 3.8
