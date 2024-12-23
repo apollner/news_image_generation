@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**2 Navy pilots shot down over Red Sea in 'friendly fire' incident: Military**
+**[Removed]**
 
-You can read more about it [here](https://abcnews.go.com/International/2-navy-pilots-shot-red-sea-friendly-fire/story?id\\u003d117025025).
+You can read more about it [here](https://removed.com).
 
 ## Requirements
 - Python 3.8
