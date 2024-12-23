@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Amazon and Starbucks workers are on strike. Trump might have something to do with it**
+**Questions mount in Germany over deadly Christmas market attack as suspect appears in court**
 
-You can read more about it [here](https://www.whec.com/top-news/amazon-and-starbucks-workers-are-on-strike-trump-might-have-something-to-do-with-it-3/).
+You can read more about it [here](https://www.cnn.com/2024/12/22/europe/german-market-attack-suspect-court-intl/index.html).
 
 ## Requirements
 - Python 3.8
