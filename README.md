@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**5 injured after a fleeing driver crashes into a JCPenney at a Texas mall, police say. The suspect is dead**
+**Lara Trump withdraws name from consideration for Florida Senate seat**
 
-You can read more about it [here](https://www.cnn.com/2024/12/21/us/killeen-mall-texas-crash/index.html).
+You can read more about it [here](https://www.bbc.com/news/articles/c20npx58nnxo).
 
 ## Requirements
 - Python 3.8
