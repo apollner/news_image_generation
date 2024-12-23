@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Trump says he might demand Panama hand over canal**
+**'Saturday Night Live' Brings In Tom Hanks, Tina Fey And More To Induct Martin Short To "Five-Timers Club"**
 
-You can read more about it [here](https://www.reuters.com/world/americas/trump-says-he-might-demand-panama-hand-over-canal-2024-12-22/).
+You can read more about it [here](http://deadline.com/2024/12/saturday-night-live-five-timers-club-martin-short-1236240283/).
 
 ## Requirements
 - Python 3.8
