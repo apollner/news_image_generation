@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**SpaceX launches second mid-inclination rideshare mission**
+**One Surprising Psychosis Treatment That Works: Learning to Live With the Voices**
 
-You can read more about it [here](http://spacenews.com/spacex-launches-second-mid-inclination-rideshare-mission/).
+You can read more about it [here](https://www.wsj.com/health/schizophrenia-treatment-psychosis-cure-957b02f7).
 
 ## Requirements
 - Python 3.8
