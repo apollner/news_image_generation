@@ -9,9 +9,9 @@ Below is the latest generated image:
 ## Latest News Headline
 The latest news headline used to generate the image is:
 
-**Lara Trump withdraws name from consideration for Florida Senate seat**
+**Blake Lively accuses It Ends With Us co-star Justin Baldoni of smear campaign**
 
-You can read more about it [here](https://www.bbc.com/news/articles/c20npx58nnxo).
+You can read more about it [here](https://www.bbc.com/news/articles/ckgz1pp1ne8o).
 
 ## Requirements
 - Python 3.8
